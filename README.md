@@ -2397,6 +2397,8 @@
 
 ## Go 
 
+- [zchee/clang-server](https://github.com/zchee/clang-server) - A C/C++ AST index server using libclang and flatbuffers written in Go
+- [tweekmonster/luser](https://github.com/tweekmonster/luser) - Drop-in replacement for os/user in Go
 - [anqiansong/github-compare](https://github.com/anqiansong/github-compare) - A GitHub repositories statistics command-line tool for the terminal
 - [kevwan/stargazers](https://github.com/kevwan/stargazers) - Monitor star changes of GitHub repo, and send the notification to slack or lark.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
@@ -3139,6 +3141,13 @@
 
 ## Lua 
 
+- [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) - Simple directory browser for Neovim
+- [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
+- [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
+- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
+- [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management for Neovim.
+- [talha-akram/anvil](https://github.com/talha-akram/anvil) - A highly adaptable Neovim configuration focused on providing a great development experience while being easy to extend and maintain.
+- [orbitalquark/lua-yottadb](https://github.com/orbitalquark/lua-yottadb) - Lua bindings for YottaDB
 - [LunarVim/onedarker.nvim](https://github.com/LunarVim/onedarker.nvim) - Onedark inspired colorscheme written in lua.
 - [LunarVim/Colorschemes](https://github.com/LunarVim/Colorschemes) - Collection of colorschemes made to be compatible with LunarVim
 - [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim) - 
@@ -3350,7 +3359,6 @@
 - [EvandroLG/immutable](https://github.com/EvandroLG/immutable) - `immutable` is a tiny library that makes easy to work with immutable data
 - [EvandroLG/cdn-up-and-running](https://github.com/EvandroLG/cdn-up-and-running) - CDN Up and Running - an introduction about how modern CDNs works
 - [EvandroLG/Hash.lua](https://github.com/EvandroLG/Hash.lua) - Library with useful methods to handle Lua's table when it's working as a Hash.
-- [lewis6991/vim-dirvish](https://github.com/lewis6991/vim-dirvish) - Directory viewer for Vim :zap:
 - [lewis6991/cleanfold.nvim](https://github.com/lewis6991/cleanfold.nvim) - Minimalist fold text
 - [robertgzr/lsp_status](https://github.com/robertgzr/lsp_status) - neovim plugin to retrieve the name of the running LSP client(s) and display a spinner when a job is in progress
 - [tzachar/cmp-tabnine](https://github.com/tzachar/cmp-tabnine) - TabNine plugin for hrsh7th/nvim-cmp
@@ -4181,7 +4189,7 @@
 - [hkupty/daedalus.nvim](https://github.com/hkupty/daedalus.nvim) - In order to call great APIs, we need great API clients.
 - [hkupty/classifier.nvim](https://github.com/hkupty/classifier.nvim) - Filetype to/from extension mapping
 - [hkupty/pointer.nvim](https://github.com/hkupty/pointer.nvim) - Quickly share the reference to a point in your file
-- [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) - It's a real machine
+- [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) - ...
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme for neovim
 - [RishabhRD/nvim-finder](https://github.com/RishabhRD/nvim-finder) - A highly extensible fuzzy finder neovim extension based on popfix fuzzy engine.
