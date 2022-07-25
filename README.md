@@ -3141,6 +3141,7 @@
 
 ## Lua 
 
+- [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
 - [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) - Simple directory browser for Neovim
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
@@ -3245,7 +3246,6 @@
 - [moteus/zbs-package](https://github.com/moteus/zbs-package) - Packages for ZeroBraneStudio
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
 - [sumneko/lua-fuck-5.1](https://github.com/sumneko/lua-fuck-5.1) - Lua 5.1 API compatible for higher version Lua
-- [aloussase/telescope-gradle.nvim](https://github.com/aloussase/telescope-gradle.nvim) - Telescope extension to run gradle tasks
 - [shaunsingh/flatwhite.nvim](https://github.com/shaunsingh/flatwhite.nvim) - 
 - [shaunsingh/doom-vibrant.nvim](https://github.com/shaunsingh/doom-vibrant.nvim) - Port of the doom-vibrant theme for neovim
 - [shaunsingh/seoul256.nvim](https://github.com/shaunsingh/seoul256.nvim) - 
@@ -4016,7 +4016,7 @@
 - [novakne/kosmikoa.nvim](https://github.com/novakne/kosmikoa.nvim) - A dark color scheme for Neovim with support for LSP, Treesitter. This mirror is deprecated. Use the repo at https://sr.ht/~novakane/kosmikoa.nvim/
 - [novakne/dotfiles](https://github.com/novakne/dotfiles) - Go here for up to date https://git.sr.ht/~novakane/dotfiles
 - [williamboman/nvim-config](https://github.com/williamboman/nvim-config) - My neovim config files
-- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support! Further development has moved to https://github.com/williamboman/mason.nvim!
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -5337,6 +5337,7 @@
 
 ## Python 
 
+- [deoplete-plugins/deoplete-clang](https://github.com/deoplete-plugins/deoplete-clang) - deoplete.nvim source for C/C++/Obj-C/Obj-C++ with clang-python3
 - [supakeen/pinnwand](https://github.com/supakeen/pinnwand) - A Python pastebin that tries to keep it simple.
 - [Aadv1k/gdoc.vim](https://github.com/Aadv1k/gdoc.vim) - Google docs integration for vim
 - [Abstract-IDE/LCommit](https://github.com/Abstract-IDE/LCommit) - get repositories's last/latest commit hash
