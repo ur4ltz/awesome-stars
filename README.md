@@ -2159,7 +2159,7 @@
 - [rdallasgray/graphene](https://github.com/rdallasgray/graphene) - A set of defaults for Emacs, for refugees from GUI text editors.
 - [xiaohanyu/oh-my-emacs](https://github.com/xiaohanyu/oh-my-emacs) - [Stopped] Provide an awesome, out-of-box, literate dotemacs for both newbies and nerds.
 - [abo-abo/oremacs](https://github.com/abo-abo/oremacs) - My Emacs config
-- [hlissner/doom-emacs-private](https://github.com/hlissner/doom-emacs-private) - My private config for Doom Emacs
+- [hlissner/.doom.d](https://github.com/hlissner/.doom.d) - My private config for Doom Emacs
 - [juba/color-theme-tangotango](https://github.com/juba/color-theme-tangotango) - An emacs color theme based on the tango palette colors
 - [doomemacs/themes](https://github.com/doomemacs/themes) - A megapack of themes for GNU Emacs.
 - [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
@@ -3141,6 +3141,15 @@
 
 ## Lua 
 
+- [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
+- [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) - Neovim plugin that prevent cursor from moving when using shift and filter actions.
+- [anuvyklack/fold-preview.nvim](https://github.com/anuvyklack/fold-preview.nvim) - Preview folds in float window
+- [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
+- [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) - 
+- [zakharykaplan/nvim-retrail](https://github.com/zakharykaplan/nvim-retrail) - Whitespace management for Neovim
+- [Yazeed1s/minimal.nvim](https://github.com/Yazeed1s/minimal.nvim) - 
+- [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
+- [maxmx03/solarized.nvim](https://github.com/maxmx03/solarized.nvim) - solarized colorscheme port for neovim
 - [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
 - [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) - Simple directory browser for Neovim
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
@@ -4521,7 +4530,6 @@
 - [zhaozg/neospace](https://github.com/zhaozg/neospace) - 
 - [javalikescript/lua-webview](https://github.com/javalikescript/lua-webview) - Webview from Lua
 - [vigoux/templar.nvim](https://github.com/vigoux/templar.nvim) - A dead simple template manager for neovim written in lua
-- [sparkcanon/nvim](https://github.com/sparkcanon/nvim) - Personal Neovim configuration
 - [seifferth/vis-editorconfig](https://github.com/seifferth/vis-editorconfig) - An editorconfig plugin for the vis text editor
 - [pkulchenko/ZeroBraneEduPack](https://github.com/pkulchenko/ZeroBraneEduPack) - A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 - [shmuz/far_plugins](https://github.com/shmuz/far_plugins) - 
@@ -6061,6 +6069,7 @@
 
 ## Rust 
 
+- [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
@@ -6387,7 +6396,7 @@
 - [voidsampaiaovoid/polybar-aesthetic](https://github.com/voidsampaiaovoid/polybar-aesthetic) - 
 - [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - An informative Bash prompt
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
-- [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [changyuheng/fz.sh](https://github.com/changyuheng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [ecosse3/dotfiles](https://github.com/ecosse3/dotfiles) - Dotfiles for my awesomewm/i3 Arch setup & neovim
 - [sonph/dotfiles](https://github.com/sonph/dotfiles) - My .files
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
@@ -7689,6 +7698,7 @@
 - [vigoux/dotfiles](https://github.com/vigoux/dotfiles) - Personnal dotfiles and scripts
 - [vigoux/LanguageTool.nvim](https://github.com/vigoux/LanguageTool.nvim) - An asynchronous grammar checker for Neovim using LanguageTool
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
+- [sparkcanon/nvim](https://github.com/sparkcanon/nvim) - Personal Neovim configuration
 - [vimoutliner/vimoutliner](https://github.com/vimoutliner/vimoutliner) - Work fast, think well.
 - [mjlbach/cli_customization_script](https://github.com/mjlbach/cli_customization_script) - Up your vim game with sane defaults and nice plugins
 - [zzzachzzz/dotfiles](https://github.com/zzzachzzz/dotfiles) - Dotfiles for Vim, Tmux, Zsh, VSCode, Sublime
@@ -8196,7 +8206,7 @@
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [wenlongche/SrcExpl](https://github.com/wenlongche/SrcExpl) - A (G)Vim plugin for exploring the source code definition(s) and contextual lines with a split window.
 - [wenlongche/Trinity](https://github.com/wenlongche/Trinity) - A (G)Vim plugin which build the trinity of Source Explorer, TagList and NERD tree to be an IDE for software development.
-- [changyuheng/color-scheme-holokai-for-vim](https://github.com/changyuheng/color-scheme-holokai-for-vim) - 
+- [changyuheng/color-scheme-holokai.vim](https://github.com/changyuheng/color-scheme-holokai.vim) - 
 - [tomasr/molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [xuhdev/SingleCompile](https://github.com/xuhdev/SingleCompile) - A Vim plugin making it more convenient to compile or run a single source file.
 - [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
