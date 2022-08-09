@@ -178,7 +178,7 @@
 - [vysheng/tgl](https://github.com/vysheng/tgl) - telegram library
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
-- [NTBBloodbath/tree-sitter-http](https://github.com/NTBBloodbath/tree-sitter-http) - HTTP grammar for tree-sitter
+- [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
 - [vhyrro/tree-sitter-luap](https://github.com/vhyrro/tree-sitter-luap) - TreeSitter Grammar for Lua's Regex-Like Patterns
 - [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [mcjsk/fnc](https://github.com/mcjsk/fnc) - An interactive ncurses browser for Fossil repositories [MIRROR ONLY]
@@ -1958,6 +1958,7 @@
 - [alphapapa/bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [mrmekon/snitch-el](https://github.com/mrmekon/snitch-el) - Firewall for emacs.
+- [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [66RING/ringemacs](https://github.com/66RING/ringemacs) - 
 - [TheBB/company-reftex](https://github.com/TheBB/company-reftex) - RefTeX backends for company-mode
 - [The-Compiler/dotfiles](https://github.com/The-Compiler/dotfiles) - New config file repo
@@ -2336,7 +2337,7 @@
 
 ## F# # 
 
-- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Markdown LSP server providing completion, cross-references, diagnostics, and more.
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
 
 ## Fennel 
@@ -3921,7 +3922,7 @@
 - [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim) - Integrates vim-bookmarks into telescope.nvim
 - [xmake-io/luarocks-build-xmake](https://github.com/xmake-io/luarocks-build-xmake) - A luarocks build module based on xmake
-- [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim http client written in Lua
+- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua
 - [luvit/lit](https://github.com/luvit/lit) - Toolkit for developing, sharing, and running luvit/lua programs and libraries.
 - [andremm/typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua
 - [euclidianAce/Scryfall-Image-Downloader](https://github.com/euclidianAce/Scryfall-Image-Downloader) - 
@@ -6477,7 +6478,6 @@
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [halkn/dotfiles](https://github.com/halkn/dotfiles) - 
-- [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [bew/dotfiles](https://github.com/bew/dotfiles) - All my dotfiles in one place!
 - [DanCardin/dotfiles](https://github.com/DanCardin/dotfiles) - 
 - [66RING/dotfiles](https://github.com/66RING/dotfiles) - My dotfiles
