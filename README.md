@@ -2346,7 +2346,7 @@
 - [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A unified, minimal, extensible interface for lightning-fast movements in the visible editor area
-- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel and Rust. Base config for users to extend and add upon, leading to a more unique editing experience. (🚀)
+- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
 - [p00f/mdpreview.nvim](https://github.com/p00f/mdpreview.nvim) - Show markdown previews in a floating window using any terminal previewer of your choice.
 - [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. https://sr.ht/~p00f/godbolt.nvim preferred
@@ -4185,7 +4185,7 @@
 - [anott03/termight.nvim](https://github.com/anott03/termight.nvim) - A simple neovim extension to make managing terminal buffers easier.
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
 - [guillaumecherel/vis-fzf-open](https://github.com/guillaumecherel/vis-fzf-open) - Open files in vis with fzf
-- [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
+- [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [hishamhm/tabular](https://github.com/hishamhm/tabular) - Tabular representation of Lua data
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
