@@ -939,6 +939,7 @@
 
 ## C++ 
 
+- [MoonFox2006/WiFiClock](https://github.com/MoonFox2006/WiFiClock) - Simple WiFi (NTP) clock based on ESP8266 and LED matrix 32*8 on MAX7219
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [ggandor/system-monitor](https://github.com/ggandor/system-monitor) - Bare-bones htop clone based on a Udacity nanodegree project
 - [udacity/CppND-System-Monitor](https://github.com/udacity/CppND-System-Monitor) - Student repository for the CppND OOP course project
@@ -1430,7 +1431,7 @@
 - [timnew/AndroidInfrared](https://github.com/timnew/AndroidInfrared) - 
 - [Briles/gruvbox-atom](https://github.com/Briles/gruvbox-atom) - Atom syntax themes with pastel 'retro groove' colors
 - [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 106 kinds of fantastic fonts!
+- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [sickill/coloration-web](https://github.com/sickill/coloration-web) - Web frontend for Coloration
 - [caddyserver/examples](https://github.com/caddyserver/examples) - OBSOLETE. This repo was for Caddy v1. For v2 and newer, see our forum's wiki category.
 - [gerardroche/sublime-molokai](https://github.com/gerardroche/sublime-molokai) - A port of tomasr/molokai colorscheme for Sublime Text.
@@ -3149,6 +3150,9 @@
 
 ## Lua 
 
+- [simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - almost not wip
+- [gaoDean/bare.nvim](https://github.com/gaoDean/bare.nvim) - A template repository for the most barebones setup function that implements configuration
+- [gaoDean/vimscim.nvim](https://github.com/gaoDean/vimscim.nvim) - small plugin to assist in creating markdown tables
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - 
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
 - [barreiroleo/ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) - Provides external LTeX file handling (off-spec lsp) and other functions.
@@ -3595,7 +3599,7 @@
 - [Frau2015/love2dGames](https://github.com/Frau2015/love2dGames) - practice games made in love2d framework
 - [Frau2015/Conways-Game-of-Life](https://github.com/Frau2015/Conways-Game-of-Life) - Conway's game of life using love2d framework
 - [WaylonWalker/Telegraph.nvim](https://github.com/WaylonWalker/Telegraph.nvim) - Send commands system commands in an elegant way
-- [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim &gt;= 0.5, focused on LSP.
+- [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
@@ -6752,7 +6756,7 @@
 - [netlify/build-image](https://github.com/netlify/build-image) - This is the build image used for running automated builds
 - [MikaelElkiaer/dotfiles](https://github.com/MikaelElkiaer/dotfiles) - 
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
-- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
+- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [dm1try/git_fastfix](https://github.com/dm1try/git_fastfix) - fast git fixups using neovim UI
 - [kyazdani42/dotfiles](https://github.com/kyazdani42/dotfiles) - my dotfiles for a wayland and x11 based linux system
