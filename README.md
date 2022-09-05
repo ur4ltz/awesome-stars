@@ -2357,7 +2357,7 @@
 
 - [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a unified, "precognitive" interface for lightning-fast, effortless movements spanning the whole editor area
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen jumps quicker and more natural than ever
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
 - [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. https://sr.ht/~p00f/godbolt.nvim preferred
@@ -4270,7 +4270,6 @@
 - [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme for neovim
 - [RishabhRD/nvim-finder](https://github.com/RishabhRD/nvim-finder) - A highly extensible fuzzy finder neovim extension based on popfix fuzzy engine.
 - [ttys3/nvim-blamer.lua](https://github.com/ttys3/nvim-blamer.lua) - use https://github.com/lewis6991/gitsigns.nvim instead
-- [kevinhwang91/dotfiles](https://github.com/kevinhwang91/dotfiles) - This is my personal ArchLinux dotfiles.
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
 - [CurtisFenner/luafmt](https://github.com/CurtisFenner/luafmt) - A code formatter for Lua
 - [liquidev/animations](https://github.com/liquidev/animations) - Animations for my YouTube channel, using pan
@@ -4787,6 +4786,7 @@
 - [Neopallium/LuaNativeObjects](https://github.com/Neopallium/LuaNativeObjects) - A Lua bindings generator written in Lua.
 - [salviati/go-qt5](https://github.com/salviati/go-qt5) - qt5 bindings for go
 - [premake/premake-4.x](https://github.com/premake/premake-4.x) - Premake 4
+- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [EvandroLG/pegasus.lua](https://github.com/EvandroLG/pegasus.lua) - :rocket: Pegasus.lua is an http server to work with web applications written in Lua language.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [atercattus/luaghetti](https://github.com/atercattus/luaghetti) - Spaghetti html+lua code templater inside nginx
@@ -6520,7 +6520,6 @@
 - [OmarCastro/i3blocklet-randr-backlight](https://github.com/OmarCastro/i3blocklet-randr-backlight) - i3 blocklet that show the brightness with the ability to change monitor layout and night mode
 - [OmarCastro/i3blocklet-wifi-network-manager](https://github.com/OmarCastro/i3blocklet-wifi-network-manager) - i3blocks blocket to manage connections using network manager
 - [OmarCastro/i3blocklet-pulseaudio](https://github.com/OmarCastro/i3blocklet-pulseaudio) - i3 blocket that shows that controls the volume using pulse audio
-- [glepnir/dotfiles](https://github.com/glepnir/dotfiles) - my personal dotfiles mac
 - [fogine/rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
 - [yriveiro/zsh-files](https://github.com/yriveiro/zsh-files) - Custom ZSH configuration
 - [chimay/scripts](https://github.com/chimay/scripts) - Useful scripts
@@ -6555,6 +6554,7 @@
 - [erictleung/dotfiles](https://github.com/erictleung/dotfiles) - :wrench: A repository of my dotfiles to setup my development environments
 - [kevinhwang91/zsh-tmux-capture](https://github.com/kevinhwang91/zsh-tmux-capture) - Tmux capture content for zsh quickly.
 - [kevinhwang91/fzf-tmux-script](https://github.com/kevinhwang91/fzf-tmux-script) - fzf tmux scripts
+- [kevinhwang91/dotfiles](https://github.com/kevinhwang91/dotfiles) - This is my personal ArchLinux dotfiles.
 - [kevinhwang91/adb-sync-wrap](https://github.com/kevinhwang91/adb-sync-wrap) - Wrap adb-sync.
 - [22mahmoud/vim-curl-demo](https://github.com/22mahmoud/vim-curl-demo) - 
 - [lucax88x/configs](https://github.com/lucax88x/configs) - lucatrazzi dotfiles & installer scripts
@@ -7178,7 +7178,7 @@
 - [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 - [stefandtw/quickfix-reflector.vim](https://github.com/stefandtw/quickfix-reflector.vim) - Change code right in the quickfix window
 - [hrsh7th/vim-searchx](https://github.com/hrsh7th/vim-searchx) - The extended search motion.
-- [marklcrns/vim-smartq](https://github.com/marklcrns/vim-smartq) - Master key for exiting/deleting vim buffers with respect to window splits and tabs.
+- [marklcrns/vim-smartq](https://github.com/marklcrns/vim-smartq) - Master key for exiting or deleting nvim/vim buffers with respect to window splits and tabs.
 - [gauteh/vim-cppman](https://github.com/gauteh/vim-cppman) - Plugin for use of cppman ("C++ 98/11/14 manual pages for Linux/MacOS" ) from within Vim
 - [cseickel/dwm.vim](https://github.com/cseickel/dwm.vim) - Tiled Window Management for Vim
 - [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) - :art: Template engine for Vim color schemes, in pure Vim script
@@ -7256,7 +7256,7 @@
 - [othree/vim-autocomplpop](https://github.com/othree/vim-autocomplpop) - Automatic trigger complete popup menu
 - [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu) - :sunglasses: Display the Completion Menu Automantically (next AutoComplPop) !!
 - [fcying/gen_clang_conf.vim](https://github.com/fcying/gen_clang_conf.vim) - gen clang config for vim
-- [jdhao/better-escape.vim](https://github.com/jdhao/better-escape.vim) - A Vim/Neovim plugin for escaping insert mode without lagging.
+- [nvim-zh/better-escape.vim](https://github.com/nvim-zh/better-escape.vim) - A Vim/Neovim plugin for escaping insert mode without lagging.
 - [romainl/minivimrc](https://github.com/romainl/minivimrc) - 
 - [felipec/notmuch-vim](https://github.com/felipec/notmuch-vim) - Text-based mail user agent in vim using notmuch.
 - [pkgstore/linux-rpm-neovim](https://github.com/pkgstore/linux-rpm-neovim) - 
@@ -8192,7 +8192,6 @@
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
-- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [bogado/file-line](https://github.com/bogado/file-line) - Plugin for vim to enabling opening a file in a given line
 - [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
