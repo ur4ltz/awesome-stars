@@ -3158,6 +3158,9 @@
 
 ## Lua 
 
+- [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) - Neovim lua plugin for interacting with https://godbolt.org/.
+- [romainchapou/confiture.nvim](https://github.com/romainchapou/confiture.nvim) - A neovim lua plugin to save and launch project specific commands.
+- [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - Some color utils for neovim
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) - Dim inactive windows in Neovim using window-local highlight namespaces.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews in Neovim.
@@ -3520,7 +3523,7 @@
 - [orbitalquark/textadept-export](https://github.com/orbitalquark/textadept-export) - Textadept module for outputting source files into various formats like HTML.
 - [orbitalquark/textadept-lua-repl](https://github.com/orbitalquark/textadept-lua-repl) - A Textadept module for loading an interactive Lua REPL.
 - [orbitalquark/textadept-lsp](https://github.com/orbitalquark/textadept-lsp) - Language server protocol client module for Textadept.
-- [orbitalquark/scintillua](https://github.com/orbitalquark/scintillua) - Scintillua adds dynamic Lua LPeg lexers to Scintilla.
+- [orbitalquark/scintillua](https://github.com/orbitalquark/scintillua) - Scintillua enables Scintilla lexers to be written in Lua, particularly using LPeg
 - [orbitalquark/textadept-go](https://github.com/orbitalquark/textadept-go) - Go language module for Textadept.
 - [orbitalquark/textadept-format](https://github.com/orbitalquark/textadept-format) - Code formatting module for Textadept.
 - [orbitalquark/textadept-debugger](https://github.com/orbitalquark/textadept-debugger) - Language debugging module for Textadept.
@@ -3774,7 +3777,7 @@
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [Furkanzmc/options.nvim](https://github.com/Furkanzmc/options.nvim) - A small library to create custom options
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A minimal, configurable, neovim style tabline. Use your nvim tabs as workspace multiplexer.
-- [noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
+- [noib3/nvim-bufferline](https://github.com/noib3/nvim-bufferline) - :nose: A minimal Neovim bufferline
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
 - [ThePrimeagen/vim-apm](https://github.com/ThePrimeagen/vim-apm) - Vim APM, Actions per minute, is the greatest plugin since vim-slicedbread
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
@@ -5676,7 +5679,6 @@
 - [hrsh7th/vim-denite-gitto](https://github.com/hrsh7th/vim-denite-gitto) - denite with vim-gitto
 - [shwnchpl/mutt-theme-generator](https://github.com/shwnchpl/mutt-theme-generator) - Generates Mutt/Neomutt themes from .Xresources files.
 - [msdavid/i3autofloat](https://github.com/msdavid/i3autofloat) - Hack that makes I3 "remeber" when an application is toggled to floating mode
-- [nymann/dotfiles](https://github.com/nymann/dotfiles) - My dotfiles
 - [joegrover/stereoio](https://github.com/joegrover/stereoio) - Controller for web radio that sends commands to mpv running on a raspberry pi based on physical knobs and switches
 - [leo-editor/leo-editor](https://github.com/leo-editor/leo-editor) - Leo is an Outliner, Editor, IDE and PIM written in 100% Python.
 - [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
@@ -6714,6 +6716,7 @@
 - [cvignal/dotfiles](https://github.com/cvignal/dotfiles) - Dotfiles for my ArchLinux i3 config
 - [windwp/rofi-color-picker](https://github.com/windwp/rofi-color-picker) - 
 - [Zeioth/rofi-zeal](https://github.com/Zeioth/rofi-zeal) - Use rofi to search documentation on Zeal and Man
+- [nymann/dotfiles](https://github.com/nymann/dotfiles) - My dotfiles
 - [deadc0de6/gitell](https://github.com/deadc0de6/gitell) - Quickly get the status of all your local git repositories
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
 - [dandavison/shell-config](https://github.com/dandavison/shell-config) - Bash configuration
