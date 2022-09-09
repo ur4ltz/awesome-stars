@@ -172,6 +172,7 @@
 
 ## C 
 
+- [cryptomilk/libvterm](https://github.com/cryptomilk/libvterm) - Mirror of http://bazaar.leonerd.org.uk/c/libvterm/
 - [stsewd/tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
 - [NNBnh/superb-st](https://github.com/NNBnh/superb-st) - 📟 ST-base terminal with enough patches
 - [UtkarshVerma/dwl-flexipatch](https://github.com/UtkarshVerma/dwl-flexipatch) - A dwl build with preprocessor directives to decide which patches to include during build time.
@@ -1390,7 +1391,6 @@
 
 - [davinche/godown-vim](https://github.com/davinche/godown-vim) - Vim plugin for Godown Markdown Previewer
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
-- [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices!
@@ -2662,7 +2662,7 @@
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
 - [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [rif/spark](https://github.com/rif/spark) - Emergency web server
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2876,6 +2876,7 @@
 
 ## JavaScript 
 
+- [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [JPeer264/node-semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - A CLI for semantic git commits
 - [EvandroLG/luaDoc](https://github.com/EvandroLG/luaDoc) - In development
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
@@ -3158,6 +3159,12 @@
 
 ## Lua 
 
+- [kyoh86/telescope-gogh.nvim](https://github.com/kyoh86/telescope-gogh.nvim) - 
+- [Everblush/everblush.nvim](https://github.com/Everblush/everblush.nvim) - A port of everblush.vim but written in lua
+- [santigo-zero/csjneovim](https://github.com/santigo-zero/csjneovim) - My Neovim configs
+- [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
+- [sam4llis/nvim-lua-gf](https://github.com/sam4llis/nvim-lua-gf) - A utility plugin which extends `gf` functionality in Lua files.
+- [smartpde/debuglog](https://github.com/smartpde/debuglog) - Debug logging for Neovim plugin developers
 - [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) - Neovim lua plugin for interacting with https://godbolt.org/.
 - [romainchapou/confiture.nvim](https://github.com/romainchapou/confiture.nvim) - A neovim lua plugin to save and launch project specific commands.
 - [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - Some color utils for neovim
@@ -3190,7 +3197,7 @@
 - [HiPhish/debugpy.nvim](https://github.com/HiPhish/debugpy.nvim) - Command and configuration frontend for Debugpy and nvim-dap
 - [gaelph/logsitter.nvim](https://github.com/gaelph/logsitter.nvim) - Makes debugging easy by automating the process of writing logs, for NeoVim
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - Debugging in NeoVim the print() way!
-- [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) - 1Password for Neovim
+- [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) - 🔑 1Password for Neovim! Built using the 1Password CLI, Go, and Lua.
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages
 - [gbrlsnchs/winpick.nvim](https://github.com/gbrlsnchs/winpick.nvim) - Simple window picker for Neovim
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
@@ -4594,6 +4601,7 @@
 - [dm1try/golden_size](https://github.com/dm1try/golden_size) - Golden Size for your active Neovim window
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [kyazdani42/nvim-palenight.lua](https://github.com/kyazdani42/nvim-palenight.lua) - A palenight colorscheme for neovim
+- [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 - [zhaozg/neospace](https://github.com/zhaozg/neospace) - 
 - [javalikescript/lua-webview](https://github.com/javalikescript/lua-webview) - Webview from Lua
 - [vigoux/templar.nvim](https://github.com/vigoux/templar.nvim) - A dead simple template manager for neovim written in lua
@@ -4946,6 +4954,10 @@
 
 ## Others 
 
+- [ur4ltz/awesome-stars](https://github.com/ur4ltz/awesome-stars) - 
+- [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
+- [tmux-python/tmux-manuals](https://github.com/tmux-python/tmux-manuals) - tmux version manuals in text format, for easy diffs
+- [Dynalon/mdwiki-examples](https://github.com/Dynalon/mdwiki-examples) - A collection of example wesbites created with MDwiki
 - [NNBnh/da-one](https://github.com/NNBnh/da-one) - 🎨 Da one color scheme that you alway looking for
 - [NNBnh/bmono](https://github.com/NNBnh/bmono) - 🏷️ Mono font that SuperB
 - [RoryNesbitt/real-prog-qwerty](https://github.com/RoryNesbitt/real-prog-qwerty) - A real programmer's QWERTY keyboard layout
@@ -4977,6 +4989,7 @@
 - [orbitalquark/textadept-build](https://github.com/orbitalquark/textadept-build) - Cache of mostly static build dependencies for Textadept intended for use by [nightly] build actions.
 - [paulsso/dwm-cdtags](https://github.com/paulsso/dwm-cdtags) - Simple patch for dwm lets you set different colors for your tags
 - [elmarsto/awesome-neorg](https://github.com/elmarsto/awesome-neorg) - A collection of Neorg (org-mode-like for Neovim) awesomeness, including config examples and inspo
+- [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [pfaivre/arduino-theme-ocean](https://github.com/pfaivre/arduino-theme-ocean) - A clean dark theme for the Arduino IDE
 - [taunoe/arduino-dark-theme](https://github.com/taunoe/arduino-dark-theme) - Arduino dark theme!
 - [konrad91/OneDarkArduino](https://github.com/konrad91/OneDarkArduino) - Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify
@@ -5423,6 +5436,7 @@
 
 ## Python 
 
+- [tmux-python/libtmux](https://github.com/tmux-python/libtmux) - ⚙️ Python API / wrapper for tmux
 - [nickjj/webserver](https://github.com/nickjj/webserver) - A zero dependency Python 3 web server to echo back an HTTP request's headers and data.
 - [deoplete-plugins/deoplete-clang](https://github.com/deoplete-plugins/deoplete-clang) - deoplete.nvim source for C/C++/Obj-C/Obj-C++ with clang-python3
 - [supakeen/pinnwand](https://github.com/supakeen/pinnwand) - A Python pastebin that tries to keep it simple.
@@ -6314,6 +6328,8 @@
 
 ## Shell 
 
+- [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+- [santigo-zero/dotfiles](https://github.com/santigo-zero/dotfiles) - 
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [Mte90/gitapper](https://github.com/Mte90/gitapper) - Remap Git with your custom scripts or new commands
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
@@ -6849,7 +6865,6 @@
 - [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) - Auto install script for rTorrent with ruTorrent
 - [edouard-lopez/record-gif.sh](https://github.com/edouard-lopez/record-gif.sh) - Based on `byzanz-record-region` from http://askubuntu.com/a/201018/22343
 - [cgoodrich/byzanz](https://github.com/cgoodrich/byzanz) - unix gif screencasts
-- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [porras/i3-keyboard-layout](https://github.com/porras/i3-keyboard-layout) - Change keyboard layout with a keystroke + show it in the status bar
 - [okraits/boosta](https://github.com/okraits/boosta) - Easy bookmark management with rofi
 - [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
@@ -7781,7 +7796,6 @@
 - [jubnzv/dotfiles](https://github.com/jubnzv/dotfiles) - Personal configuration files, scripts, etc.
 - [junegunn/dotfiles](https://github.com/junegunn/dotfiles) - :house_with_garden: It's personal
 - [jdhao/minimal_vim](https://github.com/jdhao/minimal_vim) - A minimal Vim/Nvim configuration in just one file without external dependencies.
-- [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 - [jwilm/dotfiles](https://github.com/jwilm/dotfiles) - .files
 - [akrawchyk/dotfiles](https://github.com/akrawchyk/dotfiles) - Everyone needs a ⌂
 - [gerardbm/vimrc](https://github.com/gerardbm/vimrc) - My ultimate Vim configuration
@@ -7918,6 +7932,7 @@
 - [chrisbra/CheckAttach](https://github.com/chrisbra/CheckAttach) - Check for attachments when writing mails with mutt
 - [chrisbra/vim-zsh](https://github.com/chrisbra/vim-zsh) - Official Vim Runtime Files for Zsh
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
+- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [mattikus/dotfiles](https://github.com/mattikus/dotfiles) - My dotfiles
 - [farisachugthai/viconf](https://github.com/farisachugthai/viconf) - My (n)Vim config files
 - [liuchengxu/space-vim-theme](https://github.com/liuchengxu/space-vim-theme) - :blossom: A dark and light colorscheme for space-vim that supports GUI & terminal
