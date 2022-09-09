@@ -3159,6 +3159,7 @@
 
 ## Lua 
 
+- [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [kyoh86/telescope-gogh.nvim](https://github.com/kyoh86/telescope-gogh.nvim) - 
 - [Everblush/everblush.nvim](https://github.com/Everblush/everblush.nvim) - A port of everblush.vim but written in lua
 - [santigo-zero/csjneovim](https://github.com/santigo-zero/csjneovim) - My Neovim configs
