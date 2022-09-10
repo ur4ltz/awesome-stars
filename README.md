@@ -7,6 +7,7 @@
 
 - [AMPL](#ampl)
 - [ATS](#ats)
+- [Adblock Filter List](#adblock-filter-list)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
@@ -112,6 +113,10 @@
 ## ATS 
 
 - [bakpakin/ats-lua](https://github.com/bakpakin/ats-lua) - An ATS to Lua compiler
+
+## Adblock Filter List 
+
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 
 ## Arduino 
 
@@ -3107,7 +3112,7 @@
 - [alexherbo2/text-objects.kak](https://github.com/alexherbo2/text-objects.kak) - Text objects for Kakoune
 - [alexherbo2/alacritty.kak](https://github.com/alexherbo2/alacritty.kak) - Alacritty integration for Kakoune
 - [alexherbo2/chronic.kak](https://github.com/alexherbo2/chronic.kak) - Chronic integration for Kakoune
-- [anhsirk0/kakoune-themes](https://github.com/anhsirk0/kakoune-themes) - Color schemes for kakoune , extra syntax highlighting and my config
+- [anhsirk0/kakoune-themes](https://github.com/anhsirk0/kakoune-themes) - Beautiful Color schemes for kakoune.
 - [occivink/kakoune-phantom-selection](https://github.com/occivink/kakoune-phantom-selection) - Work on multiple selections, one at a time
 - [alexherbo2/select.kak](https://github.com/alexherbo2/select.kak) - Select objects for Kakoune
 - [chambln/kakoune-kit](https://github.com/chambln/kakoune-kit) - A Git porcelain inside Kakoune
@@ -3159,6 +3164,8 @@
 
 ## Lua 
 
+- [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
+- [Hvassaa/sterm.nvim](https://github.com/Hvassaa/sterm.nvim) - (s)tupid (term)inal
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [kyoh86/telescope-gogh.nvim](https://github.com/kyoh86/telescope-gogh.nvim) - 
 - [Everblush/everblush.nvim](https://github.com/Everblush/everblush.nvim) - A port of everblush.vim but written in lua
@@ -6940,7 +6947,6 @@
 - [canyon-dot-mid/rice-scripts](https://github.com/canyon-dot-mid/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
