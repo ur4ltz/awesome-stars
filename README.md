@@ -177,6 +177,7 @@
 
 ## C 
 
+- [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
 - [duncan-f/st](https://github.com/duncan-f/st) - My modified version of st - suckless terminal
 - [alemuller/tree-sitter-make](https://github.com/alemuller/tree-sitter-make) - 
@@ -2364,6 +2365,7 @@
 ## Fennel 
 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
+- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen jumps quicker and more natural than ever
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
@@ -3170,6 +3172,8 @@
 
 ## Lua 
 
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+- [phaazon/notisys.nvim](https://github.com/phaazon/notisys.nvim) - System-wide notifications for Neovim
 - [cooperuser/glowbeam.nvim](https://github.com/cooperuser/glowbeam.nvim) - My personal vim colorscheme
 - [LukasPietzschmann/telescope-sessions](https://github.com/LukasPietzschmann/telescope-sessions) - A session-switcher extension for sessions.nvim using telescope.nvim
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - Fly through your tabs in neovim ✈️
@@ -3323,7 +3327,6 @@
 - [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) - neovim plugin that lets you switch databases on demand or execute queries on different connections
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim
-- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [Abstract-IDE/penvim](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader
 - [naefl/kitty.nvim](https://github.com/naefl/kitty.nvim) - Slime-like REPL for Neovim in Lua
 - [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
@@ -3837,7 +3840,7 @@
 - [ionnux/dotfiles](https://github.com/ionnux/dotfiles) - 
 - [leoluz/nvim-dap-go](https://github.com/leoluz/nvim-dap-go) - An extension for nvim-dap providing configurations for launching go debugger (delve) and debugging individual tests
 - [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.5 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
 - [wqferr/functional](https://github.com/wqferr/functional) - Functional programming utilities implemented in pure Lua.
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
@@ -5016,6 +5019,7 @@
 
 ## Others 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [VonHeikemen/the-good-snippets](https://github.com/VonHeikemen/the-good-snippets) - Personal collection of snippets for the different programming languages I work with.
 - [VonHeikemen/nvim-starter](https://github.com/VonHeikemen/nvim-starter) - Neovim example configuration. To help you start in your journey
 - [arsenal007/TTG](https://github.com/arsenal007/TTG) - 
@@ -5243,7 +5247,7 @@
 - [geerlingguy/ansible-role-dotfiles](https://github.com/geerlingguy/ansible-role-dotfiles) - Ansible Role - Easy and flexible dotfile installation.
 - [wstam88/rofi-emoji-lists](https://github.com/wstam88/rofi-emoji-lists) - Emoji list for rofi  🌈🍄🦄🐟🐺
 - [SirJson/embark-wt](https://github.com/SirJson/embark-wt) - Embark color theme for the new Windows Terminal
-- [waltereikrem/KWin-TilingGuide](https://github.com/waltereikrem/KWin-TilingGuide) - A guide on how to set up kwin as a tiling window manager.
+- [ellysaurus/KWin-TilingGuide](https://github.com/ellysaurus/KWin-TilingGuide) - A guide on how to set up kwin as a tiling window manager.
 - [jbomanson/buffer-by-name.kak](https://github.com/jbomanson/buffer-by-name.kak) - Open kakoune buffers simply by name as opposed to path
 - [vimwiki/vimwikiwiki](https://github.com/vimwiki/vimwikiwiki) - Wiki for further documentation and tricks about vimwiki
 - [stetre/moonlibs](https://github.com/stetre/moonlibs) - Lua libraries for graphics and audio programming
@@ -5588,7 +5592,6 @@
 - [getpatchwork/pwclient](https://github.com/getpatchwork/pwclient) - The command-line client for the patchwork patch tracking tool
 - [sublimelsp/LSP-gopls](https://github.com/sublimelsp/LSP-gopls) - Golang support for Sublime's LSP plugin
 - [sublimelsp/LSP-pylsp](https://github.com/sublimelsp/LSP-pylsp) - Convenience package for the Python Language Server
-- [s1n7ax/dothome](https://github.com/s1n7ax/dothome) - 
 - [emanspeaks/pyls-flake8](https://github.com/emanspeaks/pyls-flake8) - Python Language Server plugin for Flake8
 - [python-lsp/python-lsp-black](https://github.com/python-lsp/python-lsp-black) - python-lsp-server plugin that adds support to black autoformatter, forked from https://github.com/rupert/pyls-black/
 - [python-lsp/pylsp-mypy](https://github.com/python-lsp/pylsp-mypy) - Mypy plugin for the Python LSP Server.
@@ -6398,6 +6401,7 @@
 
 ## Shell 
 
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [zimfw/zsh-framework-benchmark](https://github.com/zimfw/zsh-framework-benchmark) - Benchmarks for various Zsh frameworks
 - [zimfw/completion](https://github.com/zimfw/completion) - Enables and configures smart and extensive tab completion.
 - [benvan/sandboxd](https://github.com/benvan/sandboxd) - speeds up your bashrc by running (slow) setup commands on the fly
@@ -7678,7 +7682,7 @@
 - [ZSaberLv0/ZFVimBackup](https://github.com/ZSaberLv0/ZFVimBackup) - more convenient file backup util for vim
 - [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
 - [el-iot/vim-wikipedia-browser](https://github.com/el-iot/vim-wikipedia-browser) - A vim plugin for navigating between wikiedia articles
-- [waltereikrem/DOTFILES](https://github.com/waltereikrem/DOTFILES) - my linux dotfiles / configs
+- [ellysaurus/DOTFILES](https://github.com/ellysaurus/DOTFILES) - my linux dotfiles / configs
 - [pradyungn/vim.orion](https://github.com/pradyungn/vim.orion) - An endgame neovim configuration.
 - [Iron-E/vim-tabmode](https://github.com/Iron-E/vim-tabmode) - A mode for manipulating tabs in Neo/vim.
 - [vuciv/.vim](https://github.com/vuciv/.vim) - My Vim Repository
