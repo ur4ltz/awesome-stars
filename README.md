@@ -2383,7 +2383,7 @@
 - [rafaeldelboni/nvim-fennel-lsp-conjure-as-clojure-ide](https://github.com/rafaeldelboni/nvim-fennel-lsp-conjure-as-clojure-ide) - Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure.
 - [alexaandru/froggy](https://github.com/alexaandru/froggy) - Neovim theme
 - [alexaandru/nvim-config](https://github.com/alexaandru/nvim-config) - Nvim config
-- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions
+- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 - [6cdh/dotfiles](https://github.com/6cdh/dotfiles) - 6cdh's dotfiles
 - [Gavinok/dotneovim](https://github.com/Gavinok/dotneovim) - My attempt at transitioning to neovim and embracing the crazy things people are doing with it.
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
@@ -3183,10 +3183,13 @@
 
 ## Lua 
 
+- [kdheepak/cmp-latex-symbols](https://github.com/kdheepak/cmp-latex-symbols) - Add latex symbol support for nvim-cmp.
+- [amarakon/nvim-cmp-lua-latex-symbols](https://github.com/amarakon/nvim-cmp-lua-latex-symbols) - nvim-cmp source for LaTeX symbols (100% Lua)
+- [nat-418/boole.nvim](https://github.com/nat-418/boole.nvim) - Neovim plugin for toggling booleans, etc.
 - [zegervdv/settle.nvim](https://github.com/zegervdv/settle.nvim) - Settle your merge conflicts from Neovim
 - [zegervdv/espresso-tutti-colori.nvim](https://github.com/zegervdv/espresso-tutti-colori.nvim) - 
 - [zegervdv/nrpattern.nvim](https://github.com/zegervdv/nrpattern.nvim) - Neovim plugin to expand incrementing/decrementing to more formats.
-- [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries.
+- [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) - Plugin for Neovim that lets you create your own "minimap" from Treesitter Queries or Vim Regex.
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor
 - [WhoIsSethDaniel/repossession.nvim](https://github.com/WhoIsSethDaniel/repossession.nvim) - Not the first session manager for Neovim, not the last either
 - [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) - neovim plugin for comment and annotation
@@ -3248,11 +3251,11 @@
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [kyoh86/telescope-gogh.nvim](https://github.com/kyoh86/telescope-gogh.nvim) - 
 - [Everblush/everblush.nvim](https://github.com/Everblush/everblush.nvim) - A port of everblush.vim but written in lua
-- [santigo-zero/csj-neovim](https://github.com/santigo-zero/csj-neovim) - My Neovim configs
+- [santigo-zero/fractal-nvim](https://github.com/santigo-zero/fractal-nvim) - My personal neovim configs.
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
 - [sam4llis/nvim-lua-gf](https://github.com/sam4llis/nvim-lua-gf) - A utility plugin which extends `gf` functionality in Lua files.
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) - Debug logging for Neovim plugin developers
-- [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) - Run compilers and explore assembly from neovim with the help of https://godbolt.org/
+- [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) - Run compilers and explore assembly from Neovim with the help of https://godbolt.org/
 - [romainchapou/confiture.nvim](https://github.com/romainchapou/confiture.nvim) - A neovim lua plugin to save and launch project specific commands.
 - [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - Some color utils for neovim
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) - Dim inactive windows in Neovim using window-local highlight namespaces.
@@ -3345,7 +3348,7 @@
 - [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) - CMake integration in Neovim
 - [Civitasv/runvim](https://github.com/Civitasv/runvim) - Beautiful, fast, functional Configuration for Neovim.
 - [ldelossa/buffertag](https://github.com/ldelossa/buffertag) - 
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
 - [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) - neovim plugin that lets you switch databases on demand or execute queries on different connections
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
@@ -3932,7 +3935,7 @@
 - [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) - solarized colorscheme in lua for nvim 0.5
 - [David-Kunz/jester](https://github.com/David-Kunz/jester) - A Neovim plugin to easily run and debug Jest tests
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) - 💾  Simple session management for Neovim
-- [ttys3/nvim-config](https://github.com/ttys3/nvim-config) - following HEAD (nightly build), for Linux only, clone it to `~/.config/nvim`
+- [ttys3/nvim-config](https://github.com/ttys3/nvim-config) - following HEAD (nightly build) neovim lua config, for Linux only, clone it to `~/.config/nvim`
 - [mathewmariani/lite-macos](https://github.com/mathewmariani/lite-macos) - Unofficial macOS port for Lite - A lightweight text editor written in Lua
 - [vincens2005/lite-xl-updatechecker](https://github.com/vincens2005/lite-xl-updatechecker) - 
 - [lite-xl/console](https://github.com/lite-xl/console) - A console plugin for the lite text editor
@@ -4049,7 +4052,7 @@
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) - Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code
 - [kishikaisei/telescope-js-package-scripts.nvim](https://github.com/kishikaisei/telescope-js-package-scripts.nvim) - Integration for vimspector with telescope.nvim
-- [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) - 💻  Dev setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
+- [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [22mahmoud/nvim_rest](https://github.com/22mahmoud/nvim_rest) - [WIP] http client plugin for neovim
 - [nanotee/nvim-lua-annotations](https://github.com/nanotee/nvim-lua-annotations) - Generate EmmyLua annotations for Neovim functions
 - [nanotee/nvim-lsp-basics](https://github.com/nanotee/nvim-lsp-basics) - Basic wrappers for LSP features
@@ -4364,7 +4367,6 @@
 - [hkupty/pointer.nvim](https://github.com/hkupty/pointer.nvim) - Quickly share the reference to a point in your file
 - [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) - ...
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
-- [alex-popov-tech/.dotfiles](https://github.com/alex-popov-tech/.dotfiles) - 💻 My settings for macOS, kitty, zsh, nvim, tmux, and more 🛠
 - [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme for neovim
 - [RishabhRD/nvim-finder](https://github.com/RishabhRD/nvim-finder) - A highly extensible fuzzy finder neovim extension based on popfix fuzzy engine.
 - [ttys3/nvim-blamer.lua](https://github.com/ttys3/nvim-blamer.lua) - use https://github.com/lewis6991/gitsigns.nvim instead
@@ -5441,6 +5443,7 @@
 
 ## PHP 
 
+- [alex-popov-tech/.dotfiles](https://github.com/alex-popov-tech/.dotfiles) - 💻 My settings for macOS, kitty, zsh, nvim, tmux, and more 🛠
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [linuxserver/docker-rutorrent](https://github.com/linuxserver/docker-rutorrent) - DEPRECATED
 - [sruupl/batflat](https://github.com/sruupl/batflat) - Lightweight, fast and easy CMS for free. Bootstrap ready.  https://batflat.org
@@ -7559,7 +7562,7 @@
 - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
 - [RyanMillerC/better-vim-tmux-resizer](https://github.com/RyanMillerC/better-vim-tmux-resizer) - Resize tmux panes and Vim windows with ease
 - [halkn/vim-agrep](https://github.com/halkn/vim-agrep) - vim plugin for grep.
-- [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A very dark colorscheme for Vim
+- [aonemd/kuroi.vim](https://github.com/aonemd/kuroi.vim) - A very dark colorscheme for Vim. JOIN THE DARK SIDE!
 - [Mofiqul/Dotfiles](https://github.com/Mofiqul/Dotfiles) - My personal dotfiles for bspwm, i3-gaps and kde plasma
 - [halkn/lightline-lsp](https://github.com/halkn/lightline-lsp) - Vim plugin for lightline.vim and vim-lsp
 - [halkn/fzf-git.vim](https://github.com/halkn/fzf-git.vim) - 
