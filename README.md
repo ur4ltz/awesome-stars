@@ -2021,6 +2021,7 @@
 - [purcell/whitespace-cleanup-mode](https://github.com/purcell/whitespace-cleanup-mode) - In Emacs, intelligently call whitespace-cleanup on save
 - [purcell/sqlformat](https://github.com/purcell/sqlformat) - Reformat SQL code inside Emacs using sqlformat or pgformatter
 - [purcell/emacs-reformatter](https://github.com/purcell/emacs-reformatter) - Define commands which run reformatters on the current Emacs buffer
+- [dgutov/mmm-mode](https://github.com/dgutov/mmm-mode) - New official home for mmm-mode, fixed for Emacs &gt;= 23
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
 - [purcell/emacs-shfmt](https://github.com/purcell/emacs-shfmt) - Reformat shell script code in Emacs using shfmt
 - [jojojames/dired-sidebar](https://github.com/jojojames/dired-sidebar) - Sidebar for Emacs leveraging Dired
@@ -3884,7 +3885,7 @@
 - [creativenull/feline-provider-ale.nvim](https://github.com/creativenull/feline-provider-ale.nvim) - ALE component providers for feline.nvim
 - [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp
 - [creativenull/nvim-config](https://github.com/creativenull/nvim-config) - My neovim config in lua that I use to experiment new features and plugins
-- [OkelleyDevelopment/Odinvim](https://github.com/OkelleyDevelopment/Odinvim) - A legendarily slim configuration for Neovim
+- [OkelleyDevelopment/Odinvim](https://github.com/OkelleyDevelopment/Odinvim) - Personal configuration for Neovim
 - [notomo/cmdbuf.nvim](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line window plugin for neovim
 - [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) - 💾 Simple session management for Neovim with git branching, autosave/autoload and Telescope support
 - [maaslalani/awkward.nvim](https://github.com/maaslalani/awkward.nvim) - Evaluate AWK expressions within neovim
@@ -4078,7 +4079,7 @@
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) - Neovim plugin for lspcontainers.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My personal Neovim config entirely written in Lua (requires nightly), ZSH with zinit plugin manager & powerlevel10k prompt, and other dotfiles I am adding over time
-- [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - A Neovim configuration for the advanced martian hacker
+- [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [luissimas/eval.nvim](https://github.com/luissimas/eval.nvim) - A simple code evaluator for neovim.
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
@@ -7258,7 +7259,6 @@
 - [sefus/the-little-go-book](https://github.com/sefus/the-little-go-book) - 
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
 - [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
-- [dgutov/mmm-mode](https://github.com/dgutov/mmm-mode) - New official home for mmm-mode, fixed for Emacs &gt;= 23
 - [trebb/clqr](https://github.com/trebb/clqr) - Common Lisp Quick Reference
 - [jrblevin/markdown-mode-guide](https://github.com/jrblevin/markdown-mode-guide) - Guide to Markdown Mode for Emacs
 - [jez/pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
