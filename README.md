@@ -1675,7 +1675,7 @@
 - [mizlan/.emacs.d](https://github.com/mizlan/.emacs.d) - 
 - [mizlan/.doom.d](https://github.com/mizlan/.doom.d) - 
 - [mcandre/vimrc-mode](https://github.com/mcandre/vimrc-mode) - Enables syntax highlighting for .vimrc/_vimrc files
-- [marlonschlosshauer/dotfiles](https://github.com/marlonschlosshauer/dotfiles) - Backup of config files
+- [marlonschlosshauer/dotfiles](https://github.com/marlonschlosshauer/dotfiles) - Backup of config files.
 - [condy0919/spdx.el](https://github.com/condy0919/spdx.el) - Insert SPDX license header
 - [jcs-elpa/license-templates](https://github.com/jcs-elpa/license-templates) - Create LICENSE using GitHub API
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
@@ -2098,7 +2098,7 @@
 - [nonsequitur/git-gutter-fringe-plus](https://github.com/nonsequitur/git-gutter-fringe-plus) - 
 - [emacsorphanage/popwin](https://github.com/emacsorphanage/popwin) - Popup Window Manager for Emacs
 - [syohex/emacs-git-gutter2](https://github.com/syohex/emacs-git-gutter2) - emacs-git-gutter only for me
-- [yacodes/.dotfiles](https://github.com/yacodes/.dotfiles) - 🛠 My .dotfiles: emacs, zsh, i3, picom, polybar, rofi, git and wallpaper configurations
+- [yacodes/.dotfiles](https://github.com/yacodes/.dotfiles) - System configuration files.
 - [skx/dotfiles](https://github.com/skx/dotfiles) - Yet another dotfile-repository
 - [lassik/emacs-language-id](https://github.com/lassik/emacs-language-id) - Emacs Lisp library to work with programming language identifiers
 - [lassik/emacs-format-all-the-code](https://github.com/lassik/emacs-format-all-the-code) - Auto-format source code in many languages with one command
@@ -2926,7 +2926,6 @@
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [sdragnev/fossil4idea](https://github.com/sdragnev/fossil4idea) - Fossil SCM (http://www.fossil-scm.org/) plugin for IntelliJ IDEA
 - [ProteanCoding/fossil4idea](https://github.com/ProteanCoding/fossil4idea) - Fossil SCM (http://www.fossil-scm.org/) plugin for IntelliJ IDEA
-- [andybalaam/freeguide](https://github.com/andybalaam/freeguide) - FreeGuide TV Guide
 - [H3mul/transdroid](https://github.com/H3mul/transdroid) - Manage your torrents from your Android device
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 - [erickok/transdroid-search](https://github.com/erickok/transdroid-search) - Cross-app torrent search results provider for Android
@@ -3244,6 +3243,7 @@
 
 ## Lua 
 
+- [Yazeed1s/oh-lucy.nvim](https://github.com/Yazeed1s/oh-lucy.nvim) - Inspired by oh-lucy theme in vscodium, with few tweaks!
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) - NeoVim UI sweetness.
 - [YacineDo/mc.nvim](https://github.com/YacineDo/mc.nvim) - 
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
@@ -4508,6 +4508,7 @@
 - [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme for neovim
 - [RishabhRD/nvim-finder](https://github.com/RishabhRD/nvim-finder) - A highly extensible fuzzy finder neovim extension based on popfix fuzzy engine.
 - [ttys3/nvim-blamer.lua](https://github.com/ttys3/nvim-blamer.lua) - use https://github.com/lewis6991/gitsigns.nvim instead
+- [kevinhwang91/nvim-ibus-sw](https://github.com/kevinhwang91/nvim-ibus-sw) - Switch ibus between insert and normal mode in Neovim
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
 - [CurtisFenner/luafmt](https://github.com/CurtisFenner/luafmt) - A code formatter for Lua
 - [liquidev/animations](https://github.com/liquidev/animations) - Animations for my YouTube channel, using pan
@@ -4686,7 +4687,6 @@
 - [rajshekhar26/dotfiles](https://github.com/rajshekhar26/dotfiles) - My dotfiles.
 - [Yonaba/30log](https://github.com/Yonaba/30log) - 30 lines library for object orientation in Lua
 - [rossy/mpv-open-file-dialog](https://github.com/rossy/mpv-open-file-dialog) - A script for mpv that can launch a regular Windows open file dialog from a key binding
-- [somnam/dotfiles](https://github.com/somnam/dotfiles) - 
 - [BrodieRobertson/dotfiles](https://github.com/BrodieRobertson/dotfiles) - Various configuration files for programs that I use
 - [ms-jpq/lua-async-await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
 - [mut-ex/awesome-wm-slidebar](https://github.com/mut-ex/awesome-wm-slidebar) - an easy to use, configurable, multi-purpose, animated widget bar written in Lua for Awesome WM
@@ -5480,6 +5480,7 @@
 - [widgetii/rusopsnotes](https://github.com/widgetii/rusopsnotes) - My notes about ops in Russian
 - [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
 - [sublimehq/sublime_merge](https://github.com/sublimehq/sublime_merge) - Issue tracker for Sublime Merge
+- [andybalaam/freeguide](https://github.com/andybalaam/freeguide) - Moved to https://codeberg.org/andybalaam/FreeGuide
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
@@ -6933,6 +6934,7 @@
 - [klaxalk/profile_manager](https://github.com/klaxalk/profile_manager) - profile switching in any config files using vim-commentary
 - [klaxalk/linux-setup](https://github.com/klaxalk/linux-setup) - Custom Linux setup nicely integrating vim+tmux+i3+urxvt+zsh+athame
 - [klaxalk/i3-layout-manager](https://github.com/klaxalk/i3-layout-manager) - Saving, loading and managing layouts for i3wm.
+- [somnam/dotfiles](https://github.com/somnam/dotfiles) - 
 - [dennisleexyz/dotfiles](https://github.com/dennisleexyz/dotfiles) - moved to https://github.com/dennisleexyz/cfg
 - [dennisleexyz/scripts](https://github.com/dennisleexyz/scripts) - My shell scripts for system automation.
 - [BrodieRobertson/dmenufm](https://github.com/BrodieRobertson/dmenufm) - A simple file manager using dmenu
@@ -7767,7 +7769,6 @@
 - [sedm0784/vim-you-autocorrect](https://github.com/sedm0784/vim-you-autocorrect) - Why should smartphones get all the fun?
 - [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) - Automatically opens popup menu for completions
 - [doopath/doobox](https://github.com/doopath/doobox) - 
-- [kevinhwang91/nvim-ibus-sw](https://github.com/kevinhwang91/nvim-ibus-sw) - Switch ibus between vim insert and normal mode.
 - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
 - [RyanMillerC/better-vim-tmux-resizer](https://github.com/RyanMillerC/better-vim-tmux-resizer) - Resize tmux panes and Vim windows with ease
 - [halkn/vim-agrep](https://github.com/halkn/vim-agrep) - vim plugin for grep.
