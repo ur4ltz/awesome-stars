@@ -178,6 +178,7 @@
 
 ## C 
 
+- [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [rogerclarkmelbourne/STM32duino-bootloader](https://github.com/rogerclarkmelbourne/STM32duino-bootloader) - Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE
 - [rogerclarkmelbourne/Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32) - Arduino STM32. Hardware files to support STM32 boards, on Arduino IDE 1.8.x including LeafLabs Maple and other generic STM32F103 boards
 - [doums/dwm](https://github.com/doums/dwm) - My dwm custom build
@@ -505,7 +506,6 @@
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [davatorium/rofi-top](https://github.com/davatorium/rofi-top) - 
 - [davatorium/rofi-file-browser](https://github.com/davatorium/rofi-file-browser) - 
-- [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
 - [RealTimeLogic/JSON](https://github.com/RealTimeLogic/JSON) - JSON C/C++ Library for IoT Communication
 - [RealTimeLogic/LspAppMgr-ESP32](https://github.com/RealTimeLogic/LspAppMgr-ESP32) - Barracuda App Server Build Files for ESP32
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -542,7 +542,7 @@
 - [whitecatboard/Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Lua RTOS for ESP32
 - [luaposix/luaposix](https://github.com/luaposix/luaposix) - Lua bindings for POSIX APIs
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
-- [cherrry9/dots](https://github.com/cherrry9/dots) - just dotfiles ¯\_(ツ)_/¯﻿
+- [YaN-3k/dots](https://github.com/YaN-3k/dots) - just dotfiles ¯\_(ツ)_/¯﻿
 - [linux-pam/linux-pam](https://github.com/linux-pam/linux-pam) - Linux PAM (Pluggable Authentication Modules for Linux) project
 - [hishamhm/dit](https://github.com/hishamhm/dit) - A console text editor for Unix systems that you already know how to use
 - [RealTimeLogic/MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server
@@ -3258,6 +3258,13 @@
 
 ## Lua 
 
+- [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
+- [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim) - Neovim plugin for swapping operands and operators in binary expressions
+- [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
+- [aarondiel/dotfiles](https://github.com/aarondiel/dotfiles) - my awful dotfiles
+- [aarondiel/faber-colorscheme](https://github.com/aarondiel/faber-colorscheme) - a colorschemer for neovim
+- [aarondiel/spread.nvim](https://github.com/aarondiel/spread.nvim) - a neovim plugin to spread out inline objects, arrays, parameter lists, etc.
+- [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter
 - [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) - 👻 Actions at a distance
 - [cbochs/portal.nvim](https://github.com/cbochs/portal.nvim) - Neovim plugin for improved jumplist navigation
 - [brainfucksec/dotfiles](https://github.com/brainfucksec/dotfiles) - My Arch Linux dotfiles
@@ -3427,7 +3434,7 @@
 - [Hvassaa/sterm.nvim](https://github.com/Hvassaa/sterm.nvim) - (s)tupid (term)inal
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [kyoh86/telescope-gogh.nvim](https://github.com/kyoh86/telescope-gogh.nvim) - 
-- [Everblush/everblush.nvim](https://github.com/Everblush/everblush.nvim) - A port of everblush.vim but written in lua
+- [Everblush/nvim](https://github.com/Everblush/nvim) - A port of everblush.vim but written in lua
 - [santigo-zero/fractal-nvim](https://github.com/santigo-zero/fractal-nvim) - My personal neovim "framework"
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
 - [sam4llis/nvim-lua-gf](https://github.com/sam4llis/nvim-lua-gf) - A utility plugin which extends `gf` functionality in Lua files.
@@ -4082,7 +4089,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [jakelinnzy/autocmd-lua](https://github.com/jakelinnzy/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;= v0.9.0-dev) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;= v0.9.0-dev-373+gf1b88ced0) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -4747,6 +4754,7 @@
 - [TheAMM/mpv_thumbnail_script](https://github.com/TheAMM/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies
 - [hooke007/MPV_lazy_osc](https://github.com/hooke007/MPV_lazy_osc) - [deprecated] It is modified from "mpv_thumbnail_script"
 - [mdnghtman/mpv-i3-floating-centered](https://github.com/mdnghtman/mpv-i3-floating-centered) - Show mpv window in the center of the display when it is in floating mode (i3wm)
+- [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [Iron-E/nvim-tabmode](https://github.com/Iron-E/nvim-tabmode) - A rewrite of Iron-E/vim-tabmode using Iron-E/nvim-libmodal
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
@@ -5730,6 +5738,7 @@
 
 ## Python 
 
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [mphe/grayout.vim](https://github.com/mphe/grayout.vim) - A Vim/Neovim plugin that grays out inactive C/C++/Obj-C preprocessor regions.
 - [nvim-neotest/neotest-python](https://github.com/nvim-neotest/neotest-python) - 
 - [cshuaimin/video-funnel](https://github.com/cshuaimin/video-funnel) - 让你在线看视频也能达到多线程下载的速度
@@ -6653,6 +6662,7 @@
 
 ## Shell 
 
+- [newren/git-filter-branch](https://github.com/newren/git-filter-branch) - Possible new home for git-filter-branch; let's see if anyone else has better ideas where we should stick it
 - [dracula/tmux](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
 - [o0th/tmux-nova](https://github.com/o0th/tmux-nova) - tmux theme
 - [slavfox/foxfish](https://github.com/slavfox/foxfish) - :fox_face::fish: Comfy Fish shell theme
@@ -7563,7 +7573,7 @@
 - [bfrg/vim-cpp-modern](https://github.com/bfrg/vim-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
 - [bfrg/vim-qf-history](https://github.com/bfrg/vim-qf-history) - Navigate Vim's quickfix and location-list history using a popup menu
 - [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) - Preview the quickfix item under the cursor in a popup window
-- [bfrg/vim-qf-diagnostics](https://github.com/bfrg/vim-qf-diagnostics) - Highlight quickfix errors, and display error messages in a popup window.
+- [bfrg/vim-qf-diagnostics](https://github.com/bfrg/vim-qf-diagnostics) - Highlight quickfix errors, and display error messages as virtual text or in a popup window.
 - [bfrg/vim-jq](https://github.com/bfrg/vim-jq) - Vim runtime files for jq (the command-line JSON processor)
 - [bfrg/vim-jqplay](https://github.com/bfrg/vim-jqplay) - Run jq interactively in Vim
 - [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
