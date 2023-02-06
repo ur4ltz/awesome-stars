@@ -180,6 +180,7 @@
 
 ## C 
 
+- [bupy7/xkbklu](https://github.com/bupy7/xkbklu) - Another simple utility for XKB keyboard layout.
 - [ThomasDickey/dialog-snapshots](https://github.com/ThomasDickey/dialog-snapshots) - snapshots of releases and interim labels for "dialog" program
 - [ThomasDickey/mawk-snapshots](https://github.com/ThomasDickey/mawk-snapshots) - snapshots of releases and interim labels for "mawk" program
 - [ThomasDickey/lynx-snapshots](https://github.com/ThomasDickey/lynx-snapshots) - snapshots of releases and interim labels for "lynx" program
@@ -207,7 +208,6 @@
 - [leafo/lua-enet](https://github.com/leafo/lua-enet) - Bindings to ENet for Lua
 - [jdryg/vg-renderer](https://github.com/jdryg/vg-renderer) - A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
 - [tronkko/dirent](https://github.com/tronkko/dirent) - C/C++ library for retrieving information on files and directories
-- [pigpigyyy/Yuescript](https://github.com/pigpigyyy/Yuescript) - A Moonscript dialect compiles to Lua.
 - [mauke/unibilium](https://github.com/mauke/unibilium) - a terminfo parsing library
 - [neovim/unibilium](https://github.com/neovim/unibilium) - https://github.com/neovim/neovim/wiki/Deps#forks
 - [theHamsta/tree-sitter-glsl](https://github.com/theHamsta/tree-sitter-glsl) - 
@@ -1026,6 +1026,7 @@
 - [bkaradzic/bnet](https://github.com/bkaradzic/bnet) - Message oriented networking library using TCP transport.
 - [bkaradzic/bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+- [pigpigyyy/Yuescript](https://github.com/pigpigyyy/Yuescript) - A Moonscript dialect compiles to Lua.
 - [BleuLlama/TM1637](https://github.com/BleuLlama/TM1637) - Arduino library for TM1637 (LED Driver)
 - [SindormirNet/SindormirSevenSegments](https://github.com/SindormirNet/SindormirSevenSegments) - Simple Seven Segments library for Arduino
 - [TinyTronics/TM1637_6D](https://github.com/TinyTronics/TM1637_6D) - Arduino library for the 6 digit TM1637 based segment displays
@@ -3433,7 +3434,7 @@
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) - 
 - [smolck/command-completion.nvim](https://github.com/smolck/command-completion.nvim) - 
 - [famiu/dot-nvim](https://github.com/famiu/dot-nvim) - 
-- [Hitesh-Aggarwal/feline_theme.nvim](https://github.com/Hitesh-Aggarwal/feline_theme.nvim) - Feline configuration based on various colorschemes
+- [Hitesh-Aggarwal/feline_theme.nvim](https://github.com/Hitesh-Aggarwal/feline_theme.nvim) - Feline configuration that picks colors from your current colorscheme.
 - [GnikDroy/projections.nvim](https://github.com/GnikDroy/projections.nvim) - A map to your filesystem
 - [MikaelElkiaer/reprosjession.nvim](https://github.com/MikaelElkiaer/reprosjession.nvim) - 
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
@@ -6833,6 +6834,7 @@
 
 ## Shell 
 
+- [4679/oh-my-termux](https://github.com/4679/oh-my-termux) - oh-my-termux
 - [eth-p/fish-securenv](https://github.com/eth-p/fish-securenv) - A fish function for on-demand retrieval of sensitive environment variables.
 - [eth-p/fish-promptfessional](https://github.com/eth-p/fish-promptfessional) - Your flexible and highly-customizable Fish shell prompt.
 - [atusy/zsh-nvrepl](https://github.com/atusy/zsh-nvrepl) - 
