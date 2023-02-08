@@ -180,6 +180,8 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [bupy7/xkbklu](https://github.com/bupy7/xkbklu) - Another simple utility for XKB keyboard layout.
 - [ThomasDickey/dialog-snapshots](https://github.com/ThomasDickey/dialog-snapshots) - snapshots of releases and interim labels for "dialog" program
 - [ThomasDickey/mawk-snapshots](https://github.com/ThomasDickey/mawk-snapshots) - snapshots of releases and interim labels for "mawk" program
@@ -561,7 +563,7 @@
 - [hishamhm/dit](https://github.com/hishamhm/dit) - A console text editor for Unix systems that you already know how to use
 - [RealTimeLogic/MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server
 - [shuxiao9058/qmk_firmware](https://github.com/shuxiao9058/qmk_firmware) - 
-- [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
+- [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://sourceforge.net/projects/chibios/
 - [ChibiOS/ChibiOS-Contrib](https://github.com/ChibiOS/ChibiOS-Contrib) - Community contributed code (ports, drivers, etc).
 - [mabl/ChibiOS](https://github.com/mabl/ChibiOS) - Mirror of the ChibiOS SVN repository (updated every 10 minutes)
 - [ttygde/pokoy](https://github.com/ttygde/pokoy) - Lightweight daemon that helps prevent RSI and other computer related stress
@@ -2188,7 +2190,7 @@
 - [jwiegley/emacs-release](https://github.com/jwiegley/emacs-release) - A history of Emacs releases, under version control
 - [abcdlsj/.emacs.d](https://github.com/abcdlsj/.emacs.d) - My Emacs Config (evil + modeline + spacemacs-theme/doom-theme + ...).
 - [Fanael/rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) - Emacs rainbow delimiters mode
-- [emacsmirror/mood-line](https://github.com/emacsmirror/mood-line) - A minimal mode-line inspired by doom-modeline
+- [emacsmirror/mood-line](https://github.com/emacsmirror/mood-line) - A minimal mode line inspired by doom-modeline
 - [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [IvanMalison/emit](https://github.com/IvanMalison/emit) - 
 - [IvanMalison/term-manager](https://github.com/IvanMalison/term-manager) - Manage ansi-term buffers using projectile
@@ -2534,6 +2536,9 @@
 
 ## Go 
 
+- [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
+- [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
+- [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying for tmux.
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -2942,7 +2947,6 @@
 - [Simre1/neorg-haskell-parser](https://github.com/Simre1/neorg-haskell-parser) - 
 - [amuletml/amulet](https://github.com/amuletml/amulet) - An ML-like functional programming language
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
-- [nihilistkitten/dotfiles](https://github.com/nihilistkitten/dotfiles) - 
 - [zarkone/.xmonad](https://github.com/zarkone/.xmonad) - 
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
@@ -3319,6 +3323,11 @@
 
 ## Lua 
 
+- [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
+- [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) - 🌐 A NeoVIM plugin to show the currently selected node type from lsp and treesitter information
+- [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) - Truecolor solarized theme for neovim in Lua using colorbuddy
+- [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) - cobalt2 theme for neovim in Lua using colorbuddy
+- [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) - browse for anything using your choice of method
 - [CKolkey/config](https://github.com/CKolkey/config) - Personal Config - Consume at your own risk.
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) - A port of the Vim plugin vim-lastplace. It uses the same logic as vim-lastplace, but leverages the Neovim Lua API.
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
@@ -4914,7 +4923,7 @@
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
 - [mkflaher2/dotfiles](https://github.com/mkflaher2/dotfiles) - dotfiles for LCARS theme
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My NixOS configuration files
+- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [stetre/luamoulds](https://github.com/stetre/luamoulds) - A C-like typedef for Lua
 - [stetre/lunasdl](https://github.com/stetre/lunasdl) - SDL-oriented concurrency in Lua
 - [stetre/moonsc](https://github.com/stetre/moonsc) - Harel Statecharts in Lua
@@ -6033,6 +6042,7 @@
 - [blurstudio/sublime_debugger-plugin](https://github.com/blurstudio/sublime_debugger-plugin) - A template that can be used to make debug adapters compatible with the Debugger plugin in Sublime Text 3 and 4
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
 - [tiagovla/antennas_ufmg](https://github.com/tiagovla/antennas_ufmg) - 
+- [nihilistkitten/dotfiles](https://github.com/nihilistkitten/dotfiles) - 
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
@@ -6956,6 +6966,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
+- [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
@@ -7804,7 +7815,6 @@
 - [cseickel/dwm.vim](https://github.com/cseickel/dwm.vim) - Tiled Window Management for Vim
 - [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) - :art: Template engine for Vim color schemes, in pure Vim script
 - [thinca/vim-localrc](https://github.com/thinca/vim-localrc) - Enable configuration file of each directory.
-- [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [VonHeikemen/midnight-owl.vim](https://github.com/VonHeikemen/midnight-owl.vim) - VIM color scheme based on Sarah Drasner's Night Owl VSCode theme
 - [VonHeikemen/rubber-themes.vim](https://github.com/VonHeikemen/rubber-themes.vim) - Collection of color schemes with minimal amount of highlighting for Vim.
 - [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions
