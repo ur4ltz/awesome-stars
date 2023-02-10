@@ -180,6 +180,8 @@
 
 ## C 
 
+- [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
+- [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [bupy7/xkbklu](https://github.com/bupy7/xkbklu) - Another simple utility for XKB keyboard layout.
@@ -1895,7 +1897,7 @@
 - [rougier/emacs-svg-icon](https://github.com/rougier/emacs-svg-icon) - An emacs library to create SVG icons on the fly
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Finally, a simple base Emacs configuration framework
-- [bard/emacs-director](https://github.com/bard/emacs-director) - Simulate Emacs user sessions. For end-to-end testing and hands-free screencast recording
+- [bard/emacs-director](https://github.com/bard/emacs-director) - Script Emacs sessions for automated screencasts and end-to-end tests
 - [tarsius/frameshot](https://github.com/tarsius/frameshot) - Take screenshots of a frame
 - [emacsorphanage/company-jedi](https://github.com/emacsorphanage/company-jedi) - Company backend for Python jedi
 - [tkf/emacs-jedi](https://github.com/tkf/emacs-jedi) - Python auto-completion for Emacs
@@ -3323,6 +3325,7 @@
 
 ## Lua 
 
+- [LunarVim/github.nvim](https://github.com/LunarVim/github.nvim) - 
 - [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
 - [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) - 🌐 A Neovim plugin to show the currently selected node type from lsp and treesitter information
 - [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) - Truecolor solarized theme for neovim in Lua using colorbuddy
@@ -4299,7 +4302,7 @@
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [luissimas/eval.nvim](https://github.com/luissimas/eval.nvim) - A simple code evaluator for neovim.
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
-- [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
+- [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [GustavoKatel/telescope-asynctasks.nvim](https://github.com/GustavoKatel/telescope-asynctasks.nvim) - Integration for asynctasks with telescope.nvim
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
@@ -4520,7 +4523,7 @@
 - [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
 - [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) - Bringing emacs' greatest feature to neovim - Tetris!
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
 - [tanvirtin/.tin](https://github.com/tanvirtin/.tin) - My development configurations
@@ -6249,6 +6252,7 @@
 - [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent
 - [gabrys/svn2github](https://github.com/gabrys/svn2github) - Mirror your SVN repositories to GitHub
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [gerardbm/atomic](https://github.com/gerardbm/atomic) - Color scheme for multiple code editors and terminals
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [toggle-corp/alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme) - Change colorscheme of alacritty with ease.
 - [openSUSE/osc](https://github.com/openSUSE/osc) - The Command Line Interface to work with an Open Build Service
@@ -6302,7 +6306,7 @@
 - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
 - [ajlende/dotbot-pacaur](https://github.com/ajlende/dotbot-pacaur) - dotbot pacaur plugin
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
-- [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
+- [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [slytomcat/yandex-disk-indicator](https://github.com/slytomcat/yandex-disk-indicator) - Panel indicator (GTK+) for YandexDisk CLI client for Linux
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [rizsotto/scan-build](https://github.com/rizsotto/scan-build) - Clang's scan-build re-implementation in python
@@ -7360,7 +7364,6 @@
 - [SeniorMars/dotfiles](https://github.com/SeniorMars/dotfiles) - My Rice Setup
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
-- [gerardbm/atomic](https://github.com/gerardbm/atomic) - Color scheme for multiple code editors and terminals
 - [rickysaurav/dotfiles](https://github.com/rickysaurav/dotfiles) - 
 - [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Neovim & Tmux dotfiles
