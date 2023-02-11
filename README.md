@@ -180,6 +180,8 @@
 
 ## C 
 
+- [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
+- [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -299,7 +301,7 @@
 - [MCUdude/MegaCore](https://github.com/MCUdude/MegaCore) - Arduino hardware package for ATmega64, ATmega128, ATmega165, ATmega169, ATmega325, ATmega329, ATmega640, ATmega645, ATmega649, ATmega1280, ATmega1281, ATmega2560, ATmega2561, ATmega3250, ATmega3290, A
 - [GyverLibs/EasyHID](https://github.com/GyverLibs/EasyHID) - Библиотека программного USB клавиатуры и мыши для Arduino Nano/UNO/Mega и прочих
 - [nimaipatel/st](https://github.com/nimaipatel/st) - My build of the simple terminal
-- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + lightweight)
+- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [karlc1/dwm-karlc](https://github.com/karlc1/dwm-karlc) - 
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [joestandring/nmenu](https://github.com/joestandring/nmenu) - A 'plug and play' menu system for ncurses with automatic sizing and centering
@@ -2964,6 +2966,7 @@
 
 ## Java 
 
+- [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [termux/termux-widget](https://github.com/termux/termux-widget) - Termux add-on app which adds shortcuts to commands on the home screen.
@@ -2984,7 +2987,6 @@
 - [lgallard/qBittorrent-Controller](https://github.com/lgallard/qBittorrent-Controller) - qBittorrent Controller - An Android app for controlling qBittorrent servers
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [iNPUTmice/Conversations](https://github.com/iNPUTmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android
 - [maks/viper-edit](https://github.com/maks/viper-edit) - Simple, powerful text and code editor for Android.
 - [vmihalachi/turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.
 - [BiglySoftware/BiglyBT-Android](https://github.com/BiglySoftware/BiglyBT-Android) - BiglyBT for Android, torrent client and remote control app
@@ -5675,6 +5677,7 @@
 - [kjakapat/base16-eva-scheme](https://github.com/kjakapat/base16-eva-scheme) - Eva scheme for base16
 - [topjohnwu/magisk_files](https://github.com/topjohnwu/magisk_files) - (Deprecated) Magisk File Host
 - [octol/vombatidae-mutt](https://github.com/octol/vombatidae-mutt) - Colorscheme for the Mutt email reader.
+- [iNPUTmice/Conversations](https://github.com/iNPUTmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [Timoses/dotfim](https://github.com/Timoses/dotfim) - DotfiM - A Dotfile Manager
@@ -6849,6 +6852,10 @@
 
 ## Shell 
 
+- [termux/termux-api-package](https://github.com/termux/termux-api-package) - Termux package containing scripts to call functionality in Termux:API.
+- [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
+- [sp4rkie/debian-on-termux](https://github.com/sp4rkie/debian-on-termux) - HOWTO install plain Debian 10 (buster) on your non-rooted Android smartphone
+- [gwenhael-le-moine/TermuxSlack](https://github.com/gwenhael-le-moine/TermuxSlack) - You can use setupTermuxSlack.sh 📲 to install Slackware Linux in Termux on Android and Chrome. This setup script will attempt to set Slackware Linux up in your Termux environment.
 - [4679/oh-my-termux](https://github.com/4679/oh-my-termux) - oh-my-termux
 - [eth-p/fish-securenv](https://github.com/eth-p/fish-securenv) - A fish function for on-demand retrieval of sensitive environment variables.
 - [eth-p/fish-promptfessional](https://github.com/eth-p/fish-promptfessional) - Your flexible and highly-customizable Fish shell prompt.
