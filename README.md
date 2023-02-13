@@ -233,7 +233,7 @@
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
 - [bakkeby/dmenu](https://github.com/bakkeby/dmenu) - Just another fork of dmenu
 - [amarakon/dwm](https://github.com/amarakon/dwm) - Amarakon’s build of dwm
-- [kmarius/jsregexp](https://github.com/kmarius/jsregexp) - JavaScript regular expressions for lua
+- [kmarius/jsregexp](https://github.com/kmarius/jsregexp) - JavaScript regular expressions for Lua
 - [icedman/nvim-textmate](https://github.com/icedman/nvim-textmate) - A textmate-based syntax highlighter for neovim - compatible with VScode
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) - 
@@ -2863,6 +2863,7 @@
 
 ## HTML 
 
+- [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [Phantas0s/the_valuable_dev_companion](https://github.com/Phantas0s/the_valuable_dev_companion) - Some useful files for my blog, The Valuable Dev
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
@@ -3327,6 +3328,7 @@
 
 ## Lua 
 
+- [nyngwang/cmp-codeium](https://github.com/nyngwang/cmp-codeium) - 
 - [LunarVim/github.nvim](https://github.com/LunarVim/github.nvim) - 
 - [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
 - [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) - 🌐 A Neovim plugin to show the currently selected node type from lsp and treesitter information
@@ -4038,7 +4040,7 @@
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Escape from insert mode without delay when typing
 - [arjunmahishi/dotfiles](https://github.com/arjunmahishi/dotfiles) - A collection of my dotfiles
-- [arjunmahishi/flow.nvim](https://github.com/arjunmahishi/flow.nvim) - A neovim plugin that lets you build custom commands to automate your development workflow
+- [arjunmahishi/flow.nvim](https://github.com/arjunmahishi/flow.nvim) - A neovim plugin that lets you build custom commands to automate parts of your development workflow
 - [nvim-pack/lsp-fastaction.nvim](https://github.com/nvim-pack/lsp-fastaction.nvim) - lsp codeaction UI for neovim
 - [akinsho/pubspec-assist.nvim](https://github.com/akinsho/pubspec-assist.nvim) - 
 - [akinsho/org-bullets.nvim](https://github.com/akinsho/org-bullets.nvim) - 
@@ -4214,7 +4216,7 @@
 - [ionnux/dotfiles](https://github.com/ionnux/dotfiles) - 
 - [leoluz/nvim-dap-go](https://github.com/leoluz/nvim-dap-go) - An extension for nvim-dap providing configurations for launching go debugger (delve) and debugging individual tests
 - [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [wqferr/functional](https://github.com/wqferr/functional) - Functional programming utilities implemented in pure Lua.
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
@@ -7715,6 +7717,7 @@
 
 ## Vim Script 
 
+- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [axlebedev/footprints](https://github.com/axlebedev/footprints) - Vim plugin: footprints. Highlight last edited lines.
 - [zdcthomas/medit](https://github.com/zdcthomas/medit) - a macro editing vim plugin
 - [kana/vim-fakeclip](https://github.com/kana/vim-fakeclip) - Vim plugin: Provide pseudo "clipboard" registers
@@ -8996,7 +8999,7 @@
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder that prioritizes matches on filenames
 - [daurnimator/zig-autolua](https://github.com/daurnimator/zig-autolua) - Lua binding creator for zig
 - [Vurich/octahack-zig](https://github.com/Vurich/octahack-zig) - VCV/Max-style modular plug-anything-to-anything system, designed to be embedded free-standing in an Octatrack-style physical instrument
-- [zigtools/zls](https://github.com/zigtools/zls) - The officially unofficial @ziglang language server
+- [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
