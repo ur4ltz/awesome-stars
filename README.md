@@ -180,6 +180,7 @@
 
 ## C 
 
+- [ekovac/x86term](https://github.com/ekovac/x86term) - A terminal emulator for running on bare x86 machines.
 - [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
@@ -1619,6 +1620,7 @@
 
 ## Dart 
 
+- [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter) - A ruTorrent-based client in Flutter
 
 ## Dhall 
@@ -3191,7 +3193,6 @@
 - [hiasmstudio/hion](https://github.com/hiasmstudio/hion) - HiAsm WEB ide online
 - [platformio/platformio-home](https://github.com/platformio/platformio-home) - PlatformIO Home
 - [naman14/gnome-android-tool](https://github.com/naman14/gnome-android-tool) - Gnome shell extension for adb tools
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [dapetcu21/atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) - Extensible autocomplete+ provider for Lua
 - [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
@@ -3327,6 +3328,10 @@
 
 ## Lua 
 
+- [ziontee113/zion-kit](https://github.com/ziontee113/zion-kit) - 
+- [ziontee113/snippet-factory.nvim](https://github.com/ziontee113/snippet-factory.nvim) - 
+- [ziontee113/lazy-nvim-config](https://github.com/ziontee113/lazy-nvim-config) - 
+- [ziontee113/SnippetGenie](https://github.com/ziontee113/SnippetGenie) - 
 - [smilovanovic/telescope-search-dir-picker.nvim](https://github.com/smilovanovic/telescope-search-dir-picker.nvim) - Neovim plugin. Telescope.nvim extension that adds directory picker for builtin commands.
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A autopair plugin designed to have all the fetures that a autopair plugin needs.
 - [liangxianzhe/nap.nvim](https://github.com/liangxianzhe/nap.nvim) - Quickly move between next and previous NeoVim buffer, tab, file, quickfix, diagnostic, etc.
