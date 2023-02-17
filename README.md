@@ -180,6 +180,7 @@
 
 ## C 
 
+- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [ekovac/x86term](https://github.com/ekovac/x86term) - A terminal emulator for running on bare x86 machines.
 - [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [termux/proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
@@ -359,7 +360,6 @@
 - [nekromant/esp8266-frankenstein](https://github.com/nekromant/esp8266-frankenstein) - Alternative firmware for ESP8266 modules
 - [l-n-s/transmission-i2p](https://github.com/l-n-s/transmission-i2p) - Anonymous torrent client Transmission-I2P [UNMAINTAINED]
 - [sminez/suckless](https://github.com/sminez/suckless) - my fork of various suckless utilities
-- [siduck/tabbed](https://github.com/siduck/tabbed) - my suckless-tabbed build
 - [sshspb/esp8266-platformio](https://github.com/sshspb/esp8266-platformio) - examples for esp8266 ESP-01 board on PlatformIO
 - [SerenityPorts/SerenityDOOM](https://github.com/SerenityPorts/SerenityDOOM) - DOOM port for Serenity
 - [SerenityPorts/SerenityQuake](https://github.com/SerenityPorts/SerenityQuake) - Port of Tyr-Quake compatible with SerenityOS
@@ -1782,7 +1782,7 @@
 - [mrcnski/nimbus-theme](https://github.com/mrcnski/nimbus-theme) - Nimbus dark theme for Emacs. Beautiful, slightly retro, yet readable and easy on the eyes.
 - [prettier/prettier-emacs](https://github.com/prettier/prettier-emacs) - Minor mode to format JS code on file save
 - [pythonic-emacs/blacken](https://github.com/pythonic-emacs/blacken) - Python Black for Emacs
-- [shackra/emacs](https://github.com/shackra/emacs) - Mi (nueva) configuración de GNU Emacs, usando org-mode y org-babel :)
+- [shackra/emacs](https://github.com/shackra/emacs) - Mi configuración de GNU Emacs, usando org-mode y org-babel :)
 - [novoid/dot-emacs](https://github.com/novoid/dot-emacs) - My GNU/Emacs configuration
 - [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [twlz0ne/nerd-fonts.el](https://github.com/twlz0ne/nerd-fonts.el) - Emacs nerd-fonts (https://github.com/ryanoasis/nerd-fonts) utilities.
@@ -2531,6 +2531,7 @@
 
 ## GLSL 
 
+- [pynappo/dotfiles](https://github.com/pynappo/dotfiles) - dotfiles for Windows and arch, btw.
 - [sk0x1234/swaydotfiles](https://github.com/sk0x1234/swaydotfiles) - sway dotfiles
 - [Argon-/mpv-config](https://github.com/Argon-/mpv-config) - Personal mpv configuration files and scripts (for syncing my computers). NOTE: my VO config is dynamic and relies on certain scripts (see corresponding comments in mpv.conf)
 
@@ -3031,6 +3032,7 @@
 
 ## JavaScript 
 
+- [nvim-neorg/tree-sitter-norg2](https://github.com/nvim-neorg/tree-sitter-norg2) - Attempt at a second generation parser for the Norg format.
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
 - [gurnec/removeddit](https://github.com/gurnec/removeddit) - View deleted stuff from reddit
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -3328,12 +3330,19 @@
 
 ## Lua 
 
+- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim
+- [NvChad/base46](https://github.com/NvChad/base46) - nvchad's base46 theme plugin
+- [ziontee113/ziontee113-neovim-config](https://github.com/ziontee113/ziontee113-neovim-config) - My Neovim config since Oct 6, 2022
+- [ziontee113/SelectEase](https://github.com/ziontee113/SelectEase) - 
+- [AlphabetsAlphabets/gdb.nvim](https://github.com/AlphabetsAlphabets/gdb.nvim) - Super simple GDB integration with Neovim
+- [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - This neovim plugin allows you to cycle folds open or closed
+- [oltodosel/mpv-scripts](https://github.com/oltodosel/mpv-scripts) - My and adopted lua scripts for mpv.
 - [ziontee113/zion-kit](https://github.com/ziontee113/zion-kit) - 
 - [ziontee113/snippet-factory.nvim](https://github.com/ziontee113/snippet-factory.nvim) - 
 - [ziontee113/lazy-nvim-config](https://github.com/ziontee113/lazy-nvim-config) - 
 - [ziontee113/SnippetGenie](https://github.com/ziontee113/SnippetGenie) - 
 - [smilovanovic/telescope-search-dir-picker.nvim](https://github.com/smilovanovic/telescope-search-dir-picker.nvim) - Neovim plugin. Telescope.nvim extension that adds directory picker for builtin commands.
-- [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A autopair plugin designed to have all the fetures that a autopair plugin needs.
+- [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A autopair plugin designed to have all the features that a autopair plugin needs.
 - [liangxianzhe/nap.nvim](https://github.com/liangxianzhe/nap.nvim) - Quickly move between next and previous NeoVim buffer, tab, file, quickfix, diagnostic, etc.
 - [stevearc/three.nvim](https://github.com/stevearc/three.nvim) - Neovim plugin for working with buffers, windows, and tabs
 - [arturgoms/nvim](https://github.com/arturgoms/nvim) - My own neovim config
@@ -4330,6 +4339,7 @@
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
+- [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - 
 - [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - branch v8 is live
 - [mizlan/vis-config](https://github.com/mizlan/vis-config) - 
 - [mizlan/microscope.nvim](https://github.com/mizlan/microscope.nvim) - Small Telescope-esque picker thing
@@ -5431,6 +5441,8 @@
 
 ## Others 
 
+- [nvim-neorg/library-of-norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - The Library of Alexandria, in .norg
+- [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
 - [kiyoon/tmux-conf](https://github.com/kiyoon/tmux-conf) - Tmux configuration for neovim users, plus tutorial
 - [GulajavaMinistudio/Mayukai-Theme](https://github.com/GulajavaMinistudio/Mayukai-Theme) - Combination theme for VS Code and VSCodium that inspired from Ayu Theme, Monokai , Andromeda,  Material Color, and Gruvbox Darktooth Color.
 - [kaddkaka/vim_examples](https://github.com/kaddkaka/vim_examples) - Some examples of vim features captured from terminal with asciinema.
@@ -5930,6 +5942,7 @@
 
 ## Python 
 
+- [linuxmint/mintstick](https://github.com/linuxmint/mintstick) - 
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [abo-abo/cook](https://github.com/abo-abo/cook) - Makefile -&gt; Cookbook.py
 - [python-zeroconf/python-zeroconf](https://github.com/python-zeroconf/python-zeroconf) - A pure python implementation of multicast DNS service discovery
@@ -6866,6 +6879,7 @@
 
 ## Shell 
 
+- [danymat/dotfiles](https://github.com/danymat/dotfiles) - Personal dotfiles. (zsh, nvim, tux, p10k)
 - [termux/termux-api-package](https://github.com/termux/termux-api-package) - Termux package containing scripts to call functionality in Termux:API.
 - [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
 - [sp4rkie/debian-on-termux](https://github.com/sp4rkie/debian-on-termux) - HOWTO install plain Debian 10 (buster) on your non-rooted Android smartphone
@@ -7061,7 +7075,6 @@
 - [2KAbhishek/Dotfiles](https://github.com/2KAbhishek/Dotfiles) - Passionately crafted for CLI lovers 🐧❤️
 - [kipcd/dotfiles](https://github.com/kipcd/dotfiles) - My dotfiles managed with Stow
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My dotfiles, imported with YADM https://yadm.io
-- [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - 
 - [TheNerdyHamster/dotfiles](https://github.com/TheNerdyHamster/dotfiles) - Mirror
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
 - [rbenv/rbenv-installer](https://github.com/rbenv/rbenv-installer) - Installer and doctor scripts for rbenv
@@ -9008,6 +9021,8 @@
 
 ## Zig 
 
+- [nvim-neorg/neorg-lsp](https://github.com/nvim-neorg/neorg-lsp) - An LSP for the Neorg file format.
+- [nvim-neorg/norg-fmt](https://github.com/nvim-neorg/norg-fmt) - Formatter for Neorg (https://github.com/nvim-neorg/neorg). WIP.
 - [glepnir/Zig-tutorial](https://github.com/glepnir/Zig-tutorial) - zig programming language tutorial
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder that prioritizes matches on filenames
 - [daurnimator/zig-autolua](https://github.com/daurnimator/zig-autolua) - Lua binding creator for zig
