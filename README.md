@@ -1315,7 +1315,7 @@
 - [Memphiz/xbmc](https://github.com/Memphiz/xbmc) - XBMC Main Repository
 - [srg70/pvr.puzzle.tv](https://github.com/srg70/pvr.puzzle.tv) - IPTV Live TV and Radio PVR client addon for Kodi. Supports time shift and archives.
 - [platformio/platformio-examples](https://github.com/platformio/platformio-examples) - PlatformIO Project Examples
-- [kodi-pvr/pvr.iptvsimple](https://github.com/kodi-pvr/pvr.iptvsimple) - Kodi: IPTV Simple client addon
+- [kodi-pvr/pvr.iptvsimple](https://github.com/kodi-pvr/pvr.iptvsimple) - IPTV Simple client for Kodi PVR
 - [afarhan/ubitxv6](https://github.com/afarhan/ubitxv6) - uBitx v6 Arduino sketch
 - [amunters/bitx40-japanese](https://github.com/amunters/bitx40-japanese) - BITX40 sketch for Raduino (Japanese)
 - [amunters/bitx40-raduino-v2](https://github.com/amunters/bitx40-raduino-v2) - Raduino sketch v2 for bitx40 with digital BFO
@@ -1747,7 +1747,6 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, VSCode, ...
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -3333,14 +3332,14 @@
 - [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim
 - [NvChad/base46](https://github.com/NvChad/base46) - nvchad's base46 theme plugin
 - [ziontee113/ziontee113-neovim-config](https://github.com/ziontee113/ziontee113-neovim-config) - My Neovim config since Oct 6, 2022
-- [ziontee113/SelectEase](https://github.com/ziontee113/SelectEase) - 
+- [ziontee113/SelectEase](https://github.com/ziontee113/SelectEase) - SelectEase selects matching nodes near the cursor using Treesitter queries with Vim's Select Mode.
 - [AlphabetsAlphabets/gdb.nvim](https://github.com/AlphabetsAlphabets/gdb.nvim) - Super simple GDB integration with Neovim
 - [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - This neovim plugin allows you to cycle folds open or closed
 - [oltodosel/mpv-scripts](https://github.com/oltodosel/mpv-scripts) - My and adopted lua scripts for mpv.
 - [ziontee113/zion-kit](https://github.com/ziontee113/zion-kit) - 
 - [ziontee113/snippet-factory.nvim](https://github.com/ziontee113/snippet-factory.nvim) - 
 - [ziontee113/lazy-nvim-config](https://github.com/ziontee113/lazy-nvim-config) - 
-- [ziontee113/SnippetGenie](https://github.com/ziontee113/SnippetGenie) - 
+- [ziontee113/SnippetGenie](https://github.com/ziontee113/SnippetGenie) - Snippet creation tool for Neovim
 - [smilovanovic/telescope-search-dir-picker.nvim](https://github.com/smilovanovic/telescope-search-dir-picker.nvim) - Neovim plugin. Telescope.nvim extension that adds directory picker for builtin commands.
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A autopair plugin designed to have all the features that a autopair plugin needs.
 - [liangxianzhe/nap.nvim](https://github.com/liangxianzhe/nap.nvim) - Quickly move between next and previous NeoVim buffer, tab, file, quickfix, diagnostic, etc.
@@ -4396,6 +4395,7 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, VSCode, ...
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -4955,7 +4955,6 @@
 - [stetre/lunasdl](https://github.com/stetre/lunasdl) - SDL-oriented concurrency in Lua
 - [stetre/moonsc](https://github.com/stetre/moonsc) - Harel Statecharts in Lua
 - [soumith/zbs-torch](https://github.com/soumith/zbs-torch) - A lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer
-- [LuaLS/vscode-lua](https://github.com/LuaLS/vscode-lua) - Release lua-language-server for VSCode
 - [actboy168/json.lua](https://github.com/actboy168/json.lua) - A pure Lua JSON library.
 - [MarkoPaul0/WireBait](https://github.com/MarkoPaul0/WireBait) - Run and test your Lua Wireshark dissector without Wireshark or capture data.
 - [SwissalpS/lite-plugins](https://github.com/SwissalpS/lite-plugins) - Plugins for the lite text editor
@@ -5441,6 +5440,7 @@
 
 ## Others 
 
+- [superjamie/lazyweb](https://github.com/superjamie/lazyweb) - Random scraps of my knowledge
 - [nvim-neorg/library-of-norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - The Library of Alexandria, in .norg
 - [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
 - [kiyoon/tmux-conf](https://github.com/kiyoon/tmux-conf) - Tmux configuration for neovim users, plus tutorial
@@ -7678,6 +7678,7 @@
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
 - [Novage/wt-tracker](https://github.com/Novage/wt-tracker) - High-performance WebTorrent tracker
+- [LuaLS/vscode-lua](https://github.com/LuaLS/vscode-lua) - Release lua-language-server for VSCode
 - [scttcper/qbittorrent](https://github.com/scttcper/qbittorrent) - qBittorrent api wrapper
 - [rafaelmaiolla/remote-vscode](https://github.com/rafaelmaiolla/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
 - [notomo/ctrlb.nvim](https://github.com/notomo/ctrlb.nvim) - Control web browsers with neovim
