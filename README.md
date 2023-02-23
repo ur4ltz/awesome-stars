@@ -179,6 +179,8 @@
 
 ## C 
 
+- [cameron-wags/slock](https://github.com/cameron-wags/slock) - 
+- [cameron-wags/dwm](https://github.com/cameron-wags/dwm) - dwm with my modifications
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [ekovac/x86term](https://github.com/ekovac/x86term) - A terminal emulator for running on bare x86 machines.
 - [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
@@ -698,7 +700,7 @@
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [moonjit/moonjit](https://github.com/moonjit/moonjit) - Just-In-Time Compiler for the Lua Programming language. Fork of LuaJIT to continue development. This project does not have an active maintainer, see https://twitter.com/siddhesh_p/status/1308594269502
 - [ggambetta/libz80](https://github.com/ggambetta/libz80) - An emulator of the Z80 processor (C library)
-- [EtchedPixels/EmulatorKit](https://github.com/EtchedPixels/EmulatorKit) - An RC2014 Emulator
+- [EtchedPixels/EmulatorKit](https://github.com/EtchedPixels/EmulatorKit) - A collection of emulators mostly of retrobrew style systems
 - [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [mbert/elvis](https://github.com/mbert/elvis) - The elvis vi-clone (written by Steve Kirkendall)
 - [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
@@ -2540,6 +2542,7 @@
 
 ## Go 
 
+- [cameron-wags/xstatusbar](https://github.com/cameron-wags/xstatusbar) - My super environment-specifc take on slstatus.
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar
 - [abhinav/tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy) - easymotion-style text copying for tmux.
@@ -3030,6 +3033,7 @@
 
 ## JavaScript 
 
+- [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV spreadsheet files in different rainbow colors
 - [nvim-neorg/tree-sitter-norg2](https://github.com/nvim-neorg/tree-sitter-norg2) - Attempt at a second generation parser for the Norg format.
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
 - [gurnec/removeddit](https://github.com/gurnec/removeddit) - View deleted stuff from reddit
@@ -3328,6 +3332,9 @@
 
 ## Lua 
 
+- [nullchilly/fastcolor.nvim](https://github.com/nullchilly/fastcolor.nvim) - Make every colorscheme fast (WIP)
+- [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) - fzf-lua + projections.nvim
+- [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 - [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 120 LOC
 - [lvim-tech/lvim-linguistics](https://github.com/lvim-tech/lvim-linguistics) - 
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) - Ruby tools for neovim
@@ -5455,6 +5462,7 @@
 
 ## Others 
 
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [superjamie/lazyweb](https://github.com/superjamie/lazyweb) - Random scraps of my knowledge
 - [nvim-neorg/library-of-norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - The Library of Alexandria, in .norg
 - [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
@@ -5958,6 +5966,12 @@
 
 ## Python 
 
+- [cameron-wags/rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim) - Neovim port of mechatroner/rainbow_csv
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
+- [mechatroner/atom-rainbow-csv](https://github.com/mechatroner/atom-rainbow-csv) - :rainbow: Atom package: Highlight CSV and TSV spreadsheet files in different rainbow colors
+- [mechatroner/RBQL](https://github.com/mechatroner/RBQL) - 🦜RBQL - Rainbow Query Language: SQL-like query engine for (not only) CSV file processing. Supports SQL queries with Python and JavaScript expressions.
+- [mechatroner/sublime_rainbow_csv](https://github.com/mechatroner/sublime_rainbow_csv) - 🌈Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queeries in SQL-like language
+- [mechatroner/rainbow_csv](https://github.com/mechatroner/rainbow_csv) - 🌈Rainbow CSV - Vim plugin: Highlight columns in CSV and TSV files and run queries in SQL-like language
 - [linuxmint/mintstick](https://github.com/linuxmint/mintstick) - 
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [abo-abo/cook](https://github.com/abo-abo/cook) - Makefile -&gt; Cookbook.py
@@ -6892,6 +6906,7 @@
 
 ## Shell 
 
+- [cameron-wags/dmenu](https://github.com/cameron-wags/dmenu) - My fork, packaged and patched with fuzzy match
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [xPMo/zsh-ls-colors](https://github.com/xPMo/zsh-ls-colors) - A zsh library to use LS_COLORS
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
@@ -7760,6 +7775,7 @@
 
 ## Vim Script 
 
+- [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
 - [kiyoon/tmuxsend.vim](https://github.com/kiyoon/tmuxsend.vim) - Vim plugin that lets you copy and paste to a different tmux pane.
 - [l00sed/nvim-lua-config](https://github.com/l00sed/nvim-lua-config) - 
 - [igorgue/dotvim](https://github.com/igorgue/dotvim) - Vim config files
