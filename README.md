@@ -3332,6 +3332,32 @@
 
 ## Lua 
 
+- [echasnovski/mini.align](https://github.com/echasnovski/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
+- [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
+- [echasnovski/mini.base16](https://github.com/echasnovski/mini.base16) - Neovim Lua plugin for Base16 colorscheme creation. Part of 'mini.nvim' library.
+- [echasnovski/mini.bufremove](https://github.com/echasnovski/mini.bufremove) - Neovim Lua plugin to remove buffers. Part of 'mini.nvim' library.
+- [echasnovski/mini.comment](https://github.com/echasnovski/mini.comment) - Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.
+- [echasnovski/mini.cursorword](https://github.com/echasnovski/mini.cursorword) - Neovim Lua plugin for autohighlighting word under cursor. Part of 'mini.nvim' library.
+- [echasnovski/mini.doc](https://github.com/echasnovski/mini.doc) - Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.
+- [echasnovski/mini.fuzzy](https://github.com/echasnovski/mini.fuzzy) - Neovim Lua plugin with fuzzy matching functionality. Part of 'mini.nvim' library.
+- [echasnovski/mini.jump2d](https://github.com/echasnovski/mini.jump2d) - Neovim Lua plugin to jump within visible lines. Part of 'mini.nvim' library.
+- [echasnovski/mini.map](https://github.com/echasnovski/mini.map) - Neovim Lua plugin to manage window with buffer text overview. Part of 'mini.nvim' library.
+- [echasnovski/mini.misc](https://github.com/echasnovski/mini.misc) - Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.
+- [echasnovski/mini.pairs](https://github.com/echasnovski/mini.pairs) - Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.
+- [echasnovski/mini.sessions](https://github.com/echasnovski/mini.sessions) - Neovim Lua plugin for session management. Part of 'mini.nvim' library.
+- [echasnovski/mini.starter](https://github.com/echasnovski/mini.starter) - Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.
+- [echasnovski/mini.statusline](https://github.com/echasnovski/mini.statusline) - Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.
+- [echasnovski/mini.surround](https://github.com/echasnovski/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
+- [echasnovski/mini.tabline](https://github.com/echasnovski/mini.tabline) - Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.
+- [echasnovski/mini.test](https://github.com/echasnovski/mini.test) - Neovim Lua plugin to test Neovim plugins. Part of 'mini.nvim' library.
+- [echasnovski/mini.trailspace](https://github.com/echasnovski/mini.trailspace) - Neovim Lua plugin to manage trailspace (highlight and remove). Part of 'mini.nvim' library.
+- [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
+- [echasnovski/mini.basics](https://github.com/echasnovski/mini.basics) - Neovim Lua plugin with common configuration presets for options, mappings, and autocommands. Part of 'mini.nvim' library.
+- [echasnovski/mini.completion](https://github.com/echasnovski/mini.completion) - Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.
+- [echasnovski/mini.indentscope](https://github.com/echasnovski/mini.indentscope) - Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.
+- [echasnovski/mini.move](https://github.com/echasnovski/mini.move) - Neovim Lua plugin to move any selection in any direction. Part of 'mini.nvim' library.
+- [echasnovski/mini.jump](https://github.com/echasnovski/mini.jump) - Neovim Lua plugin to jump forward/backward to a single character. Part of 'mini.nvim' library.
+- [echasnovski/mini.bracketed](https://github.com/echasnovski/mini.bracketed) - Neovim Lua plugin to go forward/backward with square brackets. Part of 'mini.nvim' library.
 - [nullchilly/fastcolor.nvim](https://github.com/nullchilly/fastcolor.nvim) - Make every colorscheme fast (WIP)
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) - fzf-lua + projections.nvim
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
@@ -3628,7 +3654,7 @@
 - [sam4llis/nvim-cobalt](https://github.com/sam4llis/nvim-cobalt) - A simple plugin for alternating text in treesitter nodes.
 - [sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) - A theme for Neovim with support for LSP, Treesitter, Telescope, and more.
 - [sam4llis/telescope-arglist.nvim](https://github.com/sam4llis/telescope-arglist.nvim) - A telescope.nvim picker for the argument list.
-- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
+- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker/colorizer plugin.
 - [phaazon/poesie.nvim](https://github.com/phaazon/poesie.nvim) - 
 - [phaazon/config](https://github.com/phaazon/config) - My main configuration files
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
@@ -7431,7 +7457,7 @@
 - [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Neovim & Tmux dotfiles
 - [tkabber/Tkabber-pack](https://github.com/tkabber/Tkabber-pack) - Tkabber distribution for Windows
-- [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Fish, Karabiner, VSCode, Sublime, Neovim, Nix
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, VS Code
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
 - [Twanislas/AutoPVR](https://github.com/Twanislas/AutoPVR) - Fully automated PVR with Plex, Sonarr, qBittorrent and Jackett
 - [veggiedefender/dotfiles](https://github.com/veggiedefender/dotfiles) - i3 config
