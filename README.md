@@ -1417,7 +1417,7 @@
 - [RunestoneInteractive/RunestoneServer](https://github.com/RunestoneInteractive/RunestoneServer) - Interactive books for computer science and mathematics
 - [geometer/FBReader](https://github.com/geometer/FBReader) - Official FBReader C++ project repository
 - [mattn/tinytinyhttpd](https://github.com/mattn/tinytinyhttpd) - tiny tiny httpd
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X (and other things, too)
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [qtproject/qt-solutions](https://github.com/qtproject/qt-solutions) - 
 - [excelsior-oss/far-git-autocomplete](https://github.com/excelsior-oss/far-git-autocomplete) - Git Autocomplete is a Far Manager plugin
 - [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
@@ -1811,7 +1811,7 @@
 - [Wilfred/propcheck](https://github.com/Wilfred/propcheck) - Quickcheck/hypothesis style testing for elisp
 - [Wilfred/elisp-refs](https://github.com/Wilfred/elisp-refs) - semantic code search for emacs lisp
 - [emacs-elsa/flycheck-elsa](https://github.com/emacs-elsa/flycheck-elsa) - Flycheck integration for Elsa---Emacs lisp static analyzer
-- [emacs-elsa/Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyzer
+- [emacs-elsa/Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyzer and gradual type system.
 - [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
 - [purcell/color-theme-sanityinc-tomorrow](https://github.com/purcell/color-theme-sanityinc-tomorrow) - A set of comprehensive Emacs color themes based on Chris Kempson's 'tomorrow' themes
 - [zonuexe/dotfiles](https://github.com/zonuexe/dotfiles) - tadsan@zonuexe's dotfiles (.emacs, .zsh*, .profile... etc.)
@@ -2667,7 +2667,7 @@
 - [hoshsadiq/m3ufilter](https://github.com/hoshsadiq/m3ufilter) - ABANDONED - A tool that allows to filter specific items from an m3u filter designed for IPTV.
 - [norcalli/capacitor](https://github.com/norcalli/capacitor) - Simple capacitor code calculator on the command line written in Go and Python.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
-- [curusarn/resh](https://github.com/curusarn/resh) - Rich Enhanced Shell History - Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - REcycle SHell - Contextual shell history for zsh and bash
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [ungerik/go-cairo](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library
 - [prasmussen/glot-code-runner](https://github.com/prasmussen/glot-code-runner) - Code runner
@@ -2909,7 +2909,6 @@
 - [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 - [bittorrent/bittorrent.org](https://github.com/bittorrent/bittorrent.org) - 
 - [boltsparts/BOLTS_archive](https://github.com/boltsparts/BOLTS_archive) - BOLTS is a open library of technical specifications
-- [poucotm/Guna](https://github.com/poucotm/Guna) - 🍁 Most Innovative Theme for Sublime Text
 - [stacyharper/base16-i3status](https://github.com/stacyharper/base16-i3status) - 
 - [Deadleg/idea-openresty-lua-support](https://github.com/Deadleg/idea-openresty-lua-support) - Idea plugin that adds completion of the openresty Nginx API
 - [chrisbra/vim_faq](https://github.com/chrisbra/vim_faq) - The Vim FAQ from http://vimdoc.sourceforge.net/ (outdated), updates available at:
@@ -3332,6 +3331,7 @@
 
 ## Lua 
 
+- [TheSafdarAwan/find-extender.nvim](https://github.com/TheSafdarAwan/find-extender.nvim) - extend the find command in nvim
 - [echasnovski/mini.align](https://github.com/echasnovski/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
 - [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
 - [echasnovski/mini.base16](https://github.com/echasnovski/mini.base16) - Neovim Lua plugin for Base16 colorscheme creation. Part of 'mini.nvim' library.
@@ -3837,7 +3837,6 @@
 - [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage, colorscheme switcher for Neovim
 - [EtiamNullam/relative-source.nvim](https://github.com/EtiamNullam/relative-source.nvim) - Use this plugin to keep your neovim config clean and portable!
 - [bushblade/nvim](https://github.com/bushblade/nvim) - Moving from CoC to native LSP in nvim 0.7
-- [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [nvoid-lua/nvoid](https://github.com/nvoid-lua/nvoid) - nvim with lua is cool
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration
 - [arnarg/todo-prompt.nvim](https://github.com/arnarg/todo-prompt.nvim) - A work in progress neovim plugin that provides a prompt to add tasks and todos quickly.
@@ -6364,6 +6363,7 @@
 - [imDMG/qBt_SE](https://github.com/imDMG/qBt_SE) - qBittorrent search engine plugins
 - [jonian/kickoff-player](https://github.com/jonian/kickoff-player) - GTK3 player with MPV, VLC and GStreamer backends, for streaming Ace Streams
 - [rootkiwi/an2linuxserver](https://github.com/rootkiwi/an2linuxserver) - Sync Android notifications encrypted to a Linux desktop
+- [poucotm/Guna](https://github.com/poucotm/Guna) - 🍁 Most Innovative Theme for Sublime Text
 - [SublimeText/AFileIcon](https://github.com/SublimeText/AFileIcon) - Sublime Text File-Specific Icons for Improved Visual Grepping
 - [easyw/kicad-3d-models-in-freecad](https://github.com/easyw/kicad-3d-models-in-freecad) - kicad 3d models in freecad
 - [tdw1980/tdw](https://github.com/tdw1980/tdw) - 
@@ -7654,6 +7654,7 @@
 - [bscan/PerlNavigator](https://github.com/bscan/PerlNavigator) - Perl Language Server that includes syntax checking, perl critic, and code navigation
 - [lambdalisue/gin.vim](https://github.com/lambdalisue/gin.vim) - 🥃  Gin makes you drunk on Git
 - [Beaglefoot/awk-language-server](https://github.com/Beaglefoot/awk-language-server) - Language Server for AWK and associated VSCode client extension
+- [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [emacs-grammarly/unofficial-grammarly-language-server](https://github.com/emacs-grammarly/unofficial-grammarly-language-server) - Unofficial Grammarly extension
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
@@ -7909,7 +7910,7 @@
 - [yogeshdhamija/terminal-command-motion.vim](https://github.com/yogeshdhamija/terminal-command-motion.vim) - Add a motion to vim representing a terminal command (in a terminal buffer) so you can yank it, or navigate by commands rather than words or lines.
 - [zhamlin/tiler.vim](https://github.com/zhamlin/tiler.vim) - Tiling window manger for Vim
 - [thaerkh/vim-workspace](https://github.com/thaerkh/vim-workspace) - 📑 Automated Vim session management with file auto-save and persistent undo history
-- [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
+- [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: Work with several variants of a word at once
 - [stefandtw/quickfix-reflector.vim](https://github.com/stefandtw/quickfix-reflector.vim) - Change code right in the quickfix window
 - [hrsh7th/vim-searchx](https://github.com/hrsh7th/vim-searchx) - The extended search motion.
 - [marklcrns/vim-smartq](https://github.com/marklcrns/vim-smartq) - Master key for exiting or deleting nvim/vim buffers with respect to window splits and tabs.
@@ -8788,7 +8789,6 @@
 - [tbastos/vim-lua](https://github.com/tbastos/vim-lua) - Improved Lua 5.3 syntax and indentation support for Vim
 - [vim-ruby/vim-ruby](https://github.com/vim-ruby/vim-ruby) - Vim/Ruby Configuration Files
 - [LER0ever/EverVim](https://github.com/LER0ever/EverVim) - A Modern, Powerful & Modular Vim Distribution | Archived, see notice: https://ry.sb/evervim-archive
-- [ackyshake/VimCompletesMe](https://github.com/ackyshake/VimCompletesMe) - You don't Complete Me; Vim Completes Me! A super simple, super minimal, super light-weight tab completion plugin for Vim.
 - [bling/vim-bufferline](https://github.com/bling/vim-bufferline) - super simple vim plugin to show the list of buffers in the command bar
 - [novadev94/vim-bufferline](https://github.com/novadev94/vim-bufferline) - super simple vim plugin to show the list of buffers in the command bar
 - [novadev94/lightline-onedark](https://github.com/novadev94/lightline-onedark) - A lightline.vim theme for onedark.vim colorscheme
