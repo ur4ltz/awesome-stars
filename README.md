@@ -1577,7 +1577,6 @@
 ## Common Lisp 
 
 - [herth/ltk](https://github.com/herth/ltk) - 
-- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [hellerve/sbcli](https://github.com/hellerve/sbcli) - A REPL for my SBCL needs
 - [quicklisp/quicklisp-client](https://github.com/quicklisp/quicklisp-client) - Quicklisp client.
 - [eudoxia0/cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C
@@ -2250,7 +2249,6 @@
 - [ianyepan/acme-emacs-theme](https://github.com/ianyepan/acme-emacs-theme) - An Emacs theme inspired by Plan 9's Acme & Sam Editor
 - [rmuslimov/browse-at-remote](https://github.com/rmuslimov/browse-at-remote) - Browse target page on github/bitbucket from emacs buffers
 - [TheBB/spaceline](https://github.com/TheBB/spaceline) - Powerline theme from Spacemacs
-- [sparkcanon/.doom.d](https://github.com/sparkcanon/.doom.d) - My doom emacs config
 - [blaenk/dots](https://github.com/blaenk/dots) - my dot files
 - [racer-rust/emacs-racer](https://github.com/racer-rust/emacs-racer) - Racer support for Emacs
 - [sebastiencs/pos-tip](https://github.com/sebastiencs/pos-tip) - Show tooltip at point
@@ -2503,6 +2501,7 @@
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration using Fennel
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
+- [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## Forth 
@@ -2667,7 +2666,7 @@
 - [hoshsadiq/m3ufilter](https://github.com/hoshsadiq/m3ufilter) - ABANDONED - A tool that allows to filter specific items from an m3u filter designed for IPTV.
 - [norcalli/capacitor](https://github.com/norcalli/capacitor) - Simple capacitor code calculator on the command line written in Go and Python.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
-- [curusarn/resh](https://github.com/curusarn/resh) - REcycle SHell - Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - RESH - Contextual shell history for zsh and bash
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [ungerik/go-cairo](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library
 - [prasmussen/glot-code-runner](https://github.com/prasmussen/glot-code-runner) - Code runner
@@ -4126,7 +4125,7 @@
 - [stevedonovan/el](https://github.com/stevedonovan/el) - A more commamd-line friendly style of using Lua
 - [Mattio-cmd/SigmaNvim](https://github.com/Mattio-cmd/SigmaNvim) - 
 - [uga-rosa/filittle.nvim](https://github.com/uga-rosa/filittle.nvim) - A simple and fast file explorer written in Lua.
-- [uga-rosa/translate.nvim](https://github.com/uga-rosa/translate.nvim) - Use any external translate command / API in nvim.
+- [uga-rosa/translate.nvim](https://github.com/uga-rosa/translate.nvim) - Use any external translate command/API in nvim.
 - [uga-rosa/deepl.nvim](https://github.com/uga-rosa/deepl.nvim) - Hit deepl api from neovim and display in floating window
 - [uga-rosa/eiwa_dic.nvim](https://github.com/uga-rosa/eiwa_dic.nvim) - neovimのフローティングウィンドウを使った英和辞書
 - [uga-rosa/ugamacs](https://github.com/uga-rosa/ugamacs) - A set of codes used to analyze a gromacs simulation.
@@ -4997,7 +4996,6 @@
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
 - [mkflaher2/dotfiles](https://github.com/mkflaher2/dotfiles) - dotfiles for LCARS theme
-- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [stetre/luamoulds](https://github.com/stetre/luamoulds) - A C-like typedef for Lua
 - [stetre/lunasdl](https://github.com/stetre/lunasdl) - SDL-oriented concurrency in Lua
 - [stetre/moonsc](https://github.com/stetre/moonsc) - Harel Statecharts in Lua
@@ -5150,7 +5148,6 @@
 - [haorenW1025/dotfiles](https://github.com/haorenW1025/dotfiles) - My dot files with neovim setting
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, rofi, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [andriiyaremenko/dotfiles](https://github.com/andriiyaremenko/dotfiles) - 
-- [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) - a neovim syntax highlighter using treesitter
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [steino/lua-xmlrpc](https://github.com/steino/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
@@ -5445,11 +5442,13 @@
 
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
+- [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [aserowy/dots](https://github.com/aserowy/dots) - dotfiles
 - [xFA25E/nix-config](https://github.com/xFA25E/nix-config) - dotfiles
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
+- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [teto/home](https://github.com/teto/home) - Configurations
 - [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
 
@@ -7808,7 +7807,7 @@
 - [igorgue/dotvim](https://github.com/igorgue/dotvim) - Vim config files
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
-- [axlebedev/footprints](https://github.com/axlebedev/footprints) - Vim plugin: footprints. Highlight last edited lines.
+- [axlebedev/vim-footprints](https://github.com/axlebedev/vim-footprints) - Vim plugin: footprints. Highlight last edited lines.
 - [zdcthomas/medit](https://github.com/zdcthomas/medit) - a macro editing vim plugin
 - [kana/vim-fakeclip](https://github.com/kana/vim-fakeclip) - Vim plugin: Provide pseudo "clipboard" registers
 - [smzm/hydrovim](https://github.com/smzm/hydrovim) - ➡️ Run python code inside Neovim
