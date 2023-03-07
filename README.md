@@ -179,6 +179,7 @@
 
 ## C 
 
+- [NicoHood/PinChangeInterrupt](https://github.com/NicoHood/PinChangeInterrupt) - A simple & compact PinChangeInterrupt library for Arduino
 - [cameron-wags/slock](https://github.com/cameron-wags/slock) - 
 - [cameron-wags/dwm](https://github.com/cameron-wags/dwm) - dwm with my modifications
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
@@ -2490,7 +2491,6 @@
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
 - [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~p00f/godbolt.nvim instead
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [rafaeldelboni/cajus-nvim](https://github.com/rafaeldelboni/cajus-nvim) - Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure.
@@ -2922,7 +2922,7 @@
 - [alexanderk23/zxdn](https://github.com/alexanderk23/zxdn) - ZXDN
 - [picandocodigo/emacs.sexy](https://github.com/picandocodigo/emacs.sexy) - Emacs.sexy
 - [pozitronik/TCConfig](https://github.com/pozitronik/TCConfig) - My Total Commander configuration
-- [bitprophet/alabaster](https://github.com/bitprophet/alabaster) - Lightweight, configurable Sphinx theme. Now the Sphinx default!
+- [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme. Now the Sphinx default!
 - [planetruby/conferences](https://github.com/planetruby/conferences) - What's Upcoming in 2023? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!
 - [TeMPOraL/cl-sqlite](https://github.com/TeMPOraL/cl-sqlite) - Common Lisp binding for SQLite
 - [obdev/CrossPack-AVR](https://github.com/obdev/CrossPack-AVR) - Script and associated files for building avr-gcc and related tools on Mac OS X with Xcode 4
@@ -3200,6 +3200,7 @@
 - [hiasmstudio/hion](https://github.com/hiasmstudio/hion) - HiAsm WEB ide online
 - [platformio/platformio-home](https://github.com/platformio/platformio-home) - PlatformIO Home
 - [naman14/gnome-android-tool](https://github.com/naman14/gnome-android-tool) - Gnome shell extension for adb tools
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [dapetcu21/atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) - Extensible autocomplete+ provider for Lua
 - [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
@@ -3336,6 +3337,9 @@
 
 ## Lua 
 
+- [LucasTavaresA/simpleCommand.nvim](https://github.com/LucasTavaresA/simpleCommand.nvim) - Saves a table of commands based on cwd
+- [LucasTavaresA/SingleComment.nvim](https://github.com/LucasTavaresA/SingleComment.nvim) - Comment using only single line comments.
+- [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [anuvyklack/nvim-api-wrappers](https://github.com/anuvyklack/nvim-api-wrappers) - 
 - [anuvyklack/blueflower](https://github.com/anuvyklack/blueflower) - 
 - [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) - Rainbow delimiters for Neovim through Tree-sitter
@@ -3678,6 +3682,7 @@
 - [ii14/dotfiles](https://github.com/ii14/dotfiles) - dotfiles
 - [ii14/vimuri.nvim](https://github.com/ii14/vimuri.nvim) - 
 - [ii14/autosplit.nvim](https://github.com/ii14/autosplit.nvim) - 
+- [miversen33/miversen-dotfiles](https://github.com/miversen33/miversen-dotfiles) - 
 - [WhoIsSethDaniel/lualine-lsp-progress.nvim](https://github.com/WhoIsSethDaniel/lualine-lsp-progress.nvim) - LSP progress lualine component
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
 - [Hvassaa/sterm.nvim](https://github.com/Hvassaa/sterm.nvim) - (s)tupid (term)inal
@@ -4014,6 +4019,7 @@
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [fitrh/init.nvim](https://github.com/fitrh/init.nvim) - What nvim talk about when they talk about configuration
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
+- [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
 - [dmitmel/cmp-cmdline-history](https://github.com/dmitmel/cmp-cmdline-history) - Source for nvim-cmp which reads results from command-line or search histories
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - Incremental fuzzy search motion plugin for Neovim
@@ -6188,7 +6194,7 @@
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [FooSoft/tetrys](https://github.com/FooSoft/tetrys) - Simple Tetris clone written in Python.
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - Make Ranger running in a floating window to communicate with Neovim via RPC
 - [google/adb-sync](https://github.com/google/adb-sync) - 
 - [Arceliar/yggdrasil-map](https://github.com/Arceliar/yggdrasil-map) - Yggdrasil network map
@@ -6997,7 +7003,6 @@
 - [benvan/sandboxd](https://github.com/benvan/sandboxd) - speeds up your bashrc by running (slow) setup commands on the fly
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠
-- [miversen33/miversen-dotfiles](https://github.com/miversen33/miversen-dotfiles) - 
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [santigo-zero/dotfiles](https://github.com/santigo-zero/dotfiles) - 
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
@@ -7053,7 +7058,7 @@
 - [MichalPlacek/opensuse-i3-tuning](https://github.com/MichalPlacek/opensuse-i3-tuning) - opensuse & i3 - configs & changes
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Read-only mirror of nsxiv-extra
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more + scripted installation guide
 - [igorepst/dotfiles-reboot](https://github.com/igorepst/dotfiles-reboot) - Reboot of dotfiles
 - [tydavis/dotfiles](https://github.com/tydavis/dotfiles) - Dotfiles with setup scripts
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
