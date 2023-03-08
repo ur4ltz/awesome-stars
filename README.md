@@ -4338,7 +4338,7 @@
 - [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles:
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
-- [jakelinnzy/autocmd-lua](https://github.com/jakelinnzy/autocmd-lua) - Define Neovim autocommands without pain
+- [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
 - [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;= v0.9.0-dev-373+gf1b88ced0) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
@@ -6970,7 +6970,7 @@
 - [thytom/dwmbar](https://github.com/thytom/dwmbar) - A Modular Status Bar for dwm.
 - [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator for Tmux.
 - [rashed145/TermuxGUI](https://github.com/rashed145/TermuxGUI) - Termux GUI setup for VNC
-- [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [kiyoon/treemux](https://github.com/kiyoon/treemux) - A modern file explorer (Nvim-Tree) as a Tmux sidebar, with dynamic updates and bi-directional interaction.
 - [bremme/arduino-project](https://github.com/bremme/arduino-project) - Arduino project skeleton
@@ -8599,7 +8599,7 @@
 - [skywind3000/vim](https://github.com/skywind3000/vim) - Personal Vim Profile
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
 - [brammool/vim9](https://github.com/brammool/vim9) - An experimental fork of Vim, exploring ways to make Vim script faster and better.
-- [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
+- [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [benawad/dotfiles](https://github.com/benawad/dotfiles) - 
 - [wincent/loupe](https://github.com/wincent/loupe) - 🔍 Enhanced in-file search for Vim
 - [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
