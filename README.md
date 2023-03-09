@@ -530,7 +530,7 @@
 - [davatorium/rofi-file-browser](https://github.com/davatorium/rofi-file-browser) - 
 - [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
 - [RealTimeLogic/JSON](https://github.com/RealTimeLogic/JSON) - JSON C/C++ Library for IoT Communication
-- [RealTimeLogic/LspAppMgr-ESP32](https://github.com/RealTimeLogic/LspAppMgr-ESP32) - Barracuda App Server Build Files for ESP32
+- [RealTimeLogic/Xedge-ESP32](https://github.com/RealTimeLogic/Xedge-ESP32) - Xedge ESP32 peripheral API and Build Files
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [soybin/ckube](https://github.com/soybin/ckube) - raymarcher for your terminal
 - [Huulivoide/libdrawille](https://github.com/Huulivoide/libdrawille) - C implementation of drawille library and extra drawing functionality
@@ -1657,6 +1657,8 @@
 
 ## Emacs Lisp 
 
+- [cybniv/poetry.el](https://github.com/cybniv/poetry.el) - Python dependency management and packaging in Emacs
+- [mjlbach/kickstart.el](https://github.com/mjlbach/kickstart.el) - The WIP migration path from kickstart.nvim
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
 - [abo-abo/dired-guess](https://github.com/abo-abo/dired-guess) - Associate file extensions with programs that can open them for dired
 - [abo-abo/zoutline](https://github.com/abo-abo/zoutline) - Emacs library for outlines
@@ -3179,7 +3181,7 @@
 - [belaviyo/send-to-vlc](https://github.com/belaviyo/send-to-vlc) - A Webextension to send streamble media sources to VLC (VideoLAN) media player
 - [iamcco/sran.nvim](https://github.com/iamcco/sran.nvim) - simple request and notification call for (neo)vim
 - [iamcco/git-p.nvim](https://github.com/iamcco/git-p.nvim) - Git plus for (neo)vim
-- [arcticicestudio/nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
+- [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [Azganoth/tree-sitter-lua](https://github.com/Azganoth/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [rozhuk-im/rutorrent-hostname](https://github.com/rozhuk-im/rutorrent-hostname) - 
 - [Micdu70/ruTorrent](https://github.com/Micdu70/ruTorrent) - Yet another web front-end for rTorrent
@@ -3337,6 +3339,8 @@
 
 ## Lua 
 
+- [NTBBloodbath/sweetie.nvim](https://github.com/NTBBloodbath/sweetie.nvim) - A clean, delightful and highly customizable Neovim colorscheme written in Lua
+- [mjlbach/kickstart.nvim](https://github.com/mjlbach/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [LucasTavaresA/simpleCommand.nvim](https://github.com/LucasTavaresA/simpleCommand.nvim) - Saves a table of commands based on cwd
 - [LucasTavaresA/SingleComment.nvim](https://github.com/LucasTavaresA/SingleComment.nvim) - Comment using only single line comments.
 - [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
@@ -4151,7 +4155,7 @@
 - [dcampos/nvim-quickmap](https://github.com/dcampos/nvim-quickmap) - Neovim plugin for quickly mapping keys in Lua.
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [uga-rosa/steelarray.nvim](https://github.com/uga-rosa/steelarray.nvim) - Useful functions for array like table
-- [uga-rosa/dotfiles](https://github.com/uga-rosa/dotfiles) - My neovim, zsh, tmux, and etc. config
+- [uga-rosa/dotfiles](https://github.com/uga-rosa/dotfiles) - My personal configs
 - [Frau2015/love2dGames](https://github.com/Frau2015/love2dGames) - practice games made in love2d framework
 - [Frau2015/Conways-Game-of-Life](https://github.com/Frau2015/Conways-Game-of-Life) - Conway's game of life using love2d framework
 - [WaylonWalker/Telegraph.nvim](https://github.com/WaylonWalker/Telegraph.nvim) - Send commands system commands in an elegant way
