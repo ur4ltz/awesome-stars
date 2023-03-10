@@ -179,6 +179,7 @@
 
 ## C 
 
+- [sadr0b0t/arduino-timer-api](https://github.com/sadr0b0t/arduino-timer-api) - Cross-platform Arduino timer API
 - [NicoHood/PinChangeInterrupt](https://github.com/NicoHood/PinChangeInterrupt) - A simple & compact PinChangeInterrupt library for Arduino
 - [cameron-wags/slock](https://github.com/cameron-wags/slock) - 
 - [cameron-wags/dwm](https://github.com/cameron-wags/dwm) - dwm with my modifications
@@ -3339,6 +3340,7 @@
 
 ## Lua 
 
+- [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) - Markdown like keymaps for toggling text formatting
 - [NTBBloodbath/sweetie.nvim](https://github.com/NTBBloodbath/sweetie.nvim) - A clean, delightful and highly customizable Neovim colorscheme written in Lua
 - [mjlbach/kickstart.nvim](https://github.com/mjlbach/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [LucasTavaresA/simpleCommand.nvim](https://github.com/LucasTavaresA/simpleCommand.nvim) - Saves a table of commands based on cwd
@@ -4622,7 +4624,7 @@
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
 - [alex-popov-tech/timer.nvim](https://github.com/alex-popov-tech/timer.nvim) - Minimalistic timer functionality for neovim.
 - [faerryn/user.nvim](https://github.com/faerryn/user.nvim) - Since the advent of vim and neovim, countless package managers have appeared and dissappeared. Well, here's another to the list.
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 OneDarkPro theme for Neovim. Customisable colors, styles, highlights, filetype highlights and LSP semantic tokens
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme for Neovim. Fully customisable, with Treesitter and LSP semantic token support
 - [rmagatti/dotfiles](https://github.com/rmagatti/dotfiles) - Collection of my dotfiles. Likely unpolished and at times forgotten but always around. :wink:
 - [rmagatti/alternate-toggler](https://github.com/rmagatti/alternate-toggler) - A very small plugin for toggling alternate "boolean" values.
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
@@ -7238,6 +7240,7 @@
 - [tam-carre/polywins](https://github.com/tam-carre/polywins) - A featureful and customizable taskbar for polybar.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pmeiyu/dot-config](https://github.com/pmeiyu/dot-config) - My ~/.config files
+- [Mte90/dotfiles](https://github.com/Mte90/dotfiles) - My dotfiles
 - [mrossinek/dotfiles](https://github.com/mrossinek/dotfiles) - My dotfiles
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
@@ -7499,7 +7502,7 @@
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [arcticicestudio/nord-gedit](https://github.com/arcticicestudio/nord-gedit) - An arctic, north-bluish clean and elegant gedit syntax theme.
-- [arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux) - An arctic, north-bluish clean and elegant tmux color theme.
+- [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [arcticicestudio/nord-xfce-terminal](https://github.com/arcticicestudio/nord-xfce-terminal) - An arctic, north-bluish clean and elegant Xfce Terminal color theme.
 - [arcticicestudio/nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
@@ -8173,7 +8176,6 @@
 - [lervag/wiki-ft.vim](https://github.com/lervag/wiki-ft.vim) - Simple Vim filetype plugin for wiki-files
 - [lervag/dotvim](https://github.com/lervag/dotvim) - Vim settings
 - [Soneji/dotfiles](https://github.com/Soneji/dotfiles) - My dotfiles - managed by yadm.io
-- [Mte90/dotfiles](https://github.com/Mte90/dotfiles) - My dotfiles
 - [AndrewRadev/gnugo.vim](https://github.com/AndrewRadev/gnugo.vim) - Play a game of Go in your text editor, using GnuGo
 - [axvr/org.vim](https://github.com/axvr/org.vim) - Org mode syntax highlighting and folding for Vim.
 - [AndrewRadev/Vimfiles](https://github.com/AndrewRadev/Vimfiles) - My .vim folder
