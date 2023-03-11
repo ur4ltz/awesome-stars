@@ -465,7 +465,6 @@
 - [mil/foo-wm](https://github.com/mil/foo-wm) - A minimal window manager that organizes windows in a tree data structure, provides a socket to send commands to, and nothing more.
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [javalikescript/webview-c](https://github.com/javalikescript/webview-c) - A tiny cross-platform webview C library to build modern cross-platform GUIs
-- [arcapos/luanet](https://github.com/arcapos/luanet) - Network access for Lua
 - [luarocks/cluacov](https://github.com/luarocks/cluacov) - C extensions for LuaCov
 - [siffiejoe/lua-tinylthread](https://github.com/siffiejoe/lua-tinylthread) - Tiny threading module for Lua
 - [siffiejoe/lua-rotable](https://github.com/siffiejoe/lua-rotable) - Save memory with custom module "tables"
@@ -800,7 +799,7 @@
 - [martanne/dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console base
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [c00kiemon5ter/monsterwm](https://github.com/c00kiemon5ter/monsterwm) - tiny but monstrous tiling window manager
-- [zen-tools/gxkb](https://github.com/zen-tools/gxkb) - :fr::uk::de: X11 keyboard indicator and switcher
+- [zen-tools/gxkb](https://github.com/zen-tools/gxkb) - 🇺🇦 🇵🇱 🇱🇹 X11 keyboard indicator and switcher
 - [altdesktop/i3ipc-glib](https://github.com/altdesktop/i3ipc-glib) - A C interface library to i3wm
 - [mstg/zx](https://github.com/mstg/zx) - i3 scratchpad manager
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -1178,7 +1177,7 @@
 - [JonSeijo/text-editor](https://github.com/JonSeijo/text-editor) - Text editor with GUI made in c++
 - [johang/vlc-bittorrent](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
-- [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
+- [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [lsp-plugins/lsp-tk-lib](https://github.com/lsp-plugins/lsp-tk-lib) - Graphical toolkit library used by LSP Plugins
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
@@ -3340,6 +3339,9 @@
 
 ## Lua 
 
+- [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim) - For old school code navigation
+- [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) - A Neovim plugin hiding your colorcolumn when unneeded.
+- [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) - Markdown like keymaps for toggling text formatting
 - [NTBBloodbath/sweetie.nvim](https://github.com/NTBBloodbath/sweetie.nvim) - A clean, delightful and highly customizable Neovim colorscheme written in Lua
 - [mjlbach/kickstart.nvim](https://github.com/mjlbach/kickstart.nvim) - A small, documented, and featureful neovim starter config
@@ -4639,7 +4641,7 @@
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
-- [feline-nvim/feline.nvim](https://github.com/feline-nvim/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
+- [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [mthnglac/dotfiles](https://github.com/mthnglac/dotfiles) - This is what I use to get things done!
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [LoricAndre/OneTerm.nvim](https://github.com/LoricAndre/OneTerm.nvim) - One terminal plugin to rule them all ! (eventually)
@@ -5512,6 +5514,7 @@
 
 ## Others 
 
+- [danymat/norg_notes](https://github.com/danymat/norg_notes) - 
 - [AndronixApp/andronix-external-app](https://github.com/AndronixApp/andronix-external-app) - Collection of all the external/third-party softwares for easier processing. We don't own any rights to the files included
 - [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
