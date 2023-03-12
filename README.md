@@ -2270,7 +2270,7 @@
 - [emacscollective/auto-compile](https://github.com/emacscollective/auto-compile) - Automatically compile Emacs Lisp libraries
 - [emacscollective/emacs.g](https://github.com/emacscollective/emacs.g) - The Emacs Collective
 - [emacsorphanage/git-messenger](https://github.com/emacsorphanage/git-messenger) - Emacs Port of git-messenger.vim
-- [arcticicestudio/nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
+- [nordtheme/emacs](https://github.com/nordtheme/emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [czwinzscher/dotfiles](https://github.com/czwinzscher/dotfiles) - 
 - [phenix3443/emacs.d](https://github.com/phenix3443/emacs.d) - Emacs配置文件
 - [sebastiencs/company-box](https://github.com/sebastiencs/company-box) - A company front-end with icons
@@ -2672,7 +2672,7 @@
 - [hoshsadiq/m3ufilter](https://github.com/hoshsadiq/m3ufilter) - ABANDONED - A tool that allows to filter specific items from an m3u filter designed for IPTV.
 - [norcalli/capacitor](https://github.com/norcalli/capacitor) - Simple capacitor code calculator on the command line written in Go and Python.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
-- [curusarn/resh](https://github.com/curusarn/resh) - RESH - Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯ Contextual shell history for zsh and bash
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [ungerik/go-cairo](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library
 - [prasmussen/glot-code-runner](https://github.com/prasmussen/glot-code-runner) - Code runner
@@ -3181,6 +3181,7 @@
 - [belaviyo/send-to-vlc](https://github.com/belaviyo/send-to-vlc) - A Webextension to send streamble media sources to VLC (VideoLAN) media player
 - [iamcco/sran.nvim](https://github.com/iamcco/sran.nvim) - simple request and notification call for (neo)vim
 - [iamcco/git-p.nvim](https://github.com/iamcco/git-p.nvim) - Git plus for (neo)vim
+- [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [Azganoth/tree-sitter-lua](https://github.com/Azganoth/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [rozhuk-im/rutorrent-hostname](https://github.com/rozhuk-im/rutorrent-hostname) - 
@@ -3339,6 +3340,9 @@
 
 ## Lua 
 
+- [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
+- [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) - VSCode-Like Workspace Configuration Manager
+- [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
 - [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim) - For old school code navigation
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) - A Neovim plugin hiding your colorcolumn when unneeded.
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
@@ -3347,7 +3351,7 @@
 - [mjlbach/kickstart.nvim](https://github.com/mjlbach/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [LucasTavaresA/simpleCommand.nvim](https://github.com/LucasTavaresA/simpleCommand.nvim) - Saves a table of commands based on cwd
 - [LucasTavaresA/SingleComment.nvim](https://github.com/LucasTavaresA/SingleComment.nvim) - Comment using only single line comments.
-- [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
+- [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline / winbar for Neovim written in Lua
 - [anuvyklack/nvim-api-wrappers](https://github.com/anuvyklack/nvim-api-wrappers) - 
 - [anuvyklack/blueflower](https://github.com/anuvyklack/blueflower) - 
 - [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) - Rainbow delimiters for Neovim through Tree-sitter
@@ -4531,7 +4535,7 @@
 - [euclidianAce/Scryfall-Image-Downloader](https://github.com/euclidianAce/Scryfall-Image-Downloader) - 
 - [jirutka/luapak](https://github.com/jirutka/luapak) - Easily build a standalone executable for any Lua program
 - [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
-- [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) - A Neovim Telescope extension to open your browser bookmarks right from the editor!
+- [dhruvmanila/browser-bookmarks.nvim](https://github.com/dhruvmanila/browser-bookmarks.nvim) - A Neovim plugin to open your browser bookmarks right from the editor!
 - [ellisonleao/go.nvim](https://github.com/ellisonleao/go.nvim) - Experimental Go development plugin for Neovim
 - [GavinHigham/lpil53](https://github.com/GavinHigham/lpil53) - A Lua parser for Lua 5.3, written in Lua. (Still in progress)
 - [ceifa/sqlier](https://github.com/ceifa/sqlier) - Yet another gmod database abstraction
@@ -5821,7 +5825,6 @@
 - [arcticicestudio/nord-jetbrains](https://github.com/arcticicestudio/nord-jetbrains) - An arctic, north-bluish clean and elegant JetBrains IDE UI and editor color theme.
 - [arcticicestudio/nord-xresources](https://github.com/arcticicestudio/nord-xresources) - An arctic, north-bluish clean and elegant Xresources color theme.
 - [arcticicestudio/nord-terminator](https://github.com/arcticicestudio/nord-terminator) - An arctic, north-bluish clean and elegant Terminator color theme.
-- [arcticicestudio/nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [arcticicestudio/nord-sublime-text](https://github.com/arcticicestudio/nord-sublime-text) - An arctic, north-bluish clean and elegant Sublime Text theme.
 - [RobAltenburg/icao_db](https://github.com/RobAltenburg/icao_db) - Database of icao mode_s codes, aircraft type, and tail numbers
 - [mhinz/vi-editor-history](https://github.com/mhinz/vi-editor-history) - Short history of editors.
