@@ -2672,7 +2672,7 @@
 - [hoshsadiq/m3ufilter](https://github.com/hoshsadiq/m3ufilter) - ABANDONED - A tool that allows to filter specific items from an m3u filter designed for IPTV.
 - [norcalli/capacitor](https://github.com/norcalli/capacitor) - Simple capacitor code calculator on the command line written in Go and Python.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
-- [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯ Contextual shell history for zsh and bash
+- [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [ungerik/go-cairo](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library
 - [prasmussen/glot-code-runner](https://github.com/prasmussen/glot-code-runner) - Code runner
@@ -3181,6 +3181,7 @@
 - [belaviyo/send-to-vlc](https://github.com/belaviyo/send-to-vlc) - A Webextension to send streamble media sources to VLC (VideoLAN) media player
 - [iamcco/sran.nvim](https://github.com/iamcco/sran.nvim) - simple request and notification call for (neo)vim
 - [iamcco/git-p.nvim](https://github.com/iamcco/git-p.nvim) - Git plus for (neo)vim
+- [nordtheme/jetbrains](https://github.com/nordtheme/jetbrains) - An arctic, north-bluish clean and elegant JetBrains IDE UI and editor color theme.
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [Azganoth/tree-sitter-lua](https://github.com/Azganoth/tree-sitter-lua) - Lua grammar for tree-sitter.
@@ -3259,7 +3260,7 @@
 - [VkOpt/VkOpt](https://github.com/VkOpt/VkOpt) - VkOpt
 - [Gemorroj/noads-advanced](https://github.com/Gemorroj/noads-advanced) - Advertisement blocking filter for Opera &lt; 15 (Not supporting now)
 - [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
-- [TiddlyWiki/TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki) - TiddlyWiki Classic - see https://github.com/Jermolene/TiddlyWiki5 for the new version
+- [TiddlyWiki/TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki) - TiddlyWiki Classic (not to be confused with TiddlyWiki5: https://github.com/Jermolene/TiddlyWiki5)
 
 ## Jinja 
 
@@ -5822,7 +5823,6 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
 - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
-- [arcticicestudio/nord-jetbrains](https://github.com/arcticicestudio/nord-jetbrains) - An arctic, north-bluish clean and elegant JetBrains IDE UI and editor color theme.
 - [arcticicestudio/nord-xresources](https://github.com/arcticicestudio/nord-xresources) - An arctic, north-bluish clean and elegant Xresources color theme.
 - [arcticicestudio/nord-terminator](https://github.com/arcticicestudio/nord-terminator) - An arctic, north-bluish clean and elegant Terminator color theme.
 - [arcticicestudio/nord-sublime-text](https://github.com/arcticicestudio/nord-sublime-text) - An arctic, north-bluish clean and elegant Sublime Text theme.
@@ -7510,7 +7510,7 @@
 - [arcticicestudio/nord-gedit](https://github.com/arcticicestudio/nord-gedit) - An arctic, north-bluish clean and elegant gedit syntax theme.
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [arcticicestudio/nord-xfce-terminal](https://github.com/arcticicestudio/nord-xfce-terminal) - An arctic, north-bluish clean and elegant Xfce Terminal color theme.
-- [arcticicestudio/nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
+- [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [norcalli/scripts](https://github.com/norcalli/scripts) - Some scripts. That's it.
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
