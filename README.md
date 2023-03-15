@@ -132,6 +132,7 @@
 
 ## Assembly 
 
+- [mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference) - 
 - [BleuLlama/z80-machine](https://github.com/BleuLlama/z80-machine) - Z80 Emulator for the RC2014 system, with integrated debugging tools
 - [he-mat/better_tutorial](https://github.com/he-mat/better_tutorial) - short NASM tutorial
 - [Recluse/retro](https://github.com/Recluse/retro) - Apogee BK01, Assestent 128, BK0010, Crystal 2, Lvov PK01, Orion 128, PC, Radio 86RK, Specialist, TI99
@@ -179,6 +180,9 @@
 
 ## C 
 
+- [skywind3000/AsyncNet](https://github.com/skywind3000/AsyncNet) - AsyncNet
+- [jedwing/CHMLib](https://github.com/jedwing/CHMLib) - Library for reading Microsoft ITSS/CHM format files.
+- [willothy/PeachOS](https://github.com/willothy/PeachOS) - 
 - [sadr0b0t/arduino-timer-api](https://github.com/sadr0b0t/arduino-timer-api) - Cross-platform Arduino timer API
 - [NicoHood/PinChangeInterrupt](https://github.com/NicoHood/PinChangeInterrupt) - A simple & compact PinChangeInterrupt library for Arduino
 - [cameron-wags/slock](https://github.com/cameron-wags/slock) - 
@@ -999,6 +1003,7 @@
 
 ## C++ 
 
+- [rzvncj/xCHM](https://github.com/rzvncj/xCHM) - xCHM is a cross-platform GPL frontend for CHMLIB (http://www.jedrea.com/chmlib/) written with the wxWidgets framework.
 - [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [RybinDen/arduino-clock](https://github.com/RybinDen/arduino-clock) - my projects of arduino talking clock
 - [edKotinsky/arduino-lcmeter](https://github.com/edKotinsky/arduino-lcmeter) - Simple Arduino LC-meter
@@ -1834,7 +1839,7 @@
 - [oantolin/orderless](https://github.com/oantolin/orderless) - Emacs completion style that matches multiple regexps in any order
 - [ymarco/auto-activating-snippets](https://github.com/ymarco/auto-activating-snippets) - Snippets for Emacs that expand as you type
 - [alphapapa/highlight-function-calls](https://github.com/alphapapa/highlight-function-calls) - Highlight function/macro calls in Emacs
-- [alphapapa/matrix-client.el](https://github.com/alphapapa/matrix-client.el) - A Matrix client for Emacs!
+- [alphapapa/matrix-client.el](https://github.com/alphapapa/matrix-client.el) - A Matrix client for Emacs! (deprecated in favor of Ement.el)
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [alphapapa/frame-purpose.el](https://github.com/alphapapa/frame-purpose.el) - Purpose-specific frames for Emacs
 - [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
@@ -3182,6 +3187,7 @@
 - [iamcco/sran.nvim](https://github.com/iamcco/sran.nvim) - simple request and notification call for (neo)vim
 - [iamcco/git-p.nvim](https://github.com/iamcco/git-p.nvim) - Git plus for (neo)vim
 - [nordtheme/jetbrains](https://github.com/nordtheme/jetbrains) - An arctic, north-bluish clean and elegant JetBrains IDE UI and editor color theme.
+- [nordtheme/xresources](https://github.com/nordtheme/xresources) - An arctic, north-bluish clean and elegant Xresources color theme.
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [Azganoth/tree-sitter-lua](https://github.com/Azganoth/tree-sitter-lua) - Lua grammar for tree-sitter.
@@ -3341,6 +3347,14 @@
 
 ## Lua 
 
+- [ray-x/forgit.nvim](https://github.com/ray-x/forgit.nvim) - Interactive fzf+git for Neovim. I remembered the git commands so you wont forget.
+- [strash/everybody-wants-that-line.nvim](https://github.com/strash/everybody-wants-that-line.nvim) - Minimalistic, informative and elegant statusline for neovim.
+- [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) - 
+- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - Automatically toggle between number and relative number in various Neovim events
+- [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
+- [cpea2506/peavim](https://github.com/cpea2506/peavim) - Custom configuration for Neovim
+- [Integralist/nvim](https://github.com/Integralist/nvim) - Neovim configuration
+- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files from neovim terminals in your current neovim instance
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) - VSCode-Like Workspace Configuration Manager
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
@@ -5519,6 +5533,9 @@
 
 ## Others 
 
+- [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+- [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
+- [cpea2506/dark-flat-wezterm](https://github.com/cpea2506/dark-flat-wezterm) - A dark flat color scheme for Wezterm
 - [danymat/norg_notes](https://github.com/danymat/norg_notes) - 
 - [AndronixApp/andronix-external-app](https://github.com/AndronixApp/andronix-external-app) - Collection of all the external/third-party softwares for easier processing. We don't own any rights to the files included
 - [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
@@ -5823,7 +5840,6 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
 - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
-- [arcticicestudio/nord-xresources](https://github.com/arcticicestudio/nord-xresources) - An arctic, north-bluish clean and elegant Xresources color theme.
 - [arcticicestudio/nord-terminator](https://github.com/arcticicestudio/nord-terminator) - An arctic, north-bluish clean and elegant Terminator color theme.
 - [arcticicestudio/nord-sublime-text](https://github.com/arcticicestudio/nord-sublime-text) - An arctic, north-bluish clean and elegant Sublime Text theme.
 - [RobAltenburg/icao_db](https://github.com/RobAltenburg/icao_db) - Database of icao mode_s codes, aircraft type, and tail numbers
@@ -5952,6 +5968,7 @@
 
 ## Pascal 
 
+- [wp-xyz/Hex](https://github.com/wp-xyz/Hex) - Hex editor designed for analyzing binary files.
 - [ccrause/fpc-avr](https://github.com/ccrause/fpc-avr) - Free pascal AVR microcontroller projects
 - [nereusx/slap](https://github.com/nereusx/slap) - Slackware Linux Package Explorer (console and GUI)
 - [arjanadriaanse/pascal-language-server](https://github.com/arjanadriaanse/pascal-language-server) - LSP server implementation for Pascal
@@ -6775,7 +6792,7 @@
 - [oneclick/rubyinstaller](https://github.com/oneclick/rubyinstaller) - RubyInstaller for Windows - Build recipes
 - [rake-compiler/rake-compiler](https://github.com/rake-compiler/rake-compiler) - Provide a standard and simplified way to build and package Ruby C and Java extensions using Rake as glue.
 - [vertiginous/pik](https://github.com/vertiginous/pik) - Ruby version manager for Windows
-- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [progit/progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [github/github-services](https://github.com/github/github-services) - Legacy GitHub Services Integration
@@ -6783,6 +6800,7 @@
 
 ## Rust 
 
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [Gerschtli/dwm-status](https://github.com/Gerschtli/dwm-status) - Highly performant and configurable DWM status service
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -6965,6 +6983,8 @@
 
 ## Shell 
 
+- [cpea2506/dotfiles](https://github.com/cpea2506/dotfiles) - dotfiles in the pea shell.
+- [cpea2506/zcraft](https://github.com/cpea2506/zcraft) - A minimal zsh theme
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [cameron-wags/dmenu](https://github.com/cameron-wags/dmenu) - My fork, packaged and patched with fuzzy match
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
@@ -7509,7 +7529,7 @@
 - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [arcticicestudio/nord-gedit](https://github.com/arcticicestudio/nord-gedit) - An arctic, north-bluish clean and elegant gedit syntax theme.
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
-- [arcticicestudio/nord-xfce-terminal](https://github.com/arcticicestudio/nord-xfce-terminal) - An arctic, north-bluish clean and elegant Xfce Terminal color theme.
+- [nordtheme/xfce-terminal](https://github.com/nordtheme/xfce-terminal) - An arctic, north-bluish clean and elegant Xfce Terminal color theme.
 - [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [norcalli/scripts](https://github.com/norcalli/scripts) - Some scripts. That's it.
@@ -7836,6 +7856,8 @@
 
 ## Vim Script 
 
+- [cpiger/NeoDebug](https://github.com/cpiger/NeoDebug) - NeoDebug - Vim plugin for interface to gdb from Vim
+- [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
 - [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
 - [kiyoon/tmuxsend.vim](https://github.com/kiyoon/tmuxsend.vim) - Vim plugin that lets you copy and paste to a different tmux pane.
 - [l00sed/nvim-lua-config](https://github.com/l00sed/nvim-lua-config) - 
