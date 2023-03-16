@@ -364,6 +364,7 @@
 - [msteveb/linenoise](https://github.com/msteveb/linenoise) - A small self-contained alternative to readline and libedit
 - [VadimChernopazov/new](https://github.com/VadimChernopazov/new) - 
 - [openresty/luajit2](https://github.com/openresty/luajit2) - OpenResty's Branch of LuaJIT 2
+- [mharizanov/ESP8266_Relay_Board](https://github.com/mharizanov/ESP8266_Relay_Board) - Three Channel WiFi Relay/Thermostat Board
 - [nekromant/esp8266-frankenstein](https://github.com/nekromant/esp8266-frankenstein) - Alternative firmware for ESP8266 modules
 - [l-n-s/transmission-i2p](https://github.com/l-n-s/transmission-i2p) - Anonymous torrent client Transmission-I2P [UNMAINTAINED]
 - [sminez/suckless](https://github.com/sminez/suckless) - my fork of various suckless utilities
@@ -1653,7 +1654,6 @@
 
 ## Eagle 
 
-- [mharizanov/ESP8266_Relay_Board](https://github.com/mharizanov/ESP8266_Relay_Board) - Three Channel WiFi Relay/Thermostat Board
 - [danielrempel/USBIRReceiver](https://github.com/danielrempel/USBIRReceiver) - USB IR receiver on atmega8l with own host-side software
 
 ## Elixir 
@@ -3347,10 +3347,11 @@
 
 ## Lua 
 
+- [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) - Neovim plugin that allows you to create a Github Gist from the current file
 - [ray-x/forgit.nvim](https://github.com/ray-x/forgit.nvim) - Interactive fzf+git for Neovim. I remembered the git commands so you wont forget.
 - [strash/everybody-wants-that-line.nvim](https://github.com/strash/everybody-wants-that-line.nvim) - Minimalistic, informative and elegant statusline for neovim.
 - [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) - 
-- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - Automatically toggle between number and relative number in various Neovim events
+- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - Automatically toggle smoothly between number and relative number in various Neovim events
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [cpea2506/peavim](https://github.com/cpea2506/peavim) - Custom configuration for Neovim
 - [Integralist/nvim](https://github.com/Integralist/nvim) - Neovim configuration
@@ -3363,7 +3364,7 @@
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) - Markdown like keymaps for toggling text formatting
 - [NTBBloodbath/sweetie.nvim](https://github.com/NTBBloodbath/sweetie.nvim) - A clean, delightful and highly customizable Neovim colorscheme written in Lua
-- [mjlbach/kickstart.nvim](https://github.com/mjlbach/kickstart.nvim) - A small, documented, and featureful neovim starter config
+- [mjlbach/starter.nvim](https://github.com/mjlbach/starter.nvim) - A small, documented, and featureful neovim starter config
 - [LucasTavaresA/simpleCommand.nvim](https://github.com/LucasTavaresA/simpleCommand.nvim) - Saves a table of commands based on cwd
 - [LucasTavaresA/SingleComment.nvim](https://github.com/LucasTavaresA/SingleComment.nvim) - Comment using only single line comments.
 - [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline / winbar for Neovim written in Lua
@@ -3402,7 +3403,7 @@
 - [echasnovski/mini.move](https://github.com/echasnovski/mini.move) - Neovim Lua plugin to move any selection in any direction. Part of 'mini.nvim' library.
 - [echasnovski/mini.jump](https://github.com/echasnovski/mini.jump) - Neovim Lua plugin to jump forward/backward to a single character. Part of 'mini.nvim' library.
 - [echasnovski/mini.bracketed](https://github.com/echasnovski/mini.bracketed) - Neovim Lua plugin to go forward/backward with square brackets. Part of 'mini.nvim' library.
-- [nullchilly/fastcolor.nvim](https://github.com/nullchilly/fastcolor.nvim) - Make every colorscheme fast (WIP)
+- [nullchilly/colorcache.nvim](https://github.com/nullchilly/colorcache.nvim) - Make every colorscheme fast (WIP)
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) - fzf-lua + projections.nvim
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 - [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 120 LOC
@@ -6928,7 +6929,7 @@
 - [ul/kak-tree](https://github.com/ul/kak-tree) - Structural selections for Kakoune
 - [stevedonovan/lua-patterns](https://github.com/stevedonovan/lua-patterns) - Exposing Lua string patterns to Rust
 - [stevedonovan/lapp](https://github.com/stevedonovan/lapp) - a Rust port of the Lua Lapp framework: a straightforward GNU-style command-line parser which uses usage text to define arguments
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [daa84/neovim-lib](https://github.com/daa84/neovim-lib) - Rust library for Neovim clients
 - [yutkat/dotplugs](https://github.com/yutkat/dotplugs) - 
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
@@ -9141,7 +9142,7 @@
 - [nvim-neorg/neorg-lsp](https://github.com/nvim-neorg/neorg-lsp) - An LSP for the Neorg file format.
 - [nvim-neorg/norg-fmt](https://github.com/nvim-neorg/norg-fmt) - Formatter for Neorg (https://github.com/nvim-neorg/neorg). WIP.
 - [glepnir/Zig-tutorial](https://github.com/glepnir/Zig-tutorial) - zig programming language tutorial
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder that prioritizes matches on filenames
+- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder designed for filtering filepaths
 - [daurnimator/zig-autolua](https://github.com/daurnimator/zig-autolua) - Lua binding creator for zig
 - [Vurich/octahack-zig](https://github.com/Vurich/octahack-zig) - VCV/Max-style modular plug-anything-to-anything system, designed to be embedded free-standing in an Octatrack-style physical instrument
 - [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
