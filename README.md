@@ -1004,6 +1004,10 @@
 
 ## C++ 
 
+- [MoonFox2006/MegaRFIDRelay](https://github.com/MoonFox2006/MegaRFIDRelay) - Многоканальное (до 48) реле на базе Arduino Mega и Ethernet Shield с поддержкой управления кнопками, расписанием, датчиками температуры DS18x20 и RFID-метками
+- [MoonFox2006/AVR_Optimization](https://github.com/MoonFox2006/AVR_Optimization) - Example of code optimization for Arduino UNO
+- [MoonFox2006/AttinyScore](https://github.com/MoonFox2006/AttinyScore) - Attiny13 and TM1637 display score counter
+- [MoonFox2006/AHT10_Test](https://github.com/MoonFox2006/AHT10_Test) - AHT10 Library
 - [rzvncj/xCHM](https://github.com/rzvncj/xCHM) - xCHM is a cross-platform GPL frontend for CHMLIB (http://www.jedrea.com/chmlib/) written with the wxWidgets framework.
 - [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [RybinDen/arduino-clock](https://github.com/RybinDen/arduino-clock) - my projects of arduino talking clock
@@ -2929,7 +2933,7 @@
 - [alexanderk23/zxdn](https://github.com/alexanderk23/zxdn) - ZXDN
 - [picandocodigo/emacs.sexy](https://github.com/picandocodigo/emacs.sexy) - Emacs.sexy
 - [pozitronik/TCConfig](https://github.com/pozitronik/TCConfig) - My Total Commander configuration
-- [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme. Now the Sphinx default!
+- [sphinx-doc/alabaster](https://github.com/sphinx-doc/alabaster) - Lightweight, configurable Sphinx theme
 - [planetruby/conferences](https://github.com/planetruby/conferences) - What's Upcoming in 2023? - A collection of awesome ruby conferences & camps from around the world - Add your ruby conference or camp!
 - [TeMPOraL/cl-sqlite](https://github.com/TeMPOraL/cl-sqlite) - Common Lisp binding for SQLite
 - [obdev/CrossPack-AVR](https://github.com/obdev/CrossPack-AVR) - Script and associated files for building avr-gcc and related tools on Mac OS X with Xcode 4
@@ -3189,6 +3193,7 @@
 - [nordtheme/jetbrains](https://github.com/nordtheme/jetbrains) - An arctic, north-bluish clean and elegant JetBrains IDE UI and editor color theme.
 - [nordtheme/xresources](https://github.com/nordtheme/xresources) - An arctic, north-bluish clean and elegant Xresources color theme.
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
+- [nordtheme/sublime-text](https://github.com/nordtheme/sublime-text) - An arctic, north-bluish clean and elegant Sublime Text theme.
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [Azganoth/tree-sitter-lua](https://github.com/Azganoth/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [rozhuk-im/rutorrent-hostname](https://github.com/rozhuk-im/rutorrent-hostname) - 
@@ -4298,7 +4303,6 @@
 - [ledgetech/lua-resty-http](https://github.com/ledgetech/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua.
 - [lusis/lua-httpclient](https://github.com/lusis/lua-httpclient) - A unified http/s client library for lua
 - [noma4i/lua-api-server](https://github.com/noma4i/lua-api-server) - Just playground
-- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope) - Telescope.nvim integration for Neorg
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 - [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) - Show desktop notifications for vim.notify calls
@@ -4541,7 +4545,7 @@
 - [kuznetsss/meadow-nvim](https://github.com/kuznetsss/meadow-nvim) - Dark colorscheme for nvim 0.5+ written in lua
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [takase1121/lite-plugin-manager](https://github.com/takase1121/lite-plugin-manager) - A little plugin-manager thingy for lite
-- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 150+ plugins.
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim) - Integrates vim-bookmarks into telescope.nvim
 - [xmake-io/luarocks-build-xmake](https://github.com/xmake-io/luarocks-build-xmake) - A luarocks build module based on xmake
@@ -4646,7 +4650,7 @@
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
 - [alex-popov-tech/timer.nvim](https://github.com/alex-popov-tech/timer.nvim) - Minimalistic timer functionality for neovim.
 - [faerryn/user.nvim](https://github.com/faerryn/user.nvim) - Since the advent of vim and neovim, countless package managers have appeared and dissappeared. Well, here's another to the list.
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme for Neovim. Fully customisable, with Treesitter and LSP semantic token support
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme, for Neovim. Fully customisable, with Treesitter and LSP semantic token support
 - [rmagatti/dotfiles](https://github.com/rmagatti/dotfiles) - Collection of my dotfiles. Likely unpolished and at times forgotten but always around. :wink:
 - [rmagatti/alternate-toggler](https://github.com/rmagatti/alternate-toggler) - A very small plugin for toggling alternate "boolean" values.
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
@@ -4746,7 +4750,6 @@
 - [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
 - [lunarmodules/lualogging](https://github.com/lunarmodules/lualogging) - A simple API to use logging features in Lua
 - [charlesmallah/lua-scriptum](https://github.com/charlesmallah/lua-scriptum) - Documentation generation with Lua
-- [tjdevries/sg.nvim](https://github.com/tjdevries/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [spc476/LPeg-Parsers](https://github.com/spc476/LPeg-Parsers) - Parsing common data formats via LPeg
 - [spc476/GLV-1.12556](https://github.com/spc476/GLV-1.12556) - The First Gemini Protocol Server
 - [perky/luahub](https://github.com/perky/luahub) - A wrapper library to access the GitHub API from Lua
@@ -5842,7 +5845,6 @@
 - [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
 - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
 - [arcticicestudio/nord-terminator](https://github.com/arcticicestudio/nord-terminator) - An arctic, north-bluish clean and elegant Terminator color theme.
-- [arcticicestudio/nord-sublime-text](https://github.com/arcticicestudio/nord-sublime-text) - An arctic, north-bluish clean and elegant Sublime Text theme.
 - [RobAltenburg/icao_db](https://github.com/RobAltenburg/icao_db) - Database of icao mode_s codes, aircraft type, and tail numbers
 - [mhinz/vi-editor-history](https://github.com/mhinz/vi-editor-history) - Short history of editors.
 - [widgetii/rusvimnotes](https://github.com/widgetii/rusvimnotes) - 
@@ -6883,6 +6885,7 @@
 - [austinjones/tab-rs](https://github.com/austinjones/tab-rs) - The intuitive, config-driven terminal multiplexer designed for software & systems engineers
 - [sminez/my-penrose-config](https://github.com/sminez/my-penrose-config) - My personal penrose config
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
+- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [tjdevries/rofl.nvim](https://github.com/tjdevries/rofl.nvim) - Rust On the FLY completion for neovim
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [oknozor/illumination](https://github.com/oknozor/illumination) - A mardown renderer for nvim written with gtkrs and neovim-lib
@@ -7175,6 +7178,7 @@
 - [IndianBoy42/dotfiles](https://github.com/IndianBoy42/dotfiles) - My dotfiles using YADM
 - [juanrgon/yadm-zsh](https://github.com/juanrgon/yadm-zsh) - yadm zsh plugin
 - [tamago324/cmp-zsh](https://github.com/tamago324/cmp-zsh) - nvim-cmp source for zsh
+- [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [IndianBoy42/foryadm](https://github.com/IndianBoy42/foryadm) - port of forgit that uses yadm, to manage your dotfiles
 - [SleepyBag/fuzzy-fs](https://github.com/SleepyBag/fuzzy-fs) - a File System Navigator powered by fzf
 - [evantravers/dotfiles](https://github.com/evantravers/dotfiles) - My personal dotfiles… both to set up a new computer and to keep my dev environments synced.
