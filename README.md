@@ -1666,6 +1666,7 @@
 
 ## Emacs Lisp 
 
+- [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
 - [cybniv/poetry.el](https://github.com/cybniv/poetry.el) - Python dependency management and packaging in Emacs
 - [mjlbach/kickstart.el](https://github.com/mjlbach/kickstart.el) - The WIP migration path from kickstart.nvim
 - [minad/vertico](https://github.com/minad/vertico) - :dizzy: vertico.el - VERTical Interactive COmpletion
@@ -3352,6 +3353,8 @@
 
 ## Lua 
 
+- [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) - Neovim task runner: JSON/YAML + toggleterm.nvim + telescope.nvim
+- [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Small aync library for Neovim plugins
 - [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) - Neovim plugin that allows you to create a Github Gist from the current file
 - [ray-x/forgit.nvim](https://github.com/ray-x/forgit.nvim) - Interactive fzf+git for Neovim. I remembered the git commands so you wont forget.
 - [strash/everybody-wants-that-line.nvim](https://github.com/strash/everybody-wants-that-line.nvim) - Minimalistic, informative and elegant statusline for neovim.
@@ -5416,6 +5419,7 @@
 
 ## Makefile 
 
+- [jcmvbkbc/avr-flash-vtbl](https://github.com/jcmvbkbc/avr-flash-vtbl) - AVR-GCC plugin that puts vtbls into program memory
 - [sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.
 - [raymond-w-ko/creep2](https://github.com/raymond-w-ko/creep2) - 
 - [orbitalquark/textadept-yaml](https://github.com/orbitalquark/textadept-yaml) - YAML language module for Textadept.
@@ -6831,7 +6835,7 @@
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
-- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainers=@aaronjanse]
+- [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
 - [wez/evremap](https://github.com/wez/evremap) - A keyboard input remapper for Linux/Wayland systems, written by @wez
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [MiSawa/xq](https://github.com/MiSawa/xq) - Pure rust implementation of jq
