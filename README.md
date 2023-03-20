@@ -180,6 +180,9 @@
 
 ## C 
 
+- [Apeiros-46B/st](https://github.com/Apeiros-46B/st) - snazzy terminal (suckless + lightweight)
+- [patrickhaller/no-wm](https://github.com/patrickhaller/no-wm) - Use X11 without a window manager
+- [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [skywind3000/AsyncNet](https://github.com/skywind3000/AsyncNet) - AsyncNet
 - [jedwing/CHMLib](https://github.com/jedwing/CHMLib) - Library for reading Microsoft ITSS/CHM format files.
 - [willothy/PeachOS](https://github.com/willothy/PeachOS) - 
@@ -206,7 +209,7 @@
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
 - [edKotinsky/SimpleMenu](https://github.com/edKotinsky/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)
-- [MannyPeterson/HeliOS](https://github.com/MannyPeterson/HeliOS) - The free embedded operating system.
+- [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - An open source, community delivered, embedded operating system project.
 - [jgm/cmark-lua](https://github.com/jgm/cmark-lua) - Lua bindings to libcmark CommonMark parser
 - [murtaza-u/devoidwm](https://github.com/murtaza-u/devoidwm) - A simple X11 window manager
 - [alecthomas/ondir](https://github.com/alecthomas/ondir) - OnDir is a small program to automate tasks specific to certain directories
@@ -986,6 +989,7 @@
 
 ## C# # 
 
+- [afrantzis/bless](https://github.com/afrantzis/bless) - Bless - Gtk# Hex Editor
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -1004,6 +1008,14 @@
 
 ## C++ 
 
+- [wxMEdit/wxMEdit](https://github.com/wxMEdit/wxMEdit) - wxMEdit, a cross-platform Text/Hex Editor, an improved version of MadEdit
+- [echo-devim/fhex](https://github.com/echo-devim/fhex) - A Full-Featured HexEditor compatible with Linux/Windows/MacOS
+- [WerWolv/PatternLanguage](https://github.com/WerWolv/PatternLanguage) - The Pattern Language used by the ImHex Hex Editor
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [uncrustify/uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
+- [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
+- [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
+- [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [MoonFox2006/MegaRFIDRelay](https://github.com/MoonFox2006/MegaRFIDRelay) - Многоканальное (до 48) реле на базе Arduino Mega и Ethernet Shield с поддержкой управления кнопками, расписанием, датчиками температуры DS18x20 и RFID-метками
 - [MoonFox2006/AVR_Optimization](https://github.com/MoonFox2006/AVR_Optimization) - Example of code optimization for Arduino UNO
 - [MoonFox2006/AttinyScore](https://github.com/MoonFox2006/AttinyScore) - Attiny13 and TM1637 display score counter
@@ -1200,7 +1212,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.10: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.11: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -1666,6 +1678,13 @@
 
 ## Emacs Lisp 
 
+- [magnars/kaocha-runner.el](https://github.com/magnars/kaocha-runner.el) - An emacs package for running Kaocha tests via CIDER.
+- [magnars/change-inner.el](https://github.com/magnars/change-inner.el) - Emacs version of vim's ci and co commands
+- [magnars/string-edit.el](https://github.com/magnars/string-edit.el) - Avoid escape nightmares by editing strings in a separate buffer
+- [magnars/s.el](https://github.com/magnars/s.el) - The long lost Emacs string manipulation library.
+- [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - read-only mirror of https://git.sr.ht/~theorytoe/everforest-theme
+- [emacs-tree-sitter/ts-fold](https://github.com/emacs-tree-sitter/ts-fold) - Code-folding using tree-sitter
+- [emacs-tree-sitter/tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) - Language bundle for Emacs's tree-sitter package
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
 - [cybniv/poetry.el](https://github.com/cybniv/poetry.el) - Python dependency management and packaging in Emacs
 - [mjlbach/kickstart.el](https://github.com/mjlbach/kickstart.el) - The WIP migration path from kickstart.nvim
@@ -1766,7 +1785,6 @@
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
-- [xFA25E/cyrillic-dvorak-im](https://github.com/xFA25E/cyrillic-dvorak-im) - Cyrillic-dvorak input method or emacs
 - [xFA25E/mediainfo-mode](https://github.com/xFA25E/mediainfo-mode) - View media files in emacs
 - [xFA25E/yt-com](https://github.com/xFA25E/yt-com) - Reliable YouTube comments front-end for Emacs using invidious.
 - [xFA25E/pueue](https://github.com/xFA25E/pueue) - Emacs interface for Pueue
@@ -2375,7 +2393,7 @@
 - [rranelli/emacs-dotfiles](https://github.com/rranelli/emacs-dotfiles) - My personal emacs configuration
 - [bling/dotemacs](https://github.com/bling/dotemacs) - emacs configuration for vim users
 - [IvanMalison/multi-line](https://github.com/IvanMalison/multi-line) - multi-line everything from function invocations and definitions to array and map literals in a wide variety of languages
-- [habamax/.emacs.d](https://github.com/habamax/.emacs.d) - Emacs is useful.
+- [habamax/.emacs.d_old](https://github.com/habamax/.emacs.d_old) - Emacs is useful.
 - [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth) - Darktooth : From the darkness... it watches.
 - [emacsfodder/emacs-mainline](https://github.com/emacsfodder/emacs-mainline) - A fork of powerline.el (based on an old uncredited version of powerline.el - origin is unclear.) - this fork has multiple separator graphics.
 - [jonathanchu/emacs-powerline](https://github.com/jonathanchu/emacs-powerline) - Powerline for Emacs
@@ -3353,6 +3371,21 @@
 
 ## Lua 
 
+- [jbyuki/aoc](https://github.com/jbyuki/aoc) - Advent of Code
+- [jbyuki/dash.nvim](https://github.com/jbyuki/dash.nvim) - Script runner for quick iteration. Bring your scripting to the next level.
+- [jbyuki/introduction-to-algorithms](https://github.com/jbyuki/introduction-to-algorithms) - Implementing algorithms in "Introduction to Algorithms" in Lua
+- [jbyuki/ntangle-ts.nvim](https://github.com/jbyuki/ntangle-ts.nvim) - ntangle + treesitter
+- [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) - Evaluate Neovim Lua inside Markdown
+- [jbyuki/md-prev.nvim](https://github.com/jbyuki/md-prev.nvim) - A pure lua markdown previewer for Neovim
+- [jbyuki/ntangle-notebook.nvim](https://github.com/jbyuki/ntangle-notebook.nvim) - Jupyter frontend + ntangle.nvim
+- [jbyuki/vcd-viewer.nvim](https://github.com/jbyuki/vcd-viewer.nvim) - VCD file viewer for Neovim
+- [jbyuki/swan.lua](https://github.com/jbyuki/swan.lua) - Symbolic math toolbox in Lua
+- [jbyuki/monolithic.nvim](https://github.com/jbyuki/monolithic.nvim) - Neovim plugin to open multiple files in one buffer
+- [jbyuki/quickmath.nvim](https://github.com/jbyuki/quickmath.nvim) - A live calculator in neovim
+- [Apeiros-46B/nvim](https://github.com/Apeiros-46B/nvim) - My neovim configuration
+- [kensyo/nvim-scrlbkun](https://github.com/kensyo/nvim-scrlbkun) - A scrollbar plugin for Neovim which can show cursor, search results, githunks, and diagnostics.
+- [Apeiros-46B/qalc.nvim](https://github.com/Apeiros-46B/qalc.nvim) - A Neovim frontend for Qalculate
+- [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
 - [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) - Neovim task runner: JSON/YAML + toggleterm.nvim + telescope.nvim
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Small aync library for Neovim plugins
 - [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) - Neovim plugin that allows you to create a Github Gist from the current file
@@ -3363,7 +3396,7 @@
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [cpea2506/peavim](https://github.com/cpea2506/peavim) - Custom configuration for Neovim
 - [Integralist/nvim](https://github.com/Integralist/nvim) - Neovim configuration
-- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files from neovim terminals in your current neovim instance
+- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from neovim terminals in your current neovim instance
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) - VSCode-Like Workspace Configuration Manager
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
@@ -3605,7 +3638,7 @@
 - [luc-tielen/telescope_hoogle](https://github.com/luc-tielen/telescope_hoogle) - Hoogle search integration for Telescope
 - [mrcjkb/nvim-config](https://github.com/mrcjkb/nvim-config) - 
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - Supercharge your Haskell experience in neovim!
-- [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) - Neotest adapter for Haskell (cabal or stack) with Hspec
+- [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) - Neotest adapter for Haskell (cabal or stack) with support for Hspec and Tasty
 - [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) - 
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
 - [Tsuzat/NeoSolarized.nvim](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme for NeoVim with full transparency
@@ -5499,6 +5532,7 @@
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [aserowy/dots](https://github.com/aserowy/dots) - dotfiles
+- [xFA25E/cyrillic-dvorak-im](https://github.com/xFA25E/cyrillic-dvorak-im) - Cyrillic-dvorak input method or emacs
 - [xFA25E/nix-config](https://github.com/xFA25E/nix-config) - dotfiles
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -5541,6 +5575,8 @@
 
 ## Others 
 
+- [jbyuki/notes](https://github.com/jbyuki/notes) - Various notes, experiments (mainly in neovim)
+- [Theory-of-Everything/nii-nvim-docs](https://github.com/Theory-of-Everything/nii-nvim-docs) - 
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [cpea2506/dark-flat-wezterm](https://github.com/cpea2506/dark-flat-wezterm) - A dark flat color scheme for Wezterm
@@ -6048,6 +6084,7 @@
 
 ## Python 
 
+- [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [cameron-wags/rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim) - Neovim port of mechatroner/rainbow_csv
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [mechatroner/atom-rainbow-csv](https://github.com/mechatroner/atom-rainbow-csv) - :rainbow: Atom package: Highlight CSV and TSV spreadsheet files in different rainbow colors
@@ -6807,6 +6844,8 @@
 
 ## Rust 
 
+- [crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator) - Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition
+- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [Gerschtli/dwm-status](https://github.com/Gerschtli/dwm-status) - Highly performant and configurable DWM status service
@@ -7679,6 +7718,7 @@
 
 ## Tcl 
 
+- [puremourning/TclProDebug](https://github.com/puremourning/TclProDebug) - Upgrade of debugger from classic TclPro to Tcl 8.5+
 - [cea-hpc/modules](https://github.com/cea-hpc/modules) - Environment Modules: provides dynamic modification of a user's environment
 - [aplsimple/alited](https://github.com/aplsimple/alited) - a lite editor
 - [dbohdan/fossil-wiki-export](https://github.com/dbohdan/fossil-wiki-export) - Export a Fossil SCM wiki to Git preserving the revision history
@@ -7865,6 +7905,7 @@
 
 ## Vim Script 
 
+- [Theory-of-Everything/everglade](https://github.com/Theory-of-Everything/everglade) - read-only mirror of https://git.sr.ht/~theorytoe/everglade
 - [cpiger/NeoDebug](https://github.com/cpiger/NeoDebug) - NeoDebug - Vim plugin for interface to gdb from Vim
 - [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
 - [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
@@ -9039,7 +9080,6 @@
 - [junkblocker/VimSpy](https://github.com/junkblocker/VimSpy) - VimSpy enables you to browse through all Vim internal entities.
 - [junkblocker/patchreview-vim](https://github.com/junkblocker/patchreview-vim) - Vim/Neovim plugin for doing single, multi-patch or diff code reviews
 - [xolox/vim-lua-ftplugin](https://github.com/xolox/vim-lua-ftplugin) - Lua file type plug-in for the Vim text editor
-- [w0ng/vim-hybrid](https://github.com/w0ng/vim-hybrid) - A dark color scheme for Vim
 - [GCorbel/ag.vim](https://github.com/GCorbel/ag.vim) - Vim plugin for the_silver_searcher, 'ag', a replacement for the Perl module / CLI script 'ack'
 - [tyok/nerdtree-ack](https://github.com/tyok/nerdtree-ack) - NERDtree + ack.vim
 - [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim) - Next generation completion framework after neocomplcache
