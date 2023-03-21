@@ -180,6 +180,8 @@
 
 ## C 
 
+- [smplayer-dev/mpv-mod](https://github.com/smplayer-dev/mpv-mod) - 
+- [yasm/yasm](https://github.com/yasm/yasm) - Yasm Assembler mainline development tree
 - [Apeiros-46B/st](https://github.com/Apeiros-46B/st) - snazzy terminal (suckless + lightweight)
 - [patrickhaller/no-wm](https://github.com/patrickhaller/no-wm) - Use X11 without a window manager
 - [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
@@ -1008,6 +1010,7 @@
 
 ## C++ 
 
+- [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
 - [wxMEdit/wxMEdit](https://github.com/wxMEdit/wxMEdit) - wxMEdit, a cross-platform Text/Hex Editor, an improved version of MadEdit
 - [echo-devim/fhex](https://github.com/echo-devim/fhex) - A Full-Featured HexEditor compatible with Linux/Windows/MacOS
 - [WerWolv/PatternLanguage](https://github.com/WerWolv/PatternLanguage) - The Pattern Language used by the ImHex Hex Editor
@@ -1377,7 +1380,7 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [AlexGyver/LEDcube](https://github.com/AlexGyver/LEDcube) - 8x8x8 LED cube on Arduino
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
-- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Machine code generation for C++
+- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [fluxbox/fluxbox](https://github.com/fluxbox/fluxbox) - Fluxbox Window Manager (Mirror)
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [daedreth/URXVTConfig](https://github.com/daedreth/URXVTConfig) - A graphical user interface tool for configuration of the rxvt-unicode terminal emulator.
@@ -1678,6 +1681,7 @@
 
 ## Emacs Lisp 
 
+- [habamax/.emacs.d](https://github.com/habamax/.emacs.d) - 
 - [magnars/kaocha-runner.el](https://github.com/magnars/kaocha-runner.el) - An emacs package for running Kaocha tests via CIDER.
 - [magnars/change-inner.el](https://github.com/magnars/change-inner.el) - Emacs version of vim's ci and co commands
 - [magnars/string-edit.el](https://github.com/magnars/string-edit.el) - Avoid escape nightmares by editing strings in a separate buffer
@@ -3371,6 +3375,15 @@
 
 ## Lua 
 
+- [meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim) - Small collection of _fancy_ components for the lualine.nvim plugin.
+- [tenxsoydev/nx.nvim](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
+- [tenxsoydev/karen-yank.nvim](https://github.com/tenxsoydev/karen-yank.nvim) - Neovim Lua plugin to improve register handling with delete, cut and yank mappings.
+- [tenxsoydev/tabs-vs-spaces.nvim](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - Hint and fix deviating indentation.
+- [axieax/typo.nvim](https://github.com/axieax/typo.nvim) - 🙈 Suggest files for typos
+- [sigmaSd/deno-nvim](https://github.com/sigmaSd/deno-nvim) - A plugin to improve deno experience in neovim
+- [hrsh7th/nvim-insx](https://github.com/hrsh7th/nvim-insx) - Flexible key mapping manager.
+- [JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim) - bionic-like reading inside Neovim
+- [brookhong/telescope-pathogen.nvim](https://github.com/brookhong/telescope-pathogen.nvim) - a telescope extension to help you to navigate through different path when using builtin actions from telescope such as `grep_string`, `find_files` and `live_grep`.
 - [jbyuki/aoc](https://github.com/jbyuki/aoc) - Advent of Code
 - [jbyuki/dash.nvim](https://github.com/jbyuki/dash.nvim) - Script runner for quick iteration. Bring your scripting to the next level.
 - [jbyuki/introduction-to-algorithms](https://github.com/jbyuki/introduction-to-algorithms) - Implementing algorithms in "Introduction to Algorithms" in Lua
@@ -3400,7 +3413,7 @@
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) - VSCode-Like Workspace Configuration Manager
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
-- [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim) - For old school code navigation
+- [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim) - For old school code navigation. With cscope support for Neovim 0.9+.
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) - A Neovim plugin hiding your colorcolumn when unneeded.
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) - Markdown like keymaps for toggling text formatting
@@ -4377,7 +4390,7 @@
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [Furkanzmc/options.nvim](https://github.com/Furkanzmc/options.nvim) - A small library to create custom options
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!
-- [noib3/nvim-cokeline](https://github.com/noib3/nvim-cokeline) - :nose: A minimal Neovim bufferline
+- [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A minimal Neovim bufferline
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
 - [ThePrimeagen/vim-apm](https://github.com/ThePrimeagen/vim-apm) - Vim APM, Actions per minute, is the greatest plugin since vim-slicedbread
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
@@ -5511,6 +5524,7 @@
 
 ## Mustache 
 
+- [chriskempson/base16-textmate](https://github.com/chriskempson/base16-textmate) - Base16 for TextMate & Sublime
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [tinted-theming/base16-i3](https://github.com/tinted-theming/base16-i3) - 
 - [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty) - Base16 for Alacritty
@@ -5575,6 +5589,12 @@
 
 ## Others 
 
+- [chriskempson/base16-builders](https://github.com/chriskempson/base16-builders) - 
+- [chriskempson/base16-iterm2](https://github.com/chriskempson/base16-iterm2) - Base16 for iTerm2
+- [chriskempson/base16-templates](https://github.com/chriskempson/base16-templates) - 
+- [chriskempson/base16-templates-source](https://github.com/chriskempson/base16-templates-source) - A common list of templates for base16-builders
+- [chriskempson/base16-schemes-source](https://github.com/chriskempson/base16-schemes-source) - 
+- [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
 - [jbyuki/notes](https://github.com/jbyuki/notes) - Various notes, experiments (mainly in neovim)
 - [Theory-of-Everything/nii-nvim-docs](https://github.com/Theory-of-Everything/nii-nvim-docs) - 
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
@@ -5994,6 +6014,7 @@
 
 ## PHP 
 
+- [chriskempson/base16-builder-php](https://github.com/chriskempson/base16-builder-php) - A PHP implementation of a Base16 Builder
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [linuxserver/docker-rutorrent](https://github.com/linuxserver/docker-rutorrent) - DEPRECATED
 - [sruupl/batflat](https://github.com/sruupl/batflat) - Lightweight, fast and easy CMS for free. Bootstrap ready.  https://batflat.org
@@ -7030,6 +7051,7 @@
 
 ## Shell 
 
+- [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [cpea2506/dotfiles](https://github.com/cpea2506/dotfiles) - dotfiles in the pea shell.
 - [cpea2506/zcraft](https://github.com/cpea2506/zcraft) - A minimal zsh theme
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
@@ -7092,7 +7114,7 @@
 - [nguyenvukhang/ags](https://github.com/nguyenvukhang/ags) - ags scans your local git repositories for unstaged files and unpushed commits
 - [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme for your Terminal
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
 - [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [Integralist/dotfiles](https://github.com/Integralist/dotfiles) - Bash shell and Vim configuration settings
@@ -7905,6 +7927,15 @@
 
 ## Vim Script 
 
+- [habamax/vim-shout](https://github.com/habamax/vim-shout) - Run and Capture Shell Command Output in Vim
+- [habamax/vim-sugarlily](https://github.com/habamax/vim-sugarlily) - White vim colorscheme
+- [habamax/vim-bronzage](https://github.com/habamax/vim-bronzage) - Your next vim colorscheme
+- [habamax/vim-minisnip](https://github.com/habamax/vim-minisnip) - snipMate.vim based snippets plugin for vim
+- [habamax/vim-habaurora](https://github.com/habamax/vim-habaurora) - vim colorscheme for the day
+- [habamax/vim-dir](https://github.com/habamax/vim-dir) - Vim file manager
+- [habamax/vim-habamax](https://github.com/habamax/vim-habamax) - Vim colorscheme
+- [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) - Tomorrow Theme for Vim
+- [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
 - [Theory-of-Everything/everglade](https://github.com/Theory-of-Everything/everglade) - read-only mirror of https://git.sr.ht/~theorytoe/everglade
 - [cpiger/NeoDebug](https://github.com/cpiger/NeoDebug) - NeoDebug - Vim plugin for interface to gdb from Vim
 - [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
