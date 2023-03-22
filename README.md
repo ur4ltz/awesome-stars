@@ -422,7 +422,6 @@
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [tkchia/libi86](https://github.com/tkchia/libi86) - Attempt to reimplement non-standard C library facilities (e.g. &lt;conio.h&gt;) used in MS-DOS programs, for IA-16 GCC & ACK ― mirror of https://gitlab.com/tkchia/libi86 • Ubuntu packages for cross-co
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [felias-fogg/avrburn](https://github.com/felias-fogg/avrburn) - AVR programmer on Gamebuino Meta
 - [jbruchon/elks](https://github.com/jbruchon/elks) - Embeddable Linux Kernel Subset
@@ -1681,7 +1680,7 @@
 
 ## Emacs Lisp 
 
-- [habamax/.emacs.d](https://github.com/habamax/.emacs.d) - 
+- [habamax/.emacs.d](https://github.com/habamax/.emacs.d) - Personal emacs config.
 - [magnars/kaocha-runner.el](https://github.com/magnars/kaocha-runner.el) - An emacs package for running Kaocha tests via CIDER.
 - [magnars/change-inner.el](https://github.com/magnars/change-inner.el) - Emacs version of vim's ci and co commands
 - [magnars/string-edit.el](https://github.com/magnars/string-edit.el) - Avoid escape nightmares by editing strings in a separate buffer
@@ -2523,7 +2522,7 @@
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~p00f/godbolt.nvim instead
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
@@ -2577,6 +2576,7 @@
 
 ## Go 
 
+- [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [cameron-wags/xstatusbar](https://github.com/cameron-wags/xstatusbar) - My super environment-specifc take on slstatus.
@@ -3006,6 +3006,7 @@
 
 ## Java 
 
+- [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and testing features.
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -3375,6 +3376,13 @@
 
 ## Lua 
 
+- [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
+- [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - Elevate your coding environment with this simple Neovim color scheme with Treesitter support.
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
+- [prmaloney/valet.nvim](https://github.com/prmaloney/valet.nvim) - 
+- [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk keymaps in neovim
+- [andreadev-it/timetrap.nvim](https://github.com/andreadev-it/timetrap.nvim) - Timetrap wrapper for neovim
+- [andreadev-it/nvim-personal-config](https://github.com/andreadev-it/nvim-personal-config) - My NeoVim config
 - [meuter/lualine-so-fancy.nvim](https://github.com/meuter/lualine-so-fancy.nvim) - Small collection of _fancy_ components for the lualine.nvim plugin.
 - [tenxsoydev/nx.nvim](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
 - [tenxsoydev/karen-yank.nvim](https://github.com/tenxsoydev/karen-yank.nvim) - Neovim Lua plugin to improve register handling with delete, cut and yank mappings.
@@ -3503,7 +3511,7 @@
 - [CKolkey/config](https://github.com/CKolkey/config) - Personal Config - Consume at your own risk.
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) - A port of the Vim plugin vim-lastplace. It uses the same logic as vim-lastplace, but leverages the Neovim Lua API.
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
-- [Wansmer/langmapper.nvim](https://github.com/Wansmer/langmapper.nvim) - Langmap helper for neovim. Use your native layout as English layout.
+- [Wansmer/langmapper.nvim](https://github.com/Wansmer/langmapper.nvim) - A plugin that makes Neovim more friendly to non-English input methods 🤝
 - [atusy/telescomp.nvim](https://github.com/atusy/telescomp.nvim) - 
 - [hrsh7th/cmp-core-example](https://github.com/hrsh7th/cmp-core-example) - 
 - [hrsh7th/vim-gindent](https://github.com/hrsh7th/vim-gindent) - General indentexpr plugin for vim and nvim.
@@ -4390,7 +4398,7 @@
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [Furkanzmc/options.nvim](https://github.com/Furkanzmc/options.nvim) - A small library to create custom options
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!
-- [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A minimal Neovim bufferline
+- [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
 - [ThePrimeagen/vim-apm](https://github.com/ThePrimeagen/vim-apm) - Vim APM, Actions per minute, is the greatest plugin since vim-slicedbread
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
@@ -5095,6 +5103,7 @@
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
 - [mkflaher2/dotfiles](https://github.com/mkflaher2/dotfiles) - dotfiles for LCARS theme
+- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [stetre/luamoulds](https://github.com/stetre/luamoulds) - A C-like typedef for Lua
 - [stetre/lunasdl](https://github.com/stetre/lunasdl) - SDL-oriented concurrency in Lua
 - [stetre/moonsc](https://github.com/stetre/moonsc) - Harel Statecharts in Lua
@@ -5551,7 +5560,6 @@
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
-- [JavaCafe01/frostedflakes](https://github.com/JavaCafe01/frostedflakes) - My NixOS configuration files w/ Nix Flakes
 - [teto/home](https://github.com/teto/home) - Configurations
 - [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
 
@@ -5589,6 +5597,9 @@
 
 ## Others 
 
+- [agnostic-apollo/Android-Docs](https://github.com/agnostic-apollo/Android-Docs) - This repository provides documentation for random stuff related to the Android operating system.
+- [jmbuhr/tmux-kickstarter](https://github.com/jmbuhr/tmux-kickstarter) - A semi-opinionated tmux config to get started
+- [andreadev-it/neorg-module-tutorials](https://github.com/andreadev-it/neorg-module-tutorials) - Tutorials on how to create a custom Neorg module
 - [chriskempson/base16-builders](https://github.com/chriskempson/base16-builders) - 
 - [chriskempson/base16-iterm2](https://github.com/chriskempson/base16-iterm2) - Base16 for iTerm2
 - [chriskempson/base16-templates](https://github.com/chriskempson/base16-templates) - 
@@ -6241,7 +6252,7 @@
 - [sublimelsp/lsp_utils](https://github.com/sublimelsp/lsp_utils) - Module with LSP-related utilities for Sublime Text
 - [sublimelsp/LSP-bash](https://github.com/sublimelsp/LSP-bash) - Bash support for Sublime's LSP plugin provided through bash-language-server.
 - [sublimelsp/LSP-json](https://github.com/sublimelsp/LSP-json) - Schema validation/completions for your JSON and Sublime files
-- [tom-anders/easy-i3-neovim-nav](https://github.com/tom-anders/easy-i3-neovim-nav) - Quickly navigate and resize i3wm windows and Neovim splits with the same keybindings
+- [tom-anders/easy-i3-neovim-nav.py](https://github.com/tom-anders/easy-i3-neovim-nav.py) - Quickly navigate and resize i3wm windows and Neovim splits with the same keybindings
 - [blurstudio/sublime_debugger-plugin](https://github.com/blurstudio/sublime_debugger-plugin) - A template that can be used to make debug adapters compatible with the Debugger plugin in Sublime Text 3 and 4
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
 - [tiagovla/antennas_ufmg](https://github.com/tiagovla/antennas_ufmg) - 
@@ -6759,6 +6770,7 @@
 
 ## Ruby 
 
+- [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 - [ruby/syntax_suggest](https://github.com/ruby/syntax_suggest) - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
 - [CKolkey/solargraph-syntax-suggest](https://github.com/CKolkey/solargraph-syntax-suggest) - 
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) - Wisely add "end" in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope's vim-endwise
