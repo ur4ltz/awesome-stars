@@ -180,6 +180,11 @@
 
 ## C 
 
+- [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of st with proper scrolling support, text reflow and a few other additions.
+- [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be configured in C.
+- [ashish-yadav11/dwm](https://github.com/ashish-yadav11/dwm) - My personal fork of dwm with several tweaks, added features and improvements (most of them original).
+- [ashish-yadav11/dwmblocks](https://github.com/ashish-yadav11/dwmblocks) - Rewrite of dwmblocks with added features including clickability, cursor hinting and color.
+- [BachoSeven/dwm](https://github.com/BachoSeven/dwm) - 
 - [smplayer-dev/mpv-mod](https://github.com/smplayer-dev/mpv-mod) - 
 - [yasm/yasm](https://github.com/yasm/yasm) - Yasm Assembler mainline development tree
 - [Apeiros-46B/st](https://github.com/Apeiros-46B/st) - snazzy terminal (suckless + lightweight)
@@ -1788,6 +1793,7 @@
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
+- [xFA25E/cyrillic-dvorak-im](https://github.com/xFA25E/cyrillic-dvorak-im) - Cyrillic-dvorak input method or emacs
 - [xFA25E/mediainfo-mode](https://github.com/xFA25E/mediainfo-mode) - View media files in emacs
 - [xFA25E/yt-com](https://github.com/xFA25E/yt-com) - Reliable YouTube comments front-end for Emacs using invidious.
 - [xFA25E/pueue](https://github.com/xFA25E/pueue) - Emacs interface for Pueue
@@ -2716,7 +2722,7 @@
 - [kovetskiy/i3gator](https://github.com/kovetskiy/i3gator) - i3 layout manager 🐊
 - [kovetskiy/i3-room](https://github.com/kovetskiy/i3-room) - 
 - [liamg/shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
-- [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go.
+- [CamilleScholtz/melonbar](https://github.com/CamilleScholtz/melonbar) - A hackable bar/panel for X written in Go.
 - [mongoose-os/mos](https://github.com/mongoose-os/mos) - The Mongoose OS Command Line Tool - https://mongoose-os.com/docs/mongoose-os/quickstart/setup.md
 - [skanehira/code2img](https://github.com/skanehira/code2img) - generating images of source code
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
@@ -3216,6 +3222,7 @@
 - [iamcco/git-p.nvim](https://github.com/iamcco/git-p.nvim) - Git plus for (neo)vim
 - [nordtheme/jetbrains](https://github.com/nordtheme/jetbrains) - An arctic, north-bluish clean and elegant JetBrains IDE UI and editor color theme.
 - [nordtheme/xresources](https://github.com/nordtheme/xresources) - An arctic, north-bluish clean and elegant Xresources color theme.
+- [nordtheme/terminator](https://github.com/nordtheme/terminator) - An arctic, north-bluish clean and elegant Terminator color theme.
 - [nordtheme/dircolors](https://github.com/nordtheme/dircolors) - An arctic, north-bluish clean and elegant dircolors theme.
 - [nordtheme/sublime-text](https://github.com/nordtheme/sublime-text) - An arctic, north-bluish clean and elegant Sublime Text theme.
 - [nordtheme/visual-studio-code](https://github.com/nordtheme/visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
@@ -3376,6 +3383,7 @@
 
 ## Lua 
 
+- [KostkaBrukowa/nvim-config](https://github.com/KostkaBrukowa/nvim-config) - My nvim configuration
 - [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
 - [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - Elevate your coding environment with this simple Neovim color scheme with Treesitter support.
 - [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
@@ -4115,7 +4123,6 @@
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - Incremental fuzzy search motion plugin for Neovim
 - [GustavoKatel/dotfiles](https://github.com/GustavoKatel/dotfiles) - Personal configurations. vim, tmux etc
 - [sidebar-nvim/sections-dap](https://github.com/sidebar-nvim/sections-dap) - Dap sections for sidebar.nvim
-- [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [anuvyklack/help-vsplit.nvim](https://github.com/anuvyklack/help-vsplit.nvim) - Open Neovim help in vertical split if there is enough space
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments using boxes and lines.
 - [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim) - Neovim hooks for abbreviation events
@@ -5555,7 +5562,6 @@
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [aserowy/dots](https://github.com/aserowy/dots) - dotfiles
-- [xFA25E/cyrillic-dvorak-im](https://github.com/xFA25E/cyrillic-dvorak-im) - Cyrillic-dvorak input method or emacs
 - [xFA25E/nix-config](https://github.com/xFA25E/nix-config) - dotfiles
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -5597,6 +5603,7 @@
 
 ## Others 
 
+- [BachoSeven/wiki](https://github.com/BachoSeven/wiki) - keeping track of the drops in a sea of Linux learning
 - [agnostic-apollo/Android-Docs](https://github.com/agnostic-apollo/Android-Docs) - This repository provides documentation for random stuff related to the Android operating system.
 - [jmbuhr/tmux-kickstarter](https://github.com/jmbuhr/tmux-kickstarter) - A semi-opinionated tmux config to get started
 - [andreadev-it/neorg-module-tutorials](https://github.com/andreadev-it/neorg-module-tutorials) - Tutorials on how to create a custom Neorg module
@@ -5627,6 +5634,7 @@
 - [n-shift/awesome-neovim-configurations](https://github.com/n-shift/awesome-neovim-configurations) - Collection of awesome neovim configurations
 - [LumaKernel/awesome-stars](https://github.com/LumaKernel/awesome-stars) - A curated list of my GitHub stars! Generated by starred
 - [DeepLcom/openapi](https://github.com/DeepLcom/openapi) - OpenAPI specification of the DeepL API
+- [peter-evans/enable-pull-request-automerge](https://github.com/peter-evans/enable-pull-request-automerge) - A GitHub action to enable auto-merge on a pull request
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [VonHeikemen/the-good-snippets](https://github.com/VonHeikemen/the-good-snippets) - Personal collection of snippets for the different programming languages I work with.
@@ -5915,7 +5923,6 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
 - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
-- [arcticicestudio/nord-terminator](https://github.com/arcticicestudio/nord-terminator) - An arctic, north-bluish clean and elegant Terminator color theme.
 - [RobAltenburg/icao_db](https://github.com/RobAltenburg/icao_db) - Database of icao mode_s codes, aircraft type, and tail numbers
 - [mhinz/vi-editor-history](https://github.com/mhinz/vi-editor-history) - Short history of editors.
 - [widgetii/rusvimnotes](https://github.com/widgetii/rusvimnotes) - 
@@ -6116,6 +6123,7 @@
 
 ## Python 
 
+- [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [cameron-wags/rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim) - Neovim port of mechatroner/rainbow_csv
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
@@ -7063,6 +7071,7 @@
 
 ## Shell 
 
+- [b4b4r07/zsh-vimode-visual](https://github.com/b4b4r07/zsh-vimode-visual) - Implement the vim-like visual mode to vi-mode of zsh
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [cpea2506/dotfiles](https://github.com/cpea2506/dotfiles) - dotfiles in the pea shell.
 - [cpea2506/zcraft](https://github.com/cpea2506/zcraft) - A minimal zsh theme
@@ -7786,7 +7795,6 @@
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [lambdalisue/guise.vim](https://github.com/lambdalisue/guise.vim) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
-- [peter-evans/enable-pull-request-automerge](https://github.com/peter-evans/enable-pull-request-automerge) - A GitHub action to enable auto-merge on a pull request
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [bscan/PerlNavigator](https://github.com/bscan/PerlNavigator) - Perl Language Server that includes syntax checking, perl critic, and code navigation
