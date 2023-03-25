@@ -180,6 +180,7 @@
 
 ## C 
 
+- [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles) - Function and form
 - [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of st with proper scrolling support, text reflow and a few other additions.
 - [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be configured in C.
 - [ashish-yadav11/dwm](https://github.com/ashish-yadav11/dwm) - My personal fork of dwm with several tweaks, added features and improvements (most of them original).
@@ -3383,6 +3384,7 @@
 
 ## Lua 
 
+- [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) - Telescope extentions to view pre-defined/custom treesitter queries
 - [KostkaBrukowa/nvim-config](https://github.com/KostkaBrukowa/nvim-config) - My nvim configuration
 - [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
 - [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - Elevate your coding environment with this simple Neovim color scheme with Treesitter support.
@@ -3476,7 +3478,7 @@
 - [nullchilly/colorcache.nvim](https://github.com/nullchilly/colorcache.nvim) - Make every colorscheme fast (WIP)
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) - fzf-lua + projections.nvim
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
-- [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 120 LOC
+- [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 110 SLOC
 - [lvim-tech/lvim-linguistics](https://github.com/lvim-tech/lvim-linguistics) - 
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) - Ruby tools for neovim
 - [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) - a neovim statusline & tabline plug
@@ -5949,7 +5951,7 @@
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [Apress/def-guide-to-sqlite](https://github.com/Apress/def-guide-to-sqlite) - Source code for 'The Definitive Guide to SQLite' by Mike Owens
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures. 🐚
 - [h3xx/dotfiles](https://github.com/h3xx/dotfiles) - configuration files (Slackware-centric)
 - [h3xx/vim-late_evening](https://github.com/h3xx/vim-late_evening) - Dark, high-contrast vim colorscheme
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
@@ -7071,6 +7073,8 @@
 
 ## Shell 
 
+- [mehalter/zsh-pins](https://github.com/mehalter/zsh-pins) - ohmyzsh plugin for pinning directories. Like  a CLI folder bookmark manager
+- [mehalter/zsh-nvim-appname](https://github.com/mehalter/zsh-nvim-appname) - A simple ZSH plugin for maintaining multiple Neovim configurations with NVIM_APPNAME
 - [b4b4r07/zsh-vimode-visual](https://github.com/b4b4r07/zsh-vimode-visual) - Implement the vim-like visual mode to vi-mode of zsh
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [cpea2506/dotfiles](https://github.com/cpea2506/dotfiles) - dotfiles in the pea shell.
