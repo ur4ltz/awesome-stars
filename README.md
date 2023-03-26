@@ -2663,7 +2663,7 @@
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [snapcore/snapd](https://github.com/snapcore/snapd) - The snapd and snap tools enable systems to work with .snap files.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [RRethy/hexokinase](https://github.com/RRethy/hexokinase) - Fast text scraper to find and convert colours (hex, rgb, rgb, hsl, web colours, custom patterns, etc.) into hex values
 - [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [gennaro-tedesco/zathuraconf](https://github.com/gennaro-tedesco/zathuraconf) - Change zathura colour schemes
@@ -3384,6 +3384,11 @@
 
 ## Lua 
 
+- [Bekaboo/nvim](https://github.com/Bekaboo/nvim) - Bekaboo's personal neovim configuration
+- [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) - A neovim plugin that shows colorcolumn dynamically
+- [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider.  Considers camelCase and skips insignificant punctuation.
+- [JoseConseco/nvim_config](https://github.com/JoseConseco/nvim_config) - nvim config
+- [MordechaiHadad/nvim](https://github.com/MordechaiHadad/nvim) - My neovim config, great success
 - [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) - Telescope extentions to view pre-defined/custom treesitter queries
 - [KostkaBrukowa/nvim-config](https://github.com/KostkaBrukowa/nvim-config) - My nvim configuration
 - [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
@@ -3423,7 +3428,7 @@
 - [ray-x/forgit.nvim](https://github.com/ray-x/forgit.nvim) - Interactive fzf+git for Neovim. I remembered the git commands so you wont forget.
 - [strash/everybody-wants-that-line.nvim](https://github.com/strash/everybody-wants-that-line.nvim) - Minimalistic, informative and elegant statusline for neovim.
 - [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) - 
-- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - Automatically toggle smoothly between number and relative number in various Neovim events
+- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative number, supporting various number combinations
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [cpea2506/peavim](https://github.com/cpea2506/peavim) - Custom configuration for Neovim
 - [Integralist/nvim](https://github.com/Integralist/nvim) - Neovim configuration
@@ -3610,7 +3615,7 @@
 - [desdic/telescope-rooter.nvim](https://github.com/desdic/telescope-rooter.nvim) - Change directory to project folder when using telescope and restore afterwards
 - [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations for neovim, written in lua.
 - [yioneko/nvim-type-fmt](https://github.com/yioneko/nvim-type-fmt) - LSP handler of textDocument/onTypeFormatting for nvim.
-- [Wansmer/nvim-config](https://github.com/Wansmer/nvim-config) - Конфигурация для Neovim 0.8+
+- [Wansmer/nvim-config](https://github.com/Wansmer/nvim-config) - Neovim 0.9+ configuration
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
 - [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim) - Neovim plugin for swapping operands and operators in binary expressions
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
@@ -6887,6 +6892,7 @@
 
 ## Rust 
 
+- [noib3/crop](https://github.com/noib3/crop) - 🌾 A pretty fast text rope
 - [crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator) - Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
@@ -7073,6 +7079,7 @@
 
 ## Shell 
 
+- [arsham/dotfiles](https://github.com/arsham/dotfiles) - My dotfiles for zsh, tmux, etc.
 - [mehalter/zsh-pins](https://github.com/mehalter/zsh-pins) - ohmyzsh plugin for pinning directories. Like  a CLI folder bookmark manager
 - [mehalter/zsh-nvim-appname](https://github.com/mehalter/zsh-nvim-appname) - A simple ZSH plugin for maintaining multiple Neovim configurations with NVIM_APPNAME
 - [b4b4r07/zsh-vimode-visual](https://github.com/b4b4r07/zsh-vimode-visual) - Implement the vim-like visual mode to vi-mode of zsh
