@@ -3342,6 +3342,7 @@
 - [NNBnh/bmap.kak](https://github.com/NNBnh/bmap.kak) - :bookmark: Kakoune key-binding that SuperB (WIP)
 - [NNBnh/coderun.kak](https://github.com/NNBnh/coderun.kak) - ⏯️ Kakoune code runner
 - [Delapouite/kakoune-registers](https://github.com/Delapouite/kakoune-registers) - List the current content of registers
+- [enricozb/cursors.kak](https://github.com/enricozb/cursors.kak) - Sublime-like multiple cursors behavior for kakoune
 - [enricozb/wiki.kak](https://github.com/enricozb/wiki.kak) - Kakoune markdown file navigation and wiki system
 - [enricozb/dotfiles](https://github.com/enricozb/dotfiles) - 
 - [alexherbo2/auto-pairs.kak](https://github.com/alexherbo2/auto-pairs.kak) - Auto-pairing of characters for Kakoune
@@ -3384,6 +3385,7 @@
 
 ## Lua 
 
+- [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) - A simple Lua statusline for Neovim
 - [Bekaboo/nvim](https://github.com/Bekaboo/nvim) - Bekaboo's personal neovim configuration
 - [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) - A neovim plugin that shows colorcolumn dynamically
 - [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider.  Considers camelCase and skips insignificant punctuation.
@@ -3683,7 +3685,7 @@
 - [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - An easy note taking plugin
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory
 - [superDross/spellbound.nvim](https://github.com/superDross/spellbound.nvim) - Spelling configurations and mapping for neovim
-- [Maan2003/lsp_lines.nvim](https://github.com/Maan2003/lsp_lines.nvim) - Mirror of https://git.sr.ht/~whynothugo/lsp_lines.nvim
+- [Maan2003/lsp_lines.nvim](https://github.com/Maan2003/lsp_lines.nvim) - 
 - [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -5795,7 +5797,6 @@
 - [enricozb/lean.kak](https://github.com/enricozb/lean.kak) - Minimal Lean syntax highlighting, intermediate evaluation, and LaTeX completions
 - [skiselev/micro_8088](https://github.com/skiselev/micro_8088) - Micro 8088 - IBM XT Compatible Processor Board based on Faraday FE2010 chipset
 - [nvim-lua/marks.nvim](https://github.com/nvim-lua/marks.nvim) - Marks related utilties
-- [enricozb/cursors.kak](https://github.com/enricozb/cursors.kak) - Sublime-like multiple cursors behavior for kakoune
 - [enricozb/tabs.kak](https://github.com/enricozb/tabs.kak) - Kakoune buffers as tabs in the status line.
 - [adelarsq/awesome-make](https://github.com/adelarsq/awesome-make) - A list about Make resources 🛠
 - [Th3Whit3Wolf/Dots-Old](https://github.com/Th3Whit3Wolf/Dots-Old) - All of my dot files
@@ -8692,7 +8693,6 @@
 - [luochen1990/indent-detector.vim](https://github.com/luochen1990/indent-detector.vim) - Keep indent consistent without any effort
 - [kien/rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim) - Better Rainbow Parentheses
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
-- [lacygoill/vim-cookbook](https://github.com/lacygoill/vim-cookbook) - 
 - [lacygoill/config](https://github.com/lacygoill/config) - 
 - [vim-scripts/utl.vim](https://github.com/vim-scripts/utl.vim) - Univeral Text Linking - Execute URLs, footnotes, open emails, organize ideas
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
