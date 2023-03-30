@@ -217,7 +217,7 @@
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
 - [edKotinsky/SimpleMenu](https://github.com/edKotinsky/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)
-- [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - An open source, community delivered, embedded operating system project.
+- [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
 - [jgm/cmark-lua](https://github.com/jgm/cmark-lua) - Lua bindings to libcmark CommonMark parser
 - [murtaza-u/devoidwm](https://github.com/murtaza-u/devoidwm) - A simple X11 window manager
 - [alecthomas/ondir](https://github.com/alecthomas/ondir) - OnDir is a small program to automate tasks specific to certain directories
@@ -2715,7 +2715,7 @@
 - [tkancf/rofi-snippet](https://github.com/tkancf/rofi-snippet) - Text expander for linux to be integrated with rofi
 - [ungerik/go-cairo](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library
 - [prasmussen/glot-code-runner](https://github.com/prasmussen/glot-code-runner) - Code runner
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [vartanbeno/go-reddit](https://github.com/vartanbeno/go-reddit) - Go library for accessing the Reddit API.
 - [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [seletskiy/i3ipc](https://github.com/seletskiy/i3ipc) - Go library for communicating with the i3 window manager
@@ -3385,10 +3385,14 @@
 
 ## Lua 
 
+- [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) - winbar config for neovim
+- [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
+- [chrisgrieser/cmp-nerdfont](https://github.com/chrisgrieser/cmp-nerdfont) - nvim-cmp source for nerdfont icons
+- [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) - A simple Lua statusline for Neovim
 - [Bekaboo/nvim](https://github.com/Bekaboo/nvim) - Bekaboo's personal neovim configuration
 - [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) - A neovim plugin that shows colorcolumn dynamically
-- [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider.  Considers camelCase and skips insignificant punctuation.
+- [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.
 - [JoseConseco/nvim_config](https://github.com/JoseConseco/nvim_config) - nvim config
 - [MordechaiHadad/nvim](https://github.com/MordechaiHadad/nvim) - My neovim config, great success
 - [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) - Telescope extentions to view pre-defined/custom treesitter queries
@@ -4919,7 +4923,7 @@
 - [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) - 
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) - Integration with github cli
 - [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) - 
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - improve neovim lsp experience
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [22mahmoud/dotfiles](https://github.com/22mahmoud/dotfiles) - 
 - [22mahmoud/nvim](https://github.com/22mahmoud/nvim) - 
@@ -5572,6 +5576,7 @@
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [aserowy/dots](https://github.com/aserowy/dots) - dotfiles
 - [xFA25E/nix-config](https://github.com/xFA25E/nix-config) - dotfiles
+- [b3nj5m1n/serverdots](https://github.com/b3nj5m1n/serverdots) - 
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
@@ -7307,7 +7312,6 @@
 - [Valodim/zsh-capture-completion](https://github.com/Valodim/zsh-capture-completion) - 
 - [hijadelaluuna/linuxbrew](https://github.com/hijadelaluuna/linuxbrew) - 
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
-- [b3nj5m1n/serverdots](https://github.com/b3nj5m1n/serverdots) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
@@ -7801,6 +7805,7 @@
 
 ## TypeScript 
 
+- [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -7820,7 +7825,7 @@
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
 - [uga-rosa/snip2json](https://github.com/uga-rosa/snip2json) - Convert ultisnips syntax snippets to LSP format json.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [creativenull/projectlocal-vim](https://github.com/creativenull/projectlocal-vim) - Safely load your project configurations in written in json, lua or vimscript
+- [creativenull/projectlocal.vim](https://github.com/creativenull/projectlocal.vim) - Safely load your project specific configurations written in json, lua or vimscript
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
 - [angrybacon/doomsday-wiki](https://github.com/angrybacon/doomsday-wiki) - The Doomsday Wiki
