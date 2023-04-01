@@ -140,7 +140,6 @@
 - [aleh/usbisp](https://github.com/aleh/usbisp) - USBasp firmware working with a clone "USB ISP Version 2.0" (marked "MX-USBISP-V4.00" or "MX-USBISP-V5.00" on the PCB)
 - [rgimad/fasm_programs](https://github.com/rgimad/fasm_programs) - fasm related stuff
 - [rgimad/chip8_kolibri](https://github.com/rgimad/chip8_kolibri) - CHIP-8 emulator for KolibriOS, written in fasm
-- [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [hearsilent/8051-Course](https://github.com/hearsilent/8051-Course) - 
 - [ZeroKelvinKeyboard/TachyonOS](https://github.com/ZeroKelvinKeyboard/TachyonOS) - An operating system project.
 - [skiselev/minimax8085](https://github.com/skiselev/minimax8085) - Simple Intel 8085 based Single Board Computer (SBC)
@@ -1609,6 +1608,7 @@
 
 ## Common Lisp 
 
+- [google/lisp-koans](https://github.com/google/lisp-koans) - Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific feat
 - [herth/ltk](https://github.com/herth/ltk) - 
 - [hellerve/sbcli](https://github.com/hellerve/sbcli) - A REPL for my SBCL needs
 - [quicklisp/quicklisp-client](https://github.com/quicklisp/quicklisp-client) - Quicklisp client.
@@ -3077,6 +3077,7 @@
 
 ## JavaScript 
 
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [AndronixApp/andronix-docs-next](https://github.com/AndronixApp/andronix-docs-next) - New and a more descriptive documentation for the @AndronixApp. It's build with the fast VueJS framework, NuxtJS and Tailwind CSS.
 - [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV spreadsheet files in different rainbow colors
 - [nvim-neorg/tree-sitter-norg2](https://github.com/nvim-neorg/tree-sitter-norg2) - Attempt at a second generation parser for the Norg format.
@@ -3179,7 +3180,7 @@
 - [actboy168/vscode-extensionPath](https://github.com/actboy168/vscode-extensionPath) - 
 - [actboy168/vscode-tasks](https://github.com/actboy168/vscode-tasks) - 
 - [LuaLS/vscode-lua-doc](https://github.com/LuaLS/vscode-lua-doc) - 
-- [JJK96/dotfiles](https://github.com/JJK96/dotfiles) - 
+- [JJK96/dotfiles](https://github.com/JJK96/dotfiles) - My collection of dotfiles
 - [whitecatboard/whitecat-ide](https://github.com/whitecatboard/whitecat-ide) - The Whitecat IDE, to program the ecosystem in Blocks or Lua
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [dandavison/dotfiles](https://github.com/dandavison/dotfiles) - My dotfiles
@@ -3385,6 +3386,9 @@
 
 ## Lua 
 
+- [JellyApple102/flote.nvim](https://github.com/JellyApple102/flote.nvim) - Easily accessible, per-project markdown notes in Neovim.
+- [hkupty/errands.nvim](https://github.com/hkupty/errands.nvim) - Task management
+- [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim) - Lua test framework for neovim plugins
 - [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) - winbar config for neovim
 - [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
 - [chrisgrieser/cmp-nerdfont](https://github.com/chrisgrieser/cmp-nerdfont) - nvim-cmp source for nerdfont icons
@@ -3680,7 +3684,7 @@
 - [luc-tielen/telescope_hoogle](https://github.com/luc-tielen/telescope_hoogle) - Hoogle search integration for Telescope
 - [mrcjkb/nvim-config](https://github.com/mrcjkb/nvim-config) - 
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - Supercharge your Haskell experience in neovim!
-- [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) - Neotest adapter for Haskell (cabal or stack) with support for Hspec and Tasty
+- [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) - Neotest adapter for Haskell (cabal or stack) with support for Sydtest, Hspec and Tasty
 - [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) - 
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
 - [Tsuzat/NeoSolarized.nvim](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme for NeoVim with full transparency
@@ -3725,7 +3729,7 @@
 - [Zane-/cder.nvim](https://github.com/Zane-/cder.nvim) - A telescope.nvim extension to quickly change Neovim's working directory.
 - [mrjones2014/load-all.nvim](https://github.com/mrjones2014/load-all.nvim) - A Neovim plugin that lets you load/execute all Lua files in a directory at once
 - [mrjones2014/lighthaus.nvim](https://github.com/mrjones2014/lighthaus.nvim) - A Lua implementation of lighthaus-theme/vim-lighthaus
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, directional Neovim and tmux split resizing and navigation. Think about splits in terms of "up/down/left/right".
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, directional Neovim and tmux/wezterm split resizing and navigation. Think about splits in terms of "up/down/left/right".
 - [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) - 
 - [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) - NeoVim frontend for mongosh
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) - Edit files from S3 directly from Neovim
@@ -3804,7 +3808,7 @@
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
 - [sam4llis/nvim-lua-gf](https://github.com/sam4llis/nvim-lua-gf) - A utility plugin which extends `gf` functionality in Lua files.
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) - Debug logging for Neovim plugin developers
-- [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) - Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org/
+- [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) - Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org
 - [romainchapou/confiture.nvim](https://github.com/romainchapou/confiture.nvim) - A neovim lua plugin to save and launch project specific commands.
 - [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - Some color utils for neovim
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) - Dim inactive windows in Neovim using window-local highlight namespaces.
@@ -5138,7 +5142,7 @@
 - [hkupty/impromptu.nvim](https://github.com/hkupty/impromptu.nvim) - Create prompts fast and easy
 - [hkupty/cartographer.nvim](https://github.com/hkupty/cartographer.nvim) - Simplify project navigation within neovim.
 - [hkupty/dotfiles](https://github.com/hkupty/dotfiles) - Once again, dotfiles!
-- [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim
+- [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
 - [Shatur/neovim-cmake](https://github.com/Shatur/neovim-cmake) - CMake integration for Neovim
 - [Shatur/neovim-config](https://github.com/Shatur/neovim-config) - My Neovim configuration.
@@ -6273,6 +6277,7 @@
 - [sublimelsp/lsp_utils](https://github.com/sublimelsp/lsp_utils) - Module with LSP-related utilities for Sublime Text
 - [sublimelsp/LSP-bash](https://github.com/sublimelsp/LSP-bash) - Bash support for Sublime's LSP plugin provided through bash-language-server.
 - [sublimelsp/LSP-json](https://github.com/sublimelsp/LSP-json) - Schema validation/completions for your JSON and Sublime files
+- [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [tom-anders/easy-i3-neovim-nav.py](https://github.com/tom-anders/easy-i3-neovim-nav.py) - Quickly navigate and resize i3wm windows and Neovim splits with the same keybindings
 - [blurstudio/sublime_debugger-plugin](https://github.com/blurstudio/sublime_debugger-plugin) - A template that can be used to make debug adapters compatible with the Debugger plugin in Sublime Text 3 and 4
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
@@ -6907,7 +6912,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [untitaker/quickenv](https://github.com/untitaker/quickenv) - An unintrusive environment manager
 - [Shopify/shadowenv](https://github.com/Shopify/shadowenv) - reversible directory-local environment variable manipulations
-- [reisub0/sway-alttab](https://github.com/reisub0/sway-alttab) - Simple Alt-Tab daemon for SwayWM/i3. Switches back to previous focused window on Alt-Tab or SIGUSR1
+- [ereduled/sway-alttab](https://github.com/ereduled/sway-alttab) - Simple Alt-Tab daemon for SwayWM/i3. Switches back to previous focused window on Alt-Tab or SIGUSR1
 - [rydesun/fennel-language-server](https://github.com/rydesun/fennel-language-server) - Fennel language server protocol (LSP) support.
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
@@ -8698,7 +8703,6 @@
 - [luochen1990/indent-detector.vim](https://github.com/luochen1990/indent-detector.vim) - Keep indent consistent without any effort
 - [kien/rainbow_parentheses.vim](https://github.com/kien/rainbow_parentheses.vim) - Better Rainbow Parentheses
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
-- [lacygoill/config](https://github.com/lacygoill/config) - 
 - [vim-scripts/utl.vim](https://github.com/vim-scripts/utl.vim) - Univeral Text Linking - Execute URLs, footnotes, open emails, organize ideas
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
 - [rhysd/vim-healthcheck](https://github.com/rhysd/vim-healthcheck) - Polyfill of Neovim's health-check for Vim
