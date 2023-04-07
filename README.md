@@ -267,7 +267,6 @@
 - [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
 - [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
 - [vhyrro/tree-sitter-luap](https://github.com/vhyrro/tree-sitter-luap) - TreeSitter Grammar for Lua's Regex-Like Patterns
-- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [mcjsk/fnc](https://github.com/mcjsk/fnc) - An interactive ncurses browser for Fossil repositories [MIRROR ONLY]
 - [nullchilly/CatNvim](https://github.com/nullchilly/CatNvim) - C at Nvim
 - [nathanrpage97/lua-fort](https://github.com/nathanrpage97/lua-fort) - A lua wrapper around the https://github.com/seleznevae/libfort library
@@ -3388,6 +3387,12 @@
 
 ## Lua 
 
+- [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) - a lightweight ChatGPT plugin for nevoim
+- [alpha2phi/neovim-101](https://github.com/alpha2phi/neovim-101) - Repository for the Neovim 101 series.
+- [alpha2phi/modern-neovim](https://github.com/alpha2phi/modern-neovim) - Crafting a modernized development environment with Neovim.
+- [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
+- [linux-cultist/venv-selector.nvim](https://github.com/linux-cultist/venv-selector.nvim) - Allows selection of python virtual environment from within neovim
+- [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
 - [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
@@ -4635,7 +4640,7 @@
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 - [kuznetsss/nvim_lua_config](https://github.com/kuznetsss/nvim_lua_config) - Neovim lua config
 - [kuznetsss/meadow-nvim](https://github.com/kuznetsss/meadow-nvim) - Dark colorscheme for nvim 0.5+ written in lua
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [takase1121/lite-plugin-manager](https://github.com/takase1121/lite-plugin-manager) - A little plugin-manager thingy for lite
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
@@ -5512,6 +5517,7 @@
 
 - [jcmvbkbc/avr-flash-vtbl](https://github.com/jcmvbkbc/avr-flash-vtbl) - AVR-GCC plugin that puts vtbls into program memory
 - [sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.
+- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [raymond-w-ko/creep2](https://github.com/raymond-w-ko/creep2) - 
 - [orbitalquark/textadept-yaml](https://github.com/orbitalquark/textadept-yaml) - YAML language module for Textadept.
 - [henriquehbr/docker-commitlint](https://github.com/henriquehbr/docker-commitlint) - Runs commitlint on a docker container
@@ -7101,6 +7107,7 @@
 
 ## Shell 
 
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [arsham/dotfiles](https://github.com/arsham/dotfiles) - My dotfiles for zsh, tmux, etc.
 - [mehalter/zsh-pins](https://github.com/mehalter/zsh-pins) - ohmyzsh plugin for pinning directories. Like  a CLI folder bookmark manager
 - [mehalter/zsh-nvim-appname](https://github.com/mehalter/zsh-nvim-appname) - A simple ZSH plugin for maintaining multiple Neovim configurations with NVIM_APPNAME
@@ -7430,7 +7437,6 @@
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [Gskartwii/wsl-setup](https://github.com/Gskartwii/wsl-setup) - Scripts for setting up a WSL development environment with oh-my-zsh, Kakoune, Rust, etc.
-- [hoop33/dotfiles](https://github.com/hoop33/dotfiles) - My configuration files
 - [Saleh7/igeek-zsh-theme](https://github.com/Saleh7/igeek-zsh-theme) - ZSH theme
 - [eendroroy/theta](https://github.com/eendroroy/theta) - A fast and verbose zsh prompt
 - [kristijanhusak/tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) - Add simple git status to your tmux statusline.
@@ -7650,7 +7656,7 @@
 - [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
-- [arcticicestudio/nord-gedit](https://github.com/arcticicestudio/nord-gedit) - An arctic, north-bluish clean and elegant gedit syntax theme.
+- [nordtheme/gedit](https://github.com/nordtheme/gedit) - An arctic, north-bluish clean and elegant gedit syntax theme.
 - [nordtheme/tmux](https://github.com/nordtheme/tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [nordtheme/xfce-terminal](https://github.com/nordtheme/xfce-terminal) - An arctic, north-bluish clean and elegant Xfce Terminal color theme.
 - [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
@@ -7821,6 +7827,7 @@
 
 ## TypeScript 
 
+- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
@@ -8420,6 +8427,7 @@
 - [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) - Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code
 - [dunstontc/vim-vscode-theme](https://github.com/dunstontc/vim-vscode-theme) - Visual Studio Code's "Dark+" theme
 - [kitofr/dotfiles](https://github.com/kitofr/dotfiles) - My dot files
+- [hoop33/dotfiles](https://github.com/hoop33/dotfiles) - My configuration files
 - [prabirshrestha/quickpick-lsp.vim](https://github.com/prabirshrestha/quickpick-lsp.vim) - 
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
 - [alerque/que-vim](https://github.com/alerque/que-vim) - my personal vim rc files vcsh style (see que)
