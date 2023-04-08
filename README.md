@@ -1626,7 +1626,7 @@
 - [eugeneia/httpd0](https://github.com/eugeneia/httpd0) - A simple HTTP/1.0 server with support for GET and HEAD requests.
 - [ahungry/slugelisp](https://github.com/ahungry/slugelisp) - Like sluglisp but for emacs lisp (searching repositories, seeing popularity)
 - [jackpal/lisp5000](https://github.com/jackpal/lisp5000) - A small dialect of Common Lisp based upon lisp500
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [adolenc/cl-neovim](https://github.com/adolenc/cl-neovim) - Common lisp client for neovim
 - [edicl/hunchentoot](https://github.com/edicl/hunchentoot) - Web server written in Common Lisp
 - [archimag/rulisp](https://github.com/archimag/rulisp) - Russian Common Lisp community site
@@ -3387,6 +3387,7 @@
 
 ## Lua 
 
+- [cesaralvarod/tokyogogh.nvim](https://github.com/cesaralvarod/tokyogogh.nvim) - Dark theme for neovim written in Lua. LSP, Tresitter and more plugins support. Inspired by tokyonight.nvim and Gogh.
 - [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) - a lightweight ChatGPT plugin for nevoim
 - [alpha2phi/neovim-101](https://github.com/alpha2phi/neovim-101) - Repository for the Neovim 101 series.
 - [alpha2phi/modern-neovim](https://github.com/alpha2phi/modern-neovim) - Crafting a modernized development environment with Neovim.
@@ -5408,6 +5409,7 @@
 - [yuri/sputnik](https://github.com/yuri/sputnik) - An Extensible Wiki/CMS in Lua
 - [fisadev/conky-draw](https://github.com/fisadev/conky-draw) - Easily create beautiful conky graphs and draws
 - [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
+- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [kassio/nvim](https://github.com/kassio/nvim) - My neovim setup
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
@@ -6158,6 +6160,9 @@
 
 ## Python 
 
+- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [cameron-wags/rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim) - Neovim port of mechatroner/rainbow_csv
@@ -7703,7 +7708,6 @@
 - [Mange/rofi-lpass](https://github.com/Mange/rofi-lpass) - Lastpass integration with Rofi
 - [srcery-colors/srcery-tmux](https://github.com/srcery-colors/srcery-tmux) - tmux theme for srcery
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-- [va7sdf/dmenu-lpass](https://github.com/va7sdf/dmenu-lpass) - dmenu interface to Lastpass CLI
 - [alanchrt/dotfiles](https://github.com/alanchrt/dotfiles) - Fedora, GNOME, Doom Emacs, tmux, Zsh, and so much more
 - [portacle/portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [eed3si9n/git-gone](https://github.com/eed3si9n/git-gone) - 
@@ -7987,6 +7991,7 @@
 
 ## Vim Script 
 
+- [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
 - [mitchpaulus/autocorrect.vim](https://github.com/mitchpaulus/autocorrect.vim) - Autocorrect for Vim/Neovim built from scratch.
 - [habamax/vim-shout](https://github.com/habamax/vim-shout) - Run and Capture Shell Command Output in Vim
 - [habamax/vim-sugarlily](https://github.com/habamax/vim-sugarlily) - White vim colorscheme
@@ -9015,7 +9020,6 @@
 - [fisadev/fisa-nvim-config](https://github.com/fisadev/fisa-nvim-config) - my neovim configuration (lot of python, autocompletion, fuzzy finder, etc, ...)
 - [fisadev/fisa-vim-config](https://github.com/fisadev/fisa-vim-config) - my vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...)
 - [edkolev/tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration
-- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [lyuts/vim-rtags](https://github.com/lyuts/vim-rtags) - Vim bindings for rtags, llvm/clang based c++ code indexer.
 - [cocopon/vaffle.vim](https://github.com/cocopon/vaffle.vim) - :file_folder: Lightweight, window-based file manager for Vim
 - [jeffkreeftmeijer/vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
