@@ -1168,7 +1168,7 @@
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
 - [Iskustvo/i3-ipcpp](https://github.com/Iskustvo/i3-ipcpp) - i3-ipc++ is a C++ library that implements the i3 IPC protocol.
 - [franko/graph-toolkit](https://github.com/franko/graph-toolkit) - Lua Graphics Toolkit
-- [axilmar/parserlib](https://github.com/axilmar/parserlib) - A c++ recursive-descent PEG parsing library that supports left recursion.
+- [axilmar/parserlib](https://github.com/axilmar/parserlib) - A c++ recursive-descent generic parsing library that supports left recursion.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [ADiea/si4432](https://github.com/ADiea/si4432) - Si4432 Library for Arduino
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
@@ -3419,7 +3419,7 @@
 - [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) - Telescope extentions to view pre-defined/custom treesitter queries
 - [KostkaBrukowa/nvim-config](https://github.com/KostkaBrukowa/nvim-config) - My nvim configuration
 - [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
-- [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - Personal and Simple Neovim color scheme with Treesitter support.
+- [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - A simple Neovim theme with Tree-sitter support.
 - [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
 - [prmaloney/valet.nvim](https://github.com/prmaloney/valet.nvim) - 
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk keymaps in neovim
@@ -3605,7 +3605,7 @@
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
 - [Nexmean/dotfiles](https://github.com/Nexmean/dotfiles) - 
 - [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) - Declarative keymappings configuration using cascading trees
-- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than a dozen new text objects for Neovim.
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of two dozen new text objects for Neovim.
 - [Jxstxs/conceal.nvim](https://github.com/Jxstxs/conceal.nvim) - A Neovim Plugin which uses Treesitter to conceal typical boiler Code
 - [folke/drop.nvim](https://github.com/folke/drop.nvim) - 🍁 Fun little plugin that can be used as a screensaver and on your dashboard
 - [folke/paint.nvim](https://github.com/folke/paint.nvim) - Easily add additional highlights to your buffers
@@ -4469,7 +4469,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;= v0.9.0-dev-1315+g3a4db8154) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-17+g6801befcc) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
