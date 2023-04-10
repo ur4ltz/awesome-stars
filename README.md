@@ -3387,6 +3387,7 @@
 
 ## Lua 
 
+- [jemag/telescope-diff.nvim](https://github.com/jemag/telescope-diff.nvim) - View file diffs quickly with Telescope.nvim
 - [cesaralvarod/tokyogogh.nvim](https://github.com/cesaralvarod/tokyogogh.nvim) - Dark theme for neovim written in Lua. LSP, Tresitter and more plugins support. Inspired by tokyonight.nvim and Gogh.
 - [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) - a lightweight ChatGPT plugin for nevoim
 - [alpha2phi/neovim-101](https://github.com/alpha2phi/neovim-101) - Repository for the Neovim 101 series.
@@ -3612,7 +3613,7 @@
 - [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim) - 💼 Neovim plugin to manage global and project-local settings
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [rareitems/printer.nvim](https://github.com/rareitems/printer.nvim) - Neovim plugin adding debug printing operator
-- [EricDriussi/remember-me.nvim](https://github.com/EricDriussi/remember-me.nvim) - 
+- [EricDriussi/remember-me.nvim](https://github.com/EricDriussi/remember-me.nvim) - Super simple and non-intrusive session management for your projects
 - [trmckay/based.nvim](https://github.com/trmckay/based.nvim) - Neovim plugin to convert numberical base of selection or current word
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
 - [uloco/bluloco.nvim](https://github.com/uloco/bluloco.nvim) - bluloco theme port for neovim
@@ -5055,6 +5056,7 @@
 - [nvim-treesitter/nvim-tree-docs](https://github.com/nvim-treesitter/nvim-tree-docs) - Code documentation built with treesitter
 - [wbthomason/nvim-vcs.lua](https://github.com/wbthomason/nvim-vcs.lua) - A Git/VCS library, in Lua, for Neovim and Neovim plugins
 - [nanotee/nvim-if-lua-compat](https://github.com/nanotee/nvim-if-lua-compat) - An if_lua compatibility layer for Neovim
+- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [rafcamlet/coc-nvim-lua](https://github.com/rafcamlet/coc-nvim-lua) - Simple neovim lua completion source for coc.nvim
 - [vhakulinen/dots](https://github.com/vhakulinen/dots) - dots
 - [actboy168/findlocal](https://github.com/actboy168/findlocal) - 
@@ -5187,6 +5189,7 @@
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
 - [wbthomason/pdf-scribe.nvim](https://github.com/wbthomason/pdf-scribe.nvim) - Neovim plugin for importing annotations and metadata from PDFs
 - [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline
+- [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight theme for modern Neovim & classic Vim
 - [eugeneia/s-lua](https://github.com/eugeneia/s-lua) - S-Lua, S-expressions and Macros for Lua
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [eugeneia/lite](https://github.com/eugeneia/lite) - A lightweight text editor written in Lua
@@ -6161,7 +6164,7 @@
 ## Python 
 
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
@@ -8426,7 +8429,6 @@
 - [fmind/nvim.d](https://github.com/fmind/nvim.d) - Configuration of neovim editor.
 - [felipec/vim-felipec](https://github.com/felipec/vim-felipec) - Vim color scheme: dark, bright, simple.
 - [bluz71/vim-mistfly-statusline](https://github.com/bluz71/vim-mistfly-statusline) - A simple Vimscript statusline for Vim & Neovim
-- [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for classic Vim & modern Neovim
 - [sriramkswamy/dotvim](https://github.com/sriramkswamy/dotvim) - Vim dot files
 - [euclidianAce/BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) - Better Lua syntax highlighting in Vim/NeoVim
 - [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) - Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code
@@ -8579,7 +8581,6 @@
 - [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [jez/vim-superman](https://github.com/jez/vim-superman) - Read Unix man pages faster than a speeding bullet!
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
-- [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight theme for classic Vim & modern Neovim
 - [ChausseBenjamin/friffle-vim](https://github.com/ChausseBenjamin/friffle-vim) - Vim colorscheme which matches my dotfiles.
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
 - [shime/vim-livedown](https://github.com/shime/vim-livedown) - Vim plugin for Livedown.
