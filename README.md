@@ -91,6 +91,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
@@ -99,6 +100,7 @@
 - [V](#v)
 - [VHDL](#vhdl)
 - [Vala](#vala)
+- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Visual Basic](#visual-basic)
@@ -123,6 +125,7 @@
 
 ## Arduino 
 
+- [AbhishekGhosh/TM1637-Clock-Arduino](https://github.com/AbhishekGhosh/TM1637-Clock-Arduino) - Get a 24 hrs clock with only Arduino and TM1637 LED display. This is not real time.
 - [avishorp/soldering_station](https://github.com/avishorp/soldering_station) - Arduino based Soldering Station for Hakko 907 handle
 - [JanoVel/attiny_binary_watch](https://github.com/JanoVel/attiny_binary_watch) - The code and PCB etching files of a binary watch made using an ATTINY13 and a DS1302 IC
 - [todbot/arduino-i2c-scanner](https://github.com/todbot/arduino-i2c-scanner) - Simple Arduino I2C scanner as described at http://todbot.com/blog/2009/11/29/i2cscanner-pde-arduino-as-i2c-bus-scanner/
@@ -133,6 +136,15 @@
 
 ## Assembly 
 
+- [zoosmand/SAMD21G18A_SPI](https://github.com/zoosmand/SAMD21G18A_SPI) - Microchip (Atmel) SAMD21 SPI example. MAX7219 as a ticker and BMP280 as a data source for ticker, are used on the same SPI bus.
+- [zoosmand/SAMD21G18A_delay](https://github.com/zoosmand/SAMD21G18A_delay) - In this example a delay don't make an empty job, but passing handle into a main cycle
+- [zoosmand/SAMD21G18A_eic](https://github.com/zoosmand/SAMD21G18A_eic) - EIC controller on SAMD device
+- [zoosmand/ATtiny25_BMx280_SPI](https://github.com/zoosmand/ATtiny25_BMx280_SPI) - BMP280 or BME280 connected to ATtiny25 via SPI
+- [zoosmand/ATtiny25_BMx280_I2C](https://github.com/zoosmand/ATtiny25_BMx280_I2C) - BMP280 or BME280 connected to ATtiny25 via I2C
+- [zoosmand/ATtiny25_SSD1306](https://github.com/zoosmand/ATtiny25_SSD1306) - LCD Display SSD1306 connected via I2C to ATtiny25. Can use either horizontal or vertical placing.
+- [zoosmand/ATtiny25_WH1602](https://github.com/zoosmand/ATtiny25_WH1602) - LCD Display WH1602 via I2C BUS on USI ATtiny25
+- [zoosmand/ATtiny25_DS18B20_TM1637](https://github.com/zoosmand/ATtiny25_DS18B20_TM1637) - The Digital Thermometer based on OneWire protocol. Sensor is DS18B20. Display use a 16-bit shift register TM1637.
+- [Radulfus/TM1638](https://github.com/Radulfus/TM1638) - AVR ASM Library to drive TM1638 from Titan Micro Electronics. It's a special circuit for LED control.
 - [mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference) - 
 - [BleuLlama/z80-machine](https://github.com/BleuLlama/z80-machine) - Z80 Emulator for the RC2014 system, with integrated debugging tools
 - [he-mat/better_tutorial](https://github.com/he-mat/better_tutorial) - short NASM tutorial
@@ -180,6 +192,18 @@
 
 ## C 
 
+- [siorpaes/DisplayAdapter](https://github.com/siorpaes/DisplayAdapter) - This project aims at mirroring Yamaha CRX-140 display with some other, more visible, displays. E.g.: E-paper, TM1637 seven segment or SSD1306 OLED displays.
+- [mytchel/alarm-lamp](https://github.com/mytchel/alarm-lamp) - Code and circuit for an avr powered clock with alarm lamp.
+- [joppo/Arduino](https://github.com/joppo/Arduino) - Arduino projects with popular sensors / modules / displays
+- [arinichevN/aind](https://github.com/arinichevN/aind) - Arduino multichannel indicator with serial interface
+- [CppBaddy/atmegaClock](https://github.com/CppBaddy/atmegaClock) - Simple LED clock based on atmega328p, 32KHz clock crystal, TM1637 i2c LED module, 18650 Li-ion battery and TP4056 charging module
+- [AlexAlexFr/TM1637-Driver](https://github.com/AlexAlexFr/TM1637-Driver) - TM1637 driver for AVR MCU (gcc); avr-gcc version 5.4.0; Toolchain  version 3.6.2_1778; IDE - Atmel Studio 7
+- [Danya0x07/tm1637-simple-library](https://github.com/Danya0x07/tm1637-simple-library) - Simple and cross-platform library for interfacing TM1637 four-digit seven-segment indicators.
+- [mcore1976/thermometer-LM35-TM1637](https://github.com/mcore1976/thermometer-LM35-TM1637) - Digital LED thermometer on ATTINY13 / LM35 and 4-digit TM1637 module for Arduino. Uses LM35 analog themperature sensor (0-100C degrees).
+- [isupovandrey/clockStm8](https://github.com/isupovandrey/clockStm8) - Часы на STM8
+- [nimaltd/tm1637](https://github.com/nimaltd/tm1637) - tm1637 display library for STM32
+- [MahdaSystem/TM1638](https://github.com/MahdaSystem/TM1638) - TM1638 driver for AVR (ATmega32), STM32 (HAL) and ESP32 (esp-idf)
+- [gavinlyonsrepo/NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT) - ASCII text  Library for the Nokia 5110 LCD ( PCD8544 controller) for the Arduino microcontroller eco-system. Nine ASCII text fonts of various sizes .  Designed to be light weight, low memory footprint
 - [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles) - Function and form
 - [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of st with proper scrolling support, text reflow and a few other additions.
 - [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be configured in C.
@@ -1015,6 +1039,42 @@
 
 ## C++ 
 
+- [ariskyr/Billiards_Firmware](https://github.com/ariskyr/Billiards_Firmware) - Automatic Billiards Table
+- [anachrocomputer/EarthDemSim](https://github.com/anachrocomputer/EarthDemSim) - Earth Demolition Simulator for Ludum Dare MiniLD #42. Game for Arduino with 8x8 LED matrix display and NES controller.
+- [keria132/DHT_data-monitoring](https://github.com/keria132/DHT_data-monitoring) - Simple sketch to monitor DHT data on TM1637 display
+- [gzikos/sousvide](https://github.com/gzikos/sousvide) - Arduino code for sous vide
+- [veryblackcat/PS_SimpleTM1637](https://github.com/veryblackcat/PS_SimpleTM1637) - Simple library for 4 digit 7-segment display modules with TM1637 for Arduino.
+- [billygr/arduino-clock](https://github.com/billygr/arduino-clock) - An Arduino Clock based on TM1637 and DS3231
+- [adamvotocek/arduinoAlarmClockExample](https://github.com/adamvotocek/arduinoAlarmClockExample) - This is a an alarm clock example made from an Arduino Nano, DS3231, TM1637 and some simple components. WARNING: terrible code and bad joke attempts
+- [StoicaT/Timer-with-TM1637-and-Arduino](https://github.com/StoicaT/Timer-with-TM1637-and-Arduino) - Countdown timer with LED display drive by TM1637 and Arduino Nano.
+- [diegoportela99/TM1637-arduino](https://github.com/diegoportela99/TM1637-arduino) - Timer Method for arduino TM1637
+- [mcauser/TM1637-led-driver-7-segment](https://github.com/mcauser/TM1637-led-driver-7-segment) - Arduino library for TM1637, used in the Grove 4 Digit Display
+- [adamvotocek/3DprintedAlarmClock](https://github.com/adamvotocek/3DprintedAlarmClock) - This is a an alarm clock made from an Arduino Nano, DS3231, TM1637, some buttons, an LED and a buzzer.
+- [AbhishekGhosh/Arduino-Buzzer-Tone-Codes](https://github.com/AbhishekGhosh/Arduino-Buzzer-Tone-Codes) - Some Collected Arduino Buzzer Tone Codes
+- [andres-garcia-alves/electronic-vibratory-tumbler](https://github.com/andres-garcia-alves/electronic-vibratory-tumbler) - Arduino code for a time-controlled vibratory tumbler.
+- [adamkovesdi/bedsideclock](https://github.com/adamkovesdi/bedsideclock) - ESP8266 based 7 segment display clock with NTP
+- [oliverfindl/arduino-uno-temperature-monitor](https://github.com/oliverfindl/arduino-uno-temperature-monitor) - Source code for simple temperature monitor built with Arduino UNO board, DS18B20 temperature sensor, TM1637 display and signal LED.
+- [JAndrassy/SunriseClock](https://github.com/JAndrassy/SunriseClock) - A light 'alarm' clock designed for gentle wake-up with increasing light intensity.
+- [Strabox/Easyuino](https://github.com/Strabox/Easyuino) - Easyuino offers a modular API to several sensors and devices connected to Arduino to help beginners build a lot of stuff easily
+- [Erriez/ErriezTM1637](https://github.com/Erriez/ErriezTM1637) - TM1637 LED and key-scan library for Arduino
+- [rpidanny/TM1638](https://github.com/rpidanny/TM1638) - A simple library for TM1638 based Boards.
+- [bit4man/tm1638](https://github.com/bit4man/tm1638) - Arduino TM1638 library
+- [gavinlyonsrepo/Arduino_Clock_2](https://github.com/gavinlyonsrepo/Arduino_Clock_2) - Arduino Real Time Alarm Clock with Temperature and LED lights. Remote controlled
+- [gavinlyonsrepo/timer_arduino_two](https://github.com/gavinlyonsrepo/timer_arduino_two) - Countdown Timer: Range 1-99 minutes. Output time (mm:ss) to seven segment display and Audio to Buzzer. Input: Push button to start. Potentiometer used for time select.
+- [gavinlyonsrepo/LCR_meter](https://github.com/gavinlyonsrepo/LCR_meter) - LCR meter. Inductance, Capacitance and Resistance meter, Arduino NANO (version 3) based.  4 resistor test ranges, Resistor range is from 0 ohms to 2 Mohms. Auto-range.  Inductance test, range is 80uH 
+- [gavinlyonsrepo/NOKIA_5110_RPI](https://github.com/gavinlyonsrepo/NOKIA_5110_RPI) - Nokia 5110 LCD SPI C++ library for the raspberry pi single board computer ecosystem, PCD8544 controller
+- [gavinlyonsrepo/FourteenSegDisplay](https://github.com/gavinlyonsrepo/FourteenSegDisplay) - An Arduino library to display data on a seven 7, nine 9,  fourteen 14 or sixteen 16 segment alphanumeric LED display module. Will work with common anode and cathode. Includes ASCII font and supports H
+- [gavinlyonsrepo/Cap_meter_arduino](https://github.com/gavinlyonsrepo/Cap_meter_arduino) - Capacitance meter, Arduino-based, three tests , range 18pf to 4F , Push Button input , OLED and serial monitor output.
+- [gavinlyonsrepo/LR_meter_arduino](https://github.com/gavinlyonsrepo/LR_meter_arduino) - Inductance and Resistance meter, Arduino based. Push button input.  3 tests, 4 resistor test ranges. One Inductance test, Analog input display , outputs to serial monitor and OLED. Resistor range is f
+- [gavinlyonsrepo/Arduino_FM_radio](https://github.com/gavinlyonsrepo/Arduino_FM_radio) - Arduino based FM radio using the Nano and the modules: SSD1306 OLED , TEA5767 FM radio,   LM386 audio amplifer  and KA2284 Audio level..
+- [gavinlyonsrepo/Arduino_Clock_1](https://github.com/gavinlyonsrepo/Arduino_Clock_1) - Arduino Real Time Clock with Alarm and environmental sensors
+- [gavinlyonsrepo/timer_arduino](https://github.com/gavinlyonsrepo/timer_arduino) - Countdown Timer: Range 1-99 minutes. Output: time (mm:ss) to seven segment display(TM1637) and Audio to Buzzer. Input: Push button to start. 10K Pot used for time select.
+- [JChristensen/DS3232RTC](https://github.com/JChristensen/DS3232RTC) - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Time Clocks
+- [gavinlyonsrepo/Arduino_Clock_3](https://github.com/gavinlyonsrepo/Arduino_Clock_3) - Arduino Real Time Alarm Clock DS3231 with TM1638. Arduino Clock with Battery backup (real time clock), Time, Date, Alarm, Temperature, TM1638 seven segment module output and input, Display Sleep mode.
+- [Erriez/ErriezTM1638](https://github.com/Erriez/ErriezTM1638) - TM1638 LED driver with key-scan library for Arduino
+- [codebeat-nl/xtm1638](https://github.com/codebeat-nl/xtm1638) - Fastest library to control TM1638 chip (for example: "LED AND KEY") based modules
+- [ftjuh/I2Cwrapper](https://github.com/ftjuh/I2Cwrapper) - I2Cwrapper is a generic modular framework which helps you implement Arduino based I2C target (slave) devices for control of non-I2C hardware. Supports plain Arduinos, ESP8266, ESP32, SAMD, STM32, and 
+- [gavinlyonsrepo/RPI_PICO_projects_list](https://github.com/gavinlyonsrepo/RPI_PICO_projects_list) - An index of projects and libraries for Raspberry Pi Pico's (RP2040) stored in this github account.
 - [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
 - [wxMEdit/wxMEdit](https://github.com/wxMEdit/wxMEdit) - wxMEdit, a cross-platform Text/Hex Editor, an improved version of MadEdit
 - [echo-devim/fhex](https://github.com/echo-devim/fhex) - A Full-Featured HexEditor compatible with Linux/Windows/MacOS
@@ -1502,6 +1562,7 @@
 
 ## CMake 
 
+- [ximtech/TM1637](https://github.com/ximtech/TM1637) - TM1637 chip is driver for 4 digit 7-segment display modules
 - [ilyachur/Arduino-CMake-Toolchain](https://github.com/ilyachur/Arduino-CMake-Toolchain) - CMake toolchain for all Arduino compatible boards
 - [bkaradzic/bgfx.cmake](https://github.com/bkaradzic/bgfx.cmake) - CMake build scripts for bgfx. Released under public domain.
 - [brodo/arduino-cmake](https://github.com/brodo/arduino-cmake) - Arduino CMake Build system
@@ -2587,6 +2648,7 @@
 
 ## Go 
 
+- [google/periph](https://github.com/google/periph) - Go·Hardware·Lean
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
@@ -3081,6 +3143,7 @@
 
 ## JavaScript 
 
+- [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
 - [piecioshka/encoding-checker](https://github.com/piecioshka/encoding-checker) - 🛠 Tool to investigate files with different encoding than passed.
 - [gignupg/Detect-File-Encoding-And-Language](https://github.com/gignupg/Detect-File-Encoding-And-Language) - An NPM Package to detect the encoding and language of text files
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -3393,6 +3456,7 @@
 
 ## Lua 
 
+- [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.
 - [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim) - A neovim plugin to manage terminal buffers
 - [boltlessengineer/nvim](https://github.com/boltlessengineer/nvim) - My neovim config
 - [miversen33/wezconf](https://github.com/miversen33/wezconf) - A wezterm abstraction library to make getting started "easier" and simpler to maintain
@@ -5159,7 +5223,7 @@
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
 - [mkflaher2/dotfiles](https://github.com/mkflaher2/dotfiles) - dotfiles for LCARS theme
-- [JavaCafe01/awesome](https://github.com/JavaCafe01/awesome) - My AwesomeWM configuration files
+- [JavaCafe01/awesome](https://github.com/JavaCafe01/awesome) - configuration files for AwesomeWM
 - [stetre/luamoulds](https://github.com/stetre/luamoulds) - A C-like typedef for Lua
 - [stetre/lunasdl](https://github.com/stetre/lunasdl) - SDL-oriented concurrency in Lua
 - [stetre/moonsc](https://github.com/stetre/moonsc) - Harel Statecharts in Lua
@@ -5657,6 +5721,7 @@
 
 ## Others 
 
+- [AbhishekGhosh/Arduino-Themes](https://github.com/AbhishekGhosh/Arduino-Themes) - Collection of Arduino IDE Themes Created By Community
 - [BachoSeven/wiki](https://github.com/BachoSeven/wiki) - keeping track of the drops in a sea of Linux learning
 - [agnostic-apollo/Android-Docs](https://github.com/agnostic-apollo/Android-Docs) - This repository provides documentation for random stuff related to the Android operating system.
 - [jmbuhr/tmux-kickstarter](https://github.com/jmbuhr/tmux-kickstarter) - A semi-opinionated tmux config to get started
@@ -6176,6 +6241,9 @@
 
 ## Python 
 
+- [magnetrwn/python-periphery-tm1637](https://github.com/magnetrwn/python-periphery-tm1637) - This module contains functions to drive the TM1637 display module as well as clock, scrolling ASCII text and system information functionality. Attaching this to a SBC can give useful insight on the sy
+- [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
+- [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
@@ -6941,6 +7009,7 @@
 
 ## Rust 
 
+- [w1png/tm1637-avr-hal](https://github.com/w1png/tm1637-avr-hal) - A simple library for interfacing with the tm1637 using avr-hal.
 - [noib3/crop](https://github.com/noib3/crop) - 🌾 A pretty fast text rope
 - [crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator) - Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
@@ -7459,6 +7528,7 @@
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [Gskartwii/wsl-setup](https://github.com/Gskartwii/wsl-setup) - Scripts for setting up a WSL development environment with oh-my-zsh, Kakoune, Rust, etc.
+- [hoop33/dotfiles](https://github.com/hoop33/dotfiles) - My configuration files
 - [Saleh7/igeek-zsh-theme](https://github.com/Saleh7/igeek-zsh-theme) - ZSH theme
 - [eendroroy/theta](https://github.com/eendroroy/theta) - A fast and verbose zsh prompt
 - [kristijanhusak/tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) - Add simple git status to your tmux statusline.
@@ -7481,7 +7551,7 @@
 - [nanotee/dotfiles](https://github.com/nanotee/dotfiles) - 
 - [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [grznych/dotfiles](https://github.com/grznych/dotfiles) - 
-- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A build script for qBittorent nox static.
+- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [jessiehildebrandt/dot-fish](https://github.com/jessiehildebrandt/dot-fish) - My personal Fish configuration (GitLab mirror)
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
@@ -7806,8 +7876,13 @@
 
 - [owncloud-docker/server](https://github.com/owncloud-docker/server) - Docker image for ownCloud community edition
 
+## Svelte 
+
+- [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Discover and share Neovim configs and plugins
+
 ## Swift 
 
+- [SwiftyLinkerKit/SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
@@ -8003,6 +8078,10 @@
 
 - [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+
+## Verilog 
+
+- [alangarf/tm1638-verilog](https://github.com/alangarf/tm1638-verilog) - A basic verilog driver for the TM1638 LED and key matrix chip
 
 ## Vim Script 
 
@@ -8448,7 +8527,6 @@
 - [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) - Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code
 - [dunstontc/vim-vscode-theme](https://github.com/dunstontc/vim-vscode-theme) - Visual Studio Code's "Dark+" theme
 - [kitofr/dotfiles](https://github.com/kitofr/dotfiles) - My dot files
-- [hoop33/dotfiles](https://github.com/hoop33/dotfiles) - My configuration files
 - [prabirshrestha/quickpick-lsp.vim](https://github.com/prabirshrestha/quickpick-lsp.vim) - 
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
 - [alerque/que-vim](https://github.com/alerque/que-vim) - my personal vim rc files vcsh style (see que)
@@ -8860,7 +8938,7 @@
 - [Skeggox/neovim-config](https://github.com/Skeggox/neovim-config) - My neovim configuration files
 - [delucks/dotfiles](https://github.com/delucks/dotfiles) - ~/.*
 - [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
-- [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - Carefully curated configuration for (almost) everything.
+- [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - ⚠️ Deprecated! I’ve moved all my config to Nix+NixOS+Home Manager, and that repo is not currently public.
 - [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) - Easy git merge conflict resolution in Vim
 - [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 - [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - My personal dotfiles (how do these have so many stars?)
