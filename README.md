@@ -192,6 +192,7 @@
 
 ## C 
 
+- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [siorpaes/DisplayAdapter](https://github.com/siorpaes/DisplayAdapter) - This project aims at mirroring Yamaha CRX-140 display with some other, more visible, displays. E.g.: E-paper, TM1637 seven segment or SSD1306 OLED displays.
 - [mytchel/alarm-lamp](https://github.com/mytchel/alarm-lamp) - Code and circuit for an avr powered clock with alarm lamp.
 - [joppo/Arduino](https://github.com/joppo/Arduino) - Arduino projects with popular sensors / modules / displays
@@ -1039,6 +1040,7 @@
 
 ## C++ 
 
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ariskyr/Billiards_Firmware](https://github.com/ariskyr/Billiards_Firmware) - Automatic Billiards Table
 - [anachrocomputer/EarthDemSim](https://github.com/anachrocomputer/EarthDemSim) - Earth Demolition Simulator for Ludum Dare MiniLD #42. Game for Arduino with 8x8 LED matrix display and NES controller.
 - [keria132/DHT_data-monitoring](https://github.com/keria132/DHT_data-monitoring) - Simple sketch to monitor DHT data on TM1637 display
@@ -3143,6 +3145,7 @@
 
 ## JavaScript 
 
+- [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
 - [piecioshka/encoding-checker](https://github.com/piecioshka/encoding-checker) - 🛠 Tool to investigate files with different encoding than passed.
 - [gignupg/Detect-File-Encoding-And-Language](https://github.com/gignupg/Detect-File-Encoding-And-Language) - An NPM Package to detect the encoding and language of text files
@@ -3456,11 +3459,17 @@
 
 ## Lua 
 
+- [catgoose/coderunner.nvim](https://github.com/catgoose/coderunner.nvim) - 
+- [catgoose/angler.nvim](https://github.com/catgoose/angler.nvim) - 
+- [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) - 
+- [catgoose/do-the-needful](https://github.com/catgoose/do-the-needful) - 
+- [catgoose/neovim](https://github.com/catgoose/neovim) - 
+- [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) - I love highlights! I love f{char}!
+- [speedata/luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
 - [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.
 - [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim) - A neovim plugin to manage terminal buffers
 - [boltlessengineer/nvim](https://github.com/boltlessengineer/nvim) - My neovim config
 - [miversen33/wezconf](https://github.com/miversen33/wezconf) - A wezterm abstraction library to make getting started "easier" and simpler to maintain
-- [0oAstro/dim.lua](https://github.com/0oAstro/dim.lua) - Dim unused words in neovim
 - [askfiy/lsp_extra_dim](https://github.com/askfiy/lsp_extra_dim) - Dim unused parameters from neovim..
 - [askfiy/nvim](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
@@ -3557,7 +3566,7 @@
 - [anuvyklack/nvim-api-wrappers](https://github.com/anuvyklack/nvim-api-wrappers) - 
 - [anuvyklack/blueflower](https://github.com/anuvyklack/blueflower) - 
 - [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) - Rainbow delimiters for Neovim through Tree-sitter
-- [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - 
+- [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
 - [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [loctvl842/nvim](https://github.com/loctvl842/nvim) - neovim config using lazy
 - [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) - Complete rewrite.
@@ -3776,7 +3785,6 @@
 - [n-shift/sage.nvim](https://github.com/n-shift/sage.nvim) - 
 - [n-shift/scratch.nvim](https://github.com/n-shift/scratch.nvim) - 
 - [n-shift/nvim](https://github.com/n-shift/nvim) - 
-- [0oAstro/silicon.lua](https://github.com/0oAstro/silicon.lua) - Beautiful code snippet images right in the most epic editor :chef_kiss:
 - [mrcjkb/nvim-minimal-packer](https://github.com/mrcjkb/nvim-minimal-packer) - Minimal NeoVim config with packer (for reproducing plugin behaviour)
 - [mrcjkb/telescope-manix](https://github.com/mrcjkb/telescope-manix) - A telescope.nvim extension for Manix - A fast documentation searcher for Nix
 - [luc-tielen/lua-quickcheck](https://github.com/luc-tielen/lua-quickcheck) - Property based testing in Lua, inspired by the original QuickCheck.
@@ -4307,6 +4315,7 @@
 - [lvim-tech/lvim-focus](https://github.com/lvim-tech/lvim-focus) - 
 - [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
+- [milisims/vimfiles](https://github.com/milisims/vimfiles) - 
 - [devnnys/spaceodyssey.nvim](https://github.com/devnnys/spaceodyssey.nvim) - 
 - [lazytanuki/nvim-mapper](https://github.com/lazytanuki/nvim-mapper) - A neovim plugin that helps you keep track of your keymaps.
 - [ellisonleao/neovimfiles](https://github.com/ellisonleao/neovimfiles) - My Neovim configuration written in Lua
@@ -7197,6 +7206,9 @@
 
 ## Shell 
 
+- [catgoose/kanagawa-tmux](https://github.com/catgoose/kanagawa-tmux) - 
+- [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard) - One prefix to control all your session creation, naming, switching, etc using fzf & zoxide
+- [adi1090x/termux-style](https://github.com/adi1090x/termux-style) - Simple script to change color-schemes and fonts for Termux.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [arsham/dotfiles](https://github.com/arsham/dotfiles) - My dotfiles for zsh, tmux, etc.
 - [mehalter/zsh-pins](https://github.com/mehalter/zsh-pins) - ohmyzsh plugin for pinning directories. Like  a CLI folder bookmark manager
@@ -7899,7 +7911,7 @@
 - [dbohdan/fossil-wiki-export](https://github.com/dbohdan/fossil-wiki-export) - Export a Fossil SCM wiki to Git preserving the revision history
 - [flightaware/TclProDebug](https://github.com/flightaware/TclProDebug) - Upgrade of debugger from classic TclPro to Tcl 8.5+
 - [blobject/dotfiles](https://github.com/blobject/dotfiles) - 
-- [blobject/agave](https://github.com/blobject/agave) - succulent monospaced programming font
+- [blobject/agave](https://github.com/blobject/agave) - succulent monospace programming font
 - [wduquette/notebook](https://github.com/wduquette/notebook) - Notebook Personal Wiki
 - [tobijk/caius](https://github.com/tobijk/caius) - A functional testing framework in object-oriented Tcl
 - [xdobry/tclsqueak](https://github.com/xdobry/tclsqueak) - Graphical object oriented programming environment for Tcl, XOTcl, TclOO programming language  inspired by famous smalltalk Squeak
@@ -8224,7 +8236,6 @@
 - [milisims/contextualize.vim](https://github.com/milisims/contextualize.vim) - Add context-sensitive maps and abbreviations
 - [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) - Add a vim :help reference for lua
 - [milisims/vim-org](https://github.com/milisims/vim-org) - 
-- [milisims/vimfiles](https://github.com/milisims/vimfiles) - 
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [CantoroMC/slimux](https://github.com/CantoroMC/slimux) - SLIME inspired tmux integration plugin for Vim
