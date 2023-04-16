@@ -1738,7 +1738,7 @@
 - [beauwilliams/Vimage](https://github.com/beauwilliams/Vimage) - Automated neovim development environment container for developers supporting many languages. Simply run the script and begin coding with a fully configured neovim. Including my dotfile configurations.
 - [leafo/lapis-archlinux-docker](https://github.com/leafo/lapis-archlinux-docker) - Dockerfile for running lapis in archlinux
 - [GSConnect/gsconnect-ci](https://github.com/GSConnect/gsconnect-ci) - GSConnect CI Container
-- [fabiocicerchia/nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, Debian, Fedora and Ubuntu.
+- [fabiocicerchia/nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu.
 - [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image
 - [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image
 - [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image
@@ -2489,7 +2489,7 @@
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [aspiers/smooth-scrolling](https://github.com/aspiers/smooth-scrolling) - Emacs smooth scrolling package
 - [Malabarba/paradox](https://github.com/Malabarba/paradox) - Project for modernizing Emacs' Package Menu. With package ratings, usage statistics, customizability, and more.
-- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - Awesome Emacs color theme for white backgrounds --- Added in Emacs 24.4+
+- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #Emacs #theme #coding
 - [sellout/emacs-color-theme-solarized](https://github.com/sellout/emacs-color-theme-solarized) - Emacs highlighting using Ethan Schoonover’s Solarized color scheme
 - [nashamri/spacemacs-theme](https://github.com/nashamri/spacemacs-theme) - Light and dark theme for spacemacs that supports GUI and terminal
 - [redguardtoo/evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
@@ -3081,7 +3081,7 @@
 
 ## Java 
 
-- [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and testing features.
+- [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -3400,13 +3400,11 @@
 - [gustavo-hms/objetiva](https://github.com/gustavo-hms/objetiva) - Some new object selections for Kakoune
 - [Anomalocaridid/kakoune-cyberpunk-neon](https://github.com/Anomalocaridid/kakoune-cyberpunk-neon) - Port of Roboron3042's Cyberpunk Neon theme for Kakoune
 - [Anomalocaridid/wezterm.kak](https://github.com/Anomalocaridid/wezterm.kak) - Basic WezTerm integration for Kakoune
-- [alexherbo2/text-objects.kak](https://github.com/alexherbo2/text-objects.kak) - Text objects for Kakoune
 - [alexherbo2/alacritty.kak](https://github.com/alexherbo2/alacritty.kak) - Alacritty integration for Kakoune
 - [anhsirk0/kakoune-themes](https://github.com/anhsirk0/kakoune-themes) - Beautiful Color schemes for kakoune.
 - [occivink/kakoune-phantom-selection](https://github.com/occivink/kakoune-phantom-selection) - Work on multiple selections, one at a time
 - [alexherbo2/select.kak](https://github.com/alexherbo2/select.kak) - Select objects for Kakoune
 - [chambln/kakoune-kit](https://github.com/chambln/kakoune-kit) - A Git porcelain inside Kakoune
-- [alexherbo2/surround.kak](https://github.com/alexherbo2/surround.kak) - Surround selections for Kakoune
 - [raiguard/one.kak](https://github.com/raiguard/one.kak) - Atom "One" color schemes for Kakoune.
 - [occivink/kakoune-find](https://github.com/occivink/kakoune-find) - Find and replace on open buffers
 - [lePerdu/kakboard](https://github.com/lePerdu/kakboard) - Clipboard integration for Kakoune
@@ -3459,6 +3457,11 @@
 
 ## Lua 
 
+- [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) - A panel to view the logs from your LSP servers.
+- [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin
+- [willothy/nvim-config](https://github.com/willothy/nvim-config) - 
+- [willothy/minimus](https://github.com/willothy/minimus) - Personal WIP color scheme, forked from Poimandres then rebuilt with Lush
+- [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) - Utilities for interacting with Wezterm from within Neovim
 - [catgoose/coderunner.nvim](https://github.com/catgoose/coderunner.nvim) - 
 - [catgoose/angler.nvim](https://github.com/catgoose/angler.nvim) - 
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) - 
@@ -5059,7 +5062,6 @@
 - [jonniek/mpv-waifu2x](https://github.com/jonniek/mpv-waifu2x) - Mpv script to take screenshot and convert images with waifu2x
 - [jonniek/unseen-playlistmaker](https://github.com/jonniek/unseen-playlistmaker) - Playlistcreation tool for mpv.
 - [jonniek/mpv-nextfile](https://github.com/jonniek/mpv-nextfile) - Mpv script to open next or previous file in directory
-- [nvimdev/indent-guides.nvim](https://github.com/nvimdev/indent-guides.nvim) - 
 - [bakpakin/binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer
 - [hrsh7th/nvim-tuil](https://github.com/hrsh7th/nvim-tuil) - nvim plugin utilities that can be embed your plugin.
 - [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) - FZY style sorter that is compiled
@@ -6253,7 +6255,7 @@
 - [magnetrwn/python-periphery-tm1637](https://github.com/magnetrwn/python-periphery-tm1637) - This module contains functions to drive the TM1637 display module as well as clock, scrolling ASCII text and system information functionality. Attaching this to a SBC can give useful insight on the sy
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
@@ -7206,6 +7208,7 @@
 
 ## Shell 
 
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [catgoose/kanagawa-tmux](https://github.com/catgoose/kanagawa-tmux) - 
 - [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard) - One prefix to control all your session creation, naming, switching, etc using fzf & zoxide
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) - Simple script to change color-schemes and fonts for Termux.
@@ -7576,7 +7579,7 @@
 - [haideralipunjabi/polybar-kdeconnect](https://github.com/haideralipunjabi/polybar-kdeconnect) - KDEConnect module for Polybar
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [EllaTheCat/dopamine-2020](https://github.com/EllaTheCat/dopamine-2020) - i3 window manager config and scripts, tuned to help me manage my Parkinson's Disease symptoms.
-- [kovetskiy/dotfiles](https://github.com/kovetskiy/dotfiles) - Effective environment (for me) configuration with i3, vim, zsh and Arch Linux
+- [kovetskiy/dotfiles](https://github.com/kovetskiy/dotfiles) - an effective environment based on arch linux w/ i3, vim, alacritty, zsh, polybar
 - [felipendc/vicyos-build-folder](https://github.com/felipendc/vicyos-build-folder) - 
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [klaxalk/profile_manager](https://github.com/klaxalk/profile_manager) - profile switching in any config files using vim-commentary
@@ -8631,7 +8634,6 @@
 - [habamax/vim-winlayout](https://github.com/habamax/vim-winlayout) - Save and restore history of vim window layouts
 - [habamax/vim-godot](https://github.com/habamax/vim-godot) - Use vim and godot engine to make games
 - [habamax/vim-asciidoctor](https://github.com/habamax/vim-asciidoctor) - Asciidoctor plugin for Vim
-- [alexherbo2/kakoune.vim](https://github.com/alexherbo2/kakoune.vim) - Kakoune integration for Vim and Neovim
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
