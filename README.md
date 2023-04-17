@@ -1040,6 +1040,7 @@
 
 ## C++ 
 
+- [smaffer/vgax](https://github.com/smaffer/vgax) - VGA library for Arduino UNO
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ariskyr/Billiards_Firmware](https://github.com/ariskyr/Billiards_Firmware) - Automatic Billiards Table
 - [anachrocomputer/EarthDemSim](https://github.com/anachrocomputer/EarthDemSim) - Earth Demolition Simulator for Ludum Dare MiniLD #42. Game for Arduino with 8x8 LED matrix display and NES controller.
@@ -1075,7 +1076,7 @@
 - [gavinlyonsrepo/Arduino_Clock_3](https://github.com/gavinlyonsrepo/Arduino_Clock_3) - Arduino Real Time Alarm Clock DS3231 with TM1638. Arduino Clock with Battery backup (real time clock), Time, Date, Alarm, Temperature, TM1638 seven segment module output and input, Display Sleep mode.
 - [Erriez/ErriezTM1638](https://github.com/Erriez/ErriezTM1638) - TM1638 LED driver with key-scan library for Arduino
 - [codebeat-nl/xtm1638](https://github.com/codebeat-nl/xtm1638) - Fastest library to control TM1638 chip (for example: "LED AND KEY") based modules
-- [ftjuh/I2Cwrapper](https://github.com/ftjuh/I2Cwrapper) - I2Cwrapper is a generic modular framework which helps you implement Arduino based I2C target (slave) devices for control of non-I2C hardware. Supports plain Arduinos, ESP8266, ESP32, SAMD, STM32, and 
+- [ftjuh/I2Cwrapper](https://github.com/ftjuh/I2Cwrapper) - I2Cwrapper is a firmware framework which helps you implement Arduino based I2C target (slave) devices for control of non-I2C hardware. Supports plain Arduinos, ESP8266, ESP32, SAMD, STM32, and ATtiny 
 - [gavinlyonsrepo/RPI_PICO_projects_list](https://github.com/gavinlyonsrepo/RPI_PICO_projects_list) - An index of projects and libraries for Raspberry Pi Pico's (RP2040) stored in this github account.
 - [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
 - [wxMEdit/wxMEdit](https://github.com/wxMEdit/wxMEdit) - wxMEdit, a cross-platform Text/Hex Editor, an improved version of MadEdit
@@ -3403,7 +3404,6 @@
 - [alexherbo2/alacritty.kak](https://github.com/alexherbo2/alacritty.kak) - Alacritty integration for Kakoune
 - [anhsirk0/kakoune-themes](https://github.com/anhsirk0/kakoune-themes) - Beautiful Color schemes for kakoune.
 - [occivink/kakoune-phantom-selection](https://github.com/occivink/kakoune-phantom-selection) - Work on multiple selections, one at a time
-- [alexherbo2/select.kak](https://github.com/alexherbo2/select.kak) - Select objects for Kakoune
 - [chambln/kakoune-kit](https://github.com/chambln/kakoune-kit) - A Git porcelain inside Kakoune
 - [raiguard/one.kak](https://github.com/raiguard/one.kak) - Atom "One" color schemes for Kakoune.
 - [occivink/kakoune-find](https://github.com/occivink/kakoune-find) - Find and replace on open buffers
@@ -3457,6 +3457,7 @@
 
 ## Lua 
 
+- [uga-rosa/ugaterm.nvim](https://github.com/uga-rosa/ugaterm.nvim) - A terminal plugin for Neovim
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) - A panel to view the logs from your LSP servers.
 - [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin
 - [willothy/nvim-config](https://github.com/willothy/nvim-config) - 
@@ -3907,6 +3908,7 @@
 - [ii14/dotfiles](https://github.com/ii14/dotfiles) - dotfiles
 - [ii14/vimuri.nvim](https://github.com/ii14/vimuri.nvim) - 
 - [ii14/autosplit.nvim](https://github.com/ii14/autosplit.nvim) - 
+- [miversen33/miversen-dotfiles](https://github.com/miversen33/miversen-dotfiles) - 
 - [WhoIsSethDaniel/lualine-lsp-progress.nvim](https://github.com/WhoIsSethDaniel/lualine-lsp-progress.nvim) - LSP progress lualine component
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
 - [Hvassaa/sterm.nvim](https://github.com/Hvassaa/sterm.nvim) - (s)tupid (term)inal
@@ -7270,7 +7272,6 @@
 - [benvan/sandboxd](https://github.com/benvan/sandboxd) - speeds up your bashrc by running (slow) setup commands on the fly
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠
-- [miversen33/miversen-dotfiles](https://github.com/miversen33/miversen-dotfiles) - 
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [santigo-zero/dotfiles](https://github.com/santigo-zero/dotfiles) - 
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
@@ -7745,7 +7746,6 @@
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [rickysaurav/dotfiles](https://github.com/rickysaurav/dotfiles) - 
 - [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-- [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Neovim & Tmux dotfiles
 - [tkabber/Tkabber-pack](https://github.com/tkabber/Tkabber-pack) - Tkabber distribution for Windows
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, VS Code
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
@@ -8823,6 +8823,7 @@
 - [vimoutliner/vimoutliner](https://github.com/vimoutliner/vimoutliner) - Work fast, think well.
 - [mjlbach/cli_customization_script](https://github.com/mjlbach/cli_customization_script) - Up your vim game with sane defaults and nice plugins
 - [zzzachzzz/dotfiles](https://github.com/zzzachzzz/dotfiles) - Dotfiles for Vim, Tmux, Zsh, VSCode, Sublime
+- [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Neovim & Tmux dotfiles
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
 - [ptzz/lf.vim](https://github.com/ptzz/lf.vim) - Lf integration in vim and neovim
 - [haorenW1025/floatLf-nvim](https://github.com/haorenW1025/floatLf-nvim) - A plugin that makes you use lf(the file manager) easily in floating window in neovim
