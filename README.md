@@ -125,6 +125,10 @@
 
 ## Arduino 
 
+- [billygr/bitx40](https://github.com/billygr/bitx40) - BITX40 sketch for Raduino
+- [pavelmc/arduino-arcs](https://github.com/pavelmc/arduino-arcs) - Amateur Radio Control & Clock (RF) Solution
+- [pavelmc/bitx40](https://github.com/pavelmc/bitx40) - BITX40 sketch for Raduino, Pavel's blend.
+- [billygr/arduino-weather-station](https://github.com/billygr/arduino-weather-station) - 
 - [AbhishekGhosh/TM1637-Clock-Arduino](https://github.com/AbhishekGhosh/TM1637-Clock-Arduino) - Get a 24 hrs clock with only Arduino and TM1637 LED display. This is not real time.
 - [avishorp/soldering_station](https://github.com/avishorp/soldering_station) - Arduino based Soldering Station for Hakko 907 handle
 - [JanoVel/attiny_binary_watch](https://github.com/JanoVel/attiny_binary_watch) - The code and PCB etching files of a binary watch made using an ATTINY13 and a DS1302 IC
@@ -192,6 +196,26 @@
 
 ## C 
 
+- [billygr/avr-lcmeter](https://github.com/billygr/avr-lcmeter) - AVR LC Meter
+- [billygr/avr-ethernet-w5100](https://github.com/billygr/avr-ethernet-w5100) - AVR Ethernet library based on w5100
+- [billygr/avr-matrix-5x7](https://github.com/billygr/avr-matrix-5x7) - AVR Matrix LED 5x7 example
+- [billygr/avr-clock](https://github.com/billygr/avr-clock) - AVR Clock based on ATMega168
+- [ThingPulse/esp8266-weather-station-color](https://github.com/ThingPulse/esp8266-weather-station-color) - ESP8266 Weather Station in Color using ILI9341 TFT 240x320 display
+- [billygr/Z80Mega](https://github.com/billygr/Z80Mega) - Modification of Marat Fayzullin's Z80 emulator to run on the Arduino Mega
+- [eosti/heisenbox](https://github.com/eosti/heisenbox) - Demonstration of the Heisenberg Principle using a MSP430
+- [zoosmand/Titan-TM1637-LED-driver-no-bus-just-pin-toggling-on-STM32](https://github.com/zoosmand/Titan-TM1637-LED-driver-no-bus-just-pin-toggling-on-STM32) - A project to use a simple LED driver TM1637 toggling pins on STM32
+- [gavinlyonsrepo/pic_16F18313_projects](https://github.com/gavinlyonsrepo/pic_16F18313_projects) - Projects for the Microchip PIC 16F18313 Microcontroller ( 8-bit, 8-pin).
+- [ardt2/f103c8t6_1a](https://github.com/ardt2/f103c8t6_1a) - Актуальный C++ проект для STM32F103C8T6, классы тактирования, периферии. RCC, GPIO, I2C, Leds
+- [indigo6alpha/stm8s-tm1637](https://github.com/indigo6alpha/stm8s-tm1637) - TM1637 C library for STM8 MCUs
+- [wahlencraft/TM1637-pico](https://github.com/wahlencraft/TM1637-pico) - Some c functions that uses the Raspberry Pi Picos pio functionality to send data to a TM1637 7-segment display.
+- [gavinlyonsrepo/pic_16F1619_projects](https://github.com/gavinlyonsrepo/pic_16F1619_projects) - Projects and  libraries for the Microchip  PIC 16F1619 Microcontroller ( 8-bit, 20-pin).
+- [PaulStoffregen/teensy_loader_cli](https://github.com/PaulStoffregen/teensy_loader_cli) - Command line Teensy Loader
+- [PaulStoffregen/Video_Start_Button](https://github.com/PaulStoffregen/Video_Start_Button) - 
+- [PaulStoffregen/teensy41_extram](https://github.com/PaulStoffregen/teensy41_extram) - 
+- [PaulStoffregen/LittleFS](https://github.com/PaulStoffregen/LittleFS) - 
+- [PaulStoffregen/Tlc5940](https://github.com/PaulStoffregen/Tlc5940) - 16 channel PWM LED driver based on the Texas Instruments TLC5940 chip.
+- [PaulStoffregen/cores](https://github.com/PaulStoffregen/cores) - Teensy Core Libraries for Arduino
+- [PaulStoffregen/ST7735_t3](https://github.com/PaulStoffregen/ST7735_t3) - Teensy 3.x Optimized Version of Adafruit_ST7735 (1.8 inch TFT Display)
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [siorpaes/DisplayAdapter](https://github.com/siorpaes/DisplayAdapter) - This project aims at mirroring Yamaha CRX-140 display with some other, more visible, displays. E.g.: E-paper, TM1637 seven segment or SSD1306 OLED displays.
 - [mytchel/alarm-lamp](https://github.com/mytchel/alarm-lamp) - Code and circuit for an avr powered clock with alarm lamp.
@@ -1040,6 +1064,51 @@
 
 ## C++ 
 
+- [pavelmc/BMux](https://github.com/pavelmc/BMux) - Analog Button Muxer, click & hold: the intuitive way.
+- [pavelmc/Yatuli](https://github.com/pavelmc/Yatuli) - Yet another tune lib: Linear volume control instead a rotary encoder, from the bitx40 idea.
+- [pavelmc/carrito](https://github.com/pavelmc/carrito) - Carrito (Spanish for Small car) a home brewed arduino controled car.
+- [pavelmc/instrument](https://github.com/pavelmc/instrument) - RF multi-instrument, RF generator, Meter, Sweep & Spectrum monitor, and...
+- [pavelmc/FT857d](https://github.com/pavelmc/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
+- [billygr/esp8266-weather-station](https://github.com/billygr/esp8266-weather-station) - 
+- [vogler/esp-distance-sensor](https://github.com/vogler/esp-distance-sensor) - Ultrasonic distance sensor (HC-SR04) and 4-digit display (TM1637) on a Wemos D1 mini
+- [rpj/zw](https://github.com/rpj/zw) - ZeroWatch, an ESP32-based Redis-watcher and info-displayer
+- [cristiancristea00/tic-tac-toe](https://github.com/cristiancristea00/tic-tac-toe) - Tic-Tac-Toe game with AI implemented on a Raspberry Pi Pico board and a 20x4 LED display.
+- [Potatopasty/ESP8266-WiFi-clock-with-automatic-DST](https://github.com/Potatopasty/ESP8266-WiFi-clock-with-automatic-DST) - This is a WiFi-clock with automatic daylight saving time.
+- [Erriez/ErriezRobotDyn4DigitDisplay](https://github.com/Erriez/ErriezRobotDyn4DigitDisplay) - RobotDyn 4-digit 7-segment TM1637 display library for Arduino
+- [entorb/arduino-sensorics](https://github.com/entorb/arduino-sensorics) - Code for reading various sensors attached to a Arduino ESP32, data is uploaded via WiFi to an InfluxDB or displayed.
+- [neildavis/lib_tm1637_rpi](https://github.com/neildavis/lib_tm1637_rpi) - A library for using the TM1637 LED driver control IC on Raspberry Pi OS (Raspbian)
+- [maarten-pennings/I2Cbus](https://github.com/maarten-pennings/I2Cbus) - Arduino library that implements "bus clear" for an I2C bus
+- [felias-fogg/osccalTune](https://github.com/felias-fogg/osccalTune) - Arduino sketch for calibrating the internal oscillator
+- [nickgammon/arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor
+- [gillham/logic_analyzer](https://github.com/gillham/logic_analyzer) - Implementation of a SUMP compatible logic analyzer for the Arduino
+- [felias-fogg/upAndDown](https://github.com/felias-fogg/upAndDown) - 
+- [felias-fogg/DotMatrix5x7](https://github.com/felias-fogg/DotMatrix5x7) - Arduino library for driving one 5x7 dot matrix display (using the timer1 interrupt)
+- [felias-fogg/Vcc](https://github.com/felias-fogg/Vcc) - A library for measuring the supply voltage of an AVR MCU
+- [greiman/SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
+- [PaulStoffregen/SPI](https://github.com/PaulStoffregen/SPI) - SPI library for Teensy & Arduino IDE
+- [PaulStoffregen/PWMServo](https://github.com/PaulStoffregen/PWMServo) - Control RC Servo motors with interrupt-resilient PWM
+- [PaulStoffregen/FreqCountMany](https://github.com/PaulStoffregen/FreqCountMany) - Measure 10 frequencies with Teensy 4.0 & 4.1
+- [PaulStoffregen/EEPROM](https://github.com/PaulStoffregen/EEPROM) - 
+- [PaulStoffregen/Ethernet](https://github.com/PaulStoffregen/Ethernet) - Ethernet library for Teensy (Wiznet W5100 / W5200 / W5500)
+- [PaulStoffregen/Teensyduino_Examples](https://github.com/PaulStoffregen/Teensyduino_Examples) - Examples for Teensyduino, installed into Arduino's File &gt; Examples &gt; Teensy menu
+- [PaulStoffregen/Wire](https://github.com/PaulStoffregen/Wire) - Wire library used on Teensy boards
+- [PaulStoffregen/AltSoftSerial](https://github.com/PaulStoffregen/AltSoftSerial) - Software emulated serial using hardware timers for improved compatibility
+- [PaulStoffregen/CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor) - Detect touch or proximity by capacitve sensing
+- [PaulStoffregen/OneWire](https://github.com/PaulStoffregen/OneWire) - Library for Dallas/Maxim 1-Wire Chips
+- [PaulStoffregen/WS2812Serial](https://github.com/PaulStoffregen/WS2812Serial) - Non-Blocking WS2812 LED Library
+- [PaulStoffregen/XPT2046_Touchscreen](https://github.com/PaulStoffregen/XPT2046_Touchscreen) - Touchscreen Arduino Library for XPT2046 Touch Controller Chip
+- [PaulStoffregen/Encoder](https://github.com/PaulStoffregen/Encoder) - Quadrature Encoder Library for Arduino
+- [PaulStoffregen/Audio](https://github.com/PaulStoffregen/Audio) - Teensy Audio Library
+- [PaulStoffregen/SD](https://github.com/PaulStoffregen/SD) - 
+- [PaulStoffregen/NXPMotionSense](https://github.com/PaulStoffregen/NXPMotionSense) - NXP Motion Sensors for Teensy and Arduino
+- [PaulStoffregen/USBHost_t36](https://github.com/PaulStoffregen/USBHost_t36) - USB Host Library for Teensy 3.6 and 4.0
+- [PaulStoffregen/TimerOne](https://github.com/PaulStoffregen/TimerOne) - TimerOne Library with optimization and expanded hardware support
+- [PaulStoffregen/Time](https://github.com/PaulStoffregen/Time) - Time library for Arduino
+- [adafruit/RTClib](https://github.com/adafruit/RTClib) - A fork of Jeelab's fantastic RTC Arduino library
+- [felias-fogg/RTC_I2C](https://github.com/felias-fogg/RTC_I2C) - This is an Ardunio library implementing a unified, minimalistic interface to many I2C RTCs
+- [felias-fogg/RTCEval](https://github.com/felias-fogg/RTCEval) - A long-term experiment with thirteen different RTCs
+- [felias-fogg/SingleWireSerial](https://github.com/felias-fogg/SingleWireSerial) - Software serial library using a single line in half-duplex mode. In addition, it uses the input capture feature of timer 1 for improved accuracy.
+- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-based debugWIRE hardware-debugger
 - [smaffer/vgax](https://github.com/smaffer/vgax) - VGA library for Arduino UNO
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ariskyr/Billiards_Firmware](https://github.com/ariskyr/Billiards_Firmware) - Automatic Billiards Table
@@ -2897,7 +2966,7 @@
 - [golang/gofrontend](https://github.com/golang/gofrontend) - Go compiler frontend (gccgo)
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
 - [google/blueprint](https://github.com/google/blueprint) - 
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [golang-cjr/xep](https://github.com/golang-cjr/xep) - golang chat bot
 - [yasuyk/gocdnjs](https://github.com/yasuyk/gocdnjs) - Command line interface for http://cdnjs.com
@@ -2983,6 +3052,7 @@
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [ys/forked](https://github.com/ys/forked) - Find maintained forks of your favorite repositories
 - [krikun98/Skean](https://github.com/krikun98/Skean) - Wireless-first 44-key split keyboard with the Jian's stagger and the Corne's thumb cluster
 - [getCUJO/luasocket](https://github.com/getCUJO/luasocket) - Mirrored from https://github.com/diegonehab/luasocket
@@ -3082,6 +3152,7 @@
 
 ## Java 
 
+- [jawi/ols](https://github.com/jawi/ols) - OpenBench LogicSniffer repository
 - [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
@@ -3146,6 +3217,7 @@
 
 ## JavaScript 
 
+- [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
 - [piecioshka/encoding-checker](https://github.com/piecioshka/encoding-checker) - 🛠 Tool to investigate files with different encoding than passed.
@@ -3401,7 +3473,6 @@
 - [gustavo-hms/objetiva](https://github.com/gustavo-hms/objetiva) - Some new object selections for Kakoune
 - [Anomalocaridid/kakoune-cyberpunk-neon](https://github.com/Anomalocaridid/kakoune-cyberpunk-neon) - Port of Roboron3042's Cyberpunk Neon theme for Kakoune
 - [Anomalocaridid/wezterm.kak](https://github.com/Anomalocaridid/wezterm.kak) - Basic WezTerm integration for Kakoune
-- [alexherbo2/alacritty.kak](https://github.com/alexherbo2/alacritty.kak) - Alacritty integration for Kakoune
 - [anhsirk0/kakoune-themes](https://github.com/anhsirk0/kakoune-themes) - Beautiful Color schemes for kakoune.
 - [occivink/kakoune-phantom-selection](https://github.com/occivink/kakoune-phantom-selection) - Work on multiple selections, one at a time
 - [chambln/kakoune-kit](https://github.com/chambln/kakoune-kit) - A Git porcelain inside Kakoune
@@ -3457,6 +3528,7 @@
 
 ## Lua 
 
+- [nvimdev/easyformat.nvim](https://github.com/nvimdev/easyformat.nvim) - async fast minimalist plugin make format easy in neovim
 - [uga-rosa/ugaterm.nvim](https://github.com/uga-rosa/ugaterm.nvim) - A terminal plugin for Neovim
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) - A panel to view the logs from your LSP servers.
 - [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin
@@ -5610,6 +5682,7 @@
 
 ## Makefile 
 
+- [billygr/avr-stepper](https://github.com/billygr/avr-stepper) - AVR Stepper Driver
 - [jcmvbkbc/avr-flash-vtbl](https://github.com/jcmvbkbc/avr-flash-vtbl) - AVR-GCC plugin that puts vtbls into program memory
 - [sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.
 - [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
@@ -5710,6 +5783,7 @@
 
 ## Objective-C 
 
+- [vonnieda/AVRFuses](https://github.com/vonnieda/AVRFuses) - A simple, graphical AVR fuse editor front end for avrdude
 - [VioletGiraffe/ArduinoClock](https://github.com/VioletGiraffe/ArduinoClock) - 
 - [leafo/st](https://github.com/leafo/st) - my terminal
 - [dylanaraps/dylan-kiss](https://github.com/dylanaraps/dylan-kiss) - Dylan's KISS repository
@@ -5734,6 +5808,7 @@
 
 ## Others 
 
+- [pavelmc/multi-probe-swr-meter](https://github.com/pavelmc/multi-probe-swr-meter) - Multi-Probe SWR/PWR Meter with Icom Tuner handling for Yaesu Rigs
 - [AbhishekGhosh/Arduino-Themes](https://github.com/AbhishekGhosh/Arduino-Themes) - Collection of Arduino IDE Themes Created By Community
 - [BachoSeven/wiki](https://github.com/BachoSeven/wiki) - keeping track of the drops in a sea of Linux learning
 - [agnostic-apollo/Android-Docs](https://github.com/agnostic-apollo/Android-Docs) - This repository provides documentation for random stuff related to the Android operating system.
@@ -6254,6 +6329,14 @@
 
 ## Python 
 
+- [fandreyf/tm1637](https://github.com/fandreyf/tm1637) - modified version, works on OrangePi Zero2
+- [nradulovic/py_tm1637](https://github.com/nradulovic/py_tm1637) - TM1637 Driver for Python 3
+- [MilesBDyson/TM1637](https://github.com/MilesBDyson/TM1637) - TM 1637 display python module for Beaglebone Balck
+- [afabian80/nodemcu-weather](https://github.com/afabian80/nodemcu-weather) - Micropython application to show the current temperature from openweathermap on a TM1637 LED display
+- [nopnop2002/python-periphery-tm1637](https://github.com/nopnop2002/python-periphery-tm1637) - python-periphery TM1637 4Digits 8Segment LCD example
+- [mcauser/microbit-tm1637](https://github.com/mcauser/microbit-tm1637) - MicroPython for micro:bit library for quad 7-segment LED modules using TM1637 LED driver
+- [depklyon/raspberrypi-tm1637](https://github.com/depklyon/raspberrypi-tm1637) - A fork of Micropython ported to Python 3 library for quad 7-segment LED display modules based on TM1637 LED driver
+- [python-intelhex/intelhex](https://github.com/python-intelhex/intelhex) - Python IntelHex library
 - [magnetrwn/python-periphery-tm1637](https://github.com/magnetrwn/python-periphery-tm1637) - This module contains functions to drive the TM1637 display module as well as clock, scrolling ASCII text and system information functionality. Attaching this to a SBC can give useful insight on the sy
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
@@ -7210,6 +7293,7 @@
 
 ## Shell 
 
+- [pavelmc/amake](https://github.com/pavelmc/amake) - A very simple Arduino command line interface for linux
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [catgoose/kanagawa-tmux](https://github.com/catgoose/kanagawa-tmux) - 
 - [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard) - One prefix to control all your session creation, naming, switching, etc using fzf & zoxide
@@ -7282,7 +7366,6 @@
 - [nguyenvukhang/ags](https://github.com/nguyenvukhang/ags) - ags scans your local git repositories for unstaged files and unpushed commits
 - [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
 - [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [Integralist/dotfiles](https://github.com/Integralist/dotfiles) - Bash shell and Vim configuration settings
@@ -7936,6 +8019,7 @@
 
 ## TypeScript 
 
+- [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
