@@ -1064,6 +1064,10 @@
 
 ## C++ 
 
+- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
+- [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - Weather monitor v4.1 based on ESP8266
+- [himikat123/Wireless-sensor-on-ESP8266](https://github.com/himikat123/Wireless-sensor-on-ESP8266) - Wireless temperature/humidity/pressure/ambient light sensor based on ESP8266
+- [himikat123/Clock](https://github.com/himikat123/Clock) - Clock "BIM" v3.2 based on ESP8266 and (TM1637 and/or MAX7219)
 - [pavelmc/BMux](https://github.com/pavelmc/BMux) - Analog Button Muxer, click & hold: the intuitive way.
 - [pavelmc/Yatuli](https://github.com/pavelmc/Yatuli) - Yet another tune lib: Linear volume control instead a rotary encoder, from the bitx40 idea.
 - [pavelmc/carrito](https://github.com/pavelmc/carrito) - Carrito (Spanish for Small car) a home brewed arduino controled car.
@@ -1394,7 +1398,7 @@
 - [nmapsi4/nmapsi4](https://github.com/nmapsi4/nmapsi4) - NmapSi4 is a complete Qt-based Gui with the design goals to provide a complete nmap interface for Users, in order to management all options of this powerful security net scanner!
 - [sdhzdmzzl/iptv_channel_scanner_linux](https://github.com/sdhzdmzzl/iptv_channel_scanner_linux) - scan iptv channel in linux
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-- [amsynth/amsynth](https://github.com/amsynth/amsynth) - Simple software synthesiser for Linux
+- [amsynth/amsynth](https://github.com/amsynth/amsynth) - Simple software synthesizer for Linux
 - [cmdrkotori/mpc-qt-origin](https://github.com/cmdrkotori/mpc-qt-origin) - Media Player Classic Qute Theater
 - [qt-labs/qthttpserver](https://github.com/qt-labs/qthttpserver) - Qt HTTP Server
 - [brezerk/q4wine](https://github.com/brezerk/q4wine) - Q4Wine is a Qt GUI for W.I.N.E. It will help you manage wine prefixes and installed applications.
@@ -3048,6 +3052,8 @@
 
 ## HTML 
 
+- [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
+- [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
@@ -3528,6 +3534,22 @@
 
 ## Lua 
 
+- [nazo6/nvim](https://github.com/nazo6/nvim) - 
+- [vsedov/nvim](https://github.com/vsedov/nvim) - Some really weird setup, am I a plugin Hoe  ? im not sure ?
+- [ten3roberts/qf.nvim](https://github.com/ten3roberts/qf.nvim) - Extends the default quickfix and location lists for neovim
+- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
+- [davidosomething/everandever.nvim](https://github.com/davidosomething/everandever.nvim) - Lua utilities for composing an LSP progress indicator.
+- [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu
+- [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
+- [IndianBoy42/fuzzy_slash.nvim](https://github.com/IndianBoy42/fuzzy_slash.nvim) - Fuzzy version of the search command (/?)
+- [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) - Unlist hidden buffers that are git ignored.
+- [Bilal2453/discordia-components](https://github.com/Bilal2453/discordia-components) - A Discordia extension to provide Message Components support such as Buttons.
+- [Bilal2453/luvit-meta](https://github.com/Bilal2453/luvit-meta) - Meta type definitions for the Lua platform Luvit.
+- [mikesmithgh/render.nvim](https://github.com/mikesmithgh/render.nvim) - 📸 Neovim plugin to take screenshots of your Neovim session.
+- [mikesmithgh/gruvsquirrel.nvim](https://github.com/mikesmithgh/gruvsquirrel.nvim) - 🐿️ Neovim colorscheme written in Lua inspired by gruvbox
+- [rmagatti/gx-extended.nvim](https://github.com/rmagatti/gx-extended.nvim) - 
+- [miversen33/neo-tree-dummy-extension](https://github.com/miversen33/neo-tree-dummy-extension) - It doesn't do anything. Why are you here?
+- [cseickel/diagnostic-window.nvim](https://github.com/cseickel/diagnostic-window.nvim) - Shows diagnostic messages in a separate window, which is particularly helpful for long message like those seen in typescript.
 - [nvimdev/easyformat.nvim](https://github.com/nvimdev/easyformat.nvim) - async fast minimalist plugin make format easy in neovim
 - [uga-rosa/ugaterm.nvim](https://github.com/uga-rosa/ugaterm.nvim) - A terminal plugin for Neovim
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) - A panel to view the logs from your LSP servers.
@@ -5808,6 +5830,8 @@
 
 ## Others 
 
+- [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
+- [git-pull/tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [pavelmc/multi-probe-swr-meter](https://github.com/pavelmc/multi-probe-swr-meter) - Multi-Probe SWR/PWR Meter with Icom Tuner handling for Yaesu Rigs
 - [AbhishekGhosh/Arduino-Themes](https://github.com/AbhishekGhosh/Arduino-Themes) - Collection of Arduino IDE Themes Created By Community
 - [BachoSeven/wiki](https://github.com/BachoSeven/wiki) - keeping track of the drops in a sea of Linux learning
@@ -7105,6 +7129,7 @@
 
 ## Rust 
 
+- [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) - Use github code search within neovim
 - [w1png/tm1637-avr-hal](https://github.com/w1png/tm1637-avr-hal) - A simple library for interfacing with the tm1637 using avr-hal.
 - [noib3/crop](https://github.com/noib3/crop) - 🌾 A pretty fast text rope
 - [crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator) - Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition
