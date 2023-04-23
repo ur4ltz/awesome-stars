@@ -49,6 +49,7 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [JSONiq](#jsoniq)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -125,6 +126,7 @@
 
 ## Arduino 
 
+- [tedor/arduino-weather-station](https://github.com/tedor/arduino-weather-station) - Weather station based on arduino
 - [billygr/bitx40](https://github.com/billygr/bitx40) - BITX40 sketch for Raduino
 - [pavelmc/arduino-arcs](https://github.com/pavelmc/arduino-arcs) - Amateur Radio Control & Clock (RF) Solution
 - [pavelmc/bitx40](https://github.com/pavelmc/bitx40) - BITX40 sketch for Raduino, Pavel's blend.
@@ -140,6 +142,8 @@
 
 ## Assembly 
 
+- [avrdudes/avr-libc](https://github.com/avrdudes/avr-libc) - The AVR Libc package provides a subset of the standard C library for AVR 8-bit RISC microcontrollers.
+- [Megatokio/zasm](https://github.com/Megatokio/zasm) - Z80 / 8080 / Z180 assembler (for unix-style OS)
 - [zoosmand/SAMD21G18A_SPI](https://github.com/zoosmand/SAMD21G18A_SPI) - Microchip (Atmel) SAMD21 SPI example. MAX7219 as a ticker and BMP280 as a data source for ticker, are used on the same SPI bus.
 - [zoosmand/SAMD21G18A_delay](https://github.com/zoosmand/SAMD21G18A_delay) - In this example a delay don't make an empty job, but passing handle into a main cycle
 - [zoosmand/SAMD21G18A_eic](https://github.com/zoosmand/SAMD21G18A_eic) - EIC controller on SAMD device
@@ -196,6 +200,9 @@
 
 ## C 
 
+- [desdic/slstatus](https://github.com/desdic/slstatus) - My patches slstatus
+- [desdic/dwm](https://github.com/desdic/dwm) - my patched dwm
+- [tenbaht/sduino](https://github.com/tenbaht/sduino) - An Arduino-like programming API for the STM8
 - [billygr/avr-lcmeter](https://github.com/billygr/avr-lcmeter) - AVR LC Meter
 - [billygr/avr-ethernet-w5100](https://github.com/billygr/avr-ethernet-w5100) - AVR Ethernet library based on w5100
 - [billygr/avr-matrix-5x7](https://github.com/billygr/avr-matrix-5x7) - AVR Matrix LED 5x7 example
@@ -1045,6 +1052,7 @@
 
 ## C# # 
 
+- [ZakKemble/AVRDUDESS](https://github.com/ZakKemble/AVRDUDESS) - A GUI for AVRDUDE
 - [afrantzis/bless](https://github.com/afrantzis/bless) - Bless - Gtk# Hex Editor
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
@@ -1064,6 +1072,9 @@
 
 ## C++ 
 
+- [majekw/optiboot](https://github.com/majekw/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
+- [hecko/optiboot](https://github.com/hecko/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
+- [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator for 8-bit processors. Currently only supports Z80.
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - Weather monitor v4.1 based on ESP8266
 - [himikat123/Wireless-sensor-on-ESP8266](https://github.com/himikat123/Wireless-sensor-on-ESP8266) - Wireless temperature/humidity/pressure/ambient light sensor based on ESP8266
@@ -2364,7 +2375,6 @@
 - [ncaq/recentf-remove-sudo-tramp-prefix](https://github.com/ncaq/recentf-remove-sudo-tramp-prefix) - normalize recentf history
 - [ffevotte/sync-recentf](https://github.com/ffevotte/sync-recentf) - [Emacs] synchronize the recent files list between multiple running emacs instances
 - [zonuexe/init-open-recentf.el](https://github.com/zonuexe/init-open-recentf.el) - open-recentf on Emacs startup
-- [tkancf/emacs.d](https://github.com/tkancf/emacs.d) - emacs config file
 - [conao3/leaf.el](https://github.com/conao3/leaf.el) - Flexible, declarative, and modern init.el package configuration
 - [emacs-evil/evil-magit](https://github.com/emacs-evil/evil-magit) - Black magic or evil keys for magit
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
@@ -2822,7 +2832,7 @@
 - [mohkale/dotty](https://github.com/mohkale/dotty) - A delightfully lispy dotfile manager :house:
 - [glepnir/lspmeta.nvim](https://github.com/glepnir/lspmeta.nvim) - 
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple and complete self hosted feature flag solution, without any complex backend system to install, all you need is a file as your backend. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
 - [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [tarent/loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
@@ -3052,6 +3062,8 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [avrdudes/avrdude](https://github.com/avrdudes/avrdude) - AVRDUDE is a utility to program AVR microcontrollers
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
 - [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
@@ -3156,6 +3168,10 @@
 
 - [zogwarg/SublimeJQ](https://github.com/zogwarg/SublimeJQ) - Sublime Text JQ Language Syntax
 
+## Janet 
+
+- [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
+
 ## Java 
 
 - [jawi/ols](https://github.com/jawi/ols) - OpenBench LogicSniffer repository
@@ -3223,6 +3239,8 @@
 
 ## JavaScript 
 
+- [cncjs/cncjs](https://github.com/cncjs/cncjs) - A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.
+- [tedor/weather-station-frontend](https://github.com/tedor/weather-station-frontend) - Frontend for arduion-weather-station
 - [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
@@ -3331,7 +3349,6 @@
 - [actboy168/vscode-extensionPath](https://github.com/actboy168/vscode-extensionPath) - 
 - [actboy168/vscode-tasks](https://github.com/actboy168/vscode-tasks) - 
 - [LuaLS/vscode-lua-doc](https://github.com/LuaLS/vscode-lua-doc) - 
-- [JJK96/dotfiles](https://github.com/JJK96/dotfiles) - My collection of dotfiles
 - [whitecatboard/whitecat-ide](https://github.com/whitecatboard/whitecat-ide) - The Whitecat IDE, to program the ecosystem in Blocks or Lua
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [dandavison/dotfiles](https://github.com/dandavison/dotfiles) - My dotfiles
@@ -3534,6 +3551,15 @@
 
 ## Lua 
 
+- [desdic/neovim](https://github.com/desdic/neovim) - My neovim config
+- [desdic/greyjoy.nvim](https://github.com/desdic/greyjoy.nvim) - Launcher for Neovim
+- [felipeagc/fleet-theme-nvim](https://github.com/felipeagc/fleet-theme-nvim) - A port of Fleet's default theme for Neovim
+- [smjonas/live-tests-busted.nvim](https://github.com/smjonas/live-tests-busted.nvim) - Show live test results for Lua development in Neovim.
+- [smjonas/zoxide-edit.nvim](https://github.com/smjonas/zoxide-edit.nvim) - 
+- [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips) - nvim-cmp source for ultisnips
+- [smjonas/duplicate.nvim](https://github.com/smjonas/duplicate.nvim) - Neovim plugin to duplicate a textobject.
+- [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
+- [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) - Neovim plugin that simplifies macros, enhancing productivity with harmony.
 - [nazo6/nvim](https://github.com/nazo6/nvim) - 
 - [vsedov/nvim](https://github.com/vsedov/nvim) - Some really weird setup, am I a plugin Hoe  ? im not sure ?
 - [ten3roberts/qf.nvim](https://github.com/ten3roberts/qf.nvim) - Extends the default quickfix and location lists for neovim
@@ -3542,7 +3568,7 @@
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu
 - [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
 - [IndianBoy42/fuzzy_slash.nvim](https://github.com/IndianBoy42/fuzzy_slash.nvim) - Fuzzy version of the search command (/?)
-- [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) - Unlist hidden buffers that are git ignored.
+- [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) - Unlist hidden buffers matching specified ignore sources.
 - [Bilal2453/discordia-components](https://github.com/Bilal2453/discordia-components) - A Discordia extension to provide Message Components support such as Buttons.
 - [Bilal2453/luvit-meta](https://github.com/Bilal2453/luvit-meta) - Meta type definitions for the Lua platform Luvit.
 - [mikesmithgh/render.nvim](https://github.com/mikesmithgh/render.nvim) - 📸 Neovim plugin to take screenshots of your Neovim session.
@@ -3990,7 +4016,7 @@
 - [sam4llis/nvim-cobalt](https://github.com/sam4llis/nvim-cobalt) - A simple plugin for alternating text in treesitter nodes.
 - [sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) - A theme for Neovim with support for LSP, Treesitter, Telescope, and more.
 - [sam4llis/telescope-arglist.nvim](https://github.com/sam4llis/telescope-arglist.nvim) - A telescope.nvim picker for the argument list.
-- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker/colorizer plugin.
+- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
 - [phaazon/poesie.nvim](https://github.com/phaazon/poesie.nvim) - 
 - [phaazon/config](https://github.com/phaazon/config) - My main configuration files
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
@@ -5830,6 +5856,9 @@
 
 ## Others 
 
+- [stefanrueger/urboot.hex](https://github.com/stefanrueger/urboot.hex) - Pre-compiled urboot bootloaders
+- [roybaer/sduino_uno](https://github.com/roybaer/sduino_uno) - A development board with STM8S105K6 MCU in Arduino UNO form factor
+- [roybaer/sduino_mb](https://github.com/roybaer/sduino_mb) - A development board with STM8S208MB MCU in Arduino MEGA form factor
 - [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
 - [git-pull/tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [pavelmc/multi-probe-swr-meter](https://github.com/pavelmc/multi-probe-swr-meter) - Multi-Probe SWR/PWR Meter with Icom Tuner handling for Yaesu Rigs
@@ -5855,7 +5884,6 @@
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [superjamie/lazyweb](https://github.com/superjamie/lazyweb) - Random scraps of my knowledge
 - [nvim-neorg/library-of-norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - The Library of Alexandria, in .norg
-- [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
 - [kiyoon/tmux-conf](https://github.com/kiyoon/tmux-conf) - Tmux configuration for neovim users, plus tutorial
 - [GulajavaMinistudio/Mayukai-Theme](https://github.com/GulajavaMinistudio/Mayukai-Theme) - Combination theme for VS Code and VSCodium that inspired from Ayu Theme, Monokai , Andromeda,  Material Color, and Gruvbox Darktooth Color.
 - [kaddkaka/vim_examples](https://github.com/kaddkaka/vim_examples) - Some examples of vim features captured from terminal with asciinema.
@@ -6306,7 +6334,6 @@
 - [jamesmarlowe/lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) - Lua library for capturing urls, decoding, and logging results
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [pink-mist/sbotools](https://github.com/pink-mist/sbotools) - provides a ports-like interface to slackbuilds.org
-- [kurkale6ka/scripts](https://github.com/kurkale6ka/scripts) - 
 - [kurkale6ka/help](https://github.com/kurkale6ka/help) - Help summaries on Linux commands, programming topics and other
 - [kurkale6ka/config](https://github.com/kurkale6ka/config) - 
 - [xi/dejavu-slashed](https://github.com/xi/dejavu-slashed) - 
@@ -6353,6 +6380,8 @@
 
 ## Python 
 
+- [platformio/platform-ststm32](https://github.com/platformio/platform-ststm32) - ST STM32: development platform for PlatformIO
+- [platformio/platform-espressif8266](https://github.com/platformio/platform-espressif8266) - Espressif 8266: development platform for PlatformIO
 - [fandreyf/tm1637](https://github.com/fandreyf/tm1637) - modified version, works on OrangePi Zero2
 - [nradulovic/py_tm1637](https://github.com/nradulovic/py_tm1637) - TM1637 Driver for Python 3
 - [MilesBDyson/TM1637](https://github.com/MilesBDyson/TM1637) - TM 1637 display python module for Beaglebone Balck
@@ -6517,6 +6546,7 @@
 - [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) - IPython/Jupyter plugin for Neovim
 - [haideralipunjabi/polybar-browsermediacontrol](https://github.com/haideralipunjabi/polybar-browsermediacontrol) - Browser Media Control module for Polybar
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [kurkale6ka/scripts](https://github.com/kurkale6ka/scripts) - 
 - [GermainZ/weechat-vimode](https://github.com/GermainZ/weechat-vimode) - A WeeChat script that adds vi-like modes, commands and keybindings.
 - [GermainZ/kitty-weechat-hints](https://github.com/GermainZ/kitty-weechat-hints) - Kitty URL kitten for URLs in WeeChat that tries to take into account line wraps (without having to enter raw mode).
 - [yurikhan/kitty-smart-scroll](https://github.com/yurikhan/kitty-smart-scroll) - Mode-dependent buffer scrolling for Kitty
@@ -6643,6 +6673,7 @@
 - [haideralipunjabi/polybar-qbittorrent](https://github.com/haideralipunjabi/polybar-qbittorrent) - qBittorrent Module for Polybar
 - [v1k45/python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
 - [werwolfby/monitorrent](https://github.com/werwolfby/monitorrent) - Automatic torrents downloader
+- [JJK96/dotfiles](https://github.com/JJK96/dotfiles) - My collection of dotfiles
 - [editorconfig/editorconfig-gedit](https://github.com/editorconfig/editorconfig-gedit) - EditorConfig plugin for Gedit
 - [searx/searx-checker](https://github.com/searx/searx-checker) - check the engines of any running searx instances
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
