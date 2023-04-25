@@ -2330,7 +2330,7 @@
 - [cmack/emacs.d](https://github.com/cmack/emacs.d) - My shared emacs configuration
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
 - [coldnew/coldnew-emacs](https://github.com/coldnew/coldnew-emacs) - coldnew's emacs config
-- [fniessen/emacs-leuven](https://github.com/fniessen/emacs-leuven) - Emacs configuration with packages enabled and a more pleasant set of defaults
+- [fniessen/emacs-leuven](https://github.com/fniessen/emacs-leuven) - Optimize your Emacs experience with emacs-leuven -- a pre-configured package with improved defaults for enhanced productivity.  #emacs #texteditor #coding #productivity #configuration #orgmode
 - [humanoid-colors/emacs-humanoid-themes](https://github.com/humanoid-colors/emacs-humanoid-themes) - Light and dark theme with bright colors for Emacs that supports GUI and terminal
 - [phillord/lentic-server](https://github.com/phillord/lentic-server) - A literate web server for Emacs
 - [phillord/lentic](https://github.com/phillord/lentic) - Create views of the same content in two Emacs buffers
@@ -2573,7 +2573,7 @@
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [aspiers/smooth-scrolling](https://github.com/aspiers/smooth-scrolling) - Emacs smooth scrolling package
 - [Malabarba/paradox](https://github.com/Malabarba/paradox) - Project for modernizing Emacs' Package Menu. With package ratings, usage statistics, customizability, and more.
-- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #Emacs #theme #coding
+- [fniessen/emacs-leuven-theme](https://github.com/fniessen/emacs-leuven-theme) - This Emacs theme reduces eye strain with a light, high-contrast color scheme, syntax highlighting, and support for multiple modes. Enhance your coding experience!  #emacs #theme #coding #orgmode
 - [sellout/emacs-color-theme-solarized](https://github.com/sellout/emacs-color-theme-solarized) - Emacs highlighting using Ethan Schoonover’s Solarized color scheme
 - [nashamri/spacemacs-theme](https://github.com/nashamri/spacemacs-theme) - Light and dark theme for spacemacs that supports GUI and terminal
 - [redguardtoo/evil-matchit](https://github.com/redguardtoo/evil-matchit) - Vim matchit ported into Emacs
@@ -3083,7 +3083,6 @@
 - [tuhdo/tuhdo.github.io](https://github.com/tuhdo/tuhdo.github.io) - Emacs Mini Manual
 - [Softmotions/vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) - Dark Frost color theme for Vim
 - [leira/base16-kakoune](https://github.com/leira/base16-kakoune) - Base16 (https://github.com/chriskempson/base16) for Kakoune (https://github.com/mawww/kakoune/)
-- [salpagarov/lua.org.ru](https://github.com/salpagarov/lua.org.ru) - website source
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [gr2m/github-oauth-login](https://github.com/gr2m/github-oauth-login) - 
@@ -3174,6 +3173,7 @@
 
 ## Java 
 
+- [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [jawi/ols](https://github.com/jawi/ols) - OpenBench LogicSniffer repository
 - [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
@@ -3551,6 +3551,7 @@
 
 ## Lua 
 
+- [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [desdic/neovim](https://github.com/desdic/neovim) - My neovim config
 - [desdic/greyjoy.nvim](https://github.com/desdic/greyjoy.nvim) - Launcher for Neovim
 - [felipeagc/fleet-theme-nvim](https://github.com/felipeagc/fleet-theme-nvim) - A port of Fleet's default theme for Neovim
@@ -3563,7 +3564,7 @@
 - [nazo6/nvim](https://github.com/nazo6/nvim) - 
 - [vsedov/nvim](https://github.com/vsedov/nvim) - Some really weird setup, am I a plugin Hoe  ? im not sure ?
 - [ten3roberts/qf.nvim](https://github.com/ten3roberts/qf.nvim) - Extends the default quickfix and location lists for neovim
-- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
+- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
 - [davidosomething/everandever.nvim](https://github.com/davidosomething/everandever.nvim) - Lua utilities for composing an LSP progress indicator.
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu
 - [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
@@ -7182,7 +7183,7 @@
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [ayosec/alacritty](https://github.com/ayosec/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [phaazon/this-week-in-neovim.org](https://github.com/phaazon/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [lukas-reineke/cbfmt](https://github.com/lukas-reineke/cbfmt) - A tool to format codeblocks inside markdown and org documents.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -7336,6 +7337,7 @@
 
 ## Scheme 
 
+- [bennypowers/webc.nvim](https://github.com/bennypowers/webc.nvim) - WebC Support for NeoVim
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [ibhagwan/ts-vimdoc.nvim](https://github.com/ibhagwan/ts-vimdoc.nvim) - 
 - [MunifTanjim/nvim-treesitter-lua](https://github.com/MunifTanjim/nvim-treesitter-lua) - Tree-sitter Lua parser integration for nvim-treesitter.
@@ -7349,6 +7351,7 @@
 
 ## Shell 
 
+- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [pavelmc/amake](https://github.com/pavelmc/amake) - A very simple Arduino command line interface for linux
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [catgoose/kanagawa-tmux](https://github.com/catgoose/kanagawa-tmux) - 
