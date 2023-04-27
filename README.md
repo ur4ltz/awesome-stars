@@ -3551,6 +3551,9 @@
 
 ## Lua 
 
+- [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) - 
+- [deifyed/naVi](https://github.com/deifyed/naVi) - Your NeoVim assistant
+- [mattiasbonte/navi.nvim](https://github.com/mattiasbonte/navi.nvim) - 
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [desdic/neovim](https://github.com/desdic/neovim) - My neovim config
 - [desdic/greyjoy.nvim](https://github.com/desdic/greyjoy.nvim) - Launcher for Neovim
@@ -4510,7 +4513,7 @@
 - [ner0-m/dotfiles](https://github.com/ner0-m/dotfiles) - My dotfiles
 - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
-- [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) - missing utf8 module for neovim Lua.
+- [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) - The missing utf8 module for neovim Lua.
 - [AlphaTechnolog/onedarker.nvim](https://github.com/AlphaTechnolog/onedarker.nvim) - A beautiful onedark based colorscheme for neovim (maked with lua and extracted from the lunarvim project)
 - [jeetsukumaran/telescope-rtp](https://github.com/jeetsukumaran/telescope-rtp) - 
 - [HiPhish/desktop-notify-nvim](https://github.com/HiPhish/desktop-notify-nvim) - [mirror] Neovim notifications on your desktop
@@ -5331,7 +5334,7 @@
 - [rossy/mpv-open-file-dialog](https://github.com/rossy/mpv-open-file-dialog) - A script for mpv that can launch a regular Windows open file dialog from a key binding
 - [somnam/dotfiles](https://github.com/somnam/dotfiles) - 
 - [BrodieRobertson/dotfiles](https://github.com/BrodieRobertson/dotfiles) - Various configuration files for programs that I use
-- [phelipetls/dotfiles](https://github.com/phelipetls/dotfiles) - My configuration files for Linux and macOS
+- [phelipetls/dotfiles](https://github.com/phelipetls/dotfiles) - My configuration files for Linux, macOS and WSL
 - [ms-jpq/lua-async-await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
 - [mut-ex/awesome-wm-slidebar](https://github.com/mut-ex/awesome-wm-slidebar) - an easy to use, configurable, multi-purpose, animated widget bar written in Lua for Awesome WM
 - [skanehira/dotfiles](https://github.com/skanehira/dotfiles) - my dotfiles
@@ -6023,7 +6026,7 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [dibyendumajumdar/ravi-vscode-debugger](https://github.com/dibyendumajumdar/ravi-vscode-debugger) - VSCode Debug Adapter for Ravi / Lua 5.3
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
-- [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of emacs-lisp development resources
+- [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [adelarsq/awesome-bugs](https://github.com/adelarsq/awesome-bugs) - Awesome Bugs 🐛
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [teal-language/awesome-teal](https://github.com/teal-language/awesome-teal) - A curated list of Teal-related projects!
@@ -7075,7 +7078,7 @@
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
 - [kwerle/ruby_language_server](https://github.com/kwerle/ruby_language_server) - Language Server implementation in Ruby for Ruby.  Development happens on the develop branch.  Production is master.
 - [wfxr/emoji-cli](https://github.com/wfxr/emoji-cli) - 
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [mcmire/dotfiles-manager](https://github.com/mcmire/dotfiles-manager) - Manage your dotfiles with this one simple tool
 - [mcmire/super_diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
@@ -8243,6 +8246,7 @@
 
 ## Vim Script 
 
+- [MTDL9/vim-log-highlighting](https://github.com/MTDL9/vim-log-highlighting) - Syntax highlighting for generic log files in VIM
 - [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk) - hignlight chunk numbercolumn plug of nvim
 - [meuter/habamax-plus.nvim](https://github.com/meuter/habamax-plus.nvim) - Variant of the habamax vim plugin.
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
