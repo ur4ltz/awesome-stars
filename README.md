@@ -156,6 +156,7 @@
 - [mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference) - 
 - [BleuLlama/z80-machine](https://github.com/BleuLlama/z80-machine) - Z80 Emulator for the RC2014 system, with integrated debugging tools
 - [he-mat/better_tutorial](https://github.com/he-mat/better_tutorial) - short NASM tutorial
+- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [Recluse/retro](https://github.com/Recluse/retro) - Apogee BK01, Assestent 128, BK0010, Crystal 2, Lvov PK01, Orion 128, PC, Radio 86RK, Specialist, TI99
 - [MCUdude/usbisp](https://github.com/MCUdude/usbisp) - USBasp firmware working with a clone "USB ISP Version 2.0" (marked "MX-USBISP-V4.00" on the PCB)
 - [aleh/usbisp](https://github.com/aleh/usbisp) - USBasp firmware working with a clone "USB ISP Version 2.0" (marked "MX-USBISP-V4.00" or "MX-USBISP-V5.00" on the PCB)
@@ -2065,7 +2066,7 @@
 - [minad/hasklig-mode](https://github.com/minad/hasklig-mode) - hasklig-mode.el - Hasklig ligatures for emacs
 - [minad/marginalia](https://github.com/minad/marginalia) - :scroll: marginalia.el - Marginalia in the minibuffer
 - [minad/emacs-theme](https://github.com/minad/emacs-theme) - 
-- [minad/corfu](https://github.com/minad/corfu) - :desert_island: corfu.el - Completion Overlay Region FUnction
+- [minad/corfu](https://github.com/minad/corfu) - :desert_island: corfu.el - COmpletion in Region FUnction
 - [minad/bookmark-view](https://github.com/minad/bookmark-view) - bookmark-view.el - Use bookmarks to persist the current view
 - [minad/goggles](https://github.com/minad/goggles) - goggles.el - Pulse modified region
 - [minad/recursion-indicator](https://github.com/minad/recursion-indicator) - Recursion indicator for the mode-line
@@ -3551,6 +3552,7 @@
 
 ## Lua 
 
+- [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) - Neovim plugin to preview LSP code action
 - [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) - 
 - [deifyed/naVi](https://github.com/deifyed/naVi) - Your NeoVim assistant
 - [mattiasbonte/navi.nvim](https://github.com/mattiasbonte/navi.nvim) - 
@@ -3598,6 +3600,7 @@
 - [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim) - A neovim plugin to manage terminal buffers
 - [boltlessengineer/nvim](https://github.com/boltlessengineer/nvim) - My neovim config
 - [miversen33/wezconf](https://github.com/miversen33/wezconf) - A wezterm abstraction library to make getting started "easier" and simpler to maintain
+- [0oAstro/dim.lua](https://github.com/0oAstro/dim.lua) - Dim unused words in neovim
 - [askfiy/lsp_extra_dim](https://github.com/askfiy/lsp_extra_dim) - Dim unused parameters from neovim..
 - [askfiy/nvim](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
@@ -3729,7 +3732,7 @@
 - [nullchilly/colorcache.nvim](https://github.com/nullchilly/colorcache.nvim) - Make every colorscheme fast (WIP)
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) - fzf-lua + projections.nvim
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
-- [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 110 SLOC
+- [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 120 LOC
 - [lvim-tech/lvim-linguistics](https://github.com/lvim-tech/lvim-linguistics) - 
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) - Ruby tools for neovim
 - [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) - a neovim statusline & tabline plug
@@ -3913,6 +3916,7 @@
 - [n-shift/sage.nvim](https://github.com/n-shift/sage.nvim) - 
 - [n-shift/scratch.nvim](https://github.com/n-shift/scratch.nvim) - 
 - [n-shift/nvim](https://github.com/n-shift/nvim) - 
+- [0oAstro/silicon.lua](https://github.com/0oAstro/silicon.lua) - Beautiful code snippet images right in the most epic editor :chef_kiss:
 - [mrcjkb/nvim-minimal-packer](https://github.com/mrcjkb/nvim-minimal-packer) - Minimal NeoVim config with packer (for reproducing plugin behaviour)
 - [mrcjkb/telescope-manix](https://github.com/mrcjkb/telescope-manix) - A telescope.nvim extension for Manix - A fast documentation searcher for Nix
 - [luc-tielen/lua-quickcheck](https://github.com/luc-tielen/lua-quickcheck) - Property based testing in Lua, inspired by the original QuickCheck.
@@ -5358,7 +5362,7 @@
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [Iron-E/nvim-tabmode](https://github.com/Iron-E/nvim-tabmode) - A rewrite of Iron-E/vim-tabmode using Iron-E/nvim-libmodal
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
-- [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
+- [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme generator that is "lite" on logic for the developer.
 - [mkflaher2/dotfiles](https://github.com/mkflaher2/dotfiles) - dotfiles for LCARS theme
 - [JavaCafe01/awesome](https://github.com/JavaCafe01/awesome) - configuration files for AwesomeWM
 - [stetre/luamoulds](https://github.com/stetre/luamoulds) - A C-like typedef for Lua
@@ -5512,7 +5516,7 @@
 - [lutobler/vis-modelines](https://github.com/lutobler/vis-modelines) - Vis plugin that tries to read standard Vim modelines with an LPEG parser
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [haorenW1025/dotfiles](https://github.com/haorenW1025/dotfiles) - My dot files with neovim setting
-- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, rofi, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [phongnh/dotfiles](https://github.com/phongnh/dotfiles) - My dotfiles
 - [andriiyaremenko/dotfiles](https://github.com/andriiyaremenko/dotfiles) - 
 - [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) - a neovim syntax highlighter using treesitter
@@ -5612,6 +5616,7 @@
 - [rkowal/Lua-Omni-Vim-Completion](https://github.com/rkowal/Lua-Omni-Vim-Completion) - omni completion functionality for Vim editor
 - [rgieseke/textredux](https://github.com/rgieseke/textredux) - Text-based interfaces for Textadept
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
+- [yardnsm/.config](https://github.com/yardnsm/.config) - :zap: Welcome to my world. Managed by https://github.com/yardnsm/.setup
 - [jesseleite/dotfiles](https://github.com/jesseleite/dotfiles) - 💾  My dotfiles
 - [meric/leftry](https://github.com/meric/leftry) - Leftry - A left-recursion enabled recursive-descent parser combinator library for Lua.
 - [meric/l2l](https://github.com/meric/l2l) - Lisp is Lisp. Lua is Lua. Lisp and Lua as One.
@@ -5737,7 +5742,6 @@
 - [billygr/avr-stepper](https://github.com/billygr/avr-stepper) - AVR Stepper Driver
 - [jcmvbkbc/avr-flash-vtbl](https://github.com/jcmvbkbc/avr-flash-vtbl) - AVR-GCC plugin that puts vtbls into program memory
 - [sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.
-- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [raymond-w-ko/creep2](https://github.com/raymond-w-ko/creep2) - 
 - [orbitalquark/textadept-yaml](https://github.com/orbitalquark/textadept-yaml) - YAML language module for Textadept.
 - [henriquehbr/docker-commitlint](https://github.com/henriquehbr/docker-commitlint) - Runs commitlint on a docker container
@@ -7988,7 +7992,6 @@
 - [huntie/dotfiles](https://github.com/huntie/dotfiles) - Personal OS and Unix tool configuration
 - [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [whatyouhide/gotham-contrib](https://github.com/whatyouhide/gotham-contrib) - Ports of the Gotham colorscheme for common editors and terminal emulators 🌃
-- [yardnsm/.config](https://github.com/yardnsm/.config) - :zap: Welcome to my world. Managed by https://github.com/yardnsm/.setup
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [aperezdc/rockz](https://github.com/aperezdc/rockz) - Virtualfish-alike Lua+LuaRocks “Rockenv” wrapper for Zsh
 - [walshie4/Ultimate-Blocklist](https://github.com/walshie4/Ultimate-Blocklist) - A super blocklist made from the most popular ones on the web!
