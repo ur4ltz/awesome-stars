@@ -1073,6 +1073,8 @@
 
 ## C++ 
 
+- [jarzebski/Arduino-DS1307](https://github.com/jarzebski/Arduino-DS1307) - DS1307 Real-Time-Clock
+- [jarzebski/Arduino-DS3231](https://github.com/jarzebski/Arduino-DS3231) - DS3231 Real-Time-Clock
 - [majekw/optiboot](https://github.com/majekw/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [hecko/optiboot](https://github.com/hecko/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator for 8-bit processors. Currently only supports Z80.
@@ -3189,7 +3191,7 @@
 - [fabienli/DokuwikiAndroid](https://github.com/fabienli/DokuwikiAndroid) - Android application to access a dokuwiki
 - [maxistar/TextPad](https://github.com/maxistar/TextPad) - Simple Text Editor for Android
 - [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
-- [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.
+- [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [mkch/android-wifi-connecter](https://github.com/mkch/android-wifi-connecter) - Automatically exported from code.google.com/p/android-wifi-connecter
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 - [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
@@ -5374,6 +5376,7 @@
 - [SwissalpS/lite-plugins](https://github.com/SwissalpS/lite-plugins) - Plugins for the lite text editor
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [haorenW1025/config](https://github.com/haorenW1025/config) - My home configs and dotfiles
+- [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [Phrogz/SLAXML](https://github.com/Phrogz/SLAXML) - SAX-like streaming XML parser for Lua
 - [hkupty/trex.nvim](https://github.com/hkupty/trex.nvim) - Terminal and Repl Extensions - for neovim
 - [hkupty/impromptu.nvim](https://github.com/hkupty/impromptu.nvim) - Create prompts fast and easy
@@ -7358,6 +7361,7 @@
 
 ## Shell 
 
+- [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [pavelmc/amake](https://github.com/pavelmc/amake) - A very simple Arduino command line interface for linux
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -8592,7 +8596,7 @@
 - [sharksforarms/neovim-rust](https://github.com/sharksforarms/neovim-rust) - Sample neovim and vim configurations for Rust development
 - [chimay/golden-night](https://github.com/chimay/golden-night) - Golden night theme for various apps
 - [chimay/configuration](https://github.com/chimay/configuration) - Config files
-- [chimay/wheel](https://github.com/chimay/wheel) - Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
+- [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
 - [atticusmatticus/nvim](https://github.com/atticusmatticus/nvim) - Neovim Dotfiles
 - [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - calendar vimscript
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A plugin for profiling Vim and Neovim startup time.
@@ -8787,7 +8791,6 @@
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
-- [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [yegappan/taglist](https://github.com/yegappan/taglist) - Source code browser plugin for Vim
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
 - [Jorengarenar/dotfiles](https://github.com/Jorengarenar/dotfiles) - My personal configuration files
