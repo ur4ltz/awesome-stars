@@ -201,6 +201,8 @@
 
 ## C 
 
+- [s1n7ax/dmenu](https://github.com/s1n7ax/dmenu) - dmenu with my favorite patches
+- [s1n7ax/st](https://github.com/s1n7ax/st) - simple terminal with some of my favorite patches
 - [desdic/slstatus](https://github.com/desdic/slstatus) - My patches slstatus
 - [desdic/dwm](https://github.com/desdic/dwm) - my patched dwm
 - [tenbaht/sduino](https://github.com/tenbaht/sduino) - An Arduino-like programming API for the STM8
@@ -1053,6 +1055,7 @@
 
 ## C# # 
 
+- [LONELY-WOLF/WatchDoge](https://github.com/LONELY-WOLF/WatchDoge) - Very simple Arduino watch project
 - [ZakKemble/AVRDUDESS](https://github.com/ZakKemble/AVRDUDESS) - A GUI for AVRDUDE
 - [afrantzis/bless](https://github.com/afrantzis/bless) - Bless - Gtk# Hex Editor
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
@@ -1151,7 +1154,7 @@
 - [bit4man/tm1638](https://github.com/bit4man/tm1638) - Arduino TM1638 library
 - [gavinlyonsrepo/Arduino_Clock_2](https://github.com/gavinlyonsrepo/Arduino_Clock_2) - Arduino Real Time Alarm Clock with Temperature and LED lights. Remote controlled
 - [gavinlyonsrepo/timer_arduino_two](https://github.com/gavinlyonsrepo/timer_arduino_two) - Countdown Timer: Range 1-99 minutes. Output time (mm:ss) to seven segment display and Audio to Buzzer. Input: Push button to start. Potentiometer used for time select.
-- [gavinlyonsrepo/LCR_meter](https://github.com/gavinlyonsrepo/LCR_meter) - LCR meter. Inductance, Capacitance and Resistance meter, Arduino NANO (version 3) based.  4 resistor test ranges, Resistor range is from 0 ohms to 2 Mohms. Auto-range.  Inductance test, range is 80uH 
+- [gavinlyonsrepo/LCR_meter](https://github.com/gavinlyonsrepo/LCR_meter) - LCR meter project. An  Inductance, Capacitance and Resistance meter, Arduino NANO(v3) based.
 - [gavinlyonsrepo/NOKIA_5110_RPI](https://github.com/gavinlyonsrepo/NOKIA_5110_RPI) - Nokia 5110 LCD SPI C++ library for the raspberry pi single board computer ecosystem, PCD8544 controller
 - [gavinlyonsrepo/FourteenSegDisplay](https://github.com/gavinlyonsrepo/FourteenSegDisplay) - An Arduino library to display data on a seven 7, nine 9,  fourteen 14 or sixteen 16 segment alphanumeric LED display module. Will work with common anode and cathode. Includes ASCII font and supports H
 - [gavinlyonsrepo/Cap_meter_arduino](https://github.com/gavinlyonsrepo/Cap_meter_arduino) - Capacitance meter, Arduino-based, three tests , range 18pf to 4F , Push Button input , OLED and serial monitor output.
@@ -1208,7 +1211,7 @@
 - [VioletGiraffe/AudioGenerator](https://github.com/VioletGiraffe/AudioGenerator) - Simple Arduino-based audio waveform generator device
 - [VioletGiraffe/AudioWaveformToneGenerator](https://github.com/VioletGiraffe/AudioWaveformToneGenerator) - 
 - [VioletGiraffe/GPS](https://github.com/VioletGiraffe/GPS) - 
-- [gavinlyonsrepo/TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus) - An Arduino library to display data on a 8-digit TM1638 seven segment module This library supports several variants. The  (8 KEY & 8 LED) variant which has 8 LED's and 8 Push buttons. The (16 KEY QFY) 
+- [gavinlyonsrepo/TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus) - An Arduino library to display data on  TM1638 seven segment modules.
 - [andrey-belokon/NanoVFO_RX2121](https://github.com/andrey-belokon/NanoVFO_RX2121) - NanoVFO for RX2121 receiver
 - [harfang3d/harfang3d](https://github.com/harfang3d/harfang3d) - HARFANG 3D source code public repository
 - [bkaradzic/bimg](https://github.com/bkaradzic/bimg) - Image library.
@@ -1325,7 +1328,7 @@
 - [ADiea/si4432](https://github.com/ADiea/si4432) - Si4432 Library for Arduino
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [keyboardio/Model01-Firmware](https://github.com/keyboardio/Model01-Firmware) - The "standard" Keyboardio Model 01 Firmware sketch.
-- [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for the Keyboardio Model 01 and other keyboards with AVR or ARM MCUs.
+- [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
 - [Twilight-Logic/AR488](https://github.com/Twilight-Logic/AR488) - AR488 Arduino GPIB Interface
 - [UN7FGO/SI5351_OLED_SHIELD](https://github.com/UN7FGO/SI5351_OLED_SHIELD) - A simple shield for a two-channel generator with an OLED display.
 - [AlexGyver/MeteoClock](https://github.com/AlexGyver/MeteoClock) - Домашняя метеостанция на Arduino
@@ -3554,6 +3557,28 @@
 
 ## Lua 
 
+- [fgheng/vimelua](https://github.com/fgheng/vimelua) - vimelua, an easy and structural config writtern by lua for neovim users
+- [evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim) - A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.
+- [evesdropper/dotfiles](https://github.com/evesdropper/dotfiles) - dotfiles but updated, ft LuaSnip Guide + LaTeX snippets
+- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
+- [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!
+- [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - FluoroMachine theme for neovim
+- [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
+- [mfussenegger/nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) - Pickers for vim.ui.select
+- [echasnovski/mini.colors](https://github.com/echasnovski/mini.colors) - Tweak and save any color scheme. Part of 'mini.nvim' library.
+- [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) - A companion plugin for null-ls, adding support for CSpell diagnostics and code actions.
+- [s1n7ax/youtube-java-debugging](https://github.com/s1n7ax/youtube-java-debugging) - Absolute minimal configuration for Neovim that is just enough to debug Java application
+- [s1n7ax/nvim-lazy-inner-block](https://github.com/s1n7ax/nvim-lazy-inner-block) - Remap inner block operations without letter i
+- [s1n7ax/youtube-neovim-treesitter-query](https://github.com/s1n7ax/youtube-neovim-treesitter-query) - Presentation related to my Youtube tutorial
+- [s1n7ax/youtube-generate-java-doc-comment-using-treesitter](https://github.com/s1n7ax/youtube-generate-java-doc-comment-using-treesitter) - This repository is related to two YouTube videos I have done
+- [s1n7ax/nvim-ts-utils](https://github.com/s1n7ax/nvim-ts-utils) - Some useful tree-sitter utils I don't want keep inside my neovim configuration
+- [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
+- [s1n7ax/nvim-settings](https://github.com/s1n7ax/nvim-settings) - Persistent store for settings
+- [s1n7ax/nvim-session](https://github.com/s1n7ax/nvim-session) - simple wrapper around mksession to auto save and load the session
+- [s1n7ax/nvim-react](https://github.com/s1n7ax/nvim-react) - Reactive UI framework for neovim
+- [s1n7ax/demo-dotnvim](https://github.com/s1n7ax/demo-dotnvim) - Don't use this!!! This is a Neovim config with few plugins, keymaps, options for my Youtube tutorials.
+- [s1n7ax/nvim-snips](https://github.com/s1n7ax/nvim-snips) - My custom luasnip snippets mainly targeting my development work
+- [s1n7ax/nvim-actions](https://github.com/s1n7ax/nvim-actions) - Text manipulate but faster
 - [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) - Neovim plugin to preview LSP code action
 - [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) - 
 - [deifyed/naVi](https://github.com/deifyed/naVi) - Your NeoVim assistant
@@ -4316,7 +4341,7 @@
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [dmitmel/cmp-digraphs](https://github.com/dmitmel/cmp-digraphs) - A nvim-cmp source for completing digraphs.
 - [nandac/font-awesome-docx](https://github.com/nandac/font-awesome-docx) - 
-- [shmuz/LuaFAR-2L](https://github.com/shmuz/LuaFAR-2L) - 
+- [shmuz/LuaFAR-2M](https://github.com/shmuz/LuaFAR-2M) - 
 - [SvenMarcus/lua-pie](https://github.com/SvenMarcus/lua-pie) - A class library for Lua
 - [natecraddock/nvim-find](https://github.com/natecraddock/nvim-find) - A fast and simple finder plugin for Neovim
 - [natecraddock/dotfiles](https://github.com/natecraddock/dotfiles) - My configurations for linux
@@ -4969,6 +4994,7 @@
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
 - [tanvirtin/.tin](https://github.com/tanvirtin/.tin) - My development configurations
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
 - [alex-popov-tech/timer.nvim](https://github.com/alex-popov-tech/timer.nvim) - Minimalistic timer functionality for neovim.
 - [faerryn/user.nvim](https://github.com/faerryn/user.nvim) - Since the advent of vim and neovim, countless package managers have appeared and dissappeared. Well, here's another to the list.
@@ -5366,7 +5392,7 @@
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme generator that is "lite" on logic for the developer.
 - [mkflaher2/dotfiles](https://github.com/mkflaher2/dotfiles) - dotfiles for LCARS theme
-- [JavaCafe01/awesome](https://github.com/JavaCafe01/awesome) - configuration files for AwesomeWM
+- [javacafe01/awesome](https://github.com/javacafe01/awesome) - configuration files for AwesomeWM
 - [stetre/luamoulds](https://github.com/stetre/luamoulds) - A C-like typedef for Lua
 - [stetre/lunasdl](https://github.com/stetre/lunasdl) - SDL-oriented concurrency in Lua
 - [stetre/moonsc](https://github.com/stetre/moonsc) - Harel Statecharts in Lua
@@ -5604,7 +5630,7 @@
 - [martin-eden/workshop](https://github.com/martin-eden/workshop) - 
 - [andremm/lua-parser](https://github.com/andremm/lua-parser) - A Lua 5.3 parser written with LPegLabel
 - [jirutka/luasrcdiet](https://github.com/jirutka/luasrcdiet) - Compresses Lua source code by removing unnecessary characters (updated fork of http://luasrcdiet.luaforge.net/)
-- [lunarmodules/LDoc](https://github.com/lunarmodules/LDoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty
+- [lunarmodules/ldoc](https://github.com/lunarmodules/ldoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty
 - [fu5ha/dotfiles](https://github.com/fu5ha/dotfiles) - My dotfiles managed by yadm
 - [SpaceVim/vim-luacomplete](https://github.com/SpaceVim/vim-luacomplete) - lua complete plugin for vim
 - [pratikac/luadbg](https://github.com/pratikac/luadbg) - Debugger for Lua
@@ -5867,6 +5893,8 @@
 
 ## Others 
 
+- [kolarisk/AnalogWeather](https://github.com/kolarisk/AnalogWeather) - Analog Temp/Humidity/Barometer based on arduino
+- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Android external keyboard layout customization without root.
 - [stefanrueger/urboot.hex](https://github.com/stefanrueger/urboot.hex) - Pre-compiled urboot bootloaders
 - [roybaer/sduino_uno](https://github.com/roybaer/sduino_uno) - A development board with STM8S105K6 MCU in Arduino UNO form factor
 - [roybaer/sduino_mb](https://github.com/roybaer/sduino_mb) - A development board with STM8S208MB MCU in Arduino MEGA form factor
@@ -6002,7 +6030,6 @@
 - [kitagry/vs-snippets](https://github.com/kitagry/vs-snippets) - VSCode's snippets files for various programming languages.
 - [cstrap/python-snippets](https://github.com/cstrap/python-snippets) - Python snippets for Visual Studio Code
 - [capaj/vscode-standardjs-snippets](https://github.com/capaj/vscode-standardjs-snippets) - a complete set of Javascript snippets for Visual Studio Code
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [code4mk/atom-bash](https://github.com/code4mk/atom-bash) - bash snippets ⇄  0devco & code4mk
 - [habamax/apprentice-term](https://github.com/habamax/apprentice-term) - vim-apprentice colorscheme to your terminal
@@ -6204,7 +6231,7 @@
 - [melak47/vscode-ninja-syntax](https://github.com/melak47/vscode-ninja-syntax) - Syntax highlighting for ninja build files
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [FireZenk/language-lua](https://github.com/FireZenk/language-lua) - Lua language support in Atom
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate. 🍣
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate 🍣
 - [mutability/dump1090](https://github.com/mutability/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [xatgithub/byzanz](https://github.com/xatgithub/byzanz) - 
 - [eirenicon/dotfiles](https://github.com/eirenicon/dotfiles) - bspwm, polybar, tint2 and sundry other dotfiles, expertly borrowed and modified from those developed by really smart people...
@@ -6219,7 +6246,7 @@
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [Apress/def-guide-to-sqlite](https://github.com/Apress/def-guide-to-sqlite) - Source code for 'The Definitive Guide to SQLite' by Mike Owens
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures. 🐚
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [h3xx/dotfiles](https://github.com/h3xx/dotfiles) - configuration files (Slackware-centric)
 - [h3xx/vim-late_evening](https://github.com/h3xx/vim-late_evening) - Dark, high-contrast vim colorscheme
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
@@ -6550,7 +6577,7 @@
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
 - [tiagovla/antennas_ufmg](https://github.com/tiagovla/antennas_ufmg) - 
 - [nihilistkitten/dotfiles](https://github.com/nihilistkitten/dotfiles) - 
-- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway window manager
+- [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) - Note-taking plugin builtt on to of nvim
@@ -7443,8 +7470,8 @@
 - [tortious/zplugin-configs](https://github.com/tortious/zplugin-configs) - Real-world configuration files (basically zshrc-s) holding Zplugin invocations
 - [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
 - [lvim-tech/sshfsm](https://github.com/lvim-tech/sshfsm) - SSHFS Manager
-- [jorgebucaran/getopts.fish](https://github.com/jorgebucaran/getopts.fish) - Parse CLI options in Fish.
-- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line.
+- [jorgebucaran/getopts.fish](https://github.com/jorgebucaran/getopts.fish) - Parse CLI options in Fish
+- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [junghans/cwdiff](https://github.com/junghans/cwdiff) - A (w)diff wrapper to support directories and colorize the output
 - [raghur/zsh-arduino](https://github.com/raghur/zsh-arduino) - zsh plugin for arduino build, upload and monitor
 - [JoshuaEstes/pms](https://github.com/JoshuaEstes/pms) - Framework for managing different shells. Allows easy switching between them, plugins, themes, and more.
@@ -7653,7 +7680,6 @@
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [mathieujobin/lua_version_manager](https://github.com/mathieujobin/lua_version_manager) - Lua Version Manager
 - [aroma1994/polybar-windows](https://github.com/aroma1994/polybar-windows) - A polybar script that shows opened windows on your current display. Click on window titles to switch between windows.
-- [tam-carre/polywins](https://github.com/tam-carre/polywins) - A featureful and customizable taskbar for polybar.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pmeiyu/dot-config](https://github.com/pmeiyu/dot-config) - My ~/.config files
 - [Mte90/dotfiles](https://github.com/Mte90/dotfiles) - My dotfiles
@@ -7974,7 +8000,7 @@
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [vbatts/slackware-container](https://github.com/vbatts/slackware-container) - Minimal rootfs creation for slackware linux (ideal for container images)
 - [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [nonstop/slackbuilds](https://github.com/nonstop/slackbuilds) - SlackBuild scripts for creating Slackware packages
 - [klen/dotfiles](https://github.com/klen/dotfiles) - kk .dotfiles / use it for your own risks
 - [moon-musick/i3](https://github.com/moon-musick/i3) - i3 window manager configuration
@@ -8847,7 +8873,6 @@
 - [jamessan/etc-vim](https://github.com/jamessan/etc-vim) - Vim configuration files
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
 - [melekes/vim-is-hard-lessons](https://github.com/melekes/vim-is-hard-lessons) - Курс лекций "Vim - Это сложно"
-- [tam-carre/dotfiles](https://github.com/tam-carre/dotfiles) - Linux configuration files.
 - [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - pandoc integration and utilities for vim
 - [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) - pandoc markdown syntax, to be installed alongside vim-pandoc
 - [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
