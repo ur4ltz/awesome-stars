@@ -1950,7 +1950,6 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, VSCode, ...
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -4724,7 +4723,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-17+g6801befcc) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-242+g22170efb4) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -4844,6 +4843,7 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, VSCode, ...
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -6090,7 +6090,6 @@
 - [enricozb/lean.kak](https://github.com/enricozb/lean.kak) - Minimal Lean syntax highlighting, intermediate evaluation, and LaTeX completions
 - [skiselev/micro_8088](https://github.com/skiselev/micro_8088) - Micro 8088 - IBM XT Compatible Processor Board based on Faraday FE2010 chipset
 - [nvim-lua/marks.nvim](https://github.com/nvim-lua/marks.nvim) - Marks related utilties
-- [enricozb/tabs.kak](https://github.com/enricozb/tabs.kak) - Kakoune buffers as tabs in the status line.
 - [adelarsq/awesome-make](https://github.com/adelarsq/awesome-make) - A list about Make resources 🛠
 - [Th3Whit3Wolf/Dots-Old](https://github.com/Th3Whit3Wolf/Dots-Old) - All of my dot files
 - [edubart/nelua-sublime](https://github.com/edubart/nelua-sublime) - Nelua syntax highlighting for Sublime Text
@@ -7296,6 +7295,7 @@
 - [oknozor/illumination](https://github.com/oknozor/illumination) - A mardown renderer for nvim written with gtkrs and neovim-lib
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [oknozor/onagre](https://github.com/oknozor/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
+- [enricozb/tabs.kak](https://github.com/enricozb/tabs.kak) - Kakoune buffers as tabs in the status line.
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [chipsenkbeil/vimwiki-rs](https://github.com/chipsenkbeil/vimwiki-rs) - Rust library and tooling to parse, render, and modify vimwiki text and files.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
