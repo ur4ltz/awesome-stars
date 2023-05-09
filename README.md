@@ -201,6 +201,7 @@
 
 ## C 
 
+- [LiadOz/nvim-dap-repl-highlights](https://github.com/LiadOz/nvim-dap-repl-highlights) - Add syntax highlighting to the nvim-dap REPL
 - [s1n7ax/dmenu](https://github.com/s1n7ax/dmenu) - dmenu with my favorite patches
 - [s1n7ax/st](https://github.com/s1n7ax/st) - simple terminal with some of my favorite patches
 - [desdic/slstatus](https://github.com/desdic/slstatus) - My patches slstatus
@@ -1400,6 +1401,7 @@
 - [adamnew123456/SmallWM](https://github.com/adamnew123456/SmallWM) - Xlib window manager (at one time based on tinywm, but SmallWM has long outgrown it)
 - [siffiejoe/lua-apilog](https://github.com/siffiejoe/lua-apilog) - Log Lua API calls and the Lua stack during development
 - [siffiejoe/lua-fltk4lua](https://github.com/siffiejoe/lua-fltk4lua) - Lua binding to the Fast Light Tool Kit (FLTK)
+- [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [r-darwish/kilopp](https://github.com/r-darwish/kilopp) - The Kilo editor in modern C++
 - [skx/kilua](https://github.com/skx/kilua) - A minimal text-editor with lua scripting.
 - [lumail/lumail](https://github.com/lumail/lumail) - A console-based mail-client with integrated Lua scripting support.
@@ -3493,7 +3495,6 @@
 - [medwatt/Notes](https://github.com/medwatt/Notes) - 
 - [jkitchin/ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
 - [soumith/cvpr2015](https://github.com/soumith/cvpr2015) - 
-- [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode
 
@@ -3558,6 +3559,18 @@
 
 ## Lua 
 
+- [dawsers/edit-code-block.nvim](https://github.com/dawsers/edit-code-block.nvim) - Edit injected code blocks in another buffer
+- [huggingface/hfcc.nvim](https://github.com/huggingface/hfcc.nvim) - Hugging Face Code Completion for neovim
+- [Issafalcon/lsp-overloads.nvim](https://github.com/Issafalcon/lsp-overloads.nvim) - Extends the native nvim-lsp handlers to allow easier navigation through method overloads.
+- [bennypowers/template-literal-comments.nvim](https://github.com/bennypowers/template-literal-comments.nvim) - highlight languages embedded in ECMAScript template literals by adding a comment
+- [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) - Heuristic buffer auto-close
+- [snelling-a/better-folds.nvim](https://github.com/snelling-a/better-folds.nvim) - better-folds.nvim
+- [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - Ranger plugin for neovim
+- [Cassin01/wf.nvim](https://github.com/Cassin01/wf.nvim) - A modern which-key for neovim
+- [imNel/monorepo.nvim](https://github.com/imNel/monorepo.nvim) - An effective way to juggle monorepos in neovim
+- [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) - Practice your nvim keybinding configuration for a boost in productivity.
+- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects.
+- [KostkaBrukowa/definition-or-references.nvim](https://github.com/KostkaBrukowa/definition-or-references.nvim) - 
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
 - [IlyasYOY/dotfiles](https://github.com/IlyasYOY/dotfiles) - dotfiles to rule them all!
 - [IlyasYOY/coredor.nvim](https://github.com/IlyasYOY/coredor.nvim) - Core utils for nvim
@@ -4641,7 +4654,7 @@
 - [lua-rocks/core-deprecated](https://github.com/lua-rocks/core-deprecated) - Core libs for self-documented object oriented programming in lua.
 - [JonasMuehlmann/telescope-bntp](https://github.com/JonasMuehlmann/telescope-bntp) - telescope.nvim finders for https://github.com/JonasMuehlmann/bntp.go
 - [hrsh7th/cmp-omni](https://github.com/hrsh7th/cmp-omni) - nvim-cmp source for omnifunc
-- [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) - nvim-cmp source for dictionary.
+- [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) - A dictionary completion source for nvim-cmp
 - [jc-doyle/cmp-pandoc-references](https://github.com/jc-doyle/cmp-pandoc-references) - A source for nvim-cmp, providing completion for bibliography, reference and cross-ref items in Pandoc/Markdown.
 - [PaterJason/cmp-conjure](https://github.com/PaterJason/cmp-conjure) - nvim-cmp source for conjure.
 - [hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji) - nvim-cmp source for emoji
@@ -4769,7 +4782,7 @@
 - [alexghergh/nvim-tmux-navigation](https://github.com/alexghergh/nvim-tmux-navigation) - Easy Neovim-Tmux navigation, completely written in Lua
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) - Neovim plugin for lspcontainers.
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My personal Neovim config entirely written in Lua (requires nightly), ZSH with zinit plugin manager & powerlevel10k prompt, and other dotfiles I am adding over time
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [luissimas/eval.nvim](https://github.com/luissimas/eval.nvim) - A simple code evaluator for neovim.
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
@@ -5862,7 +5875,6 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [teto/home](https://github.com/teto/home) - Configurations
-- [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
 
 ## Nu 
 
@@ -7984,6 +7996,7 @@
 - [cgoodrich/byzanz](https://github.com/cgoodrich/byzanz) - unix gif screencasts
 - [porras/i3-keyboard-layout](https://github.com/porras/i3-keyboard-layout) - Change keyboard layout with a keystroke + show it in the status bar
 - [okraits/boosta](https://github.com/okraits/boosta) - Easy bookmark management with rofi
+- [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
 - [cytopia/i3-utils-bin](https://github.com/cytopia/i3-utils-bin) - 
 - [cytopia/autorunner](https://github.com/cytopia/autorunner) - Configurable and notification aware autostart helper for minimalistic window managers like i3, openbox and others
 - [cytopia/i3blocks-modules](https://github.com/cytopia/i3blocks-modules) - Custom modules for i3blocks status bar
@@ -8286,6 +8299,7 @@
 
 ## Vim Script 
 
+- [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - Evangelion but for Vimmers
 - [MTDL9/vim-log-highlighting](https://github.com/MTDL9/vim-log-highlighting) - Syntax highlighting for generic log files in VIM
 - [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk) - hignlight chunk numbercolumn plug of nvim
 - [meuter/habamax-plus.nvim](https://github.com/meuter/habamax-plus.nvim) - Variant of the habamax vim plugin.
@@ -8784,7 +8798,6 @@
 - [phelipetls/vim-hugo](https://github.com/phelipetls/vim-hugo) - Vim plugin for web development with static site generator Hugo
 - [pushqrdx/dotfiles](https://github.com/pushqrdx/dotfiles) - 
 - [vimoxide/vim-cinnabar](https://github.com/vimoxide/vim-cinnabar) - Clean vim colorscheme with black background
-- [asustavov/minimalarch](https://github.com/asustavov/minimalarch) - Dotfiles for my minimalistic Linux setup
 - [liuchengxu/nerdtree-dash](https://github.com/liuchengxu/nerdtree-dash) - Extra syntax highlight for nerdtree and vim-devicons
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [mhinz/vim-crates](https://github.com/mhinz/vim-crates) - Handle Cargo dependencies like a Rustavimean.
