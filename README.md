@@ -4133,7 +4133,7 @@
 - [doums/suit.nvim](https://github.com/doums/suit.nvim) - A neovim plugin that replaces default input and select text prompts with nice floating windows
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - invert text in vim, purely with lua.
 - [tiagovla/buffercd.nvim](https://github.com/tiagovla/buffercd.nvim) - 
-- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Scope.nvim: changing the way of using tabs on neovim. Tab::Buf.
+- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
 - [nanozuki/fur.nvim](https://github.com/nanozuki/fur.nvim) - Organize your neovim config and features by fur. Have fun with features opt-in and hot-reload.
 - [nanozuki/CrowsEnv](https://github.com/nanozuki/CrowsEnv) - my dotfiles
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) - 🌈 LSP-based colorizer for neovim
@@ -9162,7 +9162,6 @@
 - [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
 - [gu-fan/easydigraph.vim](https://github.com/gu-fan/easydigraph.vim) - input special characters easier (+digraph).
 - [chrisbra/unicode.vim](https://github.com/chrisbra/unicode.vim) - A Vim plugin that provides a completion function for Unicode glyphs
-- [noahfrederick/dots](https://github.com/noahfrederick/dots) - Personal *nix configuration files
 - [ghprince/dotfiles](https://github.com/ghprince/dotfiles) - 
 - [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [hlissner/vim-multiedit](https://github.com/hlissner/vim-multiedit) - Multiple cursors in vim, ala Sublime Text or Atom
