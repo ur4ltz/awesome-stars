@@ -201,6 +201,7 @@
 
 ## C 
 
+- [luapp-org/luapp](https://github.com/luapp-org/luapp) - The Lua++ programming language. A simple type based programming language that inherited its syntax from Lua.
 - [LiadOz/nvim-dap-repl-highlights](https://github.com/LiadOz/nvim-dap-repl-highlights) - Add syntax highlighting to the nvim-dap REPL
 - [s1n7ax/dmenu](https://github.com/s1n7ax/dmenu) - dmenu with my favorite patches
 - [s1n7ax/st](https://github.com/s1n7ax/st) - simple terminal with some of my favorite patches
@@ -2742,6 +2743,7 @@
 
 ## Go 
 
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [google/periph](https://github.com/google/periph) - Go·Hardware·Lean
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
@@ -3559,6 +3561,9 @@
 
 ## Lua 
 
+- [Theo-Steiner/togglescope](https://github.com/Theo-Steiner/togglescope) - togglescope
+- [lvim-tech/lvim-forgit](https://github.com/lvim-tech/lvim-forgit) - 
+- [aaditeynair/conduct.nvim](https://github.com/aaditeynair/conduct.nvim) - A project management plugin for Neovim
 - [dawsers/edit-code-block.nvim](https://github.com/dawsers/edit-code-block.nvim) - Edit injected code blocks in another buffer
 - [huggingface/hfcc.nvim](https://github.com/huggingface/hfcc.nvim) - Hugging Face Code Completion for neovim
 - [Issafalcon/lsp-overloads.nvim](https://github.com/Issafalcon/lsp-overloads.nvim) - Extends the native nvim-lsp handlers to allow easier navigation through method overloads.
@@ -3687,7 +3692,7 @@
 - [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) - Telescope extentions to view pre-defined/custom treesitter queries
 - [KostkaBrukowa/nvim-config](https://github.com/KostkaBrukowa/nvim-config) - My nvim configuration
 - [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
-- [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - A simple Neovim theme with Tree-sitter support.
+- [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - A customized theme for Neovim, based on the Everblush color scheme.
 - [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
 - [prmaloney/valet.nvim](https://github.com/prmaloney/valet.nvim) - 
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk keymaps in neovim
@@ -6016,7 +6021,7 @@
 - [henriquehbr/lua-vs-vimscript](https://github.com/henriquehbr/lua-vs-vimscript) - A simple benchmark comparing Lua performance to Vimscript (because no one seems to care about these nowadays)
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [pohka/Lua-Beginners-Guide](https://github.com/pohka/Lua-Beginners-Guide) - Lua Beginners Guide
-- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking pop-ups and anti-adblock bypass.
+- [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [romainl/idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [2KAbhishek/Nightbow](https://github.com/2KAbhishek/Nightbow) - Black VS Code theme with bright colors 🌃🌈
 - [SUSE/doc-susemanager](https://github.com/SUSE/doc-susemanager) - SUSE Manager documentation - Deprecated - docs have migrated to the Uyuni-project
@@ -6509,7 +6514,6 @@
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes
 - [wagiminator/ATtiny814-AquaTimer](https://github.com/wagiminator/ATtiny814-AquaTimer) - Programmable Timer for Aquariums
 - [seleznevae/fort](https://github.com/seleznevae/fort) - CLI (command line utility) to create formatted tables in console
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [evanhempel/python-flamegraph](https://github.com/evanhempel/python-flamegraph) - Statistical profiler which outputs in format suitable for FlameGraph (http://www.brendangregg.com/flamegraphs.html)
 - [rbanffy/3270font](https://github.com/rbanffy/3270font) - A 3270 font in a modern format
 - [notjedi/pyratebay](https://github.com/notjedi/pyratebay) - Python script to download torrents from piratebay.
