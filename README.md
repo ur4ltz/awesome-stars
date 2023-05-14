@@ -201,6 +201,9 @@
 
 ## C 
 
+- [dvmfa90/dwm-dvmfa90](https://github.com/dvmfa90/dwm-dvmfa90) - Patched DWM for community
+- [dvmfa90/st](https://github.com/dvmfa90/st) - 
+- [gtk-gnutella/gtk-gnutella](https://github.com/gtk-gnutella/gtk-gnutella) - The Most Efficient Gnutella Client
 - [luapp-org/luapp](https://github.com/luapp-org/luapp) - The Lua++ programming language. A simple type based programming language that inherited its syntax from Lua.
 - [LiadOz/nvim-dap-repl-highlights](https://github.com/LiadOz/nvim-dap-repl-highlights) - Add syntax highlighting to the nvim-dap REPL
 - [s1n7ax/dmenu](https://github.com/s1n7ax/dmenu) - dmenu with my favorite patches
@@ -2743,6 +2746,7 @@
 
 ## Go 
 
+- [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [google/periph](https://github.com/google/periph) - Go·Hardware·Lean
@@ -3073,6 +3077,7 @@
 
 ## HTML 
 
+- [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [avrdudes/avrdude](https://github.com/avrdudes/avrdude) - AVRDUDE is a utility to program AVR microcontrollers
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
@@ -3561,6 +3566,7 @@
 
 ## Lua 
 
+- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [Theo-Steiner/togglescope](https://github.com/Theo-Steiner/togglescope) - togglescope
 - [lvim-tech/lvim-forgit](https://github.com/lvim-tech/lvim-forgit) - 
 - [aaditeynair/conduct.nvim](https://github.com/aaditeynair/conduct.nvim) - A project management plugin for Neovim
@@ -4394,7 +4400,7 @@
 - [tzachar/fuzzy.nvim](https://github.com/tzachar/fuzzy.nvim) - nvim plugin providing abstraction over fzf and fzy native libraries
 - [tzachar/cmp-fuzzy-buffer](https://github.com/tzachar/cmp-fuzzy-buffer) - 
 - [ldelossa/litee-bookmarks.nvim](https://github.com/ldelossa/litee-bookmarks.nvim) - A litee.nvim backed plugin for saving important places in your code.
-- [Allaman/nvim](https://github.com/Allaman/nvim) - Straight forward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python and Golang
+- [Allaman/nvim](https://github.com/Allaman/nvim) - Straightforward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, Rust, and, of course, YAML
 - [mjlbach/onedark.nvim](https://github.com/mjlbach/onedark.nvim) - Not for public use.
 - [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer for Neovim written in Lua.
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
@@ -4619,7 +4625,7 @@
 - [lifer0se/ezbookmarks.nvim](https://github.com/lifer0se/ezbookmarks.nvim) - A bookmark plugin.
 - [mjlbach/incremental.nvim](https://github.com/mjlbach/incremental.nvim) - A debugging interface/walkthrough of on_lines in neovim (and LSP incrmental sync)
 - [goolord/nvim](https://github.com/goolord/nvim) - init.lua
-- [doums/ponton.nvim](https://github.com/doums/ponton.nvim) - A light and fast statusline
+- [doums/ponton.nvim](https://github.com/doums/ponton.nvim) - A minimal statusline
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [lukas-reineke/onedark.nvim](https://github.com/lukas-reineke/onedark.nvim) - My personal Onedark theme flavor, written in lua.
 - [nvim-lsp/try.nvim](https://github.com/nvim-lsp/try.nvim) - Test container CI for neovim and the lsp ecosystem
@@ -5887,6 +5893,7 @@
 
 ## OCaml 
 
+- [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon
 - [raboof/zshprof](https://github.com/raboof/zshprof) - zsh script profiling
 
 ## Objective-C 
@@ -5916,6 +5923,7 @@
 
 ## Others 
 
+- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [kolarisk/AnalogWeather](https://github.com/kolarisk/AnalogWeather) - Analog Temp/Humidity/Barometer based on arduino
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Android external keyboard layout customization without root.
 - [stefanrueger/urboot.hex](https://github.com/stefanrueger/urboot.hex) - Pre-compiled urboot bootloaders
@@ -6253,7 +6261,7 @@
 - [melak47/vscode-ninja-syntax](https://github.com/melak47/vscode-ninja-syntax) - Syntax highlighting for ninja build files
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [FireZenk/language-lua](https://github.com/FireZenk/language-lua) - Lua language support in Atom
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate 🍣
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Catch, Cook, and Conquer: Unleashing the flavor of Fish 🦞
 - [mutability/dump1090](https://github.com/mutability/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [xatgithub/byzanz](https://github.com/xatgithub/byzanz) - 
 - [eirenicon/dotfiles](https://github.com/eirenicon/dotfiles) - bspwm, polybar, tint2 and sundry other dotfiles, expertly borrowed and modified from those developed by really smart people...
@@ -7219,6 +7227,7 @@
 
 ## Rust 
 
+- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) - Use github code search within neovim
 - [w1png/tm1637-avr-hal](https://github.com/w1png/tm1637-avr-hal) - A simple library for interfacing with the tm1637 using avr-hal.
 - [noib3/crop](https://github.com/noib3/crop) - 🌾 A pretty fast text rope
@@ -7410,6 +7419,7 @@
 
 ## Shell 
 
+- [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [pavelmc/amake](https://github.com/pavelmc/amake) - A very simple Arduino command line interface for linux
