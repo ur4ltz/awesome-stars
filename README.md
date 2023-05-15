@@ -609,7 +609,7 @@
 - [davatorium/rofi-file-browser](https://github.com/davatorium/rofi-file-browser) - 
 - [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
 - [RealTimeLogic/JSON](https://github.com/RealTimeLogic/JSON) - JSON C/C++ Library for IoT Communication
-- [RealTimeLogic/Xedge-ESP32](https://github.com/RealTimeLogic/Xedge-ESP32) - Xedge ESP32 peripheral API and Build Files
+- [RealTimeLogic/Xedge32](https://github.com/RealTimeLogic/Xedge32) - Xedge ESP32 peripheral API and Build Files
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [soybin/ckube](https://github.com/soybin/ckube) - raymarcher for your terminal
 - [Huulivoide/libdrawille](https://github.com/Huulivoide/libdrawille) - C implementation of drawille library and extra drawing functionality
@@ -1081,6 +1081,7 @@
 
 ## C++ 
 
+- [AlexMalov/EasyKeyDublicatorRFID](https://github.com/AlexMalov/EasyKeyDublicatorRFID) - 
 - [jarzebski/Arduino-DS1307](https://github.com/jarzebski/Arduino-DS1307) - DS1307 Real-Time-Clock
 - [jarzebski/Arduino-DS3231](https://github.com/jarzebski/Arduino-DS3231) - DS3231 Real-Time-Clock
 - [majekw/optiboot](https://github.com/majekw/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
@@ -6261,7 +6262,7 @@
 - [melak47/vscode-ninja-syntax](https://github.com/melak47/vscode-ninja-syntax) - Syntax highlighting for ninja build files
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [FireZenk/language-lua](https://github.com/FireZenk/language-lua) - Lua language support in Atom
-- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Catch, Cook, and Conquer: Unleashing the flavor of Fish 🦞
+- [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
 - [mutability/dump1090](https://github.com/mutability/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [xatgithub/byzanz](https://github.com/xatgithub/byzanz) - 
 - [eirenicon/dotfiles](https://github.com/eirenicon/dotfiles) - bspwm, polybar, tint2 and sundry other dotfiles, expertly borrowed and modified from those developed by really smart people...
@@ -7666,7 +7667,7 @@
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [voidsampaiaovoid/polybar-aesthetic](https://github.com/voidsampaiaovoid/polybar-aesthetic) - 
 - [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
-- [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - An informative Bash prompt
+- [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - A clean and fast Bash prompt
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [changyuheng/fz.sh](https://github.com/changyuheng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [ecosse3/dotfiles](https://github.com/ecosse3/dotfiles) - Dotfiles for my awesomewm/i3 Arch setup & neovim
