@@ -791,7 +791,7 @@
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [groleo/mini_httpd](https://github.com/groleo/mini_httpd) - 
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
-- [processhacker/phnt](https://github.com/processhacker/phnt) - Native API header files for the Process Hacker project.
+- [winsiderss/phnt](https://github.com/winsiderss/phnt) - Native API header files for the Process Hacker project.
 - [processhacker/plugins-extra](https://github.com/processhacker/plugins-extra) - These are highly unstable, buggy, incomplete plugins that are not included with Process Hacker by default.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [geany/geany-plugins](https://github.com/geany/geany-plugins) - The combined Geany Plugins collection
@@ -1060,6 +1060,7 @@
 
 ## C# # 
 
+- [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
 - [LONELY-WOLF/WatchDoge](https://github.com/LONELY-WOLF/WatchDoge) - Very simple Arduino watch project
 - [ZakKemble/AVRDUDESS](https://github.com/ZakKemble/AVRDUDESS) - A GUI for AVRDUDE
 - [afrantzis/bless](https://github.com/afrantzis/bless) - Bless - Gtk# Hex Editor
@@ -1677,6 +1678,7 @@
 
 ## CSS 
 
+- [AndreLZGava/font-awesome-extension](https://github.com/AndreLZGava/font-awesome-extension) - Simple Font Awesome Extension
 - [AndronixApp/docs](https://github.com/AndronixApp/docs) - 
 - [loctvl842/BeastFiles](https://github.com/loctvl842/BeastFiles) - My dotfiles
 - [davinche/godown-vim](https://github.com/davinche/godown-vim) - Vim plugin for Godown Markdown Previewer
@@ -4813,7 +4815,7 @@
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
 - [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - 
-- [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - branch v8 is live
+- [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - see mizlan/dotfiles
 - [mizlan/vis-config](https://github.com/mizlan/vis-config) - 
 - [mizlan/microscope.nvim](https://github.com/mizlan/microscope.nvim) - Small Telescope-esque picker thing
 - [mizlan/transient](https://github.com/mizlan/transient) - transient for neovim (MVP but neogit exists)
@@ -6449,6 +6451,8 @@
 
 ## Python 
 
+- [kamou/ncpass](https://github.com/kamou/ncpass) - Simple password cli tool for the nextcloud passwords app
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [platformio/platform-ststm32](https://github.com/platformio/platform-ststm32) - ST STM32: development platform for PlatformIO
 - [platformio/platform-espressif8266](https://github.com/platformio/platform-espressif8266) - Espressif 8266: development platform for PlatformIO
 - [fandreyf/tm1637](https://github.com/fandreyf/tm1637) - modified version, works on OrangePi Zero2
@@ -6675,7 +6679,6 @@
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [schwifty42069/piptv](https://github.com/schwifty42069/piptv) - A very simple Python IPTV client
 - [su1s/e2m3u2bouquet](https://github.com/su1s/e2m3u2bouquet) - Enigma2 IPTV m3u parser and bouquet creator
-- [pepsik-kiev/e2m3u2bouquet](https://github.com/pepsik-kiev/e2m3u2bouquet) - Enigma2 IPTV m3u parser and bouquet creator
 - [erayaydin/i3-manager](https://github.com/erayaydin/i3-manager) - i3 Manager Tool - Written with Python and Qt
 - [obestwalter/i3configger](https://github.com/obestwalter/i3configger) - i3 config manipulation tool
 - [mjohanning99/dotfiles](https://github.com/mjohanning99/dotfiles) - 
@@ -6942,6 +6945,7 @@
 - [marxin/neo-rtags](https://github.com/marxin/neo-rtags) - Rtags client for neovim
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [neg-serg/negwm](https://github.com/neg-serg/negwm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
 - [pyroscope/pyrobase](https://github.com/pyroscope/pyrobase) - :package: General Python Helpers and Utilities
 - [pyroscope/pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
 - [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text
@@ -7420,6 +7424,7 @@
 
 ## Shell 
 
+- [fabioluciano/tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) - 
 - [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
@@ -8064,7 +8069,6 @@
 - [dcasella/monokai-plusplus](https://github.com/dcasella/monokai-plusplus) - A modern Monokai theme for Sublime Text 3 and Visual Studio Code
 - [aperezdc/dotfiles](https://github.com/aperezdc/dotfiles) - Personal configuration files I often use in my - may contain useful snippets for you as well, YMMV.
 - [vifon/deer](https://github.com/vifon/deer) - ranger-like file navigation for zsh
-- [neg-serg/negwm](https://github.com/neg-serg/negwm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
 - [jimeh/dotfiles](https://github.com/jimeh/dotfiles) - My personals dotfiles with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.
 - [pyroscope/pimp-my-box](https://github.com/pyroscope/pimp-my-box) - :seedling: Automated seedbox install of rTorrent-PS and PyroScope CLI etc. via Ansible.
 - [elentok/dotfiles](https://github.com/elentok/dotfiles) - My dotfiles
@@ -8148,6 +8152,7 @@
 
 ## TypeScript 
 
+- [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
 - [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
