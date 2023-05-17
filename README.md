@@ -2921,7 +2921,7 @@
 - [akshay1713/gotorrent](https://github.com/akshay1713/gotorrent) - A simple command line bittorrent client.
 - [shraiysh/GoTorrent](https://github.com/shraiysh/GoTorrent) - Bit-torrent client implementation in GOOOOOOO
 - [h-michael/lsm-go](https://github.com/h-michael/lsm-go) - Lanuguage server installation manager
-- [czwinzscher/wttr-cli](https://github.com/czwinzscher/wttr-cli) - A cli program that prints the current temperature (and nothing else) from wttr.in
+- [czwinzscher/wttr-cli](https://github.com/czwinzscher/wttr-cli) - A cli program that prints the current temperature from wttr.in
 - [mah0x211/lenv](https://github.com/mah0x211/lenv) - Lua Version Manager
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [soumya92/barista](https://github.com/soumya92/barista) - An i3status alternative in golang
@@ -7424,6 +7424,7 @@
 
 ## Shell 
 
+- [lvim-tech/lvim-fm](https://github.com/lvim-tech/lvim-fm) - 
 - [fabioluciano/tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) - 
 - [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
@@ -8152,6 +8153,7 @@
 
 ## TypeScript 
 
+- [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
 - [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
 - [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
