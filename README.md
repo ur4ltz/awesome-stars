@@ -1082,6 +1082,7 @@
 
 ## C++ 
 
+- [msva/luatorrent](https://github.com/msva/luatorrent) - Automatically exported from code.google.com/p/luatorrent
 - [AlexMalov/EasyKeyDublicatorRFID](https://github.com/AlexMalov/EasyKeyDublicatorRFID) - 
 - [jarzebski/Arduino-DS1307](https://github.com/jarzebski/Arduino-DS1307) - DS1307 Real-Time-Clock
 - [jarzebski/Arduino-DS3231](https://github.com/jarzebski/Arduino-DS3231) - DS3231 Real-Time-Clock
@@ -3192,6 +3193,7 @@
 
 ## Java 
 
+- [AndreyPavlenko/transmissionbtc](https://github.com/AndreyPavlenko/transmissionbtc) - Transmission BitTorrent Client for Android
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [jawi/ols](https://github.com/jawi/ols) - OpenBench LogicSniffer repository
 - [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
@@ -3540,6 +3542,7 @@
 
 ## Kotlin 
 
+- [equeim/tremotesf-android](https://github.com/equeim/tremotesf-android) - Android remote GUI for transmission-daemon
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
@@ -3569,6 +3572,22 @@
 
 ## Lua 
 
+- [ivan386/mag-maker](https://github.com/ivan386/mag-maker) - The script was originally written for use with the RHash program. He translated Sha1 hash from HEX to Base32 and collected a universal magnet from the hash link. Now the script has grown a bit.
+- [ivan386/lua-http-proxy](https://github.com/ivan386/lua-http-proxy) - proxy and url tester
+- [ivan386/lua-compact-variable-length-unsigned-integer](https://github.com/ivan386/lua-compact-variable-length-unsigned-integer) - compact variable length unsigned integer encoder/decoder in lua
+- [ivan386/lua-utf8bin](https://github.com/ivan386/lua-utf8bin) - convert binary data to valid utf8 string
+- [ivan386/lua-print-vcdiff](https://github.com/ivan386/lua-print-vcdiff) - Script decodes binary vcdiff to text
+- [ivan386/lua-vcdiff-compiler](https://github.com/ivan386/lua-vcdiff-compiler) - 
+- [ivan386/lua-zero-block-hash](https://github.com/ivan386/lua-zero-block-hash) - 
+- [ivan386/lua-simple-udp-to-tcp-dns-proxy](https://github.com/ivan386/lua-simple-udp-to-tcp-dns-proxy) - simple udp to tcp dns proxy
+- [ivan386/lua-bin-merging](https://github.com/ivan386/lua-bin-merging) - 
+- [ivan386/lua-md4](https://github.com/ivan386/lua-md4) - 
+- [ivan386/lua-md5](https://github.com/ivan386/lua-md5) - 
+- [ivan386/lua-serialize](https://github.com/ivan386/lua-serialize) - Script for lua table serialization
+- [ivan386/lua-rc4](https://github.com/ivan386/lua-rc4) - 
+- [ivan386/lua-advanced-string-pack](https://github.com/ivan386/lua-advanced-string-pack) - upgrade for standard lua string.pack
+- [ivan386/lua-kad](https://github.com/ivan386/lua-kad) - search files and sources in emule kad
+- [ivan386/lua-dht](https://github.com/ivan386/lua-dht) - Bittorrent DHT Tracker - local tracker for bittorent client and mainline dht client.
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [Theo-Steiner/togglescope](https://github.com/Theo-Steiner/togglescope) - togglescope
 - [lvim-tech/lvim-forgit](https://github.com/lvim-tech/lvim-forgit) - 
@@ -4814,7 +4833,7 @@
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
-- [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - 
+- [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - an up-to-date peek at my dotfiles. m1 mac
 - [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - see mizlan/dotfiles
 - [mizlan/vis-config](https://github.com/mizlan/vis-config) - 
 - [mizlan/microscope.nvim](https://github.com/mizlan/microscope.nvim) - Small Telescope-esque picker thing
@@ -8114,6 +8133,7 @@
 
 ## Swift 
 
+- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API.
 - [SwiftyLinkerKit/SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
@@ -9578,6 +9598,7 @@
 
 ## Vue 
 
+- [6c65726f79/Transmissionic](https://github.com/6c65726f79/Transmissionic) - Remote for Transmission Daemon
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
