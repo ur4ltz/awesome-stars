@@ -201,6 +201,9 @@
 
 ## C 
 
+- [elbachir-one/dmenu](https://github.com/elbachir-one/dmenu) - Making this fork of dmenu even better than the original by incorporating patches such as centering and grid layout.
+- [elbachir-one/st](https://github.com/elbachir-one/st) - This is a fork of the suckless simple terminal (st), with additional fixes for mouse and Emoji compatibility.
+- [elbachir-one/dwm](https://github.com/elbachir-one/dwm) - This is my fork of dwm, the suckless window manager, with additional changes and patches such as fullgaps, swallow, and alpha transparency.
 - [TrevorSatori/dotfiles](https://github.com/TrevorSatori/dotfiles) - My DWM Build
 - [FT-Labs/pdwm](https://github.com/FT-Labs/pdwm) - full animation supported, easy configurable (uses shared library) dwm fork with a control center (pdwmc)
 - [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
@@ -1690,6 +1693,8 @@
 
 ## CSS 
 
+- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
+- [elbachir-one/dotfiles](https://github.com/elbachir-one/dotfiles) - My dotfiles
 - [B00merang-Project/Windows-3.11](https://github.com/B00merang-Project/Windows-3.11) - A GTK theme based on Windows 3.11 appearance
 - [AndreLZGava/font-awesome-extension](https://github.com/AndreLZGava/font-awesome-extension) - Simple Font Awesome Extension
 - [AndronixApp/docs](https://github.com/AndronixApp/docs) - 
@@ -3588,6 +3593,7 @@
 
 ## Lua 
 
+- [MaximilianLloyd/lazy-reload.nvim](https://github.com/MaximilianLloyd/lazy-reload.nvim) - A small utility for lazy.nvim to reload plugins.
 - [atusy/leap-search.nvim](https://github.com/atusy/leap-search.nvim) - 
 - [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
 - [ivan386/mag-maker](https://github.com/ivan386/mag-maker) - The script was originally written for use with the RHash program. He translated Sha1 hash from HEX to Base32 and collected a universal magnet from the hash link. Now the script has grown a bit.
@@ -6487,6 +6493,7 @@
 
 ## Python 
 
+- [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [altdesktop/python-dbus-next](https://github.com/altdesktop/python-dbus-next) - 🚌 The next great DBus library for Python with asyncio support
 - [altdesktop/i3-dstatus](https://github.com/altdesktop/i3-dstatus) - Another great statusline generator for i3wm
@@ -7465,6 +7472,7 @@
 
 ## Shell 
 
+- [bashmarklets/go-west](https://github.com/bashmarklets/go-west) - Bookmark often used directories and jump (go) to them at will
 - [UtkarshVerma/i3blocklets](https://github.com/UtkarshVerma/i3blocklets) - :pushpin: Custom scripts for i3blocks written in bash.
 - [quadpixels/classic95](https://github.com/quadpixels/classic95) - Modified Classic95 Icon Theme
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Generate chat bubble like widgets on screen via keystrokes on Linux
