@@ -201,6 +201,10 @@
 
 ## C 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+- [Toni500github/dwm](https://github.com/Toni500github/dwm) - My personal dwm build with patches (maybe unstable because i use this as backup)
+- [Toni500github/slstatus](https://github.com/Toni500github/slstatus) - personal slstatus build
+- [sipi/dwmstatus](https://github.com/sipi/dwmstatus) - status script for DWM bar
 - [elbachir-one/dmenu](https://github.com/elbachir-one/dmenu) - Making this fork of dmenu even better than the original by incorporating patches such as centering and grid layout.
 - [elbachir-one/st](https://github.com/elbachir-one/st) - This is a fork of the suckless simple terminal (st), with additional fixes for mouse and Emoji compatibility.
 - [elbachir-one/dwm](https://github.com/elbachir-one/dwm) - This is my fork of dwm, the suckless window manager, with additional changes and patches such as fullgaps, swallow, and alpha transparency.
@@ -800,7 +804,7 @@
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [groleo/mini_httpd](https://github.com/groleo/mini_httpd) - 
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
-- [winsiderss/phnt](https://github.com/winsiderss/phnt) - Native API header files for the Process Hacker project.
+- [winsiderss/phnt](https://github.com/winsiderss/phnt) - Native API header files for the System Informer project.
 - [processhacker/plugins-extra](https://github.com/processhacker/plugins-extra) - These are highly unstable, buggy, incomplete plugins that are not included with Process Hacker by default.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [geany/geany-plugins](https://github.com/geany/geany-plugins) - The combined Geany Plugins collection
@@ -3592,6 +3596,7 @@
 
 ## Lua 
 
+- [echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
 - [MaximilianLloyd/lazy-reload.nvim](https://github.com/MaximilianLloyd/lazy-reload.nvim) - A small utility for lazy.nvim to reload plugins.
 - [atusy/leap-search.nvim](https://github.com/atusy/leap-search.nvim) - 
 - [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
@@ -4920,8 +4925,8 @@
 - [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [Pocco81/high-str.nvim](https://github.com/Pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
-- [Vurich/stateful-lua](https://github.com/Vurich/stateful-lua) - A DSL for writing finite state machines in Lua (aimed towards game development). Based on UnrealScript's state construct. Allows single inheritance with the enter and exit functions being called the m
-- [Vurich/chat-lua](https://github.com/Vurich/chat-lua) - Proof-of-concept chat eDSL in Lua using coroutines
+- [eira-fransham/stateful-lua](https://github.com/eira-fransham/stateful-lua) - A DSL for writing finite state machines in Lua (aimed towards game development). Based on UnrealScript's state construct. Allows single inheritance with the enter and exit functions being called the m
+- [eira-fransham/chat-lua](https://github.com/eira-fransham/chat-lua) - Proof-of-concept chat eDSL in Lua using coroutines
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [winston0410/cmd-parser.nvim](https://github.com/winston0410/cmd-parser.nvim) - A command-line parser for neovim for plugin authors.
 - [eddyekofo94/gruvbox-flat.nvim](https://github.com/eddyekofo94/gruvbox-flat.nvim) - Another attempt of a flat Gruvbox theme for Neovim
@@ -5064,7 +5069,7 @@
 - [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
 - [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) - Bringing emacs' greatest feature to neovim - Tetris!
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go dev plugin, based on gopls, treesitter AST, Dap and a variety of go tools.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
 - [tanvirtin/.tin](https://github.com/tanvirtin/.tin) - My development configurations
@@ -5466,7 +5471,7 @@
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme generator that is "lite" on logic for the developer.
 - [mkflaher2/dotfiles](https://github.com/mkflaher2/dotfiles) - dotfiles for LCARS theme
-- [javacafe01/awesome](https://github.com/javacafe01/awesome) - configuration files for AwesomeWM
+- [javacafe01/awesome-config](https://github.com/javacafe01/awesome-config) - configuration files for AwesomeWM
 - [stetre/luamoulds](https://github.com/stetre/luamoulds) - A C-like typedef for Lua
 - [stetre/lunasdl](https://github.com/stetre/lunasdl) - SDL-oriented concurrency in Lua
 - [stetre/moonsc](https://github.com/stetre/moonsc) - Harel Statecharts in Lua
@@ -5967,6 +5972,7 @@
 
 ## Others 
 
+- [sipi/dwm-status2d](https://github.com/sipi/dwm-status2d) - patch for DWM that allows colors and draw rectangle in the DWM status bar
 - [beinganukul/dwm-multiple-dynamic-scratchpads](https://github.com/beinganukul/dwm-multiple-dynamic-scratchpads) - multiple dynamic scratchpad patch for dwm
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [kolarisk/AnalogWeather](https://github.com/kolarisk/AnalogWeather) - Analog Temp/Humidity/Barometer based on arduino
@@ -6081,8 +6087,8 @@
 - [peterw8102/vga-video](https://github.com/peterw8102/vga-video) - 8Bit VGA Video Card for my Z80 SBC
 - [condy0919/emacs-newbie](https://github.com/condy0919/emacs-newbie) - Introduction to Emacs
 - [dawikur/base16-gruvbox-scheme](https://github.com/dawikur/base16-gruvbox-scheme) - :traffic_light: Retro groove color scheme for the base16
-- [Vurich/ranger-kak](https://github.com/Vurich/ranger-kak) - Replacement Ranger integration after it was removed from Kakoune's default bundle
-- [Vurich/zig-kak](https://github.com/Vurich/zig-kak) - Kakoune syntax highlighting for Zig
+- [eira-fransham/ranger-kak](https://github.com/eira-fransham/ranger-kak) - Replacement Ranger integration after it was removed from Kakoune's default bundle
+- [eira-fransham/zig-kak](https://github.com/eira-fransham/zig-kak) - Kakoune syntax highlighting for Zig
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [braid-org/braid-spec](https://github.com/braid-org/braid-spec) - Working area for Braid extensions to HTTP
 - [dracula/sublime](https://github.com/dracula/sublime) - 🧛🏻‍♂️ Dark theme for Sublime Text
@@ -9668,7 +9674,7 @@
 - [glepnir/Zig-tutorial](https://github.com/glepnir/Zig-tutorial) - zig programming language tutorial
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder designed for filtering filepaths
 - [daurnimator/zig-autolua](https://github.com/daurnimator/zig-autolua) - Lua binding creator for zig
-- [Vurich/octahack-zig](https://github.com/Vurich/octahack-zig) - VCV/Max-style modular plug-anything-to-anything system, designed to be embedded free-standing in an Octatrack-style physical instrument
+- [eira-fransham/octahack-zig](https://github.com/eira-fransham/octahack-zig) - VCV/Max-style modular plug-anything-to-anything system, designed to be embedded free-standing in an Octatrack-style physical instrument
 - [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
