@@ -201,6 +201,12 @@
 
 ## C 
 
+- [ColumPaget/daytime](https://github.com/ColumPaget/daytime) - Aims to be a swiss-army-knife of setting system time. Supports setting time from http, nist time, daytime and (s)ntp protocols, and also from the command-line in a number of formats. Can also act as a
+- [ColumPaget/cxine](https://github.com/ColumPaget/cxine) - mostly MPlayer-compatible media player using libxine
+- [ColumPaget/fileferry](https://github.com/ColumPaget/fileferry) - 
+- [ColumPaget/libUseful](https://github.com/ColumPaget/libUseful) - Programmers 'C' library of functions for: resizable strings, file and network access, string tokenization, pattern matching, terminal output, etc, etc
+- [ryjer/opentracker](https://github.com/ryjer/opentracker) - [MIRROR]opentracker is a open and free bittorrent tracker project. It aims for minimal resource usage and is intended to run at your wlan router. Currently it is deployed as an open and free tracker i
+- [ColumPaget/term_wifi](https://github.com/ColumPaget/term_wifi) - command-line or terminal-menu wifi setup application targetting linux machines without X11 (servers etc)
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [Toni500github/dwm](https://github.com/Toni500github/dwm) - My personal dwm build with patches (maybe unstable because i use this as backup)
 - [Toni500github/slstatus](https://github.com/Toni500github/slstatus) - personal slstatus build
@@ -906,7 +912,7 @@
 - [Tangent128/luasdl2](https://github.com/Tangent128/luasdl2) - A pure C binding of SDL 2.0 for Lua 5.1, Lua 5.2, and LuaJIT.
 - [lighttpd/lighttpd1.4](https://github.com/lighttpd/lighttpd1.4) - lighttpd1.4 on github for easier collaboration - main repo still on lighttpd.net
 - [lighttpd/lighttpd2](https://github.com/lighttpd/lighttpd2) - lighttpd2 on github for easier collaboration - main repo still on lighttpd.net
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [jan0sch/Ion3](https://github.com/jan0sch/Ion3) - A tiling tabbed window manager designed for keyboard users. This repository is intended to make the last official ion3 release available because Tuomo has abandoned it.
 - [moetunes/Nextwm](https://github.com/moetunes/Nextwm) - snapwm is an easy to configure, dynamic, tiling window manager. Built on dminiwm with a desktop switcher, info bar and reloadable rc file.
 - [PhirePhly/aprx](https://github.com/PhirePhly/aprx) - A highly configurable APRS I-gate/Digipeater Daemon
@@ -1095,6 +1101,7 @@
 
 ## C++ 
 
+- [lightaprs/LightAPRS-W-2.0](https://github.com/lightaprs/LightAPRS-W-2.0) - Arduino based APRS & WSPR Tracker
 - [TrevorSatori/Leonardo](https://github.com/TrevorSatori/Leonardo) - Converting the Arduino Leonardo into a  human interface device (HID).
 - [UtkarshVerma/8-bit-computer](https://github.com/UtkarshVerma/8-bit-computer) - Contains programs and other stuff related to my build of Ben Eater's SAP 8-bit computer.
 - [UtkarshVerma/atmega328p-oled-asm](https://github.com/UtkarshVerma/atmega328p-oled-asm) - An AVR assembly project for playing any video on an OLED display using ATmega328P and an SD card.
@@ -1106,7 +1113,7 @@
 - [jarzebski/Arduino-DS3231](https://github.com/jarzebski/Arduino-DS3231) - DS3231 Real-Time-Clock
 - [majekw/optiboot](https://github.com/majekw/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [hecko/optiboot](https://github.com/hecko/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
-- [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator for 8-bit processors. Currently only supports Z80.
+- [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator and disassembler for 8-bit processors. Currently supports Z80.
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - Weather monitor v4.1 based on ESP8266
 - [himikat123/Wireless-sensor-on-ESP8266](https://github.com/himikat123/Wireless-sensor-on-ESP8266) - Wireless temperature/humidity/pressure/ambient light sensor based on ESP8266
@@ -2772,6 +2779,14 @@
 
 ## Go 
 
+- [iamwavecut/retracker](https://github.com/iamwavecut/retracker) - Simple local http torrent tracker written in Go
+- [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
+- [xgfone/go-bencode](https://github.com/xgfone/go-bencode) - A Go implementation of bencode, see [BitTorrent Protocol](http://www.bittorrent.org/beps/bep_0003.html).
+- [xgfone/bttools](https://github.com/xgfone/bttools) - A tool collection about BitTorrent.
+- [shiyanhui/dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
+- [xgfone/go-bt](https://github.com/xgfone/go-bt) - Another pure golang implementation of BitTorrent library.
+- [Ianleeclark/notorious](https://github.com/Ianleeclark/notorious) - Go: A feature-complete, performant torrent tracker
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -3596,6 +3611,36 @@
 
 ## Lua 
 
+- [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
+- [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
+- [calind/selenized.nvim](https://github.com/calind/selenized.nvim) - Selenized theme for neovim
+- [kiran94/maim.nvim](https://github.com/kiran94/maim.nvim) - Take Screenshots from Neovim
+- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
+- [ColumPaget/prosafe.lua](https://github.com/ColumPaget/prosafe.lua) - command-line management for netgear Prosafe switches
+- [ColumPaget/pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
+- [ColumPaget/pwned.lua](https://github.com/ColumPaget/pwned.lua) - NO LONGER WORKING: HaveIBeenPwned API is now pay-to-use
+- [ColumPaget/devart.lua](https://github.com/ColumPaget/devart.lua) - simple lua script to access deviantart API
+- [ColumPaget/sysmon.lua](https://github.com/ColumPaget/sysmon.lua) - Simple lua script that displays system info like cpu frequency and temperature for systems that lack a gui. Requires libUseful and libUseful-lua.
+- [ColumPaget/castclient.lua](https://github.com/ColumPaget/castclient.lua) - Simple podcast/bitchute client written in lua with libUseful-lua
+- [ColumPaget/releases.lua](https://github.com/ColumPaget/releases.lua) - Script that outputs recent software releases (taken from freshcode.club and fossies.org) and outputs it in xterm/console. Requires libUseful-lua
+- [ColumPaget/distroflash.lua](https://github.com/ColumPaget/distroflash.lua) - installer for multiboot usb using syslinux
+- [ColumPaget/menubuilder.lua](https://github.com/ColumPaget/menubuilder.lua) - A lua script that builds root menus for several window managers
+- [ColumPaget/barmaid.lua](https://github.com/ColumPaget/barmaid.lua) - A status-bar generation program for dzen2, lemonbar, or the terminal
+- [ColumPaget/almanac](https://github.com/ColumPaget/almanac) - A command-line webcalendar display app for unix systems. Written in lua using 'libUseful-lua'
+- [ColumPaget/fontporter](https://github.com/ColumPaget/fontporter) - download and install fonts from googlefonts and other sites
+- [ColumPaget/kickstarters.lua](https://github.com/ColumPaget/kickstarters.lua) - command-line search of kickstarter
+- [ColumPaget/vnc_mgr.lua](https://github.com/ColumPaget/vnc_mgr.lua) - vnc launcher menu using zenity/qarma/yad etc
+- [ColumPaget/screenrecord.lua](https://github.com/ColumPaget/screenrecord.lua) - simple ffmpeg screenrecord tool written in lua
+- [ColumPaget/vulnvisor.lua](https://github.com/ColumPaget/vulnvisor.lua) - Pulls software vulnerabilities feeds from NIST NVD, bugtraq and securityfocus and reports those matching a keyword list to standard out, or in an email sent to a single address. Requires libUseful and
+- [ColumPaget/untappd.lua](https://github.com/ColumPaget/untappd.lua) - script to monitor beers recently reported at a list of venues via untappd.com
+- [ColumPaget/boinc_mgr.lua](https://github.com/ColumPaget/boinc_mgr.lua) - Textmode manager for boinc that allows managing projects/tasks locally, over tcp, or over ssh
+- [ColumPaget/bluetooth_mgr.lua](https://github.com/ColumPaget/bluetooth_mgr.lua) - terminal menu interface to bluetoothctl
+- [ColumPaget/alsaswitcher.lua](https://github.com/ColumPaget/alsaswitcher.lua) - Crude cli/tui/gui ALSA device switcher
+- [ColumPaget/certtool.lua](https://github.com/ColumPaget/certtool.lua) - Another tool for doing basic openssl operations and creating self-signed certificates
+- [ColumPaget/treasury.lua](https://github.com/ColumPaget/treasury.lua) - simple secrets vault based around openssl
+- [ColumPaget/wallpaper_mgr.lua](https://github.com/ColumPaget/wallpaper_mgr.lua) - Download randomly selected wallpapers and display on x11 root window
+- [ColumPaget/gogcat.lua](https://github.com/ColumPaget/gogcat.lua) - 
+- [ColumPaget/transbt_mgr.lua](https://github.com/ColumPaget/transbt_mgr.lua) - Text mode (menus or command-line) frontend for a transmission bittorrent daemon
 - [echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
 - [MaximilianLloyd/lazy-reload.nvim](https://github.com/MaximilianLloyd/lazy-reload.nvim) - A small utility for lazy.nvim to reload plugins.
 - [atusy/leap-search.nvim](https://github.com/atusy/leap-search.nvim) - 
@@ -3898,7 +3943,7 @@
 - [LeonHeidelbach/trailblazer.nvim](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer enables you to seemlessly move through important project marks as quickly and efficiently as possible to make your workflow blazingly fast ™.
 - [ofirgall/commit-prefix.nvim](https://github.com/ofirgall/commit-prefix.nvim) - Insert prefix to commit message by branch name (JIRA ticket for example)
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
-- [OxygeNvim/OxygeNvim](https://github.com/OxygeNvim/OxygeNvim) - Neovim configuration for general development
+- [OxygeNvim/OxygeNvim](https://github.com/OxygeNvim/OxygeNvim) - Neovim configuration for all kinds of development with rock solid defaults! (STILL IN DEVELOPMENT)
 - [zdcthomas/yakko_wakko](https://github.com/zdcthomas/yakko_wakko) - DotFiles for macOS/Linux
 - [zdcthomas/easy-operator.nvim](https://github.com/zdcthomas/easy-operator.nvim) - 
 - [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) - make you some user operators for great good
@@ -4758,7 +4803,7 @@
 - [ionnux/dotfiles](https://github.com/ionnux/dotfiles) - 
 - [leoluz/nvim-dap-go](https://github.com/leoluz/nvim-dap-go) - An extension for nvim-dap providing configurations for launching go debugger (delve) and debugging individual tests
 - [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [wqferr/functional](https://github.com/wqferr/functional) - Functional programming utilities implemented in pure Lua.
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
@@ -4918,6 +4963,7 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, VSCode, ...
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -5151,7 +5197,6 @@
 - [Facepunch/garrysmod](https://github.com/Facepunch/garrysmod) - Sandbox mod for the Source Engine
 - [erietz/vim-voodoo](https://github.com/erietz/vim-voodoo) - :coconut: Voodoo color scheme
 - [itmecho/dotfiles-mac](https://github.com/itmecho/dotfiles-mac) - MacOS dotfiles
-- [jose-elias-alvarez/dotfiles](https://github.com/jose-elias-alvarez/dotfiles) - My dotfiles for Neovim, fish, tmux, and friends, optimized for web development on macOS.
 - [jose-elias-alvarez/buftabline.nvim](https://github.com/jose-elias-alvarez/buftabline.nvim) - A low-config, minimalistic buffer tabline Neovim plugin written in Lua.
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [philanc/plterm](https://github.com/philanc/plterm) - Pure Lua ANSI Terminal functions
@@ -5471,7 +5516,6 @@
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) - Create new "modes" for Neovim!
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme generator that is "lite" on logic for the developer.
 - [mkflaher2/dotfiles](https://github.com/mkflaher2/dotfiles) - dotfiles for LCARS theme
-- [javacafe01/awesome-config](https://github.com/javacafe01/awesome-config) - configuration files for AwesomeWM
 - [stetre/luamoulds](https://github.com/stetre/luamoulds) - A C-like typedef for Lua
 - [stetre/lunasdl](https://github.com/stetre/lunasdl) - SDL-oriented concurrency in Lua
 - [stetre/moonsc](https://github.com/stetre/moonsc) - Harel Statecharts in Lua
@@ -5972,6 +6016,7 @@
 
 ## Others 
 
+- [devCU/IPS-BitTracker](https://github.com/devCU/IPS-BitTracker) - Bit Torrent Tracker application for IPS 4.5x Community Suite
 - [sipi/dwm-status2d](https://github.com/sipi/dwm-status2d) - patch for DWM that allows colors and draw rectangle in the DWM status bar
 - [beinganukul/dwm-multiple-dynamic-scratchpads](https://github.com/beinganukul/dwm-multiple-dynamic-scratchpads) - multiple dynamic scratchpad patch for dwm
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
@@ -6498,11 +6543,14 @@
 
 ## Python 
 
+- [Songbee/tracker](https://github.com/Songbee/tracker) - A torrent server, generating torrent files on the fly and serving some statistics
+- [AnimMouse/atrack](https://github.com/AnimMouse/atrack) - a torrent tracker designed to run in Google App Engine
+- [OPSnet/Margay](https://github.com/OPSnet/Margay) - A tracker in the Leopardus family
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [altdesktop/python-dbus-next](https://github.com/altdesktop/python-dbus-next) - 🚌 The next great DBus library for Python with asyncio support
 - [altdesktop/i3-dstatus](https://github.com/altdesktop/i3-dstatus) - Another great statusline generator for i3wm
-- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API.
+- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [kamou/ncpass](https://github.com/kamou/ncpass) - Simple password cli tool for the nextcloud passwords app
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [platformio/platform-ststm32](https://github.com/platformio/platform-ststm32) - ST STM32: development platform for PlatformIO
@@ -7285,6 +7333,11 @@
 
 ## Rust 
 
+- [nvim-neorg/norgopolis](https://github.com/nvim-neorg/norgopolis) - A backend server and client for Norg related applications.
+- [lepton-rs/bencode](https://github.com/lepton-rs/bencode) - Serde library for working with Bencode efficiently
+- [naryand/bencode](https://github.com/naryand/bencode) - See https://github.com/lepton-rs/bencode
+- [naryand/bittorrent](https://github.com/naryand/bittorrent) - BitTorrent client from scratch in Rust
+- [naryand/mainline-dht](https://github.com/naryand/mainline-dht) - BitTorrent DHT protocol implementation (WIP)
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) - Use github code search within neovim
@@ -7704,7 +7757,6 @@
 - [TheNerdyHamster/dotfiles](https://github.com/TheNerdyHamster/dotfiles) - Mirror
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
 - [rbenv/rbenv-installer](https://github.com/rbenv/rbenv-installer) - Installer and doctor scripts for rbenv
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, VSCode, ...
 - [arks22/tmuximum](https://github.com/arks22/tmuximum) - A command support tmux
 - [chitoku-k/fzf-zsh-completions](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for fzf and Zsh (git, kubectl, docker, ...)
 - [yuki-yano/fzf-preview.zsh](https://github.com/yuki-yano/fzf-preview.zsh) - 
@@ -8212,6 +8264,7 @@
 
 ## TypeScript 
 
+- [yuki-yano/highlight-undo.nvim](https://github.com/yuki-yano/highlight-undo.nvim) - 
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
 - [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
@@ -8380,6 +8433,7 @@
 
 ## Vim Script 
 
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - Evangelion but for Vimmers
 - [MTDL9/vim-log-highlighting](https://github.com/MTDL9/vim-log-highlighting) - Syntax highlighting for generic log files in VIM
 - [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk) - hignlight chunk numbercolumn plug of nvim
