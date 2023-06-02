@@ -1101,6 +1101,7 @@
 
 ## C++ 
 
+- [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 - [lightaprs/LightAPRS-W-2.0](https://github.com/lightaprs/LightAPRS-W-2.0) - Arduino based APRS & WSPR Tracker
 - [TrevorSatori/Leonardo](https://github.com/TrevorSatori/Leonardo) - Converting the Arduino Leonardo into a  human interface device (HID).
 - [UtkarshVerma/8-bit-computer](https://github.com/UtkarshVerma/8-bit-computer) - Contains programs and other stuff related to my build of Ben Eater's SAP 8-bit computer.
@@ -1136,7 +1137,7 @@
 - [nickgammon/arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor
 - [gillham/logic_analyzer](https://github.com/gillham/logic_analyzer) - Implementation of a SUMP compatible logic analyzer for the Arduino
 - [felias-fogg/upAndDown](https://github.com/felias-fogg/upAndDown) - 
-- [felias-fogg/DotMatrix5x7](https://github.com/felias-fogg/DotMatrix5x7) - Arduino library for driving one 5x7 dot matrix display (using the timer1 interrupt)
+- [felias-fogg/DotMatrix5x7](https://github.com/felias-fogg/DotMatrix5x7) - Arduino library for driving one 5x7 dot matrix display (using timer0 or timer1 interrupt)
 - [felias-fogg/Vcc](https://github.com/felias-fogg/Vcc) - A library for measuring the supply voltage of an AVR MCU
 - [greiman/SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
 - [PaulStoffregen/SPI](https://github.com/PaulStoffregen/SPI) - SPI library for Teensy & Arduino IDE
@@ -3297,6 +3298,7 @@
 
 ## JavaScript 
 
+- [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [takahirox/nes-js](https://github.com/takahirox/nes-js) - JavaScript NES(Famicom) emulator
 - [Mshakir-Git/Quantumjs](https://github.com/Mshakir-Git/Quantumjs) - Terminal game engine
 - [cncjs/cncjs](https://github.com/cncjs/cncjs) - A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.
@@ -3611,6 +3613,10 @@
 
 ## Lua 
 
+- [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
+- [NvChad/extensions](https://github.com/NvChad/extensions) - extensions for NvChad
+- [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
+- [NvChad/basic-config](https://github.com/NvChad/basic-config) - Minimal neovim config for beginners  &lt; 380 ~ LOC
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [calind/selenized.nvim](https://github.com/calind/selenized.nvim) - Selenized theme for neovim
@@ -3639,7 +3645,7 @@
 - [ColumPaget/certtool.lua](https://github.com/ColumPaget/certtool.lua) - Another tool for doing basic openssl operations and creating self-signed certificates
 - [ColumPaget/treasury.lua](https://github.com/ColumPaget/treasury.lua) - simple secrets vault based around openssl
 - [ColumPaget/wallpaper_mgr.lua](https://github.com/ColumPaget/wallpaper_mgr.lua) - Download randomly selected wallpapers and display on x11 root window
-- [ColumPaget/gogcat.lua](https://github.com/ColumPaget/gogcat.lua) - 
+- [ColumPaget/gogcat.lua](https://github.com/ColumPaget/gogcat.lua) - search for games on gog.com
 - [ColumPaget/transbt_mgr.lua](https://github.com/ColumPaget/transbt_mgr.lua) - Text mode (menus or command-line) frontend for a transmission bittorrent daemon
 - [echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
 - [MaximilianLloyd/lazy-reload.nvim](https://github.com/MaximilianLloyd/lazy-reload.nvim) - A small utility for lazy.nvim to reload plugins.
@@ -3674,7 +3680,7 @@
 - [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - Ranger plugin for neovim
 - [Cassin01/wf.nvim](https://github.com/Cassin01/wf.nvim) - A modern which-key for neovim
 - [imNel/monorepo.nvim](https://github.com/imNel/monorepo.nvim) - An effective way to juggle monorepos in neovim
-- [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) - Practice your nvim keybinding configuration for a boost in productivity.
+- [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) - Practice your nvim setup for a boost in productivity.
 - [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects.
 - [KostkaBrukowa/definition-or-references.nvim](https://github.com/KostkaBrukowa/definition-or-references.nvim) - 
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
@@ -4303,7 +4309,6 @@
 - [pltanton/net_widgets](https://github.com/pltanton/net_widgets) - Network widgets for Awesome WM
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - Use your favorite machine translation engines without having to leave your favorite editor.
 - [eddyekofo94/bogster.nvim](https://github.com/eddyekofo94/bogster.nvim) - Another Neovim colorscheme
-- [eddyekofo94/gruvbox-material.nvim](https://github.com/eddyekofo94/gruvbox-material.nvim) - A fork of Gruvbox material but now into Neovim.
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) - Neovim (Lua powered) Network Resource Manager
 - [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) - Neovim plugin to read, write and post articles on Forem platforms like dev.to
 - [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) - An extension for telescope.nvim that allows you to search emojis😃
@@ -5322,7 +5327,7 @@
 - [22mahmoud/nvim](https://github.com/22mahmoud/nvim) - 
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars and signs.
 - [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of fzf fuzzy search for the neovim built in lsp
 - [liquidev/lintplus](https://github.com/liquidev/lintplus) - An improved linting plugin for the lite text editor.
 - [jbyuki/ntangle-lsp.nvim](https://github.com/jbyuki/ntangle-lsp.nvim) - Integration with LSP in ntangle.nvim
@@ -6088,7 +6093,6 @@
 - [shaunsingh/base16-doom-vibrant](https://github.com/shaunsingh/base16-doom-vibrant) - 
 - [shaunsingh/base16-nanodark-scheme](https://github.com/shaunsingh/base16-nanodark-scheme) - 
 - [nyoom-engineering/base16-oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) - The base16 dark and light versions of oxocarbon, inspired by IBM Carbon
-- [MichalPlacek/fedora-config](https://github.com/MichalPlacek/fedora-config) - 
 - [jamesmarlowe/empty-luarocks](https://github.com/jamesmarlowe/empty-luarocks) - empty repository for use in luarocks source url
 - [JanoVel/lm324_soldering_station](https://github.com/JanoVel/lm324_soldering_station) - The KiCad project of the lm324 soldering station described in this post: http://electronics.vlzqz.com/analog-closed-loop-controlled-soldering-station.html
 - [JanoVel/Monocchino](https://github.com/JanoVel/Monocchino) - A dark theme for Arduino: Monokai + Arduino/Genuino
@@ -6460,7 +6464,7 @@
 - [igorsimdyanov/php7](https://github.com/igorsimdyanov/php7) - Примеры к книге "PHP 7. Котеров Д., Симдянов И."
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server) - PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
 - [bakoontz/WikkaWiki](https://github.com/bakoontz/WikkaWiki) - This version (1.4.2) marks the end-of-life for WikkaWiki (see README.md for details).
-- [gerardroche/sublime-monokai-free](https://github.com/gerardroche/sublime-monokai-free) - A beautiful, modern, high quality, Monokai theme for Sublime Text 3.
+- [gerardroche/sublime-monokai-free](https://github.com/gerardroche/sublime-monokai-free) - An enhanced version of the Monokai color scheme bundled with Sublime Text.
 - [wtorrent/wtorrent](https://github.com/wtorrent/wtorrent) - wTorrent
 - [jgmdev/fossilize](https://github.com/jgmdev/fossilize) - A small php script to manage fossil repositories hosted on a web server.
 - [jrconlin/oauthsimple](https://github.com/jrconlin/oauthsimple) - Simple, standardized OAuth signature generator
@@ -6543,6 +6547,8 @@
 
 ## Python 
 
+- [SimplyAhmazing/bittorrent-client](https://github.com/SimplyAhmazing/bittorrent-client) - An ahmazing BitTorrent client.
+- [SimplyAhmazing/BatTorrent](https://github.com/SimplyAhmazing/BatTorrent) - A Bittorrent Client written using Python Asyncio
 - [Songbee/tracker](https://github.com/Songbee/tracker) - A torrent server, generating torrent files on the fly and serving some statistics
 - [AnimMouse/atrack](https://github.com/AnimMouse/atrack) - a torrent tracker designed to run in Google App Engine
 - [OPSnet/Margay](https://github.com/OPSnet/Margay) - A tracker in the Leopardus family
@@ -7333,6 +7339,7 @@
 
 ## Rust 
 
+- [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
 - [nvim-neorg/norgopolis](https://github.com/nvim-neorg/norgopolis) - A backend server and client for Norg related applications.
 - [lepton-rs/bencode](https://github.com/lepton-rs/bencode) - Serde library for working with Bencode efficiently
 - [naryand/bencode](https://github.com/naryand/bencode) - See https://github.com/lepton-rs/bencode
@@ -7653,7 +7660,6 @@
 - [pwittchen/tmux-plugin-ip](https://github.com/pwittchen/tmux-plugin-ip) - tmux plugin showing IP number
 - [anuvyklack/dotfiles](https://github.com/anuvyklack/dotfiles) - Ansible driven dotfiles.
 - [zim0369/bspwm_i3size](https://github.com/zim0369/bspwm_i3size) - i3 like resizing in bspwm
-- [MichalPlacek/endeavouros-config](https://github.com/MichalPlacek/endeavouros-config) - 
 - [MichalPlacek/manjaro-i3-tunning](https://github.com/MichalPlacek/manjaro-i3-tunning) - 
 - [MichalPlacek/opensuse-i3-tuning](https://github.com/MichalPlacek/opensuse-i3-tuning) - opensuse & i3 - configs & changes
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
