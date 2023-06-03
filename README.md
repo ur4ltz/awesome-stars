@@ -201,6 +201,7 @@
 
 ## C 
 
+- [ViliamKovac1223/dwm-ViliamKovac1223-build](https://github.com/ViliamKovac1223/dwm-ViliamKovac1223-build) - dwm is a dynamic window manager for X.
 - [ColumPaget/daytime](https://github.com/ColumPaget/daytime) - Aims to be a swiss-army-knife of setting system time. Supports setting time from http, nist time, daytime and (s)ntp protocols, and also from the command-line in a number of formats. Can also act as a
 - [ColumPaget/cxine](https://github.com/ColumPaget/cxine) - mostly MPlayer-compatible media player using libxine
 - [ColumPaget/fileferry](https://github.com/ColumPaget/fileferry) - 
@@ -1346,7 +1347,7 @@
 - [MCUdude/MiniCore](https://github.com/MCUdude/MiniCore) - Arduino hardware package for ATmega8, ATmega48, ATmega88, ATmega168, ATmega328 and ATmega328PB
 - [colorer/Colorer-library](https://github.com/colorer/Colorer-library) - Syntax  highlighting  and text parsing library
 - [colorer/FarColorer](https://github.com/colorer/FarColorer) - Syntax highlighting plugin for FAR Manager.
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - format lua code and check lua code style
 - [wmww/wmwwStatusline](https://github.com/wmww/wmwwStatusline) - A configurable Linux statusline written in C++ designed for use with sway and i3
 - [electric-sheep-co/arduino-redis](https://github.com/electric-sheep-co/arduino-redis) - A Redis client library for Arduino.
@@ -3125,7 +3126,6 @@
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
 - [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
-- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -3999,6 +3999,7 @@
 - [cvigilv/esqueleto.nvim](https://github.com/cvigilv/esqueleto.nvim) - Reduce your boilerplate code the lazy-bones way
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [jgm/lcmark](https://github.com/jgm/lcmark) - Flexible CommonMark converter
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [mawkler/onedark.nvim](https://github.com/mawkler/onedark.nvim) - Atom's iconic One Dark theme for Neovim, written in Lua
 - [mawkler/nvim](https://github.com/mawkler/nvim) - My Neovim configuration
 - [camgraff/telescope-tmux.nvim](https://github.com/camgraff/telescope-tmux.nvim) - Integration for tmux with telescope.nvim
@@ -5020,7 +5021,7 @@
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 - [kuznetsss/nvim_lua_config](https://github.com/kuznetsss/nvim_lua_config) - Neovim lua config
 - [kuznetsss/meadow-nvim](https://github.com/kuznetsss/meadow-nvim) - Dark colorscheme for nvim 0.5+ written in lua
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [takase1121/lite-plugin-manager](https://github.com/takase1121/lite-plugin-manager) - A little plugin-manager thingy for lite
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
 - [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
@@ -5236,7 +5237,7 @@
 - [noma4i/lua-api-client](https://github.com/noma4i/lua-api-client) - Lua REST API Client
 - [folknor/lua-github](https://github.com/folknor/lua-github) - lua-curl wrapper for the GitHub ReST API v3.
 - [beauwilliams/Dotfiles](https://github.com/beauwilliams/Dotfiles) - Well documented awesome dotfiles 😍 Many neovim lua configs, handy zsh/bash functions, fzf functions + more
-- [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
+- [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!
 - [Igalia/pflua](https://github.com/Igalia/pflua) - Packet filtering in Lua
 - [windwp/nvim-projectconfig](https://github.com/windwp/nvim-projectconfig) - neovim projectconfig
@@ -7047,7 +7048,7 @@
 - [Daguhh/ConkyLuaMakerGUIv2](https://github.com/Daguhh/ConkyLuaMakerGUIv2) - An interactive GUI to generate lua conky
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [aziz/DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - SublimeText "Distraction free mode" but not full-screen! A windowed UI is more manageable and accessible yet it can be simple and sublime!
-- [NeoVintageous/NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Vim for Sublime Text.
+- [NeoVintageous/NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Vim for Sublime Text. An advanced Vim emulation layer for Sublime Text.
 - [matiasmorant/SublimeDebugger](https://github.com/matiasmorant/SublimeDebugger) - Graphical Debugger for Sublime Text
 - [marxin/neo-rtags](https://github.com/marxin/neo-rtags) - Rtags client for neovim
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -8439,6 +8440,7 @@
 
 ## Vim Script 
 
+- [edubart/nelua-vim](https://github.com/edubart/nelua-vim) - Vim plugin for Nelua, originally created by Stefanos
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - Evangelion but for Vimmers
 - [MTDL9/vim-log-highlighting](https://github.com/MTDL9/vim-log-highlighting) - Syntax highlighting for generic log files in VIM
