@@ -1408,7 +1408,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.11: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3613,6 +3613,10 @@
 
 ## Lua 
 
+- [coffebar/dim.lua](https://github.com/coffebar/dim.lua) - dim is a lua plugin for neovim to dim the unused variables and functions using lsp and treesitter.
+- [coffebar/project.nvim](https://github.com/coffebar/project.nvim) - The superior project management solution for neovim.
+- [dapc11/telescope-yaml.nvim](https://github.com/dapc11/telescope-yaml.nvim) - Telescope extension for fuzzy finding YAML files
+- [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL for Neovim, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat (without `vim-repeat`).
 - [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [NvChad/extensions](https://github.com/NvChad/extensions) - extensions for NvChad
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
@@ -5992,6 +5996,7 @@
 
 ## OCaml 
 
+- [SquidDev/illuaminate](https://github.com/SquidDev/illuaminate) - Very WIP static analysis for Lua
 - [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon
 - [raboof/zshprof](https://github.com/raboof/zshprof) - zsh script profiling
 
@@ -7539,6 +7544,7 @@
 
 ## Shell 
 
+- [coffebar/conky-move](https://github.com/coffebar/conky-move) - Shifts conky horizontal position depending on window positions on the current workspace
 - [bashmarklets/go-west](https://github.com/bashmarklets/go-west) - Bookmark often used directories and jump (go) to them at will
 - [UtkarshVerma/i3blocklets](https://github.com/UtkarshVerma/i3blocklets) - :pushpin: Custom scripts for i3blocks written in bash.
 - [quadpixels/classic95](https://github.com/quadpixels/classic95) - Modified Classic95 Icon Theme
