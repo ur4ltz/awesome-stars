@@ -3126,6 +3126,7 @@
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
 - [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -3613,10 +3614,12 @@
 
 ## Lua 
 
+- [tdfacer/explain-it.nvim](https://github.com/tdfacer/explain-it.nvim) - 
+- [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view) - A neovim plugin to display lsp hover documentation in a side panel.
 - [coffebar/dim.lua](https://github.com/coffebar/dim.lua) - dim is a lua plugin for neovim to dim the unused variables and functions using lsp and treesitter.
 - [coffebar/project.nvim](https://github.com/coffebar/project.nvim) - The superior project management solution for neovim.
 - [dapc11/telescope-yaml.nvim](https://github.com/dapc11/telescope-yaml.nvim) - Telescope extension for fuzzy finding YAML files
-- [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL for Neovim, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat (without `vim-repeat`).
+- [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL for Neovim, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without vim-repeat.
 - [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [NvChad/extensions](https://github.com/NvChad/extensions) - extensions for NvChad
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
@@ -4003,7 +4006,6 @@
 - [cvigilv/esqueleto.nvim](https://github.com/cvigilv/esqueleto.nvim) - Reduce your boilerplate code the lazy-bones way
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [jgm/lcmark](https://github.com/jgm/lcmark) - Flexible CommonMark converter
-- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [mawkler/onedark.nvim](https://github.com/mawkler/onedark.nvim) - Atom's iconic One Dark theme for Neovim, written in Lua
 - [mawkler/nvim](https://github.com/mawkler/nvim) - My Neovim configuration
 - [camgraff/telescope-tmux.nvim](https://github.com/camgraff/telescope-tmux.nvim) - Integration for tmux with telescope.nvim
@@ -6027,6 +6029,8 @@
 
 ## Others 
 
+- [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
+- [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
 - [devCU/IPS-BitTracker](https://github.com/devCU/IPS-BitTracker) - Bit Torrent Tracker application for IPS 4.5x Community Suite
 - [sipi/dwm-status2d](https://github.com/sipi/dwm-status2d) - patch for DWM that allows colors and draw rectangle in the DWM status bar
 - [beinganukul/dwm-multiple-dynamic-scratchpads](https://github.com/beinganukul/dwm-multiple-dynamic-scratchpads) - multiple dynamic scratchpad patch for dwm
