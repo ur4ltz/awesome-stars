@@ -1514,7 +1514,7 @@
 - [Alcaro/GitBSLR](https://github.com/Alcaro/GitBSLR) - Make Git follow symlinks
 - [Testato/SoftwareWire](https://github.com/Testato/SoftwareWire) - Creates a software I2C/TWI bus on every pins
 - [felias-fogg/SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) - 
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and 
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++14 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and 
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [etherkit/MenuArduino](https://github.com/etherkit/MenuArduino) - A generic menu system to be used with a display on an Arduino
 - [scmrtos/scmrtos](https://github.com/scmrtos/scmrtos) - scmRTOS embedded operating system
@@ -1691,6 +1691,7 @@
 
 ## CMake 
 
+- [nmeum/android-tools](https://github.com/nmeum/android-tools) - Unoffical CMake-based build system for android command line utilities
 - [ximtech/TM1637](https://github.com/ximtech/TM1637) - TM1637 chip is driver for 4 digit 7-segment display modules
 - [ilyachur/Arduino-CMake-Toolchain](https://github.com/ilyachur/Arduino-CMake-Toolchain) - CMake toolchain for all Arduino compatible boards
 - [bkaradzic/bgfx.cmake](https://github.com/bkaradzic/bgfx.cmake) - CMake build scripts for bgfx. Released under public domain.
@@ -1853,6 +1854,7 @@
 
 ## Dart 
 
+- [nacro90/Groen](https://github.com/nacro90/Groen) - Neorg mobile app inspired by Obsidian
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter) - A ruTorrent-based client in Flutter
 
@@ -2781,6 +2783,7 @@
 
 ## Go 
 
+- [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
 - [iamwavecut/retracker](https://github.com/iamwavecut/retracker) - Simple local http torrent tracker written in Go
 - [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
 - [xgfone/go-bencode](https://github.com/xgfone/go-bencode) - A Go implementation of bencode, see [BitTorrent Protocol](http://www.bittorrent.org/beps/bep_0003.html).
@@ -3614,12 +3617,14 @@
 
 ## Lua 
 
-- [tdfacer/explain-it.nvim](https://github.com/tdfacer/explain-it.nvim) - 
+- [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
+- [max397574/omega-nvim](https://github.com/max397574/omega-nvim) - config
+- [tdfacer/explain-it.nvim](https://github.com/tdfacer/explain-it.nvim) - Simple and effective AI integration with your favorite Neovim text editor! Ask a question, and let robots expl[AI]n-it!
 - [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view) - A neovim plugin to display lsp hover documentation in a side panel.
 - [coffebar/dim.lua](https://github.com/coffebar/dim.lua) - dim is a lua plugin for neovim to dim the unused variables and functions using lsp and treesitter.
 - [coffebar/project.nvim](https://github.com/coffebar/project.nvim) - The superior project management solution for neovim.
 - [dapc11/telescope-yaml.nvim](https://github.com/dapc11/telescope-yaml.nvim) - Telescope extension for fuzzy finding YAML files
-- [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL for Neovim, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without vim-repeat.
+- [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, telescope integration, and native dot repeat without vim-repeat.
 - [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [NvChad/extensions](https://github.com/NvChad/extensions) - extensions for NvChad
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
@@ -4101,7 +4106,7 @@
 - [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [notomo/piemenu.nvim](https://github.com/notomo/piemenu.nvim) - Pie menu plugin for neovim
 - [meznaric/conmenu](https://github.com/meznaric/conmenu) - Powerful but minimal context menu plugin for neovim.
@@ -4292,7 +4297,6 @@
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
 - [lvim-tech/lvim-dependencies](https://github.com/lvim-tech/lvim-dependencies) - 
 - [lvim-tech/lvim-kbrd](https://github.com/lvim-tech/lvim-kbrd) - 
-- [lvim-tech/lvim-projects](https://github.com/lvim-tech/lvim-projects) - 
 - [lvim-tech/lvim-move](https://github.com/lvim-tech/lvim-move) - 
 - [lvim-tech/lvim-winbar](https://github.com/lvim-tech/lvim-winbar) - 
 - [lvim-tech/lvim-org-utils](https://github.com/lvim-tech/lvim-org-utils) - 
@@ -4923,7 +4927,7 @@
 - [mizlan/vis-config](https://github.com/mizlan/vis-config) - 
 - [mizlan/microscope.nvim](https://github.com/mizlan/microscope.nvim) - Small Telescope-esque picker thing
 - [mizlan/transient](https://github.com/mizlan/transient) - transient for neovim (MVP but neogit exists)
-- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 - [stevearc/qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim) - A collection of improvements for the quickfix buffer
 - [lvim-tech/lvim-helper](https://github.com/lvim-tech/lvim-helper) - LVIM HELPER - Neovim plugin written in Lua. Show your custom help files.
 - [stevearc/flow-coverage.nvim](https://github.com/stevearc/flow-coverage.nvim) - Neovim plugin to display flow type coverage information
@@ -6029,6 +6033,7 @@
 
 ## Others 
 
+- [SevorisDoe/Norgberg](https://github.com/SevorisDoe/Norgberg) - Norgberg is the database services module for Neorg, providing fast document data caching and module state storage.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
 - [devCU/IPS-BitTracker](https://github.com/devCU/IPS-BitTracker) - Bit Torrent Tracker application for IPS 4.5x Community Suite
@@ -6036,7 +6041,7 @@
 - [beinganukul/dwm-multiple-dynamic-scratchpads](https://github.com/beinganukul/dwm-multiple-dynamic-scratchpads) - multiple dynamic scratchpad patch for dwm
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [kolarisk/AnalogWeather](https://github.com/kolarisk/AnalogWeather) - Analog Temp/Humidity/Barometer based on arduino
-- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Android external keyboard layout customization without root.
+- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts.
 - [stefanrueger/urboot.hex](https://github.com/stefanrueger/urboot.hex) - Pre-compiled urboot bootloaders
 - [roybaer/sduino_uno](https://github.com/roybaer/sduino_uno) - A development board with STM8S105K6 MCU in Arduino UNO form factor
 - [roybaer/sduino_mb](https://github.com/roybaer/sduino_mb) - A development board with STM8S208MB MCU in Arduino MEGA form factor
@@ -6557,6 +6562,7 @@
 
 ## Python 
 
+- [poe-platform/poe-protocol](https://github.com/poe-platform/poe-protocol) - The Poe bot protocol
 - [SimplyAhmazing/bittorrent-client](https://github.com/SimplyAhmazing/bittorrent-client) - An ahmazing BitTorrent client.
 - [SimplyAhmazing/BatTorrent](https://github.com/SimplyAhmazing/BatTorrent) - A Bittorrent Client written using Python Asyncio
 - [Songbee/tracker](https://github.com/Songbee/tracker) - A torrent server, generating torrent files on the fly and serving some statistics
@@ -7057,12 +7063,11 @@
 - [Daguhh/ConkyLuaMakerGUIv2](https://github.com/Daguhh/ConkyLuaMakerGUIv2) - An interactive GUI to generate lua conky
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [aziz/DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - SublimeText "Distraction free mode" but not full-screen! A windowed UI is more manageable and accessible yet it can be simple and sublime!
-- [NeoVintageous/NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Vim for Sublime Text. An advanced Vim emulation layer for Sublime Text.
+- [NeoVintageous/NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Vim for Sublime Text. An advanced Vim emulation layer for Sublime Text. The premier Sublime Text Vim engine.
 - [matiasmorant/SublimeDebugger](https://github.com/matiasmorant/SublimeDebugger) - Graphical Debugger for Sublime Text
 - [marxin/neo-rtags](https://github.com/marxin/neo-rtags) - Rtags client for neovim
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-- [neg-serg/negwm](https://github.com/neg-serg/negwm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
 - [pyroscope/pyrobase](https://github.com/pyroscope/pyrobase) - :package: General Python Helpers and Utilities
 - [pyroscope/pyrocore](https://github.com/pyroscope/pyrocore) - :wrench: A collection of tools for the BitTorrent protocol and especially the rTorrent client
 - [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text
@@ -8198,6 +8203,7 @@
 - [dcasella/monokai-plusplus](https://github.com/dcasella/monokai-plusplus) - A modern Monokai theme for Sublime Text 3 and Visual Studio Code
 - [aperezdc/dotfiles](https://github.com/aperezdc/dotfiles) - Personal configuration files I often use in my - may contain useful snippets for you as well, YMMV.
 - [vifon/deer](https://github.com/vifon/deer) - ranger-like file navigation for zsh
+- [neg-serg/negwm](https://github.com/neg-serg/negwm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
 - [jimeh/dotfiles](https://github.com/jimeh/dotfiles) - My personals dotfiles with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.
 - [pyroscope/pimp-my-box](https://github.com/pyroscope/pimp-my-box) - :seedling: Automated seedbox install of rTorrent-PS and PyroScope CLI etc. via Ansible.
 - [elentok/dotfiles](https://github.com/elentok/dotfiles) - My dotfiles
@@ -8216,7 +8222,7 @@
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
-- [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - 
+- [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - A small collection of conky configs
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [niXman/mingw-builds](https://github.com/niXman/mingw-builds) - Scripts for building the 32 and 64-bit MinGW-W64 compilers for Windows
