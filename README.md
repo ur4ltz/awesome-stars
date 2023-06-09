@@ -265,7 +265,7 @@
 - [MahdaSystem/TM1638](https://github.com/MahdaSystem/TM1638) - TM1638 driver for AVR (ATmega32), STM32 (HAL) and ESP32 (esp-idf)
 - [gavinlyonsrepo/NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT) - ASCII text  Library for the Nokia 5110 LCD ( PCD8544 controller) for the Arduino microcontroller eco-system. Nine ASCII text fonts of various sizes .  Designed to be light weight, low memory footprint
 - [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles) - Function and form
-- [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of st with proper scrolling support, text reflow and a few other additions.
+- [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of the suckless terminal with proper scrolling support, text reflow and a few other additions.
 - [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be configured in C.
 - [ashish-yadav11/dwm](https://github.com/ashish-yadav11/dwm) - My personal fork of dwm with several tweaks, added features and improvements (most of them original).
 - [ashish-yadav11/dwmblocks](https://github.com/ashish-yadav11/dwmblocks) - Rewrite of dwmblocks with added features including clickability, cursor hinting and color.
@@ -1102,6 +1102,7 @@
 
 ## C++ 
 
+- [jake-stewart/jfind](https://github.com/jake-stewart/jfind) - 
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 - [lightaprs/LightAPRS-W-2.0](https://github.com/lightaprs/LightAPRS-W-2.0) - Arduino based APRS & WSPR Tracker
 - [TrevorSatori/Leonardo](https://github.com/TrevorSatori/Leonardo) - Converting the Arduino Leonardo into a  human interface device (HID).
@@ -2783,6 +2784,7 @@
 
 ## Go 
 
+- [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
 - [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
 - [iamwavecut/retracker](https://github.com/iamwavecut/retracker) - Simple local http torrent tracker written in Go
 - [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
@@ -2990,7 +2992,6 @@
 - [flatinum97/hummingbird](https://github.com/flatinum97/hummingbird) - Tiny HTTP server written in Go
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [storozhukBM/verifier](https://github.com/storozhukBM/verifier) - Package verifier provides simple defensive programing primitives.
-- [go-safe/safestd](https://github.com/go-safe/safestd) - WIP
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [x-motemen/gobump](https://github.com/x-motemen/gobump) - Bumps up Go program version
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
@@ -3617,6 +3618,7 @@
 
 ## Lua 
 
+- [jake-stewart/jfind.nvim](https://github.com/jake-stewart/jfind.nvim) - 
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [max397574/omega-nvim](https://github.com/max397574/omega-nvim) - config
 - [tdfacer/explain-it.nvim](https://github.com/tdfacer/explain-it.nvim) - Simple and effective AI integration with your favorite Neovim text editor! Ask a question, and let robots expl[AI]n-it!
