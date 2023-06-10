@@ -1180,7 +1180,7 @@
 - [mcauser/TM1637-led-driver-7-segment](https://github.com/mcauser/TM1637-led-driver-7-segment) - Arduino library for TM1637, used in the Grove 4 Digit Display
 - [adamvotocek/3DprintedAlarmClock](https://github.com/adamvotocek/3DprintedAlarmClock) - This is a an alarm clock made from an Arduino Nano, DS3231, TM1637, some buttons, an LED and a buzzer.
 - [AbhishekGhosh/Arduino-Buzzer-Tone-Codes](https://github.com/AbhishekGhosh/Arduino-Buzzer-Tone-Codes) - Some Collected Arduino Buzzer Tone Codes
-- [andres-garcia-alves/electronic-vibratory-tumbler](https://github.com/andres-garcia-alves/electronic-vibratory-tumbler) - Arduino code for a time-controlled vibratory tumbler.
+- [andres-garcia-alves/electronics-vibratory-tumbler](https://github.com/andres-garcia-alves/electronics-vibratory-tumbler) - Arduino code for a time-controlled vibratory tumbler.
 - [adamkovesdi/bedsideclock](https://github.com/adamkovesdi/bedsideclock) - ESP8266 based 7 segment display clock with NTP
 - [oliverfindl/arduino-uno-temperature-monitor](https://github.com/oliverfindl/arduino-uno-temperature-monitor) - Source code for simple temperature monitor built with Arduino UNO board, DS18B20 temperature sensor, TM1637 display and signal LED.
 - [JAndrassy/SunriseClock](https://github.com/JAndrassy/SunriseClock) - A light 'alarm' clock designed for gentle wake-up with increasing light intensity.
@@ -3618,6 +3618,8 @@
 
 ## Lua 
 
+- [dasupradyumna/nvim](https://github.com/dasupradyumna/nvim) - NeoVim portable config
+- [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) - A pleasant black theme for modern NeoVim; with support for LSP, treesitter and common plugins.
 - [jake-stewart/jfind.nvim](https://github.com/jake-stewart/jfind.nvim) - 
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [max397574/omega-nvim](https://github.com/max397574/omega-nvim) - config
