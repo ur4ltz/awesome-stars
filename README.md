@@ -201,6 +201,7 @@
 
 ## C 
 
+- [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
 - [ViliamKovac1223/dwm-ViliamKovac1223-build](https://github.com/ViliamKovac1223/dwm-ViliamKovac1223-build) - dwm is a dynamic window manager for X.
 - [ColumPaget/daytime](https://github.com/ColumPaget/daytime) - Aims to be a swiss-army-knife of setting system time. Supports setting time from http, nist time, daytime and (s)ntp protocols, and also from the command-line in a number of formats. Can also act as a
 - [ColumPaget/cxine](https://github.com/ColumPaget/cxine) - mostly MPlayer-compatible media player using libxine
@@ -3618,6 +3619,7 @@
 
 ## Lua 
 
+- [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) - Dumb automatic fast indentation detection for Neovim written in Lua
 - [dasupradyumna/nvim](https://github.com/dasupradyumna/nvim) - NeoVim portable config
 - [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) - A pleasant black theme for modern NeoVim; with support for LSP, treesitter and common plugins.
 - [jake-stewart/jfind.nvim](https://github.com/jake-stewart/jfind.nvim) - 
@@ -3940,7 +3942,7 @@
 - [stevearc/three.nvim](https://github.com/stevearc/three.nvim) - Neovim plugin for working with buffers, windows, and tabs
 - [arturgoms/nvim](https://github.com/arturgoms/nvim) - My own neovim config
 - [arturgoms/moonbow.nvim](https://github.com/arturgoms/moonbow.nvim) - Moonbow is a theme for nvim inspired by Gruvbox and Ayu dark
-- [LunarVim/github.nvim](https://github.com/LunarVim/github.nvim) - 
+- [LunarVim/primer.nvim](https://github.com/LunarVim/primer.nvim) - 
 - [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
 - [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) - 🌐 A Neovim plugin to show the currently selected node type from lsp and treesitter information
 - [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) - Truecolor solarized theme for neovim in Lua using colorbuddy
@@ -4366,6 +4368,7 @@
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
 - [Vonr/align.nvim](https://github.com/Vonr/align.nvim) - A minimal plugin for NeoVim for aligning lines
+- [anuvyklack/dotfiles](https://github.com/anuvyklack/dotfiles) - Ansible driven dotfiles.
 - [Arjun31415/myConky](https://github.com/Arjun31415/myConky) - 
 - [Arjun31415/BuildTask.nvim](https://github.com/Arjun31415/BuildTask.nvim) - Neovim lua plugin for running tasks from task.json file
 - [Arjun31415/nvim-config](https://github.com/Arjun31415/nvim-config) - Neovim config
@@ -5689,7 +5692,6 @@
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [haorenW1025/dotfiles](https://github.com/haorenW1025/dotfiles) - My dot files with neovim setting
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
-- [phongnh/dotfiles](https://github.com/phongnh/dotfiles) - My dotfiles
 - [andriiyaremenko/dotfiles](https://github.com/andriiyaremenko/dotfiles) - 
 - [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) - a neovim syntax highlighter using treesitter
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
@@ -7678,7 +7680,6 @@
 - [SmiteshP/Dotfiles](https://github.com/SmiteshP/Dotfiles) - My personal dotfiles
 - [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [pwittchen/tmux-plugin-ip](https://github.com/pwittchen/tmux-plugin-ip) - tmux plugin showing IP number
-- [anuvyklack/dotfiles](https://github.com/anuvyklack/dotfiles) - Ansible driven dotfiles.
 - [zim0369/bspwm_i3size](https://github.com/zim0369/bspwm_i3size) - i3 like resizing in bspwm
 - [MichalPlacek/manjaro-i3-tunning](https://github.com/MichalPlacek/manjaro-i3-tunning) - 
 - [MichalPlacek/opensuse-i3-tuning](https://github.com/MichalPlacek/opensuse-i3-tuning) - opensuse & i3 - configs & changes
@@ -8460,6 +8461,8 @@
 
 ## Vim Script 
 
+- [ShayHill/vim9-focalpoint](https://github.com/ShayHill/vim9-focalpoint) - Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*.
+- [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) - Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function.
 - [edubart/nelua-vim](https://github.com/edubart/nelua-vim) - Vim plugin for Nelua, originally created by Stefanos
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - Evangelion but for Vimmers
@@ -9201,6 +9204,7 @@
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
 - [rhysd/vim-healthcheck](https://github.com/rhysd/vim-healthcheck) - Polyfill of Neovim's health-check for Vim
 - [kg8m/dotfiles](https://github.com/kg8m/dotfiles) - My dotfiles
+- [phongnh/dotfiles](https://github.com/phongnh/dotfiles) - My dotfiles
 - [alanding1989/my-Vim](https://github.com/alanding1989/my-Vim) - My Vimrc and IdeaVimrc - customized personal vimrc mostly based on SpaceVIm (neovim-backend and a standby vim-backend)
 - [bakpakin/fennel.vim](https://github.com/bakpakin/fennel.vim) - Syntax highlighting for Fennel
 - [suudon0014/dotfiles](https://github.com/suudon0014/dotfiles) - 
