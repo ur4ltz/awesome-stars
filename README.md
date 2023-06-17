@@ -265,7 +265,6 @@
 - [isupovandrey/clockStm8](https://github.com/isupovandrey/clockStm8) - Часы на STM8
 - [nimaltd/tm1637](https://github.com/nimaltd/tm1637) - tm1637 display library for STM32
 - [MahdaSystem/TM1638](https://github.com/MahdaSystem/TM1638) - TM1638 driver for AVR (ATmega32), STM32 (HAL) and ESP32 (esp-idf)
-- [gavinlyonsrepo/NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT) - ASCII text  Library for the Nokia 5110 LCD ( PCD8544 controller) for the Arduino microcontroller eco-system. Nine ASCII text fonts of various sizes .  Designed to be light weight, low memory footprint
 - [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles) - Function and form
 - [ashish-yadav11/st](https://github.com/ashish-yadav11/st) - My fork of the suckless terminal with proper scrolling support, text reflow and a few other additions.
 - [ashish-yadav11/dsblocks](https://github.com/ashish-yadav11/dsblocks) - Modular status monitor for dwm written and meant to be configured in C.
@@ -1193,6 +1192,7 @@
 - [gavinlyonsrepo/timer_arduino_two](https://github.com/gavinlyonsrepo/timer_arduino_two) - Countdown Timer: Range 1-99 minutes. Output time (mm:ss) to seven segment display and Audio to Buzzer. Input: Push button to start. Potentiometer used for time select.
 - [gavinlyonsrepo/LCR_meter](https://github.com/gavinlyonsrepo/LCR_meter) - LCR meter project. An  Inductance, Capacitance and Resistance meter, Arduino NANO(v3) based.
 - [gavinlyonsrepo/NOKIA_5110_RPI](https://github.com/gavinlyonsrepo/NOKIA_5110_RPI) - Nokia 5110 LCD SPI C++ library for the raspberry pi single board computer ecosystem, PCD8544 controller
+- [gavinlyonsrepo/NOKIA5110_TEXT](https://github.com/gavinlyonsrepo/NOKIA5110_TEXT) - ASCII text  Library for the Nokia 5110 LCD ( PCD8544 controller) for the Arduino microcontroller eco-system. Nine ASCII text fonts of various sizes .  Designed to be light weight, low memory footprint
 - [gavinlyonsrepo/FourteenSegDisplay](https://github.com/gavinlyonsrepo/FourteenSegDisplay) - An Arduino library to display data on a seven 7, nine 9,  fourteen 14 or sixteen 16 segment alphanumeric LED display module. Will work with common anode and cathode. Includes ASCII font and supports H
 - [gavinlyonsrepo/Cap_meter_arduino](https://github.com/gavinlyonsrepo/Cap_meter_arduino) - Capacitance meter, Arduino-based, three tests , range 18pf to 4F , Push Button input , OLED and serial monitor output.
 - [gavinlyonsrepo/LR_meter_arduino](https://github.com/gavinlyonsrepo/LR_meter_arduino) - Inductance and Resistance meter, Arduino based. Push button input.  3 tests, 4 resistor test ranges. One Inductance test, Analog input display , outputs to serial monitor and OLED. Resistor range is f
@@ -1709,6 +1709,7 @@
 
 ## CSS 
 
+- [Sinomor/dots](https://github.com/Sinomor/dots) - bspwm dotfiles
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
 - [elbachir-one/dotfiles](https://github.com/elbachir-one/dotfiles) - My dotfiles
 - [B00merang-Project/Windows-3.11](https://github.com/B00merang-Project/Windows-3.11) - A GTK theme based on Windows 3.11 appearance
@@ -1856,6 +1857,7 @@
 
 ## Dart 
 
+- [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [nacro90/Groen](https://github.com/nacro90/Groen) - Neorg mobile app inspired by Obsidian
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter) - A ruTorrent-based client in Flutter
@@ -1953,7 +1955,6 @@
 - [shuxiao9058/emacs-config](https://github.com/shuxiao9058/emacs-config) - Back-up of my finely tweaked Emacs configuration
 - [emacs-lsp/lsp-gitpod](https://github.com/emacs-lsp/lsp-gitpod) - 
 - [fredcamps/lsp-jedi](https://github.com/fredcamps/lsp-jedi) - A LSP client for Emacs using Python Jedi Language Server
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [chmouel/emacs-swivb](https://github.com/chmouel/emacs-swivb) - 
 - [emacs-grammarly/lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
 - [anuvyklack/emacs](https://github.com/anuvyklack/emacs) - 
@@ -1984,7 +1985,7 @@
 - [mizlan/.emacs.d](https://github.com/mizlan/.emacs.d) - 
 - [mizlan/.doom.d](https://github.com/mizlan/.doom.d) - 
 - [mcandre/vimrc-mode](https://github.com/mcandre/vimrc-mode) - Enables syntax highlighting for .vimrc/_vimrc files
-- [marlonschlosshauer/dotfiles](https://github.com/marlonschlosshauer/dotfiles) - Backup of config files.
+- [marlonschlosshauer/dotfiles](https://github.com/marlonschlosshauer/dotfiles) - Backup of config files (mostly emacs).
 - [condy0919/spdx.el](https://github.com/condy0919/spdx.el) - Insert SPDX license header
 - [jcs-elpa/license-templates](https://github.com/jcs-elpa/license-templates) - Create LICENSE using GitHub API
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
@@ -2786,6 +2787,7 @@
 
 ## Go 
 
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
 - [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
 - [iamwavecut/retracker](https://github.com/iamwavecut/retracker) - Simple local http torrent tracker written in Go
@@ -3093,7 +3095,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [ziahamza/blend](https://github.com/ziahamza/blend) - A scalable graph database for aiding discovery.
 - [bradfitz/http2](https://github.com/bradfitz/http2) - old repo for HTTP/2 support for Go (see README for new home)
 - [tatsuhiro-t/go-nghttp2](https://github.com/tatsuhiro-t/go-nghttp2) - HTTP/2 implementation in golang using nghttp2 C library
@@ -3306,6 +3308,7 @@
 
 ## JavaScript 
 
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [takahirox/nes-js](https://github.com/takahirox/nes-js) - JavaScript NES(Famicom) emulator
 - [Mshakir-Git/Quantumjs](https://github.com/Mshakir-Git/Quantumjs) - Terminal game engine
@@ -3591,6 +3594,8 @@
 
 ## Kotlin 
 
+- [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
+- [YouROK/TorrServe](https://github.com/YouROK/TorrServe) - 
 - [equeim/tremotesf-android](https://github.com/equeim/tremotesf-android) - Android remote GUI for transmission-daemon
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
@@ -4217,7 +4222,6 @@
 - [ii14/dotfiles](https://github.com/ii14/dotfiles) - dotfiles
 - [ii14/vimuri.nvim](https://github.com/ii14/vimuri.nvim) - 
 - [ii14/autosplit.nvim](https://github.com/ii14/autosplit.nvim) - 
-- [miversen33/miversen-dotfiles](https://github.com/miversen33/miversen-dotfiles) - 
 - [WhoIsSethDaniel/lualine-lsp-progress.nvim](https://github.com/WhoIsSethDaniel/lualine-lsp-progress.nvim) - LSP progress lualine component
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
 - [Hvassaa/sterm.nvim](https://github.com/Hvassaa/sterm.nvim) - (s)tupid (term)inal
@@ -4549,6 +4553,7 @@
 - [tamago324/lsp-preview-hover-doc.nvim](https://github.com/tamago324/lsp-preview-hover-doc.nvim) - textDocument/hover plugin
 - [astoff/digestif](https://github.com/astoff/digestif) - A language server for TeX and friends
 - [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [fitrh/init.nvim](https://github.com/fitrh/init.nvim) - What nvim talk about when they talk about configuration
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
@@ -6572,6 +6577,7 @@
 
 ## Python 
 
+- [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - All the open source things related to the Hugging Face Hub.
 - [ngosang/deluge-exporter](https://github.com/ngosang/deluge-exporter) - Prometheus exporter for the Deluge Bittorrent client
 - [poe-platform/poe-protocol](https://github.com/poe-platform/poe-protocol) - The Poe bot protocol
@@ -7644,6 +7650,7 @@
 - [benvan/sandboxd](https://github.com/benvan/sandboxd) - speeds up your bashrc by running (slow) setup commands on the fly
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠
+- [miversen33/miversen-dotfiles](https://github.com/miversen33/miversen-dotfiles) - 
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [santigo-zero/dotfiles](https://github.com/santigo-zero/dotfiles) - 
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
@@ -7898,7 +7905,7 @@
 - [sainnhe/tmux-translator](https://github.com/sainnhe/tmux-translator) - Tmux translation plugin powered by popup window.
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [danishprakash/dotfiles](https://github.com/danishprakash/dotfiles) - Configuration files for my setup
-- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, Neovim, Vim, Git, tmux and other stuff
+- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, Fish, Neovim, Vim, Git, tmux and other stuff
 - [samoshkin/dotfiles](https://github.com/samoshkin/dotfiles) - System settings, configuration files and apps for MacOS. Personal setup
 - [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
 - [danielnehrig/polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
