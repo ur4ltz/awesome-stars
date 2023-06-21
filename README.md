@@ -300,7 +300,7 @@
 - [jakkra/ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
 - [jdolinay/avr_debug](https://github.com/jdolinay/avr_debug) - Source level debugger for Arduino - GDB stub for Atmega328 microcontroller used in Arduino Uno.
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
-- [edKotinsky/SimpleMenu](https://github.com/edKotinsky/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
+- [glebzlat/SimpleMenu](https://github.com/glebzlat/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)
 - [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
 - [jgm/cmark-lua](https://github.com/jgm/cmark-lua) - Lua bindings to libcmark CommonMark parser
@@ -1221,7 +1221,7 @@
 - [rzvncj/xCHM](https://github.com/rzvncj/xCHM) - xCHM is a cross-platform GPL frontend for CHMLIB (http://www.jedrea.com/chmlib/) written with the wxWidgets framework.
 - [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux
 - [RybinDen/arduino-clock](https://github.com/RybinDen/arduino-clock) - my projects of arduino talking clock
-- [edKotinsky/arduino-lcmeter](https://github.com/edKotinsky/arduino-lcmeter) - Simple Arduino LC-meter
+- [glebzlat/arduino-lcmeter](https://github.com/glebzlat/arduino-lcmeter) - Simple Arduino LC-meter
 - [PaulStoffregen/MsTimer2](https://github.com/PaulStoffregen/MsTimer2) - Run a function using a timer
 - [arduinotech/alarm_clock](https://github.com/arduinotech/alarm_clock) - Simple alarm clock on arduino uno
 - [StrathbogieBrewing/AceMenu](https://github.com/StrathbogieBrewing/AceMenu) - 
@@ -4003,8 +4003,8 @@
 - [ofirgall/cmp-lspkind-priority](https://github.com/ofirgall/cmp-lspkind-priority) - 
 - [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) - :oldfiles, but for directories
 - [kiyoon/nvim-tree-remote.nvim](https://github.com/kiyoon/nvim-tree-remote.nvim) - A set of Nvim-Tree actions to open files on another remote neovim.
-- [edKotinsky/myvimrc](https://github.com/edKotinsky/myvimrc) - 
-- [edKotinsky/Arduino.nvim](https://github.com/edKotinsky/Arduino.nvim) - Simple arduino-language-server wrapper for nvim
+- [glebzlat/myvimrc](https://github.com/glebzlat/myvimrc) - 
+- [glebzlat/Arduino.nvim](https://github.com/glebzlat/Arduino.nvim) - Simple arduino-language-server wrapper for nvim
 - [EtiamNullam/gradual-undo.nvim](https://github.com/EtiamNullam/gradual-undo.nvim) - 
 - [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) - Keep clipboard in sync with Neovim without the peformance hit.
 - [roobert/nightshift.vim](https://github.com/roobert/nightshift.vim) - ✨ A dark low-contrast Neovim theme
@@ -7819,7 +7819,7 @@
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
-- [zpm-zsh/material-colors](https://github.com/zpm-zsh/material-colors) - Material colorscheme
+- [zpm-zsh/theme-neutral](https://github.com/zpm-zsh/theme-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
 - [simrat39/dotfiles](https://github.com/simrat39/dotfiles) - dots and dots and more dots
