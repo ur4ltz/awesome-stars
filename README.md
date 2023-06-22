@@ -801,7 +801,6 @@
 - [moonjit/moonjit](https://github.com/moonjit/moonjit) - Just-In-Time Compiler for the Lua Programming language. Fork of LuaJIT to continue development. This project does not have an active maintainer, see https://twitter.com/siddhesh_p/status/1308594269502
 - [ggambetta/libz80](https://github.com/ggambetta/libz80) - An emulator of the Z80 processor (C library)
 - [EtchedPixels/EmulatorKit](https://github.com/EtchedPixels/EmulatorKit) - A collection of emulators mostly of retrobrew style systems
-- [hsoft/collapseos](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology
 - [mbert/elvis](https://github.com/mbert/elvis) - The elvis vi-clone (written by Steve Kirkendall)
 - [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
@@ -2440,7 +2439,7 @@
 - [jwiegley/git-undo-el](https://github.com/jwiegley/git-undo-el) - A command for Emacs to regress or "undo" a region back through its Git history
 - [jwiegley/alert](https://github.com/jwiegley/alert) - A Growl-like alerts notifier for Emacs
 - [jwiegley/emacs-release](https://github.com/jwiegley/emacs-release) - A history of Emacs releases, under version control
-- [abcdlsj/.emacs.d](https://github.com/abcdlsj/.emacs.d) - My Emacs Config (evil + modeline + spacemacs-theme/doom-theme + ...).
+- [abcdlsj/.emacs.d](https://github.com/abcdlsj/.emacs.d) - own EMACS config
 - [Fanael/rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) - Emacs rainbow delimiters mode
 - [emacsmirror/mood-line](https://github.com/emacsmirror/mood-line) - A minimal mode line inspired by doom-modeline
 - [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
@@ -3625,6 +3624,8 @@
 
 ## Lua 
 
+- [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
+- [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal NeoVim config
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
@@ -4338,7 +4339,6 @@
 - [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) - An extension for telescope.nvim that allows you to search emojis😃
 - [xiyaowong/nvim-colorizer.lua](https://github.com/xiyaowong/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
-- [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
 - [anuvyklack/keymap-amend.nvim](https://github.com/anuvyklack/keymap-amend.nvim) - Amend the existing keymap in Neovim
 - [anuvyklack/mellow-light.nvim](https://github.com/anuvyklack/mellow-light.nvim) - 
 - [anuvyklack/manuscrip.nvim](https://github.com/anuvyklack/manuscrip.nvim) - 
@@ -5250,6 +5250,7 @@
 - [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
 - [lunarmodules/lualogging](https://github.com/lunarmodules/lualogging) - A simple API to use logging features in Lua
 - [charlesmallah/lua-scriptum](https://github.com/charlesmallah/lua-scriptum) - Documentation generation with Lua
+- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [spc476/LPeg-Parsers](https://github.com/spc476/LPeg-Parsers) - Parsing common data formats via LPeg
 - [spc476/GLV-1.12556](https://github.com/spc476/GLV-1.12556) - The First Gemini Protocol Server
 - [perky/luahub](https://github.com/perky/luahub) - A wrapper library to access the GitHub API from Lua
@@ -7470,7 +7471,6 @@
 - [austinjones/tab-rs](https://github.com/austinjones/tab-rs) - The intuitive, config-driven terminal multiplexer designed for software & systems engineers
 - [sminez/my-penrose-config](https://github.com/sminez/my-penrose-config) - My personal penrose config
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
-- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
 - [tjdevries/rofl.nvim](https://github.com/tjdevries/rofl.nvim) - Rust On the FLY completion for neovim
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [oknozor/illumination](https://github.com/oknozor/illumination) - A mardown renderer for nvim written with gtkrs and neovim-lib
@@ -7819,7 +7819,7 @@
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
-- [zpm-zsh/theme-neutral](https://github.com/zpm-zsh/theme-neutral) - Material colorscheme
+- [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
 - [simrat39/dotfiles](https://github.com/simrat39/dotfiles) - dots and dots and more dots
