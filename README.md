@@ -2439,7 +2439,7 @@
 - [jwiegley/git-undo-el](https://github.com/jwiegley/git-undo-el) - A command for Emacs to regress or "undo" a region back through its Git history
 - [jwiegley/alert](https://github.com/jwiegley/alert) - A Growl-like alerts notifier for Emacs
 - [jwiegley/emacs-release](https://github.com/jwiegley/emacs-release) - A history of Emacs releases, under version control
-- [abcdlsj/.emacs.d](https://github.com/abcdlsj/.emacs.d) - own EMACS config
+- [abcdlsj/.emacs.d](https://github.com/abcdlsj/.emacs.d) - (Deprecated) own EMACS config
 - [Fanael/rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) - Emacs rainbow delimiters mode
 - [emacsmirror/mood-line](https://github.com/emacsmirror/mood-line) - A minimal mode line inspired by doom-modeline
 - [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
@@ -5250,7 +5250,7 @@
 - [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
 - [lunarmodules/lualogging](https://github.com/lunarmodules/lualogging) - A simple API to use logging features in Lua
 - [charlesmallah/lua-scriptum](https://github.com/charlesmallah/lua-scriptum) - Documentation generation with Lua
-- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Some ideas that I'm playing around with for sourcegraph
+- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph plugin for Neovim
 - [spc476/LPeg-Parsers](https://github.com/spc476/LPeg-Parsers) - Parsing common data formats via LPeg
 - [spc476/GLV-1.12556](https://github.com/spc476/GLV-1.12556) - The First Gemini Protocol Server
 - [perky/luahub](https://github.com/perky/luahub) - A wrapper library to access the GitHub API from Lua
@@ -5270,7 +5270,6 @@
 - [vincasmiliunas/lua-basic-oauth2](https://github.com/vincasmiliunas/lua-basic-oauth2) - This library does simple comminication with OAuth2 services.
 - [harningt/luajson](https://github.com/harningt/luajson) - JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, various values are preserved as best as possible.
 - [p3r7/3d](https://github.com/p3r7/3d) - 🧊 Pure Lua 3D lib for Norns
-- [jixiuf/dotfiles](https://github.com/jixiuf/dotfiles) - 
 - [orbitalquark/textadept](https://github.com/orbitalquark/textadept) - Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers.
 - [KiranWells/micro-nord-tc-colors](https://github.com/KiranWells/micro-nord-tc-colors) - A nord colorscheme port for the Micro editor
 - [priner/micro-aspell-plugin](https://github.com/priner/micro-aspell-plugin) - Spellchecker plugin for Micro editor
@@ -7875,6 +7874,7 @@
 - [aroma1994/polybar-windows](https://github.com/aroma1994/polybar-windows) - A polybar script that shows opened windows on your current display. Click on window titles to switch between windows.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pmeiyu/dot-config](https://github.com/pmeiyu/dot-config) - My ~/.config files
+- [jixiuf/dotfiles](https://github.com/jixiuf/dotfiles) - 
 - [Mte90/dotfiles](https://github.com/Mte90/dotfiles) - My dotfiles
 - [mrossinek/dotfiles](https://github.com/mrossinek/dotfiles) - My dotfiles
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
@@ -8477,6 +8477,7 @@
 
 ## Vim Script 
 
+- [EgZvor/vim-ostroga](https://github.com/EgZvor/vim-ostroga) - Ostroga is kind of like harpoon...
 - [ShayHill/vim9-focalpoint](https://github.com/ShayHill/vim9-focalpoint) - Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*.
 - [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) - Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function.
 - [edubart/nelua-vim](https://github.com/edubart/nelua-vim) - Vim plugin for Nelua, originally created by Stefanos
