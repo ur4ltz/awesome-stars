@@ -59,6 +59,7 @@
 - [Less](#less)
 - [Limbo](#limbo)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Max](#max)
@@ -2897,7 +2898,6 @@
 - [mohkale/dotty](https://github.com/mohkale/dotty) - A delightfully lispy dotfile manager :house:
 - [glepnir/lspmeta.nvim](https://github.com/glepnir/lspmeta.nvim) - 
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
 - [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [tarent/loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
@@ -3624,6 +3624,8 @@
 
 ## Lua 
 
+- [FelipeLema/cmp-async-path](https://github.com/FelipeLema/cmp-async-path) - nvim-cmp source for path (async version)
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal NeoVim config
@@ -3797,7 +3799,7 @@
 - [swarn/semanticist.nvim](https://github.com/swarn/semanticist.nvim) - Semantic token highlighting for neovim's LSP client
 - [jemag/telescope-diff.nvim](https://github.com/jemag/telescope-diff.nvim) - View file diffs quickly with Telescope.nvim
 - [cesaralvarod/tokyogogh.nvim](https://github.com/cesaralvarod/tokyogogh.nvim) - Dark theme for neovim written in Lua. LSP, Tresitter and more plugins support. Inspired by tokyonight.nvim and Gogh.
-- [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) - a lightweight ChatGPT plugin for nevoim
+- [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) - a lightweight ChatGPT plugin for neovim
 - [alpha2phi/neovim-101](https://github.com/alpha2phi/neovim-101) - Repository for the Neovim 101 series.
 - [alpha2phi/modern-neovim](https://github.com/alpha2phi/modern-neovim) - Crafting a modernized development environment with Neovim.
 - [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
@@ -5917,6 +5919,10 @@
 - [xolox/vim-lua-inspect](https://github.com/xolox/vim-lua-inspect) - Semantic highlighting for Lua in Vim
 - [davidm/lua-inspect](https://github.com/davidm/lua-inspect) - Lua code analysis, with plugins for HTML and SciTE
 
+## MDX 
+
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
+
 ## Makefile 
 
 - [billygr/avr-stepper](https://github.com/billygr/avr-stepper) - AVR Stepper Driver
@@ -6046,6 +6052,7 @@
 
 ## Others 
 
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [SevorisDoe/Norgberg](https://github.com/SevorisDoe/Norgberg) - Norgberg is the database services module for Neorg, providing fast document data caching and module state storage.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
@@ -7574,6 +7581,11 @@
 
 ## Shell 
 
+- [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
+- [Sitolam/Termux_url_opener_all_in_one_downloader](https://github.com/Sitolam/Termux_url_opener_all_in_one_downloader) - All-in-one Download Script for Termux URL Opener
+- [bboymega/Termux_url_opener_all_in_one_downloader](https://github.com/bboymega/Termux_url_opener_all_in_one_downloader) - All-in-one Download Script for Termux URL Opener
 - [coffebar/conky-move](https://github.com/coffebar/conky-move) - Shifts conky horizontal position depending on window positions on the current workspace
 - [bashmarklets/go-west](https://github.com/bashmarklets/go-west) - Bookmark often used directories and jump (go) to them at will
 - [UtkarshVerma/i3blocklets](https://github.com/UtkarshVerma/i3blocklets) - :pushpin: Custom scripts for i3blocks written in bash.
