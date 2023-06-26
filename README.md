@@ -59,7 +59,6 @@
 - [Less](#less)
 - [Limbo](#limbo)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Max](#max)
@@ -93,7 +92,6 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Starlark](#starlark)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
@@ -398,7 +396,7 @@
 - [rakitzis/rc](https://github.com/rakitzis/rc) - rc shell -- independent re-implementation for Unix of the Plan 9 shell (from circa 1992)
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
 - [xlucn/dwm](https://github.com/xlucn/dwm) - My fork of the suckless window manager dwm
-- [xlucn/xdg-xmenu](https://github.com/xlucn/xdg-xmenu) - Generate menu for xmenu
+- [xlucn/xdg-xmenu](https://github.com/xlucn/xdg-xmenu) - Minimal app menu with xmenu
 - [vimist/xtmon](https://github.com/vimist/xtmon) - An EWMH compliant X window title monitoring tool.
 - [torrinfail/dwmblocks](https://github.com/torrinfail/dwmblocks) - Modular status bar for dwm written in c.
 - [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr) - The Official Arduino AVR core
@@ -1206,7 +1204,7 @@
 - [ftjuh/I2Cwrapper](https://github.com/ftjuh/I2Cwrapper) - I2Cwrapper is a firmware framework which helps you implement Arduino based I2C target (slave) devices for control of non-I2C hardware. Supports plain Arduinos, ESP8266, ESP32, SAMD, STM32, and ATtiny 
 - [gavinlyonsrepo/RPI_PICO_projects_list](https://github.com/gavinlyonsrepo/RPI_PICO_projects_list) - An index of projects and libraries for Raspberry Pi Pico's (RP2040) stored in this github account.
 - [amule-project/amule](https://github.com/amule-project/amule) - 'All-platform' P2P client based on eMule
-- [wxMEdit/wxMEdit](https://github.com/wxMEdit/wxMEdit) - wxMEdit, a cross-platform Text/Hex Editor, an improved version of MadEdit
+- [wxMEdit/wxMEdit](https://github.com/wxMEdit/wxMEdit) - wxMEdit, a Cross-platform Text/Hex Editor, an improved version of MadEdit
 - [echo-devim/fhex](https://github.com/echo-devim/fhex) - A Full-Featured HexEditor compatible with Linux/Windows/MacOS
 - [WerWolv/PatternLanguage](https://github.com/WerWolv/PatternLanguage) - The Pattern Language used by the ImHex Hex Editor
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -2898,6 +2896,7 @@
 - [mohkale/dotty](https://github.com/mohkale/dotty) - A delightfully lispy dotfile manager :house:
 - [glepnir/lspmeta.nvim](https://github.com/glepnir/lspmeta.nvim) - 
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
 - [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [tarent/loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
@@ -3624,6 +3623,11 @@
 
 ## Lua 
 
+- [ten3roberts/window-picker.nvim](https://github.com/ten3roberts/window-picker.nvim) - Easily jump, pick and swap vim windows by annotated letters
+- [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
+- [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) - A neovim plugin for viewing images.
+- [harrisoncramer/nvim](https://github.com/harrisoncramer/nvim) - My personal Neovim configuration.
+- [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Gitlab integration with Neovim that lets you review MRs within the editor.
 - [FelipeLema/cmp-async-path](https://github.com/FelipeLema/cmp-async-path) - nvim-cmp source for path (async version)
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
@@ -4300,7 +4304,7 @@
 - [kaplanz/nvim-retrail](https://github.com/kaplanz/nvim-retrail) - Whitespace management for Neovim
 - [Yazeed1s/minimal.nvim](https://github.com/Yazeed1s/minimal.nvim) - 
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
-- [maxmx03/solarized.nvim](https://github.com/maxmx03/solarized.nvim) - Solarized is a popular color scheme designed for use in various code editors and terminals. It was created by Ethan Schoonover and features a balanced color palette that is easy on the eyes and helps 
+- [maxmx03/solarized.nvim](https://github.com/maxmx03/solarized.nvim) - Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.
 - [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) - Simple directory browser for Neovim
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
@@ -5919,10 +5923,6 @@
 - [xolox/vim-lua-inspect](https://github.com/xolox/vim-lua-inspect) - Semantic highlighting for Lua in Vim
 - [davidm/lua-inspect](https://github.com/davidm/lua-inspect) - Lua code analysis, with plugins for HTML and SciTE
 
-## MDX 
-
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight feature flag solution 100% Open Source. 🎛️
-
 ## Makefile 
 
 - [billygr/avr-stepper](https://github.com/billygr/avr-stepper) - AVR Stepper Driver
@@ -6582,6 +6582,7 @@
 
 ## Python 
 
+- [supersaeyan/bittorpy](https://github.com/supersaeyan/bittorpy) - Implementing a bittorrent engine in python
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - All the open source things related to the Hugging Face Hub.
 - [ngosang/deluge-exporter](https://github.com/ngosang/deluge-exporter) - Prometheus exporter for the Deluge Bittorrent client
@@ -7581,6 +7582,7 @@
 
 ## Shell 
 
+- [ajpaon/termux-packages](https://github.com/ajpaon/termux-packages) - A package build system for Termux.
 - [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
@@ -8275,10 +8277,6 @@
 
 - [owncloud-docker/server](https://github.com/owncloud-docker/server) - Docker image for ownCloud community edition
 
-## Svelte 
-
-- [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Discover and share Neovim configs and plugins
-
 ## Swift 
 
 - [SwiftyLinkerKit/SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
@@ -8325,6 +8323,7 @@
 - [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
 - [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
+- [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Discover and share Neovim configs and plugins
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
