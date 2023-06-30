@@ -2172,7 +2172,7 @@
 - [emacsorphanage/go-eldoc](https://github.com/emacsorphanage/go-eldoc) - eldoc for go language
 - [mitchellw/fennel-layer](https://github.com/mitchellw/fennel-layer) - Spacemacs layer for the Fennel programming language (a lisp that compiles to Lua).
 - [gkmngrgn/emacs.d](https://github.com/gkmngrgn/emacs.d) - My personal Emacs configuration.
-- [susam/emacs4cl](https://github.com/susam/emacs4cl) - A 50 line ~/.emacs to quickly set up vanilla Emacs for Common Lisp programming
+- [susam/emacs4cl](https://github.com/susam/emacs4cl) - A 50 line DIY kit to set up vanilla Emacs for Common Lisp programming
 - [snabbco/luajit-emacs](https://github.com/snabbco/luajit-emacs) - Emacs extensions for LuaJIT
 - [bdirito/config](https://github.com/bdirito/config) - linux config files
 - [56quarters/emacs.d](https://github.com/56quarters/emacs.d) - My emacs configuration files
@@ -2796,7 +2796,7 @@
 - [xgfone/go-bt](https://github.com/xgfone/go-bt) - Another pure golang implementation of BitTorrent library.
 - [Ianleeclark/notorious](https://github.com/Ianleeclark/notorious) - Go: A feature-complete, performant torrent tracker
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [google/periph](https://github.com/google/periph) - Go·Hardware·Lean
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
@@ -3601,7 +3601,7 @@
 - [szymonprz/idea-cheatsh-plugin](https://github.com/szymonprz/idea-cheatsh-plugin) - Plugin for loading code snippets from cheat.sh directly to editor without need to switch your mental context
 - [Benjamin-Dobell/IntelliJ-Luanalysis](https://github.com/Benjamin-Dobell/IntelliJ-Luanalysis) - Type-safe Lua IDE Plugin for IntelliJ IDEA
 - [wewewe718/QrAndBarcodeScanner](https://github.com/wewewe718/QrAndBarcodeScanner) - An Android app for scanning QR codes and barcodes
-- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [fru1tstand/qbittorrent-exporter](https://github.com/fru1tstand/qbittorrent-exporter) - A kotin-based, prometheus exporter for qbittorrent that relies on qbittorrent's web ui.
 - [EmmyLua/EmmyLua-Unity](https://github.com/EmmyLua/EmmyLua-Unity) - EmmyLua unity3d plugin
 - [barbeau/gpstest](https://github.com/barbeau/gpstest) - The #1 open-source Android GNSS/GPS test program
@@ -3623,6 +3623,10 @@
 
 ## Lua 
 
+- [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
+- [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) - A neovim plugin to navigate and execute code cells
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - A fork of ruifm's gitlinker, refactored with pattern based rule engine, windows support and other enhancements.
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and habit
 - [ten3roberts/window-picker.nvim](https://github.com/ten3roberts/window-picker.nvim) - Easily jump, pick and swap vim windows by annotated letters
 - [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) - A neovim plugin for viewing images.
@@ -4416,7 +4420,7 @@
 - [notomo/tracebundler.nvim](https://github.com/notomo/tracebundler.nvim) - Trace and bundle neovim lua for debugging
 - [LhKipp/nvim-git-fixer](https://github.com/LhKipp/nvim-git-fixer) - A neovim plugin to create fixup! commits with ease
 - [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language
-- [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim) - A minimalist Neovim plugin that auto pairs & closes brackets written in 100% Lua.
+- [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim) - A minimalist Neovim plugin that auto pairs & closes brackets
 - [LhKipp/nvim-project-rc](https://github.com/LhKipp/nvim-project-rc) - Yet another project configuration plugin
 - [theo-coder/nvim-saa](https://github.com/theo-coder/nvim-saa) - 
 - [zbirenbaum/nvim-chadterm](https://github.com/zbirenbaum/nvim-chadterm) - A  lightweight, simple, fast terminal-toggling plugin implemented in lua.
@@ -4879,7 +4883,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-532+gc07dceba3) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-592+ge0453d7f5) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -5114,6 +5118,7 @@
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [e-cal/evim](https://github.com/e-cal/evim) - Neovim meets VS Code. The best of both worlds, in your terminal, ready to code.
 - [smithbm2316/dotfiles](https://github.com/smithbm2316/dotfiles) - There's no place like ~
+- [nihilistkitten/dotfiles](https://github.com/nihilistkitten/dotfiles) - 
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
 - [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) - Virtual text context for neovim treesitter
 - [marioortizmanero/adoc-pdf-live.nvim](https://github.com/marioortizmanero/adoc-pdf-live.nvim) - Small plugin for vim to preview Asciidoc PDF output
@@ -5256,7 +5261,7 @@
 - [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
 - [lunarmodules/lualogging](https://github.com/lunarmodules/lualogging) - A simple API to use logging features in Lua
 - [charlesmallah/lua-scriptum](https://github.com/charlesmallah/lua-scriptum) - Documentation generation with Lua
-- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph plugin for Neovim
+- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph/Cody plugin for Neovim
 - [spc476/LPeg-Parsers](https://github.com/spc476/LPeg-Parsers) - Parsing common data formats via LPeg
 - [spc476/GLV-1.12556](https://github.com/spc476/GLV-1.12556) - The First Gemini Protocol Server
 - [perky/luahub](https://github.com/perky/luahub) - A wrapper library to access the GitHub API from Lua
@@ -6757,7 +6762,6 @@
 - [blurstudio/sublime_debugger-plugin](https://github.com/blurstudio/sublime_debugger-plugin) - A template that can be used to make debug adapters compatible with the Debugger plugin in Sublime Text 3 and 4
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for (Neo)Vim
 - [tiagovla/antennas_ufmg](https://github.com/tiagovla/antennas_ufmg) - 
-- [nihilistkitten/dotfiles](https://github.com/nihilistkitten/dotfiles) - 
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
@@ -7087,7 +7091,7 @@
 - [Daguhh/ConkyLuaMakerGUIv2](https://github.com/Daguhh/ConkyLuaMakerGUIv2) - An interactive GUI to generate lua conky
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [aziz/DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - SublimeText "Distraction free mode" but not full-screen! A windowed UI is more manageable and accessible yet it can be simple and sublime!
-- [NeoVintageous/NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Vim for Sublime Text. An advanced Vim emulation layer for Sublime Text. The premier Sublime Text Vim engine.
+- [NeoVintageous/NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Vim for Sublime Text. An advanced Vim emulation layer for Sublime Text. A Sublime Text Vim engine.
 - [matiasmorant/SublimeDebugger](https://github.com/matiasmorant/SublimeDebugger) - Graphical Debugger for Sublime Text
 - [marxin/neo-rtags](https://github.com/marxin/neo-rtags) - Rtags client for neovim
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -8488,6 +8492,8 @@
 
 ## Vim Script 
 
+- [cynix/vim-mergetool](https://github.com/cynix/vim-mergetool) - :cake: Efficient way of using Vim as a Git mergetool
+- [girishji/search-complete.vim](https://github.com/girishji/search-complete.vim) - Async search mode completion with popup menu for Vim.
 - [EgZvor/vim-ostroga](https://github.com/EgZvor/vim-ostroga) - Ostroga is kind of like harpoon...
 - [ShayHill/vim9-focalpoint](https://github.com/ShayHill/vim9-focalpoint) - Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*.
 - [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) - Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function.
