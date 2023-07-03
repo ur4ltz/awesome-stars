@@ -200,6 +200,7 @@
 
 ## C 
 
+- [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [NF02/snotes](https://github.com/NF02/snotes) - A very simple and immediate note manager
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
 - [ViliamKovac1223/dwm-ViliamKovac1223-build](https://github.com/ViliamKovac1223/dwm-ViliamKovac1223-build) - dwm is a dynamic window manager for X.
@@ -2008,10 +2009,10 @@
 - [nloyola/.emacs.d](https://github.com/nloyola/.emacs.d) - Emacs configuration
 - [larkery/emacs](https://github.com/larkery/emacs) - 
 - [hsluv/hsluv-emacs](https://github.com/hsluv/hsluv-emacs) - HSLuv implementation for Emacs ELisp (revision 4)
-- [tecosaur/org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Save yourself from non-org formats, thanks to pandoc
-- [tecosaur/screenshot](https://github.com/tecosaur/screenshot) - Swiftly grab pretty images of your code
-- [tecosaur/LaTeX-auto-activating-snippets](https://github.com/tecosaur/LaTeX-auto-activating-snippets) - An Emacs Package
-- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Convert font-lock faces to other formats
+- [tecosaur/org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Mirror of https://git.tecosaur.net/tec/org-pandoc-import
+- [tecosaur/screenshot](https://github.com/tecosaur/screenshot) - Mirror of https://git.tecosaur.net/tec/screenshot.el
+- [tecosaur/LaTeX-auto-activating-snippets](https://github.com/tecosaur/LaTeX-auto-activating-snippets) - Mirror of https://git.tecosaur.net/tec/LaTeX-auto-activating-snippets
+- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
 - [naturallydisasterous/.emacs.d](https://github.com/naturallydisasterous/.emacs.d) - A Simple, Fully Featured, and EVIL (Extensible VI Layer) Emacs Config
 - [stanhe/pop-eshell](https://github.com/stanhe/pop-eshell) - bottom-terminal like intellij idea and full-terminal for multi windows.
 - [DaoHuyTuan/Emacs-Init](https://github.com/DaoHuyTuan/Emacs-Init) - My Emacs Config file
@@ -2172,7 +2173,7 @@
 - [emacsorphanage/go-eldoc](https://github.com/emacsorphanage/go-eldoc) - eldoc for go language
 - [mitchellw/fennel-layer](https://github.com/mitchellw/fennel-layer) - Spacemacs layer for the Fennel programming language (a lisp that compiles to Lua).
 - [gkmngrgn/emacs.d](https://github.com/gkmngrgn/emacs.d) - My personal Emacs configuration.
-- [susam/emacs4cl](https://github.com/susam/emacs4cl) - A 50 line DIY kit to set up vanilla Emacs for Common Lisp programming
+- [susam/emacs4cl](https://github.com/susam/emacs4cl) - A tiny DIY kit to set up vanilla Emacs for Common Lisp programming
 - [snabbco/luajit-emacs](https://github.com/snabbco/luajit-emacs) - Emacs extensions for LuaJIT
 - [bdirito/config](https://github.com/bdirito/config) - linux config files
 - [56quarters/emacs.d](https://github.com/56quarters/emacs.d) - My emacs configuration files
@@ -2191,7 +2192,7 @@
 - [lassik/home](https://github.com/lassik/home) - Home directory with personal configuration files
 - [purcell/inheritenv](https://github.com/purcell/inheritenv) - Make emacs temp buffers inherit buffer-local environment variables
 - [purcell/package-lint](https://github.com/purcell/package-lint) - A linting library for elisp package metadata
-- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
+- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
 - [semgilo/.emacs.d](https://github.com/semgilo/.emacs.d) - Personal emacs configuration, customized only for myself
 - [olivertaylor/dotfiles](https://github.com/olivertaylor/dotfiles) - CLI, Emacs, Hammerspoon
 - [Parveshdhull/sublima](https://github.com/Parveshdhull/sublima) - Sublime like scratches for emacs
@@ -2742,7 +2743,6 @@
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 - [Kethku/vim-config](https://github.com/Kethku/vim-config) - My neovim config.
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration using Fennel
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
 - [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
@@ -2961,7 +2961,7 @@
 - [joshuarli/srv](https://github.com/joshuarli/srv) - minimalist http(s) server and file browser
 - [radareorg/r2pm](https://github.com/radareorg/r2pm) - Radare2 cross platform package manager
 - [d-tsuji/gosdlisp](https://github.com/d-tsuji/gosdlisp) - Mini lisp interpreter written in Go.
-- [fuskovic/networker](https://github.com/fuskovic/networker) - :wrench:  A simple CLI tool for various networking operations
+- [fuskovic/networker](https://github.com/fuskovic/networker) - :wrench:  CLI utility for various networking operations
 - [dplavcic/gtorrent](https://github.com/dplavcic/gtorrent) - Implementation of BitTorrent Protocol Specification
 - [pieterkockx/bittorrent](https://github.com/pieterkockx/bittorrent) - simple bittorrent client written in go
 - [akshay1713/gotorrent](https://github.com/akshay1713/gotorrent) - A simple command line bittorrent client.
@@ -3623,6 +3623,7 @@
 
 ## Lua 
 
+- [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [thibthib18/glab.nvim](https://github.com/thibthib18/glab.nvim) - 
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) - A neovim plugin to navigate and execute code cells
@@ -3640,7 +3641,7 @@
 - [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal NeoVim config
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
-- [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - Warm Green Neovim Theme
+- [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - Warm Green Theme for Neovim and Beyond
 - [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) - Highlight changed text after Undo / Redo operations
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) - Dumb automatic fast indentation detection for Neovim written in Lua
 - [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) - :crescent_moon:  A modern black neovim theme written in Lua, with comfortable color contrast for a pleasant visual experience, with LSP and treesitter support
@@ -3875,7 +3876,7 @@
 - [ray-x/forgit.nvim](https://github.com/ray-x/forgit.nvim) - Interactive fzf+git for Neovim. I remembered the git commands so you wont forget.
 - [strash/everybody-wants-that-line.nvim](https://github.com/strash/everybody-wants-that-line.nvim) - Minimalistic, informative and elegant statusline for neovim.
 - [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim) - 
-- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative number, supporting various number combinations
+- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative number, supports various number combinations
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [Integralist/nvim](https://github.com/Integralist/nvim) - Neovim configuration
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from neovim terminals in your current neovim instance
@@ -5437,6 +5438,7 @@
 - [lewis6991/dotfiles](https://github.com/lewis6991/dotfiles) - My personal vimrc file
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [Olical/nvim-local-fennel](https://github.com/Olical/nvim-local-fennel) - Execute local Fennel Lisp files in Neovim upon startup
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
 - [jbyuki/algebra.nvim](https://github.com/jbyuki/algebra.nvim) - basic computer algebra system for Nvim
 - [jbyuki/ntangle.nvim](https://github.com/jbyuki/ntangle.nvim) - literate programming for neovim
@@ -5457,7 +5459,7 @@
 - [svermeulen/vimpeccable-lua-vimrc-advanced-example](https://github.com/svermeulen/vimpeccable-lua-vimrc-advanced-example) - 
 - [svermeulen/vimpeccable-lua-vimrc-example](https://github.com/svermeulen/vimpeccable-lua-vimrc-example) - 
 - [chipsenkbeil/vimwiki.nvim](https://github.com/chipsenkbeil/vimwiki.nvim) - Neovim plugin that offers enhanced and alternative functionality for the vimwiki language.
-- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [pierreglaser/folding-nvim](https://github.com/pierreglaser/folding-nvim) - 
 - [wbthomason/vim-nazgul](https://github.com/wbthomason/vim-nazgul) - Very gray theme for Vim
@@ -7993,7 +7995,7 @@
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [seagle0128/bspwm-config](https://github.com/seagle0128/bspwm-config) - Bspwm configuration files.
-- [xero/dotfiles](https://github.com/xero/dotfiles) - ▒ rice ░░  custom linux config files
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. perpetual wip
 - [resloved/bin](https://github.com/resloved/bin) - 🗑️ — Misc. Scripts
 - [Mi-Al/WiFi-autopwner](https://github.com/Mi-Al/WiFi-autopwner) - WiFi-autopwner: script to automate searching and auditing Wi-Fi networks with weak security
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -8324,6 +8326,7 @@
 
 ## TypeScript 
 
+- [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) - sort json objects plugin for neovim
 - [yuki-yano/highlight-undo.nvim](https://github.com/yuki-yano/highlight-undo.nvim) - 
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
 - [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
@@ -8494,6 +8497,7 @@
 
 ## Vim Script 
 
+- [isene/hyperlist.vim](https://github.com/isene/hyperlist.vim) - This VIM plugin makes it easy to create and manage HyperLists using VIM
 - [cynix/vim-mergetool](https://github.com/cynix/vim-mergetool) - :cake: Efficient way of using Vim as a Git mergetool
 - [girishji/search-complete.vim](https://github.com/girishji/search-complete.vim) - Async search mode completion with popup menu for Vim.
 - [EgZvor/vim-ostroga](https://github.com/EgZvor/vim-ostroga) - Ostroga is kind of like harpoon...
