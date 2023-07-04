@@ -3623,6 +3623,7 @@
 
 ## Lua 
 
+- [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) - A multi cursor plugin for Neovim.
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
 - [thibthib18/glab.nvim](https://github.com/thibthib18/glab.nvim) - 
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
@@ -4487,7 +4488,7 @@
 - [p00f/clangd_extensions.nvim](https://github.com/p00f/clangd_extensions.nvim) - Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
-- [nvim-lua/nvim-package-specification](https://github.com/nvim-lua/nvim-package-specification) - Unofficial draft for a standard of a package metadata -- Not ready for use.
+- [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [Everduin94/nvim-quick-switcher](https://github.com/Everduin94/nvim-quick-switcher) - Quickly navigate to other files/extensions based on the current file name or jump to nodes in a file via treesitter. Written in Lua.
 - [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua) - Well... I will fix this line later
@@ -4946,7 +4947,7 @@
 - [ronniedroid/droidvim](https://github.com/ronniedroid/droidvim) - My personal neovim configuration.
 - [Joakker/nvim-config](https://github.com/Joakker/nvim-config) - :moon: Neovim configuration written primarily in lua
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.8+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
 - [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - an up-to-date peek at my dotfiles. m1 mac
 - [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - see mizlan/dotfiles
@@ -5757,7 +5758,6 @@
 - [timn/lua-xmlrpc](https://github.com/timn/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
 - [neovim/nvimdev.nvim](https://github.com/neovim/nvimdev.nvim) - Neovim plugin for working on Neovim
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
-- [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) - Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
@@ -5936,7 +5936,7 @@
 - [billygr/avr-stepper](https://github.com/billygr/avr-stepper) - AVR Stepper Driver
 - [jcmvbkbc/avr-flash-vtbl](https://github.com/jcmvbkbc/avr-flash-vtbl) - AVR-GCC plugin that puts vtbls into program memory
 - [sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.
-- [raymond-w-ko/creep2](https://github.com/raymond-w-ko/creep2) - 
+- [raymond-w-ko/creep2](https://github.com/raymond-w-ko/creep2) - A small pixel font
 - [orbitalquark/textadept-yaml](https://github.com/orbitalquark/textadept-yaml) - YAML language module for Textadept.
 - [henriquehbr/docker-commitlint](https://github.com/henriquehbr/docker-commitlint) - Runs commitlint on a docker container
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
@@ -7045,6 +7045,7 @@
 - [bitcrazed/24bit-color](https://github.com/bitcrazed/24bit-color) - Selection of Bash/*NIX scripts for generating 24-bit color tests
 - [ncm2/ncm2-tmux](https://github.com/ncm2/ncm2-tmux) - completion with words from other tmux panes
 - [tweekmonster/deoplete-clang2](https://github.com/tweekmonster/deoplete-clang2) - 
+- [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) - Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB
 - [dbgx/lldb.nvim](https://github.com/dbgx/lldb.nvim) - Debugger integration with a focus on ease-of-use.
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -7273,6 +7274,7 @@
 
 ## Roff 
 
+- [leyuskckiran1510/My-Dwm](https://github.com/leyuskckiran1510/My-Dwm) - This the Desktop Window Manager That I am currently using and it's just a backup for my system resote point
 - [ColumPaget/libUseful-lua](https://github.com/ColumPaget/libUseful-lua) - lua bindings for libUseful
 - [budlabs/polify](https://github.com/budlabs/polify) - Precision control for polybar modules
 - [man9ourah/long-statusline](https://github.com/man9ourah/long-statusline) - 
@@ -8497,6 +8499,7 @@
 
 ## Vim Script 
 
+- [JMcKiern/vim-venter](https://github.com/JMcKiern/vim-venter) - Vim plugin that horizontally centers the current window(s)
 - [isene/hyperlist.vim](https://github.com/isene/hyperlist.vim) - This VIM plugin makes it easy to create and manage HyperLists using VIM
 - [cynix/vim-mergetool](https://github.com/cynix/vim-mergetool) - :cake: Efficient way of using Vim as a Git mergetool
 - [girishji/search-complete.vim](https://github.com/girishji/search-complete.vim) - Async search mode completion with popup menu for Vim.
