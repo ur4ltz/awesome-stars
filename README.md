@@ -3623,6 +3623,7 @@
 
 ## Lua 
 
+- [B4mbus/snowstorm](https://github.com/B4mbus/snowstorm) - 
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - GP (GPT Prompt) plugin for Neovim
 - [tomiis4/hypersonic.nvim](https://github.com/tomiis4/hypersonic.nvim) - A Neovim plugin that provides an explanation for regular expressions.
 - [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) - A multi cursor plugin for Neovim.
@@ -3771,7 +3772,7 @@
 - [nazo6/nvim](https://github.com/nazo6/nvim) - 
 - [vsedov/nvim](https://github.com/vsedov/nvim) - Some really weird setup, am I a plugin Hoe  ? im not sure ?
 - [ten3roberts/qf.nvim](https://github.com/ten3roberts/qf.nvim) - Extends the default quickfix and location lists for neovim
-- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status for Neovim.
+- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
 - [davidosomething/everandever.nvim](https://github.com/davidosomething/everandever.nvim) - Lua utilities for composing an LSP progress indicator.
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu
 - [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
@@ -5368,7 +5369,7 @@
 - [22mahmoud/nvim](https://github.com/22mahmoud/nvim) - 
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars and signs.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - A Neovim plugin that displays interactive vertical scrollbars and signs.
 - [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of fzf fuzzy search for the neovim built in lsp
 - [liquidev/lintplus](https://github.com/liquidev/lintplus) - An improved linting plugin for the lite text editor.
 - [jbyuki/ntangle-lsp.nvim](https://github.com/jbyuki/ntangle-lsp.nvim) - Integration with LSP in ntangle.nvim
@@ -7390,6 +7391,7 @@
 
 ## Rust 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
 - [swsnr/git-gone](https://github.com/swsnr/git-gone) - Cleanup stale Git branches of pull requests
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [enricozb/tree-sitter.kak](https://github.com/enricozb/tree-sitter.kak) - tree-sitter server for kakoune
@@ -8857,8 +8859,8 @@
 - [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, persistent session, yank, ...
 - [atticusmatticus/nvim](https://github.com/atticusmatticus/nvim) - Neovim Dotfiles
 - [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - calendar vimscript
-- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A plugin for profiling Vim and Neovim startup time.
-- [dstein64/dotfiles](https://github.com/dstein64/dotfiles) - 🎛️ My personal dotfiles.
+- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for profiling Vim and Neovim startup time.
+- [dstein64/dotfiles](https://github.com/dstein64/dotfiles) - My personal dotfiles.
 - [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A fast, beautiful, and powerful git branch viewer for vim.
 - [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
@@ -9111,7 +9113,7 @@
 - [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
 - [jackguo380/.vim](https://github.com/jackguo380/.vim) - My .vim directory
 - [will-ockmore/vim-notes](https://github.com/will-ockmore/vim-notes) - A simple workflow for managing your daily notes from Vim.
-- [dstein64/vim-menu](https://github.com/dstein64/vim-menu) - ☰ A plugin providing a console interface to Vim's built-in menu.
+- [dstein64/vim-menu](https://github.com/dstein64/vim-menu) - A plugin providing a console interface to Vim's built-in menu.
 - [mattn/vim-lsp-icons](https://github.com/mattn/vim-lsp-icons) - 
 - [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
 - [rafalbromirski/vim-aurora](https://github.com/rafalbromirski/vim-aurora) - dark theme for vim
@@ -9173,7 +9175,7 @@
 - [yunlingz/equinusocio-material.vim](https://github.com/yunlingz/equinusocio-material.vim) - Equinusocio's material theme for vim
 - [voldikss/vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Translating plugin for Vim/Neovim
 - [Iron-E/vim-libmodal](https://github.com/Iron-E/vim-libmodal) - A Neo/vim plugin to create modes.
-- [dstein64/vim-win](https://github.com/dstein64/vim-win) - 🖼️ A Vim plugin for managing windows.
+- [dstein64/vim-win](https://github.com/dstein64/vim-win) - A Vim plugin for managing windows.
 - [mg979/vim-studio-dark](https://github.com/mg979/vim-studio-dark) - visual studio-like color schemes
 - [mg979/vim-yanktools](https://github.com/mg979/vim-yanktools) - Clipboard tools for vim
 - [mg979/vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
