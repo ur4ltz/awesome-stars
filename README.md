@@ -6664,7 +6664,7 @@
 - [Aadv1k/gdoc.vim](https://github.com/Aadv1k/gdoc.vim) - Google docs integration for vim
 - [Abstract-IDE/LCommit](https://github.com/Abstract-IDE/LCommit) - get repositories's last/latest commit hash
 - [turnkeylinux/octohub](https://github.com/turnkeylinux/octohub) - Low level Python and CLI interface to GitHub
-- [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub) - An async GitHub API library for Python
+- [gidgethub/gidgethub](https://github.com/gidgethub/gidgethub) - An async GitHub API library for Python
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [woltapp/mitmproxy-mock](https://github.com/woltapp/mitmproxy-mock) - A tool to mock/modify server responses easily with mitmproxy
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
