@@ -6065,7 +6065,6 @@
 
 - [adityadaniel/gruvbox-baby-xcode](https://github.com/adityadaniel/gruvbox-baby-xcode) - Port of Gruvbox Baby vim colorscheme for Xcode
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
-- [SevorisDoe/Norgberg](https://github.com/SevorisDoe/Norgberg) - Norgberg is the database services module for Neorg, providing fast document data caching and module state storage.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
 - [devCU/IPS-BitTracker](https://github.com/devCU/IPS-BitTracker) - Bit Torrent Tracker application for IPS 4.5x Community Suite
@@ -7397,8 +7396,9 @@
 - [enricozb/tree-sitter.kak](https://github.com/enricozb/tree-sitter.kak) - tree-sitter server for kakoune
 - [phaazon/kak-tree-sitter](https://github.com/phaazon/kak-tree-sitter) - tree-sitter meets Kakoune
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [SevorisDoe/Norgberg](https://github.com/SevorisDoe/Norgberg) - Norgberg is the database services module for Neorg, providing fast document data caching and module state storage.
 - [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
-- [nvim-neorg/norgopolis](https://github.com/nvim-neorg/norgopolis) - A backend server and client for Norg related applications.
+- [nvim-neorg/norgopolis](https://github.com/nvim-neorg/norgopolis) - A backend server for Norg related applications.
 - [lepton-rs/bencode](https://github.com/lepton-rs/bencode) - Serde library for working with Bencode efficiently
 - [naryand/bencode](https://github.com/naryand/bencode) - See https://github.com/lepton-rs/bencode
 - [naryand/bittorrent](https://github.com/naryand/bittorrent) - BitTorrent client from scratch in Rust
