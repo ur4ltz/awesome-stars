@@ -1708,7 +1708,6 @@
 
 ## CSS 
 
-- [Sinomor/dots](https://github.com/Sinomor/dots) - bspwm dotfiles
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
 - [elbachir-one/dotfiles](https://github.com/elbachir-one/dotfiles) - My dotfiles
 - [B00merang-Project/Windows-3.11](https://github.com/B00merang-Project/Windows-3.11) - A GTK theme based on Windows 3.11 appearance
@@ -2821,7 +2820,7 @@
 - [Integralist/carbon](https://github.com/Integralist/carbon) - HTTP Response Header Sorting and Filtering
 - [zchee/clang-server](https://github.com/zchee/clang-server) - A C/C++ AST index server using libclang and flatbuffers written in Go
 - [tweekmonster/luser](https://github.com/tweekmonster/luser) - Drop-in replacement for os/user in Go
-- [KesonAn/github-compare](https://github.com/KesonAn/github-compare) - A GitHub repositories statistics command-line tool for the terminal
+- [kesonan/github-compare](https://github.com/kesonan/github-compare) - A GitHub repositories statistics command-line tool for the terminal
 - [kevwan/stargazers](https://github.com/kevwan/stargazers) - Monitor star changes of GitHub repo, and send the notification to slack or lark.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [gpanders/ijq](https://github.com/gpanders/ijq) - Interactive jq (mirror)
@@ -3299,7 +3298,7 @@
 - [EmmyLua/EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
 - [shiftrot/droidvim](https://github.com/shiftrot/droidvim) - DroidVim is a Vim clone for Android.
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
-- [sublimehq/Packages](https://github.com/sublimehq/Packages) - 
+- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [irengrig/fossil4idea](https://github.com/irengrig/fossil4idea) - Fossil SCM (http://www.fossil-scm.org/) plugin for IntelliJ IDEA
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 
@@ -3623,6 +3622,8 @@
 
 ## Lua 
 
+- [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) - 
+- [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [B4mbus/snowstorm](https://github.com/B4mbus/snowstorm) - 
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - GP (GPT Prompt) plugin for Neovim
 - [tomiis4/hypersonic.nvim](https://github.com/tomiis4/hypersonic.nvim) - A Neovim plugin that provides an explanation for regular expressions.
@@ -5761,6 +5762,7 @@
 - [timn/lua-xmlrpc](https://github.com/timn/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
 - [neovim/nvimdev.nvim](https://github.com/neovim/nvimdev.nvim) - Neovim plugin for working on Neovim
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
+- [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) - Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
@@ -6065,6 +6067,7 @@
 
 - [adityadaniel/gruvbox-baby-xcode](https://github.com/adityadaniel/gruvbox-baby-xcode) - Port of Gruvbox Baby vim colorscheme for Xcode
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
+- [Sinomor/dots](https://github.com/Sinomor/dots) - bspwm dotfiles
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
 - [devCU/IPS-BitTracker](https://github.com/devCU/IPS-BitTracker) - Bit Torrent Tracker application for IPS 4.5x Community Suite
@@ -6578,7 +6581,7 @@
 - [tokuhirom/Amon2-Lite](https://github.com/tokuhirom/Amon2-Lite) - 
 - [osfameron/perl-tags](https://github.com/osfameron/perl-tags) - 
 - [powerman/asciidoc-cheatsheet](https://github.com/powerman/asciidoc-cheatsheet) - Asciidoc cheatsheet for GitHub
-- [YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme) - A minimal dark Theme for Sublime Text 2 and 3
+- [YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme) - [DEPRECATED] A minimal dark Theme for Sublime Text 2 and 3
 - [mindreframer/nginx-lua-stuff](https://github.com/mindreframer/nginx-lua-stuff) - some libs for NginX-Lua integration
 
 ## PostScript 
@@ -7047,7 +7050,6 @@
 - [bitcrazed/24bit-color](https://github.com/bitcrazed/24bit-color) - Selection of Bash/*NIX scripts for generating 24-bit color tests
 - [ncm2/ncm2-tmux](https://github.com/ncm2/ncm2-tmux) - completion with words from other tmux panes
 - [tweekmonster/deoplete-clang2](https://github.com/tweekmonster/deoplete-clang2) - 
-- [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) - Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB
 - [dbgx/lldb.nvim](https://github.com/dbgx/lldb.nvim) - Debugger integration with a focus on ease-of-use.
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -7543,6 +7545,7 @@
 - [daa84/neovim-lib](https://github.com/daa84/neovim-lib) - Rust library for Neovim clients
 - [yutkat/dotplugs](https://github.com/yutkat/dotplugs) - 
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -7931,7 +7934,7 @@
 - [sainnhe/tmux-translator](https://github.com/sainnhe/tmux-translator) - Tmux translation plugin powered by popup window.
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [danishprakash/dotfiles](https://github.com/danishprakash/dotfiles) - Configuration files for my setup
-- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, Fish, Neovim, Vim, Git, tmux and other stuff
+- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, Bash, Vim, tmux, Git and other stuff
 - [samoshkin/dotfiles](https://github.com/samoshkin/dotfiles) - System settings, configuration files and apps for MacOS. Personal setup
 - [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
 - [danielnehrig/polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
@@ -9323,7 +9326,6 @@
 - [Tehnix/spaceneovim-layers](https://github.com/Tehnix/spaceneovim-layers) - Layers for usage in SpaceNeovim 👉
 - [xenzh/myvimrc](https://github.com/xenzh/myvimrc) - .vimrc and friends
 - [wellle/dotfiles](https://github.com/wellle/dotfiles) - vim, zsh, tmux etc.
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [oguzbilgic/vim-gdiff](https://github.com/oguzbilgic/vim-gdiff) - Populate the QuickFix list with the output of git-diff command
 - [chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn) - A Narrow Region Plugin for vim (like Emacs Narrow Region)
 - [jean/utl.vim](https://github.com/jean/utl.vim) - Univeral Text Linking - Execute URLs, footnotes, open emails, organize ideas
