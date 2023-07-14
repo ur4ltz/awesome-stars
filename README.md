@@ -206,7 +206,7 @@
 - [ViliamKovac1223/dwm-ViliamKovac1223-build](https://github.com/ViliamKovac1223/dwm-ViliamKovac1223-build) - dwm is a dynamic window manager for X.
 - [ColumPaget/daytime](https://github.com/ColumPaget/daytime) - Aims to be a swiss-army-knife of setting system time. Supports setting time from http, nist time, daytime and (s)ntp protocols, and also from the command-line in a number of formats. Can also act as a
 - [ColumPaget/cxine](https://github.com/ColumPaget/cxine) - mostly MPlayer-compatible media player using libxine
-- [ColumPaget/fileferry](https://github.com/ColumPaget/fileferry) - 
+- [ColumPaget/fileferry](https://github.com/ColumPaget/fileferry) - file transfer app with a focus on scripted transfers
 - [ColumPaget/libUseful](https://github.com/ColumPaget/libUseful) - Programmers 'C' library of functions for: resizable strings, file and network access, string tokenization, pattern matching, terminal output, etc, etc
 - [ryjer/opentracker](https://github.com/ryjer/opentracker) - [MIRROR]opentracker is a open and free bittorrent tracker project. It aims for minimal resource usage and is intended to run at your wlan router. Currently it is deployed as an open and free tracker i
 - [ColumPaget/term_wifi](https://github.com/ColumPaget/term_wifi) - command-line or terminal-menu wifi setup application targetting linux machines without X11 (servers etc)
@@ -3125,6 +3125,7 @@
 ## HTML 
 
 - [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font
+- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [avrdudes/avrdude](https://github.com/avrdudes/avrdude) - AVRDUDE is a utility to program AVR microcontrollers
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
@@ -3622,6 +3623,8 @@
 
 ## Lua 
 
+- [Norlock/nvim-traveller](https://github.com/Norlock/nvim-traveller) - File manager inside Neovim
+- [yorickpeterse/nvim-pqf](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows for NeoVim
 - [KaitlynEthylia/Evalua](https://github.com/KaitlynEthylia/Evalua) - A tiny neovim plugin for evaluating Lua code on-the-fly.
 - [kevinhwang91/nvim-fFHighlight](https://github.com/kevinhwang91/nvim-fFHighlight) - Highlight f and F in Neovim
 - [KaitlynEthylia/TreePin](https://github.com/KaitlynEthylia/TreePin) - A lightweight neovim plugin for pinning fragments of code to the screen.
@@ -3740,7 +3743,6 @@
 - [fgheng/vimelua](https://github.com/fgheng/vimelua) - vimelua, an easy and structural config writtern by lua for neovim users
 - [evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim) - A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.
 - [evesdropper/dotfiles](https://github.com/evesdropper/dotfiles) - dotfiles but updated, ft LuaSnip Guide + LaTeX snippets
-- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
 - [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
 - [Sonicfury/scretch.nvim](https://github.com/Sonicfury/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
@@ -3793,7 +3795,7 @@
 - [uga-rosa/ugaterm.nvim](https://github.com/uga-rosa/ugaterm.nvim) - A terminal plugin for Neovim
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) - A panel to view the logs from your LSP servers.
 - [willothy/veil.nvim](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizeable startup / dashboard plugin
-- [willothy/nvim-config](https://github.com/willothy/nvim-config) - 
+- [willothy/nvim-config](https://github.com/willothy/nvim-config) - My personal Neovim config
 - [willothy/minimus](https://github.com/willothy/minimus) - Personal WIP color scheme, forked from Poimandres then rebuilt with Lush
 - [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) - Utilities for interacting with Wezterm from within Neovim
 - [catgoose/coderunner.nvim](https://github.com/catgoose/coderunner.nvim) - 
@@ -4516,7 +4518,7 @@
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [dmitmel/cmp-digraphs](https://github.com/dmitmel/cmp-digraphs) - A nvim-cmp source for completing digraphs.
 - [nandac/font-awesome-docx](https://github.com/nandac/font-awesome-docx) - 
-- [shmuz/LuaFAR-2M](https://github.com/shmuz/LuaFAR-2M) - 
+- [shmuz/luafar2m](https://github.com/shmuz/luafar2m) - 
 - [SvenMarcus/lua-pie](https://github.com/SvenMarcus/lua-pie) - A class library for Lua
 - [natecraddock/nvim-find](https://github.com/natecraddock/nvim-find) - A fast and simple finder plugin for Neovim
 - [natecraddock/dotfiles](https://github.com/natecraddock/dotfiles) - My configurations for linux
@@ -6598,6 +6600,7 @@
 
 ## Python 
 
+- [dmadisetti/paragraph-number.vim](https://github.com/dmadisetti/paragraph-number.vim) - Neovim Plugin to show paragraph numbers for writing in vim
 - [supersaeyan/bittorpy](https://github.com/supersaeyan/bittorpy) - Implementing a bittorrent engine in python
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - All the open source things related to the Hugging Face Hub.
@@ -7394,6 +7397,13 @@
 
 ## Rust 
 
+- [zellij-org/rust-plugin-template](https://github.com/zellij-org/rust-plugin-template) - A template for writing Zellij plugins in Rust
+- [zellij-org/rust-plugin-example](https://github.com/zellij-org/rust-plugin-example) - An example Zellij plugin in Rust
+- [zellij-org/sixel-image](https://github.com/zellij-org/sixel-image) - A lightning-fast Sixel serializer/deserializer
+- [imsnif/multitask](https://github.com/imsnif/multitask) - A mini-CI as a Zellij plugin
+- [imsnif/monocle](https://github.com/imsnif/monocle) - A Zellij plugin to fuzzy find file names and contents in style 🧐
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+- [nim65s/jbz](https://github.com/nim65s/jbz) - 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
 - [swsnr/git-gone](https://github.com/swsnr/git-gone) - Cleanup stale Git branches of pull requests
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
@@ -8508,6 +8518,7 @@
 
 ## Vim Script 
 
+- [imsnif/kdl.vim](https://github.com/imsnif/kdl.vim) - Syntax highlighting and indentation for KDL (https://kdl.dev)
 - [JMcKiern/vim-venter](https://github.com/JMcKiern/vim-venter) - Vim plugin that horizontally centers the current window(s)
 - [isene/hyperlist.vim](https://github.com/isene/hyperlist.vim) - This VIM plugin makes it easy to create and manage HyperLists using VIM
 - [cynix/vim-mergetool](https://github.com/cynix/vim-mergetool) - :cake: Efficient way of using Vim as a Git mergetool
