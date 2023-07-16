@@ -2193,7 +2193,7 @@
 - [purcell/package-lint](https://github.com/purcell/package-lint) - A linting library for elisp package metadata
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
 - [semgilo/.emacs.d](https://github.com/semgilo/.emacs.d) - Personal emacs configuration, customized only for myself
-- [olivertaylor/dotfiles](https://github.com/olivertaylor/dotfiles) - CLI, Emacs, Hammerspoon
+- [overvale/dotfiles](https://github.com/overvale/dotfiles) - CLI, Emacs, Hammerspoon
 - [Parveshdhull/sublima](https://github.com/Parveshdhull/sublima) - Sublime like scratches for emacs
 - [anwyn/slime-company](https://github.com/anwyn/slime-company) - Company-mode completion backend for Slime.
 - [daniel-grumberg/dotfiles-old](https://github.com/daniel-grumberg/dotfiles-old) - 
@@ -3238,6 +3238,7 @@
 
 ## Java 
 
+- [mesflit/meslinux](https://github.com/mesflit/meslinux) - 
 - [AndreyPavlenko/transmissionbtc](https://github.com/AndreyPavlenko/transmissionbtc) - Transmission BitTorrent Client for Android
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [jawi/ols](https://github.com/jawi/ols) - OpenBench LogicSniffer repository
@@ -3623,6 +3624,7 @@
 
 ## Lua 
 
+- [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
 - [Norlock/nvim-traveller](https://github.com/Norlock/nvim-traveller) - File manager inside Neovim
 - [yorickpeterse/nvim-pqf](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows for NeoVim
 - [KaitlynEthylia/Evalua](https://github.com/KaitlynEthylia/Evalua) - A tiny neovim plugin for evaluating Lua code on-the-fly.
@@ -5272,7 +5274,7 @@
 - [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals) - A Metals plugin for Neovim
 - [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
 - [lunarmodules/lualogging](https://github.com/lunarmodules/lualogging) - A simple API to use logging features in Lua
-- [charlesmallah/lua-scriptum](https://github.com/charlesmallah/lua-scriptum) - Documentation generation with Lua
+- [dr-munki/lua-scriptum](https://github.com/dr-munki/lua-scriptum) - Documentation generation with Lua
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph/Cody plugin for Neovim
 - [spc476/LPeg-Parsers](https://github.com/spc476/LPeg-Parsers) - Parsing common data formats via LPeg
 - [spc476/GLV-1.12556](https://github.com/spc476/GLV-1.12556) - The First Gemini Protocol Server
@@ -5492,6 +5494,7 @@
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [kristijanhusak/completion-tags](https://github.com/kristijanhusak/completion-tags) - Tags completion for completion-nvim
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
+- [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [javalikescript/luajls](https://github.com/javalikescript/luajls) - luajls is a set of Lua modules for developing stand-alone Lua applications
 - [zhaozg/lpeg_patterns](https://github.com/zhaozg/lpeg_patterns) - A collection of LPEG patterns
 - [luarocks/luarocks-gui](https://github.com/luarocks/luarocks-gui) - GUI module for LuaRocks 3.x
@@ -5524,7 +5527,7 @@
 - [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors using https://github.com/tjdevries/colorbuddy.vim
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [mindreframer/ProFi.lua](https://github.com/mindreframer/ProFi.lua) - a non-official git mirror for ProFi, a Lua profiler
-- [charlesmallah/lua-profiler](https://github.com/charlesmallah/lua-profiler) - Fast function profiling for use with Lua
+- [dr-munki/lua-profiler](https://github.com/dr-munki/lua-profiler) - Fast function profiling for use with Lua
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim
 - [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) - Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink:
 - [jaawerth/fennel-nvim](https://github.com/jaawerth/fennel-nvim) - running fennel-lang natively in neovim
@@ -6069,6 +6072,8 @@
 
 ## Others 
 
+- [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
+- [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [adityadaniel/gruvbox-baby-xcode](https://github.com/adityadaniel/gruvbox-baby-xcode) - Port of Gruvbox Baby vim colorscheme for Xcode
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [Sinomor/dots](https://github.com/Sinomor/dots) - bspwm dotfiles
@@ -6600,6 +6605,7 @@
 
 ## Python 
 
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [dmadisetti/paragraph-number.vim](https://github.com/dmadisetti/paragraph-number.vim) - Neovim Plugin to show paragraph numbers for writing in vim
 - [supersaeyan/bittorpy](https://github.com/supersaeyan/bittorpy) - Implementing a bittorrent engine in python
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
@@ -7397,6 +7403,7 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [zellij-org/rust-plugin-template](https://github.com/zellij-org/rust-plugin-template) - A template for writing Zellij plugins in Rust
 - [zellij-org/rust-plugin-example](https://github.com/zellij-org/rust-plugin-example) - An example Zellij plugin in Rust
 - [zellij-org/sixel-image](https://github.com/zellij-org/sixel-image) - A lightning-fast Sixel serializer/deserializer
@@ -8978,7 +8985,6 @@
 - [gpakosz/.vim](https://github.com/gpakosz/.vim) - Sensible yet opinionated Vim configuration
 - [kristijanhusak/vim-simple-notifications](https://github.com/kristijanhusak/vim-simple-notifications) - 
 - [yaronkh/vim-winmanip](https://github.com/yaronkh/vim-winmanip) - 
-- [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [adelarsq/vim-tetris](https://github.com/adelarsq/vim-tetris) - Tetris para Vim
 - [juneedahamed/vc.vim](https://github.com/juneedahamed/vc.vim) - Support for SVN, Git, HG and BZR
 - [wsdjeg/scrollbar.vim](https://github.com/wsdjeg/scrollbar.vim) - 
