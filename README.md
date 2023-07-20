@@ -2723,6 +2723,7 @@
 
 ## Fennel 
 
+- [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [hudclark/grpc-nvim](https://github.com/hudclark/grpc-nvim) - Grpc Client for Neovim
 - [aileot/nvim-fnl](https://github.com/aileot/nvim-fnl) - Neovim config under fnl/ from my private dotfiles
 - [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of macros for Neovim, highly inspired by Vim script, and Nvim Lua stdlib
@@ -2743,6 +2744,7 @@
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 - [Kethku/vim-config](https://github.com/Kethku/vim-config) - My neovim config.
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration using Fennel
+- [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
 - [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
@@ -2784,6 +2786,7 @@
 
 ## Go 
 
+- [creativecreature/code-harvest](https://github.com/creativecreature/code-harvest) - Harvesting metadata from my coding sessions
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
 - [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
@@ -2844,7 +2847,7 @@
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
 - [imsky/github-fresh](https://github.com/imsky/github-fresh) - :octocat: Keep your GitHub repo fresh.
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [rootVIII/queryFS](https://github.com/rootVIII/queryFS) - Recursively query a Linux file system - similar to find cmd
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [arduino/arduino-builder](https://github.com/arduino/arduino-builder) - A command line tool for compiling Arduino sketches
@@ -3004,7 +3007,7 @@
 - [liuxu623/go-rtorrent](https://github.com/liuxu623/go-rtorrent) - rTorrent XMLRPC Bindings for Go
 - [mrobinsn/go-rtorrent](https://github.com/mrobinsn/go-rtorrent) - rTorrent XMLRPC Bindings for Go
 - [govim/govim](https://github.com/govim/govim) - govim is a Go development plugin for Vim8, written in Go
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [sourcegraph/lsp-adapter](https://github.com/sourcegraph/lsp-adapter) - lsp-adapter provides a proxy which adapts Sourcegraph LSP requests to vanilla LSP requests
 - [slytomcat/yandex-disk-simulator](https://github.com/slytomcat/yandex-disk-simulator) - yandex-disk utility simulator for integration tests (Linux)
 - [slytomcat/yd-qgo](https://github.com/slytomcat/yd-qgo) - Qt version of system tray indicator for Yandex.Disk CLI daemon (linux)
@@ -3307,6 +3310,9 @@
 
 ## JavaScript 
 
+- [amaanq/tree-sitter-luap](https://github.com/amaanq/tree-sitter-luap) - Lua Patterns grammar for tree-sitter
+- [amaanq/tree-sitter-luadoc](https://github.com/amaanq/tree-sitter-luadoc) - Luadoc grammar for tree-sitter
+- [latex-lsp/tree-sitter-bibtex](https://github.com/latex-lsp/tree-sitter-bibtex) - BibTeX grammar for tree-sitter
 - [lukas-w/font-logos](https://github.com/lukas-w/font-logos) - An icon font providing popular linux distro's logos
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -3359,6 +3365,7 @@
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [Ironimus/estilo](https://github.com/Ironimus/estilo) - Create color schemes for Vim, Airline and Lightline
+- [ecosse3/dotfiles](https://github.com/ecosse3/dotfiles) - Dotfiles for my awesomewm/i3 Arch setup & neovim
 - [Web-eWorks/ide-c-cpp](https://github.com/Web-eWorks/ide-c-cpp) - An Atom IDE integration with CCLS / CQuery.
 - [bash-lsp/ide-bash](https://github.com/bash-lsp/ide-bash) - Bash language support for Atom-IDE
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
@@ -3626,6 +3633,7 @@
 
 ## Lua 
 
+- [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
 - [Norlock/nvim-traveller](https://github.com/Norlock/nvim-traveller) - File manager inside Neovim
 - [yorickpeterse/nvim-pqf](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows for NeoVim
@@ -5199,7 +5207,7 @@
 - [mthnglac/dotfiles](https://github.com/mthnglac/dotfiles) - This is what I use to get things done!
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [LoricAndre/OneTerm.nvim](https://github.com/LoricAndre/OneTerm.nvim) - One terminal plugin to rule them all ! (eventually)
-- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
 - [tamago324/compe-necosyntax](https://github.com/tamago324/compe-necosyntax) - neco-syntax completion source for nvim-compe
 - [tamago324/lir-bookmark.nvim](https://github.com/tamago324/lir-bookmark.nvim) - 
 - [tamago324/lir-mmv.nvim](https://github.com/tamago324/lir-mmv.nvim) - 
@@ -5495,7 +5503,6 @@
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [kristijanhusak/completion-tags](https://github.com/kristijanhusak/completion-tags) - Tags completion for completion-nvim
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
-- [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [javalikescript/luajls](https://github.com/javalikescript/luajls) - luajls is a set of Lua modules for developing stand-alone Lua applications
 - [zhaozg/lpeg_patterns](https://github.com/zhaozg/lpeg_patterns) - A collection of LPEG patterns
 - [luarocks/luarocks-gui](https://github.com/luarocks/luarocks-gui) - GUI module for LuaRocks 3.x
@@ -6605,6 +6612,9 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [ytdl-org/ytdl-nightly](https://github.com/ytdl-org/ytdl-nightly) - Nightly builds for youtube-dl.
+- [ytdl-patched/youtube-dl](https://github.com/ytdl-patched/youtube-dl) - Unofficial daily builds for youtube-dl. DO NOT OPEN PULL REQUESTS HERE
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [dmadisetti/paragraph-number.vim](https://github.com/dmadisetti/paragraph-number.vim) - Neovim Plugin to show paragraph numbers for writing in vim
 - [supersaeyan/bittorpy](https://github.com/supersaeyan/bittorpy) - Implementing a bittorrent engine in python
@@ -7618,6 +7628,7 @@
 
 ## Shell 
 
+- [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [ajpaon/termux-packages](https://github.com/ajpaon/termux-packages) - A package build system for Termux.
 - [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
@@ -7880,7 +7891,6 @@
 - [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - A clean and fast Bash prompt
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [changyuheng/fz.sh](https://github.com/changyuheng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
-- [ecosse3/dotfiles](https://github.com/ecosse3/dotfiles) - Dotfiles for my awesomewm/i3 Arch setup & neovim
 - [sonph/dotfiles](https://github.com/sonph/dotfiles) - My .files
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
 - [rupa/z](https://github.com/rupa/z) - z - jump around
@@ -8525,6 +8535,7 @@
 
 ## Vim Script 
 
+- [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim
 - [imsnif/kdl.vim](https://github.com/imsnif/kdl.vim) - Syntax highlighting and indentation for KDL (https://kdl.dev)
 - [JMcKiern/vim-venter](https://github.com/JMcKiern/vim-venter) - Vim plugin that horizontally centers the current window(s)
 - [isene/hyperlist.vim](https://github.com/isene/hyperlist.vim) - This VIM plugin makes it easy to create and manage HyperLists using VIM
