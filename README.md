@@ -2469,7 +2469,6 @@
 - [plexus/chemacs](https://github.com/plexus/chemacs) - Emacs profile switcher
 - [hlissner/emacs-flycheck-moonscript](https://github.com/hlissner/emacs-flycheck-moonscript) - Flycheck support for moonscript-mode
 - [mooz/js-doc](https://github.com/mooz/js-doc) - Insert JsDoc style comment easily in Emacs
-- [Delapouite/dot-in-the-sky](https://github.com/Delapouite/dot-in-the-sky) - 
 - [bbatsov/helm-projectile](https://github.com/bbatsov/helm-projectile) - Helm UI for Projectile
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [bbatsov/super-save](https://github.com/bbatsov/super-save) - Save Emacs buffers when they lose focus
@@ -5141,7 +5140,7 @@
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [e-cal/evim](https://github.com/e-cal/evim) - Neovim meets VS Code. The best of both worlds, in your terminal, ready to code.
 - [smithbm2316/dotfiles](https://github.com/smithbm2316/dotfiles) - There's no place like ~
-- [nihilistkitten/dotfiles](https://github.com/nihilistkitten/dotfiles) - 
+- [rileyshahar/dotfiles](https://github.com/rileyshahar/dotfiles) - 
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
 - [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) - Virtual text context for neovim treesitter
 - [marioortizmanero/adoc-pdf-live.nvim](https://github.com/marioortizmanero/adoc-pdf-live.nvim) - Small plugin for vim to preview Asciidoc PDF output
@@ -5164,7 +5163,7 @@
 - [DGivney/geany-lua-scripts](https://github.com/DGivney/geany-lua-scripts) - Collection of scripts for improved productivity in Geany
 - [m00qek/completion-conjure](https://github.com/m00qek/completion-conjure) - Conjure completion source for completion-nvim
 - [m00qek/library-template.lua](https://github.com/m00qek/library-template.lua) - A template to create pure Lua libraries
-- [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Integration  Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
+- [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
 - [m00qek/matcher_combinators.lua](https://github.com/m00qek/matcher_combinators.lua) - Lua test library for asserting deeply nested data structures
 - [lvim-tech/lvim](https://github.com/lvim-tech/lvim) - LVIM IDE is a modular Neovim configuration written in LUA with full customization. LSP support for 60+ languages. Debug support for c, cpp, dart, elixir, go, haskell, java, javascript/typescript, lua,
 - [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
@@ -6636,7 +6635,6 @@
 - [platformio/platform-ststm32](https://github.com/platformio/platform-ststm32) - ST STM32: development platform for PlatformIO
 - [platformio/platform-espressif8266](https://github.com/platformio/platform-espressif8266) - Espressif 8266: development platform for PlatformIO
 - [fandreyf/tm1637](https://github.com/fandreyf/tm1637) - modified version, works on OrangePi Zero2
-- [nradulovic/py_tm1637](https://github.com/nradulovic/py_tm1637) - TM1637 Driver for Python 3
 - [MilesBDyson/TM1637](https://github.com/MilesBDyson/TM1637) - TM 1637 display python module for Beaglebone Balck
 - [afabian80/nodemcu-weather](https://github.com/afabian80/nodemcu-weather) - Micropython application to show the current temperature from openweathermap on a TM1637 LED display
 - [nopnop2002/python-periphery-tm1637](https://github.com/nopnop2002/python-periphery-tm1637) - python-periphery TM1637 4Digits 8Segment LCD example
@@ -6647,7 +6645,7 @@
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
 - [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
@@ -7720,7 +7718,7 @@
 - [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
-- [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
+- [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [Integralist/dotfiles](https://github.com/Integralist/dotfiles) - Bash shell and Vim configuration settings
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [tortious/zplugin-configs](https://github.com/tortious/zplugin-configs) - Real-world configuration files (basically zshrc-s) holding Zplugin invocations
@@ -8082,6 +8080,7 @@
 - [polaroidkidd/services](https://github.com/polaroidkidd/services) - services running at dle.dev
 - [rachpt/auto-dl](https://github.com/rachpt/auto-dl) - 刷下载量提升用户等级
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
+- [Delapouite/dot-in-the-sky](https://github.com/Delapouite/dot-in-the-sky) - 
 - [jeremyf/dotzshrc](https://github.com/jeremyf/dotzshrc) - 
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
