@@ -4118,7 +4118,7 @@
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [norseghost/nvimwordlist](https://github.com/norseghost/nvimwordlist) - Create a spell file for Neovim builtins
 - [ziontee113/query-secretary](https://github.com/ziontee113/query-secretary) - Neovim Plugin that assists you in writing Treesitter Queries
-- [Pocco81/auto-save.nvim](https://github.com/Pocco81/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
+- [pocco81/auto-save.nvim](https://github.com/pocco81/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [ofirgall/goto-breakpoints.nvim](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints with keymappings for nvim-dap
 - [ofirgall/format-on-leave.nvim](https://github.com/ofirgall/format-on-leave.nvim) - A simple plugin to format your buffer after you leave it.
 - [ofirgall/title.nvim](https://github.com/ofirgall/title.nvim) - 
@@ -5011,10 +5011,9 @@
 - [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) - This neovim plugin creates missing folders on save.
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) - A neovim plugin leveraging pandoc to help you convert your markdown files. It takes pandoc options from yaml blocks.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
-- [Pocco81/dap-buddy.nvim](https://github.com/Pocco81/dap-buddy.nvim) - 🐞 Debug Adapter Protocol manager for Neovim
+- [pocco81/dap-buddy.nvim](https://github.com/pocco81/dap-buddy.nvim) - 🐞 Debug Adapter Protocol manager for Neovim
 - [RRethy/dotfiles](https://github.com/RRethy/dotfiles) - My dotfiles: neovim, git, zsh, kitty
 - [matbme/JABS.nvim](https://github.com/matbme/JABS.nvim) - Just Another Buffer Switcher for Neovim
-- [Pocco81/abbrev-man.nvim](https://github.com/Pocco81/abbrev-man.nvim) - 🍍 A NeoVim plugin for managing vim abbreviations.
 - [sumneko/lua-glob](https://github.com/sumneko/lua-glob) - 
 - [winston0410/commented.nvim](https://github.com/winston0410/commented.nvim) - Neovim commenting plugin in Lua. Support operator, motions and more than 60 languages! :fire:
 - [David-Kunz/vim](https://github.com/David-Kunz/vim) - 
@@ -5032,7 +5031,7 @@
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
-- [Pocco81/high-str.nvim](https://github.com/Pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
+- [pocco81/high-str.nvim](https://github.com/pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
 - [eira-fransham/stateful-lua](https://github.com/eira-fransham/stateful-lua) - A DSL for writing finite state machines in Lua (aimed towards game development). Based on UnrealScript's state construct. Allows single inheritance with the enter and exit functions being called the m
 - [eira-fransham/chat-lua](https://github.com/eira-fransham/chat-lua) - Proof-of-concept chat eDSL in Lua using coroutines
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -5166,7 +5165,7 @@
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor)
 - [m00qek/matcher_combinators.lua](https://github.com/m00qek/matcher_combinators.lua) - Lua test library for asserting deeply nested data structures
 - [lvim-tech/lvim](https://github.com/lvim-tech/lvim) - LVIM IDE is a modular Neovim configuration written in LUA with full customization. LSP support for 60+ languages. Debug support for c, cpp, dart, elixir, go, haskell, java, javascript/typescript, lua,
-- [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
+- [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) - Auto pair plugin for neovim
 - [famiu/nvim-reload](https://github.com/famiu/nvim-reload) - Plugin to easily reload your Neovim config
 - [lenguyenthanh/dotfiles](https://github.com/lenguyenthanh/dotfiles) - My dotfiles
