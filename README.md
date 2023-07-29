@@ -4986,7 +4986,6 @@
 - [TheNerdyHamster/TNH-nvim](https://github.com/TheNerdyHamster/TNH-nvim) - 
 - [NoTranslation/Conky-Minimalism](https://github.com/NoTranslation/Conky-Minimalism) - A Simple Conky config
 - [michaelb/Conky-Minimalism-tweaked](https://github.com/michaelb/Conky-Minimalism-tweaked) - Tweak of Conky-Minimalism to consume less ressources and better fit my needs
-- [doums/lsp_spinner.nvim](https://github.com/doums/lsp_spinner.nvim) - neovim plugin to retrieve the name of the running LSP client(s) and display a spinner when there are wip job
 - [mhanberg/.dotfiles](https://github.com/mhanberg/.dotfiles) - My dotfiles
 - [WhoIsSethDaniel/toggle-lsp-diagnostics.nvim](https://github.com/WhoIsSethDaniel/toggle-lsp-diagnostics.nvim) - Neovim plugin for toggling the LSP diagnostics.
 - [pianocomposer321/yabs.nvim](https://github.com/pianocomposer321/yabs.nvim) - Yet Another Build System/Code Runner for Neovim, written in lua
