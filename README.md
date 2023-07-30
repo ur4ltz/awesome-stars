@@ -3242,6 +3242,8 @@
 
 ## Java 
 
+- [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
+- [woheller69/gptAssist](https://github.com/woheller69/gptAssist) - gptAssist is a simple WebView wrapper for ChatGPT
 - [mesflit/meslinux](https://github.com/mesflit/meslinux) - 
 - [AndreyPavlenko/transmissionbtc](https://github.com/AndreyPavlenko/transmissionbtc) - Transmission BitTorrent Client for Android
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
