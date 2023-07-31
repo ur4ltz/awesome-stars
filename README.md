@@ -3634,6 +3634,7 @@
 
 ## Lua 
 
+- [monkoose/matchparen.nvim](https://github.com/monkoose/matchparen.nvim) - alternative to matchparen neovim plugin
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
 - [Norlock/nvim-traveller](https://github.com/Norlock/nvim-traveller) - File manager inside Neovim
@@ -3971,7 +3972,7 @@
 - [bennypowers/splitjoin.nvim](https://github.com/bennypowers/splitjoin.nvim) - 🪓🧷 Split or join list-like syntax constructs
 - [mg979/vim.ui.popup](https://github.com/mg979/vim.ui.popup) - Popup module for nvim.
 - [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim
-- [NvChad/base46](https://github.com/NvChad/base46) - nvchad's base46 theme plugin
+- [NvChad/base46](https://github.com/NvChad/base46) - NvChad's base46 theme plugin with caching ( Total re-write )
 - [ziontee113/ziontee113-neovim-config](https://github.com/ziontee113/ziontee113-neovim-config) - My Neovim config since Oct 6, 2022
 - [ziontee113/SelectEase](https://github.com/ziontee113/SelectEase) - SelectEase selects matching nodes near the cursor using Treesitter queries with Vim's Select Mode.
 - [AlphabetsAlphabets/gdb.nvim](https://github.com/AlphabetsAlphabets/gdb.nvim) - Super simple GDB integration with Neovim for debugging in C and C++
@@ -5635,6 +5636,7 @@
 - [weilbith/nvim-lsp-bacomp](https://github.com/weilbith/nvim-lsp-bacomp) - A NeoVim plugin for using language server capabilites with backward compatibility in mind
 - [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim) - NeoVim plugin to auto configure 'ts', 'sw', 'sts', 'et'
 - [petrihakkinen/lite](https://github.com/petrihakkinen/lite) - A lightweight text editor written in Lua
+- [prabirshrestha/dotfiles](https://github.com/prabirshrestha/dotfiles) - There is no place like ~
 - [prabirshrestha/lua-callbag](https://github.com/prabirshrestha/lua-callbag) - 
 - [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) - A dark color scheme for Neovim derived from palenight and carbonight
 - [rxi/linters](https://github.com/rxi/linters) - Linters for https://github.com/rxi/lite
@@ -7062,7 +7064,6 @@
 - [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
 - [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation for neovim/Vim8
 - [ValdikSS/blockcheck](https://github.com/ValdikSS/blockcheck) - Russian ISP blocking type checker NOTE: NOT WORKING CURRENTLY. ВНИМАНИЕ: НЕ РАБОТАЕТ НА ТЕКУЩИЙ МОМЕНТ
-- [Yggdroot/LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
 - [Haron-Prime/My_config_files](https://github.com/Haron-Prime/My_config_files) - My configs backups
 - [viniarck/rofi-tmux](https://github.com/viniarck/rofi-tmux) - :heavy_check_mark: rft (rofi-tmux). Quickly switches tmux sessions, windows and tmuxinator projects
 - [bitcrazed/24bit-color](https://github.com/bitcrazed/24bit-color) - Selection of Bash/*NIX scripts for generating 24-bit color tests
@@ -7625,6 +7626,7 @@
 
 ## Shell 
 
+- [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [ajpaon/termux-packages](https://github.com/ajpaon/termux-packages) - A package build system for Termux.
 - [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
@@ -8119,7 +8121,6 @@
 - [haikuports/haikuports](https://github.com/haikuports/haikuports) - Software ports for the Haiku operating system.
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
-- [prabirshrestha/dotfiles](https://github.com/prabirshrestha/dotfiles) - There is no place like ~
 - [CinnamonSlackBuilds/csb](https://github.com/CinnamonSlackBuilds/csb) - SlackBuild scripts for the Cinnamon desktop environment
 - [darvid/zsh-poetry](https://github.com/darvid/zsh-poetry) - 🐚 Simple ZSH plugin for automatically activating and deactivating Poetry-created virtualenvs. 🐍
 - [drmargarido/d-tracker-aur](https://github.com/drmargarido/d-tracker-aur) - D-Tracker Arch User Repository Package
@@ -9521,7 +9522,6 @@
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
 - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
-- [Yggdroot/hiPairs](https://github.com/Yggdroot/hiPairs) - Highlights the pair surrounding the current cursor position.
 - [ncm2/ncm2-github](https://github.com/ncm2/ncm2-github) - 
 - [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim) - Interactive command execution in Vim.
 - [Shougo/neco-vim](https://github.com/Shougo/neco-vim) - The Vim Script completion source for neocomplete/deoplete/ddc
@@ -9562,7 +9562,6 @@
 - [segeljakt/vim-stealth](https://github.com/segeljakt/vim-stealth) - Toggle the visibility of comments
 - [romgrk/vim-exeline](https://github.com/romgrk/vim-exeline) - Execute a command on save
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
-- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [protesilaos/prot16-vim](https://github.com/protesilaos/prot16-vim) - Vim ports of the Prot16 collection of colour schemes.
 - [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [lambdalisue/vim-gita](https://github.com/lambdalisue/vim-gita) - [Obsolete] An awesome git handling plugin for Vim
