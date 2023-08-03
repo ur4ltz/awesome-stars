@@ -3132,8 +3132,6 @@
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [avrdudes/avrdude](https://github.com/avrdudes/avrdude) - AVRDUDE is a utility to program AVR microcontrollers
-- [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
-- [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
@@ -3322,6 +3320,8 @@
 - [Mshakir-Git/Quantumjs](https://github.com/Mshakir-Git/Quantumjs) - Terminal game engine
 - [cncjs/cncjs](https://github.com/cncjs/cncjs) - A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.
 - [tedor/weather-station-frontend](https://github.com/tedor/weather-station-frontend) - Frontend for arduion-weather-station
+- [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
+- [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32
 - [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
@@ -7304,6 +7304,7 @@
 
 ## Ruby 
 
+- [maxbrunsfeld/vim-yankstack](https://github.com/maxbrunsfeld/vim-yankstack) - A lightweight implementation of emacs's kill-ring for vim
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 - [ruby/syntax_suggest](https://github.com/ruby/syntax_suggest) - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
 - [CKolkey/solargraph-syntax-suggest](https://github.com/CKolkey/solargraph-syntax-suggest) - 
@@ -8536,6 +8537,9 @@
 
 ## Vim Script 
 
+- [inkarkat/vim-UnconditionalPaste](https://github.com/inkarkat/vim-UnconditionalPaste) - Force character-/line-/block-wise paste, regardless of how it was yanked.
+- [svban/YankAssassin.vim](https://github.com/svban/YankAssassin.vim) - Don't let the cursor move while Yanking in Vim/Neovim
+- [bkoropoff/yankee.vim](https://github.com/bkoropoff/yankee.vim) - Fancy-ish yank ring for VIM
 - [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim
 - [imsnif/kdl.vim](https://github.com/imsnif/kdl.vim) - Syntax highlighting and indentation for KDL (https://kdl.dev)
 - [JMcKiern/vim-venter](https://github.com/JMcKiern/vim-venter) - Vim plugin that horizontally centers the current window(s)
@@ -9380,7 +9384,7 @@
 - [changemewtf/no_plugins](https://github.com/changemewtf/no_plugins) - "Slides" and supplemental info from my August 3rd 2016 NYC Vim talk
 - [hzchirs/vim-material](https://github.com/hzchirs/vim-material) - 🧩 Visual Studio Code Material Theme port for Vim/Neovim
 - [kaicataldo/material.vim](https://github.com/kaicataldo/material.vim) - 🎨 A port of the Material color scheme for Vim/Neovim
-- [ckoehn/dotfiles](https://github.com/ckoehn/dotfiles) - Personal Arch Linux dotfiles
+- [ckoehn/dotfiles](https://github.com/ckoehn/dotfiles) - Personal Mac dotfiles
 - [samoshkin/dotvim](https://github.com/samoshkin/dotvim) - Personal vim configuration: vimrc file and friends
 - [samoshkin/vim-find-files](https://github.com/samoshkin/vim-find-files) - :mag_right: Search for files and show results in a quickfix list, new buffer, or populate the argument list.
 - [samoshkin/vim-mergetool](https://github.com/samoshkin/vim-mergetool) - :cake: Efficient way of using Vim as a Git mergetool
