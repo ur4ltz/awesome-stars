@@ -1101,6 +1101,7 @@
 
 ## C++ 
 
+- [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [jake-stewart/jfind](https://github.com/jake-stewart/jfind) - 
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 - [lightaprs/LightAPRS-W-2.0](https://github.com/lightaprs/LightAPRS-W-2.0) - Arduino based APRS & WSPR Tracker
@@ -1409,7 +1410,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), co
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -1995,7 +1996,6 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, ...
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -2469,6 +2469,7 @@
 - [plexus/chemacs](https://github.com/plexus/chemacs) - Emacs profile switcher
 - [hlissner/emacs-flycheck-moonscript](https://github.com/hlissner/emacs-flycheck-moonscript) - Flycheck support for moonscript-mode
 - [mooz/js-doc](https://github.com/mooz/js-doc) - Insert JsDoc style comment easily in Emacs
+- [Delapouite/dot-in-the-sky](https://github.com/Delapouite/dot-in-the-sky) - 
 - [bbatsov/helm-projectile](https://github.com/bbatsov/helm-projectile) - Helm UI for Projectile
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [bbatsov/super-save](https://github.com/bbatsov/super-save) - Save Emacs buffers when they lose focus
@@ -2886,7 +2887,6 @@
 - [RRethy/hexokinase](https://github.com/RRethy/hexokinase) - Fast text scraper to find and convert colours (hex, rgb, rgb, hsl, web colours, custom patterns, etc.) into hex values
 - [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [gennaro-tedesco/zathuraconf](https://github.com/gennaro-tedesco/zathuraconf) - Change zathura colour schemes
-- [gennaro-tedesco/boilit](https://github.com/gennaro-tedesco/boilit) - create boilerplate structure for neovim plugins
 - [gennaro-tedesco/stargazer](https://github.com/gennaro-tedesco/stargazer) - ⭐ github stats from the command line
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -3633,6 +3633,9 @@
 
 ## Lua 
 
+- [adrianvalenz/chronos.nvim](https://github.com/adrianvalenz/chronos.nvim) - Cycle through date and time with ease
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Help you to create tmp playground files, which can be found later,  with one stroke and without worrying about what's the filename and where to put it.
+- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of pre-defined commands which are readable and easy to search and use
 - [monkoose/matchparen.nvim](https://github.com/monkoose/matchparen.nvim) - alternative to matchparen neovim plugin
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
@@ -3921,7 +3924,7 @@
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
 - [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [loctvl842/nvim](https://github.com/loctvl842/nvim) - neovim config using lazy
-- [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) - Complete rewrite.
+- [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) - Complete rewrite. Pure Lua.
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) - 
 - [TheSafdarAwan/find-extender.nvim](https://github.com/TheSafdarAwan/find-extender.nvim) - extend's the capability of neovim find command's
 - [echasnovski/mini.align](https://github.com/echasnovski/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
@@ -4735,6 +4738,7 @@
 - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
 - [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) - The missing utf8 module for neovim Lua.
+- [fnune/dotfiles](https://github.com/fnune/dotfiles) - My dotfiles, built to work with GNU stow in a ~/.dotfiles directory
 - [AlphaTechnolog/onedarker.nvim](https://github.com/AlphaTechnolog/onedarker.nvim) - A beautiful onedark based colorscheme for neovim (maked with lua and extracted from the lunarvim project)
 - [jeetsukumaran/telescope-rtp](https://github.com/jeetsukumaran/telescope-rtp) - 
 - [HiPhish/desktop-notify-nvim](https://github.com/HiPhish/desktop-notify-nvim) - [mirror] Neovim notifications on your desktop
@@ -5026,6 +5030,7 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, ...
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -6029,6 +6034,7 @@
 
 ## Nix 
 
+- [t184256/nix-on-droid](https://github.com/t184256/nix-on-droid) - Nix-enabled environment for your Android device.
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
@@ -7412,6 +7418,7 @@
 
 ## Rust 
 
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [zellij-org/rust-plugin-template](https://github.com/zellij-org/rust-plugin-template) - A template for writing Zellij plugins in Rust
 - [zellij-org/rust-plugin-example](https://github.com/zellij-org/rust-plugin-example) - An example Zellij plugin in Rust
@@ -7802,7 +7809,6 @@
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [joestandring/alarm](https://github.com/joestandring/alarm) - A shell script to play an alarm at a predetermined time
 - [ldelossa/sway-fzfify](https://github.com/ldelossa/sway-fzfify) - A set of script to incorporate fzf into your sway desktop
-- [fnune/dotfiles](https://github.com/fnune/dotfiles) - My dotfiles, built to work with GNU stow in a ~/.dotfiles directory
 - [fnune/i3](https://github.com/fnune/i3) - My i3 config files.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tinted-theming/base16-fzf](https://github.com/tinted-theming/base16-fzf) - base16 colorschemes for fzf
@@ -7837,7 +7843,7 @@
 - [voidsampaiaovoid/My-bspwm-](https://github.com/voidsampaiaovoid/My-bspwm-) - 
 - [voidsampaiaovoid/make-your-bspwm-sexy](https://github.com/voidsampaiaovoid/make-your-bspwm-sexy) - 
 - [voidsampaiaovoid/nothing-bspwm](https://github.com/voidsampaiaovoid/nothing-bspwm) - 
-- [sbulav/dotfiles](https://github.com/sbulav/dotfiles) - My config files
+- [sbulav/dotfiles](https://github.com/sbulav/dotfiles) - My configuration files
 - [cornerman/dotfiles](https://github.com/cornerman/dotfiles) - 
 - [cornerman/i3-completion](https://github.com/cornerman/i3-completion) - bash completion for i3-msg
 - [cornerman/mpd-select](https://github.com/cornerman/mpd-select) - Control mpd with dmenu
@@ -8083,7 +8089,6 @@
 - [polaroidkidd/services](https://github.com/polaroidkidd/services) - services running at dle.dev
 - [rachpt/auto-dl](https://github.com/rachpt/auto-dl) - 刷下载量提升用户等级
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
-- [Delapouite/dot-in-the-sky](https://github.com/Delapouite/dot-in-the-sky) - 
 - [jeremyf/dotzshrc](https://github.com/jeremyf/dotzshrc) - 
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
