@@ -7635,7 +7635,6 @@
 ## Shell 
 
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
-- [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [ajpaon/termux-packages](https://github.com/ajpaon/termux-packages) - A package build system for Termux.
 - [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
@@ -8370,6 +8369,7 @@
 
 ## TypeScript 
 
+- [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) - sort json objects plugin for neovim
 - [yuki-yano/highlight-undo.nvim](https://github.com/yuki-yano/highlight-undo.nvim) - 
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
