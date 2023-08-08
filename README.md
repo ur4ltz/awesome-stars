@@ -200,6 +200,7 @@
 
 ## C 
 
+- [idkso/lenstatus](https://github.com/idkso/lenstatus) - dwmblocks inspired dwm status program
 - [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [NF02/snotes](https://github.com/NF02/snotes) - A very simple and immediate note manager
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
@@ -1350,7 +1351,7 @@
 - [colorer/Colorer-library](https://github.com/colorer/Colorer-library) - Syntax  highlighting  and text parsing library
 - [colorer/FarColorer](https://github.com/colorer/FarColorer) - Syntax highlighting plugin for FAR Manager.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
-- [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - format lua code and check lua code style
+- [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
 - [wmww/wmwwStatusline](https://github.com/wmww/wmwwStatusline) - A configurable Linux statusline written in C++ designed for use with sway and i3
 - [electric-sheep-co/arduino-redis](https://github.com/electric-sheep-co/arduino-redis) - A Redis client library for Arduino.
 - [marchersimon/tldr-cpp](https://github.com/marchersimon/tldr-cpp) - The all-in-one tldr client for users and contributors
@@ -1410,7 +1411,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), co
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3129,7 +3130,7 @@
 ## HTML 
 
 - [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font
-- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
+- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [avrdudes/avrdude](https://github.com/avrdudes/avrdude) - AVRDUDE is a utility to program AVR microcontrollers
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
@@ -3633,6 +3634,9 @@
 
 ## Lua 
 
+- [Velrok/pr_status.nvim](https://github.com/Velrok/pr_status.nvim) - Neovim plugin written in lua which uses the gh cli to fetch any pull request check results and allow to display them in a status bar.
+- [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
+- [dl-tg/luash](https://github.com/dl-tg/luash) - Extensible Lua terminal emulator
 - [adrianvalenz/chronos.nvim](https://github.com/adrianvalenz/chronos.nvim) - Cycle through date and time with ease
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Help you to create tmp playground files, which can be found later,  with one stroke and without worrying about what's the filename and where to put it.
 - [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of pre-defined commands which are readable and easy to search and use
@@ -6084,6 +6088,7 @@
 
 ## Others 
 
+- [veebch/boostbox](https://github.com/veebch/boostbox) - Some notes on a cli terminal, gently built from an old  super 8 viewer
 - [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [adityadaniel/gruvbox-baby-xcode](https://github.com/adityadaniel/gruvbox-baby-xcode) - Port of Gruvbox Baby vim colorscheme for Xcode
@@ -8165,6 +8170,7 @@
 - [automate-lfs/jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
 - [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
 - [NHDaly/tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - A tmux plugin to better manage and configure the mouse.
+- [andrejlevkovitch/MySettings](https://github.com/andrejlevkovitch/MySettings) - 
 - [andrejlevkovitch/basic_oauth](https://github.com/andrejlevkovitch/basic_oauth) - 
 - [EllaTheCat/i3-parkinson](https://github.com/EllaTheCat/i3-parkinson) - An article by /u/EllaTheCat about using i3 with and because of Parkinsons's Disease (PD)
 - [lifepillar/dotfiles](https://github.com/lifepillar/dotfiles) - 🏡 My dotfiles… finally!
@@ -8542,6 +8548,7 @@
 
 ## Vim Script 
 
+- [girishji/vimcomplete](https://github.com/girishji/vimcomplete) - Async autocompletion plugin for Vim written in Vim9script with support for LSP, snippets, dictionary, buffer, abbrevs, path, vimscript, ngrams, and more.
 - [inkarkat/vim-UnconditionalPaste](https://github.com/inkarkat/vim-UnconditionalPaste) - Force character-/line-/block-wise paste, regardless of how it was yanked.
 - [svban/YankAssassin.vim](https://github.com/svban/YankAssassin.vim) - Don't let the cursor move while Yanking in Vim/Neovim
 - [bkoropoff/yankee.vim](https://github.com/bkoropoff/yankee.vim) - Fancy-ish yank ring for VIM
@@ -9231,7 +9238,6 @@
 - [lifepillar/vimrc](https://github.com/lifepillar/vimrc) - My personal Vim configuration.
 - [RRethy/vim-impiared](https://github.com/RRethy/vim-impiared) - impiared.vim - a pair to match plugins of square, round, and curly brackets
 - [habamax/vim-do-outline](https://github.com/habamax/vim-do-outline) - Outline asciidoc(tor) or markdown documents.
-- [andrejlevkovitch/MySettings](https://github.com/andrejlevkovitch/MySettings) - 
 - [andrejlevkovitch/vim-python-format](https://github.com/andrejlevkovitch/vim-python-format) - 
 - [andrejlevkovitch/vim-hl-client](https://github.com/andrejlevkovitch/vim-hl-client) - vim client for hl-server
 - [andrejlevkovitch/vim-lua-format](https://github.com/andrejlevkovitch/vim-lua-format) - 
