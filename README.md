@@ -2449,7 +2449,7 @@
 - [colonelpanic8/term-manager](https://github.com/colonelpanic8/term-manager) - Manage ansi-term buffers using projectile
 - [colonelpanic8/github-search](https://github.com/colonelpanic8/github-search) - Use the github search API to clone github repositories.
 - [colonelpanic8/frame-mode](https://github.com/colonelpanic8/frame-mode) - 
-- [colonelpanic8/org-projectile](https://github.com/colonelpanic8/org-projectile) - Manage org-mode TODOs for your projectile projects
+- [colonelpanic8/org-project-capture](https://github.com/colonelpanic8/org-project-capture) - Manage org-mode TODOs for your projectile projects
 - [colonelpanic8/flimenu](https://github.com/colonelpanic8/flimenu) - 
 - [tonyaldon/inside-emacs](https://github.com/tonyaldon/inside-emacs) - complementary material for the Youtube video series Inside Emacs
 - [daviderestivo/galactic-emacs](https://github.com/daviderestivo/galactic-emacs) - An Emacs distribution coming from the space ...
@@ -3698,7 +3698,6 @@
 - [dapc11/telescope-yaml.nvim](https://github.com/dapc11/telescope-yaml.nvim) - Telescope extension for fuzzy finding YAML files
 - [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with tmux, telescope integration, and native dot repeat.
 - [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
-- [NvChad/extensions](https://github.com/NvChad/extensions) - extensions for NvChad
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
 - [NvChad/basic-config](https://github.com/NvChad/basic-config) - Minimal neovim config for beginners  &lt; 380 ~ LOC
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
@@ -4349,7 +4348,7 @@
 - [anuvyklack/fold-preview.nvim](https://github.com/anuvyklack/fold-preview.nvim) - Preview folds in float window
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) - 
-- [kaplanz/nvim-retrail](https://github.com/kaplanz/nvim-retrail) - Whitespace management for Neovim
+- [kaplanz/retrail.nvim](https://github.com/kaplanz/retrail.nvim) - Whitespace management for Neovim
 - [Yazeed1s/minimal.nvim](https://github.com/Yazeed1s/minimal.nvim) - 
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
 - [maxmx03/solarized.nvim](https://github.com/maxmx03/solarized.nvim) - Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.
@@ -6637,7 +6636,7 @@
 ## Python 
 
 - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template) - neovim plugin template integration test and doc publish
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep is an AI junior developer
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [ytdl-org/ytdl-nightly](https://github.com/ytdl-org/ytdl-nightly) - Nightly builds for youtube-dl.
 - [ytdl-patched/youtube-dl](https://github.com/ytdl-patched/youtube-dl) - Unofficial daily builds for youtube-dl. DO NOT OPEN PULL REQUESTS HERE
@@ -7600,7 +7599,7 @@
 - [daa84/neovim-lib](https://github.com/daa84/neovim-lib) - Rust library for Neovim clients
 - [yutkat/dotplugs](https://github.com/yutkat/dotplugs) - 
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for 15 languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for 15+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -7654,6 +7653,8 @@
 
 ## Shell 
 
+- [SUFandom/proot-distro-tui](https://github.com/SUFandom/proot-distro-tui) - A TUI for Termux's Proot-Distro
+- [SUFandom/proot-distro-tui-u](https://github.com/SUFandom/proot-distro-tui-u) - An Unstable Version of Proot-distro-tui, this is where features can be tested before going mainstream, expect worse bugs than the ordinary
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [ajpaon/termux-packages](https://github.com/ajpaon/termux-packages) - A package build system for Termux.
