@@ -2212,7 +2212,6 @@
 - [kljohann/mpv.el](https://github.com/kljohann/mpv.el) - control mpv for easy note taking
 - [kaofelix/kao-emacs-config](https://github.com/kaofelix/kao-emacs-config) - My emacs configuration.
 - [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
-- [pedh/emacs.d](https://github.com/pedh/emacs.d) - My Emacs config
 - [hongchangwu/dotfiles](https://github.com/hongchangwu/dotfiles) - My dotfiles
 - [vibhavp/dotfiles](https://github.com/vibhavp/dotfiles) - A collection of various dotfiles I use.
 - [michalgr/.emacs.d](https://github.com/michalgr/.emacs.d) - 
@@ -6279,6 +6278,7 @@
 - [dibyendumajumdar/ravi-vscode-debugger](https://github.com/dibyendumajumdar/ravi-vscode-debugger) - VSCode Debug Adapter for Ravi / Lua 5.3
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
+- [pedh/emacs.d](https://github.com/pedh/emacs.d) - My Emacs config
 - [adelarsq/awesome-bugs](https://github.com/adelarsq/awesome-bugs) - Awesome Bugs 🐛
 - [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [teal-language/awesome-teal](https://github.com/teal-language/awesome-teal) - A curated list of Teal-related projects!
@@ -6672,7 +6672,7 @@
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
 - [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
