@@ -3634,6 +3634,7 @@
 
 ## Lua 
 
+- [fabius/molokai.nvim](https://github.com/fabius/molokai.nvim) - 
 - [dorrajmachai/nvim](https://github.com/dorrajmachai/nvim) - My personal Neovim configuration
 - [doums/dark.nvim](https://github.com/doums/dark.nvim) - A dark color scheme for nvim
 - [nvimdev/flybuf.nvim](https://github.com/nvimdev/flybuf.nvim) - show buffers in a float window and support use shortcut to open buffer
@@ -4777,7 +4778,7 @@
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [Abstract-IDE/Abstract-cs](https://github.com/Abstract-IDE/Abstract-cs) - Colorscheme for (neo)vim written in lua, specially made for roshnivim with Tree-sitter support.
 - [rktjmp/fwatch.nvim](https://github.com/rktjmp/fwatch.nvim) - fwatch.nvim lets you watch files or directories for changes and then run vim commands or lua functions.
-- [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with the builtin nvim-lsp
+- [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver for neovim.
 - [creativenull/feline-provider-ale.nvim](https://github.com/creativenull/feline-provider-ale.nvim) - ALE component providers for feline.nvim
 - [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp
 - [creativenull/nvim-config](https://github.com/creativenull/nvim-config) - My neovim config in lua that I use to experiment new features and plugins
@@ -6761,7 +6762,6 @@
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
 - [xflr6/graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
 - [AlphaTechnolog/nerdscanner](https://github.com/AlphaTechnolog/nerdscanner) - Show a traditional linux tree command, but with the nerdfonts (folder icons, files icons, colors, etc)
-- [AlphaTechnolog/wl](https://github.com/AlphaTechnolog/wl) - A simply wallpapers cli manager for linux (rewrite wallc to more easy installation and management)
 - [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim) - Interact with Jupyter from NeoVim.
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) - Google Keep integration for Neovim
 - [gleitz/.emacs.d](https://github.com/gleitz/.emacs.d) - My personal emacs settings
@@ -7708,7 +7708,7 @@
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [kiyoon/treemux](https://github.com/kiyoon/treemux) - A modern file explorer (Nvim-Tree) as a Tmux sidebar, with dynamic updates and bi-directional interaction.
 - [bremme/arduino-project](https://github.com/bremme/arduino-project) - Arduino project skeleton
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [newren/git-filter-branch](https://github.com/newren/git-filter-branch) - Possible new home for git-filter-branch; let's see if anyone else has better ideas where we should stick it
 - [dracula/tmux](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
 - [o0th/tmux-nova](https://github.com/o0th/tmux-nova) - tmux theme
@@ -7785,7 +7785,7 @@
 - [SmiteshP/Dotfiles](https://github.com/SmiteshP/Dotfiles) - My personal dotfiles
 - [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [pwittchen/tmux-plugin-ip](https://github.com/pwittchen/tmux-plugin-ip) - tmux plugin showing IP number
-- [zim0369/bspwm_i3size](https://github.com/zim0369/bspwm_i3size) - i3 like resizing in bspwm
+- [fkinsimple/bspwm_i3size](https://github.com/fkinsimple/bspwm_i3size) - i3 like resizing in bspwm
 - [MichalPlacek/manjaro-i3-tunning](https://github.com/MichalPlacek/manjaro-i3-tunning) - 
 - [MichalPlacek/opensuse-i3-tuning](https://github.com/MichalPlacek/opensuse-i3-tuning) - opensuse & i3 - configs & changes
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
@@ -8565,7 +8565,7 @@
 ## Vim Script 
 
 - [nvimdev/paradox.vim](https://github.com/nvimdev/paradox.vim) - a minimal vim/neovim colorscheme
-- [girishji/vimcomplete](https://github.com/girishji/vimcomplete) - Async autocompletion plugin for Vim written in Vim9script with support for LSP, snippets, dictionary, buffer, abbrevs, path, vimscript, ngrams, and more.
+- [girishji/vimcomplete](https://github.com/girishji/vimcomplete) - Async autocompletion for Vim written in Vim9script with support for LSP, snippets, dictionary, buffer, abbrevs, path, vimscript, ngrams, and more.
 - [inkarkat/vim-UnconditionalPaste](https://github.com/inkarkat/vim-UnconditionalPaste) - Force character-/line-/block-wise paste, regardless of how it was yanked.
 - [svban/YankAssassin.vim](https://github.com/svban/YankAssassin.vim) - Don't let the cursor move while Yanking in Vim/Neovim
 - [bkoropoff/yankee.vim](https://github.com/bkoropoff/yankee.vim) - Fancy-ish yank ring for VIM
