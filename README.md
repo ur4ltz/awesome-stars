@@ -1411,7 +1411,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep version 3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary fi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -2305,7 +2305,7 @@
 - [leonhe/.emacs.d](https://github.com/leonhe/.emacs.d) - emacs cofigs file
 - [Somelauw/evil-markdown](https://github.com/Somelauw/evil-markdown) - Integrates emacs evil and markdown
 - [DamienCassou/emacs.d](https://github.com/DamienCassou/emacs.d) - Emacs configuration directory
-- [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.emacs.d clean
+- [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.config/emacs clean
 - [linktohack/evil-space](https://github.com/linktohack/evil-space) - vim-space for evil-mode
 - [linktohack/evil-commentary](https://github.com/linktohack/evil-commentary) - Comment stuff out. A port of vim-commentary
 - [emacsmirror/git-timemachine](https://github.com/emacsmirror/git-timemachine) - Walk through git revisions of a file
@@ -3819,7 +3819,7 @@
 - [Bilal2453/luvit-meta](https://github.com/Bilal2453/luvit-meta) - Meta type definitions for the Lua platform Luvit.
 - [mikesmithgh/render.nvim](https://github.com/mikesmithgh/render.nvim) - 📸 Neovim plugin to take screenshots of your Neovim session.
 - [mikesmithgh/gruvsquirrel.nvim](https://github.com/mikesmithgh/gruvsquirrel.nvim) - 🐿️ Neovim colorscheme written in Lua inspired by gruvbox
-- [rmagatti/gx-extended.nvim](https://github.com/rmagatti/gx-extended.nvim) - 
+- [rmagatti/gx-extended.nvim](https://github.com/rmagatti/gx-extended.nvim) - Extending the use of Neovim's `gx`
 - [miversen33/neo-tree-dummy-extension](https://github.com/miversen33/neo-tree-dummy-extension) - It doesn't do anything. Why are you here?
 - [cseickel/diagnostic-window.nvim](https://github.com/cseickel/diagnostic-window.nvim) - Shows diagnostic messages in a separate window, which is particularly helpful for long message like those seen in typescript.
 - [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
@@ -3941,7 +3941,7 @@
 - [loctvl842/nvim](https://github.com/loctvl842/nvim) - neovim config using lazy
 - [dharmx-lua/telescope-media.nvim](https://github.com/dharmx-lua/telescope-media.nvim) - Complete rewrite. Pure Lua.
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) - 
-- [TheSafdarAwan/find-extender.nvim](https://github.com/TheSafdarAwan/find-extender.nvim) - extend's the capability of neovim find command's
+- [0xSafdarAwan/find-extender.nvim](https://github.com/0xSafdarAwan/find-extender.nvim) - extend's the capability of neovim find command's
 - [echasnovski/mini.align](https://github.com/echasnovski/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
 - [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
 - [echasnovski/mini.base16](https://github.com/echasnovski/mini.base16) - Neovim Lua plugin for Base16 colorscheme creation. Part of 'mini.nvim' library.
@@ -7653,6 +7653,7 @@
 
 ## Shell 
 
+- [develerik/dotfiles](https://github.com/develerik/dotfiles) - Personal dotfiles for Arch Linux Systems
 - [SUFandom/proot-distro-tui](https://github.com/SUFandom/proot-distro-tui) - A TUI for Termux's Proot-Distro
 - [SUFandom/proot-distro-tui-u](https://github.com/SUFandom/proot-distro-tui-u) - An Unstable Version of Proot-distro-tui, this is where features can be tested before going mainstream, expect worse bugs than the ordinary
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
@@ -7679,7 +7680,6 @@
 - [catgoose/kanagawa-tmux](https://github.com/catgoose/kanagawa-tmux) - 
 - [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard) - One prefix to control all your session creation, naming, switching, etc using fzf & zoxide
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) - Simple script to change color-schemes and fonts for Termux.
-- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [arsham/dotfiles](https://github.com/arsham/dotfiles) - My dotfiles for zsh, tmux, etc.
 - [mehalter/zsh-pins](https://github.com/mehalter/zsh-pins) - ohmyzsh plugin for pinning directories. Like  a CLI folder bookmark manager
 - [mehalter/zsh-nvim-appname](https://github.com/mehalter/zsh-nvim-appname) - A simple ZSH plugin for maintaining multiple Neovim configurations with NVIM_APPNAME
@@ -7774,7 +7774,6 @@
 - [argosopentech/LibreTranslate-sh](https://github.com/argosopentech/LibreTranslate-sh) - Unix bindings for LibreTranslate
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
-- [marlonrichert/.config](https://github.com/marlonrichert/.config) - ⚙️ Bootstrappable user environment for macOS & Ubuntu
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [marlonrichert/zsh-edit](https://github.com/marlonrichert/zsh-edit) - 🛠 Better command line editing tools for Zsh
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
@@ -8565,7 +8564,7 @@
 ## Vim Script 
 
 - [nvimdev/paradox.vim](https://github.com/nvimdev/paradox.vim) - a minimal vim/neovim colorscheme
-- [girishji/vimcomplete](https://github.com/girishji/vimcomplete) - Async autocompletion for Vim written in Vim9script with support for LSP, snippets, dictionary, buffer, abbrevs, path, vimscript, ngrams, and more.
+- [girishji/vimcomplete](https://github.com/girishji/vimcomplete) - Fast async autocompletion for Vim written in Vim9script with support for LSP, snippets, dictionary, buffer, abbrevs, path, vimscript, ngrams, and more.
 - [inkarkat/vim-UnconditionalPaste](https://github.com/inkarkat/vim-UnconditionalPaste) - Force character-/line-/block-wise paste, regardless of how it was yanked.
 - [svban/YankAssassin.vim](https://github.com/svban/YankAssassin.vim) - Don't let the cursor move while Yanking in Vim/Neovim
 - [bkoropoff/yankee.vim](https://github.com/bkoropoff/yankee.vim) - Fancy-ish yank ring for VIM
@@ -8585,6 +8584,7 @@
 - [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk) - hignlight chunk numbercolumn plug of nvim
 - [meuter/habamax-plus.nvim](https://github.com/meuter/habamax-plus.nvim) - Variant of the habamax vim plugin.
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [mitchpaulus/autocorrect.vim](https://github.com/mitchpaulus/autocorrect.vim) - Autocorrect for Vim/Neovim built from scratch.
 - [habamax/vim-shout](https://github.com/habamax/vim-shout) - Run and Capture Shell Command Output in Vim
 - [habamax/vim-sugarlily](https://github.com/habamax/vim-sugarlily) - White vim colorscheme
