@@ -6917,7 +6917,7 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [fanout/pygripcontrol](https://github.com/fanout/pygripcontrol) - Python GRIP library
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
 - [kazhala/fzf.aws](https://github.com/kazhala/fzf.aws) - :cyclone: Using fuzzy finder to perform AWS operations on the command line
 - [umute97/dotfiles](https://github.com/umute97/dotfiles) - Some dotfiles I wanna sync
 - [nuncan/wifite2mod](https://github.com/nuncan/wifite2mod) - Rolling Release Branch for community PR's @Credits to derv82 & the community
@@ -8120,7 +8120,7 @@
 - [whalehub/ginstall.sh](https://github.com/whalehub/ginstall.sh) - A shell script that can install the compiled binaries of CLI tools straight from their GitHub release page.
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
-- [Liupold/dotfiles](https://github.com/Liupold/dotfiles) - This is collection of dotfiles by liupold.
+- [Liupold/OLD-dotfiles](https://github.com/Liupold/OLD-dotfiles) - This is collection of dotfiles by liupold.
 - [Liupold/dri](https://github.com/Liupold/dri) - dotfiles requirement(s) installer.
 - [ubolonton/dotfiles](https://github.com/ubolonton/dotfiles) - My personal configs
 - [jackcogdill/dotfiles](https://github.com/jackcogdill/dotfiles) - My personal config files / preferences
