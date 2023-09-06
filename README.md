@@ -740,7 +740,7 @@
 - [da-nie/SimplyVGAVideoCard](https://github.com/da-nie/SimplyVGAVideoCard) - Простейшая VGA-видеокарта на Atmega168-20.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-- [j2969719/doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander
+- [j2969719/doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander (third-party)
 - [JuliaStrings/utf8proc](https://github.com/JuliaStrings/utf8proc) - a clean C library for processing UTF-8 Unicode data
 - [shmuz/lsqlite3-s](https://github.com/shmuz/lsqlite3-s) - 
 - [indutny/file-shooter](https://github.com/indutny/file-shooter) - File Shooter (uv_link_t, uv_ssl_t, uv_http_t)
@@ -3632,6 +3632,9 @@
 
 ## Lua 
 
+- [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) - Time to stand reminders
+- [linguini1/pulse.nvim](https://github.com/linguini1/pulse.nvim) - A simple timer plugin for Neovim.
+- [RaafatTurki/corn.nvim](https://github.com/RaafatTurki/corn.nvim) - LSP diagnostics at your corner
 - [stefanlogue/hydrate.nvim](https://github.com/stefanlogue/hydrate.nvim) - Reminders to keep hydrated while you code
 - [shivanju/simple-session-manager](https://github.com/shivanju/simple-session-manager) - Neovim plugin for managing sessions
 - [olacin/telescope-cc.nvim](https://github.com/olacin/telescope-cc.nvim) - A Telescope integration of Conventional Commits.
@@ -3691,7 +3694,7 @@
 - [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) - A neovim plugin for viewing images.
 - [harrisoncramer/nvim](https://github.com/harrisoncramer/nvim) - My personal Neovim configuration.
-- [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Gitlab integration with Neovim that lets you review MRs within the editor.
+- [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Gitlab plugin for Neovim
 - [FelipeLema/cmp-async-path](https://github.com/FelipeLema/cmp-async-path) - nvim-cmp source for path (async version)
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
@@ -4174,7 +4177,7 @@
 - [mrcjkb/telescope-manix](https://github.com/mrcjkb/telescope-manix) - A telescope.nvim extension for Manix - A fast documentation searcher for Nix
 - [luc-tielen/lua-quickcheck](https://github.com/luc-tielen/lua-quickcheck) - Property based testing in Lua, inspired by the original QuickCheck.
 - [luc-tielen/telescope_hoogle](https://github.com/luc-tielen/telescope_hoogle) - Hoogle search integration for Telescope
-- [mrcjkb/nvim-config](https://github.com/mrcjkb/nvim-config) - 
+- [mrcjkb/nvim](https://github.com/mrcjkb/nvim) - 
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - Supercharge your Haskell experience in neovim!
 - [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) - Neotest adapter for Haskell (cabal or stack) with support for Sydtest, Hspec and Tasty
 - [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) - 
@@ -4697,6 +4700,7 @@
 - [harrisoncramer/jump-tag](https://github.com/harrisoncramer/jump-tag) - Neovim plugin for jumping between HTML tags.
 - [lvim-tech/lvim-focus](https://github.com/lvim-tech/lvim-focus) - 
 - [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
+- [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [milisims/vimfiles](https://github.com/milisims/vimfiles) - 
 - [devnnys/spaceodyssey.nvim](https://github.com/devnnys/spaceodyssey.nvim) - 
@@ -4795,7 +4799,7 @@
 - [rktjmp/fwatch.nvim](https://github.com/rktjmp/fwatch.nvim) - fwatch.nvim lets you watch files or directories for changes and then run vim commands or lua functions.
 - [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver for neovim.
 - [creativenull/feline-provider-ale.nvim](https://github.com/creativenull/feline-provider-ale.nvim) - ALE component providers for feline.nvim
-- [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp
+- [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver for neovim.
 - [creativenull/nvim-config](https://github.com/creativenull/nvim-config) - My neovim config in lua that I use to experiment new features and plugins
 - [OkelleyDevelopment/Odinvim](https://github.com/OkelleyDevelopment/Odinvim) - Personal configuration for Neovim
 - [notomo/cmdbuf.nvim](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line window plugin for neovim
@@ -7828,7 +7832,6 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
-- [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
