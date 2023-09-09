@@ -1963,7 +1963,6 @@
 - [jdhao/emacs-conf](https://github.com/jdhao/emacs-conf) - My Emacs config repository
 - [ag91/moldable-emacs](https://github.com/ag91/moldable-emacs) - Adapting Emacs for moldable development
 - [andreyorst/dotfiles](https://github.com/andreyorst/dotfiles) - Emacs configurations and other stuff (mirror)
-- [cbsirb/dotfiles](https://github.com/cbsirb/dotfiles) - 
 - [jan-warchol/selenized](https://github.com/jan-warchol/selenized) - Solarized redesigned: fine-tuned color palette for programmers with focus on readability.
 - [Sharparam/dotfiles](https://github.com/Sharparam/dotfiles) - Collection of my dotfiles
 - [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
@@ -2082,7 +2081,7 @@
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [alphapapa/frame-purpose.el](https://github.com/alphapapa/frame-purpose.el) - Purpose-specific frames for Emacs
 - [alphapapa/magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
-- [alphapapa/org-ql](https://github.com/alphapapa/org-ql) - An Org-mode query language, including search commands and saved views
+- [alphapapa/org-ql](https://github.com/alphapapa/org-ql) - A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 - [wolray/emacs](https://github.com/wolray/emacs) - Config files of my emacs
 - [wolray/symbol-overlay](https://github.com/wolray/symbol-overlay) - Highlight symbols with keymap-enabled overlays
 - [tsdh/highlight-parentheses.el](https://github.com/tsdh/highlight-parentheses.el) - Moved to SourceHut: https://sr.ht/~tsdh/highlight-parentheses.el/ (Emacs: highlight surrounding parentheses)
@@ -3560,6 +3559,7 @@
 
 ## Jupyter Notebook 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [fastai/ghapi](https://github.com/fastai/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [fastai/ghtop-demo](https://github.com/fastai/ghtop-demo) - A CLI tool for showing GitHub events, written with Rich
 - [medwatt/Notes](https://github.com/medwatt/Notes) - 
@@ -3632,6 +3632,7 @@
 
 ## Lua 
 
+- [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
 - [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) - Time to stand reminders
 - [linguini1/pulse.nvim](https://github.com/linguini1/pulse.nvim) - A simple timer plugin for Neovim.
 - [RaafatTurki/corn.nvim](https://github.com/RaafatTurki/corn.nvim) - LSP diagnostics at your corner
@@ -3900,7 +3901,7 @@
 - [KostkaBrukowa/nvim-config](https://github.com/KostkaBrukowa/nvim-config) - My nvim configuration
 - [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
 - [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - A customized theme for Neovim, based on the Everblush color scheme.
-- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - General, personal, and packed with laugh-out-loud startup messages! Enjoy your coding journey! 😄🚀
 - [prmaloney/valet.nvim](https://github.com/prmaloney/valet.nvim) - 
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk keymaps in neovim
 - [andreadev-it/timetrap.nvim](https://github.com/andreadev-it/timetrap.nvim) - Timetrap wrapper for neovim
@@ -4252,7 +4253,7 @@
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - Fly through your tabs in neovim ✈️
 - [phelipetls/jsonpath.nvim](https://github.com/phelipetls/jsonpath.nvim) - A Neovim plugin to help you access JSON values, powered by treesitter
 - [katawful/kat.nvim](https://github.com/katawful/kat.nvim) - NeoVim specifc port of kat.vim, a warm blue theme, written in Fennel with Aniseed
-- [smjonas/live-command.nvim](https://github.com/smjonas/live-command.nvim) - The easiest way to create previewable commands in Neovim.
+- [smjonas/live-command.nvim](https://github.com/smjonas/live-command.nvim) - Easily create previewable commands in Neovim.
 - [oem/arachne.nvim](https://github.com/oem/arachne.nvim) - A minimal note-taking system for neovim
 - [B4mbus/nvim-headband](https://github.com/B4mbus/nvim-headband) - 🐱‍👤 A simple and opinionated winbar
 - [amarakon/nvim-cmp-fonts](https://github.com/amarakon/nvim-cmp-fonts) - Neovim completion for fonts installed on the system
@@ -5261,7 +5262,7 @@
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) - A plugin for setting Neovim LSP with JSON or YAML files
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
 - [metalelf0/jellybeans-nvim](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme for neovim
-- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, javascript)
+- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [jose-elias-alvarez/nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 - [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
 - [bfredl/nvim-miniluv](https://github.com/bfredl/nvim-miniluv) - 
@@ -5857,6 +5858,7 @@
 - [jirutka/luasrcdiet](https://github.com/jirutka/luasrcdiet) - Compresses Lua source code by removing unnecessary characters (updated fork of http://luasrcdiet.luaforge.net/)
 - [lunarmodules/ldoc](https://github.com/lunarmodules/ldoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty
 - [fu5ha/dotfiles](https://github.com/fu5ha/dotfiles) - My dotfiles managed by yadm
+- [idanarye/vimConfig](https://github.com/idanarye/vimConfig) - My vim configurations
 - [SpaceVim/vim-luacomplete](https://github.com/SpaceVim/vim-luacomplete) - lua complete plugin for vim
 - [pratikac/luadbg](https://github.com/pratikac/luadbg) - Debugger for Lua
 - [martin-eden/lcf_params_gui](https://github.com/martin-eden/lcf_params_gui) - GUI to generate command-line call for Lua code formatter.
@@ -6691,7 +6693,6 @@
 - [magnetrwn/python-periphery-tm1637](https://github.com/magnetrwn/python-periphery-tm1637) - This module contains functions to drive the TM1637 display module as well as clock, scrolling ASCII text and system information functionality. Attaching this to a SBC can give useful insight on the sy
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 - [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
@@ -7671,6 +7672,7 @@
 
 ## Shell 
 
+- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [psprint/Zinit-4](https://github.com/psprint/Zinit-4) - NG Flexible and fast Zsh plugin manager
 - [develerik/dotfiles](https://github.com/develerik/dotfiles) - Personal dotfiles for Arch Linux Systems
 - [SUFandom/proot-distro-tui](https://github.com/SUFandom/proot-distro-tui) - A TUI for Termux's Proot-Distro
@@ -7891,6 +7893,7 @@
 - [tamago324/cmp-zsh](https://github.com/tamago324/cmp-zsh) - nvim-cmp source for zsh
 - [folke/dot](https://github.com/folke/dot) - ☕️   My Dot Files
 - [IndianBoy42/foryadm](https://github.com/IndianBoy42/foryadm) - port of forgit that uses yadm, to manage your dotfiles
+- [cbsirb/dotfiles](https://github.com/cbsirb/dotfiles) - 
 - [SleepyBag/fuzzy-fs](https://github.com/SleepyBag/fuzzy-fs) - a File System Navigator powered by fzf
 - [evantravers/dotfiles](https://github.com/evantravers/dotfiles) - My personal dotfiles… both to set up a new computer and to keep my dev environments synced.
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) - A versatile (cross-)toolchain generator.
@@ -9553,7 +9556,6 @@
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
 - [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) - Another github v3 api implemented in vim script
 - [wsdjeg/.SpaceVim.d](https://github.com/wsdjeg/.SpaceVim.d) - My dotfiles for Archlinux and Windows
-- [idanarye/vimConfig](https://github.com/idanarye/vimConfig) - My vim configurations
 - [idanarye/vim-vebugger](https://github.com/idanarye/vim-vebugger) - Yes, we do need another debugger plugin
 - [jeanCarloMachado/vimrc](https://github.com/jeanCarloMachado/vimrc) - A carefully crafted vimrc
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
@@ -9843,6 +9845,7 @@
 
 ## Vim Snippet 
 
+- [adityastomar67/NvStar](https://github.com/adityastomar67/NvStar) - IDE Layer for Neovim, for simplicity lovers.
 - [mlaursen/vim-react-snippets](https://github.com/mlaursen/vim-react-snippets) - Useful snippets for developing in React (Javascript and Typescript)
 - [SmithWebDev/dotfiles](https://github.com/SmithWebDev/dotfiles) - 
 - [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
