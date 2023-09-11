@@ -200,6 +200,9 @@
 
 ## C 
 
+- [polirritmico/dwmblocks-async](https://github.com/polirritmico/dwmblocks-async) - My config
+- [polirritmico/dwm](https://github.com/polirritmico/dwm) - My dwm config
+- [nrosvall/memo](https://github.com/nrosvall/memo) - Unix-style note-taking software
 - [idkso/lenstatus](https://github.com/idkso/lenstatus) - dwmblocks inspired dwm status program
 - [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [NF02/snotes](https://github.com/NF02/snotes) - A very simple and immediate note manager
@@ -2785,6 +2788,7 @@
 
 ## Go 
 
+- [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
 - [creativecreature/code-harvest](https://github.com/creativecreature/code-harvest) - Harvesting metadata from my coding sessions
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
@@ -3632,6 +3636,18 @@
 
 ## Lua 
 
+- [polirritmico/monokai-nightasty.nvim](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme for Neovim based on the Monokai color palette writen in Lua, support for lsp, treesitter and lots of plugins.
+- [TC72/telescope-tele-tabby.nvim](https://github.com/TC72/telescope-tele-tabby.nvim) - A telescope extension to switch tabs.
+- [Weyaaron/nvim-training](https://github.com/Weyaaron/nvim-training) - A plugin to practice neovim movements, currently in "open beta"
+- [roobert/dotfiles](https://github.com/roobert/dotfiles) - 
+- [roobert/activate.nvim](https://github.com/roobert/activate.nvim) - 🚀 Activate is a plugin installation system for Neovim
+- [roobert/tldr-lang.nvim](https://github.com/roobert/tldr-lang.nvim) - 🏃 A Neovim plugin to give tldr-style docs for various language features
+- [roobert/tabtree.nvim](https://github.com/roobert/tabtree.nvim) - 🌲 A Neovim plugin for jumping between significant code elements, such as brackets, quotes, etc.
+- [roobert/surround-ui.nvim](https://github.com/roobert/surround-ui.nvim) - 🤗 A Neovim plugin which acts as a helper or training aid for kylechui/nvim-surround
+- [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim) - :yarn: A Neovim plugin to toggle python f-strings
+- [roobert/action-hints.nvim](https://github.com/roobert/action-hints.nvim) - ⚡ A Neovim plugin that displays available actions like 'Go to Definition' and 'Go to Reference(s)' for the highlighted word, presented in the statusline or inline as virtual text.
+- [roobert/hoversplit.nvim](https://github.com/roobert/hoversplit.nvim) - 🚁 Automatically updated documentation and information about code symbols in a split window
+- [chadcat7/prism](https://github.com/chadcat7/prism) - neovim plugin to easily have custom colorschems with caching
 - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
 - [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) - Time to stand reminders
 - [linguini1/pulse.nvim](https://github.com/linguini1/pulse.nvim) - A simple timer plugin for Neovim.
@@ -4327,7 +4343,7 @@
 - [RoryNesbitt/RNvim](https://github.com/RoryNesbitt/RNvim) - My .config/nvim
 - [miversen33/import.nvim](https://github.com/miversen33/import.nvim) - A safe require override with niceties
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column
-- [RoryNesbitt/pvim](https://github.com/RoryNesbitt/pvim) - 
+- [RoryNesbitt/pvim](https://github.com/RoryNesbitt/pvim) - Portable Neovim. Contain it all to just one directory
 - [jgollenz/nvim-toggler](https://github.com/jgollenz/nvim-toggler) - invert text in vim, purely with lua.
 - [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) - Neovim plugin for ccls language server. Leverages off-spec extensions to  LSP client with AST browser
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) - Simple but effective quick substitute for neovim
@@ -4947,7 +4963,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-592+ge0453d7f5) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-1046+g3afbf4745) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -5443,7 +5459,7 @@
 - [lucastrvsn/dotfiles](https://github.com/lucastrvsn/dotfiles) - 
 - [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Bubbly statusline for neovim
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
-- [manilarome/the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) - A glorified personal dot files
+- [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [66RING/bookmarks-nvim](https://github.com/66RING/bookmarks-nvim) - Interactive mark and jump action in neovim.
 - [jonniek/mpv-waifu2x](https://github.com/jonniek/mpv-waifu2x) - Mpv script to take screenshot and convert images with waifu2x
 - [jonniek/unseen-playlistmaker](https://github.com/jonniek/unseen-playlistmaker) - Playlistcreation tool for mpv.
@@ -6122,6 +6138,7 @@
 
 ## Others 
 
+- [girishji/pythondoc.vim](https://github.com/girishji/pythondoc.vim) - Python API documentation for Vim and Neovim
 - [yegappan/VimScriptForPythonDevelopers](https://github.com/yegappan/VimScriptForPythonDevelopers) - Vim Script For Python Developers
 - [veebch/boostbox](https://github.com/veebch/boostbox) - Some notes on a cli terminal, upcycling an old super 8 film viewer
 - [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
@@ -6657,6 +6674,7 @@
 
 ## Python 
 
+- [tuxcanfly/litter](https://github.com/tuxcanfly/litter) - A lightweight terminal-based read-only browser
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template) - neovim plugin template integration test and doc publish
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
@@ -7456,6 +7474,8 @@
 
 ## Rust 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [zellij-org/rust-plugin-template](https://github.com/zellij-org/rust-plugin-template) - A template for writing Zellij plugins in Rust
@@ -7672,6 +7692,7 @@
 
 ## Shell 
 
+- [GlitchYou/termux-launch](https://github.com/GlitchYou/termux-launch) - Launch apps on Termux
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [psprint/Zinit-4](https://github.com/psprint/Zinit-4) - NG Flexible and fast Zsh plugin manager
 - [develerik/dotfiles](https://github.com/develerik/dotfiles) - Personal dotfiles for Arch Linux Systems
