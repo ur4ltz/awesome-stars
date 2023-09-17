@@ -1413,7 +1413,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ne
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: a faster, user-friendly grep replacement. Includes TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps, searches nested archives (cpio/tar/pax/zip), compressed files (zip/gz/Z/
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3634,6 +3634,7 @@
 
 ## Lua 
 
+- [ten3roberts/recipe.nvim](https://github.com/ten3roberts/recipe.nvim) - Neovim async code runner with quickfix parsing
 - [simondrake/decorated_yank](https://github.com/simondrake/decorated_yank) - decorated yank plugin for neovim
 - [google/executor.nvim](https://github.com/google/executor.nvim) - 
 - [Zeioth/compiler.nvim](https://github.com/Zeioth/compiler.nvim) - Neovim compiler for building and running your code without having to configure anything
@@ -8617,6 +8618,7 @@
 
 ## Vim Script 
 
+- [yssl/QFEnter](https://github.com/yssl/QFEnter) - Open a Quickfix item in a window you choose. (Vim plugin)
 - [girishji/pythondoc.vim](https://github.com/girishji/pythondoc.vim) - Python API documentation for Vim and Neovim
 - [vim-scripts/a.vim](https://github.com/vim-scripts/a.vim) - Alternate Files quickly (.c --&gt; .h etc)
 - [ton/vim-alternate](https://github.com/ton/vim-alternate) - Quickly switch between alternate files in Vim, similar to a.vim, but more flexible
@@ -8642,7 +8644,7 @@
 - [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk) - hignlight chunk numbercolumn plug of nvim
 - [meuter/habamax-plus.nvim](https://github.com/meuter/habamax-plus.nvim) - Variant of the habamax vim plugin.
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
-- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 - [mitchpaulus/autocorrect.vim](https://github.com/mitchpaulus/autocorrect.vim) - Autocorrect for Vim/Neovim built from scratch.
 - [habamax/vim-shout](https://github.com/habamax/vim-shout) - Run and Capture Shell Command Output in Vim
 - [habamax/vim-sugarlily](https://github.com/habamax/vim-sugarlily) - White vim colorscheme
