@@ -162,7 +162,6 @@
 - [rgimad/fasm_programs](https://github.com/rgimad/fasm_programs) - fasm related stuff
 - [rgimad/chip8_kolibri](https://github.com/rgimad/chip8_kolibri) - CHIP-8 emulator for KolibriOS, written in fasm
 - [hearsilent/8051-Course](https://github.com/hearsilent/8051-Course) - 
-- [ZeroKelvinKeyboard/TachyonOS](https://github.com/ZeroKelvinKeyboard/TachyonOS) - An operating system project.
 - [skiselev/minimax8085](https://github.com/skiselev/minimax8085) - Simple Intel 8085 based Single Board Computer (SBC)
 - [skiselev/radio-86rk](https://github.com/skiselev/radio-86rk) - Re-make of the Soviet Ham Radio computer published in Radio Magazine in 1986
 - [begoon/rk86-ex1](https://github.com/begoon/rk86-ex1) - 8080/8085 CPU Exerciser для Радио-86РК
@@ -1104,6 +1103,7 @@
 
 ## C++ 
 
+- [thomasfredericks/Bounce2](https://github.com/thomasfredericks/Bounce2) - Debouncing library for Arduino and Wiring
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [jake-stewart/jfind](https://github.com/jake-stewart/jfind) - 
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
@@ -1413,7 +1413,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: a faster, user-friendly grep replacement. Includes TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps, searches nested archives (cpio/tar/pax/zip), compressed files (zip/gz/Z/
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.1: an ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new things, and surpasses their search speeds. Includes a TUI, boolean queries (AND/
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -2478,7 +2478,7 @@
 - [SebastianMeisel/journalctl-mode](https://github.com/SebastianMeisel/journalctl-mode) - Major mode to view journalctl's output in Emacs
 - [ubolonton/.emacs.d](https://github.com/ubolonton/.emacs.d) - My emacs config
 - [cadadr/configuration](https://github.com/cadadr/configuration) - My configs: OS setups, dotfiles, scripts and more.
-- [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Tree-sitter bindings for Emacs Lisp
+- [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Emacs Lisp bindings for tree-sitter
 - [dandavison/emacs-config](https://github.com/dandavison/emacs-config) - My emacs config
 - [Ruin0x11/emacs.d](https://github.com/Ruin0x11/emacs.d) - emacs dotfiles
 - [ianyepan/.macOS-emacs.d](https://github.com/ianyepan/.macOS-emacs.d) - 😈My personal Emacs configuration on macOS
@@ -2731,7 +2731,6 @@
 - [n-shift/lens.nvim](https://github.com/n-shift/lens.nvim) - Git workflow for neovim
 - [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) - 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
-- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
@@ -2745,6 +2744,7 @@
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 - [Kethku/vim-config](https://github.com/Kethku/vim-config) - My neovim config.
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration using Fennel
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
 - [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
@@ -2898,7 +2898,6 @@
 - [nwg-piotr/nwg-dock](https://github.com/nwg-piotr/nwg-dock) - GTK3-based dock for sway
 - [chirpstack/chirpstack-gateway-bridge](https://github.com/chirpstack/chirpstack-gateway-bridge) - ChirpStack Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT.
 - [mohkale/dotty](https://github.com/mohkale/dotty) - A delightfully lispy dotfile manager :house:
-- [glepnir/lspmeta.nvim](https://github.com/glepnir/lspmeta.nvim) - 
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
@@ -3634,6 +3633,12 @@
 
 ## Lua 
 
+- [davidmh/cmp-nerdfonts](https://github.com/davidmh/cmp-nerdfonts) - nvim-cmp source for nerd fonts icons
+- [Wansmer/serenity.nvim](https://github.com/Wansmer/serenity.nvim) - Wansmer's colorsheme for Neovim
+- [Dkendal/nvim-treeclimber](https://github.com/Dkendal/nvim-treeclimber) - Neovim structured editing plugin
+- [chrisgrieser/nvim-dr-lsp](https://github.com/chrisgrieser/nvim-dr-lsp) - Status line component showing the number of LSP definition and reference of the token under the cursor.
+- [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols
+- [fmaggi/stm32.nvim](https://github.com/fmaggi/stm32.nvim) - STM32 tools neovim integration
 - [ten3roberts/recipe.nvim](https://github.com/ten3roberts/recipe.nvim) - Neovim async code runner with quickfix parsing
 - [simondrake/decorated_yank](https://github.com/simondrake/decorated_yank) - decorated yank plugin for neovim
 - [google/executor.nvim](https://github.com/google/executor.nvim) - 
@@ -3741,7 +3746,7 @@
 - [max397574/omega-nvim](https://github.com/max397574/omega-nvim) - config
 - [tdfacer/explain-it.nvim](https://github.com/tdfacer/explain-it.nvim) - Simple and effective AI integration with your favorite Neovim text editor! Ask a question, and let robots expl[AI]n-it!
 - [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view) - A neovim plugin to display lsp hover documentation in a side panel.
-- [coffebar/dim.lua](https://github.com/coffebar/dim.lua) - dim is a lua plugin for neovim to dim the unused variables and functions using lsp and treesitter.
+- [coffebar/dim.lua.back](https://github.com/coffebar/dim.lua.back) - dim is a lua plugin for neovim to dim the unused variables and functions using lsp and treesitter.
 - [coffebar/project.nvim](https://github.com/coffebar/project.nvim) - The superior project management solution for neovim.
 - [dapc11/telescope-yaml.nvim](https://github.com/dapc11/telescope-yaml.nvim) - Telescope extension for fuzzy finding YAML files
 - [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with tmux, telescope integration, and native dot repeat.
@@ -4054,7 +4059,7 @@
 - [arturgoms/nvim](https://github.com/arturgoms/nvim) - My own neovim config
 - [arturgoms/moonbow.nvim](https://github.com/arturgoms/moonbow.nvim) - Moonbow is a theme for nvim inspired by Gruvbox and Ayu dark
 - [LunarVim/primer.nvim](https://github.com/LunarVim/primer.nvim) - 
-- [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) - A native neovim extension for Codeium
+- [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
 - [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) - 🌐 A Neovim plugin to show the currently selected node type from lsp and treesitter information
 - [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) - Truecolor solarized theme for neovim in Lua using colorbuddy
 - [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) - cobalt2 theme for neovim in Lua using colorbuddy
@@ -4426,6 +4431,7 @@
 - [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) - neovim plugin that lets you switch databases on demand or execute queries on different connections
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim
+- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [Abstract-IDE/penvim](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader
 - [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
 - [BunsenLabs/bunsen-conky](https://github.com/BunsenLabs/bunsen-conky) - Interesting scripts and setups for Conky
@@ -5527,7 +5533,6 @@
 - [lewis6991/dotfiles](https://github.com/lewis6991/dotfiles) - My personal vimrc file
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [Olical/nvim-local-fennel](https://github.com/Olical/nvim-local-fennel) - Execute local Fennel Lisp files in Neovim upon startup
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
 - [jbyuki/algebra.nvim](https://github.com/jbyuki/algebra.nvim) - basic computer algebra system for Nvim
 - [jbyuki/ntangle.nvim](https://github.com/jbyuki/ntangle.nvim) - literate programming for neovim
