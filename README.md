@@ -199,6 +199,7 @@
 
 ## C 
 
+- [mathertel/DmxSerial2](https://github.com/mathertel/DmxSerial2) - An Arduino library for sending and receiving DMX RDM packets.
 - [polirritmico/dwmblocks-async](https://github.com/polirritmico/dwmblocks-async) - My config
 - [polirritmico/dwm](https://github.com/polirritmico/dwm) - My dwm config
 - [nrosvall/memo](https://github.com/nrosvall/memo) - Unix-style note-taking software
@@ -1103,6 +1104,9 @@
 
 ## C++ 
 
+- [mathertel/rfcodes](https://github.com/mathertel/rfcodes) - This is a RF signal encode and decode library that can be adapted to different protocols by specifying the timing conditions is a table. Can be used with 433 MHz and IR receivers and senders.
+- [mathertel/DMXSerial](https://github.com/mathertel/DMXSerial) - An Arduino library for sending and receiving DMX packets.
+- [mathertel/Radio](https://github.com/mathertel/Radio) - An Arduino library to control FM radio chips like SI4703, SI4705, RDA5807M, TEA5767.
 - [thomasfredericks/Bounce2](https://github.com/thomasfredericks/Bounce2) - Debouncing library for Arduino and Wiring
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [jake-stewart/jfind](https://github.com/jake-stewart/jfind) - 
@@ -2803,7 +2807,7 @@
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [google/periph](https://github.com/google/periph) - Go·Hardware·Lean
+- [google/periph](https://github.com/google/periph) - Older version of periph, see new version at https://github.com/periph
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
@@ -3326,6 +3330,7 @@
 - [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [piecioshka/encoding-checker](https://github.com/piecioshka/encoding-checker) - 🛠 Tool to investigate files with different encoding than passed.
 - [gignupg/Detect-File-Encoding-And-Language](https://github.com/gignupg/Detect-File-Encoding-And-Language) - An NPM Package to detect the encoding and language of text files
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -6727,7 +6732,6 @@
 - [magnetrwn/python-periphery-tm1637](https://github.com/magnetrwn/python-periphery-tm1637) - This module contains functions to drive the TM1637 display module as well as clock, scrolling ASCII text and system information functionality. Attaching this to a SBC can give useful insight on the sy
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
 - [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
@@ -7491,6 +7495,7 @@
 
 ## Rust 
 
+- [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) - Neovim plugin for moving lines up and down
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
@@ -7672,6 +7677,7 @@
 
 ## SCSS 
 
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [uyuni-project/uyuni-docs](https://github.com/uyuni-project/uyuni-docs) - Uyuni documentation sources. Uyuni docs are written in Asciidoc (Asciidoctor flavor).
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -8008,7 +8014,7 @@
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [Antynea/grub-btrfs](https://github.com/Antynea/grub-btrfs) - Include btrfs snapshots at boot options. (Grub menu)
 - [johang/sd-card-images](https://github.com/johang/sd-card-images) - Scripts to build bootable SD card images with Debian for various single-board computers
-- [alphapapa/makem.sh](https://github.com/alphapapa/makem.sh) - Makefile-like script for building and testing Emacs Lisp packages
+- [alphapapa/makem.sh](https://github.com/alphapapa/makem.sh) - Makefile-like script for linting and testing Emacs Lisp packages
 - [alphapapa/org-recent-headings](https://github.com/alphapapa/org-recent-headings) - Go to recently used Org headings
 - [alphapapa/org-sidebar](https://github.com/alphapapa/org-sidebar) - A helpful sidebar for Org mode
 - [jamespeapen/dotfiles](https://github.com/jamespeapen/dotfiles) - 
