@@ -48,7 +48,6 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
-- [JSONiq](#jsoniq)
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -110,6 +109,7 @@
 - [YASnippet](#yasnippet)
 - [Yacc](#yacc)
 - [Zig](#zig)
+- [jq](#jq)
 
 ## AMPL 
 
@@ -1417,7 +1417,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.1: an ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new things, and surpasses their search speeds. Includes a TUI, boolean queries (AND/
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.2: an ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new things, and surpasses their search speeds. Includes a TUI, boolean queries (AND/
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -1505,6 +1505,7 @@
 - [AndersMalmgren/qBittorrent](https://github.com/AndersMalmgren/qBittorrent) - qBittorrent BitTorrent client
 - [zhaozg/lua-webview](https://github.com/zhaozg/lua-webview) - 
 - [nuspell/nuspell](https://github.com/nuspell/nuspell) - 🖋️ Fast and safe spellchecking C++ library
+- [bodqhrohro/DCPoppler](https://github.com/bodqhrohro/DCPoppler) - PDF viewer plugin for Double Commander
 - [doublecmd/plugins](https://github.com/doublecmd/plugins) - Some third-party plugins
 - [ivanenko/env_vars_commander](https://github.com/ivanenko/env_vars_commander) - Environment variables WFX plugin for Double Commander
 - [ivanenko/ydisk_commander](https://github.com/ivanenko/ydisk_commander) - Yandex Disk wfx plugin for Total/Double commander
@@ -2865,6 +2866,7 @@
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [darmiel/365-days-notifier](https://github.com/darmiel/365-days-notifier) - 365 days of code
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [HardDie/myTldr](https://github.com/HardDie/myTldr) - Simple tldr client application
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [MicrosoftTranslator/Text-Translation-API-V3-Go](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-Go) - 
@@ -3234,10 +3236,6 @@
 - [Dlackware/dlackware](https://github.com/Dlackware/dlackware) - builder/installer for Projects using a compile-order
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
-## JSONiq 
-
-- [zogwarg/SublimeJQ](https://github.com/zogwarg/SublimeJQ) - Sublime Text JQ Language Syntax
-
 ## Janet 
 
 - [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
@@ -3330,7 +3328,7 @@
 - [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [piecioshka/encoding-checker](https://github.com/piecioshka/encoding-checker) - 🛠 Tool to investigate files with different encoding than passed.
 - [gignupg/Detect-File-Encoding-And-Language](https://github.com/gignupg/Detect-File-Encoding-And-Language) - An NPM Package to detect the encoding and language of text files
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -3927,7 +3925,6 @@
 - [hkupty/errands.nvim](https://github.com/hkupty/errands.nvim) - Task management
 - [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim) - Lua test framework for neovim plugins
 - [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) - winbar config for neovim
-- [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
 - [chrisgrieser/cmp-nerdfont](https://github.com/chrisgrieser/cmp-nerdfont) - nvim-cmp source for nerdfont icons
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) - A simple Lua statusline for Neovim
@@ -6542,6 +6539,7 @@
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Gabirel/Hack-SpaceVim](https://github.com/Gabirel/Hack-SpaceVim) - 🚀 Tell you how to hack SpaceVim. Be useful. Try Discussions!
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [drakulavich/russian-sublime-cheatsheet](https://github.com/drakulavich/russian-sublime-cheatsheet) - PDF-шпаргалка по клавиатурным сочетаниям Sublime Text
 - [noct/sublime-cpp11](https://github.com/noct/sublime-cpp11) - Replacement self-contained C++11 syntax definition for Sublime Text
 - [luarocks/lua-style-guide](https://github.com/luarocks/lua-style-guide) - Lua Style Guide, as used by LuaRocks
@@ -7728,7 +7726,6 @@
 - [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
-- [Sitolam/Termux_url_opener_all_in_one_downloader](https://github.com/Sitolam/Termux_url_opener_all_in_one_downloader) - All-in-one Download Script for Termux URL Opener
 - [bboymega/Termux_url_opener_all_in_one_downloader](https://github.com/bboymega/Termux_url_opener_all_in_one_downloader) - All-in-one Download Script for Termux URL Opener
 - [coffebar/conky-move](https://github.com/coffebar/conky-move) - Shifts conky horizontal position depending on window positions on the current workspace
 - [bashmarklets/go-west](https://github.com/bashmarklets/go-west) - Bookmark often used directories and jump (go) to them at will
@@ -8005,7 +8002,7 @@
 - [OmarCastro/i3blocklet-pulseaudio](https://github.com/OmarCastro/i3blocklet-pulseaudio) - i3 blocket that shows that controls the volume using pulse audio
 - [fogine/rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
 - [yriveiro/zsh-files](https://github.com/yriveiro/zsh-files) - Custom ZSH configuration
-- [chimay/scripts](https://github.com/chimay/scripts) - Useful scripts
+- [chimay/scripts](https://github.com/chimay/scripts) - Scripts & snippets
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [michaelmrose/vi3](https://github.com/michaelmrose/vi3) - vim like keybindings for i3wm
 - [lcurses/lcurses](https://github.com/lcurses/lcurses) - Lua bindings for Curses
@@ -8486,7 +8483,6 @@
 - [uga-rosa/snip2json](https://github.com/uga-rosa/snip2json) - Convert ultisnips syntax snippets to LSP format json.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [creativenull/projectlocal.vim](https://github.com/creativenull/projectlocal.vim) - Safely load your project specific configurations written in json, lua or vimscript
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
 - [angrybacon/doomsday-wiki](https://github.com/angrybacon/doomsday-wiki) - The Doomsday Wiki
 - [cantonios/vscode-project-templates](https://github.com/cantonios/vscode-project-templates) - Project Templates extension for VSCode
@@ -9341,7 +9337,7 @@
 - [tjdevries/overlength.vim](https://github.com/tjdevries/overlength.vim) - Highlight when lines go over the length that you want them.
 - [phongnh/vim-fold-text](https://github.com/phongnh/vim-fold-text) - Vim Fold Text
 - [phongnh/vim-cursor-settings](https://github.com/phongnh/vim-cursor-settings) - Set cursor settings for iTerm.app, Kitty and Alacritty terminals
-- [phongnh/vim-helpers](https://github.com/phongnh/vim-helpers) - My vim helpers
+- [phongnh/zero.vim](https://github.com/phongnh/zero.vim) - My Vim helpers
 - [phongnh/fzf-settings.vim](https://github.com/phongnh/fzf-settings.vim) - My fzf settings
 - [phongnh/airline-settings.vim](https://github.com/phongnh/airline-settings.vim) - 
 - [phongnh/filetype-settings.vim](https://github.com/phongnh/filetype-settings.vim) - My default filetype settings
@@ -9671,7 +9667,6 @@
 - [fisadev/fisa-nvim-config](https://github.com/fisadev/fisa-nvim-config) - my neovim configuration (lot of python, autocompletion, fuzzy finder, etc, ...)
 - [fisadev/fisa-vim-config](https://github.com/fisadev/fisa-vim-config) - my vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...)
 - [edkolev/tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [lyuts/vim-rtags](https://github.com/lyuts/vim-rtags) - Vim bindings for rtags, llvm/clang based c++ code indexer.
 - [cocopon/vaffle.vim](https://github.com/cocopon/vaffle.vim) - :file_folder: Lightweight, window-based file manager for Vim
 - [jeffkreeftmeijer/vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
@@ -9946,6 +9941,10 @@
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [riverwm/river](https://github.com/riverwm/river) - A dynamic tiling Wayland compositor
+
+## jq 
+
+- [zogwarg/SublimeJQ](https://github.com/zogwarg/SublimeJQ) - Sublime Text JQ Language Syntax
 
 
 ## License
