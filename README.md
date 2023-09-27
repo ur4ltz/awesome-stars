@@ -3707,7 +3707,7 @@
 - [dl-tg/luash](https://github.com/dl-tg/luash) - Extensible Lua terminal emulator
 - [adrianvalenz/chronos.nvim](https://github.com/adrianvalenz/chronos.nvim) - Cycle through date and time with ease
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Help you to create tmp playground files, which can be found later,  with one stroke and without worrying about what's the filename and where to put it.
-- [LintaoAmons/commands.nvim](https://github.com/LintaoAmons/commands.nvim) - A collection of pre-defined commands which are readable and easy to search and use
+- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of pre-defined commands which are readable and easy to search and use
 - [monkoose/matchparen.nvim](https://github.com/monkoose/matchparen.nvim) - alternative to matchparen neovim plugin
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
@@ -3755,7 +3755,7 @@
 - [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with tmux, telescope integration, and native dot repeat.
 - [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
-- [NvChad/basic-config](https://github.com/NvChad/basic-config) - Minimal neovim config for beginners  &lt; 380 ~ LOC
+- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Minimal Neovim PDE config for beginners  (  363 ~ LOC )
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [calind/selenized.nvim](https://github.com/calind/selenized.nvim) - Selenized theme for neovim
@@ -5044,7 +5044,7 @@
 - [ronniedroid/droidvim](https://github.com/ronniedroid/droidvim) - My personal neovim configuration.
 - [Joakker/nvim-config](https://github.com/Joakker/nvim-config) - :moon: Neovim configuration written primarily in lua
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.8+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
 - [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - an up-to-date peek at my dotfiles. m1 mac
 - [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - see mizlan/dotfiles
@@ -5199,7 +5199,7 @@
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
-- [ido-nvim/ido.nvim](https://github.com/ido-nvim/ido.nvim) - The core of ido-nvim
+- [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - The core of ido-nvim
 - [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - Sensible Defaults of My Computer
 - [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - There's lots of configurations out there, but this one is mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
@@ -5305,7 +5305,6 @@
 - [dhruvmanila/dotfiles](https://github.com/dhruvmanila/dotfiles) - My dotfiles for zsh, neovim (completely configured in lua), kitty and macOS
 - [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
 - [wfxr/awm.config](https://github.com/wfxr/awm.config) - 
-- [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
 - [ellisonleao/criando-plugins-lua-neovim](https://github.com/ellisonleao/criando-plugins-lua-neovim) - Códigos fonte para a série "Criando plugins Lua para Neovim"
 - [eddyekofo94/nvim](https://github.com/eddyekofo94/nvim) - My attempt to create a decent Nvim config.
 - [martini97/project-config.nvim](https://github.com/martini97/project-config.nvim) - Per project config for Neovim
@@ -6526,6 +6525,7 @@
 - [h3xx/vim-late_evening](https://github.com/h3xx/vim-late_evening) - Dark, high-contrast vim colorscheme
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 - [fisadev/fisa-tmux-config](https://github.com/fisadev/fisa-tmux-config) - My personal tmux configuration
+- [wsdjeg/.SpaceVim.d](https://github.com/wsdjeg/.SpaceVim.d) - My dotfiles for Archlinux and Windows
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [martin-eden/contents](https://github.com/martin-eden/contents) - Links to repositories
@@ -6952,7 +6952,7 @@
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [crabvk/bar-protonmail](https://github.com/crabvk/bar-protonmail) - A Waybar/Polybar module for ProtonMail
-- [crabvk/polybar-gmail](https://github.com/crabvk/polybar-gmail) - A Polybar module to show unread messages from Gmail
+- [crabvk/bar-gmail](https://github.com/crabvk/bar-gmail) - A Polybar module to show unread messages from Gmail
 - [meelkor/polybar-notifihub](https://github.com/meelkor/polybar-notifihub) - 
 - [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
 - [worron/ACYLS](https://github.com/worron/ACYLS) - Any Color You Like Simple icon pack
@@ -7983,6 +7983,7 @@
 - [sonph/dotfiles](https://github.com/sonph/dotfiles) - My .files
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
 - [rupa/z](https://github.com/rupa/z) - z - jump around
+- [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
 - [keymon/dotfiles](https://github.com/keymon/dotfiles) - My home dotfiles
 - [drewbrokke/nscript](https://github.com/drewbrokke/nscript) - Quickly create and manage shell scripts
 - [drewbrokke/enhanced-git-log](https://github.com/drewbrokke/enhanced-git-log) - 
@@ -9598,7 +9599,6 @@
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
 - [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) - Another github v3 api implemented in vim script
-- [wsdjeg/.SpaceVim.d](https://github.com/wsdjeg/.SpaceVim.d) - My dotfiles for Archlinux and Windows
 - [idanarye/vim-vebugger](https://github.com/idanarye/vim-vebugger) - Yes, we do need another debugger plugin
 - [jeanCarloMachado/vimrc](https://github.com/jeanCarloMachado/vimrc) - A carefully crafted vimrc
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
