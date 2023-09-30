@@ -199,6 +199,8 @@
 
 ## C 
 
+- [Serega88kos/MatrixClock](https://github.com/Serega88kos/MatrixClock) - 
+- [GyverLibs/GyverBeeper](https://github.com/GyverLibs/GyverBeeper) - Библиотека для генерации писка по таймеру
 - [mathertel/DmxSerial2](https://github.com/mathertel/DmxSerial2) - An Arduino library for sending and receiving DMX RDM packets.
 - [polirritmico/dwmblocks-async](https://github.com/polirritmico/dwmblocks-async) - My config
 - [polirritmico/dwm](https://github.com/polirritmico/dwm) - My dwm config
@@ -1104,6 +1106,24 @@
 
 ## C++ 
 
+- [Serega88kos/BigClock](https://github.com/Serega88kos/BigClock) - 
+- [GyverLibs/GParser](https://github.com/GyverLibs/GParser) - Простой и быстрый парсер строк в отдельные подстроки и числа для Arduino
+- [GyverLibs/GyverButton](https://github.com/GyverLibs/GyverButton) - Библиотека для многофункциональной отработки нажатия кнопки
+- [GyverLibs/GyverEncoder](https://github.com/GyverLibs/GyverEncoder) - Библиотека для расширенной работы с энкодером и Arduino
+- [GyverLibs/VirtualButton](https://github.com/GyverLibs/VirtualButton) - Библиотека с логикой обработки кнопки (виртуальная кнопка) для Arduino
+- [GyverLibs/EncButton](https://github.com/GyverLibs/EncButton) - Лёгкая и очень функциональная библиотека для энкодера с кнопкой, энкодера или кнопки с Arduino
+- [GyverLibs/FastBot](https://github.com/GyverLibs/FastBot) - Многофункциональная быстрая библиотека для Телеграм бота на esp8266/esp32
+- [GyverLibs/GyverNTC](https://github.com/GyverLibs/GyverNTC) - Библиотека для работы с NTC термисторами по закону Стейнхарта-Харта
+- [GyverLibs/GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - Cамая резкая библиотека для матриц MAX7219 на диком западе
+- [GyverLibs/GyverGFX](https://github.com/GyverLibs/GyverGFX) - Лёгкая библиотека двухмерной графики для дисплеев и матриц
+- [GyverLibs/GyverBlinker](https://github.com/GyverLibs/GyverBlinker) - Библиотека для мигания светодиодом и планирования событий по таймеру
+- [GyverLibs/Stamp](https://github.com/GyverLibs/Stamp) - Библиотека для хранения и манипуляции со временем
+- [Apress/modern-x86-assembly-language-programming-2e](https://github.com/Apress/modern-x86-assembly-language-programming-2e) - Source Code for 'Modern X86 Assembly Language Programming' by Daniel Kusswurm
+- [chevichelov/VOLTAMMETER2](https://github.com/chevichelov/VOLTAMMETER2) - Вольт Амперметр высокой точности на Arduino с выводом графиков, графиков и ещё графиков
+- [chevichelov/REVERSAL](https://github.com/chevichelov/REVERSAL) - Защита от переполюсовки на Arduino
+- [chevichelov/VOLTAMMETER](https://github.com/chevichelov/VOLTAMMETER) - Файлы для вольтметра
+- [chevichelov/MINI_CONTROL](https://github.com/chevichelov/MINI_CONTROL) - Самая маленькая контролька на Arduino
+- [chevichelov/Control](https://github.com/chevichelov/Control) - Прошивка для контрольки на Arduino
 - [mathertel/rfcodes](https://github.com/mathertel/rfcodes) - This is a RF signal encode and decode library that can be adapted to different protocols by specifying the timing conditions is a table. Can be used with 433 MHz and IR receivers and senders.
 - [mathertel/DMXSerial](https://github.com/mathertel/DMXSerial) - An Arduino library for sending and receiving DMX packets.
 - [mathertel/Radio](https://github.com/mathertel/Radio) - An Arduino library to control FM radio chips like SI4703, SI4705, RDA5807M, TEA5767.
@@ -2792,6 +2812,7 @@
 
 ## Go 
 
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
 - [creativecreature/code-harvest](https://github.com/creativecreature/code-harvest) - Harvesting metadata from my coding sessions
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
@@ -3086,7 +3107,6 @@
 - [marksamman/bencode](https://github.com/marksamman/bencode) - Bencode implementation in Go
 - [mattn/gom](https://github.com/mattn/gom) - Go Manager - bundle for go
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-- [m0t0k1ch1/gis](https://github.com/m0t0k1ch1/gis) - a command line GitHub issue list viewer written in Go
 - [sonatard/ghs](https://github.com/sonatard/ghs) - 'ghs' is a command-line utility for searching Github repository .
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [lxn/walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
@@ -3134,6 +3154,7 @@
 
 ## HTML 
 
+- [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino dashboard library
 - [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -3636,6 +3657,16 @@
 
 ## Lua 
 
+- [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) - Predictable LSP code actions
+- [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) - A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.
+- [sontungexpt/url-open](https://github.com/sontungexpt/url-open) - Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url
+- [coffebar/neovim-project](https://github.com/coffebar/neovim-project) - Neovim project manager maintains your recent project history and uses Telescope to select from autosaved sessions.
+- [cryptomilk/nightcity.nvim](https://github.com/cryptomilk/nightcity.nvim) - 🏙 Night City - A dark colorscheme for Neovim with LSP support
+- [judaew/ronny.nvim](https://github.com/judaew/ronny.nvim) - Neovim/Vim color scheme inspired by Monokai theme
+- [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
+- [jonboh/nvim-dap-rr](https://github.com/jonboh/nvim-dap-rr) - Dap configuration for the record and replay debugger. Supports Rust, C++ and C.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+- [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client for nvim.
 - [davidmh/cmp-nerdfonts](https://github.com/davidmh/cmp-nerdfonts) - nvim-cmp source for nerd fonts icons
 - [Wansmer/serenity.nvim](https://github.com/Wansmer/serenity.nvim) - Wansmer's colorsheme for Neovim
 - [Dkendal/nvim-treeclimber](https://github.com/Dkendal/nvim-treeclimber) - Neovim structured editing plugin
@@ -3657,7 +3688,7 @@
 - [shadyalfred/electric-quotes.nvim](https://github.com/shadyalfred/electric-quotes.nvim) - Neovim plugin that works like electric-quotes emacs mode
 - [piersolenski/telescope-import.nvim](https://github.com/piersolenski/telescope-import.nvim) - Import modules with ease
 - [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon) - Neovim plugin packed with modules  ( battery, wifi, date, time, day  etc) to litter the statusline and winbar
-- [polirritmico/monokai-nightasty.nvim](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme for Neovim based on the Monokai color palette writen in Lua, support for lsp, treesitter and lots of plugins.
+- [polirritmico/monokai-nightasty.nvim](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 - [TC72/telescope-tele-tabby.nvim](https://github.com/TC72/telescope-tele-tabby.nvim) - A telescope extension to switch tabs.
 - [Weyaaron/nvim-training](https://github.com/Weyaaron/nvim-training) - A plugin to practice neovim movements, currently in "open beta"
 - [roobert/dotfiles](https://github.com/roobert/dotfiles) - 
@@ -5152,7 +5183,7 @@
 - [kuznetsss/dotfiles](https://github.com/kuznetsss/dotfiles) - Linux configuration files
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 - [kuznetsss/nvim_lua_config](https://github.com/kuznetsss/nvim_lua_config) - Neovim lua config
-- [kuznetsss/meadow-nvim](https://github.com/kuznetsss/meadow-nvim) - Dark colorscheme for nvim 0.5+ written in lua
+- [kuznetsss/meadow-nvim](https://github.com/kuznetsss/meadow-nvim) - Dark colorscheme for nvim 0.7+ written in lua
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [takase1121/lite-plugin-manager](https://github.com/takase1121/lite-plugin-manager) - A little plugin-manager thingy for lite
 - [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
@@ -5199,7 +5230,7 @@
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
-- [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - The core of ido-nvim
+- [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
 - [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - Sensible Defaults of My Computer
 - [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - There's lots of configurations out there, but this one is mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
@@ -6156,6 +6187,9 @@
 
 ## Others 
 
+- [GyverLibs/GyverHub-projects](https://github.com/GyverLibs/GyverHub-projects) - База проектов на GyverHub
+- [GyverLibs/GyverLibs](https://github.com/GyverLibs/GyverLibs) - 
+- [GyverLibs/library-registry](https://github.com/GyverLibs/library-registry) - Arduino Library Manager list
 - [yegappan/VimScriptForPythonDevelopers](https://github.com/yegappan/VimScriptForPythonDevelopers) - Vim Script For Python Developers
 - [veebch/boostbox](https://github.com/veebch/boostbox) - Some notes on a cli terminal, upcycling an old super 8 film viewer
 - [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
@@ -6693,6 +6727,7 @@
 
 ## Python 
 
+- [SnellerInc/asm-dude](https://github.com/SnellerInc/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [tuxcanfly/litter](https://github.com/tuxcanfly/litter) - A lightweight terminal-based read-only browser
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template) - neovim plugin template integration test and doc publish
@@ -7493,6 +7528,7 @@
 
 ## Rust 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) - Neovim plugin for moving lines up and down
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
