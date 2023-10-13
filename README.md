@@ -199,6 +199,11 @@
 
 ## C 
 
+- [Ebiroll/esp32_sigrok](https://github.com/Ebiroll/esp32_sigrok) - Simple sigrok sump implementation
+- [jpbarraca/LogicAlNucleo](https://github.com/jpbarraca/LogicAlNucleo) - A SUMP compatible Logical Analyser for the STM32F4
+- [raspberrypi/picoprobe](https://github.com/raspberrypi/picoprobe) - 
+- [perexg/picoprobe-sump](https://github.com/perexg/picoprobe-sump) - 
+- [KimJorgensen/KungFuFlash](https://github.com/KimJorgensen/KungFuFlash) - Cartridge for the Commodore 64 that packs a punch
 - [Serega88kos/MatrixClock](https://github.com/Serega88kos/MatrixClock) - 
 - [GyverLibs/GyverBeeper](https://github.com/GyverLibs/GyverBeeper) - Библиотека для генерации писка по таймеру
 - [mathertel/DmxSerial2](https://github.com/mathertel/DmxSerial2) - An Arduino library for sending and receiving DMX RDM packets.
@@ -1106,6 +1111,8 @@
 
 ## C++ 
 
+- [ag88/SumpSTM32F401cc](https://github.com/ag88/SumpSTM32F401cc) - SUMP compatible logic analyzer board for STM32duino (steve's libmaple core) - stm32f401cc pill board
+- [MajicDesigns/MD_DS1307](https://github.com/MajicDesigns/MD_DS1307) - DS1307 Real Time Clock Library
 - [Serega88kos/BigClock](https://github.com/Serega88kos/BigClock) - 
 - [GyverLibs/GParser](https://github.com/GyverLibs/GParser) - Простой и быстрый парсер строк в отдельные подстроки и числа для Arduino
 - [GyverLibs/GyverButton](https://github.com/GyverLibs/GyverButton) - Библиотека для многофункциональной отработки нажатия кнопки
@@ -6200,6 +6207,7 @@
 
 ## Others 
 
+- [arduino/library-registry](https://github.com/arduino/library-registry) - Arduino Library Manager list
 - [GyverLibs/GyverHub-projects](https://github.com/GyverLibs/GyverHub-projects) - База проектов на GyverHub
 - [GyverLibs/GyverLibs](https://github.com/GyverLibs/GyverLibs) - 
 - [GyverLibs/library-registry](https://github.com/GyverLibs/library-registry) - Arduino Library Manager list
@@ -6822,7 +6830,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [csernazs/pytest-httpserver](https://github.com/csernazs/pytest-httpserver) - Http server for pytest to test http clients
 - [aspiers/git-deps](https://github.com/aspiers/git-deps) - git commit dependency analysis tool
-- [argosopentech/LibreTranslate-py](https://github.com/argosopentech/LibreTranslate-py) - Python bindings for LibreTranslate
+- [argosopentech/LibreTranslate-py](https://github.com/argosopentech/LibreTranslate-py) - Python bindings to connect to a LibreTranslate API
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [jelmer/disperse](https://github.com/jelmer/disperse) - Automatic repository releasing
@@ -7539,6 +7547,7 @@
 
 ## Rust 
 
+- [dotcypress/ula](https://github.com/dotcypress/ula) - μLA: Micro Logic Analyzer for RP2040
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [google/vimscript-language-server](https://github.com/google/vimscript-language-server) - 
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
@@ -7883,7 +7892,7 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zdharma-continuum/zinit-configs](https://github.com/zdharma-continuum/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-- [argosopentech/LibreTranslate-sh](https://github.com/argosopentech/LibreTranslate-sh) - Unix bindings for LibreTranslate
+- [argosopentech/LibreTranslate-sh](https://github.com/argosopentech/LibreTranslate-sh) - Unix bindings to connect to a LibreTranslate API
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
