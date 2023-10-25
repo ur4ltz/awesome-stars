@@ -1114,6 +1114,29 @@
 
 ## C++ 
 
+- [GyverLibs/microDS3231](https://github.com/GyverLibs/microDS3231) - Лёгкая библиотека для работы с RTC DS3231 для Arduino
+- [GyverLibs/GyverPWM](https://github.com/GyverLibs/GyverPWM) - Библиотека для расширенной генерации ШИМ на ATmega328 (Arduino UNO/Nano/Pro Mini...)
+- [GyverLibs/Approxy](https://github.com/GyverLibs/Approxy) - Линейный аппроксиматор
+- [GyverLibs/BitPack](https://github.com/GyverLibs/BitPack) - Библиотека для упаковки битовых флагов в байтовый массив (экономия места)
+- [GyverLibs/Forecaster](https://github.com/GyverLibs/Forecaster) - Библиотека для определения прогноза погоды по давлению для Arduino
+- [GyverLibs/GRGB](https://github.com/GyverLibs/GRGB) - Библиотека для управления RGB светодиодами и лентами для Arduino. Облегчённая версия библиотеки GyverRGB
+- [GyverLibs/GyverBME280](https://github.com/GyverLibs/GyverBME280) - Лёгкая библиотека для работы с BME280 по I2C для Arduino
+- [GyverLibs/GyverMAX6675](https://github.com/GyverLibs/GyverMAX6675) - Лёгкая библиотека для драйвера термопары MAX6675
+- [GyverLibs/GyverMotor](https://github.com/GyverLibs/GyverMotor) - Библиотека для удобного управления коллекторными моторами через драйвер
+- [GyverLibs/GyverNTP](https://github.com/GyverLibs/GyverNTP) - Библиотека для получения точного времени с NTP сервера для esp8266/esp32
+- [GyverLibs/GyverOS](https://github.com/GyverLibs/GyverOS) - Библиотека лёгкого диспетчера задач для Arduino
+- [GyverLibs/GyverPID](https://github.com/GyverLibs/GyverPID) - Библиотека PID регулятора для Arduino
+- [GyverLibs/GyverPower](https://github.com/GyverLibs/GyverPower) - GyverPower - библиотека для управления энергопотреблением МК AVR
+- [GyverLibs/GyverTimer](https://github.com/GyverLibs/GyverTimer) - Полноценный таймер на базе системных millis() / micros()
+- [GyverLibs/GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - Библиотека для передачи данных по интерфейсу GyverTransfer (GT). Передача для Arduino  по одному проводу
+- [GyverLibs/Hamming](https://github.com/GyverLibs/Hamming) - Библиотека для упаковки и распаковки данных по алгоритму Хэмминга (избыточные данные для восстановления)
+- [GyverLibs/Psychrometer](https://github.com/GyverLibs/Psychrometer) - Библиотека для определения влажности по сухому и мокрому термометру для Arduino
+- [GyverLibs/OVS](https://github.com/GyverLibs/OVS) - Библиотека для повышения разрядности измерений Arduino (оверсэмплинг)
+- [GyverLibs/NecDecoder](https://github.com/GyverLibs/NecDecoder) - Лёгкая библиотека для декодирования ИК протокола NEC (Японский вариант)
+- [GyverLibs/MicroUART](https://github.com/GyverLibs/MicroUART) - Лёгкая реализация UART для ATmega328 и подобных из этого поколения
+- [GyverLibs/GyverWDT](https://github.com/GyverLibs/GyverWDT) - Библиотека для управления WDT на AVR ATmega328p/32U4/2560 & ATtiny85/84/167
+- [GyverLibs/Tachometer](https://github.com/GyverLibs/Tachometer) - Библиотека тахометра для Arduino без привязки к железу
+- [GyverLibs/GyverOLED](https://github.com/GyverLibs/GyverOLED) - Лёгкая и быстрая библиотека для OLED дисплея
 - [Gbertaz/NonBlockingDallas](https://github.com/Gbertaz/NonBlockingDallas) - Arduino library for the DS18B20 temperature sensor. Avoid blocking the sketch while reading the sensor.
 - [JChristensen/serialLogger](https://github.com/JChristensen/serialLogger) - An Arduino-Compatible Serial Data Logger
 - [JChristensen/jcGoldieClock](https://github.com/JChristensen/jcGoldieClock) - My firmware for LarryD's Goldie Clock
@@ -1577,7 +1600,6 @@
 - [GyverLibs/GyverUART](https://github.com/GyverLibs/GyverUART) - Лёгкая библиотека для работы с последовательным портом
 - [GyverLibs/GyverTimers](https://github.com/GyverLibs/GyverTimers) - Настройка и контроль прерываний по аппаратным таймерам ATmega328p, ATmega2560
 - [GyverLibs/directTimers](https://github.com/GyverLibs/directTimers) - Библиотека для расширенного ручного управления таймерами ATMega2560, ATMega328, ATMega32u4
-- [GyverLibs/GyverBME280](https://github.com/GyverLibs/GyverBME280) - Лёгкая библиотека для работы с BME280 по I2C для Arduino
 - [GyverLibs/microDS18B20](https://github.com/GyverLibs/microDS18B20) - Легкая и удобная в обращении библиотека для работы с 1-Wire термометрами DS18B20
 - [GyverLibs/GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - Бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
 - [Stan1806/AquaController_2014](https://github.com/Stan1806/AquaController_2014) - Based on ATmega32
@@ -1593,7 +1615,7 @@
 - [wmww/wmwwStatusline](https://github.com/wmww/wmwwStatusline) - A configurable Linux statusline written in C++ designed for use with sway and i3
 - [electric-sheep-co/arduino-redis](https://github.com/electric-sheep-co/arduino-redis) - A Redis client library for Arduino.
 - [marchersimon/tldr-cpp](https://github.com/marchersimon/tldr-cpp) - The all-in-one tldr client for users and contributors
-- [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+- [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [terralang/terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 - [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) - Extending RIME with Lua scripts
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
@@ -1648,7 +1670,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.3: an ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new things, and surpasses their search speeds. Includes a TUI, boolean queries (AND/
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep 4.3: ultra-fast, user-friendly grep replacement. Ugrep combines the best features of other grep, adds new features, and surpasses their search speeds. Includes a TUI, boolean queries (AND/O
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3871,6 +3893,7 @@
 
 ## Lua 
 
+- [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) - 
 - [abeldekat/lazyflex.nvim](https://github.com/abeldekat/lazyflex.nvim) - An addon for lazy.nvim. Easily enable/disable multiple plugins.
 - [svermeulen/nvim-lusc](https://github.com/svermeulen/nvim-lusc) - Structured Async/Concurrency in Neovim
@@ -3902,7 +3925,7 @@
 - [DoDoENT/neovim-additional-tasks](https://github.com/DoDoENT/neovim-additional-tasks) - Additional tasks for Shatur/neovim-tasks
 - [saccarosium/neomarks](https://github.com/saccarosium/neomarks) - A new take on vim marks
 - [iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim) - A port of Gilles Castel's UltiSnip snippets for LuaSnip.
-- [rossjaywill/insights.nvim](https://github.com/rossjaywill/insights.nvim) - Neovim integration for cppinsights
+- [rossjaywill/insights.nvim](https://github.com/rossjaywill/insights.nvim) - Native neovim lua integration for cppinsights, with async, telescope, and optional HTTP support.
 - [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables using Neovim with a live preview and useful helpers
 - [Dhanus3133/Leetbuddy.nvim](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim 🔥
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems within Neovim.
@@ -4782,7 +4805,7 @@
 - [EtiamNullam/relative-source.nvim](https://github.com/EtiamNullam/relative-source.nvim) - Use this plugin to keep your neovim config clean and portable!
 - [bushblade/nvim](https://github.com/bushblade/nvim) - Moving from CoC to native LSP in nvim 0.7
 - [nvoid-lua/nvoid](https://github.com/nvoid-lua/nvoid) - nvim with lua is cool
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, with which-key.nvim integration
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [arnarg/todo-prompt.nvim](https://github.com/arnarg/todo-prompt.nvim) - A work in progress neovim plugin that provides a prompt to add tasks and todos quickly.
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) - A Vim Philosophy Oriented Zettelkasten Note Taking Plugin
 - [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) - nvim plugin using gfold to switch repo and have statusline component
@@ -4917,7 +4940,7 @@
 - [tzachar/fuzzy.nvim](https://github.com/tzachar/fuzzy.nvim) - nvim plugin providing abstraction over fzf and fzy native libraries
 - [tzachar/cmp-fuzzy-buffer](https://github.com/tzachar/cmp-fuzzy-buffer) - 
 - [ldelossa/litee-bookmarks.nvim](https://github.com/ldelossa/litee-bookmarks.nvim) - A litee.nvim backed plugin for saving important places in your code.
-- [Allaman/nvim](https://github.com/Allaman/nvim) - Straightforward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, Rust, and, of course, YAML
+- [Allaman/nvim](https://github.com/Allaman/nvim) - Straightforward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, and, of course, YAML
 - [mjlbach/onedark.nvim](https://github.com/mjlbach/onedark.nvim) - Not for public use.
 - [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer for Neovim written in Lua.
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
@@ -5663,7 +5686,6 @@
 - [vincasmiliunas/lua-basic-oauth2](https://github.com/vincasmiliunas/lua-basic-oauth2) - This library does simple comminication with OAuth2 services.
 - [harningt/luajson](https://github.com/harningt/luajson) - JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, various values are preserved as best as possible.
 - [p3r7/3d](https://github.com/p3r7/3d) - 🧊 Pure Lua 3D lib for Norns
-- [jixiuf/dotfiles](https://github.com/jixiuf/dotfiles) - 
 - [orbitalquark/textadept](https://github.com/orbitalquark/textadept) - Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers.
 - [KiranWells/micro-nord-tc-colors](https://github.com/KiranWells/micro-nord-tc-colors) - A nord colorscheme port for the Micro editor
 - [priner/micro-aspell-plugin](https://github.com/priner/micro-aspell-plugin) - Spellchecker plugin for Micro editor
@@ -8335,6 +8357,7 @@
 - [aroma1994/polybar-windows](https://github.com/aroma1994/polybar-windows) - A polybar script that shows opened windows on your current display. Click on window titles to switch between windows.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pmeiyu/dot-config](https://github.com/pmeiyu/dot-config) - My ~/.config files
+- [jixiuf/dotfiles](https://github.com/jixiuf/dotfiles) - 
 - [Mte90/dotfiles](https://github.com/Mte90/dotfiles) - My dotfiles
 - [mrossinek/dotfiles](https://github.com/mrossinek/dotfiles) - My dotfiles
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
@@ -8874,7 +8897,7 @@
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [aioutecism/amVim-for-VSCode](https://github.com/aioutecism/amVim-for-VSCode) - The Vim mode for Visual Studio Code(vscode) that works as expected.
 - [bazelbuild/vscode-bazel](https://github.com/bazelbuild/vscode-bazel) - Bazel support for Visual Studio Code
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
