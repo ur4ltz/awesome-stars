@@ -238,7 +238,6 @@
 - [mihirlad55/dwm-ipc](https://github.com/mihirlad55/dwm-ipc) - A DWM patch that allows IPC communication through a UNIX socket
 - [mihirlad55/dwm-anybar](https://github.com/mihirlad55/dwm-anybar) - 
 - [dvmfa90/dwm-dvmfa90](https://github.com/dvmfa90/dwm-dvmfa90) - Patched DWM for community
-- [dvmfa90/st](https://github.com/dvmfa90/st) - 
 - [gtk-gnutella/gtk-gnutella](https://github.com/gtk-gnutella/gtk-gnutella) - The Most Efficient Gnutella Client
 - [luapp-org/luapp](https://github.com/luapp-org/luapp) - The Lua++ programming language. A simple type based programming language that inherited its syntax from Lua.
 - [LiadOz/nvim-dap-repl-highlights](https://github.com/LiadOz/nvim-dap-repl-highlights) - Add syntax highlighting to the nvim-dap REPL
@@ -3938,6 +3937,7 @@
 - [Dhanus3133/Leetbuddy.nvim](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim 🔥
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems within Neovim.
 - [Bhanukamax/tman.nvim](https://github.com/Bhanukamax/tman.nvim) - Terminal Manager for Neovim, focused on running commands, tests, etc
+- [UTFeight/vimacs](https://github.com/UTFeight/vimacs) - Neovim Configuration heavily inspired by Emacs & JetBrains. Based on NvChad
 - [MeanderingProgrammer/harpoon-core.nvim](https://github.com/MeanderingProgrammer/harpoon-core.nvim) - Neovim harpoon like plugin, but only the core bits
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [SalOrak/whaler.nvim](https://github.com/SalOrak/whaler.nvim) - Telescope extension to change between directories blazingly fast
@@ -4017,7 +4017,7 @@
 - [nvimdev/whiskyline.nvim](https://github.com/nvimdev/whiskyline.nvim) - neovim statusline plugin blazing fast than any statusline plugin
 - [nvimdev/hlsearch.nvim](https://github.com/nvimdev/hlsearch.nvim) - auto remove search highlight and rehighlight when using n or N
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
-- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin running on a fully dynamic parsing engine.
+- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin running on a fully dynamic engine.
 - [Velrok/pr_status.nvim](https://github.com/Velrok/pr_status.nvim) - Neovim plugin written in lua which uses the gh cli to fetch any pull request check results and allow to display them in a status bar.
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
 - [dl-tg/luash](https://github.com/dl-tg/luash) - Extensible Lua terminal emulator
@@ -5299,7 +5299,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-1406+g25cfe3fd4) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=v0.10.0-dev-1452+g363e029e7) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -10228,7 +10228,6 @@
 
 ## Vim Snippet 
 
-- [UTFeight/vimacs](https://github.com/UTFeight/vimacs) - Neovim Configuration heavily inspired by Emacs & JetBrains. Based on NvChad
 - [adityastomar67/NvStar](https://github.com/adityastomar67/NvStar) - IDE Layer for Neovim, for simplicity lovers.
 - [mlaursen/vim-react-snippets](https://github.com/mlaursen/vim-react-snippets) - Useful snippets for developing in React (Javascript and Typescript)
 - [SmithWebDev/dotfiles](https://github.com/SmithWebDev/dotfiles) - 
