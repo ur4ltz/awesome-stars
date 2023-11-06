@@ -3630,6 +3630,7 @@
 - [ceifa/demoon](https://github.com/ceifa/demoon) - Lua + Node = demoon
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
+- [Harry-Ross/vscode-c-snippets](https://github.com/Harry-Ross/vscode-c-snippets) - A simple extension for Visual Studio Code snippets for the C programming language.
 - [Ironimus/estilo](https://github.com/Ironimus/estilo) - Create color schemes for Vim, Airline and Lightline
 - [Web-eWorks/ide-c-cpp](https://github.com/Web-eWorks/ide-c-cpp) - An Atom IDE integration with CCLS / CQuery.
 - [bash-lsp/ide-bash](https://github.com/bash-lsp/ide-bash) - Bash language support for Atom-IDE
@@ -4053,7 +4054,7 @@
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
-- [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal neovim config
+- [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal neovim disto
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
 - [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - Warm Green Theme for Neovim and Beyond
@@ -5417,7 +5418,7 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Neovim, Zsh, Kitty, Emacs, ...
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Emacs, VSCode, Zsh, Kitty, alacritty, ...
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -5468,10 +5469,10 @@
 - [kuznetsss/dotfiles](https://github.com/kuznetsss/dotfiles) - Linux configuration files
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 - [kuznetsss/nvim_lua_config](https://github.com/kuznetsss/nvim_lua_config) - Neovim lua config
-- [kuznetsss/meadow-nvim](https://github.com/kuznetsss/meadow-nvim) - Dark colorscheme for nvim 0.7+ written in lua
+- [kuznetsss/meadow.nvim](https://github.com/kuznetsss/meadow.nvim) - Dark colorscheme for nvim written in lua
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [takase1121/lite-plugin-manager](https://github.com/takase1121/lite-plugin-manager) - A little plugin-manager thingy for lite
-- [ray-x/nvim](https://github.com/ray-x/nvim) - Blazing fast neovim setup with 180+ plugins.
+- [ray-x/nvim](https://github.com/ray-x/nvim) - Personal neovim setup with 180+ plugins.
 - [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim) - Integrates vim-bookmarks into telescope.nvim
 - [xmake-io/luarocks-build-xmake](https://github.com/xmake-io/luarocks-build-xmake) - A luarocks build module based on xmake
@@ -7844,7 +7845,7 @@
 - [imsnif/monocle](https://github.com/imsnif/monocle) - A Zellij plugin to fuzzy find file names and contents in style 🧐
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [nim65s/jbz](https://github.com/nim65s/jbz) - 
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [swsnr/git-gone](https://github.com/swsnr/git-gone) - Cleanup stale Git branches of pull requests
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [enricozb/tree-sitter.kak](https://github.com/enricozb/tree-sitter.kak) - tree-sitter server for kakoune
@@ -8837,7 +8838,6 @@
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code
 - [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key) - which-key like menu for Visual Studio Code
 - [lucax88x/nvim-awesome](https://github.com/lucax88x/nvim-awesome) - A showcase of nvim plugins
-- [Harry-Ross/vscode-c-snippets](https://github.com/Harry-Ross/vscode-c-snippets) - A simple extension for Visual Studio Code snippets for the C programming language.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
 - [Benjamin-Dobell/luabundle](https://github.com/Benjamin-Dobell/luabundle) - A library for bundling several Lua files into a single file.
@@ -8927,7 +8927,6 @@
 - [microsoft/vscode-mock-debug](https://github.com/microsoft/vscode-mock-debug) - Starter sample for developing debug adapters for VSCode.
 - [satoren/lualint_for_vscode](https://github.com/satoren/lualint_for_vscode) - lua linter for Visual Studio Code
 - [oderwat/vscode-indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Extension which shows indentation with a faint rainbow colored background to make them more readable
-- [CoenraadS/BracketPair](https://github.com/CoenraadS/BracketPair) - Bracket Colorizer Extension for VSCode
 - [satoren/vscode-lrdb](https://github.com/satoren/vscode-lrdb) - Lua debugger for vscode
 - [castwide/vscode-solargraph](https://github.com/castwide/vscode-solargraph) - A Visual Studio Code extension for Solargraph.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
