@@ -2259,7 +2259,7 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Emacs, VSCode, Zsh, Kitty, alacritty, ...
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - My Configurations
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -4019,7 +4019,7 @@
 - [nvimdev/whiskyline.nvim](https://github.com/nvimdev/whiskyline.nvim) - neovim statusline plugin blazing fast than any statusline plugin
 - [nvimdev/hlsearch.nvim](https://github.com/nvimdev/hlsearch.nvim) - auto remove search highlight and rehighlight when using n or N
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
-- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin running on a fully dynamic engine.
+- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim - A fzf-based fuzzy finder running on the dynamic engine that parsing user query and selection on every keystroke, with friendly features, good performance and m
 - [Velrok/pr_status.nvim](https://github.com/Velrok/pr_status.nvim) - Neovim plugin written in lua which uses the gh cli to fetch any pull request check results and allow to display them in a status bar.
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
 - [dl-tg/luash](https://github.com/dl-tg/luash) - Extensible Lua terminal emulator
@@ -4699,7 +4699,7 @@
 - [tiagovla/buffercd.nvim](https://github.com/tiagovla/buffercd.nvim) - 
 - [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
 - [nanozuki/fur.nvim](https://github.com/nanozuki/fur.nvim) - Organize your neovim config and features by fur. Have fun with features opt-in and hot-reload.
-- [nanozuki/CrowsEnv](https://github.com/nanozuki/CrowsEnv) - my dotfiles
+- [nanozuki/crows](https://github.com/nanozuki/crows) - My home directory configs, powered by Home Manager.
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) - 🌈 LSP-based colorizer for neovim
 - [Avimitin/neovim-deus](https://github.com/Avimitin/neovim-deus) - The color scheme for neovim
 - [Avimitin/nerd-galaxyline](https://github.com/Avimitin/nerd-galaxyline) - A modern and great-looking status bar for neovim
@@ -6535,7 +6535,6 @@
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [superjamie/lazyweb](https://github.com/superjamie/lazyweb) - Random scraps of my knowledge
 - [nvim-neorg/library-of-norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - The Library of Alexandria, in .norg
-- [kiyoon/tmux-conf](https://github.com/kiyoon/tmux-conf) - Tmux configuration for neovim users, plus tutorial
 - [GulajavaMinistudio/Mayukai-Theme](https://github.com/GulajavaMinistudio/Mayukai-Theme) - Combination theme for VS Code and VSCodium that inspired from Ayu Theme, Monokai , Andromeda,  Material Color, and Gruvbox Darktooth Color.
 - [kaddkaka/vim_examples](https://github.com/kaddkaka/vim_examples) - Some examples of vim features captured from terminal with asciinema.
 - [yegappan/scratch](https://github.com/yegappan/scratch) - A Vim plugin to use a scratch buffer
@@ -9195,7 +9194,7 @@
 - [nvim-zh/better-escape.vim](https://github.com/nvim-zh/better-escape.vim) - A Vim/Neovim plugin for escaping insert mode without lagging.
 - [romainl/minivimrc](https://github.com/romainl/minivimrc) - 
 - [felipec/notmuch-vim](https://github.com/felipec/notmuch-vim) - Text-based mail user agent in vim using notmuch.
-- [pkgstore-123/linux-rpm-neovim](https://github.com/pkgstore-123/linux-rpm-neovim) - 
+- [pkgstore-old/linux-rpm-neovim](https://github.com/pkgstore-old/linux-rpm-neovim) - 
 - [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
 - [edkolev/edit-register.vim](https://github.com/edkolev/edit-register.vim) - 
 - [mizlan/vim-and-cp](https://github.com/mizlan/vim-and-cp) - Some helpful bits and pieces for your vimrc
