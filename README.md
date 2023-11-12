@@ -3939,7 +3939,7 @@
 - [Dhanus3133/Leetbuddy.nvim](https://github.com/Dhanus3133/Leetbuddy.nvim) - Solve Leetcode problems within Neovim 🔥
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems within Neovim.
 - [Bhanukamax/tman.nvim](https://github.com/Bhanukamax/tman.nvim) - Terminal Manager for Neovim, focused on running commands, tests, etc
-- [UTFeight/vimacs](https://github.com/UTFeight/vimacs) - Neovim Configuration heavily inspired by Emacs & JetBrains. Based on NvChad
+- [utfeight/vimacs](https://github.com/utfeight/vimacs) - Neovim Configuration heavily inspired by Emacs & JetBrains. Based on NvChad
 - [MeanderingProgrammer/harpoon-core.nvim](https://github.com/MeanderingProgrammer/harpoon-core.nvim) - Neovim harpoon like plugin, but only the core bits
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [SalOrak/whaler.nvim](https://github.com/SalOrak/whaler.nvim) - Telescope extension to change between directories blazingly fast
@@ -9840,7 +9840,7 @@
 - [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 - [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - My personal dotfiles (how do these have so many stars?)
 - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
-- [Yamagi/vimrc](https://github.com/Yamagi/vimrc) - My Vim configuration
+- [Yamagi/vimrc](https://github.com/Yamagi/vimrc) - My (way too complex) vim configuration
 - [overcache/NeoSolarized](https://github.com/overcache/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) - FlatColor vim colorscheme
