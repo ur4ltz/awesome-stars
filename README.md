@@ -2259,7 +2259,6 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - My Configurations
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -3003,6 +3002,7 @@
 - [rafaeldelboni/cajus-nvim](https://github.com/rafaeldelboni/cajus-nvim) - Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure.
 - [alexaandru/froggy](https://github.com/alexaandru/froggy) - Neovim theme
 - [alexaandru/nvim-config](https://github.com/alexaandru/nvim-config) - Nvim config
+- [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 - [Gavinok/dotneovim](https://github.com/Gavinok/dotneovim) - My attempt at transitioning to neovim and embracing the crazy things people are doing with it.
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
@@ -4019,7 +4019,7 @@
 - [nvimdev/whiskyline.nvim](https://github.com/nvimdev/whiskyline.nvim) - neovim statusline plugin blazing fast than any statusline plugin
 - [nvimdev/hlsearch.nvim](https://github.com/nvimdev/hlsearch.nvim) - auto remove search highlight and rehighlight when using n or N
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
-- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim - A fzf-based fuzzy finder running on the dynamic engine that parsing user query and selection on every keystroke, with friendly features, good performance and m
+- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke, with friendly features, good performance and maximized customization.
 - [Velrok/pr_status.nvim](https://github.com/Velrok/pr_status.nvim) - Neovim plugin written in lua which uses the gh cli to fetch any pull request check results and allow to display them in a status bar.
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
 - [dl-tg/luash](https://github.com/dl-tg/luash) - Extensible Lua terminal emulator
@@ -5374,7 +5374,6 @@
 - [lvim-tech/lvim-helper](https://github.com/lvim-tech/lvim-helper) - LVIM HELPER - Neovim plugin written in Lua. Show your custom help files.
 - [stevearc/flow-coverage.nvim](https://github.com/stevearc/flow-coverage.nvim) - Neovim plugin to display flow type coverage information
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
-- [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [TaylorBeeston/init.vim](https://github.com/TaylorBeeston/init.vim) - 
 - [bbenzikry/snazzybuddy.nvim](https://github.com/bbenzikry/snazzybuddy.nvim) - Snazzy color scheme for Neovim using colorbuddy
 - [WhoIsSethDaniel/goldsmith.nvim](https://github.com/WhoIsSethDaniel/goldsmith.nvim) - Use Neovim features, such as built-in LSP and tree-sitter, and develop Go code.
@@ -5419,6 +5418,7 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - My Configurations
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
