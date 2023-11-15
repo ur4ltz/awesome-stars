@@ -3054,6 +3054,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
 - [creativecreature/code-harvest](https://github.com/creativecreature/code-harvest) - Harvesting metadata from my coding sessions
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
 - [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
@@ -3578,7 +3579,6 @@
 - [amaanq/tree-sitter-luadoc](https://github.com/amaanq/tree-sitter-luadoc) - Luadoc grammar for tree-sitter
 - [latex-lsp/tree-sitter-bibtex](https://github.com/latex-lsp/tree-sitter-bibtex) - BibTeX grammar for tree-sitter
 - [lukas-w/font-logos](https://github.com/lukas-w/font-logos) - An icon font providing popular linux distro's logos
-- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [takahirox/nes-js](https://github.com/takahirox/nes-js) - JavaScript NES(Famicom) emulator
 - [Mshakir-Git/Quantumjs](https://github.com/Mshakir-Git/Quantumjs) - Terminal game engine
@@ -4044,7 +4044,7 @@
 - [thibthib18/glab.nvim](https://github.com/thibthib18/glab.nvim) - 
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) - A neovim plugin to navigate and execute code cells
-- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - A fork of ruifm's gitlinker, refactored with pattern based rule engine, windows support and other enhancements.
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with lua pattern based rule engine, windows support and other enhancements.
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and habit
 - [ten3roberts/window-picker.nvim](https://github.com/ten3roberts/window-picker.nvim) - Easily jump, pick and swap vim windows by annotated letters
 - [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
@@ -4939,7 +4939,7 @@
 - [robertgzr/lsp_status](https://github.com/robertgzr/lsp_status) - neovim plugin to retrieve the name of the running LSP client(s) and display a spinner when a job is in progress
 - [tzachar/cmp-tabnine](https://github.com/tzachar/cmp-tabnine) - TabNine plugin for hrsh7th/nvim-cmp
 - [tjdevries/youtube_lua](https://github.com/tjdevries/youtube_lua) - Youtube Series: &lt;todo&gt;
-- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Extensible UI for Neovim notifications and LSP progress messages.
 - [cbarrete/completion-vcard](https://github.com/cbarrete/completion-vcard) - vCard source for completion-nvim, nvim-compe and nvim-cmp
 - [vappolinario/cmp-clippy](https://github.com/vappolinario/cmp-clippy) - nvim-cmp source for code suggestion
 - [davidsierradz/cmp-conventionalcommits](https://github.com/davidsierradz/cmp-conventionalcommits) - (WIP) nvim-cmp source for autocompleting git commits with conventional commits types and lerna packages as scope
@@ -5572,6 +5572,7 @@
 - [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) - Bringing emacs' greatest feature to neovim - Tetris!
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.
+- [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
 - [tanvirtin/.tin](https://github.com/tanvirtin/.tin) - My development configurations
@@ -8313,7 +8314,6 @@
 - [g6ai/AltSIM](https://github.com/g6ai/AltSIM) - Send message from gammu-smsd to Telegram bot
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [voidsampaiaovoid/polybar-aesthetic](https://github.com/voidsampaiaovoid/polybar-aesthetic) - 
-- [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
 - [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - A clean and fast Bash prompt
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
@@ -8518,7 +8518,6 @@
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [Conni2461/dotfiles](https://github.com/Conni2461/dotfiles) - Current dotfiles and scripts
 - [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
-- [whalehub/ginstall.sh](https://github.com/whalehub/ginstall.sh) - A shell script that can install the compiled binaries of CLI tools straight from their GitHub release page.
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
 - [Liupold/OLD-dotfiles](https://github.com/Liupold/OLD-dotfiles) - This is collection of dotfiles by liupold.
@@ -9245,7 +9244,7 @@
 - [AlessandroYorba/Alduin](https://github.com/AlessandroYorba/Alduin) - A Vim Colorscheme
 - [AlessandroYorba/Sierra](https://github.com/AlessandroYorba/Sierra) - A Vim Colorscheme
 - [AlessandroYorba/Despacio](https://github.com/AlessandroYorba/Despacio) - A Vim colorscheme
-- [mhmoooods/Snip](https://github.com/mhmoooods/Snip) - Archived: plugin for managing vim abbreviations.
+- [mhmood-sf/Snip](https://github.com/mhmood-sf/Snip) - Archived: plugin for managing vim abbreviations.
 - [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 - [kamykn/spelunker.vim](https://github.com/kamykn/spelunker.vim) - Improved vim spelling plugin (with camel case support)!
 - [kuznetsss/shswitch](https://github.com/kuznetsss/shswitch) - Vim plugin to switch between header and source
