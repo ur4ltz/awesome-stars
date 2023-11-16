@@ -443,7 +443,7 @@
 - [bakkeby/dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) - A dmenu build with preprocessor directives to decide which patches to include during build time
 - [bakkeby/dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch) - A dwm build with preprocessor directives to decide which patches to include during build time
 - [bakkeby/dusk](https://github.com/bakkeby/dusk) - Just another fork of dwm
-- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous variant status feed generator for dwm.
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous status feed generator for dwm.
 - [rgimad/kos_mbedtls](https://github.com/rgimad/kos_mbedtls) - port of mbedTLS library for KolibriOS
 - [rgimad/gtk_examples](https://github.com/rgimad/gtk_examples) - some examples of using GTK library
 - [rgimad/EOS](https://github.com/rgimad/EOS) - EOS is an educational operating system for x86 platform
@@ -1672,7 +1672,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - An ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzzy search, h
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.3: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzz
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -1862,7 +1862,6 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [dirkvdb/ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) - Lightweight video thumbnailer that can be used by file managers to create thumbnails for video files
 - [kz26/qMakeTorrent](https://github.com/kz26/qMakeTorrent) - an advanced torrent file creator with batch functionality, powered by libtorrent-rasterbar
 - [torrent-file-editor/torrent-file-editor](https://github.com/torrent-file-editor/torrent-file-editor) - Qt based GUI tool designed to create and edit .torrent files
@@ -4044,7 +4043,7 @@
 - [thibthib18/glab.nvim](https://github.com/thibthib18/glab.nvim) - 
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) - A neovim plugin to navigate and execute code cells
-- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with lua pattern based rule engine, windows support and other enhancements.
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, alias-host, `/blame` url support and other improvements.
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and habit
 - [ten3roberts/window-picker.nvim](https://github.com/ten3roberts/window-picker.nvim) - Easily jump, pick and swap vim windows by annotated letters
 - [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
@@ -4314,7 +4313,7 @@
 - [loctvl842/nvim](https://github.com/loctvl842/nvim) - neovim config using lazy
 - [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) - Complete rewrite. Pure Lua.
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) - 
-- [theSafdarAwan/find-extender.nvim](https://github.com/theSafdarAwan/find-extender.nvim) - extend's the capability of neovim find command's
+- [iSafdarAwan/find-extender.nvim](https://github.com/iSafdarAwan/find-extender.nvim) - extend's the capability of neovim find command's
 - [echasnovski/mini.align](https://github.com/echasnovski/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
 - [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
 - [echasnovski/mini.base16](https://github.com/echasnovski/mini.base16) - Neovim Lua plugin for Base16 colorscheme creation. Part of 'mini.nvim' library.
@@ -5571,7 +5570,7 @@
 - [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
 - [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) - Bringing emacs' greatest feature to neovim - Tetris!
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.
 - [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
@@ -8011,6 +8010,7 @@
 - [maralla/pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [daa84/neovim-gtk](https://github.com/daa84/neovim-gtk) - gtk ui for neovim
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [Tobbe/losi](https://github.com/Tobbe/losi) - LiteStep OpenSource Installer
 
 ## SCSS 
@@ -8867,7 +8867,7 @@
 - [tomblind/local-lua-debugger-vscode](https://github.com/tomblind/local-lua-debugger-vscode) - Local Lua Debugger for VSCode
 - [teal-language/teal-playground](https://github.com/teal-language/teal-playground) - teal-language/tl playground
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [kyazdani42/red_tetris](https://github.com/kyazdani42/red_tetris) - school project - online tetris multiplayer game
 - [bmalehorn/vscode-vimspired](https://github.com/bmalehorn/vscode-vimspired) - Vimspired - personal VSCode keybindings
 - [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
@@ -9704,7 +9704,6 @@
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
 - [kizza/.dotfiles](https://github.com/kizza/.dotfiles) - My dotfiles
 - [vimoutliner/vimoutliner](https://github.com/vimoutliner/vimoutliner) - Work fast, think well.
-- [mjlbach/cli_customization_script](https://github.com/mjlbach/cli_customization_script) - Up your vim game with sane defaults and nice plugins
 - [zzzachzzz/dotfiles](https://github.com/zzzachzzz/dotfiles) - Dotfiles for Vim, Tmux, Zsh, VSCode, Sublime
 - [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Neovim & Tmux dotfiles
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
