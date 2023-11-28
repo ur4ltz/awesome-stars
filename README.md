@@ -558,7 +558,7 @@
 - [maxdoom-com/lsqlite](https://github.com/maxdoom-com/lsqlite) - lua sqlite module
 - [freetuxtv/freetuxtv](https://github.com/freetuxtv/freetuxtv) - FreetuxTV Internet television and radio player
 - [orangeduck/mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
-- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&gt;IP and other formats through the unix pipe as input sources.
+- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
 - [eantcal/mipos](https://github.com/eantcal/mipos) - Multum In Parvo Operating System is a cooperative multitasking RTOS designed for single-chip micro-controllers with severely limited RAM (e.g. less than 256 bytes) and ROM.
@@ -4043,7 +4043,7 @@
 - [thibthib18/glab.nvim](https://github.com/thibthib18/glab.nvim) - 
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) - A neovim plugin to navigate and execute code cells
-- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, git alias host, `/blame` url support and other improvements.
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh alias host, `/blame` url support and other improvements.
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and habit
 - [ten3roberts/window-picker.nvim](https://github.com/ten3roberts/window-picker.nvim) - Easily jump, pick and swap vim windows by annotated letters
 - [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
@@ -6569,7 +6569,6 @@
 - [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository.
 - [esquires/neorg-gtd-project-tags](https://github.com/esquires/neorg-gtd-project-tags) - Provides a view of tasks grouped with a project tag.
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
-- [Groctel/dotfiles-manager](https://github.com/Groctel/dotfiles-manager) - A powerful POSIX shell dotfiles manager program.
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
 - [shaunsingh/base16-doom-vibrant](https://github.com/shaunsingh/base16-doom-vibrant) - 
 - [shaunsingh/base16-nanodark-scheme](https://github.com/shaunsingh/base16-nanodark-scheme) - 
