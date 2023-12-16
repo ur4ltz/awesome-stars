@@ -4715,7 +4715,6 @@
 - [MattBystrin/premake-ecc](https://github.com/MattBystrin/premake-ecc) - Alternative premake module for generating compile_commands.json
 - [tarruda/premake-export-compile-commands](https://github.com/tarruda/premake-export-compile-commands) - Premake module to export compiler commands in JSON Compilation Database Format
 - [Jarod42/premake-cmake](https://github.com/Jarod42/premake-cmake) - CMake generator for Premake
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠
 - [sam4llis/nvim-cobalt](https://github.com/sam4llis/nvim-cobalt) - A simple plugin for alternating text in treesitter nodes.
 - [sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) - A theme for Neovim with support for LSP, Treesitter, Telescope, and more.
 - [sam4llis/telescope-arglist.nvim](https://github.com/sam4llis/telescope-arglist.nvim) - A telescope.nvim picker for the argument list.
@@ -7118,6 +7117,7 @@
 
 ## Python 
 
+- [markh-de/KiVar](https://github.com/markh-de/KiVar) - KiCad Action Plugin providing PCB assembly variant selection
 - [markspanbroek/nim-platformio](https://github.com/markspanbroek/nim-platformio) - Nim support in PlatformIO
 - [pointhi/kicad-color-schemes](https://github.com/pointhi/kicad-color-schemes) - Want to change the color scheme of KiCad? Look here for Inspiration.
 - [74th/kicad-highcontrast-monokai-theme](https://github.com/74th/kicad-highcontrast-monokai-theme) - KiCad High Contrast Monokai like color
@@ -7525,7 +7525,7 @@
 - [mzfr/rsh](https://github.com/mzfr/rsh) - generate reverse shell from CLI for linux and Windows.
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [barafael/neomake-platformio](https://github.com/barafael/neomake-platformio) - Simple tool allowing Neomake to properly lint when you're using PlatformIO.
-- [FreeCAD/FreeCAD-macros](https://github.com/FreeCAD/FreeCAD-macros) - A repository for the FreeCAD macros from
+- [FreeCAD/FreeCAD-macros](https://github.com/FreeCAD/FreeCAD-macros) - A repository for FreeCAD macros
 - [looooo/freecad.gears](https://github.com/looooo/freecad.gears) - a gear module for freecad
 - [platformio/platform-intel_mcs51](https://github.com/platformio/platform-intel_mcs51) - Intel MCS-51 (8051): development platform for PlatformIO
 - [kharts/deluge-xbmc-plugin](https://github.com/kharts/deluge-xbmc-plugin) - Kodi/XBMC plugin for Deluge control
@@ -8243,6 +8243,7 @@
 - [zimfw/completion](https://github.com/zimfw/completion) - Enables and configures smart and extensive tab completion.
 - [benvan/sandboxd](https://github.com/benvan/sandboxd) - speeds up your bashrc by running (slow) setup commands on the fly
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠
 - [miversen33/miversen-dotfiles](https://github.com/miversen33/miversen-dotfiles) - 
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [santiagogonzalez-dev/dotfiles](https://github.com/santiagogonzalez-dev/dotfiles) - 
