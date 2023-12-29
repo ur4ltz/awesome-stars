@@ -126,6 +126,7 @@
 
 ## Arduino 
 
+- [afarhan/ubitx](https://github.com/afarhan/ubitx) - ubitx  - sketch for the raduino to work with the ubitx transceiver
 - [buxtronix/arduino](https://github.com/buxtronix/arduino) - Various bits of Arduino related code.
 - [tedor/arduino-weather-station](https://github.com/tedor/arduino-weather-station) - Weather station based on arduino
 - [billygr/bitx40](https://github.com/billygr/bitx40) - BITX40 sketch for Raduino
@@ -204,6 +205,10 @@
 
 ## C 
 
+- [kamilsss655/uv-k5-firmware-custom](https://github.com/kamilsss655/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
+- [rafael2k/sbitx](https://github.com/rafael2k/sbitx) - 
+- [afarhan/sbitx](https://github.com/afarhan/sbitx) - 
+- [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [afiskon/stm32-si5351](https://github.com/afiskon/stm32-si5351) - HAL-based Si5351 driver for STM32
 - [afiskon/hbr-8b](https://github.com/afiskon/hbr-8b) - All HF bands QRP CW transceiver
 - [hugen79/NanoVNA-H](https://github.com/hugen79/NanoVNA-H) - NanoVNA-H based on edy555 design, provides effective measurements up to 1.5GHz.
@@ -1140,6 +1145,17 @@
 
 ## C++ 
 
+- [dirkbaechle/ubitxv6](https://github.com/dirkbaechle/ubitxv6) - uBitx v6 Arduino sketch with CW practice mode
+- [reedbn/ubitxv6](https://github.com/reedbn/ubitxv6) - uBitx v6 Arduino sketch
+- [afarhan/ubitx_v5](https://github.com/afarhan/ubitx_v5) - Firmware for the version 5 of the ubitx
+- [afarhan/antuinov2.1](https://github.com/afarhan/antuinov2.1) - Improved antuino software
+- [afarhan/antuino](https://github.com/afarhan/antuino) - Antuino - A portable Antenna analyzer and RF lab
+- [afarhan/freeman](https://github.com/afarhan/freeman) - Freeman is a free adhoc voice/data system based on LoRa and Arduino
+- [afarhan/antuino2.2](https://github.com/afarhan/antuino2.2) - 
+- [afarhan/ubitx4](https://github.com/afarhan/ubitx4) - Updated ubitx
+- [afarhan/ubitx_sdr](https://github.com/afarhan/ubitx_sdr) - This is a modified version of ubitx v6 firmware to work with the experimental sbitx core.
+- [afarhan/bitx23](https://github.com/afarhan/bitx23) - 
+- [AJ6CU/KD8CEC-V2.0-for-uBITX](https://github.com/AJ6CU/KD8CEC-V2.0-for-uBITX) - KD8CEC V2.0 - A processor independent with enhanced functionality update to the original KD8CEC V1.2
 - [osmanovv/esp32-si5351](https://github.com/osmanovv/esp32-si5351) - Si5351 driver for ESP32
 - [jankae/LibreVNA](https://github.com/jankae/LibreVNA) - 100kHz to 6GHz 2 port USB based VNA
 - [alexander-sholohov/si5351-beacon](https://github.com/alexander-sholohov/si5351-beacon) - WSPR beacon based on Arduino + si5351
@@ -3409,7 +3425,7 @@
 - [golang/gofrontend](https://github.com/golang/gofrontend) - Go compiler frontend (gccgo)
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
 - [google/blueprint](https://github.com/google/blueprint) - 
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [golang-cjr/xep](https://github.com/golang-cjr/xep) - golang chat bot
 - [yasuyk/gocdnjs](https://github.com/yasuyk/gocdnjs) - Command line interface for http://cdnjs.com
@@ -6584,6 +6600,7 @@
 
 ## Others 
 
+- [afarhan/daylight](https://github.com/afarhan/daylight) - An easy to build all analog radio
 - [etherkit/EtherkitKicadLibrary](https://github.com/etherkit/EtherkitKicadLibrary) - Etherkit Kicad Library
 - [Alarm-Siren/arduino-kicad-library](https://github.com/Alarm-Siren/arduino-kicad-library) - KiCad Symbol & Footprint Library for Arduino Modules (Shields, Sockets and Tiles)
 - [lethalbit/arcana-kicad](https://github.com/lethalbit/arcana-kicad) - My personal color scheme for KiCad
@@ -7828,6 +7845,7 @@
 
 ## Roff 
 
+- [afarhan/bitx2m](https://github.com/afarhan/bitx2m) - Documentation for the bitx2m
 - [leyuskckiran1510/My-Dwm](https://github.com/leyuskckiran1510/My-Dwm) - This the Desktop Window Manager That I am currently using and it's just a backup for my system resote point
 - [ColumPaget/libUseful-lua](https://github.com/ColumPaget/libUseful-lua) - lua bindings for libUseful
 - [budlabs/polify](https://github.com/budlabs/polify) - Precision control for polybar modules
@@ -9382,7 +9400,6 @@
 - [katawful/kat.vim](https://github.com/katawful/kat.vim) - Blue based Vim theme with warm hues
 - [JRasmusBm/vim-peculiar](https://github.com/JRasmusBm/vim-peculiar) - 
 - [Jorengarenar/vim-MvVis](https://github.com/Jorengarenar/vim-MvVis) - Move visually selected text
-- [Jorengarenar/quickWinHop.vim](https://github.com/Jorengarenar/quickWinHop.vim) - 
 - [Jorengarenar/miniSnip](https://github.com/Jorengarenar/miniSnip) - Lightweight snippet plugin for Vim
 - [Jorengarenar/fauxClip](https://github.com/Jorengarenar/fauxClip) - Clipboard support for Vim without +clipboard
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
