@@ -1467,7 +1467,6 @@
 - [vogler/esp-distance-sensor](https://github.com/vogler/esp-distance-sensor) - Ultrasonic distance sensor (HC-SR04) and 4-digit display (TM1637) on a Wemos D1 mini
 - [rpj/zw](https://github.com/rpj/zw) - ZeroWatch, an ESP32-based Redis-watcher and info-displayer
 - [cristiancristea00/tic-tac-toe](https://github.com/cristiancristea00/tic-tac-toe) - Tic-Tac-Toe game with AI implemented on a Raspberry Pi Pico board and a 20x4 LED display.
-- [Potatopasty/ESP8266-WiFi-clock-with-automatic-DST](https://github.com/Potatopasty/ESP8266-WiFi-clock-with-automatic-DST) - This is a WiFi-clock with automatic daylight saving time.
 - [Erriez/ErriezRobotDyn4DigitDisplay](https://github.com/Erriez/ErriezRobotDyn4DigitDisplay) - RobotDyn 4-digit 7-segment TM1637 display library for Arduino
 - [entorb/arduino-sensorics](https://github.com/entorb/arduino-sensorics) - Code for reading various sensors attached to a Arduino ESP32, data is uploaded via WiFi to an InfluxDB or displayed.
 - [neildavis/lib_tm1637_rpi](https://github.com/neildavis/lib_tm1637_rpi) - A library for using the TM1637 LED driver control IC on Raspberry Pi OS (Raspbian)
@@ -3519,6 +3518,7 @@
 - [ys/forked](https://github.com/ys/forked) - Find maintained forks of your favorite repositories
 - [krikun98/Skean](https://github.com/krikun98/Skean) - Wireless-first 44-key split keyboard with the Jian's stagger and the Corne's thumb cluster
 - [getCUJO/luasocket](https://github.com/getCUJO/luasocket) - Mirrored from https://github.com/diegonehab/luasocket
+- [fabrizioschiavi/pragmatapro-semiotics](https://github.com/fabrizioschiavi/pragmatapro-semiotics) - Semiotics of all the symbols and signs of Pragmata Pro typeface
 - [colorer/Colorer-schemes](https://github.com/colorer/Colorer-schemes) - Syntax and color schemes for colorer library
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [u03c1/outrun-vim](https://github.com/u03c1/outrun-vim) - 
@@ -5479,7 +5479,7 @@
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
-- [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - an up-to-date peek at my dotfiles. m1 mac
+- [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - dotfiles on an m1 mac
 - [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - see mizlan/dotfiles
 - [mizlan/vis-config](https://github.com/mizlan/vis-config) - 
 - [mizlan/microscope.nvim](https://github.com/mizlan/microscope.nvim) - Small Telescope-esque picker thing
@@ -6716,7 +6716,6 @@
 - [taunoe/arduino-dark-theme](https://github.com/taunoe/arduino-dark-theme) - Arduino dark theme!
 - [konrad91/OneDarkArduino](https://github.com/konrad91/OneDarkArduino) - Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
-- [fabrizioschiavi/pragmatapro-semiotics](https://github.com/fabrizioschiavi/pragmatapro-semiotics) - Semiotics of all the symbols and signs of Pragmata Pro typeface
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [fnune/base16-nightwalk-scheme](https://github.com/fnune/base16-nightwalk-scheme) - 
 - [shaeinst/birav2-theme](https://github.com/shaeinst/birav2-theme) - birav2, littel modified theme for oh my zsh
@@ -7441,7 +7440,7 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [fanout/pygripcontrol](https://github.com/fanout/pygripcontrol) - Python GRIP library
-- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ tmux session manager. built on libtmux
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [kazhala/fzf.aws](https://github.com/kazhala/fzf.aws) - :cyclone: Using fuzzy finder to perform AWS operations on the command line
 - [umute97/dotfiles](https://github.com/umute97/dotfiles) - Some dotfiles I wanna sync
 - [nuncan/wifite2mod](https://github.com/nuncan/wifite2mod) - Rolling Release Branch for community PR's @Credits to derv82 & the community
@@ -8683,7 +8682,6 @@
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [CinnamonSlackBuilds/csb](https://github.com/CinnamonSlackBuilds/csb) - SlackBuild scripts for the Cinnamon desktop environment
-- [darvid/zsh-poetry](https://github.com/darvid/zsh-poetry) - 🐚 Simple ZSH plugin for automatically activating and deactivating Poetry-created virtualenvs. 🐍
 - [drmargarido/d-tracker-aur](https://github.com/drmargarido/d-tracker-aur) - D-Tracker Arch User Repository Package
 - [J216/jmocnp](https://github.com/J216/jmocnp) - Now Playing GUI notification for Music On Console(MOC) using notify-send, new notification every time the song changes
 - [Tarrasquero/Mocp_notify](https://github.com/Tarrasquero/Mocp_notify) - Script shell de notificaciones para el reproductor Mocp - Moc
