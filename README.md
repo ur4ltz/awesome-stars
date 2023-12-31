@@ -1145,6 +1145,12 @@
 
 ## C++ 
 
+- [lucas-inacio/TinyLiquidCrystal_I2C](https://github.com/lucas-inacio/TinyLiquidCrystal_I2C) - LiquidCrystal Arduino library for ATtiny microcontrollers (PCF8574 I2C based displays)
+- [cujomalainey/ant-arduino](https://github.com/cujomalainey/ant-arduino) - An implementation of a ANT driver for Arduino, Mbed and ESP-IDF
+- [cujomalainey/antplus-arduino](https://github.com/cujomalainey/antplus-arduino) - An Implementation of the ANT+ Network on top of ant-arduino
+- [arnakazim/TwiLiquidCrystal-library](https://github.com/arnakazim/TwiLiquidCrystal-library) - Arduino library to communicate with an HD44780 liquid crystal display interfaced with an I2C backpack (TWI in Arduino terms).
+- [arduino-libraries/LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal) - Liquid Crystal Library for Arduino
+- [brianlow/Rotary](https://github.com/brianlow/Rotary) - Rotary encoder library for Arduino
 - [dirkbaechle/ubitxv6](https://github.com/dirkbaechle/ubitxv6) - uBitx v6 Arduino sketch with CW practice mode
 - [reedbn/ubitxv6](https://github.com/reedbn/ubitxv6) - uBitx v6 Arduino sketch
 - [afarhan/ubitx_v5](https://github.com/afarhan/ubitx_v5) - Firmware for the version 5 of the ubitx
@@ -5037,7 +5043,7 @@
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [dmitmel/cmp-digraphs](https://github.com/dmitmel/cmp-digraphs) - A nvim-cmp source for completing digraphs.
 - [nandac/font-awesome-docx](https://github.com/nandac/font-awesome-docx) - 
-- [shmuz/luafar2m](https://github.com/shmuz/luafar2m) - 
+- [shmuz/luafar2m](https://github.com/shmuz/luafar2m) - Plugins and macros for far2m
 - [SvenMarcus/lua-pie](https://github.com/SvenMarcus/lua-pie) - A class library for Lua
 - [natecraddock/nvim-find](https://github.com/natecraddock/nvim-find) - A fast and simple finder plugin for Neovim
 - [natecraddock/dotfiles](https://github.com/natecraddock/dotfiles) - My configurations for linux
