@@ -205,6 +205,22 @@
 
 ## C 
 
+- [DK7IH/qro_transciver_7mhz](https://github.com/DK7IH/qro_transciver_7mhz) - DK7IH software space for ham radio projects
+- [DK7IH/Micro26-Rebuilding-my-1st-Shirt-Pocket-Transceiver](https://github.com/DK7IH/Micro26-Rebuilding-my-1st-Shirt-Pocket-Transceiver) - 
+- [DK7IH/5-band-qrp-ssb-transceiver-2020](https://github.com/DK7IH/5-band-qrp-ssb-transceiver-2020) - C source for ham radio project: A 5 band QRP SSB transcevier for 3.5, 7, 14, 18 and 21 MHz.
+- [DK7IH/6_Band_QRP_HF_Trannsceiver](https://github.com/DK7IH/6_Band_QRP_HF_Trannsceiver) - Source code for homemade 6 band QRP SSB Transceiver - Project name "Midi6"
+- [DK7IH/Mini22_14MHz_Hi_Performance_Transceiver_SSB](https://github.com/DK7IH/Mini22_14MHz_Hi_Performance_Transceiver_SSB) - 
+- [DK7IH/14MHz-Walkie-Talkie--Radio](https://github.com/DK7IH/14MHz-Walkie-Talkie--Radio) - The software for my handheld transceiver ("Walkie-Talkie"). See https://dk7ih.de/a-walkie-talkie-ssb-transceiver-for-14mhz-or-higher-rf-bands/
+- [DK7IH/8-band-SSB-Transceiver](https://github.com/DK7IH/8-band-SSB-Transceiver) - High performance short wave radio for 8 amateur bands (1.6, 3.5, 7, 14, 18, 21, 24 and 10m). Controlled by STM32F411 ARM processor, ST7735 colored display, AD9951 as main oscillator, Si5351 as LO etc.
+- [DK7IH/STM32-F4-Demos](https://github.com/DK7IH/STM32-F4-Demos) - This repo contains lots of code snippets to learn and understand "bare metal" programming the STM32F4 MCUs.
+- [DK7IH/KW-TRX-10_bands_10_watts](https://github.com/DK7IH/KW-TRX-10_bands_10_watts) - https://dk7ih.de/10-bands-10-watts-a-compact-multiband-ssb-transceiver-for-all-high-frequency-bands-from-160-to-10-meters/
+- [DK7IH/Si5351_VFO](https://github.com/DK7IH/Si5351_VFO) - Simple control software for ma Si5351 radio frequency oscillator for ham radio projects
+- [DK7IH/AVR-Demos](https://github.com/DK7IH/AVR-Demos) - 
+- [dmitrii-rudnev/selenite-habr](https://github.com/dmitrii-rudnev/selenite-habr) - STM32F4 HAL USB Composite Device
+- [dmitrii-rudnev/selenite-habr-uac](https://github.com/dmitrii-rudnev/selenite-habr-uac) - STM32F4 HAL USB Audio Device
+- [dmitrii-rudnev/selenite-habr-cw](https://github.com/dmitrii-rudnev/selenite-habr-cw) - STM32 CW Iambic Keyer
+- [dmitrii-rudnev/selenite-lite](https://github.com/dmitrii-rudnev/selenite-lite) - Selenite Lite SDR HF Transceiver firmware
+- [dmitrii-rudnev/radio-76-cat](https://github.com/dmitrii-rudnev/radio-76-cat) - CAT interface for Radio-76 HAM transceiver
 - [kamilsss655/uv-k5-firmware-custom](https://github.com/kamilsss655/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [rafael2k/sbitx](https://github.com/rafael2k/sbitx) - 
 - [afarhan/sbitx](https://github.com/afarhan/sbitx) - 
@@ -1145,6 +1161,21 @@
 
 ## C++ 
 
+- [bobboteck/CWLibrary](https://github.com/bobboteck/CWLibrary) - Yet another library for generating CW signals? Yes, why not, if this library is based on a different concept of operation.
+- [dniklaus/debug-cli](https://github.com/dniklaus/debug-cli) - Debug CLI for Embedded Applications - modular and object oriented tree structure.
+- [ERNICommunity/debug-cli](https://github.com/ERNICommunity/debug-cli) - Debug CLI for Embedded Applications - Command Line Interface for debugging and testing based on object oriented tree structure.
+- [mathertel/RotaryEncoder](https://github.com/mathertel/RotaryEncoder) - RotaryEncoder Arduino Library
+- [ElTangas/jtag2updi](https://github.com/ElTangas/jtag2updi) - UPDI programmer software for Arduino (targets Tiny AVR-0/1/2, Mega AVR-0 and AVR-DA/DB MCUs)
+- [UA6EM/FT897D](https://github.com/UA6EM/FT897D) - 
+- [SergejBre/SynchroTime](https://github.com/SergejBre/SynchroTime) - CLI- and GUI-client for adjust the exact time and calibrating the RTC DS3231 modules
+- [DetSimen/dtsUseful](https://github.com/DetSimen/dtsUseful) - 
+- [DetSimen/Arduino-MessageList](https://github.com/DetSimen/Arduino-MessageList) - работаем по взрослому, с очередью сообщений
+- [DetSimen/MorzeRepeater](https://github.com/DetSimen/MorzeRepeater) - Автоматический Морзе маяк
+- [DetSimen/Arduino_TimerList](https://github.com/DetSimen/Arduino_TimerList) - Много таймеров из одного
+- [DetSimen/TM1637](https://github.com/DetSimen/TM1637) - биб-ка для китайского светодиодного модуля на 4 цифры
+- [AlexBeem/TUNER-FT897D](https://github.com/AlexBeem/TUNER-FT897D) - 
+- [stdevPavelmc/ft817](https://github.com/stdevPavelmc/ft817) - Improved Arduino CAT library for the Yaesu FT817
+- [dmitrii-rudnev/mearm-esp32](https://github.com/dmitrii-rudnev/mearm-esp32) - 
 - [lucas-inacio/TinyLiquidCrystal_I2C](https://github.com/lucas-inacio/TinyLiquidCrystal_I2C) - LiquidCrystal Arduino library for ATtiny microcontrollers (PCF8574 I2C based displays)
 - [cujomalainey/ant-arduino](https://github.com/cujomalainey/ant-arduino) - An implementation of a ANT driver for Arduino, Mbed and ESP-IDF
 - [cujomalainey/antplus-arduino](https://github.com/cujomalainey/antplus-arduino) - An Implementation of the ANT+ Network on top of ant-arduino
@@ -7157,6 +7188,7 @@
 
 ## Python 
 
+- [kk7ds/chirp](https://github.com/kk7ds/chirp) - Official git repo for the CHIRP project
 - [NanoVNA-Saver/nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver) - A tool for reading, displaying and saving data from the NanoVNA
 - [markh-de/KiVar](https://github.com/markh-de/KiVar) - KiCad Action Plugin providing PCB assembly variant selection
 - [markspanbroek/nim-platformio](https://github.com/markspanbroek/nim-platformio) - Nim support in PlatformIO
@@ -7966,6 +7998,7 @@
 
 ## Rust 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dotcypress/ula](https://github.com/dotcypress/ula) - μLA: Micro Logic Analyzer for RP2040
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [google/vimscript-language-server](https://github.com/google/vimscript-language-server) - 
