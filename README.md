@@ -1128,7 +1128,7 @@
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
 - [jgm/lunamark-standalone](https://github.com/jgm/lunamark-standalone) - Standalone version of lunamark (compiled with no library dependencies)
-- [michaellukashov/Far-NetBox](https://github.com/michaellukashov/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV client for Far Manager (http://farmanager.com/)
+- [michaellukashov/Far-NetBox](https://github.com/michaellukashov/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV/S3 client for Far Manager 3 (http://farmanager.com/)
 - [musashimm/avrboot](https://github.com/musashimm/avrboot) - Bootloader for AVR microcontrollers
 - [musashimm/aquamat](https://github.com/musashimm/aquamat) - Sterownik akwariowy Aquamat (AVR based aquarium controller)
 - [shmuz/LuaFAR](https://github.com/shmuz/LuaFAR) - A library for writing Far Manager plugins in Lua.
@@ -1161,6 +1161,11 @@
 
 ## C++ 
 
+- [hasenradball/DS3231-RTC](https://github.com/hasenradball/DS3231-RTC) - C++ Library for the DS3231 RTC module
+- [justsoft/QCX-SSB](https://github.com/justsoft/QCX-SSB) - This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver.
+- [mcogoni/QCX-SSB](https://github.com/mcogoni/QCX-SSB) - This is a simple and experimental modification that transforms a QCX into a (Class-E driven) SSB transceiver.
+- [UN7FGO/TRX_POLEVIK_VFO](https://github.com/UN7FGO/TRX_POLEVIK_VFO) - 
+- [UN7FGO/VFO_NANO_LCD_SI5351](https://github.com/UN7FGO/VFO_NANO_LCD_SI5351) - Arduino based frequency synthesizer
 - [bobboteck/CWLibrary](https://github.com/bobboteck/CWLibrary) - Yet another library for generating CW signals? Yes, why not, if this library is based on a different concept of operation.
 - [dniklaus/debug-cli](https://github.com/dniklaus/debug-cli) - Debug CLI for Embedded Applications - modular and object oriented tree structure.
 - [ERNICommunity/debug-cli](https://github.com/ERNICommunity/debug-cli) - Debug CLI for Embedded Applications - Command Line Interface for debugging and testing based on object oriented tree structure.
@@ -2406,6 +2411,7 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - My Configurations
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -3155,7 +3161,6 @@
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 - [Kethku/vim-config](https://github.com/Kethku/vim-config) - My neovim config.
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
-- [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration using Fennel
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
@@ -3272,7 +3277,7 @@
 - [WhoIsSethDaniel/nvim-go-client-examples](https://github.com/WhoIsSethDaniel/nvim-go-client-examples) - Examples of using the nvim go client and documentation for the client
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
-- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [darmiel/365-days-notifier](https://github.com/darmiel/365-days-notifier) - 365 days of code
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -3542,6 +3547,7 @@
 
 ## HTML 
 
+- [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
 - [xibhuxan/Arduino](https://github.com/xibhuxan/Arduino) - :rocket: Proyectos de todo tipo para arduino utilizando sus sensores y actuadores. :robot:
 - [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino dashboard library
 - [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font
@@ -3551,7 +3557,6 @@
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [ys/forked](https://github.com/ys/forked) - Find maintained forks of your favorite repositories
 - [krikun98/Skean](https://github.com/krikun98/Skean) - Wireless-first 44-key split keyboard with the Jian's stagger and the Corne's thumb cluster
 - [getCUJO/luasocket](https://github.com/getCUJO/luasocket) - Mirrored from https://github.com/diegonehab/luasocket
@@ -3652,6 +3657,7 @@
 
 ## Java 
 
+- [N0BOY/FT8CN](https://github.com/N0BOY/FT8CN) - Run FT8 on Android
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [woheller69/gptAssist](https://github.com/woheller69/gptAssist) - gptAssist is a simple WebView wrapper for ChatGPT
 - [mesflit/meslinux](https://github.com/mesflit/meslinux) - 
@@ -4047,6 +4053,8 @@
 
 ## Lua 
 
+- [lewis6991/foldsigns.nvim](https://github.com/lewis6991/foldsigns.nvim) - Signs for folded lines
+- [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [jedrzejboczar/exrc.nvim](https://github.com/jedrzejboczar/exrc.nvim) - Utilities for writing Neovim exrc files
 - [hedyhli/dotfiles](https://github.com/hedyhli/dotfiles) - ~&gt; $HOME sweet /home/ — (neo)vim, emacs, fish, git, shell scripts and more
 - [hedyhli/markdown-toc.nvim](https://github.com/hedyhli/markdown-toc.nvim) - Generate and auto-update table of contents list for markdown
@@ -4735,7 +4743,7 @@
 - [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) - 
 - [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) - NeoVim frontend for mongosh
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) - Edit files from S3 directly from Neovim
-- [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator
+- [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator plugin for Neovim
 - [amarakon/nvim-cmp-buffer-lines](https://github.com/amarakon/nvim-cmp-buffer-lines) - nvim-cmp completion source for buffer lines
 - [kdheepak/cmp-latex-symbols](https://github.com/kdheepak/cmp-latex-symbols) - Add latex symbol support for nvim-cmp.
 - [amarakon/nvim-cmp-lua-latex-symbols](https://github.com/amarakon/nvim-cmp-lua-latex-symbols) - nvim-cmp source for LaTeX symbols (100% Lua)
@@ -5051,7 +5059,7 @@
 - [seblj/nvim-echo-diagnostics](https://github.com/seblj/nvim-echo-diagnostics) - Echo diagnostics from nvim-lspconfig
 - [seblj/nvim-tabline](https://github.com/seblj/nvim-tabline) - Tabline for neovim written in lua
 - [p00f/clangd_extensions.nvim](https://github.com/p00f/clangd_extensions.nvim) - Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead
-- [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
+- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
 - [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -5570,7 +5578,6 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - My Configurations
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -5945,6 +5952,7 @@
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
 - [zdenekkostal/dotfiles](https://github.com/zdenekkostal/dotfiles) - 
 - [lucastrvsn/.dotfiles](https://github.com/lucastrvsn/.dotfiles) - wow such dotfiles
+- [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration
 - [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Bubbly statusline for neovim
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
@@ -8329,6 +8337,7 @@
 - [nguyenvukhang/ags](https://github.com/nguyenvukhang/ags) - ags scans your local git repositories for unstaged files and unpushed commits
 - [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [Integralist/dotfiles](https://github.com/Integralist/dotfiles) - Bash shell and Vim configuration settings
@@ -8721,6 +8730,7 @@
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [CinnamonSlackBuilds/csb](https://github.com/CinnamonSlackBuilds/csb) - SlackBuild scripts for the Cinnamon desktop environment
+- [darvid/zsh-poetry](https://github.com/darvid/zsh-poetry) - 🐚 Simple ZSH plugin for automatically activating and deactivating Poetry-created virtualenvs. 🐍
 - [drmargarido/d-tracker-aur](https://github.com/drmargarido/d-tracker-aur) - D-Tracker Arch User Repository Package
 - [J216/jmocnp](https://github.com/J216/jmocnp) - Now Playing GUI notification for Music On Console(MOC) using notify-send, new notification every time the song changes
 - [Tarrasquero/Mocp_notify](https://github.com/Tarrasquero/Mocp_notify) - Script shell de notificaciones para el reproductor Mocp - Moc
@@ -8963,6 +8973,7 @@
 
 ## TypeScript 
 
+- [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [wokwi/good-arduino-code](https://github.com/wokwi/good-arduino-code) - Frontend for goodarduinocode.com - A curated collection of Arduino coding examples
 - [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) - sort json objects plugin for neovim
 - [yuki-yano/highlight-undo.nvim](https://github.com/yuki-yano/highlight-undo.nvim) - 
@@ -9560,7 +9571,7 @@
 - [tobeypeters/dotfiles](https://github.com/tobeypeters/dotfiles) - Linux related files.  Configurations, how-to, etc ...
 - [mcmire/dotfiles](https://github.com/mcmire/dotfiles) - My personal dotfiles
 - [sainnhe/edge](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material
-- [Psych3r/vim-remembers](https://github.com/Psych3r/vim-remembers) - A vim plugin that emulates Notepad++ "remembering" the contents of unnamed files.
+- [psych3r/vim-remembers](https://github.com/psych3r/vim-remembers) - A vim plugin that emulates Notepad++ "remembering" the contents of unnamed files.
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [spinks/vim-leader-guide](https://github.com/spinks/vim-leader-guide) - Show neovim mappings in popup
 - [jim-at-jibba/ariake-vim-colors](https://github.com/jim-at-jibba/ariake-vim-colors) - 
@@ -9681,7 +9692,7 @@
 - [ZSaberLv0/nerdtree_fs_menu](https://github.com/ZSaberLv0/nerdtree_fs_menu) - replacement for original nerdtree fs menu
 - [ZSaberLv0/ZFVimBackup](https://github.com/ZSaberLv0/ZFVimBackup) - more convenient file backup util for vim
 - [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
-- [rhovelionz/rhovelionz-dotfiles](https://github.com/rhovelionz/rhovelionz-dotfiles) - Rhovelionz-Dotfiles
+- [rhovelz/rhovelz_dotfiles](https://github.com/rhovelz/rhovelz_dotfiles) - Rhovelionz-Dotfiles
 - [el-iot/vim-wikipedia-browser](https://github.com/el-iot/vim-wikipedia-browser) - A vim plugin for navigating between wikiedia articles
 - [ellysaurus/DOTFILES](https://github.com/ellysaurus/DOTFILES) - my linux dotfiles / configs
 - [pradyungn/vim.orion](https://github.com/pradyungn/vim.orion) - An endgame neovim configuration.
@@ -10091,7 +10102,7 @@
 - [mboughaba/i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
 - [moon-musick/vim-i3-config-syntax](https://github.com/moon-musick/vim-i3-config-syntax) - Syntax file and and ftdetect for i3 Window Manager config file
 - [Siphalor/vim-atomified](https://github.com/Siphalor/vim-atomified) - A special dark vim colorscheme.
-- [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
+- [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Srcery is a dark color scheme with clearly defined contrasting colors and a slightly earthy tone.
 - [ku1ik/vim-monokai](https://github.com/ku1ik/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [ErichDonGubler/vim-sublime-monokai](https://github.com/ErichDonGubler/vim-sublime-monokai) - Vim Monokai color scheme that tries to be as faithful as possible to Sublime's Monokai syntax highlighting
 - [patstockwell/vim-monokai-tasty](https://github.com/patstockwell/vim-monokai-tasty) - VIM Colour scheme
