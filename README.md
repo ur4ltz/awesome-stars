@@ -1161,6 +1161,10 @@
 
 ## C++ 
 
+- [adafruit/Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO) - Arduino library for I2C & SPI abstractions
+- [adafruit/Adafruit_LiquidCrystal](https://github.com/adafruit/Adafruit_LiquidCrystal) - A fork of my own LiquidCrystal library
+- [An7orAhmed/LiquidCrystalSerial](https://github.com/An7orAhmed/LiquidCrystalSerial) - A simple arduino Serial LCD Library.
+- [ZulNs/LCD_HD44780](https://github.com/ZulNs/LCD_HD44780) - Arduino library for HD44780 based or compatible LCD.
 - [hasenradball/DS3231-RTC](https://github.com/hasenradball/DS3231-RTC) - C++ Library for the DS3231 RTC module
 - [justsoft/QCX-SSB](https://github.com/justsoft/QCX-SSB) - This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver.
 - [mcogoni/QCX-SSB](https://github.com/mcogoni/QCX-SSB) - This is a simple and experimental modification that transforms a QCX into a (Class-E driven) SSB transceiver.
@@ -1786,7 +1790,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.4: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3160,7 +3164,7 @@
 - [Gavinok/dotneovim](https://github.com/Gavinok/dotneovim) - My attempt at transitioning to neovim and embracing the crazy things people are doing with it.
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 - [Kethku/vim-config](https://github.com/Kethku/vim-config) - My neovim config.
-- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
+- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
@@ -4053,6 +4057,7 @@
 
 ## Lua 
 
+- [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [lewis6991/foldsigns.nvim](https://github.com/lewis6991/foldsigns.nvim) - Signs for folded lines
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [jedrzejboczar/exrc.nvim](https://github.com/jedrzejboczar/exrc.nvim) - Utilities for writing Neovim exrc files
@@ -6094,7 +6099,6 @@
 - [prettier/plugin-lua](https://github.com/prettier/plugin-lua) - Prettier Lua Plugin (WIP)
 - [jonniek/mpv-menu](https://github.com/jonniek/mpv-menu) - A simple 0-dependency mpv menu to launch commands from
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
-- [scetus/mpv-scripts](https://github.com/scetus/mpv-scripts) - User scripts
 - [pallene-lang/pallene](https://github.com/pallene-lang/pallene) - Pallene Compiler
 - [titan-lang/titan](https://github.com/titan-lang/titan) - The Titan programming language
 - [teal-language/teal-types](https://github.com/teal-language/teal-types) - Teal type definitions of Lua libraries!
@@ -7665,7 +7669,6 @@
 - [dbgx/lldb.nvim](https://github.com/dbgx/lldb.nvim) - Debugger integration with a focus on ease-of-use.
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [joajfreitas/marcador](https://github.com/joajfreitas/marcador) - minimal bookmark manager with rofi front end.
 - [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py) - Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 - [gumblex/fossilpy](https://github.com/gumblex/fossilpy) - Simple python library for reading Fossil repositories
 - [trinaldi/dotfiles](https://github.com/trinaldi/dotfiles) - My dotfiles. For VIM use the plugins and VimAwesome for reference.
@@ -8186,6 +8189,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [joajfreitas/marcador](https://github.com/joajfreitas/marcador) - minimal bookmark manager with rofi front end.
 - [rust-lang-ru/rust_book_2ed](https://github.com/rust-lang-ru/rust_book_2ed) - The Rust Programming Language (на русском)
 - [maralla/pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
