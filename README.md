@@ -126,6 +126,7 @@
 
 ## Arduino 
 
+- [HarrydeBug/1003-Big-Rotary-Encoder-Firmware](https://github.com/HarrydeBug/1003-Big-Rotary-Encoder-Firmware) - Arduino software for 1003 "Big Rotary Encoder"
 - [afarhan/ubitx](https://github.com/afarhan/ubitx) - ubitx  - sketch for the raduino to work with the ubitx transceiver
 - [buxtronix/arduino](https://github.com/buxtronix/arduino) - Various bits of Arduino related code.
 - [tedor/arduino-weather-station](https://github.com/tedor/arduino-weather-station) - Weather station based on arduino
@@ -205,6 +206,12 @@
 
 ## C 
 
+- [alexander-sholohov/si4463-beacon](https://github.com/alexander-sholohov/si4463-beacon) - CW Beacon on Arduino+si4463
+- [Tunas1337/uv-k5-firmware](https://github.com/Tunas1337/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
+- [phdlee/uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
+- [OneOfEleven/uv-k5-firmware-custom](https://github.com/OneOfEleven/uv-k5-firmware-custom) - A customized version of https://github.com/DualTachyon/uv-k5-firmware
+- [DualTachyon/uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
+- [fagci/uv-k5-firmware-fagci-mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) - OSFW based on https://github.com/DualTachyon/uv-k5-firmware
 - [DK7IH/qro_transciver_7mhz](https://github.com/DK7IH/qro_transciver_7mhz) - DK7IH software space for ham radio projects
 - [DK7IH/Micro26-Rebuilding-my-1st-Shirt-Pocket-Transceiver](https://github.com/DK7IH/Micro26-Rebuilding-my-1st-Shirt-Pocket-Transceiver) - 
 - [DK7IH/5-band-qrp-ssb-transceiver-2020](https://github.com/DK7IH/5-band-qrp-ssb-transceiver-2020) - C source for ham radio project: A 5 band QRP SSB transcevier for 3.5, 7, 14, 18 and 21 MHz.
@@ -1161,6 +1168,16 @@
 
 ## C++ 
 
+- [pvizeli/CmdParser](https://github.com/pvizeli/CmdParser) - A simple and most powerfull cmd parser with small memory footprint
+- [neomilium/arduino-CmdParser](https://github.com/neomilium/arduino-CmdParser) - A simple and most powerful cmd parser with small memory footprint
+- [markqvist/LibAPRS](https://github.com/markqvist/LibAPRS) - An APRS library for the Arduino IDE
+- [HarrydeBug/1010-WSPR-RX_V1](https://github.com/HarrydeBug/1010-WSPR-RX_V1) - Arduino firmware for WSPR-RX Version 1
+- [HarrydeBug/1004-1005-Keypad-UNO](https://github.com/HarrydeBug/1004-1005-Keypad-UNO) - Arduino software for 1005 Keypad Small Buttons UNO and 1004 Keypad Big buttons UNO
+- [HarrydeBug/1010-WSPR-RX_V2](https://github.com/HarrydeBug/1010-WSPR-RX_V2) - Arduino firmware for WSPR-RX Version 2
+- [HarrydeBug/CW_Flea](https://github.com/HarrydeBug/CW_Flea) - CW Transmitter for 40,30 and 20m band. By Kevin Loughin - KB9RLW and Harry Zachrisson - SM7PNV
+- [HarrydeBug/WSPR-Receivers](https://github.com/HarrydeBug/WSPR-Receivers) - Arduino firmware and documentation for ZachTek WSPR receivers.
+- [HarrydeBug/1006-34MHz-to-4.4GHz-Frequency-Synthesizer](https://github.com/HarrydeBug/1006-34MHz-to-4.4GHz-Frequency-Synthesizer) - Arduino Software for 34MHz to 4.4GHz Frequency Synthesizer
+- [HarrydeBug/WSPR-transmitters](https://github.com/HarrydeBug/WSPR-transmitters) - Arduino firmware for ZachTek WSPR transmitters.
 - [adafruit/Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO) - Arduino library for I2C & SPI abstractions
 - [adafruit/Adafruit_LiquidCrystal](https://github.com/adafruit/Adafruit_LiquidCrystal) - A fork of my own LiquidCrystal library
 - [An7orAhmed/LiquidCrystalSerial](https://github.com/An7orAhmed/LiquidCrystalSerial) - A simple arduino Serial LCD Library.
@@ -1170,7 +1187,7 @@
 - [mcogoni/QCX-SSB](https://github.com/mcogoni/QCX-SSB) - This is a simple and experimental modification that transforms a QCX into a (Class-E driven) SSB transceiver.
 - [UN7FGO/TRX_POLEVIK_VFO](https://github.com/UN7FGO/TRX_POLEVIK_VFO) - 
 - [UN7FGO/VFO_NANO_LCD_SI5351](https://github.com/UN7FGO/VFO_NANO_LCD_SI5351) - Arduino based frequency synthesizer
-- [bobboteck/CWLibrary](https://github.com/bobboteck/CWLibrary) - Yet another library for generating CW signals? Yes, why not, if this library is based on a different concept of operation.
+- [bobboteck/CWLibrary](https://github.com/bobboteck/CWLibrary) - Yet another library for generating CW (Morse) signals? Yes, why not, if this library is based on a different concept of operation.
 - [dniklaus/debug-cli](https://github.com/dniklaus/debug-cli) - Debug CLI for Embedded Applications - modular and object oriented tree structure.
 - [ERNICommunity/debug-cli](https://github.com/ERNICommunity/debug-cli) - Debug CLI for Embedded Applications - Command Line Interface for debugging and testing based on object oriented tree structure.
 - [mathertel/RotaryEncoder](https://github.com/mathertel/RotaryEncoder) - RotaryEncoder Arduino Library
@@ -1783,7 +1800,6 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) - World's most powerful command line package manager
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
-- [AbiWord/enchant](https://github.com/AbiWord/enchant) - enchant spellchecking library
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [rychly/luaspell](https://github.com/rychly/luaspell) - Lua binding for Hunspell (a mirror repository, see the link).
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
@@ -2567,7 +2583,7 @@
 - [rougier/org-outer-indent](https://github.com/rougier/org-outer-indent) - An outer indentation org mode
 - [rougier/emacs-svg-icon](https://github.com/rougier/emacs-svg-icon) - An emacs library to create SVG icons on the fly
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
-- [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Finally, a simple base Emacs configuration framework
+- [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Moved to Codeberg, https://codeberg.org/aesdef/spartan-emacs
 - [bard/emacs-director](https://github.com/bard/emacs-director) - Script Emacs sessions for automated screencasts and end-to-end tests
 - [tarsius/frameshot](https://github.com/tarsius/frameshot) - Take screenshots of a frame
 - [emacsorphanage/company-jedi](https://github.com/emacsorphanage/company-jedi) - Company backend for Python jedi
@@ -3551,6 +3567,7 @@
 
 ## HTML 
 
+- [jackaudio/jackaudio.github.com](https://github.com/jackaudio/jackaudio.github.com) - jackaudio's Website and Wiki hosted at github
 - [WB2CBA/ADX](https://github.com/WB2CBA/ADX) - ADX - Arduino Digital Modes HF Transceiver
 - [xibhuxan/Arduino](https://github.com/xibhuxan/Arduino) - :rocket: Proyectos de todo tipo para arduino utilizando sus sensores y actuadores. :robot:
 - [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino dashboard library
@@ -3580,6 +3597,7 @@
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet) - Beej's Guide to Network Programming source
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [honze-net/nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - A Nmap XSL implementation with Bootstrap.
+- [AbiWord/enchant](https://github.com/AbiWord/enchant) - enchant spellchecking library
 - [alhassy/org-special-block-extras](https://github.com/alhassy/org-special-block-extras) - A number of new custom blocks and link types for Emacs' Org-mode ^_^
 - [spontanurlaub/telegram-bot-api-log](https://github.com/spontanurlaub/telegram-bot-api-log) - Automatically logs all changes to the telegram bot api
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
@@ -3657,7 +3675,6 @@
 ## Janet 
 
 - [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs) - A collection of specifications and grammars for Neorg's file format, `norg`.
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 
 ## Java 
 
@@ -4057,6 +4074,8 @@
 
 ## Lua 
 
+- [SergioRibera/NvimDotFiles](https://github.com/SergioRibera/NvimDotFiles) - My custom vim/nvim configuration
+- [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [lewis6991/foldsigns.nvim](https://github.com/lewis6991/foldsigns.nvim) - Signs for folded lines
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
@@ -4223,7 +4242,7 @@
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
-- [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal neovim disto
+- [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal neovim distro
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
 - [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - Warm Green Theme for Neovim and Beyond
@@ -4704,7 +4723,7 @@
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
 - [Tsuzat/NeoSolarized.nvim](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme for NeoVim with full transparency
 - [nat-418/termitary.nvim](https://github.com/nat-418/termitary.nvim) - Neovim plugin to interact with terminal buffers
-- [haolian9/reveal.nvim](https://github.com/haolian9/reveal.nvim) - using vifm inside nvim
+- [haolian9/reveal.nvim](https://github.com/haolian9/reveal.nvim) - an example to integrate vifm into nvim which utilizes lua API of both
 - [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - An easy note taking plugin
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory
 - [superDross/spellbound.nvim](https://github.com/superDross/spellbound.nvim) - Spelling configurations and mapping for neovim
@@ -5760,6 +5779,7 @@
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [mthnglac/dotfiles](https://github.com/mthnglac/dotfiles) - This is what I use to get things done!
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
@@ -6636,6 +6656,7 @@
 
 ## OpenSCAD 
 
+- [mtu-most/colorimeter](https://github.com/mtu-most/colorimeter) - Firmware for open source colorimeter
 - [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard
 - [skiselev/zeta_sbc](https://github.com/skiselev/zeta_sbc) - Zeta SBC is an Zilog Z80 based single board computer. It is inspired by Ampro Little Board Z80 and N8VEM project. Zeta SBC is software compatible with RomWBW Firmware
 - [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib) - Library of parts modelled in OpenSCAD and a framework for making projects
@@ -7112,6 +7133,7 @@
 
 ## PHP 
 
+- [ph2lb/LoRaWAN_TTN_Env](https://github.com/ph2lb/LoRaWAN_TTN_Env) - Back and frontend for a enviromental beacon system which can be used with the TTNDHT22Beacon, LoRaWAN_TTN_Enschede_LMIC_ABP and LoRaWAN_TTN_Enschede.
 - [chriskempson/base16-builder-php](https://github.com/chriskempson/base16-builder-php) - A PHP implementation of a Base16 Builder
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [linuxserver/docker-rutorrent](https://github.com/linuxserver/docker-rutorrent) - DEPRECATED
