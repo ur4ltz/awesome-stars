@@ -209,6 +209,7 @@
 
 ## C 
 
+- [kgoba/ft8_lib](https://github.com/kgoba/ft8_lib) - FT8 library
 - [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
 - [m0khz/Simple_VFO](https://github.com/m0khz/Simple_VFO) - Simple VFO using Si5351 & custom hardware
@@ -245,7 +246,7 @@
 - [dmitrii-rudnev/selenite-habr-cw](https://github.com/dmitrii-rudnev/selenite-habr-cw) - STM32 CW Iambic Keyer
 - [dmitrii-rudnev/selenite-lite](https://github.com/dmitrii-rudnev/selenite-lite) - Selenite Lite SDR HF Transceiver firmware
 - [dmitrii-rudnev/radio-76-cat](https://github.com/dmitrii-rudnev/radio-76-cat) - CAT interface for Radio-76 HAM transceiver
-- [kamilsss655/uv-k5-firmware-custom](https://github.com/kamilsss655/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
+- [kamilsss655/uv-k5-firmware-custom](https://github.com/kamilsss655/uv-k5-firmware-custom) - Open re-implementation of the Quansheng UV-K5 firmware
 - [rafael2k/sbitx](https://github.com/rafael2k/sbitx) - 
 - [afarhan/sbitx](https://github.com/afarhan/sbitx) - 
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
@@ -348,7 +349,6 @@
 - [AlexAlexFr/TM1637-Driver](https://github.com/AlexAlexFr/TM1637-Driver) - TM1637 driver for AVR MCU (gcc); avr-gcc version 5.4.0; Toolchain  version 3.6.2_1778; IDE - Atmel Studio 7
 - [Danya0x07/tm1637-simple-library](https://github.com/Danya0x07/tm1637-simple-library) - Simple and cross-platform library for interfacing TM1637 four-digit seven-segment indicators.
 - [mcore1976/thermometer-LM35-TM1637](https://github.com/mcore1976/thermometer-LM35-TM1637) - Digital LED thermometer on ATTINY13 / LM35 and 4-digit TM1637 module for Arduino. Uses LM35 analog themperature sensor (0-100C degrees).
-- [isupovandrey/clockStm8](https://github.com/isupovandrey/clockStm8) - Часы на STM8
 - [nimaltd/tm1637](https://github.com/nimaltd/tm1637) - tm1637 display library for STM32
 - [MahdaSystem/TM1638](https://github.com/MahdaSystem/TM1638) - TM1638 driver for AVR (ATmega32), STM32 (HAL) and ESP32 (esp-idf)
 - [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles) - Function and form
@@ -533,7 +533,6 @@
 - [petrihakkinen/lua-array](https://github.com/petrihakkinen/lua-array) - This is a experimental patch for Lua 5.4-work1 that adds first class support for arrays.
 - [lunarmodules/lua-compat-5.3](https://github.com/lunarmodules/lua-compat-5.3) - Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1
 - [NTBBloodbath/st](https://github.com/NTBBloodbath/st) - My personal suckless terminal build
-- [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [avahi/nss-mdns](https://github.com/avahi/nss-mdns) - 
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -1088,7 +1087,6 @@
 - [buaazp/zimg](https://github.com/buaazp/zimg) - A lightweight and high performance image storage and processing system.
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [pnggroup/libpng](https://github.com/pnggroup/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
-- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [embecosm/avr-binutils-gdb](https://github.com/embecosm/avr-binutils-gdb) - Fork of the upstream binutils-gdb repository for AVR processors
 - [rgwan/USBtiny](https://github.com/rgwan/USBtiny) - Yet another software USB-Device stack for AVR
 - [rgwan/v-usb](https://github.com/rgwan/v-usb) - A Firmware-Only USB implementation for STM8/LGT/AVR/STC-Y5 MCU.
@@ -1185,6 +1183,10 @@
 
 ## C++ 
 
+- [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
+- [kholia/Easy-FT8-Beacon-v3](https://github.com/kholia/Easy-FT8-Beacon-v3) - A simple Arduino Nano powered FT8 beacon which uses DS3231 RTC for timing. Updated in July 2021. NO SUPPORT!
+- [leomil72/megax8](https://github.com/leomil72/megax8) - ATmega168P/328P core for standalone MCUs for Arduino IDE
+- [kozaluss/MKLCDBuf](https://github.com/kozaluss/MKLCDBuf) - Offscreen buffer for LiquidCrystal_I2C (Arduino C)
 - [dawsonjon/101Things](https://github.com/dawsonjon/101Things) - A collection of cool projects to make!
 - [g7uhn/ft817_buddy](https://github.com/g7uhn/ft817_buddy) - A companion display & controls for the FT-817
 - [coburnw/Si5351Arduino](https://github.com/coburnw/Si5351Arduino) - Library for the Si5351 clock generator IC in the Arduino environment
@@ -1806,6 +1808,7 @@
 - [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) - Extending RIME with Lua scripts
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
 - [Iskustvo/i3-ipcpp](https://github.com/Iskustvo/i3-ipcpp) - i3-ipc++ is a C++ library that implements the i3 IPC protocol.
+- [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [franko/graph-toolkit](https://github.com/franko/graph-toolkit) - Lua Graphics Toolkit
 - [axilmar/parserlib](https://github.com/axilmar/parserlib) - A c++ recursive-descent generic parsing library that supports left recursion.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
@@ -3209,6 +3212,7 @@
 
 ## Fennel 
 
+- [tjdevries/monkey.nvim](https://github.com/tjdevries/monkey.nvim) - monkey interpreter (from thorsten ball's [he's an author, btw] book).
 - [rktjmp/pact.nvim](https://github.com/rktjmp/pact.nvim) - 🔪🩸🐐 semver aware package manager for neovim
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [hudclark/grpc-nvim](https://github.com/hudclark/grpc-nvim) - Grpc Client for Neovim
@@ -3618,6 +3622,8 @@
 
 ## HTML 
 
+- [kholia/Easy-Transceiver](https://github.com/kholia/Easy-Transceiver) - Easy Digital 'FT8' Transceiver. Easy-Transceiver v0.01.
+- [kholia/Easy-Digital-Beacons-v1](https://github.com/kholia/Easy-Digital-Beacons-v1) - A simple and easy Arduino / Pi Pico / ESP8266-powered WSPR, FT8, and FT4 beacon system which uses NTP + DS3231 RTC for timing. Super extensible! Now comes with optional GPS support.
 - [fmalpartida/New-LiquidCrystal](https://github.com/fmalpartida/New-LiquidCrystal) - Clone of the new liquid crystal library from: https://bitbucket.org/fmalpartida/new-liquidcrystal
 - [f4goh/WSPR](https://github.com/f4goh/WSPR) - Weak Signal Propagation Reporter on a breadboard
 - [jackaudio/jackaudio.github.com](https://github.com/jackaudio/jackaudio.github.com) - jackaudio's Website and Wiki hosted at github
@@ -4002,6 +4008,7 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [simonthechipmunk/arduinocontrol](https://github.com/simonthechipmunk/arduinocontrol) - "Arduino Control" Gnome-Shell Extension
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
+- [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [Micdu70/rutorrent-ratiocolor](https://github.com/Micdu70/rutorrent-ratiocolor) - 
 - [id-Software/wolf3d-browser](https://github.com/id-Software/wolf3d-browser) - WOLF3D Browser Version GPL source release
 - [icculus/wolf3d-altright](https://github.com/icculus/wolf3d-altright) - Wolfenstein 3-D: Alt-Right Edition.
@@ -4133,6 +4140,7 @@
 
 ## Lua 
 
+- [tjdevries/leftpad.nvim](https://github.com/tjdevries/leftpad.nvim) - Essential neovim lua library
 - [SergioRibera/NvimDotFiles](https://github.com/SergioRibera/NvimDotFiles) - My custom vim/nvim configuration
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
@@ -4265,7 +4273,7 @@
 - [nvimdev/whiskyline.nvim](https://github.com/nvimdev/whiskyline.nvim) - neovim statusline plugin blazing fast than any statusline plugin
 - [nvimdev/hlsearch.nvim](https://github.com/nvimdev/hlsearch.nvim) - auto remove search highlight and rehighlight when using n or N
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
-- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.
+- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - A fzf fuzzy finder that updates on every keystroke of user query and selection.
 - [Velrok/pr_status.nvim](https://github.com/Velrok/pr_status.nvim) - Neovim plugin written in lua which uses the gh cli to fetch any pull request check results and allow to display them in a status bar.
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
 - [dl-tg/luash](https://github.com/dl-tg/luash) - Extensible Lua terminal emulator
@@ -4454,7 +4462,7 @@
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) - 
 - [catgoose/do-the-needful](https://github.com/catgoose/do-the-needful) - 
 - [catgoose/nvim](https://github.com/catgoose/nvim) - 
-- [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) - I love highlights! I love f{char}!
+- [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) - Use ftFT{} as usual, but with highlighting
 - [speedata/luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
 - [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.
 - [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim) - A neovim plugin to manage terminal buffers
@@ -7164,6 +7172,7 @@
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [technomancy/emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit) - [ARCHIVED] this is ancient history
 - [jimhourihan/egit](https://github.com/jimhourihan/egit) - Emacs git history interface
+- [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [SublimeText/AsciiDoc](https://github.com/SublimeText/AsciiDoc) - AsciiDoc Package for Sublime Text2
 - [A/code-screenshots](https://github.com/A/code-screenshots) - Скриншоты редакторов кода разных разработчиков
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
@@ -7283,6 +7292,9 @@
 
 ## Python 
 
+- [sq5bpf/uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) - Efforts to reverse engineer the Quanscheng UV-K5 radio
+- [egzumer/uvk5-chirp-driver](https://github.com/egzumer/uvk5-chirp-driver) - Quanscheng UV-K5 radio CHIRP driver for Egzumer firmware
+- [platformio/platform-atmelavr](https://github.com/platformio/platform-atmelavr) - Atmel AVR: development platform for PlatformIO
 - [projecthorus/horus-gui](https://github.com/projecthorus/horus-gui) - Project Horus Telemetry Decoder
 - [fagci/qs-uvk5-firmware-modder](https://github.com/fagci/qs-uvk5-firmware-modder) - Quansheng UV-K5 firmware encoder/decoder
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
@@ -7978,6 +7990,7 @@
 
 ## Roff 
 
+- [kholia/pico-cw-beacon-drs](https://github.com/kholia/pico-cw-beacon-drs) - Direct-RF-Synthesis CW Beacon PoC using Raspberry Pi Pico. No Si5351 is needed. HF and VHF fox! Have fun! ;) Comes with 5W amplifier + LPF!
 - [afarhan/bitx2m](https://github.com/afarhan/bitx2m) - Documentation for the bitx2m
 - [leyuskckiran1510/My-Dwm](https://github.com/leyuskckiran1510/My-Dwm) - This the Desktop Window Manager That I am currently using and it's just a backup for my system resote point
 - [ColumPaget/libUseful-lua](https://github.com/ColumPaget/libUseful-lua) - lua bindings for libUseful
@@ -8308,6 +8321,8 @@
 
 ## Scheme 
 
+- [tjdevries/templ.nvim](https://github.com/tjdevries/templ.nvim) - go.tmpl support for @ThePrimeagen
+- [tjdevries/ocaml.nvim](https://github.com/tjdevries/ocaml.nvim) - 
 - [bennypowers/webc.nvim](https://github.com/bennypowers/webc.nvim) - WebC Support for NeoVim
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [ibhagwan/ts-vimdoc.nvim](https://github.com/ibhagwan/ts-vimdoc.nvim) - 
@@ -10508,7 +10523,6 @@
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
-- [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 
 ## Wren 
 
@@ -10536,7 +10550,6 @@
 ## Zig 
 
 - [nvim-neorg/neorg-lsp](https://github.com/nvim-neorg/neorg-lsp) - An LSP for the Neorg file format.
-- [nvim-neorg/norg-fmt](https://github.com/nvim-neorg/norg-fmt) - Formatter for Neorg (https://github.com/nvim-neorg/neorg). WIP.
 - [glepnir/ziglearn-cn](https://github.com/glepnir/ziglearn-cn) - zig programming language tutorial
 - [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder designed for filtering filepaths
