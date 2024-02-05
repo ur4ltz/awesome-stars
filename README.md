@@ -127,6 +127,7 @@
 
 ## Arduino 
 
+- [ok1hra/band_decoder_for_arduino](https://github.com/ok1hra/band_decoder_for_arduino) - Read frequency from YAESU KENWOOD ICOM FLEX transcivers CAT, YAESU BCD and Icom ACC voltage
 - [HarrydeBug/1003-Big-Rotary-Encoder-Firmware](https://github.com/HarrydeBug/1003-Big-Rotary-Encoder-Firmware) - Arduino software for 1003 "Big Rotary Encoder"
 - [afarhan/ubitx](https://github.com/afarhan/ubitx) - ubitx  - sketch for the raduino to work with the ubitx transceiver
 - [buxtronix/arduino](https://github.com/buxtronix/arduino) - Various bits of Arduino related code.
@@ -209,6 +210,7 @@
 
 ## C 
 
+- [projecthorus/horusdemodlib](https://github.com/projecthorus/horusdemodlib) - High Altitude Balloon Telemetry Library
 - [kgoba/ft8_lib](https://github.com/kgoba/ft8_lib) - FT8 library
 - [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
@@ -1183,6 +1185,29 @@
 
 ## C++ 
 
+- [fatpat/arduino-dra818](https://github.com/fatpat/arduino-dra818) - Arduino library for DRA818 VHF/UHF Band Voice Transceiver
+- [CL6VHM/Arduino-AD8307-RF-Power-Meter](https://github.com/CL6VHM/Arduino-AD8307-RF-Power-Meter) - Arduino-AD8307-RF-Power-Meter
+- [CL6VHM/usdx](https://github.com/CL6VHM/usdx) - Simple and experimental (class-E driven) SSB transceiver.
+- [DinuraPasan/DOC_CAT](https://github.com/DinuraPasan/DOC_CAT) - This repository contains many optimized arduino library.
+- [k3ng/k3ng_cw_keyer](https://github.com/k3ng/k3ng_cw_keyer) - K3NG Arduino CW Keyer
+- [UN7FGO/Arduino_ICOM_CI_V](https://github.com/UN7FGO/Arduino_ICOM_CI_V) - The program is designed to control the frequency synthesizer according to the ICOM CI-V protocol.
+- [RG22EM/Arduino_ICOM_CI_V](https://github.com/RG22EM/Arduino_ICOM_CI_V) - The program is designed to control the frequency synthesizer according to the ICOM CI-V protocol.
+- [ok1hra/band_decoder_2](https://github.com/ok1hra/band_decoder_2) - Read frequency from YAESU KENWOOD ICOM FLEX transcivers CAT, YAESU BCD and Icom ACC voltage
+- [RG22EM/band_decoder_2](https://github.com/RG22EM/band_decoder_2) - Read frequency from YAESU KENWOOD ICOM FLEX transcivers CAT, YAESU BCD and Icom ACC voltage
+- [RG22EM/FT897D](https://github.com/RG22EM/FT897D) - 
+- [RG22EM/HAMDUINO](https://github.com/RG22EM/HAMDUINO) - New Arduino board Atmega328PB
+- [RG22EM/ARDUINO-ETUDE](https://github.com/RG22EM/ARDUINO-ETUDE) - Этюды для ардуины
+- [RG22EM/FT817D](https://github.com/RG22EM/FT817D) - 
+- [RG22EM/HAMRAIO](https://github.com/RG22EM/HAMRAIO) - HAMRAIO DIY
+- [RG22EM/FT857d](https://github.com/RG22EM/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
+- [RG22EM/FT879D](https://github.com/RG22EM/FT879D) - Библиотека для управления трансиверами марок YAESU FT-817/FT-847 /FT-857 /FT-897 разных модификаций.
+- [RG22EM/RADIO-FT857D](https://github.com/RG22EM/RADIO-FT857D) - 
+- [RG22EM/TUNER-FT897D](https://github.com/RG22EM/TUNER-FT897D) - 
+- [UA6EM/Arduino_TimerList](https://github.com/UA6EM/Arduino_TimerList) - Много таймеров из одного
+- [UA6EM/HAMRAIO](https://github.com/UA6EM/HAMRAIO) - HAMRAIO DIY
+- [UA6EM/FT897D_UNI](https://github.com/UA6EM/FT897D_UNI) - FT897D_UNI
+- [UA6EM/FT879D](https://github.com/UA6EM/FT879D) - Библиотека для управления трансиверами марок YAESU FT-817/FT-847 /FT-857 /FT-897 разных модификаций.
+- [WA2FZW/An-FT-891-CAT-Control-Emulator-Library-by-WA2FZW](https://github.com/WA2FZW/An-FT-891-CAT-Control-Emulator-Library-by-WA2FZW) - This library provides a means of adding CAT (Computer Aided Transceiver) functionality to Arduino (or other microprocessor) based applications.
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 - [kholia/Easy-FT8-Beacon-v3](https://github.com/kholia/Easy-FT8-Beacon-v3) - A simple Arduino Nano powered FT8 beacon which uses DS3231 RTC for timing. Updated in July 2021. NO SUPPORT!
 - [leomil72/megax8](https://github.com/leomil72/megax8) - ATmega168P/328P core for standalone MCUs for Arduino IDE
@@ -3137,7 +3162,6 @@
 - [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [mswift42/obsidian-theme](https://github.com/mswift42/obsidian-theme) - port of the Eclipse theme Obsidian
 - [sigma/magit-gh-pulls](https://github.com/sigma/magit-gh-pulls) - Magit plugin for dealing with GitHub pull requests
-- [defunkt/gist.el](https://github.com/defunkt/gist.el) - Yet another Emacs paste mode, this one for Gist.
 - [jd/emacs.d](https://github.com/jd/emacs.d) - My Emacs configuration files
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [Dewdrops/powerline](https://github.com/Dewdrops/powerline) - emacs powerline with better support for Evil
@@ -3169,7 +3193,6 @@
 - [jwiegley/emacs-async](https://github.com/jwiegley/emacs-async) - Simple library for asynchronous processing in Emacs
 - [masutaka/emacs-helm-ghq](https://github.com/masutaka/emacs-helm-ghq) - ghq with helm interface
 - [superbobry/emacs](https://github.com/superbobry/emacs) - My Emacs config
-- [defunkt/markdown-mode](https://github.com/defunkt/markdown-mode) - Emacs Markdown mode
 - [bbatsov/emacs-neotree](https://github.com/bbatsov/emacs-neotree) - A emacs tree plugin like NerdTree for Vim.
 - [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
 - [purcell/ac-slime](https://github.com/purcell/ac-slime) - Emacs auto-complete plugin for Slime symbols
@@ -3622,6 +3645,7 @@
 
 ## HTML 
 
+- [ok1hra/IC-705_Interface](https://github.com/ok1hra/IC-705_Interface) - ESP32 interface for IC-705
 - [kholia/Easy-Transceiver](https://github.com/kholia/Easy-Transceiver) - Easy Digital 'FT8' Transceiver. Easy-Transceiver v0.01.
 - [kholia/Easy-Digital-Beacons-v1](https://github.com/kholia/Easy-Digital-Beacons-v1) - A simple and easy Arduino / Pi Pico / ESP8266-powered WSPR, FT8, and FT4 beacon system which uses NTP + DS3231 RTC for timing. Super extensible! Now comes with optional GPS support.
 - [fmalpartida/New-LiquidCrystal](https://github.com/fmalpartida/New-LiquidCrystal) - Clone of the new liquid crystal library from: https://bitbucket.org/fmalpartida/new-liquidcrystal
@@ -6736,6 +6760,7 @@
 
 ## Others 
 
+- [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [m0khz/SCD_2021_V0_13](https://github.com/m0khz/SCD_2021_V0_13) - GQRP Club - CW / RIT TRx control software
 - [etherkit/PartyLine80](https://github.com/etherkit/PartyLine80) - A cheap and cheerful 80 meter QRP CW radio made from all discrete components
 - [afarhan/daylight](https://github.com/afarhan/daylight) - An easy to build all analog radio
@@ -7292,6 +7317,7 @@
 
 ## Python 
 
+- [mcogoni/supersdr](https://github.com/mcogoni/supersdr) - SuperSDR: an advanced KiwiSDR client with CAT transceiver integration
 - [sq5bpf/uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) - Efforts to reverse engineer the Quanscheng UV-K5 radio
 - [egzumer/uvk5-chirp-driver](https://github.com/egzumer/uvk5-chirp-driver) - Quanscheng UV-K5 radio CHIRP driver for Egzumer firmware
 - [platformio/platform-atmelavr](https://github.com/platformio/platform-atmelavr) - Atmel AVR: development platform for PlatformIO
@@ -8080,7 +8106,6 @@
 - [pry/pry](https://github.com/pry/pry) - A runtime developer console and IRB alternative with powerful introspection capabilities.
 - [deivid-rodriguez/byebug](https://github.com/deivid-rodriguez/byebug) - Debugging in Ruby 2
 - [veelenga/i3ipc-ruby](https://github.com/veelenga/i3ipc-ruby) - 🛫 An improved Ruby library to control i3wm
-- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [winfred/wunderground](https://github.com/winfred/wunderground) - The ruby wrapper for the Wunderground.com API
 - [alexbel/conky](https://github.com/alexbel/conky) - My conky configuration
@@ -9077,6 +9102,7 @@
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [wokwi/good-arduino-code](https://github.com/wokwi/good-arduino-code) - Frontend for goodarduinocode.com - A curated collection of Arduino coding examples
 - [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) - sort json objects plugin for neovim
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [yuki-yano/highlight-undo.nvim](https://github.com/yuki-yano/highlight-undo.nvim) - 
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
 - [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
@@ -9270,7 +9296,6 @@
 - [ShayHill/vim9-focalpoint](https://github.com/ShayHill/vim9-focalpoint) - Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*.
 - [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) - Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function.
 - [edubart/nelua-vim](https://github.com/edubart/nelua-vim) - Vim plugin for Nelua, originally created by Stefanos
-- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - Evangelion but for Vimmers
 - [MTDL9/vim-log-highlighting](https://github.com/MTDL9/vim-log-highlighting) - Syntax highlighting for generic log files in VIM
 - [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk) - hignlight chunk numbercolumn plug of nvim
