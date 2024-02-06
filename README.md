@@ -279,7 +279,7 @@
 - [RobTillaart/IEEE754tools](https://github.com/RobTillaart/IEEE754tools) - Arduino library to manipulate IEEE754 float numbers fast. (experimental)
 - [Ebiroll/esp32_sigrok](https://github.com/Ebiroll/esp32_sigrok) - Simple sigrok sump implementation
 - [jpbarraca/LogicAlNucleo](https://github.com/jpbarraca/LogicAlNucleo) - A SUMP compatible Logical Analyser for the STM32F4
-- [raspberrypi/picoprobe](https://github.com/raspberrypi/picoprobe) - 
+- [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - 
 - [perexg/picoprobe-sump](https://github.com/perexg/picoprobe-sump) - 
 - [KimJorgensen/KungFuFlash](https://github.com/KimJorgensen/KungFuFlash) - Cartridge for the Commodore 64 that packs a punch
 - [Serega88kos/MatrixClock](https://github.com/Serega88kos/MatrixClock) - 
@@ -1185,6 +1185,7 @@
 
 ## C++ 
 
+- [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [fatpat/arduino-dra818](https://github.com/fatpat/arduino-dra818) - Arduino library for DRA818 VHF/UHF Band Voice Transceiver
 - [CL6VHM/Arduino-AD8307-RF-Power-Meter](https://github.com/CL6VHM/Arduino-AD8307-RF-Power-Meter) - Arduino-AD8307-RF-Power-Meter
 - [CL6VHM/usdx](https://github.com/CL6VHM/usdx) - Simple and experimental (class-E driven) SSB transceiver.
@@ -3050,7 +3051,6 @@
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [Malabarba/elisp-bug-hunter](https://github.com/Malabarba/elisp-bug-hunter) - Hunt down errors in elisp files.
 - [purcell/elisp-slime-nav](https://github.com/purcell/elisp-slime-nav) - Slime-style navigation of Emacs Lisp source with M-. & M-,
-- [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [dunmaksim/.emacs.d](https://github.com/dunmaksim/.emacs.d) - My Emacs configuration
 - [tigersoldier/company-lsp](https://github.com/tigersoldier/company-lsp) - Company completion backend for lsp-mode
 - [rdallasgray/graphene](https://github.com/rdallasgray/graphene) - A set of defaults for Emacs, for refugees from GUI text editors.
@@ -3162,6 +3162,7 @@
 - [dominikh/go-mode.el](https://github.com/dominikh/go-mode.el) - Emacs mode for the Go programming language
 - [mswift42/obsidian-theme](https://github.com/mswift42/obsidian-theme) - port of the Eclipse theme Obsidian
 - [sigma/magit-gh-pulls](https://github.com/sigma/magit-gh-pulls) - Magit plugin for dealing with GitHub pull requests
+- [defunkt/gist.el](https://github.com/defunkt/gist.el) - Yet another Emacs paste mode, this one for Gist.
 - [jd/emacs.d](https://github.com/jd/emacs.d) - My Emacs configuration files
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [Dewdrops/powerline](https://github.com/Dewdrops/powerline) - emacs powerline with better support for Evil
@@ -3193,6 +3194,7 @@
 - [jwiegley/emacs-async](https://github.com/jwiegley/emacs-async) - Simple library for asynchronous processing in Emacs
 - [masutaka/emacs-helm-ghq](https://github.com/masutaka/emacs-helm-ghq) - ghq with helm interface
 - [superbobry/emacs](https://github.com/superbobry/emacs) - My Emacs config
+- [defunkt/markdown-mode](https://github.com/defunkt/markdown-mode) - Emacs Markdown mode
 - [bbatsov/emacs-neotree](https://github.com/bbatsov/emacs-neotree) - A emacs tree plugin like NerdTree for Vim.
 - [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
 - [purcell/ac-slime](https://github.com/purcell/ac-slime) - Emacs auto-complete plugin for Slime symbols
@@ -3302,6 +3304,7 @@
 
 ## Go 
 
+- [wsw70/syncthing-map](https://github.com/wsw70/syncthing-map) - A utility to map syncthing devices and shared folders.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
 - [creativecreature/code-harvest](https://github.com/creativecreature/code-harvest) - Digital gardening and byte crops
@@ -7140,6 +7143,7 @@
 - [challenger-deep-theme/xresources](https://github.com/challenger-deep-theme/xresources) - Challenger Deep Theme for Xresources such as xterm, (u)rxvt, and other X11 applications
 - [Monokai/monokai-pro-sublime-text](https://github.com/Monokai/monokai-pro-sublime-text) - Monokai Pro: beautiful functionality for professional developers
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+- [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [Apress/def-guide-to-sqlite](https://github.com/Apress/def-guide-to-sqlite) - Source code for 'The Definitive Guide to SQLite' by Mike Owens
@@ -8106,6 +8110,7 @@
 - [pry/pry](https://github.com/pry/pry) - A runtime developer console and IRB alternative with powerful introspection capabilities.
 - [deivid-rodriguez/byebug](https://github.com/deivid-rodriguez/byebug) - Debugging in Ruby 2
 - [veelenga/i3ipc-ruby](https://github.com/veelenga/i3ipc-ruby) - 🛫 An improved Ruby library to control i3wm
+- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [winfred/wunderground](https://github.com/winfred/wunderground) - The ruby wrapper for the Wunderground.com API
 - [alexbel/conky](https://github.com/alexbel/conky) - My conky configuration
@@ -9251,7 +9256,7 @@
 
 ## V 
 
-- [vlang/vls](https://github.com/vlang/vls) - V language server
+- [vlang/vls](https://github.com/vlang/vls) - V language server. (Old V language server - see v-analyzer)
 - [vlang/ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [NTBBloodbath/nvenv](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
