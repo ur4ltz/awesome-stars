@@ -210,6 +210,8 @@
 
 ## C 
 
+- [piotr022/k5prog](https://github.com/piotr022/k5prog) - Quansheng UV-K5 EEPROM programmer
+- [joaquimorg/uv-k5-firmware-custom](https://github.com/joaquimorg/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [projecthorus/horusdemodlib](https://github.com/projecthorus/horusdemodlib) - High Altitude Balloon Telemetry Library
 - [kgoba/ft8_lib](https://github.com/kgoba/ft8_lib) - FT8 library
 - [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
@@ -230,7 +232,6 @@
 - [Tunas1337/uv-k5-firmware](https://github.com/Tunas1337/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
 - [phdlee/uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
 - [OneOfEleven/uv-k5-firmware-custom](https://github.com/OneOfEleven/uv-k5-firmware-custom) - A customized version of https://github.com/DualTachyon/uv-k5-firmware
-- [DualTachyon/uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
 - [fagci/uv-k5-firmware-fagci-mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) - OSFW based on https://github.com/DualTachyon/uv-k5-firmware
 - [DK7IH/qro_transciver_7mhz](https://github.com/DK7IH/qro_transciver_7mhz) - DK7IH software space for ham radio projects
 - [DK7IH/Micro26-Rebuilding-my-1st-Shirt-Pocket-Transceiver](https://github.com/DK7IH/Micro26-Rebuilding-my-1st-Shirt-Pocket-Transceiver) - 
@@ -774,7 +775,6 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [begoon/i8080-core](https://github.com/begoon/i8080-core) - Intel 8080 (KR580VM80A) microprocessor core model
 - [klad-me/RK8266](https://github.com/klad-me/RK8266) - Radio-86RK on ESP8266 emulator
-- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [dimkr/b6b](https://github.com/dimkr/b6b) - A lightweight, embeddable scripting language
 - [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
 - [drmargarido/minimize_memory](https://github.com/drmargarido/minimize_memory) - Memory Reduction Presentation and Benchmark
@@ -1185,6 +1185,7 @@
 
 ## C++ 
 
+- [kk4das/IC746CAT](https://github.com/kk4das/IC746CAT) - ICOM IC-746 Computer Aided Transceiver (CAT) control emulation for Arduino
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [fatpat/arduino-dra818](https://github.com/fatpat/arduino-dra818) - Arduino library for DRA818 VHF/UHF Band Voice Transceiver
 - [CL6VHM/Arduino-AD8307-RF-Power-Meter](https://github.com/CL6VHM/Arduino-AD8307-RF-Power-Meter) - Arduino-AD8307-RF-Power-Meter
@@ -4150,6 +4151,7 @@
 
 ## LLVM 
 
+- [fagci/UV_K5_playground](https://github.com/fagci/UV_K5_playground) - 
 - [piotr022/UV_K5_playground](https://github.com/piotr022/UV_K5_playground) - 
 
 ## Less 
@@ -4577,7 +4579,7 @@
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) - VSCode-Like Workspace Configuration Manager
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
-- [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim) - For old school code navigation. With cscope support for Neovim 0.9+.
+- [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim) - For old school code navigation. Add cscope support to Neovim 0.9+.
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) - A Neovim plugin hiding your colorcolumn when unneeded.
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) - Markdown like keymaps for toggling text formatting
@@ -6763,6 +6765,7 @@
 
 ## Others 
 
+- [UR4URV/echo_repiter_isd1820](https://github.com/UR4URV/echo_repiter_isd1820) - 
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [m0khz/SCD_2021_V0_13](https://github.com/m0khz/SCD_2021_V0_13) - GQRP Club - CW / RIT TRx control software
 - [etherkit/PartyLine80](https://github.com/etherkit/PartyLine80) - A cheap and cheerful 80 meter QRP CW radio made from all discrete components
@@ -7321,6 +7324,7 @@
 
 ## Python 
 
+- [spm81/Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
 - [mcogoni/supersdr](https://github.com/mcogoni/supersdr) - SuperSDR: an advanced KiwiSDR client with CAT transceiver integration
 - [sq5bpf/uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) - Efforts to reverse engineer the Quanscheng UV-K5 radio
 - [egzumer/uvk5-chirp-driver](https://github.com/egzumer/uvk5-chirp-driver) - Quanscheng UV-K5 radio CHIRP driver for Egzumer firmware
@@ -8293,6 +8297,7 @@
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
+- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [neXromancers/shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
 - [Luz/hexdino](https://github.com/Luz/hexdino) - A hex editor with vim like keybindings written in Rust.
 - [sebastiencs/rustorrent](https://github.com/sebastiencs/rustorrent) - A BitTorrent library implemented in Rust
@@ -9501,7 +9506,7 @@
 - [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
 - [elianiva/gitgud.nvim](https://github.com/elianiva/gitgud.nvim) - github dark colorscheme for neovim made with lush
 - [numToStr/gruvbox-material](https://github.com/numToStr/gruvbox-material) - Fork of gruvbox-material
-- [mnacamura/vim-fennel-syntax](https://github.com/mnacamura/vim-fennel-syntax) - Vim syntax highlighting for Fennel.
+- [mnacamura/vim-fennel-syntax](https://github.com/mnacamura/vim-fennel-syntax) - Yet another Vim syntax highlighting plugin for Fennel.
 - [othree/vim-autocomplpop](https://github.com/othree/vim-autocomplpop) - Automatic trigger complete popup menu
 - [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu) - :sunglasses: Display the Completion Menu Automantically (next AutoComplPop) !!
 - [fcying/gen_clang_conf.vim](https://github.com/fcying/gen_clang_conf.vim) - gen clang config for vim
