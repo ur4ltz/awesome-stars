@@ -2515,7 +2515,7 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - Mostly emacs, some bash and bat files
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
