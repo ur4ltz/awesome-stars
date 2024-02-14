@@ -466,7 +466,7 @@
 - [fitrh/st](https://github.com/fitrh/st) - Suckless terminal
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [fitrh/dwm](https://github.com/fitrh/dwm) - Downstream build of the suckless window manager, dwm
-- [MunifTanjim/tree-sitter-lua](https://github.com/MunifTanjim/tree-sitter-lua) - Lua grammar for tree-sitter.
+- [tree-sitter-grammars/tree-sitter-lua](https://github.com/tree-sitter-grammars/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [PlankCipher/dwmblocks](https://github.com/PlankCipher/dwmblocks) - My build of dwmblocks
 - [PlankCipher/st](https://github.com/PlankCipher/st) - My build of st
 - [PlankCipher/dwm](https://github.com/PlankCipher/dwm) - My build of dwm
@@ -2345,7 +2345,6 @@
 
 ## Dockerfile 
 
-- [henriquehbr/docker-lua-lint-tools](https://github.com/henriquehbr/docker-lua-lint-tools) - A small collection of tools for linting Lua code
 - [k1LoW/ghdag-action](https://github.com/k1LoW/ghdag-action) - GitHub Action for ghdag
 - [lspcontainers/dockerfiles](https://github.com/lspcontainers/dockerfiles) - Dockerfiles for all LSPs used with lspcontainers.
 - [ziglang/docker-zig](https://github.com/ziglang/docker-zig) - Dockerfile for zig programming language
@@ -5584,8 +5583,9 @@
 - [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles:
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
+- [evantravers/dotfiles](https://github.com/evantravers/dotfiles) - My personal dotfiles… both to set up a new computer and to keep my dev environments synced.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.10.0-dev-2050+gc4acbb87b) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.10.0-dev-2355+g1c7b0b9d5) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -6636,7 +6636,6 @@
 - [sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.
 - [raymond-w-ko/creep2](https://github.com/raymond-w-ko/creep2) - A small pixel font
 - [orbitalquark/textadept-yaml](https://github.com/orbitalquark/textadept-yaml) - YAML language module for Textadept.
-- [henriquehbr/docker-commitlint](https://github.com/henriquehbr/docker-commitlint) - Runs commitlint on a docker container
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [cornerman/prompt-hjem](https://github.com/cornerman/prompt-hjem) - a zsh prompt
 - [pianocomposer321/project-template-samples](https://github.com/pianocomposer321/project-template-samples) - Sample templates for project-templates.nvim
@@ -6716,7 +6715,6 @@
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
-- [evantravers/dotfiles](https://github.com/evantravers/dotfiles) - My personal dotfiles… both to set up a new computer and to keep my dev environments synced.
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
 - [aserowy/dots](https://github.com/aserowy/dots) - dotfiles
@@ -6766,6 +6764,7 @@
 
 ## Others 
 
+- [Arrin-KN1E/Gpredict-TRSP-Upgrade](https://github.com/Arrin-KN1E/Gpredict-TRSP-Upgrade) - Basic upgrades to some Gpredict .trsp files, which store satellite transponder data.
 - [cjcliffe/CubicSDR-Manual](https://github.com/cjcliffe/CubicSDR-Manual) - cubicsdr.readthedocs.io
 - [UR4URV/echo_repiter_isd1820](https://github.com/UR4URV/echo_repiter_isd1820) - 
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
@@ -6890,8 +6889,6 @@
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [fnune/base16-nightwalk-scheme](https://github.com/fnune/base16-nightwalk-scheme) - 
 - [shaeinst/birav2-theme](https://github.com/shaeinst/birav2-theme) - birav2, littel modified theme for oh my zsh
-- [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua) - A simple zen mode for improving code readability on neovim
-- [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - Displays neovim startup time
 - [ripxorip/pinkytyl_v2](https://github.com/ripxorip/pinkytyl_v2) - CAD files for my pinkytyl keyboard
 - [nvim-neorg/example_workspaces](https://github.com/nvim-neorg/example_workspaces) - 
 - [LynnHo/Matrix-Calculus-Tutorial](https://github.com/LynnHo/Matrix-Calculus-Tutorial) - Matrix Calculus via Differentials, Matrix Derivative, 矩阵求导教程
@@ -6900,7 +6897,6 @@
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
 - [nanotee/vimdoc-notes](https://github.com/nanotee/vimdoc-notes) - 
 - [gustavo-hms/enluarada](https://github.com/gustavo-hms/enluarada) - A collection of Lua scripts for Kakoune
-- [henriquehbr/lua-vs-vimscript](https://github.com/henriquehbr/lua-vs-vimscript) - A simple benchmark comparing Lua performance to Vimscript (because no one seems to care about these nowadays)
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [pohka/Lua-Beginners-Guide](https://github.com/pohka/Lua-Beginners-Guide) - Lua Beginners Guide
 - [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
