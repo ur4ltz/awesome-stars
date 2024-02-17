@@ -211,6 +211,7 @@
 
 ## C 
 
+- [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
 - [LGTMCU/Larduino_HSP](https://github.com/LGTMCU/Larduino_HSP) - Hardware support package for Larduino
 - [MoonFox2006/USBLCD](https://github.com/MoonFox2006/USBLCD) - CH552 LCD 1602 USB CDC display
 - [piotr022/k5prog](https://github.com/piotr022/k5prog) - Quansheng UV-K5 EEPROM programmer
@@ -278,7 +279,7 @@
 - [DeqingSun/ch55xduino](https://github.com/DeqingSun/ch55xduino) - An Arduino-like programming API for the CH55X
 - [nulllaborg/arduino_nulllab](https://github.com/nulllaborg/arduino_nulllab) - Hardware support package for LGT AVR Compatible Chips
 - [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
-- [theHamsta/tree-sitter-commonlisp](https://github.com/theHamsta/tree-sitter-commonlisp) - 
+- [tree-sitter-grammars/tree-sitter-commonlisp](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) - 
 - [RobTillaart/dateTimeHelpers](https://github.com/RobTillaart/dateTimeHelpers) - Arduino library with date and time helper functions.
 - [RobTillaart/IEEE754tools](https://github.com/RobTillaart/IEEE754tools) - Arduino library to manipulate IEEE754 float numbers fast. (experimental)
 - [Ebiroll/esp32_sigrok](https://github.com/Ebiroll/esp32_sigrok) - Simple sigrok sump implementation
@@ -413,8 +414,8 @@
 - [tronkko/dirent](https://github.com/tronkko/dirent) - C/C++ library for retrieving information on files and directories
 - [mauke/unibilium](https://github.com/mauke/unibilium) - a terminfo parsing library
 - [neovim/unibilium](https://github.com/neovim/unibilium) - https://github.com/neovim/neovim/wiki/Deps#forks
-- [theHamsta/tree-sitter-glsl](https://github.com/theHamsta/tree-sitter-glsl) - 
-- [theHamsta/tree-sitter-hlsl](https://github.com/theHamsta/tree-sitter-hlsl) - 
+- [tree-sitter-grammars/tree-sitter-glsl](https://github.com/tree-sitter-grammars/tree-sitter-glsl) - 
+- [tree-sitter-grammars/tree-sitter-hlsl](https://github.com/tree-sitter-grammars/tree-sitter-hlsl) - 
 - [IngoZenz/ics-openvpn](https://github.com/IngoZenz/ics-openvpn) - OpenVPN for Android
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [oubiwann/z80](https://github.com/oubiwann/z80) - Z80 Instruction Set Simulator -- CP/M Boot-Ready
@@ -560,7 +561,6 @@
 - [vanhoefm/fragattacks](https://github.com/vanhoefm/fragattacks) - 
 - [dibyendumajumdar/ravi-libuv-luv](https://github.com/dibyendumajumdar/ravi-libuv-luv) - Bare libuv bindings for lua
 - [dibyendumajumdar/ravi-luaossl](https://github.com/dibyendumajumdar/ravi-luaossl) - Most comprehensive OpenSSL module in the Lua universe.
-- [tree-sitter-grammars/tree-sitter-query](https://github.com/tree-sitter-grammars/tree-sitter-query) - A Tree-sitter parser for tree-sitter queries.
 - [nikhilm/uvbook](https://github.com/nikhilm/uvbook) - An Introduction to libuv
 - [mariusor/mpris-ctl](https://github.com/mariusor/mpris-ctl) - Basic mpris player control for linux command line
 - [ThePrimeagen/neovim-irc](https://github.com/ThePrimeagen/neovim-irc) - 
@@ -1187,6 +1187,8 @@
 
 ## C++ 
 
+- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [MoonFox2006/AVRizer](https://github.com/MoonFox2006/AVRizer) - Atmega 328 offline programmer
 - [kk4das/IC746CAT](https://github.com/kk4das/IC746CAT) - ICOM IC-746 Computer Aided Transceiver (CAT) control emulation for Arduino
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
@@ -1756,7 +1758,7 @@
 - [little-brother/attiny13-clock](https://github.com/little-brother/attiny13-clock) - ATtiny13 DS1302 TM1637 clock
 - [mibli/i3-termdialogs](https://github.com/mibli/i3-termdialogs) - Terminal based dialog utils for minimalistic setups
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [orbitalquark/scinterm](https://github.com/orbitalquark/scinterm) - Scinterm is a curses platform for Scintilla that supports ncurses, PDCurses, and X/Open Curses.
 - [RobTillaart/MultiMap](https://github.com/RobTillaart/MultiMap) - Arduino library for fast non-linear mapping or interpolation of values
@@ -1889,7 +1891,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.0: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3894,6 +3896,7 @@
 - [lloiser/go-debug](https://github.com/lloiser/go-debug) - 🐛 A go debugger for atom using delve.
 - [lalitmee/github-search](https://github.com/lalitmee/github-search) - GitHub Repository Search Application
 - [ceifa/demoon](https://github.com/ceifa/demoon) - Lua + Node = demoon
+- [tree-sitter-grammars/tree-sitter-query](https://github.com/tree-sitter-grammars/tree-sitter-query) - A Tree-sitter parser for tree-sitter queries.
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [Harry-Ross/vscode-c-snippets](https://github.com/Harry-Ross/vscode-c-snippets) - A simple extension for Visual Studio Code snippets for the C programming language.
@@ -6415,7 +6418,7 @@
 - [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [CiaranG/lua-xmlrpc](https://github.com/CiaranG/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
 - [nirum/dotfiles](https://github.com/nirum/dotfiles) - customization files
@@ -8070,7 +8073,7 @@
 - [agilecreativity/github-cloner](https://github.com/agilecreativity/github-cloner) - Clone/list multiple Github repositories for a given user/organization including private repos easily.
 - [ianks/octodown](https://github.com/ianks/octodown) - Github markdown previewing straight from your shell.
 - [wincent/wikitext](https://github.com/wincent/wikitext) - 🌐 Fast wikitext-to-HTML translator
-- [kak-lsp/homebrew-kak-lsp](https://github.com/kak-lsp/homebrew-kak-lsp) - Homebrew formula for kak-lsp
+- [kakoune-lsp/homebrew-kakoune-lsp](https://github.com/kakoune-lsp/homebrew-kakoune-lsp) - Homebrew formula for kak-lsp
 - [sorbet/sorbet-typed](https://github.com/sorbet/sorbet-typed) - A central repository for sharing type definitions for Ruby gems
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [apjanke/ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
@@ -8230,7 +8233,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [watchexec/clearscreen](https://github.com/watchexec/clearscreen) - Cross-platform terminal screen clearing library
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp) - Kakoune Language Server Protocol Client
+- [kakoune-lsp/kakoune-lsp](https://github.com/kakoune-lsp/kakoune-lsp) - Kakoune Language Server Protocol Client
 - [Roblox/foreman](https://github.com/Roblox/foreman) - Toolchain manager for Roblox projects
 - [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
@@ -8395,7 +8398,7 @@
 - [bashmarklets/go-west](https://github.com/bashmarklets/go-west) - Bookmark often used directories and jump (go) to them at will
 - [UtkarshVerma/i3blocklets](https://github.com/UtkarshVerma/i3blocklets) - :pushpin: Custom scripts for i3blocks written in bash.
 - [quadpixels/classic95](https://github.com/quadpixels/classic95) - Modified Classic95 Icon Theme
-- [siduck/bubbly](https://github.com/siduck/bubbly) - Generate chat bubble like widgets on screen via keystrokes on Linux
+- [siduck/bubbly](https://github.com/siduck/bubbly) - Show keystrokes  & generate chat bubble like widgets on screen via keystrokes on Linux via eww
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [lvim-tech/lvim-fm](https://github.com/lvim-tech/lvim-fm) - 
 - [fabioluciano/tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) - 
@@ -9112,6 +9115,7 @@
 
 ## TypeScript 
 
+- [f4exb/sdrangelcli](https://github.com/f4exb/sdrangelcli) - Browser based client application for SDRangel in remote mode
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [wokwi/good-arduino-code](https://github.com/wokwi/good-arduino-code) - Frontend for goodarduinocode.com - A curated collection of Arduino coding examples
 - [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) - sort json objects plugin for neovim
