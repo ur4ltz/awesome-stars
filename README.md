@@ -149,6 +149,7 @@
 
 ## Assembly 
 
+- [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
 - [GreatCowBASIC/Demonstration_Sources](https://github.com/GreatCowBASIC/Demonstration_Sources) - 
 - [f4goh/8052AH-BASIC](https://github.com/f4goh/8052AH-BASIC) - 
 - [mariusgreuel/USBasp](https://github.com/mariusgreuel/USBasp) - USBasp - USB programmer for Atmel AVR controllers (with WinUSB support)
@@ -212,6 +213,10 @@
 
 ## C 
 
+- [afiskon/hbr-3b](https://github.com/afiskon/hbr-3b) - QRP CW Transceiver
+- [afiskon/hbr-cw](https://github.com/afiskon/hbr-cw) - All HF bands QRP CW transceiver
+- [afiskon/ayn-dc](https://github.com/afiskon/ayn-dc) - DC QRP CW transceiver
+- [afiskon/ayn-4b](https://github.com/afiskon/ayn-4b) - Portable QRP CW Transceiver
 - [Phil-f6czv/FT857-Web-browser-CAT-ESP32](https://github.com/Phil-f6czv/FT857-Web-browser-CAT-ESP32) - 
 - [amedes/fx25-kiss-tnc](https://github.com/amedes/fx25-kiss-tnc) - FX.25 KISS TNC project
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
@@ -1191,6 +1196,8 @@
 
 ## C++ 
 
+- [ea4k/klog](https://github.com/ea4k/klog) - KLog is a multiplatform free hamradio logger. It runs natively on Linux, macOS and Windows.
+- [foldynl/QLog](https://github.com/foldynl/QLog) - Amateur radio logbook software
 - [edouarda/brigand](https://github.com/edouarda/brigand) - Instant compile time C++ 11 metaprogramming library
 - [nilsdeppe/template-metaprogramming-tutorials](https://github.com/nilsdeppe/template-metaprogramming-tutorials) - Code used in my series of blog posts on template metaprogramming. I offer possible solutions to some of the exercises presented in the posts and also a single file that can be used to observe how the 
 - [mikalhart/TinyGPSAsync](https://github.com/mikalhart/TinyGPSAsync) - 
@@ -3707,7 +3714,7 @@
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
 - [vladilenm/rxjs-youtube-course](https://github.com/vladilenm/rxjs-youtube-course) - Full tutorial for RxJS
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
-- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5 board with Li-Po charger and USB-C (nRF52840-based)
+- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5 board with Li-Po charger and USB-C
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
 - [jasolisdev/.dotfiles](https://github.com/jasolisdev/.dotfiles) - 
@@ -4360,7 +4367,7 @@
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
-- [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distro
+- [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim) - A normal Neovim distribution
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
 - [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - Warm Green Theme for Neovim and Beyond
@@ -4972,7 +4979,6 @@
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) - Non-intrusive notification system for neovim
 - [numToStr/prettierrc.nvim](https://github.com/numToStr/prettierrc.nvim) - Apply editor settings from prettier config
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) - Nvim Plugin
-- [UtkarshVerma/dotfiles](https://github.com/UtkarshVerma/dotfiles) - Dotfiles of my Arch Linux setup.
 - [UtkarshVerma/molokai.nvim](https://github.com/UtkarshVerma/molokai.nvim) - Molokai colorscheme for Neovim.
 - [simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - almost not wip
 - [gaoDean/bare.nvim](https://github.com/gaoDean/bare.nvim) - A template repository for the most barebones setup function that implements configuration
@@ -5345,7 +5351,7 @@
 - [lucasvianav/nvim](https://github.com/lucasvianav/nvim) - My Neovim config.
 - [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
 - [nyngwang/NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - A simple usecase of floating window to help you focus.
-- [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (https://pandoc.org/MANUAL.html) using a single source approach.
+- [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - Pandoc Markdown Lecture Template: This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (https://pandoc.org/MANUAL.html) using a 
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
@@ -7346,6 +7352,7 @@
 
 ## Python 
 
+- [afiskon/filtergen](https://github.com/afiskon/filtergen) - Miscellaneous radio calculators
 - [spm81/Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
 - [mcogoni/supersdr](https://github.com/mcogoni/supersdr) - SuperSDR: an advanced KiwiSDR client with CAT transceiver integration
 - [sq5bpf/uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering) - Efforts to reverse engineer the Quanscheng UV-K5 radio
@@ -8494,6 +8501,7 @@
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [Mte90/gitapper](https://github.com/Mte90/gitapper) - Remap Git with your custom scripts or new commands
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
+- [UtkarshVerma/dotfiles](https://github.com/UtkarshVerma/dotfiles) - Dotfiles of my Arch Linux setup.
 - [bakkeby/dusk.resources](https://github.com/bakkeby/dusk.resources) - Xresource themes and example status scripts, etc. for dusk
 - [nguyenvukhang/ags](https://github.com/nguyenvukhang/ags) - ags scans your local git repositories for unstaged files and unpushed commits
 - [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
