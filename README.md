@@ -608,7 +608,6 @@
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [felias-fogg/avrburn](https://github.com/felias-fogg/avrburn) - AVR programmer on Gamebuino Meta
 - [ghaerr/elks](https://github.com/ghaerr/elks) - Embeddable Linux Kernel Subset - Linux for 8086
 - [cnlohr/channel3](https://github.com/cnlohr/channel3) - ESP8266 Analog Broadcast Television Interface
@@ -7351,6 +7350,7 @@
 
 ## Python 
 
+- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [afiskon/filtergen](https://github.com/afiskon/filtergen) - Miscellaneous radio calculators
 - [spm81/Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
 - [mcogoni/supersdr](https://github.com/mcogoni/supersdr) - SuperSDR: an advanced KiwiSDR client with CAT transceiver integration
@@ -9620,7 +9620,7 @@
 - [JRasmusBm/vim-peculiar](https://github.com/JRasmusBm/vim-peculiar) - 
 - [Jorengarenar/vim-MvVis](https://github.com/Jorengarenar/vim-MvVis) - Move visually selected text
 - [Jorengarenar/miniSnip](https://github.com/Jorengarenar/miniSnip) - Lightweight snippet plugin for Vim
-- [Jorengarenar/fauxClip](https://github.com/Jorengarenar/fauxClip) - Clipboard support for Vim without +clipboard
+- [Jorengarenar/fauxClip](https://github.com/Jorengarenar/fauxClip) - Custom registers and clipboard support for Vim without +clipboard
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
 - [DoeringChristian/VimIT](https://github.com/DoeringChristian/VimIT) - Vim Interactive Template
 - [laggardkernel/vim-one](https://github.com/laggardkernel/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
