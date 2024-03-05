@@ -1195,6 +1195,7 @@
 
 ## C++ 
 
+- [pothosware/SoapyAudio](https://github.com/pothosware/SoapyAudio) - Soapy SDR plugin for Audio devices
 - [ea4k/klog](https://github.com/ea4k/klog) - KLog is a multiplatform free hamradio logger. It runs natively on Linux, macOS and Windows.
 - [foldynl/QLog](https://github.com/foldynl/QLog) - Amateur radio logbook software
 - [edouarda/brigand](https://github.com/edouarda/brigand) - Instant compile time C++ 11 metaprogramming library
@@ -4517,7 +4518,7 @@
 - [catgoose/coderunner.nvim](https://github.com/catgoose/coderunner.nvim) - 
 - [catgoose/angler.nvim](https://github.com/catgoose/angler.nvim) - 
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) - 
-- [catgoose/do-the-needful](https://github.com/catgoose/do-the-needful) - 
+- [catgoose/do-the-needful.nvim](https://github.com/catgoose/do-the-needful.nvim) - 
 - [catgoose/nvim](https://github.com/catgoose/nvim) - 
 - [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) - Use ftFT{} as usual, but with highlighting
 - [speedata/luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
@@ -4871,7 +4872,6 @@
 - [leafo/lua-twitter](https://github.com/leafo/lua-twitter) - A Lua twitter library that works with OpenResty or LuaSocket
 - [leafo/lapis-systemd](https://github.com/leafo/lapis-systemd) - systemd integration for lapis
 - [leafo/gifine](https://github.com/leafo/gifine) - Quickly record and edit gifs and videos of your desktop
-- [leafo/lapis-bayes](https://github.com/leafo/lapis-bayes) - Naive Bayes classifier for use in Lua
 - [leafo/lapis-annotate](https://github.com/leafo/lapis-annotate) - Annotate lapis models with their schema from the database
 - [leafo/sitegen](https://github.com/leafo/sitegen) - static site generator in MoonScript
 - [leafo/magick](https://github.com/leafo/magick) - Lua bindings to ImageMagick for LuaJIT using FFI
@@ -6700,6 +6700,7 @@
 - [leafo/loadkit](https://github.com/leafo/loadkit) - Loadkit allows you to load arbitrary files within the Lua package path
 - [leafo/giflib](https://github.com/leafo/giflib) - gif
 - [leafo/lua-base58](https://github.com/leafo/lua-base58) - base58 decode and encode for strings in pure lua
+- [leafo/lapis-bayes](https://github.com/leafo/lapis-bayes) - Naive Bayes classifier for use in Lua
 - [leafo/luajit-geoip](https://github.com/leafo/luajit-geoip) - luajit bindings to maxmind geoip
 - [Imandaneshi/jack-telegram-bot](https://github.com/Imandaneshi/jack-telegram-bot) - A multi purpose telegram bot written in MoonScript
 - [svermeulen/vimpeccable-moonscript-vimrc-example](https://github.com/svermeulen/vimpeccable-moonscript-vimrc-example) - 
@@ -8363,7 +8364,7 @@
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [uyuni-project/uyuni-docs](https://github.com/uyuni-project/uyuni-docs) - Uyuni documentation sources. Uyuni docs are written in Asciidoc (Asciidoctor flavor).
-- [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
+- [ubuntu/yaru](https://github.com/ubuntu/yaru) - All Ubuntu Yaru GNOME themes
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [azemoh/vscode-one-monokai](https://github.com/azemoh/vscode-one-monokai) - 🎨 Vscode One Monokai theme.
 - [gruvbox-community/gruvbox-contrib](https://github.com/gruvbox-community/gruvbox-contrib) - Ports of the gruvbox colorscheme
