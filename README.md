@@ -69,6 +69,7 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nu](#nu)
+- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-J](#objective-j)
@@ -213,6 +214,7 @@
 
 ## C 
 
+- [silenty4ng/K5_Tools_Backups_2Mbit](https://github.com/silenty4ng/K5_Tools_Backups_2Mbit) - 
 - [afiskon/hbr-3b](https://github.com/afiskon/hbr-3b) - QRP CW Transceiver
 - [afiskon/hbr-cw](https://github.com/afiskon/hbr-cw) - All HF bands QRP CW transceiver
 - [afiskon/ayn-dc](https://github.com/afiskon/ayn-dc) - DC QRP CW transceiver
@@ -1195,6 +1197,7 @@
 
 ## C++ 
 
+- [losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
 - [pothosware/SoapyAudio](https://github.com/pothosware/SoapyAudio) - Soapy SDR plugin for Audio devices
 - [ea4k/klog](https://github.com/ea4k/klog) - KLog is a multiplatform free hamradio logger. It runs natively on Linux, macOS and Windows.
 - [foldynl/QLog](https://github.com/foldynl/QLog) - Amateur radio logbook software
@@ -2537,7 +2540,6 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -4198,6 +4200,9 @@
 
 ## Lua 
 
+- [adamharrison/lite-xl-lsp-servers](https://github.com/adamharrison/lite-xl-lsp-servers) - Public repo of easily usable lsp servers, that interface with the lite-xl plugin system.
+- [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
+- [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A lite-xl plugin manager.
 - [tjdevries/leftpad.nvim](https://github.com/tjdevries/leftpad.nvim) - Essential neovim lua library
 - [SergioRibera/NvimDotFiles](https://github.com/SergioRibera/NvimDotFiles) - My custom vim/nvim configuration
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
@@ -6656,6 +6661,7 @@
 
 ## Makefile 
 
+- [silenty4ng/uv-k5-firmware-chinese-lts](https://github.com/silenty4ng/uv-k5-firmware-chinese-lts) - 基于萝卜固件 117 版的长期支持
 - [billygr/avr-stepper](https://github.com/billygr/avr-stepper) - AVR Stepper Driver
 - [gillham/logic_analyzer](https://github.com/gillham/logic_analyzer) - Implementation of a SUMP compatible logic analyzer for the Arduino
 - [jcmvbkbc/avr-flash-vtbl](https://github.com/jcmvbkbc/avr-flash-vtbl) - AVR-GCC plugin that puts vtbls into program memory
@@ -6665,7 +6671,7 @@
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [cornerman/prompt-hjem](https://github.com/cornerman/prompt-hjem) - a zsh prompt
 - [pianocomposer321/project-template-samples](https://github.com/pianocomposer321/project-template-samples) - Sample templates for project-templates.nvim
-- [crystal-lang/crystal-book](https://github.com/crystal-lang/crystal-book) - Crystal docs at https://crystal-lang.org/reference
+- [crystal-lang/crystal-book](https://github.com/crystal-lang/crystal-book) - Crystal reference with language specification, manuals and learning materials
 - [cyrealtype/Lora-Cyrillic](https://github.com/cyrealtype/Lora-Cyrillic) - Lora fonts — serif family for text. Variable Open Source Font
 - [Tieske/resty-test](https://github.com/Tieske/resty-test) - A setup to quickly test OpenResty Lua code
 - [gosquared/flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
@@ -6756,6 +6762,10 @@
 ## Nu 
 
 - [yshui/.files](https://github.com/yshui/.files) - Linux configuration
+
+## Nushell 
+
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 
 ## OCaml 
 
@@ -7351,6 +7361,9 @@
 
 ## Python 
 
+- [silenty4ng/K5_Tools](https://github.com/silenty4ng/K5_Tools) - 
+- [hank9999/K5_Tools](https://github.com/hank9999/K5_Tools) - Quanshang UV-K5/K6 Tool Collection
+- [silenty4ng/k5sat](https://github.com/silenty4ng/k5sat) - 
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [afiskon/filtergen](https://github.com/afiskon/filtergen) - Miscellaneous radio calculators
 - [spm81/Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
@@ -10589,6 +10602,7 @@
 
 ## Vue 
 
+- [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页泉盛 UV-K5 写频工具箱
 - [6c65726f79/Transmissionic](https://github.com/6c65726f79/Transmissionic) - Remote for Transmission Daemon
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
