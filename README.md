@@ -7980,7 +7980,7 @@
 - [haimanman/SciTE-ru-jx3](https://github.com/haimanman/SciTE-ru-jx3) - 为剑网3插件开发而定制的 SciTE-ru 3.2.5 绿色版
 - [xjsender/HaoGist](https://github.com/xjsender/HaoGist) - Sublime Gist Plugin
 - [bgreenlee/sublime-github](https://github.com/bgreenlee/sublime-github) - Sublime Text 2/3 plugin that provides a number of useful commands for GitHub.
-- [titoBouzout/SideBarGit](https://github.com/titoBouzout/SideBarGit) - Add git commands to sidebar. Textual port of my komodin (komodo edit) extension for sublime text.
+- [titoBouzout/SideBarGit](https://github.com/titoBouzout/SideBarGit) - Provides Git commands for the Side Bar of Sublime Text.
 - [lunixbochs/ActualVim](https://github.com/lunixbochs/ActualVim) - Sublime Text 3 input mode using Neovim. Issues are closed, feel free to submit Pull Requests if you have bug fixes however.
 - [SublimeText/AdvancedNewFile](https://github.com/SublimeText/AdvancedNewFile) - File creation plugin for Sublime Text 2 and Sublime Text 3.
 - [condemil/gist](https://github.com/condemil/gist) - Sublime Text plugin for creating new Gists from selected text
