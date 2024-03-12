@@ -478,7 +478,6 @@
 - [fitrh/st](https://github.com/fitrh/st) - Suckless terminal
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [fitrh/dwm](https://github.com/fitrh/dwm) - Downstream build of the suckless window manager, dwm
-- [tree-sitter-grammars/tree-sitter-lua](https://github.com/tree-sitter-grammars/tree-sitter-lua) - Lua grammar for tree-sitter
 - [PlankCipher/dwmblocks](https://github.com/PlankCipher/dwmblocks) - My build of dwmblocks
 - [PlankCipher/st](https://github.com/PlankCipher/st) - My build of st
 - [PlankCipher/dwm](https://github.com/PlankCipher/dwm) - My build of dwm
@@ -2156,7 +2155,7 @@
 - [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
 - [trexinc/evil-programmers](https://github.com/trexinc/evil-programmers) - Misc. Far plugins and tools by evil programmers
 - [xpol/lua-rapidjson](https://github.com/xpol/lua-rapidjson) - A JSON module for Lua based on the very fast RapidJSON library.
-- [kapilratnani/JSON-Viewer](https://github.com/kapilratnani/JSON-Viewer) - A JSON viewer plugin for Notepad++. Displays the selected JSON string in a tree view.
+- [NPP-JSONViewer/JSON-Viewer](https://github.com/NPP-JSONViewer/JSON-Viewer) - A JSON viewer plugin for Notepad++. Displays the selected JSON string in a tree view.
 - [steve-m/kalibrate-rtl](https://github.com/steve-m/kalibrate-rtl) - fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 - [moxie0/sslsniff](https://github.com/moxie0/sslsniff) - A tool for automated MITM attacks on SSL connections.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
@@ -3908,6 +3907,7 @@
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [imsky/github-graphql-client](https://github.com/imsky/github-graphql-client) - :octocat: Node.js client for the GitHub GraphQL API with zero dependencies
+- [tree-sitter-grammars/tree-sitter-lua](https://github.com/tree-sitter-grammars/tree-sitter-lua) - Lua grammar for tree-sitter
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [amacfie/cmdmenu](https://github.com/amacfie/cmdmenu) - Looks up command line syntax from cheatsheets using fuzzy search
@@ -4205,7 +4205,7 @@
 
 ## Lua 
 
-- [adamharrison/lite-xl-lsp-servers](https://github.com/adamharrison/lite-xl-lsp-servers) - Public repo of easily usable lsp servers, that interface with the lite-xl plugin system.
+- [lite-xl/lite-xl-lsp-servers](https://github.com/lite-xl/lite-xl-lsp-servers) - Public repo of easily usable lsp servers, that interface with the lite-xl plugin system.
 - [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A lite-xl plugin manager.
 - [tjdevries/leftpad.nvim](https://github.com/tjdevries/leftpad.nvim) - Essential neovim lua library
@@ -4395,7 +4395,7 @@
 - [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with tmux, telescope integration, and native dot repeat.
 - [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
-- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Minimal Neovim PDE config for beginners  (  363 ~ LOC )
+- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  363 ~ LOC )
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [calind/selenized.nvim](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme for Neovim with support for Tree-sitter, nvim-cmp, GitSigns and some more
@@ -4751,7 +4751,7 @@
 - [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) - :oldfiles, but for directories
 - [kiyoon/nvim-tree-remote.nvim](https://github.com/kiyoon/nvim-tree-remote.nvim) - A set of Nvim-Tree actions to open files on another remote neovim.
 - [glebzlat/myvimrc](https://github.com/glebzlat/myvimrc) - 
-- [glebzlat/Arduino.nvim](https://github.com/glebzlat/Arduino.nvim) - Simple arduino-language-server wrapper for nvim
+- [glebzlat/arduino-nvim](https://github.com/glebzlat/arduino-nvim) - Simple arduino-language-server wrapper for nvim
 - [EtiamNullam/gradual-undo.nvim](https://github.com/EtiamNullam/gradual-undo.nvim) - 
 - [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) - Keep clipboard in sync with Neovim without the peformance hit.
 - [roobert/nightshift.nvim](https://github.com/roobert/nightshift.nvim) - ✨ A dark low-contrast Neovim theme
@@ -5906,6 +5906,7 @@
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
 - [lxsymington/dotfiles](https://github.com/lxsymington/dotfiles) - Personal dotfiles
 - [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) - Note-taking plugin builtt on to of nvim
+- [ThePrimeagen/vim-with-me](https://github.com/ThePrimeagen/vim-with-me) - 
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) - 
 - [caenrique/nvim-config](https://github.com/caenrique/nvim-config) - Current configuration of my nvim setup
@@ -8299,7 +8300,6 @@
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
-- [ThePrimeagen/vim-with-me](https://github.com/ThePrimeagen/vim-with-me) - 
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [austinjones/tab-rs](https://github.com/austinjones/tab-rs) - The intuitive, config-driven terminal multiplexer designed for software & systems engineers
