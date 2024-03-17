@@ -2888,7 +2888,6 @@
 - [alphapapa/bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [mrmekon/snitch-el](https://github.com/mrmekon/snitch-el) - Firewall for emacs.
-- [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [66RING/ringemacs](https://github.com/66RING/ringemacs) - 
 - [TheBB/company-reftex](https://github.com/TheBB/company-reftex) - RefTeX backends for company-mode
 - [The-Compiler/dotfiles](https://github.com/The-Compiler/dotfiles) - New config file repo
@@ -3272,7 +3271,7 @@
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [hudclark/grpc-nvim](https://github.com/hudclark/grpc-nvim) - Grpc Client for Neovim
 - [aileot/nvim-fnl](https://github.com/aileot/nvim-fnl) - Neovim config under fnl/ from my private dotfiles
-- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of macros for Neovim, highly inspired by Vim script, and Nvim Lua stdlib
+- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of macros for Neovim, highly inspired by Vim script, and Nvim Lua-Vimscript bridge on metatable
 - [n-shift/lens.nvim](https://github.com/n-shift/lens.nvim) - Git workflow for neovim
 - [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) - 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
@@ -4665,7 +4664,7 @@
 - [nullchilly/colorcache.nvim](https://github.com/nullchilly/colorcache.nvim) - Make every colorscheme fast (WIP)
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) - fzf-lua + projections.nvim
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
-- [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 100 LOC
+- [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 110 LOC
 - [lvim-tech/lvim-linguistics](https://github.com/lvim-tech/lvim-linguistics) - 
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) - Ruby tools for neovim
 - [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) - a neovim statusline & tabline plug
@@ -6863,7 +6862,6 @@
 - [chriskempson/base16-templates-source](https://github.com/chriskempson/base16-templates-source) - A common list of templates for base16-builders
 - [chriskempson/base16-schemes-source](https://github.com/chriskempson/base16-schemes-source) - 
 - [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
-- [jbyuki/notes](https://github.com/jbyuki/notes) - Various notes, experiments (mainly in neovim)
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [cpea2506/dark-flat-wezterm](https://github.com/cpea2506/dark-flat-wezterm) - A dark flat color scheme for Wezterm
@@ -7194,7 +7192,6 @@
 - [h3xx/dotfiles](https://github.com/h3xx/dotfiles) - configuration files (Slackware-centric)
 - [h3xx/vim-late_evening](https://github.com/h3xx/vim-late_evening) - Dark, high-contrast vim colorscheme
 - [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
-- [fisadev/fisa-tmux-config](https://github.com/fisadev/fisa-tmux-config) - My personal tmux configuration
 - [wsdjeg/.SpaceVim.d](https://github.com/wsdjeg/.SpaceVim.d) - My dotfiles for Archlinux and Windows
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
@@ -8745,6 +8742,7 @@
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [halkn/dotfiles](https://github.com/halkn/dotfiles) - 
+- [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [bew/dotfiles](https://github.com/bew/dotfiles) - All my dotfiles in one place!
 - [DanCardin/dotfiles](https://github.com/DanCardin/dotfiles) - 
 - [66RING/dotfiles](https://github.com/66RING/dotfiles) - My dotfiles
@@ -9048,6 +9046,7 @@
 - [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [nonstop/slackbuilds](https://github.com/nonstop/slackbuilds) - SlackBuild scripts for creating Slackware packages
+- [fisadev/fisa-tmux-config](https://github.com/fisadev/fisa-tmux-config) - My personal tmux configuration
 - [klen/dotfiles](https://github.com/klen/dotfiles) - kk .dotfiles / use it for your own risks
 - [moon-musick/i3](https://github.com/moon-musick/i3) - i3 window manager configuration
 - [rafi/.config](https://github.com/rafi/.config) - Rafi's workstations (Archlinux, osx) ~/.config.
@@ -9145,6 +9144,7 @@
 
 ## TeX 
 
+- [jbyuki/notes](https://github.com/jbyuki/notes) - Various notes, experiments (mainly in neovim)
 - [shaunsingh/org](https://github.com/shaunsingh/org) - OrgNotes
 - [sefus/the-little-go-book](https://github.com/sefus/the-little-go-book) - 
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
