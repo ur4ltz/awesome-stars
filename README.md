@@ -454,7 +454,6 @@
 - [zdharma-continuum/zinit-module](https://github.com/zdharma-continuum/zinit-module) - zsh module for automatically compiling sourced files
 - [vysheng/tgl](https://github.com/vysheng/tgl) - telegram library
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
-- [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
 - [vhyrro/tree-sitter-luap](https://github.com/vhyrro/tree-sitter-luap) - TreeSitter Grammar for Lua's Regex-Like Patterns
 - [mcjsk/fnc](https://github.com/mcjsk/fnc) - An interactive ncurses browser for Fossil repositories [MIRROR ONLY]
 - [nullchilly/CatNvim](https://github.com/nullchilly/CatNvim) - C at Nvim
@@ -1063,7 +1062,6 @@
 - [danakj/openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
 - [msteveb/jimtcl](https://github.com/msteveb/jimtcl) - Official repository of Jim Tcl, an open-source, small footprint implementation of Tcl
 - [msteveb/autosetup](https://github.com/msteveb/autosetup) - A better, faster autoconf replacement
-- [mwoz/Hildim.Source](https://github.com/mwoz/Hildim.Source) - 
 - [mcabber/loudmouth](https://github.com/mcabber/loudmouth) - An asynchronous XMPP library
 - [fletcher/MultiMarkdown-5](https://github.com/fletcher/MultiMarkdown-5) - Reference implementation of MultiMarkdown; replaces MultiMarkdown v4 (deprecated -- see MMD-6 instead)
 - [huangguiyang/tcc](https://github.com/huangguiyang/tcc) - Tiny C Compier v0.9.26
@@ -2148,6 +2146,7 @@
 - [excelsior-oss/far-git-autocomplete](https://github.com/excelsior-oss/far-git-autocomplete) - Git Autocomplete is a Far Manager plugin
 - [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
 - [Andersbakken/rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang.
+- [mwoz/Hildim.Source](https://github.com/mwoz/Hildim.Source) - 
 - [Traumflug/simulavr](https://github.com/Traumflug/simulavr) - A fork of SimulAVR (http://www.nongnu.org/simulavr/) for handling contributions. The practical SIMINFO mechanism implemented here wasn't accepted upstream, but is crucial for Teacup Firmware simulatio
 - [luapower/hunspell](https://github.com/luapower/hunspell) - hunspell Lua+ffi binding
 - [dscharrer/innoextract](https://github.com/dscharrer/innoextract) - A tool to unpack installers created by Inno Setup
@@ -3901,6 +3900,7 @@
 - [leafo/gh-actions-luarocks](https://github.com/leafo/gh-actions-luarocks) - GitHub action for installing LuaRocks
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [JPeer264/node-semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - A CLI for semantic git commits
+- [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
 - [EvandroLG/luaDoc](https://github.com/EvandroLG/luaDoc) - In development
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
@@ -4340,7 +4340,7 @@
 - [nvimdev/whiskyline.nvim](https://github.com/nvimdev/whiskyline.nvim) - neovim statusline plugin blazing fast than any statusline plugin
 - [nvimdev/hlsearch.nvim](https://github.com/nvimdev/hlsearch.nvim) - auto remove search highlight and rehighlight when using n or N
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
-- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - A fzf fuzzy finder that updates on every keystroke of user query and selection.
+- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - A fzf fuzzy finder that updates on every user keystroke.
 - [Velrok/pr_status.nvim](https://github.com/Velrok/pr_status.nvim) - Neovim plugin written in lua which uses the gh cli to fetch any pull request check results and allow to display them in a status bar.
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
 - [dl-tg/luash](https://github.com/dl-tg/luash) - Extensible Lua terminal emulator
