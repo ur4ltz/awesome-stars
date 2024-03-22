@@ -783,6 +783,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [begoon/i8080-core](https://github.com/begoon/i8080-core) - Intel 8080 (KR580VM80A) microprocessor core model
 - [klad-me/RK8266](https://github.com/klad-me/RK8266) - Radio-86RK on ESP8266 emulator
+- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [dimkr/b6b](https://github.com/dimkr/b6b) - A lightweight, embeddable scripting language
 - [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
 - [drmargarido/minimize_memory](https://github.com/drmargarido/minimize_memory) - Memory Reduction Presentation and Benchmark
@@ -3567,7 +3568,7 @@
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [kimtore/pms](https://github.com/kimtore/pms) - Practical Music Search is an interactive Vim-like console client for the Music Player Daemon.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [burik666/yagostatus](https://github.com/burik666/yagostatus) - Yet Another i3status replacement written in Go
@@ -3856,7 +3857,7 @@
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
-- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
+- [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
 - [EmmyLua/EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
 - [shiftrot/droidvim](https://github.com/shiftrot/droidvim) - DroidVim is a Vim clone for Android.
@@ -4526,7 +4527,7 @@
 - [catgoose/coderunner.nvim](https://github.com/catgoose/coderunner.nvim) - Open terminal in split and execute commands on buffer save
 - [catgoose/angler.nvim](https://github.com/catgoose/angler.nvim) - 
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) - 
-- [catgoose/do-the-needful.nvim](https://github.com/catgoose/do-the-needful.nvim) - 
+- [catgoose/do-the-needful.nvim](https://github.com/catgoose/do-the-needful.nvim) - Create project, global, and neovim config level tasks to be executed when you need to do the needful
 - [catgoose/nvim](https://github.com/catgoose/nvim) - Neovim config for Typescript, Lua plugin development
 - [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) - Use ftFT{} as usual, but with highlighting
 - [speedata/luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
@@ -7721,7 +7722,6 @@
 - [daringjoker/AVR-Flash](https://github.com/daringjoker/AVR-Flash) - A short and simple script to automate the process of  compilation and flash the program into AVR microcontroller.
 - [daringjoker/Assembly-refrence](https://github.com/daringjoker/Assembly-refrence) - A plugin for Cutter that show the information about the assembly instruction currently selected .. only for x86 and x64
 - [vimwiki/utils](https://github.com/vimwiki/utils) - Various useful stuff for Vimwiki
-- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [triplus/TabBar](https://github.com/triplus/TabBar) - TabBar widget for FreeCAD
 - [yorikvanhavre/Draft-dxf-importer](https://github.com/yorikvanhavre/Draft-dxf-importer) - Libraries to enable dxf support in FreeCAD
@@ -8597,7 +8597,7 @@
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [fnune/i3](https://github.com/fnune/i3) - My i3 config files.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
-- [tinted-theming/base16-fzf](https://github.com/tinted-theming/base16-fzf) - base16 colorschemes for fzf
+- [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
 - [AlphaTechnolog/dotfiles-old](https://github.com/AlphaTechnolog/dotfiles-old) - This is my dotfiles for the xmonadwm, xmobar, qtile, polybar, bspwm, sxhkd, spectrwm, dwm, dwmblocks, i3, polybar-for-i3, custom scripts and others programs configs!
 - [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [iagoleal/dotfiles](https://github.com/iagoleal/dotfiles) - 
