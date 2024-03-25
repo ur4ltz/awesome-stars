@@ -1055,7 +1055,6 @@
 - [EionRobb/skype4pidgin](https://github.com/EionRobb/skype4pidgin) - Skype Plugin for Pidgin, libpurple and more
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [mruby/mruby](https://github.com/mruby/mruby) - Lightweight Ruby
-- [lintest/myrulib](https://github.com/lintest/myrulib) - Кроссплатформенная оболочка для электронной библиотеки fb2-файлов
 - [wlangstroth/thttpd](https://github.com/wlangstroth/thttpd) - Tiny CGI server - unofficial fork
 - [libssh2/libssh2](https://github.com/libssh2/libssh2) - the SSH library
 - [danakj/openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
@@ -2020,7 +2019,7 @@
 - [Alcaro/GitBSLR](https://github.com/Alcaro/GitBSLR) - Make Git follow symlinks
 - [Testato/SoftwareWire](https://github.com/Testato/SoftwareWire) - Creates a software I2C/TWI bus on every pins
 - [felias-fogg/SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) - 
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and 
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user inte
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [etherkit/MenuArduino](https://github.com/etherkit/MenuArduino) - A generic menu system to be used with a display on an Arduino
 - [scmrtos/scmrtos](https://github.com/scmrtos/scmrtos) - scmRTOS embedded operating system
@@ -2140,6 +2139,7 @@
 - [eiskaltdcpp/eiskaltdcpp](https://github.com/eiskaltdcpp/eiskaltdcpp) - File sharing program using DC and ADC protocols
 - [RunestoneInteractive/RunestoneServer](https://github.com/RunestoneInteractive/RunestoneServer) - Interactive books for computer science and mathematics
 - [geometer/FBReader](https://github.com/geometer/FBReader) - Official FBReader C++ project repository
+- [lintest/myrulib](https://github.com/lintest/myrulib) - Кроссплатформенная оболочка для электронной библиотеки fb2-файлов
 - [mattn/tinytinyhttpd](https://github.com/mattn/tinytinyhttpd) - tiny tiny httpd
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [qtproject/qt-solutions](https://github.com/qtproject/qt-solutions) - 
@@ -5898,7 +5898,7 @@
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
 - [alex-popov-tech/timer.nvim](https://github.com/alex-popov-tech/timer.nvim) - Minimalistic timer functionality for neovim.
 - [faerryn/user.nvim](https://github.com/faerryn/user.nvim) - Since the advent of vim and neovim, countless package managers have appeared and dissappeared. Well, here's another to the list.
-- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme, for Neovim. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with variants
+- [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with variants
 - [rmagatti/dotfiles](https://github.com/rmagatti/dotfiles) - Collection of my dotfiles. Likely unpolished and at times forgotten but always around. :wink:
 - [rmagatti/alternate-toggler](https://github.com/rmagatti/alternate-toggler) - A very small plugin for toggling alternate "boolean" values.
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
