@@ -438,7 +438,6 @@
 - [cryptomilk/libvterm](https://github.com/cryptomilk/libvterm) - Mirror of http://bazaar.leonerd.org.uk/c/libvterm/
 - [stsewd/tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
 - [NNBnh/superb-st](https://github.com/NNBnh/superb-st) - 📟 ST-base terminal with enough patches
-- [UtkarshVerma/dwl-flexipatch](https://github.com/UtkarshVerma/dwl-flexipatch) - A dwl build with preprocessor directives to decide which patches to include during build time.
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
 - [bakkeby/dmenu](https://github.com/bakkeby/dmenu) - Just another fork of dmenu
 - [amarakon/dwm](https://github.com/amarakon/dwm) - Amarakon’s build of dwm
@@ -1091,7 +1090,6 @@
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [libevent/libevent](https://github.com/libevent/libevent) - Event notification library
 - [OrionExplorer/c-websocket](https://github.com/OrionExplorer/c-websocket) - WebSocket protocol implementation for ANSI C (Win32/Linux).
-- [LuaLanes/lanes](https://github.com/LuaLanes/lanes) - Lanes is a lightweight, native, lazy evaluating multithreading library for Lua 5.1 to 5.4.
 - [prool/proolix](https://github.com/prool/proolix) - Simple hobby POSIX-compatible OS for i8086+
 - [buaazp/zimg](https://github.com/buaazp/zimg) - A lightweight and high performance image storage and processing system.
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
@@ -2141,7 +2139,7 @@
 - [geometer/FBReader](https://github.com/geometer/FBReader) - Official FBReader C++ project repository
 - [lintest/myrulib](https://github.com/lintest/myrulib) - Кроссплатформенная оболочка для электронной библиотеки fb2-файлов
 - [mattn/tinytinyhttpd](https://github.com/mattn/tinytinyhttpd) - tiny tiny httpd
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [qtproject/qt-solutions](https://github.com/qtproject/qt-solutions) - 
 - [excelsior-oss/far-git-autocomplete](https://github.com/excelsior-oss/far-git-autocomplete) - Git Autocomplete is a Far Manager plugin
 - [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
@@ -2158,6 +2156,7 @@
 - [steve-m/kalibrate-rtl](https://github.com/steve-m/kalibrate-rtl) - fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 - [moxie0/sslsniff](https://github.com/moxie0/sslsniff) - A tool for automated MITM attacks on SSL connections.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+- [LuaLanes/lanes](https://github.com/LuaLanes/lanes) - Lanes is a lightweight, native, lazy evaluating multithreading library for Lua 5.1 to 5.4.
 - [yutsis/YMSPlugins](https://github.com/yutsis/YMSPlugins) - A series of plugins for FAR Manager
 - [wxWidgets/wxPython-Classic](https://github.com/wxWidgets/wxPython-Classic) - This is the repository for "Classic" wxPython. All new development is happening in the Phoenix project at https://github.com/wxWidgets/Phoenix
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
@@ -2222,6 +2221,7 @@
 - [loctvl842/BeastFiles](https://github.com/loctvl842/BeastFiles) - My dotfiles
 - [davinche/godown-vim](https://github.com/davinche/godown-vim) - Vim plugin for Godown Markdown Previewer
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
+- [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
@@ -2377,7 +2377,7 @@
 - [beauwilliams/Vimage](https://github.com/beauwilliams/Vimage) - Automated neovim development environment container for developers supporting many languages. Simply run the script and begin coding with a fully configured neovim. Including my dotfile configurations.
 - [leafo/lapis-archlinux-docker](https://github.com/leafo/lapis-archlinux-docker) - Dockerfile for running lapis in archlinux
 - [GSConnect/gsconnect-ci](https://github.com/GSConnect/gsconnect-ci) - GSConnect CI Container
-- [fabiocicerchia/nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu.
+- [fabiocicerchia/nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Latest Nginx with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu.
 - [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image
 - [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image
 - [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image
@@ -4019,7 +4019,6 @@
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [GitbookIO/gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook's command line interface
 - [fengari-lua/fengari-interop](https://github.com/fengari-lua/fengari-interop) - Fengari &lt;=&gt; JS Interop
 - [fengari-lua/fengari-loader](https://github.com/fengari-lua/fengari-loader) - Webpack loader for fengari
@@ -4527,7 +4526,7 @@
 - [catgoose/coderunner.nvim](https://github.com/catgoose/coderunner.nvim) - Open terminal in split and execute commands on buffer save
 - [catgoose/angler.nvim](https://github.com/catgoose/angler.nvim) - 
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) - 
-- [catgoose/do-the-needful.nvim](https://github.com/catgoose/do-the-needful.nvim) - Create project, global, and neovim config level tasks to be executed when you need to do the needful
+- [catgoose/do-the-needful.nvim](https://github.com/catgoose/do-the-needful.nvim) - Neovim task runner that uses tmux windows to do the needful please
 - [catgoose/nvim](https://github.com/catgoose/nvim) - Neovim config for Typescript, Lua plugin development
 - [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) - Use ftFT{} as usual, but with highlighting
 - [speedata/luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
@@ -4574,7 +4573,7 @@
 - [MordechaiHadad/nvim](https://github.com/MordechaiHadad/nvim) - My neovim config, great success
 - [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) - Telescope extentions to view pre-defined/custom treesitter queries
 - [KostkaBrukowa/nvim-config](https://github.com/KostkaBrukowa/nvim-config) - My nvim configuration
-- [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - A neovim configuration to get you up to speed
+- [jmbuhr/quarto-nvim-kickstarter](https://github.com/jmbuhr/quarto-nvim-kickstarter) - Neovim configuration to show my plugins in action.
 - [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - A customized theme for Neovim, based on the Everblush color scheme.
 - [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Generalized and Personalized
 - [prmaloney/valet.nvim](https://github.com/prmaloney/valet.nvim) - 
@@ -6685,7 +6684,6 @@
 - [brow/jklp](https://github.com/brow/jklp) - A 36-key ergonomic keyboard
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [emacsmirror/epkgs](https://github.com/emacsmirror/epkgs) - Emacs package database
-- [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
 - [stefandevai/fennel-tic80-game](https://github.com/stefandevai/fennel-tic80-game) - Boilerplate code for a TIC-80 game using Fennel lisp.
 - [tonyaldon/keyboard-layout](https://github.com/tonyaldon/keyboard-layout) - keyboard-layout pools all the needed files to set up my custom XKB keyboard layout (takbl) on Linux Ubuntu.
 - [kakoune-editor/kakoune-extra-filetypes](https://github.com/kakoune-editor/kakoune-extra-filetypes) - Extra highlighters for the Kakoune editor
@@ -7066,6 +7064,7 @@
 - [gitgutter/Emacs](https://github.com/gitgutter/Emacs) - Emacs port of GitGutter which is Sublime Text Plugin
 - [gitgutter/Emacs-Plus](https://github.com/gitgutter/Emacs-Plus) - 
 - [MairwunNx/AnotherStorm](https://github.com/MairwunNx/AnotherStorm) - 😍 A cool dark theme for Telegram Desktop
+- [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
 - [innng/dotfiles](https://github.com/innng/dotfiles) - Today I offer you this, tomorrow? Who knows.
@@ -7426,7 +7425,7 @@
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
-- [BlackLight/nvim-http](https://github.com/BlackLight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
+- [blacklight/nvim-http](https://github.com/blacklight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
 - [cameron-wags/rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim) - Neovim port of mechatroner/rainbow_csv
@@ -8373,7 +8372,7 @@
 
 ## SCSS 
 
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [uyuni-project/uyuni-docs](https://github.com/uyuni-project/uyuni-docs) - Uyuni documentation sources. Uyuni docs are written in Asciidoc (Asciidoctor flavor).
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - All Ubuntu Yaru GNOME themes
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -8594,7 +8593,6 @@
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [joestandring/alarm](https://github.com/joestandring/alarm) - A shell script to play an alarm at a predetermined time
 - [ldelossa/sway-fzfify](https://github.com/ldelossa/sway-fzfify) - A set of script to incorporate fzf into your sway desktop
-- [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [fnune/i3](https://github.com/fnune/i3) - My i3 config files.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
@@ -8789,7 +8787,6 @@
 - [iocanel/kubemenu](https://github.com/iocanel/kubemenu) - Kubernetes tasks via dmenu
 - [caarlos0-graveyard/zsh-git-sync](https://github.com/caarlos0-graveyard/zsh-git-sync) - A zsh plugin to sync git repositories and clean them up.
 - [nanotee/dotfiles](https://github.com/nanotee/dotfiles) - 
-- [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [grznych/dotfiles](https://github.com/grznych/dotfiles) - 
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
@@ -9273,6 +9270,7 @@
 - [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [aioutecism/amVim-for-VSCode](https://github.com/aioutecism/amVim-for-VSCode) - The Vim mode for Visual Studio Code(vscode) that works as expected.
 - [bazelbuild/vscode-bazel](https://github.com/bazelbuild/vscode-bazel) - Bazel support for Visual Studio Code
