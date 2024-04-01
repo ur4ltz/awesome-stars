@@ -2485,7 +2485,7 @@
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [Civitasv/TWE](https://github.com/Civitasv/TWE) - To what end, to what end
 - [lorniu/go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, StarDict, Youdao and so on.
-- [dunn/company-emoji](https://github.com/dunn/company-emoji) - company-mode backend for emoji
+- [dunn/company-emoji](https://github.com/dunn/company-emoji) - MOVED to codeberg
 - [iqbalansari/emacs-emojify](https://github.com/iqbalansari/emacs-emojify) - Display emojis in Emacs
 - [jcs-elpa/company-emojify](https://github.com/jcs-elpa/company-emojify) - Company completion for Emojify
 - [randomphrase/company-c-headers](https://github.com/randomphrase/company-c-headers) - Auto-completion for C/C++ headers using Company
@@ -4166,6 +4166,7 @@
 
 ## Kotlin 
 
+- [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 - [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
 - [YouROK/TorrServe](https://github.com/YouROK/TorrServe) - 
 - [equeim/tremotesf-android](https://github.com/equeim/tremotesf-android) - Android remote GUI for transmission-daemon
@@ -6802,6 +6803,7 @@
 
 ## Others 
 
+- [RSZ-Nld/VFO-1.8-Inch-Retro-scale](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale) - 
 - [garymcm/wsprnet_api](https://github.com/garymcm/wsprnet_api) - 
 - [Arrin-KN1E/Gpredict-TRSP-Upgrade](https://github.com/Arrin-KN1E/Gpredict-TRSP-Upgrade) - Basic upgrades to some Gpredict .trsp files, which store satellite transponder data.
 - [cjcliffe/CubicSDR-Manual](https://github.com/cjcliffe/CubicSDR-Manual) - cubicsdr.readthedocs.io
