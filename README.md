@@ -425,7 +425,6 @@
 - [tronkko/dirent](https://github.com/tronkko/dirent) - C/C++ library for retrieving information on files and directories
 - [mauke/unibilium](https://github.com/mauke/unibilium) - a terminfo parsing library
 - [neovim/unibilium](https://github.com/neovim/unibilium) - https://github.com/neovim/neovim/wiki/Deps#forks
-- [tree-sitter-grammars/tree-sitter-glsl](https://github.com/tree-sitter-grammars/tree-sitter-glsl) - GLSL grammar for tree-sitter
 - [tree-sitter-grammars/tree-sitter-hlsl](https://github.com/tree-sitter-grammars/tree-sitter-hlsl) - HLSL grammar for tree-sitter
 - [IngoZenz/ics-openvpn](https://github.com/IngoZenz/ics-openvpn) - OpenVPN for Android
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -2221,7 +2220,6 @@
 - [loctvl842/BeastFiles](https://github.com/loctvl842/BeastFiles) - My dotfiles
 - [davinche/godown-vim](https://github.com/davinche/godown-vim) - Vim plugin for Godown Markdown Previewer
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
-- [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
@@ -2885,6 +2883,7 @@
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [alphapapa/bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
+- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [mrmekon/snitch-el](https://github.com/mrmekon/snitch-el) - Firewall for emacs.
 - [66RING/ringemacs](https://github.com/66RING/ringemacs) - 
@@ -3898,6 +3897,7 @@
 - [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
 - [leafo/gh-actions-openresty](https://github.com/leafo/gh-actions-openresty) - Install OpenResty inside of your GitHub Actions runner
 - [leafo/gh-actions-luarocks](https://github.com/leafo/gh-actions-luarocks) - GitHub action for installing LuaRocks
+- [tree-sitter-grammars/tree-sitter-glsl](https://github.com/tree-sitter-grammars/tree-sitter-glsl) - GLSL grammar for tree-sitter
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [JPeer264/node-semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - A CLI for semantic git commits
 - [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
@@ -4167,7 +4167,7 @@
 ## Kotlin 
 
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
-- [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
+- [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa) - A native android app for Lemmy
 - [YouROK/TorrServe](https://github.com/YouROK/TorrServe) - 
 - [equeim/tremotesf-android](https://github.com/equeim/tremotesf-android) - Android remote GUI for transmission-daemon
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
@@ -4175,7 +4175,7 @@
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls) - LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [szymonprz/idea-cheatsh-plugin](https://github.com/szymonprz/idea-cheatsh-plugin) - Plugin for loading code snippets from cheat.sh directly to editor without need to switch your mental context
-- [Benjamin-Dobell/IntelliJ-Luanalysis](https://github.com/Benjamin-Dobell/IntelliJ-Luanalysis) - Type-safe Lua IDE Plugin for IntelliJ IDEA
+- [Benjamin-Dobell/IntelliJ-Luanalysis](https://github.com/Benjamin-Dobell/IntelliJ-Luanalysis) - Type-safe Lua IDE — IntelliJ IDEA plugin
 - [wewewe718/QrAndBarcodeScanner](https://github.com/wewewe718/QrAndBarcodeScanner) - An Android app for scanning QR codes and barcodes
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [fru1tstand/qbittorrent-exporter](https://github.com/fru1tstand/qbittorrent-exporter) - A kotin-based, prometheus exporter for qbittorrent that relies on qbittorrent's web ui.
@@ -6894,7 +6894,7 @@
 - [NNBnh/bmono](https://github.com/NNBnh/bmono) - 🏷️ Mono font that SuperB
 - [RoryNesbitt/real-prog-qwerty](https://github.com/RoryNesbitt/real-prog-qwerty) - A real programmer's QWERTY keyboard layout
 - [renerocksai/real-prog-qwerty](https://github.com/renerocksai/real-prog-qwerty) - A real programmer's QWERTY keyboard layout
-- [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [argosopentech/LibreTranslate-sh](https://github.com/argosopentech/LibreTranslate-sh) - Unix bindings to connect to a LibreTranslate API
@@ -8595,6 +8595,7 @@
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [joestandring/alarm](https://github.com/joestandring/alarm) - A shell script to play an alarm at a predetermined time
 - [ldelossa/sway-fzfify](https://github.com/ldelossa/sway-fzfify) - A set of script to incorporate fzf into your sway desktop
+- [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [fnune/i3](https://github.com/fnune/i3) - My i3 config files.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
@@ -8739,7 +8740,6 @@
 - [22mahmoud/vim-curl-demo](https://github.com/22mahmoud/vim-curl-demo) - 
 - [lucax88x/configs](https://github.com/lucax88x/configs) - lucatrazzi dotfiles & installer scripts
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
-- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [halkn/dotfiles](https://github.com/halkn/dotfiles) - 
 - [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [bew/dotfiles](https://github.com/bew/dotfiles) - All my dotfiles in one place!
@@ -8784,7 +8784,7 @@
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [umireon/luaver](https://github.com/umireon/luaver) - Lua Version Manager - Managing and switching between different versions of Lua, LuaJIT and Luarocks made easy
 - [siffiejoe/lua-travis](https://github.com/siffiejoe/lua-travis) - Helper files for using Travis-CI with Lua projects.
-- [balena-labs-projects/audio](https://github.com/balena-labs-projects/audio) - Audio building block for balenaOS, based on pulseaudio.
+- [balena-io-experimental/audio](https://github.com/balena-io-experimental/audio) - Audio building block for balenaOS, based on pulseaudio.
 - [drrlvn/config-files](https://github.com/drrlvn/config-files) - Configuration files for various programs I use, such as emacs, vim, zsh and git.
 - [iocanel/kubemenu](https://github.com/iocanel/kubemenu) - Kubernetes tasks via dmenu
 - [caarlos0-graveyard/zsh-git-sync](https://github.com/caarlos0-graveyard/zsh-git-sync) - A zsh plugin to sync git repositories and clean them up.
@@ -9101,7 +9101,7 @@
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for MSYS2.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
 - [thenigan/git-diffall](https://github.com/thenigan/git-diffall) - Script to perform directory diffs using an external diff tool in Git
 - [sjl/learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
