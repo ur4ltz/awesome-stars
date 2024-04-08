@@ -289,7 +289,6 @@
 - [DeqingSun/ch55xduino](https://github.com/DeqingSun/ch55xduino) - An Arduino-like programming API for the CH55X
 - [nulllaborg/arduino_nulllab](https://github.com/nulllaborg/arduino_nulllab) - Hardware support package for LGT AVR Compatible Chips
 - [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
-- [tree-sitter-grammars/tree-sitter-commonlisp](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) - Common Lisp grammar for tree-sitter
 - [RobTillaart/dateTimeHelpers](https://github.com/RobTillaart/dateTimeHelpers) - Arduino library with date and time helper functions.
 - [RobTillaart/IEEE754tools](https://github.com/RobTillaart/IEEE754tools) - Arduino library to manipulate IEEE754 float numbers fast. (experimental)
 - [Ebiroll/esp32_sigrok](https://github.com/Ebiroll/esp32_sigrok) - Simple sigrok sump implementation
@@ -3281,7 +3280,7 @@
 - [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~p00f/godbolt.nvim instead
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [rafaeldelboni/cajus-nvim](https://github.com/rafaeldelboni/cajus-nvim) - Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure.
-- [m15a/vim-fennel-syntax](https://github.com/m15a/vim-fennel-syntax) - Yet another Vim syntax highlighting plugin for Fennel.
+- [m15a/vim-fennel-syntax](https://github.com/m15a/vim-fennel-syntax) - Yet another Vim syntax highlighting plugin for Fennel
 - [alexaandru/froggy](https://github.com/alexaandru/froggy) - Neovim theme
 - [alexaandru/nvim-config](https://github.com/alexaandru/nvim-config) - Nvim config
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
@@ -3869,6 +3868,7 @@
 
 - [pu2clr/VFO_BFO_OLED_ARDUINO](https://github.com/pu2clr/VFO_BFO_OLED_ARDUINO) - VFO e BFO com Si5351 e OLED,  controlado por Arduino (Micro)
 - [noopkat/avrgirl-arduino](https://github.com/noopkat/avrgirl-arduino) - :girl: :pager: A NodeJS library for flashing compiled sketch files to Arduino microcontroller boards.
+- [tree-sitter-grammars/tree-sitter-commonlisp](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) - Common Lisp grammar for tree-sitter
 - [nvim-neorg/tree-sitter-norg3](https://github.com/nvim-neorg/tree-sitter-norg3) - Third time's the charm.
 - [tree-sitter-grammars/tree-sitter-luap](https://github.com/tree-sitter-grammars/tree-sitter-luap) - Lua patterns grammar for tree-sitter
 - [tree-sitter-grammars/tree-sitter-luadoc](https://github.com/tree-sitter-grammars/tree-sitter-luadoc) - Lua docs grammar for tree-sitter
@@ -4540,7 +4540,7 @@
 - [askfiy/nvim](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [Fildo7525/db_picker.nvim](https://github.com/Fildo7525/db_picker.nvim) - 
-- [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) - 
+- [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) - A small and customizable neovim plugin for pretty printing the hover information from LSP servers
 - [swarn/fzy-lua](https://github.com/swarn/fzy-lua) - A lua implementation of the fzy fuzzy matching algorithm
 - [swarn/semanticist.nvim](https://github.com/swarn/semanticist.nvim) - Semantic token highlighting for neovim's LSP client
 - [jemag/telescope-diff.nvim](https://github.com/jemag/telescope-diff.nvim) - View file diffs quickly with Telescope.nvim
@@ -7980,7 +7980,7 @@
 - [bgreenlee/sublime-github](https://github.com/bgreenlee/sublime-github) - Sublime Text 2/3 plugin that provides a number of useful commands for GitHub.
 - [titoBouzout/SideBarGit](https://github.com/titoBouzout/SideBarGit) - Provides Git commands for the Side Bar of Sublime Text.
 - [lunixbochs/ActualVim](https://github.com/lunixbochs/ActualVim) - Sublime Text 3 input mode using Neovim. Issues are closed, feel free to submit Pull Requests if you have bug fixes however.
-- [SublimeText/AdvancedNewFile](https://github.com/SublimeText/AdvancedNewFile) - File creation plugin for Sublime Text 2 and Sublime Text 3.
+- [SublimeText/AdvancedNewFile](https://github.com/SublimeText/AdvancedNewFile) - File creation plugin for Sublime Text
 - [condemil/gist](https://github.com/condemil/gist) - Sublime Text plugin for creating new Gists from selected text
 - [spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
 - [benweier/PresetCommand](https://github.com/benweier/PresetCommand) - A Sublime Text plugin for managing collections of settings presets. Compatible with ST 3
