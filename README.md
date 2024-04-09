@@ -1030,6 +1030,7 @@
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
 - [Cloudef/wlc](https://github.com/Cloudef/wlc) - High-level Wayland compositor library
+- [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [mattiasnilsen/lifebar](https://github.com/mattiasnilsen/lifebar) - Transparent workspace bar for i3 window manager.
@@ -9083,7 +9084,6 @@
 - [KiCad/kicad-i18n](https://github.com/KiCad/kicad-i18n) - Translations for KiCad source code [moved to https://gitlab.com/kicad]
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [gmdfalk/awmtt](https://github.com/gmdfalk/awmtt) - awesomewm testing tool
-- [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [rocky/zshdb](https://github.com/rocky/zshdb) - gdb-like "trepan" debugger for zsh
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
