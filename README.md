@@ -4529,7 +4529,7 @@
 - [catgoose/angler.nvim](https://github.com/catgoose/angler.nvim) - 
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) - 
 - [catgoose/do-the-needful.nvim](https://github.com/catgoose/do-the-needful.nvim) - Neovim task runner that uses tmux windows to do the needful please
-- [catgoose/nvim](https://github.com/catgoose/nvim) - Neovim config for Typescript, Lua plugin development
+- [catgoose/nvim](https://github.com/catgoose/nvim) - Neovim config for Typescript Angular/Vue and Lua plugin development
 - [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) - Use ftFT{} as usual, but with highlighting
 - [speedata/luaqrcode](https://github.com/speedata/luaqrcode) - Pure Lua qrcode library
 - [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) - A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.
@@ -6593,7 +6593,6 @@
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [ptrv/company-lua](https://github.com/ptrv/company-lua) - company-mode completion backend for Lua
 - [jimon/premake-ninja](https://github.com/jimon/premake-ninja) - Premake extension to support Ninja
-- [mversluys/premake-ghp](https://github.com/mversluys/premake-ghp) - Premake Extension for packages hosted on GitHub
 - [ignacio/LuaOAuth](https://github.com/ignacio/LuaOAuth) - A OAuth client library for Lua
 - [JakobGreen/lua-requests](https://github.com/JakobGreen/lua-requests) - Requests for Lua!
 - [sailorproject/sailor](https://github.com/sailorproject/sailor) - A Lua MVC Web Framework.
