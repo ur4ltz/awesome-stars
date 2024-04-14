@@ -3335,7 +3335,7 @@
 - [wsw70/syncthing-map](https://github.com/wsw70/syncthing-map) - A utility to map syncthing devices and shared folders.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
-- [creativecreature/code-harvest](https://github.com/creativecreature/code-harvest) - Digital gardening and byte crops
+- [creativecreature/pulse](https://github.com/creativecreature/pulse) - fitness tracker for code
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
@@ -3795,6 +3795,7 @@
 
 ## Java 
 
+- [priyom/Rivet](https://github.com/priyom/Rivet) - A decoder for various HF data modes
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [N0BOY/FT8CN](https://github.com/N0BOY/FT8CN) - Run FT8 on Android
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
