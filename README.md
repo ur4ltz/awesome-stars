@@ -298,7 +298,6 @@
 - [KimJorgensen/KungFuFlash](https://github.com/KimJorgensen/KungFuFlash) - Cartridge for the Commodore 64 that packs a punch
 - [Serega88kos/MatrixClock](https://github.com/Serega88kos/MatrixClock) - 
 - [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для ESP8266, ESP32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino Dashboard library
-- [GyverLibs/GyverBeeper](https://github.com/GyverLibs/GyverBeeper) - Библиотека для генерации писка по таймеру
 - [mathertel/DmxSerial2](https://github.com/mathertel/DmxSerial2) - An Arduino library for sending and receiving DMX RDM packets.
 - [polirritmico/dwmblocks-async](https://github.com/polirritmico/dwmblocks-async) - My config
 - [polirritmico/dwm](https://github.com/polirritmico/dwm) - My dwm config
@@ -1592,6 +1591,7 @@
 - [GyverLibs/GyverNTC](https://github.com/GyverLibs/GyverNTC) - Библиотека для работы с NTC термисторами по закону Стейнхарта-Харта
 - [GyverLibs/GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - Cамая резкая библиотека для матриц MAX7219 на диком западе
 - [GyverLibs/GyverGFX](https://github.com/GyverLibs/GyverGFX) - Лёгкая библиотека двухмерной графики для дисплеев и матриц
+- [GyverLibs/GyverBeeper](https://github.com/GyverLibs/GyverBeeper) - Библиотека для генерации писка по таймеру
 - [GyverLibs/GyverBlinker](https://github.com/GyverLibs/GyverBlinker) - Библиотека для мигания светодиодом и планирования событий по таймеру
 - [GyverLibs/Stamp](https://github.com/GyverLibs/Stamp) - Библиотека для хранения и манипуляции со временем
 - [Apress/modern-x86-assembly-language-programming-2e](https://github.com/Apress/modern-x86-assembly-language-programming-2e) - Source Code for 'Modern X86 Assembly Language Programming' by Daniel Kusswurm
@@ -2281,7 +2281,6 @@
 - [alampros/Docter](https://github.com/alampros/Docter) - Get that restaurant github flavor at home in your editor.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [gcollic/obsidian-color-scheme](https://github.com/gcollic/obsidian-color-scheme) - A dark color scheme for code editors and highlighters
 - [mekwall/obsidian-color-scheme](https://github.com/mekwall/obsidian-color-scheme) - A dark color scheme for code editors and highlighters
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 
@@ -2743,7 +2742,6 @@
 - [Parveshdhull/sublima](https://github.com/Parveshdhull/sublima) - Sublime like scratches for emacs
 - [anwyn/slime-company](https://github.com/anwyn/slime-company) - Company-mode completion backend for Slime.
 - [daniel-grumberg/dotfiles-old](https://github.com/daniel-grumberg/dotfiles-old) - 
-- [daniel-grumberg/dotfiles](https://github.com/daniel-grumberg/dotfiles) - 
 - [zevlg/ellit-org.el](https://github.com/zevlg/ellit-org.el) - Emacs Lisp Literate programming tool
 - [emacs-lsp/lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
 - [bmag/emacs-purpose](https://github.com/bmag/emacs-purpose) - Manage Windows and Buffers According to Purposes
@@ -3371,6 +3369,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [davinche/godown](https://github.com/davinche/godown) - Markdown Previewer written in Go
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [Integralist/carbon](https://github.com/Integralist/carbon) - HTTP Response Header Sorting and Filtering
 - [zchee/clang-server](https://github.com/zchee/clang-server) - A C/C++ AST index server using libclang and flatbuffers written in Go
 - [tweekmonster/luser](https://github.com/tweekmonster/luser) - Drop-in replacement for os/user in Go
@@ -5440,6 +5439,7 @@
 - [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
+- [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [ner0-m/cmp-git](https://github.com/ner0-m/cmp-git) - Git source for nvim-cmp
 - [ner0-m/dotfiles](https://github.com/ner0-m/dotfiles) - My dotfiles
@@ -6895,7 +6895,6 @@
 - [NNBnh/bmono](https://github.com/NNBnh/bmono) - 🏷️ Mono font that SuperB
 - [RoryNesbitt/real-prog-qwerty](https://github.com/RoryNesbitt/real-prog-qwerty) - A real programmer's QWERTY keyboard layout
 - [renerocksai/real-prog-qwerty](https://github.com/renerocksai/real-prog-qwerty) - A real programmer's QWERTY keyboard layout
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [ziontee113/yt-tutorials](https://github.com/ziontee113/yt-tutorials) - This is a repo for my Youtube tutorials
@@ -8206,7 +8205,7 @@
 - [enricozb/tree-sitter.kak](https://github.com/enricozb/tree-sitter.kak) - tree-sitter server for kakoune
 - [hadronized/kak-tree-sitter](https://github.com/hadronized/kak-tree-sitter) - tree-sitter meets Kakoune
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [SevorisDoe/Norgberg](https://github.com/SevorisDoe/Norgberg) - Norgberg is the database services module for Neorg, providing fast document data caching and module state storage.
+- [nvim-neorg/Norgberg](https://github.com/nvim-neorg/Norgberg) - Norgberg is the database services module for Neorg, providing fast document data caching and module state storage.
 - [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
 - [nvim-neorg/norgopolis](https://github.com/nvim-neorg/norgopolis) - A backend server for Norg related applications.
 - [naryand/bencode](https://github.com/naryand/bencode) - See https://github.com/lepton-rs/bencode
@@ -8596,7 +8595,6 @@
 - [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
 - [joestandring/alarm](https://github.com/joestandring/alarm) - A shell script to play an alarm at a predetermined time
 - [ldelossa/sway-fzfify](https://github.com/ldelossa/sway-fzfify) - A set of script to incorporate fzf into your sway desktop
-- [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [fnune/i3](https://github.com/fnune/i3) - My i3 config files.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
@@ -8724,6 +8722,7 @@
 - [mathieujobin/lua_version_manager](https://github.com/mathieujobin/lua_version_manager) - Lua Version Manager
 - [aroma1994/polybar-windows](https://github.com/aroma1994/polybar-windows) - A polybar script that shows opened windows on your current display. Click on window titles to switch between windows.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [daniel-grumberg/dotfiles](https://github.com/daniel-grumberg/dotfiles) - 
 - [pmeiyu/dot-config](https://github.com/pmeiyu/dot-config) - My ~/.config files
 - [jixiuf/dotfiles](https://github.com/jixiuf/dotfiles) - 
 - [Mte90/dotfiles](https://github.com/Mte90/dotfiles) - My dotfiles
