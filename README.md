@@ -402,7 +402,7 @@
 - [jdolinay/avr_debug](https://github.com/jdolinay/avr_debug) - Source level debugger for Arduino - GDB stub for Atmega328 microcontroller used in Arduino Uno.
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
 - [glebzlat/SimpleMenu](https://github.com/glebzlat/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
-- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)
+- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno, Leonardo, Mega, etc).
 - [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
 - [jgm/cmark-lua](https://github.com/jgm/cmark-lua) - Lua bindings to libcmark CommonMark parser
 - [murtaza-u/devoidwm](https://github.com/murtaza-u/devoidwm) - A simple X11 window manager
@@ -1911,7 +1911,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.1: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like search, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed fil
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3333,7 +3333,7 @@
 - [wsw70/syncthing-map](https://github.com/wsw70/syncthing-map) - A utility to map syncthing devices and shared folders.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
-- [creativecreature/pulse](https://github.com/creativecreature/pulse) - like a fitness tracker for code
+- [creativecreature/pulse](https://github.com/creativecreature/pulse) - like a fitness tracker for your coding sessions
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
@@ -5960,7 +5960,7 @@
 - [rktjmp/lush-light-dark-example](https://github.com/rktjmp/lush-light-dark-example) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [savq/melange-nvim](https://github.com/savq/melange-nvim) - 🗡️ Warm color scheme for Neovim and beyond
-- [savq/dotfiles](https://github.com/savq/dotfiles) - Mere dotfiles
+- [savq/dotfiles](https://github.com/savq/dotfiles) - 
 - [savq/conjure-julia](https://github.com/savq/conjure-julia) - 
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [yamatsum/mackup](https://github.com/yamatsum/mackup) - 
@@ -8088,7 +8088,7 @@
 - [TravonteD/strofi](https://github.com/TravonteD/strofi) - Streamlink + Rofi: A rofi menu wrapper around streamlink
 - [sthendev/mariana.vim](https://github.com/sthendev/mariana.vim) - Mariana Pro colorscheme from Sublime Text ported to Vim
 - [samwho/todo-txt-gem](https://github.com/samwho/todo-txt-gem) - A RubyGem for parsing todo.txt files.
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
 - [k1LoW/github-script-ruby](https://github.com/k1LoW/github-script-ruby) - Write workflows scripting the GitHub API in Ruby
 - [cornerman/i3-select-scratchpad](https://github.com/cornerman/i3-select-scratchpad) - Select matched scratchpad window
@@ -9849,7 +9849,6 @@
 - [somnam/vim-simple-complete](https://github.com/somnam/vim-simple-complete) - 
 - [maxboisvert/vim-simple-complete](https://github.com/maxboisvert/vim-simple-complete) - 
 - [phelipetls/vim-hugo](https://github.com/phelipetls/vim-hugo) - Vim plugin for web development with static site generator Hugo
-- [pushqrdx/dotfiles](https://github.com/pushqrdx/dotfiles) - 
 - [vimoxide/vim-cinnabar](https://github.com/vimoxide/vim-cinnabar) - Clean vim colorscheme with black background
 - [liuchengxu/nerdtree-dash](https://github.com/liuchengxu/nerdtree-dash) - Extra syntax highlight for nerdtree and vim-devicons
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
