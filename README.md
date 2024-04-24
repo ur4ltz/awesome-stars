@@ -402,7 +402,7 @@
 - [jdolinay/avr_debug](https://github.com/jdolinay/avr_debug) - Source level debugger for Arduino - GDB stub for Atmega328 microcontroller used in Arduino Uno.
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
 - [glebzlat/SimpleMenu](https://github.com/glebzlat/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
-- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno, Leonardo, Mega, etc).
+- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
 - [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
 - [jgm/cmark-lua](https://github.com/jgm/cmark-lua) - Lua bindings to libcmark CommonMark parser
 - [murtaza-u/devoidwm](https://github.com/murtaza-u/devoidwm) - A simple X11 window manager
@@ -1905,6 +1905,7 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) - World's most powerful command line package manager
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
+- [AbiWord/enchant](https://github.com/AbiWord/enchant) - enchant spellchecking library
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [rychly/luaspell](https://github.com/rychly/luaspell) - Lua binding for Hunspell (a mirror repository, see the link).
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
@@ -2834,7 +2835,7 @@
 - [abo-abo/lpy](https://github.com/abo-abo/lpy) - Minimal Python IDE for GNU Emacs
 - [abo-abo/worf](https://github.com/abo-abo/worf) - vi-like bindings for org-mode
 - [abo-abo/org-fu](https://github.com/abo-abo/org-fu) - My org-capture and org-protocol setup
-- [jixiuf/vmacs](https://github.com/jixiuf/vmacs) - my .emacs.d
+- [jixiuf/vmacs](https://github.com/jixiuf/vmacs) - my .emacs.d&dotfiles
 - [suonlight/multi-vterm](https://github.com/suonlight/multi-vterm) - Managing multiple vterm buffers in Emacs
 - [jixiuf/vterm-toggle](https://github.com/jixiuf/vterm-toggle) - toggles between the vterm buffer and whatever buffer you are editing.
 - [deb0ch/emacs-winum](https://github.com/deb0ch/emacs-winum) - Window numbers for Emacs - Navigate windows and frames using numbers
@@ -3709,7 +3710,6 @@
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet) - Beej's Guide to Network Programming source
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [honze-net/nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - A Nmap XSL implementation with Bootstrap.
-- [AbiWord/enchant](https://github.com/AbiWord/enchant) - enchant spellchecking library
 - [alhassy/org-special-block-extras](https://github.com/alhassy/org-special-block-extras) - A number of new custom blocks and link types for Emacs' Org-mode ^_^
 - [spontanurlaub/telegram-bot-api-log](https://github.com/spontanurlaub/telegram-bot-api-log) - Automatically logs all changes to the telegram bot api
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
