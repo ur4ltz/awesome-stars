@@ -1912,7 +1912,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like search, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed fil
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pa
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3562,7 +3562,7 @@
 - [slytomcat/yd-qgo](https://github.com/slytomcat/yd-qgo) - Qt version of system tray indicator for Yandex.Disk CLI daemon (linux)
 - [slytomcat/ydisk](https://github.com/slytomcat/ydisk) - Go wrapping for yandex-disk Linux CLI utility
 - [slytomcat/yd-go](https://github.com/slytomcat/yd-go) - Panel indicator for Yandex-disk CLI daemon (linux)
-- [tinygo-org/go-llvm](https://github.com/tinygo-org/go-llvm) - Go bindings to a system-installed LLVM. Used as part of TinyGo.
+- [tinygo-org/go-llvm](https://github.com/tinygo-org/go-llvm) - Go bindings to LLVM. Used as part of TinyGo.
 - [tinygo-org/drivers](https://github.com/tinygo-org/drivers) - TinyGo drivers for sensors, displays, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
@@ -5624,7 +5624,7 @@
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [evantravers/dotfiles](https://github.com/evantravers/dotfiles) - My personal dotfiles… both to set up a new computer and to keep my dev environments synced.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.10.0-dev-2355+g1c7b0b9d5) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.10.0-dev-2993+gc81b7849a) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
