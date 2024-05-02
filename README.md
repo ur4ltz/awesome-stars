@@ -316,6 +316,7 @@
 - [Toni500github/dwm](https://github.com/Toni500github/dwm) - My personal dwm build with patches (maybe unstable because i use this as backup)
 - [Toni500github/slstatus](https://github.com/Toni500github/slstatus) - personal slstatus build
 - [sipi/dwmstatus](https://github.com/sipi/dwmstatus) - status script for DWM bar
+- [elbachir-one/dotfiles](https://github.com/elbachir-one/dotfiles) - My dotfiles
 - [elbachir-one/dmenu](https://github.com/elbachir-one/dmenu) - Making this fork of dmenu even better than the original by incorporating patches such as centering and grid layout.
 - [elbachir-one/st](https://github.com/elbachir-one/st) - This is a fork of the suckless simple terminal (st), with additional fixes for mouse and Emoji compatibility.
 - [elbachir-one/dwm](https://github.com/elbachir-one/dwm) - This is my fork of dwm, the suckless window manager, with additional changes and patches such as fullgaps, swallow, and alpha transparency.
@@ -531,7 +532,6 @@
 - [rgimad/gtk_examples](https://github.com/rgimad/gtk_examples) - some examples of using GTK library
 - [rgimad/EOS](https://github.com/rgimad/EOS) - EOS is an educational operating system for x86 platform
 - [torvalds/uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
-- [Rabios/fe](https://github.com/Rabios/fe) - A tiny, embeddable language implemented in ANSI C
 - [romkatv/libgit2](https://github.com/romkatv/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [rtrussell/BBCSDL](https://github.com/rtrussell/BBCSDL) - BBC BASIC for SDL 2.0: for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
@@ -1621,9 +1621,9 @@
 - [hecko/optiboot](https://github.com/hecko/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator and disassembler for 8-bit processors. Currently supports Z80.
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
-- [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - Weather monitor v4.1 based on ESP8266
-- [himikat123/Wireless-sensor-on-ESP8266](https://github.com/himikat123/Wireless-sensor-on-ESP8266) - Wireless temperature/humidity/pressure/ambient light sensor based on ESP8266
-- [himikat123/Clock](https://github.com/himikat123/Clock) - Clock "BIM" v3.2 based on ESP8266 and (TM1637 and/or MAX7219)
+- [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - (OUTDATED, UNSUPPORTED) Weather monitor v4.1 based on ESP8266
+- [himikat123/Wireless-sensor-on-ESP8266](https://github.com/himikat123/Wireless-sensor-on-ESP8266) - (OUTDATED, UNSUPPORTED) Wireless temperature/humidity/pressure/ambient light sensor based on ESP8266
+- [himikat123/Clock](https://github.com/himikat123/Clock) - (OUTDATED, UNSUPPORTED) Clock "BIM" v3.2 based on ESP8266 and (TM1637 and/or MAX7219)
 - [pavelmc/BMux](https://github.com/pavelmc/BMux) - Analog Button Muxer, click & hold: the intuitive way.
 - [pavelmc/Yatuli](https://github.com/pavelmc/Yatuli) - Yet another tune lib: Linear volume control instead a rotary encoder, from the bitx40 idea.
 - [pavelmc/carrito](https://github.com/pavelmc/carrito) - Carrito (Spanish for Small car) a home brewed arduino controled car.
@@ -1995,7 +1995,7 @@
 - [rpavlik/luabind](https://github.com/rpavlik/luabind) - Create Lua bindings for your C++ code easily - my improvements
 - [luabind/luabind](https://github.com/luabind/luabind) - 
 - [ondra-novak/minihttp](https://github.com/ondra-novak/minihttp) - minihttp server in C++17 (one file)
-- [ike9000e/p7z-usr](https://github.com/ike9000e/p7z-usr) - Plugin for Double Commander that adds 7-Zip compatible archives. Formats: 7z, Udf, VHD, SquashFS, NTFS, Rpm, Chm and more. Based on 7-Zip and P7ZIP projects.
+- [ike9000e/p7z-usr](https://github.com/ike9000e/p7z-usr) - Stop war; stop Putin -- Plugin for Double Commander that adds 7-Zip compatible archives. Formats: 7z, Udf, VHD, SquashFS, NTFS, Rpm, Chm and more. Based on 7-Zip and P7ZIP projects.
 - [AndersMalmgren/qBittorrent](https://github.com/AndersMalmgren/qBittorrent) - qBittorrent BitTorrent client
 - [zhaozg/lua-webview](https://github.com/zhaozg/lua-webview) - 
 - [nuspell/nuspell](https://github.com/nuspell/nuspell) - 🖋️ Fast and safe spellchecking C++ library
@@ -2204,7 +2204,7 @@
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [arduino-cmake/Arduino-CMake-NG](https://github.com/arduino-cmake/Arduino-CMake-NG) - CMake-Based framework for Arduino platforms
 - [a9183756-gh/Arduino-CMake-Toolchain](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all Arduino compatible boards
-- [KiCad/kicad-doc](https://github.com/KiCad/kicad-doc) - KiCad new documentation repository [moved to https://gitlab.com/kicad]
+- [KiCad/kicad-doc](https://github.com/KiCad/kicad-doc) - KiCad new documentation repository [moved to https://gitlab.com/kicad/services/kicad-doc]
 - [KiCad/kicad-footprints](https://github.com/KiCad/kicad-footprints) - Official KiCad Footprint Libraries for Kicad version 5
 - [KiCad/kicad-packages3D](https://github.com/KiCad/kicad-packages3D) - Official KiCad 3D model libraries for rendering and MCAD integration
 - [KiCad/kicad-symbols](https://github.com/KiCad/kicad-symbols) - Official KiCad schematic symbol libraries for Kicad 5
@@ -2213,7 +2213,6 @@
 
 - [gabrielelana/pomicons](https://github.com/gabrielelana/pomicons) - Font with symbols to talk about the "Pomodoro Technique"
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
-- [elbachir-one/dotfiles](https://github.com/elbachir-one/dotfiles) - My dotfiles
 - [B00merang-Project/Windows-3.11](https://github.com/B00merang-Project/Windows-3.11) - A GTK theme based on Windows 3.11 appearance
 - [AndreLZGava/font-awesome-extension](https://github.com/AndreLZGava/font-awesome-extension) - Simple Font Awesome Extension
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -2882,7 +2881,7 @@
 - [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [alphapapa/bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
-- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
+- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [mrmekon/snitch-el](https://github.com/mrmekon/snitch-el) - Firewall for emacs.
 - [66RING/ringemacs](https://github.com/66RING/ringemacs) - 
@@ -3273,7 +3272,6 @@
 - [n-shift/lens.nvim](https://github.com/n-shift/lens.nvim) - Git workflow for neovim
 - [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) - 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
-- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
@@ -3563,13 +3561,13 @@
 - [slytomcat/ydisk](https://github.com/slytomcat/ydisk) - Go wrapping for yandex-disk Linux CLI utility
 - [slytomcat/yd-go](https://github.com/slytomcat/yd-go) - Panel indicator for Yandex-disk CLI daemon (linux)
 - [tinygo-org/go-llvm](https://github.com/tinygo-org/go-llvm) - Go bindings to LLVM. Used as part of TinyGo.
-- [tinygo-org/drivers](https://github.com/tinygo-org/drivers) - TinyGo drivers for sensors, displays, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.
+- [tinygo-org/drivers](https://github.com/tinygo-org/drivers) - TinyGo drivers for sensors, displays, wireless adaptors, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [kimtore/pms](https://github.com/kimtore/pms) - Practical Music Search is an interactive Vim-like console client for the Music Player Daemon.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [burik666/yagostatus](https://github.com/burik666/yagostatus) - Yet Another i3status replacement written in Go
 - [vincent-petithory/i3cat](https://github.com/vincent-petithory/i3cat) - A simple program to combine multiple i3bar JSON inputs into one to forward to i3bar.
 - [saibing/bingo](https://github.com/saibing/bingo) - Bingo is a Go language server that speaks Language Server Protocol.
@@ -3715,7 +3713,7 @@
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
 - [vladilenm/rxjs-youtube-course](https://github.com/vladilenm/rxjs-youtube-course) - Full tutorial for RxJS
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
-- [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5 board with Li-Po charger and USB-C
+- [joric/nrfmicro](https://github.com/joric/nrfmicro) - A Pro Micro alternative for wireless keyboards
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
 - [jasolisdev/.dotfiles](https://github.com/jasolisdev/.dotfiles) - 
@@ -5071,6 +5069,7 @@
 - [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) - neovim plugin that lets you switch databases on demand or execute queries on different connections
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim
+- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [Abstract-IDE/penvim](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader
 - [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
 - [BunsenLabs/bunsen-conky](https://github.com/BunsenLabs/bunsen-conky) - Interesting scripts and setups for Conky
@@ -5838,7 +5837,6 @@
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
-- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - Sensible Defaults of My Computer
 - [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - There's lots of configurations out there, but this one is mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
@@ -7053,7 +7051,7 @@
 - [denysdovhan/ukrainian-typographic-keyboard](https://github.com/denysdovhan/ukrainian-typographic-keyboard) - Combined Ukrainian keyboard layout with typographic symbols
 - [yarisgutierrez/classyTouch_oh-my-zsh](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) - Custom oh-my-zsh theme inspired by a bash prompt of the same name.
 - [skuridin/oh-my-zsh-node-theme](https://github.com/skuridin/oh-my-zsh-node-theme) - Node.js theme for ZSH users
-- [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
+- [chrisdone-archive/elisp-guide](https://github.com/chrisdone-archive/elisp-guide) - A quick guide to Emacs Lisp programming
 - [sailorproject/design](https://github.com/sailorproject/design) - Documents and discussions about the design of Sailor
 - [Etiene/luatakeme](https://github.com/Etiene/luatakeme) - List of Lua packages that are open source and need maintenance
 - [h3xx/git-colors-neonwolf](https://github.com/h3xx/git-colors-neonwolf) - Git color scheme based on badwolf
@@ -7392,7 +7390,7 @@
 - [tuxcanfly/litter](https://github.com/tuxcanfly/litter) - A lightweight terminal-based read-only browser
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template) - neovim plugin template integration test and doc publish
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [ytdl-org/ytdl-nightly](https://github.com/ytdl-org/ytdl-nightly) - Nightly builds for youtube-dl.
 - [ytdl-patched/youtube-dl](https://github.com/ytdl-patched/youtube-dl) - Unofficial daily builds for youtube-dl. DO NOT OPEN PULL REQUESTS HERE
@@ -8669,6 +8667,7 @@
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
+- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - Sensible Defaults of My Computer
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
@@ -8933,7 +8932,7 @@
 - [damon-kwok/oh-my-env](https://github.com/damon-kwok/oh-my-env) - 🍄Oh My Env - A DevReady programming environment.
 - [divine-dotfiles/divine-dotfiles](https://github.com/divine-dotfiles/divine-dotfiles) - Divine.dotfiles: The Bash framework for dotfiles and everything Bash
 - [CodelyTV/dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
-- [kisslinux/website](https://github.com/kisslinux/website) - KISS Linux - Website and Documentation
+- [kisslinux/kisslinux.github.io](https://github.com/kisslinux/kisslinux.github.io) - KISS Linux - Website and Documentation
 - [kisslinux/init](https://github.com/kisslinux/init) - KISS Linux - Init Framework
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [dylanaraps/community](https://github.com/dylanaraps/community) - KISS - Community Repository (temporarily closed for maintenance)
@@ -9097,7 +9096,7 @@
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [niXman/mingw-builds](https://github.com/niXman/mingw-builds) - Scripts for building the 32 and 64-bit MinGW-W64 compilers for Windows
-- [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://gitlab.com/q3aql/aria2-static-builds
+- [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://git.q3aql.dev/q3aql/aria2-static-builds
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for MSYS2.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
