@@ -302,7 +302,6 @@
 - [polirritmico/dwmblocks-async](https://github.com/polirritmico/dwmblocks-async) - My config
 - [polirritmico/dwm](https://github.com/polirritmico/dwm) - My dwm config
 - [nrosvall/memo](https://github.com/nrosvall/memo) - Unix-style note-taking software
-- [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [NF02/snotes](https://github.com/NF02/snotes) - A very simple and immediate note manager
 - [zsugabubus/aria2t](https://github.com/zsugabubus/aria2t) - TUI for aria2c(1)
 - [ViliamKovac1223/dwm-ViliamKovac1223-build](https://github.com/ViliamKovac1223/dwm-ViliamKovac1223-build) - dwm is a dynamic window manager for X.
@@ -394,11 +393,11 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [bupy7/xkbklu](https://github.com/bupy7/xkbklu) - Another simple utility for XKB keyboard layout.
-- [ThomasDickey/dialog-snapshots](https://github.com/ThomasDickey/dialog-snapshots) - snapshots of releases and interim labels for "dialog" program
-- [ThomasDickey/mawk-snapshots](https://github.com/ThomasDickey/mawk-snapshots) - snapshots of releases and interim labels for "mawk" program
-- [ThomasDickey/lynx-snapshots](https://github.com/ThomasDickey/lynx-snapshots) - snapshots of releases and interim labels for "lynx" program (no pull requests)
-- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
-- [ThomasDickey/vile-snapshots](https://github.com/ThomasDickey/vile-snapshots) - snapshots of releases and interim labels for "vi-like-emacs" program (1996-present)
+- [ThomasDickey/dialog-snapshots](https://github.com/ThomasDickey/dialog-snapshots) - snapshots of releases and interim labels for "dialog" https://invisible-island.net/personal/git-exports.html
+- [ThomasDickey/mawk-snapshots](https://github.com/ThomasDickey/mawk-snapshots) - snapshots of releases and interim labels for "mawk" https://invisible-island.net/personal/git-exports.html
+- [ThomasDickey/lynx-snapshots](https://github.com/ThomasDickey/lynx-snapshots) - snapshots of releases and interim labels for "lynx"https://invisible-island.net/personal/git-exports.html (no pull requests)
+- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
+- [ThomasDickey/vile-snapshots](https://github.com/ThomasDickey/vile-snapshots) - snapshots of releases and interim labels for "vi-like-emacs" program (1996-present) https://invisible-island.net/personal/git-exports.html
 - [jakkra/ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
 - [jdolinay/avr_debug](https://github.com/jdolinay/avr_debug) - Source level debugger for Arduino - GDB stub for Atmega328 microcontroller used in Arduino Uno.
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
@@ -536,7 +535,7 @@
 - [rtrussell/BBCSDL](https://github.com/rtrussell/BBCSDL) - BBC BASIC for SDL 2.0: for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [loboris/ESP32_TFT_library](https://github.com/loboris/ESP32_TFT_library) - Full featured TFT library for ESP32 with demo application
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
@@ -3333,6 +3332,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
 - [creativecreature/pulse](https://github.com/creativecreature/pulse) - like a fitness tracker for your coding sessions
+- [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
@@ -4972,7 +4972,7 @@
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [kyoh86/telescope-gogh.nvim](https://github.com/kyoh86/telescope-gogh.nvim) - 
 - [Everblush/nvim](https://github.com/Everblush/nvim) - A port of everblush.vim but written in lua
-- [santiagogonzalez-dev/fractal-nvim](https://github.com/santiagogonzalez-dev/fractal-nvim) - My personal neovim "framework"
+- [santiagogonzalez-dev/nvim](https://github.com/santiagogonzalez-dev/nvim) - My Neovim configuration, very simple.
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
 - [sam4llis/nvim-lua-gf](https://github.com/sam4llis/nvim-lua-gf) - A utility plugin which extends `gf` functionality in Lua files.
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) - Debug logging for Neovim plugin developers
@@ -6704,7 +6704,7 @@
 
 ## Max 
 
-- [ThomasDickey/diffstat-snapshots](https://github.com/ThomasDickey/diffstat-snapshots) - snapshots of releases and interim labels for "diffstat" program
+- [ThomasDickey/diffstat-snapshots](https://github.com/ThomasDickey/diffstat-snapshots) - snapshots of releases and interim labels for "diffstat" https://invisible-island.net/personal/git-exports.html
 
 ## MoonScript 
 
