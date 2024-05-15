@@ -715,7 +715,6 @@
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [davatorium/rofi-top](https://github.com/davatorium/rofi-top) - 
 - [davatorium/rofi-file-browser](https://github.com/davatorium/rofi-file-browser) - 
-- [shans10/dotfiles](https://github.com/shans10/dotfiles) - 
 - [RealTimeLogic/JSON](https://github.com/RealTimeLogic/JSON) - JSON C/C++ Library for IoT Communication
 - [RealTimeLogic/Xedge32](https://github.com/RealTimeLogic/Xedge32) - Xedge ESP32 peripheral API and Build Files
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -985,7 +984,7 @@
 - [martanne/dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console base
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [c00kiemon5ter/monsterwm](https://github.com/c00kiemon5ter/monsterwm) - tiny but monstrous tiling window manager
-- [zen-tools/gxkb](https://github.com/zen-tools/gxkb) - 🇺🇦 🇵🇱 🇱🇹 X11 keyboard indicator and switcher
+- [zen-tools/gxkb](https://github.com/zen-tools/gxkb) - 🇺🇦 🇵🇱 🇱🇹 🇪🇪 X11 keyboard indicator and switcher
 - [altdesktop/i3ipc-glib](https://github.com/altdesktop/i3ipc-glib) - A C interface library to i3wm
 - [mstg/zx](https://github.com/mstg/zx) - i3 scratchpad manager
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -1236,7 +1235,6 @@
 - [kholia/Easy-FT8-Beacon-v3](https://github.com/kholia/Easy-FT8-Beacon-v3) - A simple Arduino Nano powered FT8 beacon which uses DS3231 RTC for timing. Updated in July 2021. NO SUPPORT!
 - [leomil72/megax8](https://github.com/leomil72/megax8) - ATmega168P/328P core for standalone MCUs for Arduino IDE
 - [kozaluss/MKLCDBuf](https://github.com/kozaluss/MKLCDBuf) - Offscreen buffer for LiquidCrystal_I2C (Arduino C)
-- [dawsonjon/101Things](https://github.com/dawsonjon/101Things) - A collection of cool projects to make!
 - [g7uhn/ft817_buddy](https://github.com/g7uhn/ft817_buddy) - A companion display & controls for the FT-817
 - [coburnw/Si5351Arduino](https://github.com/coburnw/Si5351Arduino) - Library for the Si5351 clock generator IC in the Arduino environment
 - [brucemack/Si5351Arduino](https://github.com/brucemack/Si5351Arduino) - Library for the Si5351 clock generator IC in the Arduino environment
@@ -1911,7 +1909,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pa
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -2480,7 +2478,7 @@
 - [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [Civitasv/TWE](https://github.com/Civitasv/TWE) - To what end, to what end
-- [lorniu/go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, StarDict, Youdao and so on.
+- [lorniu/go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.
 - [dunn/company-emoji](https://github.com/dunn/company-emoji) - MOVED to codeberg
 - [iqbalansari/emacs-emojify](https://github.com/iqbalansari/emacs-emojify) - Display emojis in Emacs
 - [jcs-elpa/company-emojify](https://github.com/jcs-elpa/company-emojify) - Company completion for Emojify
@@ -2537,7 +2535,6 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -3309,6 +3306,7 @@
 
 ## G-code 
 
+- [dawsonjon/101Things](https://github.com/dawsonjon/101Things) - A collection of cool projects to make!
 - [yorikvanhavre/FreeCAD-manual](https://github.com/yorikvanhavre/FreeCAD-manual) - An experiment at reorganizing the contents of the FreeCAD wiki in an easier, friendlier book-like manner. The manual is now hosted on the FreeCAD wiki
 
 ## GDScript 
@@ -4084,7 +4082,6 @@
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
 - [MarcWeber/vim-git-wiki](https://github.com/MarcWeber/vim-git-wiki) - collaborative manual effort to create an index about vim tools
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [sidorares/node-vim-debugger](https://github.com/sidorares/node-vim-debugger) - node.js step by step debugging from vim
 - [candy-chat/candy](https://github.com/candy-chat/candy) - JavaScript-based multi-user chat client for XMPP.
@@ -5433,13 +5430,12 @@
 - [dcampos/nvim-quickmap](https://github.com/dcampos/nvim-quickmap) - Neovim plugin for quickly mapping keys in Lua.
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - Snippet plugin for Neovim written in Lua
 - [uga-rosa/steelarray.nvim](https://github.com/uga-rosa/steelarray.nvim) - Useful functions for array like table
-- [uga-rosa/dotfiles](https://github.com/uga-rosa/dotfiles) - My personal configs
 - [Frau2015/love2dGames](https://github.com/Frau2015/love2dGames) - practice games made in love2d framework
 - [Frau2015/Conways-Game-of-Life](https://github.com/Frau2015/Conways-Game-of-Life) - Conway's game of life using love2d framework
 - [WaylonWalker/Telegraph.nvim](https://github.com/WaylonWalker/Telegraph.nvim) - Send commands system commands in an elegant way
 - [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
-- [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
+- [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [ner0-m/cmp-git](https://github.com/ner0-m/cmp-git) - Git source for nvim-cmp
@@ -5740,6 +5736,7 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -5835,6 +5832,7 @@
 - [oberblastmeister/termwrapper.nvim](https://github.com/oberblastmeister/termwrapper.nvim) - lua wrapper for neovim terminal
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
+- [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
@@ -6425,7 +6423,7 @@
 - [zinovyev/lugate](https://github.com/zinovyev/lugate) - Lua module for building JSON-RPC 2.0 Gateway APIs just inside of your Nginx
 - [endowdly/Grafx2LuaScripts](https://github.com/endowdly/Grafx2LuaScripts) - Just some scripts to use in Grafx2's Brush Factory
 - [marcoonroad/moonforth](https://github.com/marcoonroad/moonforth) - My own Forth dialect on top of the Lua programming language. [Work in Progress]
-- [l2x-huang/vimrc](https://github.com/l2x-huang/vimrc) - my neovim config
+- [cc-hng/vimrc](https://github.com/cc-hng/vimrc) - my neovim config
 - [novakne/dotfiles_x11](https://github.com/novakne/dotfiles_x11) - 
 - [ignacio/LuaNode](https://github.com/ignacio/LuaNode) - Asynchronous I/O for Lua
 - [stevedonovan/LuaMacro](https://github.com/stevedonovan/LuaMacro) - An extended Lua macro preprocessor
@@ -6701,6 +6699,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
 ## Max 
 
@@ -7931,7 +7930,7 @@
 - [fedorenchik/VimCalc3](https://github.com/fedorenchik/VimCalc3) - A Vim plugin that provides a convenient interactive calculator inside a buffer.
 - [ivanov/vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
-- [lambdalisue/lista.nvim](https://github.com/lambdalisue/lista.nvim) - Neovim/Vim buffer filtering plugin
+- [lambdalisue/nvim-lista](https://github.com/lambdalisue/nvim-lista) - Neovim/Vim buffer filtering plugin
 - [bruderstein/PythonScript](https://github.com/bruderstein/PythonScript) - Python Script plugin for Notepad++
 - [vmuriart/Gist](https://github.com/vmuriart/Gist) - Sublime Text plugin for creating new Gists from selected text
 - [tbfisher/sublimetext-Pandoc](https://github.com/tbfisher/sublimetext-Pandoc) - A Sublime Text plugin that uses Pandoc to convert text from one markup format into another. Pandoc can convert documents in markdown, reStructuredText, textile, HTML, DocBook, LaTeX, MediaWiki markup,
@@ -8643,7 +8642,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [katawful/dotfiles](https://github.com/katawful/dotfiles) - My dotfiles for non-personal stuff
 - [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
-- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately crafted for CLI lovers 🐧❤️
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [kipcd/dotfiles](https://github.com/kipcd/dotfiles) - My dotfiles managed with Stow
 - [TheNerdyHamster/dotfiles](https://github.com/TheNerdyHamster/dotfiles) - Mirror
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
@@ -8665,9 +8664,8 @@
 - [hijadelaluuna/linuxbrew](https://github.com/hijadelaluuna/linuxbrew) - 
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
-- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - Sensible Defaults of My Computer
+- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - 🗃️ Sensible Defaults of My Computer
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
@@ -9172,14 +9170,14 @@
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
+- [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
-- [lambdalisue/guise.vim](https://github.com/lambdalisue/guise.vim) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
+- [lambdalisue/vim-guise](https://github.com/lambdalisue/vim-guise) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [bscan/PerlNavigator](https://github.com/bscan/PerlNavigator) - Perl Language Server that includes syntax checking, perl critic, and code navigation
-- [lambdalisue/gin.vim](https://github.com/lambdalisue/gin.vim) - 🥃  Gin makes you drunk on Git
+- [lambdalisue/vim-gin](https://github.com/lambdalisue/vim-gin) - 🥃  Gin makes you drunk on Git
 - [Beaglefoot/awk-language-server](https://github.com/Beaglefoot/awk-language-server) - Language Server for AWK and associated VSCode client extension
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
@@ -9420,22 +9418,22 @@
 - [a5ob7r/fern-renderer-lsflavor.vim](https://github.com/a5ob7r/fern-renderer-lsflavor.vim) - 
 - [KosukeMizuno/ctrlp-fern-action.vim](https://github.com/KosukeMizuno/ctrlp-fern-action.vim) - 
 - [csch0/vim-startify-renderer-nerdfont](https://github.com/csch0/vim-startify-renderer-nerdfont) - vim-startify plugin which add file type icons through lambdalisue/nerdfont.vim
-- [lambdalisue/fern-mapping-quickfix.vim](https://github.com/lambdalisue/fern-mapping-quickfix.vim) - Fern plugin to send nodes to quickfix/location list
+- [lambdalisue/vim-fern-mapping-quickfix](https://github.com/lambdalisue/vim-fern-mapping-quickfix) - Fern plugin to send nodes to quickfix/location list
 - [LumaKernel/fern-mapping-reload-all.vim](https://github.com/LumaKernel/fern-mapping-reload-all.vim) - fern.vim plugin to reload from root
-- [lambdalisue/fern-mapping-project-top.vim](https://github.com/lambdalisue/fern-mapping-project-top.vim) - 
+- [lambdalisue/vim-fern-mapping-project-top](https://github.com/lambdalisue/vim-fern-mapping-project-top) - 
 - [LumaKernel/fern-mapping-fzf.vim](https://github.com/LumaKernel/fern-mapping-fzf.vim) - fern.vim plugin for fzf.
 - [yuki-yano/fern-preview.vim](https://github.com/yuki-yano/fern-preview.vim) - Add a file preview window to fern.vim.
-- [lambdalisue/fern-tabpage.vim](https://github.com/lambdalisue/fern-tabpage.vim) - POC
-- [lambdalisue/fern-renderer-devicons.vim](https://github.com/lambdalisue/fern-renderer-devicons.vim) - 🌿 fern.vim plugin which add file type icon through vim-devicons
-- [lambdalisue/fern-mapping-mark-children.vim](https://github.com/lambdalisue/fern-mapping-mark-children.vim) - fern.vim mapping plugin to provide mappings to mark child nodes of the cursor node
-- [lambdalisue/fern-mapping-git.vim](https://github.com/lambdalisue/fern-mapping-git.vim) - Add Git related mappings on file:// scheme of fern.vim
-- [lambdalisue/fern-ssh](https://github.com/lambdalisue/fern-ssh) - 🌿  A scheme plugin for fern.vim which show file system tree of a remote machine via SSH.
-- [lambdalisue/fern-git-status.vim](https://github.com/lambdalisue/fern-git-status.vim) - 🌿  Add Git status badge integration on file:// scheme on fern.vim
+- [lambdalisue/vim-fern-tabpage](https://github.com/lambdalisue/vim-fern-tabpage) - POC
+- [lambdalisue/vim-fern-renderer-devicons](https://github.com/lambdalisue/vim-fern-renderer-devicons) - 🌿 fern.vim plugin which add file type icon through vim-devicons
+- [lambdalisue/vim-fern-mapping-mark-children](https://github.com/lambdalisue/vim-fern-mapping-mark-children) - fern.vim mapping plugin to provide mappings to mark child nodes of the cursor node
+- [lambdalisue/vim-fern-mapping-git](https://github.com/lambdalisue/vim-fern-mapping-git) - Add Git related mappings on file:// scheme of fern.vim
+- [lambdalisue/vim-fern-ssh](https://github.com/lambdalisue/vim-fern-ssh) - 🌿  A scheme plugin for fern.vim which show file system tree of a remote machine via SSH.
+- [lambdalisue/vim-fern-git-status](https://github.com/lambdalisue/vim-fern-git-status) - 🌿  Add Git status badge integration on file:// scheme on fern.vim
 - [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
-- [lambdalisue/fern-comparator-lexical.vim](https://github.com/lambdalisue/fern-comparator-lexical.vim) - 🌿  fern.vim plugin which add lexical comparator
-- [lambdalisue/fern-bookmark.vim](https://github.com/lambdalisue/fern-bookmark.vim) - 🌿 fern.vim plugin which add bookmark scheme
-- [lambdalisue/nerdfont.vim](https://github.com/lambdalisue/nerdfont.vim) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
-- [lambdalisue/fern-hijack.vim](https://github.com/lambdalisue/fern-hijack.vim) - Make fern.vim as a default file explorer instead of Netrw
+- [lambdalisue/vim-fern-comparator-lexical](https://github.com/lambdalisue/vim-fern-comparator-lexical) - 🌿  fern.vim plugin which add lexical comparator
+- [lambdalisue/vim-fern-bookmark](https://github.com/lambdalisue/vim-fern-bookmark) - 🌿 fern.vim plugin which add bookmark scheme
+- [lambdalisue/vim-nerdfont](https://github.com/lambdalisue/vim-nerdfont) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
+- [lambdalisue/vim-fern-hijack](https://github.com/lambdalisue/vim-fern-hijack) - Make fern.vim as a default file explorer instead of Netrw
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2
 - [pigpigyyy/moonplus-vim](https://github.com/pigpigyyy/moonplus-vim) - MoonScript support for vim
@@ -9596,7 +9594,7 @@
 - [bratpeki/truedark-vim](https://github.com/bratpeki/truedark-vim) - A true dark theme. For Vim. Duh.
 - [euclidianAce/exec.vim](https://github.com/euclidianAce/exec.vim) - Short util to run an executable file from within vim
 - [lourenci/github-colors](https://github.com/lourenci/github-colors) - Yet another GitHub colorscheme
-- [lambdalisue/glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) - 🎨 An universal palette for Nerd Fonts
+- [lambdalisue/vim-glyph-palette](https://github.com/lambdalisue/vim-glyph-palette) - 🎨 An universal palette for Nerd Fonts
 - [glidenote/memolist.vim](https://github.com/glidenote/memolist.vim) - simple memo plugin for Vim.
 - [yuki-yano/zero.vim](https://github.com/yuki-yano/zero.vim) - 
 - [jenterkin/vim-autosource](https://github.com/jenterkin/vim-autosource) - Manage Vim configuration for projects.
@@ -9727,7 +9725,7 @@
 - [TheBB/dotnvim](https://github.com/TheBB/dotnvim) - 
 - [ojroques/vim-scrollstatus](https://github.com/ojroques/vim-scrollstatus) - A Vim plugin to display a scrollbar in the statusline
 - [pacha/vem-tabline](https://github.com/pacha/vem-tabline) - A lightweight Vim/Neovim plugin to display buffers and tabs in the tabline
-- [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
 - [sedm0784/vim-you-autocorrect](https://github.com/sedm0784/vim-you-autocorrect) - Why should smartphones get all the fun?
 - [vim-scripts/AutoComplPop](https://github.com/vim-scripts/AutoComplPop) - Automatically opens popup menu for completions
@@ -9749,8 +9747,8 @@
 - [rbtnn/vim-mru](https://github.com/rbtnn/vim-mru) - Most Recently Used using +popupwin feature
 - [rbtnn/vim-pterm](https://github.com/rbtnn/vim-pterm) - This plugin provides to open and hide terminal in popupwin.
 - [rbtnn/vim-mrw](https://github.com/rbtnn/vim-mrw) - Most Recently Written
-- [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
-- [lambdalisue/fern-renderer-nerdfont.vim](https://github.com/lambdalisue/fern-renderer-nerdfont.vim) - 🌿 fern.vim plugin which add file type icon through nerdfont.vim
+- [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
+- [lambdalisue/vim-fern-renderer-nerdfont](https://github.com/lambdalisue/vim-fern-renderer-nerdfont) - 🌿 fern.vim plugin which add file type icon through nerdfont.vim
 - [enricozb/neovim-setup](https://github.com/enricozb/neovim-setup) - 
 - [strboul/urlview.vim](https://github.com/strboul/urlview.vim) - List and open URLs easily
 - [mcmire/dotfiles](https://github.com/mcmire/dotfiles) - My personal dotfiles
@@ -10391,7 +10389,7 @@
 - [python-mode/python-mode](https://github.com/python-mode/python-mode) - Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [ToruIwashita/git-switcher.vim](https://github.com/ToruIwashita/git-switcher.vim) - Automatically save and load vim session based on switching of git branch
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [makerj/vim-transit](https://github.com/makerj/vim-transit) - Translates a given text from source language to target language via Google Translate API
 - [sunaku/vim-ruby-minitest](https://github.com/sunaku/vim-ruby-minitest) - Vim highlighting & completion for MiniTest
 - [mattn/vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
