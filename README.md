@@ -1603,7 +1603,7 @@
 - [thomasfredericks/Bounce2](https://github.com/thomasfredericks/Bounce2) - Debouncing library for Arduino and Wiring
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [jake-stewart/jfind](https://github.com/jake-stewart/jfind) - 
-- [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
+- [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 - [lightaprs/LightAPRS-W-2.0](https://github.com/lightaprs/LightAPRS-W-2.0) - Arduino based APRS & WSPR Tracker
 - [TrevorSatori/Leonardo](https://github.com/TrevorSatori/Leonardo) - Converting the Arduino Leonardo into a  human interface device (HID).
 - [UtkarshVerma/8-bit-computer](https://github.com/UtkarshVerma/8-bit-computer) - Contains programs and other stuff related to my build of Ben Eater's SAP 8-bit computer.
@@ -2385,6 +2385,7 @@
 
 ## Elixir 
 
+- [tjdevries/misery.nvim](https://github.com/tjdevries/misery.nvim) - this won't run on your system, but it might on mine
 - [FarmBot/farmbot_os](https://github.com/FarmBot/farmbot_os) - The operating system and all related software that runs on FarmBot's Raspberry Pi.
 
 ## Emacs Lisp 
@@ -4201,6 +4202,8 @@
 
 ## Lua 
 
+- [exosyphon/nvim](https://github.com/exosyphon/nvim) - Neovim Configuration
+- [tjdevries/config.nvim](https://github.com/tjdevries/config.nvim) - my nvim config
 - [lite-xl/lite-xl-lsp-servers](https://github.com/lite-xl/lite-xl-lsp-servers) - Public repo of easily usable lsp servers, that interface with the lite-xl plugin system.
 - [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A lite-xl plugin manager.
@@ -4969,7 +4972,7 @@
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [kyoh86/telescope-gogh.nvim](https://github.com/kyoh86/telescope-gogh.nvim) - 
 - [Everblush/nvim](https://github.com/Everblush/nvim) - A port of everblush.vim but written in lua
-- [santiagogonzalez-dev/nvim](https://github.com/santiagogonzalez-dev/nvim) - My Neovim configuration, very simple.
+- [santi-webdev/nvim](https://github.com/santi-webdev/nvim) - My Neovim configuration, very simple.
 - [ElPiloto/telescope-vimwiki.nvim](https://github.com/ElPiloto/telescope-vimwiki.nvim) - look through your vimwiki with your telescope
 - [sam4llis/nvim-lua-gf](https://github.com/sam4llis/nvim-lua-gf) - A utility plugin which extends `gf` functionality in Lua files.
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) - Debug logging for Neovim plugin developers
@@ -6771,6 +6774,7 @@
 
 ## OCaml 
 
+- [tjdevries/m-lua](https://github.com/tjdevries/m-lua) - o lua m'lua
 - [SquidDev/illuaminate](https://github.com/SquidDev/illuaminate) - Very WIP static analysis for Lua
 - [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon
 - [raboof/zshprof](https://github.com/raboof/zshprof) - zsh script profiling
@@ -7516,7 +7520,7 @@
 - [gleitz/.emacs.d](https://github.com/gleitz/.emacs.d) - My personal emacs settings
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
-- [santiagogonzalez-dev/Zettelpy](https://github.com/santiagogonzalez-dev/Zettelpy) - A personal knowledge management system based on Zettelkasten
+- [santi-webdev/Zettelpy](https://github.com/santi-webdev/Zettelpy) - A personal knowledge management system based on Zettelkasten
 - [ripxorip/DebugMacropad](https://github.com/ripxorip/DebugMacropad) - Source code for my debug macro pad
 - [ripxorip/bolt.nvim](https://github.com/ripxorip/bolt.nvim) - ⚡ Ultrafast multi-pane file manager for Neovim with fuzzy matching
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
@@ -8332,7 +8336,7 @@
 - [Peltoche/vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend
 - [vv9k/rkd](https://github.com/vv9k/rkd) - Rusty keybinding daemon
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
@@ -8508,7 +8512,7 @@
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠
 - [miversen33/miversen-dotfiles](https://github.com/miversen33/miversen-dotfiles) - 
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-- [santiagogonzalez-dev/dotfiles](https://github.com/santiagogonzalez-dev/dotfiles) - 
+- [santi-webdev/dotfiles](https://github.com/santi-webdev/dotfiles) - 
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [Mte90/gitapper](https://github.com/Mte90/gitapper) - Remap Git with your custom scripts or new commands
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
@@ -8674,6 +8678,7 @@
 - [g6ai/AltSIM](https://github.com/g6ai/AltSIM) - Send message from gammu-smsd to Telegram bot
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - A clean and fast Bash prompt
+- [g6ai/dotfiles](https://github.com/g6ai/dotfiles) - My dotfiles for Bash/Zsh, Vim/Neovim, Doom Emacs, tmux, Git, terminal emulators, JupyterLab, aria2, mpv, Nix and Homebrew
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [ecosse3/dotfiles](https://github.com/ecosse3/dotfiles) - Dotfiles for my awesomewm/i3 Arch setup & neovim
@@ -9657,7 +9662,6 @@
 - [amadeus/vim-misc](https://github.com/amadeus/vim-misc) - Miscellaneous config for vim
 - [amadeus/vim-evokai](https://github.com/amadeus/vim-evokai) - A high contrast theme inspired by monokai, consider it the next evolution of monokai.
 - [gko/vim-layout](https://github.com/gko/vim-layout) - vim layout plugin
-- [g6ai/dotfiles](https://github.com/g6ai/dotfiles) - My dotfiles for Bash/Zsh, Vim/Neovim, Doom Emacs, tmux, Git, terminal emulators, JupyterLab, aria2, mpv, Nix and Homebrew
 - [romeovs/creep](https://github.com/romeovs/creep) - a pretty sweet 4px wide pixel font.
 - [caenrique/nvim-toggle-terminal](https://github.com/caenrique/nvim-toggle-terminal) - NeoVim plugin that toggles a terminal buffer in the current window maintaining the same shell instance
 - [pwntester/cobange](https://github.com/pwntester/cobange) - Neovim color scheme
