@@ -1022,7 +1022,6 @@
 - [smallbasic/SmallBASIC](https://github.com/smallbasic/SmallBASIC) - SmallBASIC is a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in
 - [ers35/luakernel](https://github.com/ers35/luakernel) - Lua + SQLite + musl libc running on x86.
 - [wd5gnr/qtl866](https://github.com/wd5gnr/qtl866) - GUI driver for minipro software found at https://github.com/vdudouyt/minipro
-- [elfmz/far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 - [abcminiuser/lufa](https://github.com/abcminiuser/lufa) - LUFA - the Lightweight USB Framework for AVRs.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
@@ -1761,7 +1760,6 @@
 - [Nich1con/ATtiny26-Core](https://github.com/Nich1con/ATtiny26-Core) - Arduino core for low-cost ATtiny26 MCU's
 - [MoonFox2006/WiFiClock](https://github.com/MoonFox2006/WiFiClock) - Simple WiFi (NTP) clock based on ESP8266 and LED matrix 32*8 on MAX7219
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [ggandor/system-monitor](https://github.com/ggandor/system-monitor) - Bare-bones htop clone based on a Udacity nanodegree project
 - [udacity/CppND-System-Monitor](https://github.com/udacity/CppND-System-Monitor) - Student repository for the CppND OOP course project
 - [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
 - [argosopentech/LibreTranslate-cpp](https://github.com/argosopentech/LibreTranslate-cpp) - LibreTranslate C++ bindings
@@ -2122,6 +2120,7 @@
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [vdudouyt/codeblocks-fast-tabswitch](https://github.com/vdudouyt/codeblocks-fast-tabswitch) - Chrome/Firefox-like tab switching
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
+- [elfmz/far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 - [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
 - [airdcpp/airdcpp-webapi](https://github.com/airdcpp/airdcpp-webapi) - Websocket/REST JSON API for AirDC++ core
@@ -2687,7 +2686,7 @@
 - [rougier/org-outer-indent](https://github.com/rougier/org-outer-indent) - An outer indentation org mode
 - [rougier/emacs-svg-icon](https://github.com/rougier/emacs-svg-icon) - An emacs library to create SVG icons on the fly
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
-- [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Moved to Codeberg, https://codeberg.org/aesdef/spartan-emacs
+- [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Finally, a simple Emacs framework
 - [bard/emacs-director](https://github.com/bard/emacs-director) - Script Emacs sessions for automated screencasts and end-to-end tests
 - [tarsius/frameshot](https://github.com/tarsius/frameshot) - Take screenshots of a frame
 - [emacsorphanage/company-jedi](https://github.com/emacsorphanage/company-jedi) - Company backend for Python jedi
@@ -4124,6 +4123,7 @@
 
 ## Jupyter Notebook 
 
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [fastai/ghapi](https://github.com/fastai/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [fastai/ghtop-demo](https://github.com/fastai/ghtop-demo) - A CLI tool for showing GitHub events, written with Rich
 - [medwatt/Notes](https://github.com/medwatt/Notes) - 
@@ -7393,7 +7393,6 @@
 - [tuxcanfly/litter](https://github.com/tuxcanfly/litter) - A lightweight terminal-based read-only browser
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template) - neovim plugin template integration test and doc publish
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [ytdl-org/ytdl-nightly](https://github.com/ytdl-org/ytdl-nightly) - Nightly builds for youtube-dl.
 - [ytdl-patched/youtube-dl](https://github.com/ytdl-patched/youtube-dl) - Unofficial daily builds for youtube-dl. DO NOT OPEN PULL REQUESTS HERE
@@ -9790,7 +9789,7 @@
 - [ledesmablt/vim-run](https://github.com/ledesmablt/vim-run) - Run, view, and manage UNIX shell commands with ease.
 - [fmind/nvim.d](https://github.com/fmind/nvim.d) - Configuration of neovim editor.
 - [felipec/vim-felipec](https://github.com/felipec/vim-felipec) - Vim color scheme: dark, bright, simple.
-- [bluz71/vim-mistfly-statusline](https://github.com/bluz71/vim-mistfly-statusline) - A simple Vimscript statusline for Vim & legacy Neovim
+- [bluz71/vim-mistfly-statusline](https://github.com/bluz71/vim-mistfly-statusline) - A simple Vimscript statusline for Vim
 - [sriramkswamy/dotvim](https://github.com/sriramkswamy/dotvim) - Vim dot files
 - [euclidianAce/BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) - Better Lua syntax highlighting in Vim/NeoVim
 - [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) - Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code
