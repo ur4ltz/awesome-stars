@@ -279,6 +279,7 @@
 - [afiskon/hbr-mk2](https://github.com/afiskon/hbr-mk2) - All HF bands QRP CW/SSB transceiver
 - [stefanrueger/urboot](https://github.com/stefanrueger/urboot) - Small AVR bootloader using urprotocol
 - [dioannidis/usbasp](https://github.com/dioannidis/usbasp) - usbasp improved firmware
+- [3urobeat/arduino-resource-monitor](https://github.com/3urobeat/arduino-resource-monitor) - 📊 Display your computer's CPU, RAM & GPU usage on a LCD display, powered by an Arduino Nano! [Supports Linux & Windows]
 - [felias-fogg/avr_debug](https://github.com/felias-fogg/avr_debug) - Source level debugger for Arduino - GDB stub for Atmega328 microcontroller used in Arduino Uno.
 - [horizon-eda/horizon](https://github.com/horizon-eda/horizon) - Horizon is a free EDA package
 - [dbuezas/lgt8fx](https://github.com/dbuezas/lgt8fx) - Board Package for Logic Green LGT8F328P LGT8F328D and LGT8F88D
@@ -1334,7 +1335,6 @@
 - [gavinlyonsrepo/HD44780_LCD_PCF8574](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574) - Library to support the HD44780 LCD , (I2C PCF8574 "backpack" interface) for the Arduino eco system
 - [pstolarz/OneWireNg](https://github.com/pstolarz/OneWireNg) - Arduino 1-wire service library. OneWire compatible. Dallas thermometers support.
 - [blackhack/LCD_I2C](https://github.com/blackhack/LCD_I2C) - Arduino library to control 16x2 LCD via an I2C adapter based on PCF8574T
-- [3urobeat/arduino-resource-monitor](https://github.com/3urobeat/arduino-resource-monitor) - 📊 Display resource usage of your PC on an 4x20 LCD display powered by an Arduino Nano
 - [avrdudes/avarice](https://github.com/avrdudes/avarice) - AVaRICE is a program for interfacing the Atmel JTAG ICE to GDB to allow users to debug their embedded AVR target.
 - [RalphBacon/LGT8F328P-Arduino-Clone-Chip-ATMega328P](https://github.com/RalphBacon/LGT8F328P-Arduino-Clone-Chip-ATMega328P) - An improved ATMega328P with this cheap clone Logic Green LGT8F328P
 - [DeqingSun/ch554_sdcc](https://github.com/DeqingSun/ch554_sdcc) - CH554 software development kit for SDCC
@@ -3883,7 +3883,6 @@
 - [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [piecioshka/encoding-checker](https://github.com/piecioshka/encoding-checker) - 🛠 Tool to investigate files with different encoding than passed.
 - [gignupg/Detect-File-Encoding-And-Language](https://github.com/gignupg/Detect-File-Encoding-And-Language) - An NPM Package to detect the encoding and language of text files
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -4274,7 +4273,7 @@
 - [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
 - [jonboh/nvim-dap-rr](https://github.com/jonboh/nvim-dap-rr) - Dap configuration for the record and replay debugger. Supports Rust, C++ and C.
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
-- [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client for nvim.
+- [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - A lightweight bundle of commands focussed on swift and streamlined git operations.
 - [davidmh/cmp-nerdfonts](https://github.com/davidmh/cmp-nerdfonts) - nvim-cmp source for nerd fonts icons
 - [Wansmer/serenity.nvim](https://github.com/Wansmer/serenity.nvim) - Wansmer's colorsheme for Neovim
 - [Dkendal/nvim-treeclimber](https://github.com/Dkendal/nvim-treeclimber) - Neovim structured editing plugin
@@ -5835,7 +5834,6 @@
 - [oberblastmeister/termwrapper.nvim](https://github.com/oberblastmeister/termwrapper.nvim) - lua wrapper for neovim terminal
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
-- [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
@@ -6328,7 +6326,6 @@
 - [andsve/lite-macos](https://github.com/andsve/lite-macos) - Unofficial macOS port of the lite text editor. Latest version available in the feature/macos-rendering branch. For downloadable builds see the Actions page.
 - [a327ex/lite](https://github.com/a327ex/lite) - A lightweight text editor written in Lua
 - [a327ex/lite-plugins](https://github.com/a327ex/lite-plugins) - My plugins for the lite text editor
-- [kuator/nvim](https://github.com/kuator/nvim) - There are many neovim configurations, but this one is mine...
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [vv9k/configs](https://github.com/vv9k/configs) - 
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
@@ -7427,6 +7424,7 @@
 - [magnetrwn/python-periphery-tm1637](https://github.com/magnetrwn/python-periphery-tm1637) - This module contains functions to drive the TM1637 display module as well as clock, scrolling ASCII text and system information functionality. Attaching this to a SBC can give useful insight on the sy
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [blacklight/nvim-http](https://github.com/blacklight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
@@ -7457,6 +7455,7 @@
 - [crivotz/dot_files](https://github.com/crivotz/dot_files) - My dot_files for linux - i3, zinit, tmux, tmuxinator, urxvt and Co
 - [randy3k/Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text
 - [jonpalmisc/vfit](https://github.com/jonpalmisc/vfit) - Utility for building static cuts of variable fonts
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [stevearc/nvim_doc_tools](https://github.com/stevearc/nvim_doc_tools) - Python scripts for Neovim documentation generation
 - [tmux-python/tmux-manuals](https://github.com/tmux-python/tmux-manuals) - tmux version manuals in text format, for easy diffs
 - [tmux-python/libtmux](https://github.com/tmux-python/libtmux) - ⚙️ Python API / wrapper for tmux
@@ -8503,7 +8502,6 @@
 - [mawkler/zsh-bd](https://github.com/mawkler/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`
 - [Tarrasch/zsh-bd](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`
 - [linuxcraft/tmux-workspace-manager](https://github.com/linuxcraft/tmux-workspace-manager) - Tmux workspace manager for Rofi
-- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [zimfw/zsh-framework-benchmark](https://github.com/zimfw/zsh-framework-benchmark) - Benchmarks for various Zsh frameworks
 - [zimfw/completion](https://github.com/zimfw/completion) - Enables and configures smart and extensive tab completion.
 - [benvan/sandboxd](https://github.com/benvan/sandboxd) - speeds up your bashrc by running (slow) setup commands on the fly
@@ -8667,6 +8665,7 @@
 - [hijadelaluuna/linuxbrew](https://github.com/hijadelaluuna/linuxbrew) - 
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
 - [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - 🗃️ Sensible Defaults of My Computer
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
@@ -9819,7 +9818,6 @@
 - [tjdevries/cyclist.vim](https://github.com/tjdevries/cyclist.vim) - cycle + listchars
 - [UncleBill/config-files](https://github.com/UncleBill/config-files) - store and sync
 - [UncleBill/prism.vim](https://github.com/UncleBill/prism.vim) - Set different but certain colorschemes for different working directories (mostly)
-- [rabbitinspace/dotfiles](https://github.com/rabbitinspace/dotfiles) - Yay, that's my dotfiles!
 - [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) - :rocket: Modern Task System for Project Building, Testing and Deploying !!
 - [kyoz/npm.vim](https://github.com/kyoz/npm.vim) - :package: Work with NPM easier in VIM
 - [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
@@ -9929,6 +9927,7 @@
 - [andrewferrier/vim-simple-syntax-formatting](https://github.com/andrewferrier/vim-simple-syntax-formatting) - A very simple Vim wrapper plugin to make working with external formatting tools easier
 - [hedonhermdev/neovim-config](https://github.com/hedonhermdev/neovim-config) - Some files and a little bit of magic that make NeoVim better for me
 - [amadeus/vim-convert-color-to](https://github.com/amadeus/vim-convert-color-to) - A simple and easy to use plugin to convert color strings to different formats.
+- [kuator/nvim](https://github.com/kuator/nvim) - There are many neovim configurations, but this one is mine...
 - [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
 - [mhinz/vim-halo](https://github.com/mhinz/vim-halo) - :innocent: Visual highlight for your cursor.
 - [iamcco/statusline.vim](https://github.com/iamcco/statusline.vim) - 
