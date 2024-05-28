@@ -213,6 +213,7 @@
 
 ## C 
 
+- [DiSlord/NanoVNA-D](https://github.com/DiSlord/NanoVNA-D) - Firmware for NanoVNA, NanoVNA-H, NanoVNA-H4. Support SD Card, external Serial connection, fast measure, fast exchange vs CPU
 - [jackaudio/jack-example-tools](https://github.com/jackaudio/jack-example-tools) - Official examples and tools from the JACK project
 - [silenty4ng/K5_Tools_Backups_2Mbit](https://github.com/silenty4ng/K5_Tools_Backups_2Mbit) - 
 - [afiskon/hbr-3b](https://github.com/afiskon/hbr-3b) - QRP CW Transceiver
@@ -3329,7 +3330,7 @@
 - [wsw70/syncthing-map](https://github.com/wsw70/syncthing-map) - A utility to map syncthing devices and shared folders.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
-- [creativecreature/pulse](https://github.com/creativecreature/pulse) - like a fitness tracker for your coding sessions
+- [creativecreature/pulse](https://github.com/creativecreature/pulse) - Like a fitness tracker for your coding sessions.
 - [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
@@ -3673,6 +3674,7 @@
 
 ## HTML 
 
+- [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension) - Source code for 2FAS Browser Extension
 - [ok1hra/IC-705_Interface](https://github.com/ok1hra/IC-705_Interface) - ESP32 interface for IC-705
 - [kholia/Easy-Transceiver](https://github.com/kholia/Easy-Transceiver) - Easy Digital 'FT8' Transceiver. Easy-Transceiver v0.01.
 - [kholia/Easy-Digital-Beacons-v1](https://github.com/kholia/Easy-Digital-Beacons-v1) - A simple and easy Arduino / Pi Pico / ESP8266-powered WSPR, FT8, and FT4 beacon system which uses NTP + DS3231 RTC for timing. Super extensible! Now comes with optional GPS support.
@@ -5229,7 +5231,6 @@
 - [max397574/nvim-whid](https://github.com/max397574/nvim-whid) - 
 - [max397574/mark-ray.nvim](https://github.com/max397574/mark-ray.nvim) - 
 - [max397574/MarkdownHelp.nvim](https://github.com/max397574/MarkdownHelp.nvim) - 
-- [max397574/neovim-lua-plugin-template](https://github.com/max397574/neovim-lua-plugin-template) - a template to create a simple lua plugin for neovim
 - [max397574/Vmath.nvim](https://github.com/max397574/Vmath.nvim) - 
 - [max397574/healthy.nvim](https://github.com/max397574/healthy.nvim) - 
 - [max397574/footprints.nvim](https://github.com/max397574/footprints.nvim) - 
@@ -5581,7 +5582,7 @@
 - [ionnux/dotfiles](https://github.com/ionnux/dotfiles) - 
 - [leoluz/nvim-dap-go](https://github.com/leoluz/nvim-dap-go) - An extension for nvim-dap providing configurations for launching go debugger (delve) and debugging individual tests
 - [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [wqferr/functional](https://github.com/wqferr/functional) - Functional programming utilities implemented in pure Lua.
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
@@ -5943,7 +5944,7 @@
 - [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
 - [wfxr/awm.config](https://github.com/wfxr/awm.config) - 
 - [ellisonleao/criando-plugins-lua-neovim](https://github.com/ellisonleao/criando-plugins-lua-neovim) - Códigos fonte para a série "Criando plugins Lua para Neovim"
-- [eddyekofo94/nvim](https://github.com/eddyekofo94/nvim) - My attempt to create a decent Nvim config.
+- [eddyekofo94/nvim-bak](https://github.com/eddyekofo94/nvim-bak) - My attempt to create a decent Nvim config.
 - [martini97/project-config.nvim](https://github.com/martini97/project-config.nvim) - Per project config for Neovim
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [nvim-lua/neovim-ui](https://github.com/nvim-lua/neovim-ui) - Vaporware -- nothing to see here
@@ -6442,7 +6443,7 @@
 - [lutobler/vis-modelines](https://github.com/lutobler/vis-modelines) - Vis plugin that tries to read standard Vim modelines with an LPEG parser
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [haorenW1025/dotfiles](https://github.com/haorenW1025/dotfiles) - My dot files with neovim setting
-- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: hyprland/sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [andriiyaremenko/dotfiles](https://github.com/andriiyaremenko/dotfiles) - 
 - [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) - a neovim syntax highlighter using treesitter
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
@@ -6804,6 +6805,7 @@
 
 ## Others 
 
+- [afiskon/kicad-symbols-and-footprints](https://github.com/afiskon/kicad-symbols-and-footprints) - Custom KiCad symbols and footprints
 - [RSZ-Nld/VFO-1.8-Inch-Retro-scale](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale) - 
 - [garymcm/wsprnet_api](https://github.com/garymcm/wsprnet_api) - 
 - [Arrin-KN1E/Gpredict-TRSP-Upgrade](https://github.com/Arrin-KN1E/Gpredict-TRSP-Upgrade) - Basic upgrades to some Gpredict .trsp files, which store satellite transponder data.
