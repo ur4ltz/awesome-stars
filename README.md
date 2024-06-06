@@ -69,6 +69,7 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nu](#nu)
+- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-J](#objective-j)
@@ -149,13 +150,14 @@
 
 ## Assembly 
 
+- [nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering) - Experimentation with the TIDRADIO TD-H3
 - [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
 - [GreatCowBASIC/Demonstration_Sources](https://github.com/GreatCowBASIC/Demonstration_Sources) - 
 - [f4goh/8052AH-BASIC](https://github.com/f4goh/8052AH-BASIC) - 
 - [mariusgreuel/USBasp](https://github.com/mariusgreuel/USBasp) - USBasp - USB programmer for Atmel AVR controllers (with WinUSB support)
 - [nerdralph/usbasp](https://github.com/nerdralph/usbasp) - usbasp improved firmware
 - [DeqingSun/vnproch551](https://github.com/DeqingSun/vnproch551) - CH551 Programming software
-- [avrdudes/avr-libc](https://github.com/avrdudes/avr-libc) - The AVR Libc package provides a subset of the standard C library for AVR 8-bit RISC microcontrollers.
+- [avrdudes/avr-libc](https://github.com/avrdudes/avr-libc) - The AVR-LibC package provides a subset of the standard C library for AVR 8-bit RISC microcontrollers.
 - [Megatokio/zasm](https://github.com/Megatokio/zasm) - Z80 / 8080 / Z180 assembler (for unix-style OS)
 - [zoosmand/SAMD21G18A_SPI](https://github.com/zoosmand/SAMD21G18A_SPI) - Microchip (Atmel) SAMD21 SPI example. MAX7219 as a ticker and BMP280 as a data source for ticker, are used on the same SPI bus.
 - [zoosmand/SAMD21G18A_delay](https://github.com/zoosmand/SAMD21G18A_delay) - In this example a delay don't make an empty job, but passing handle into a main cycle
@@ -213,6 +215,7 @@
 
 ## C 
 
+- [pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino](https://github.com/pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino) - SI4735 Radio
 - [DiSlord/NanoVNA-D](https://github.com/DiSlord/NanoVNA-D) - Firmware for NanoVNA, NanoVNA-H, NanoVNA-H4. Support SD Card, external Serial connection, fast measure, fast exchange vs CPU
 - [jackaudio/jack-example-tools](https://github.com/jackaudio/jack-example-tools) - Official examples and tools from the JACK project
 - [silenty4ng/K5_Tools_Backups_2Mbit](https://github.com/silenty4ng/K5_Tools_Backups_2Mbit) - 
@@ -1187,6 +1190,7 @@
 
 ## C++ 
 
+- [pksato/Arduino-Misc](https://github.com/pksato/Arduino-Misc) - Misc Arduino Projects
 - [WB2CBA/ADX-POCKET](https://github.com/WB2CBA/ADX-POCKET) - ADX POCKET - ARDUINO DIGITAL MODES TRANSCEIVER wit CAT
 - [WB2CBA/ADX-UnO-V1.3](https://github.com/WB2CBA/ADX-UnO-V1.3) - 
 - [WB2CBA/ADX-UnO-V1.4](https://github.com/WB2CBA/ADX-UnO-V1.4) - ADX - Arduino Digital Modes HF Transceiver Arduino Uno Shield
@@ -1913,7 +1917,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -4217,6 +4221,7 @@
 - [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A lite-xl plugin manager.
 - [tjdevries/leftpad.nvim](https://github.com/tjdevries/leftpad.nvim) - Essential neovim lua library
+- [tjdevries/ocaml.nvim](https://github.com/tjdevries/ocaml.nvim) - 
 - [SergioRibera/NvimDotFiles](https://github.com/SergioRibera/NvimDotFiles) - My custom vim/nvim configuration
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
@@ -4403,7 +4408,7 @@
 - [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with tmux, telescope integration, and native dot repeat.
 - [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
-- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  363 ~ LOC )
+- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  312  LOC )
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [calind/selenized.nvim](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme for Neovim with support for Tree-sitter, nvim-cmp, GitSigns and some more
@@ -4548,7 +4553,6 @@
 - [askfiy/lsp_extra_dim](https://github.com/askfiy/lsp_extra_dim) - Dim unused parameters from neovim..
 - [askfiy/nvim](https://github.com/askfiy/nvim) - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
-- [Fildo7525/db_picker.nvim](https://github.com/Fildo7525/db_picker.nvim) - 
 - [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) - A small and customizable neovim plugin for pretty printing the hover information from LSP servers
 - [swarn/fzy-lua](https://github.com/swarn/fzy-lua) - A lua implementation of the fzy fuzzy matching algorithm
 - [swarn/semanticist.nvim](https://github.com/swarn/semanticist.nvim) - Semantic token highlighting for neovim's LSP client
@@ -5708,7 +5712,6 @@
 - [TheNerdyHamster/TNH-nvim](https://github.com/TheNerdyHamster/TNH-nvim) - 
 - [NoTranslation/Conky-Minimalism](https://github.com/NoTranslation/Conky-Minimalism) - A Simple Conky config
 - [michaelb/Conky-Minimalism-tweaked](https://github.com/michaelb/Conky-Minimalism-tweaked) - Tweak of Conky-Minimalism to consume less ressources and better fit my needs
-- [mhanberg/.dotfiles](https://github.com/mhanberg/.dotfiles) - My dotfiles
 - [WhoIsSethDaniel/toggle-lsp-diagnostics.nvim](https://github.com/WhoIsSethDaniel/toggle-lsp-diagnostics.nvim) - Neovim plugin for toggling the LSP diagnostics.
 - [pianocomposer321/yabs.nvim](https://github.com/pianocomposer321/yabs.nvim) - Yet Another Build System/Code Runner for Neovim, written in lua
 - [frangio/ripgrep.nvim](https://github.com/frangio/ripgrep.nvim) - :mag: A Neovim integration of the ripgrep search tool.
@@ -5902,7 +5905,6 @@
 - [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
-- [tanvirtin/.tin](https://github.com/tanvirtin/.tin) - My development configurations
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
 - [alex-popov-tech/timer.nvim](https://github.com/alex-popov-tech/timer.nvim) - Minimalistic timer functionality for neovim.
@@ -6777,6 +6779,10 @@
 ## Nu 
 
 - [yshui/.files](https://github.com/yshui/.files) - Linux configuration
+
+## Nushell 
+
+- [euclidianAce/dotfiles](https://github.com/euclidianAce/dotfiles) - 
 
 ## OCaml 
 
@@ -8409,7 +8415,6 @@
 ## Scheme 
 
 - [tjdevries/templ.nvim](https://github.com/tjdevries/templ.nvim) - go.tmpl support for @ThePrimeagen
-- [tjdevries/ocaml.nvim](https://github.com/tjdevries/ocaml.nvim) - 
 - [bennypowers/webc.nvim](https://github.com/bennypowers/webc.nvim) - WebC Support for NeoVim
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [ibhagwan/ts-vimdoc.nvim](https://github.com/ibhagwan/ts-vimdoc.nvim) - 
@@ -8658,6 +8663,7 @@
 - [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [kipcd/dotfiles](https://github.com/kipcd/dotfiles) - My dotfiles managed with Stow
 - [TheNerdyHamster/dotfiles](https://github.com/TheNerdyHamster/dotfiles) - Mirror
+- [mhanberg/.dotfiles](https://github.com/mhanberg/.dotfiles) - My dotfiles
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
 - [rbenv/rbenv-installer](https://github.com/rbenv/rbenv-installer) - Installer and doctor scripts for rbenv
 - [arks22/tmuximum](https://github.com/arks22/tmuximum) - A command support tmux
@@ -8742,7 +8748,6 @@
 - [mrossinek/dotfiles](https://github.com/mrossinek/dotfiles) - My dotfiles
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
-- [euclidianAce/dotfiles](https://github.com/euclidianAce/dotfiles) - 
 - [anott03/nvim-lspinstall-scripts](https://github.com/anott03/nvim-lspinstall-scripts) - The scripts used by anott03/nvim-lspinstall
 - [erictleung/dotfiles](https://github.com/erictleung/dotfiles) - :wrench: A repository of my dotfiles to setup my development environments
 - [kevinhwang91/zsh-tmux-capture](https://github.com/kevinhwang91/zsh-tmux-capture) - Tmux capture content for zsh quickly.
@@ -9170,6 +9175,7 @@
 
 ## TypeScript 
 
+- [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell langauge  🐠
 - [f4exb/sdrangelcli](https://github.com/f4exb/sdrangelcli) - Browser based client application for SDRangel in remote mode
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [wokwi/good-arduino-code](https://github.com/wokwi/good-arduino-code) - Frontend for goodarduinocode.com - A curated collection of Arduino coding examples
@@ -9344,6 +9350,8 @@
 
 ## Vim Script 
 
+- [Luxed/ayu-vim](https://github.com/Luxed/ayu-vim) - Modern theme for modern VIMs
+- [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 - [girishji/ngram-complete.vim](https://github.com/girishji/ngram-complete.vim) - Autocompletion based on frequency of word occurrence in English corpus.
 - [girishji/vsnip-complete.vim](https://github.com/girishji/vsnip-complete.vim) - Snippets Autocompletion for Vimcomplete.
 - [girishji/omnifunc-complete.vim](https://github.com/girishji/omnifunc-complete.vim) - Autocompletion source of builtin omnifunc for Vimcomplete plugin.
