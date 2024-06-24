@@ -2577,6 +2577,7 @@
 - [stanhe/pop-eshell](https://github.com/stanhe/pop-eshell) - bottom-terminal like intellij idea and full-terminal for multi windows.
 - [DaoHuyTuan/Emacs-Init](https://github.com/DaoHuyTuan/Emacs-Init) - My Emacs Config file
 - [DaoHuyTuan/dotfiles](https://github.com/DaoHuyTuan/dotfiles) - my dot file
+- [g6ai/dotfiles](https://github.com/g6ai/dotfiles) - My dotfiles for Bash/Zsh, Vim/Neovim, Doom Emacs, tmux, Git, terminal emulators, JupyterLab, aria2, mpv, Nix and Homebrew
 - [weirdNox/org-noter](https://github.com/weirdNox/org-noter) - Emacs document annotator, using Org-mode
 - [rajcspsg/.doom.d](https://github.com/rajcspsg/.doom.d) - 
 - [rajcspsg/emacs.d](https://github.com/rajcspsg/emacs.d) - 
@@ -4225,6 +4226,7 @@
 
 ## Lua 
 
+- [freddiehaddad/nvim](https://github.com/freddiehaddad/nvim) - Neovim configuration from scratch
 - [nvimtools/none-ls-extras.nvim](https://github.com/nvimtools/none-ls-extras.nvim) - Extra sources for none-ls.nvim. Not extensively tested, may be prone to break.
 - [nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus
 - [RutaTang/spectacle.nvim](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
@@ -8706,7 +8708,6 @@
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
 - [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - A clean and fast Bash prompt
-- [g6ai/dotfiles](https://github.com/g6ai/dotfiles) - My dotfiles for Bash/Zsh, Vim/Neovim, Doom Emacs, tmux, Git, terminal emulators, JupyterLab, aria2, mpv, Nix and Homebrew
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [ecosse3/dotfiles](https://github.com/ecosse3/dotfiles) - Dotfiles for my awesomewm/i3 Arch setup & neovim
@@ -9362,6 +9363,11 @@
 
 ## Vim Script 
 
+- [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) - The Vim motion you've always wanted.
+- [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) - More accurate f, F, t, T navigation in Vim.
+- [girishji/vimbits](https://github.com/girishji/vimbits) - Curated Suite of Lightweight Vim Plugins.
+- [girishji/scope.vim](https://github.com/girishji/scope.vim) - Minimal, fast, and extensible fuzzy finder.
+- [girishji/devdocs.vim](https://github.com/girishji/devdocs.vim) - Lookup  API documentation from devdocs.io without leaving Vim.
 - [Luxed/ayu-vim](https://github.com/Luxed/ayu-vim) - Modern theme for modern VIMs
 - [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 - [girishji/ngram-complete.vim](https://github.com/girishji/ngram-complete.vim) - Autocompletion based on frequency of word occurrence in English corpus.
