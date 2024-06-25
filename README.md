@@ -2758,7 +2758,6 @@
 - [overvale/dotfiles](https://github.com/overvale/dotfiles) - CLI, Emacs, Hammerspoon
 - [Parveshdhull/sublima](https://github.com/Parveshdhull/sublima) - Sublime like scratches for emacs
 - [anwyn/slime-company](https://github.com/anwyn/slime-company) - Company-mode completion backend for Slime.
-- [daniel-grumberg/dotfiles-old](https://github.com/daniel-grumberg/dotfiles-old) - 
 - [zevlg/ellit-org.el](https://github.com/zevlg/ellit-org.el) - Emacs Lisp Literate programming tool
 - [emacs-lsp/lsp-docker](https://github.com/emacs-lsp/lsp-docker) - Scripts and configurations to leverage lsp-mode in docker environment
 - [bmag/emacs-purpose](https://github.com/bmag/emacs-purpose) - Manage Windows and Buffers According to Purposes
@@ -7233,7 +7232,7 @@
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Gabirel/Hack-SpaceVim](https://github.com/Gabirel/Hack-SpaceVim) - 🚀 Tell you how to hack SpaceVim. Be useful. Try Discussions!
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [drakulavich/russian-sublime-cheatsheet](https://github.com/drakulavich/russian-sublime-cheatsheet) - PDF-шпаргалка по клавиатурным сочетаниям Sublime Text
 - [noct/sublime-cpp11](https://github.com/noct/sublime-cpp11) - Replacement self-contained C++11 syntax definition for Sublime Text
 - [luarocks/lua-style-guide](https://github.com/luarocks/lua-style-guide) - Lua Style Guide, as used by LuaRocks
@@ -9150,7 +9149,7 @@
 
 - [SwiftyLinkerKit/SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
-- [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
+- [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 
 ## TSQL 
