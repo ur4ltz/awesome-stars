@@ -70,7 +70,6 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nu](#nu)
-- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-J](#objective-j)
@@ -421,7 +420,6 @@
 - [murtaza-u/devoidwm](https://github.com/murtaza-u/devoidwm) - A simple X11 window manager
 - [alecthomas/ondir](https://github.com/alecthomas/ondir) - OnDir is a small program to automate tasks specific to certain directories
 - [Phantas0s/the_valuable_dev_companion](https://github.com/Phantas0s/the_valuable_dev_companion) - Some useful files for my blog, The Valuable Dev
-- [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [rogerclarkmelbourne/STM32duino-bootloader](https://github.com/rogerclarkmelbourne/STM32duino-bootloader) - Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE
 - [rogerclarkmelbourne/Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32) - Arduino STM32. Hardware files to support STM32 boards, on Arduino IDE 1.8.x including LeafLabs Maple and other generic STM32F103 boards
 - [doums/dwm](https://github.com/doums/dwm) - My dwm custom build
@@ -3913,6 +3911,7 @@
 - [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
 - [nvim-neorg/tree-sitter-norg2](https://github.com/nvim-neorg/tree-sitter-norg2) - Attempt at a second generation parser for the Norg format.
 - [gurnec/removeddit](https://github.com/gurnec/removeddit) - View deleted stuff from reddit
+- [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [remy/remysharp.com](https://github.com/remy/remysharp.com) - My b:log and all its content in plain (unabashed) text
 - [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
@@ -4225,6 +4224,7 @@
 
 ## Lua 
 
+- [mrded/nvim-lsp-notify](https://github.com/mrded/nvim-lsp-notify) - NVIM plugin to notify about LSP processes
 - [freddiehaddad/nvim](https://github.com/freddiehaddad/nvim) - Neovim configuration from scratch
 - [nvimtools/none-ls-extras.nvim](https://github.com/nvimtools/none-ls-extras.nvim) - Extra sources for none-ls.nvim. Not extensively tested, may be prone to break.
 - [nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim) - Create custom submodes and menus
@@ -4500,7 +4500,7 @@
 - [fgheng/vimelua](https://github.com/fgheng/vimelua) - vimelua, an easy and structural config writtern by lua for neovim users
 - [evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim) - A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.
 - [evesdropper/dotfiles](https://github.com/evesdropper/dotfiles) - dotfiles but updated, ft LuaSnip Guide + LaTeX snippets
-- [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua!
+- [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
 - [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [mfussenegger/nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) - Pickers for vim.ui.select
@@ -5861,6 +5861,7 @@
 - [oberblastmeister/termwrapper.nvim](https://github.com/oberblastmeister/termwrapper.nvim) - lua wrapper for neovim terminal
 - [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
+- [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
@@ -5917,7 +5918,7 @@
 - [rmagatti/session-lens](https://github.com/rmagatti/session-lens) - A session-switcher extension for rmagatti/auto-session using Telescope.nvim
 - [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) - Bringing emacs' greatest feature to neovim - Tetris!
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for modern Neovim.
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
@@ -6794,10 +6795,6 @@
 ## Nu 
 
 - [yshui/.files](https://github.com/yshui/.files) - Linux configuration
-
-## Nushell 
-
-- [euclidianAce/dotfiles](https://github.com/euclidianAce/dotfiles) - 
 
 ## OCaml 
 
@@ -8209,6 +8206,7 @@
 
 ## Rust 
 
+- [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dotcypress/ula](https://github.com/dotcypress/ula) - μLA: Micro Logic Analyzer for RP2040
@@ -8694,7 +8692,6 @@
 - [hijadelaluuna/linuxbrew](https://github.com/hijadelaluuna/linuxbrew) - 
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
 - [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - 🗃️ Sensible Defaults of My Computer
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
@@ -10676,6 +10673,7 @@
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [euclidianAce/dotfiles](https://github.com/euclidianAce/dotfiles) - 
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
 ## jq 
