@@ -3043,6 +3043,7 @@
 - [danielmartin/regexp-expand](https://github.com/danielmartin/regexp-expand) - Show the ELisp regular expression at point in rx form.
 - [0pendev/dotfiles](https://github.com/0pendev/dotfiles) - Just my dotfiles
 - [georgek/magit-pretty-graph](https://github.com/georgek/magit-pretty-graph) - A prettier graph for magit drawn in emacs
+- [dhruvasagar/dotfiles](https://github.com/dhruvasagar/dotfiles) - The single dot that has it all.
 - [Ruin0x11/realgud-mobdebug](https://github.com/Ruin0x11/realgud-mobdebug) - 
 - [rakshasa/ibuffer-persp](https://github.com/rakshasa/ibuffer-persp) - Let Emacs' ibuffer-mode group files by persp-mode's perspectives.
 - [chrisbarrett/.emacs.d](https://github.com/chrisbarrett/.emacs.d) - My personal Emacs configuration.
@@ -4224,6 +4225,7 @@
 
 ## Lua 
 
+- [rmagatti/logger.nvim](https://github.com/rmagatti/logger.nvim) - A Neovim logger for plugin authors
 - [mrded/nvim-lsp-notify](https://github.com/mrded/nvim-lsp-notify) - NVIM plugin to notify about LSP processes
 - [freddiehaddad/nvim](https://github.com/freddiehaddad/nvim) - Neovim configuration from scratch
 - [nvimtools/none-ls-extras.nvim](https://github.com/nvimtools/none-ls-extras.nvim) - Extra sources for none-ls.nvim. Not extensively tested, may be prone to break.
@@ -6502,7 +6504,6 @@
 - [actboy168/luamake](https://github.com/actboy168/luamake) - 
 - [pixeljetstream/zbstudio-graphicscodepack](https://github.com/pixeljetstream/zbstudio-graphicscodepack) - A package for ZeroBraneStudio to aid graphics programming in Lua (OpenGL, Vulkan etc.)
 - [actboy168/lua-debug](https://github.com/actboy168/lua-debug) - Lua Debug Adapter for Visual Studio Code
-- [EmmyLua/VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode
 - [starius/harb-lapis](https://github.com/starius/harb-lapis) - dot diagrams for apache, nginx and lapis
 - [evgkul/moonscript-opencomputers](https://github.com/evgkul/moonscript-opencomputers) - Just a port of moonscript for opencomputers
 - [mattikus/dotfiles](https://github.com/mattikus/dotfiles) - My dotfiles
@@ -8991,7 +8992,7 @@
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [rickysaurav/dotfiles](https://github.com/rickysaurav/dotfiles) - 
 - [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-- [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Neovim & Tmux dotfiles
+- [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Vim & Tmux dotfiles
 - [tkabber/Tkabber-pack](https://github.com/tkabber/Tkabber-pack) - Tkabber distribution for Windows
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
 - [Twanislas/AutoPVR](https://github.com/Twanislas/AutoPVR) - Fully automated PVR with Plex, Sonarr, qBittorrent and Jackett
@@ -9327,6 +9328,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [kingsoftgames/vscode-luacheck](https://github.com/kingsoftgames/vscode-luacheck) - Luacheck for Visual Studio Code
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
+- [EmmyLua/VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode
 - [trixnz/vscode-lua](https://github.com/trixnz/vscode-lua) - Intellisense and Linting for Lua in VSCode
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [ASDAlexander77/TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) - The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for LUA bytecode
@@ -9358,6 +9360,7 @@
 
 ## Vim Script 
 
+- [stsewd/gx-extended.vim](https://github.com/stsewd/gx-extended.vim) - Extend gx to use it beyond just URLs!
 - [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) - The Vim motion you've always wanted.
 - [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) - More accurate f, F, t, T navigation in Vim.
 - [girishji/vimbits](https://github.com/girishji/vimbits) - Curated Suite of Lightweight Vim Plugins.
@@ -9374,7 +9377,7 @@
 - [girishji/pythondoc.vim](https://github.com/girishji/pythondoc.vim) - Python API documentation for Vim and Neovim
 - [vim-scripts/a.vim](https://github.com/vim-scripts/a.vim) - Alternate Files quickly (.c --&gt; .h etc)
 - [ton/vim-alternate](https://github.com/ton/vim-alternate) - Quickly switch between alternate files in Vim, similar to a.vim, but more flexible
-- [girishji/autosuggest.vim](https://github.com/girishji/autosuggest.vim) - Autocompletion for Vim's command line.
+- [girishji/autosuggest.vim](https://github.com/girishji/autosuggest.vim) - Autocompletion for Vim's command-line.
 - [nvimdev/nightsky.vim](https://github.com/nvimdev/nightsky.vim) - a minimal vim/neovim colorscheme
 - [girishji/vimcomplete](https://github.com/girishji/vimcomplete) - Async autocompletion for Vim.
 - [inkarkat/vim-UnconditionalPaste](https://github.com/inkarkat/vim-UnconditionalPaste) - Force character-/line-/block-wise paste, regardless of how it was yanked.
@@ -9990,12 +9993,11 @@
 - [cdelledonne/vim-cmake](https://github.com/cdelledonne/vim-cmake) - Vim/Neovim plugin for working with CMake projects
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [darthfork/dotfiles](https://github.com/darthfork/dotfiles) - Dotfiles
-- [nerdypepper/dotfiles](https://github.com/nerdypepper/dotfiles) - files that define my GNU/Linux box.
-- [nerdypepper/scientifica](https://github.com/nerdypepper/scientifica) - tall, condensed, bitmap font for geeks
+- [oppiliappan/dotfiles](https://github.com/oppiliappan/dotfiles) - files that define my GNU/Linux box.
+- [oppiliappan/scientifica](https://github.com/oppiliappan/scientifica) - tall, condensed, bitmap font for geeks
 - [wincent/pinnacle](https://github.com/wincent/pinnacle) - 🏔 Highlight group manipulation for Vim
 - [wincent/terminus](https://github.com/wincent/terminus) - 🖥 Enhanced terminal integration for Vim
 - [m-pilia/.vim](https://github.com/m-pilia/.vim) - My vim configuration
-- [dhruvasagar/dotfiles](https://github.com/dhruvasagar/dotfiles) - The single dot that has it all.
 - [neitanod/vim-clevertab](https://github.com/neitanod/vim-clevertab) - Tiny replacement for Supertab that DOES do what I need.
 - [jeffkreeftmeijer/vim-dim](https://github.com/jeffkreeftmeijer/vim-dim) - Dim (/dɪm/; a contraction of Default IMproved) is a clone of Vim’s default colorscheme, with some improvements.
 - [maciejzj/vim-theme](https://github.com/maciejzj/vim-theme) - My Vim color scheme.
@@ -10400,7 +10402,7 @@
 - [fisadev/fisa-nvim-config](https://github.com/fisadev/fisa-nvim-config) - my neovim configuration (lot of python, autocompletion, fuzzy finder, etc, ...)
 - [fisadev/fisa-vim-config](https://github.com/fisadev/fisa-vim-config) - my vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...)
 - [edkolev/tmuxline.vim](https://github.com/edkolev/tmuxline.vim) - Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [lyuts/vim-rtags](https://github.com/lyuts/vim-rtags) - Vim bindings for rtags, llvm/clang based c++ code indexer.
 - [cocopon/vaffle.vim](https://github.com/cocopon/vaffle.vim) - :file_folder: Lightweight, window-based file manager for Vim
 - [jeffkreeftmeijer/vim-numbertoggle](https://github.com/jeffkreeftmeijer/vim-numbertoggle) - Toggles between hybrid and absolute line numbers automatically
