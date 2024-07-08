@@ -2255,7 +2255,7 @@
 - [doopath/doodots](https://github.com/doopath/doodots) - My dotfiles
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
-- [bru74lw1z4rd/DotFiles](https://github.com/bru74lw1z4rd/DotFiles) - Just a save place for my dotfiles
+- [n1flh31mur/DotFiles](https://github.com/n1flh31mur/DotFiles) - Just a save place for my dotfiles
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [editor-bootstrap/emacs-bootstrap](https://github.com/editor-bootstrap/emacs-bootstrap) - Your on-the-fly Emacs development environment.
 - [Etiene/lua.space](https://github.com/Etiene/lua.space) - The Lua Community Blog
@@ -5972,7 +5972,7 @@
 - [jose-elias-alvarez/nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 - [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
 - [bfredl/nvim-miniluv](https://github.com/bfredl/nvim-miniluv) - 
-- [dhruvmanila/dotfiles](https://github.com/dhruvmanila/dotfiles) - My dotfiles for zsh, neovim (completely configured in lua), kitty and macOS
+- [dhruvmanila/dotfiles](https://github.com/dhruvmanila/dotfiles) - Home is where the heart is
 - [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
 - [wfxr/awm.config](https://github.com/wfxr/awm.config) - 
 - [ellisonleao/criando-plugins-lua-neovim](https://github.com/ellisonleao/criando-plugins-lua-neovim) - Códigos fonte para a série "Criando plugins Lua para Neovim"
@@ -7635,6 +7635,7 @@
 - [mkcms/maildirwatch](https://github.com/mkcms/maildirwatch) - Watch Maildir for new email and display notifications
 - [openSUSE/obs-service-format_spec_file](https://github.com/openSUSE/obs-service-format_spec_file) - An OBS source service: reformats a spec file to SUSE standard
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [micbou/vim-tools](https://github.com/micbou/vim-tools) - Python scripts that make it easier (for me) to publish Vim plug-ins
 - [xolox/vim-tools](https://github.com/xolox/vim-tools) - Python scripts that make it easier (for me) to publish Vim plug-ins
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -7651,7 +7652,7 @@
 - [MakotoKurauchi/helix](https://github.com/MakotoKurauchi/helix) - A compact split ortholinear keyboard.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
-- [bru74lw1z4rd/i3-simple-weather](https://github.com/bru74lw1z4rd/i3-simple-weather) - Python script for i3bar/polybar and other bars that supports python scripts.
+- [n1flh31mur/i3-simple-weather](https://github.com/n1flh31mur/i3-simple-weather) - Python script for i3bar/polybar and other bars that supports python scripts.
 - [Abstract-IDE/lazy-builder](https://github.com/Abstract-IDE/lazy-builder) - python script for running or compiling program (of programming language) in vim/neo-vim
 - [rabbitvcs/rabbitvcs](https://github.com/rabbitvcs/rabbitvcs) - The new home of rabbitvcs
 - [SublimeText/PackageDev](https://github.com/SublimeText/PackageDev) - Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.
@@ -8131,7 +8132,6 @@
 - [kwerle/ruby_language_server](https://github.com/kwerle/ruby_language_server) - Language Server implementation in Ruby for Ruby.  Development happens on the develop branch.  Production is master.
 - [wfxr/emoji-cli](https://github.com/wfxr/emoji-cli) - 
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [mcmire/dotfiles-manager](https://github.com/mcmire/dotfiles-manager) - Manage your dotfiles with this one simple tool
 - [mcmire/super_diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [felipec/dotfiles](https://github.com/felipec/dotfiles) - My config files
@@ -9979,7 +9979,7 @@
 - [iamcco/statusline.vim](https://github.com/iamcco/statusline.vim) - 
 - [agilecreativity/dotvim](https://github.com/agilecreativity/dotvim) - 
 - [voldikss/vim-browser-search](https://github.com/voldikss/vim-browser-search) - :cyclone: Perform a quick web search for the text selected in (Neo)Vim
-- [Lenovsky/nuake](https://github.com/Lenovsky/nuake) - A Quake-style terminal panel for Neovim and Vim
+- [L3N76/nuake](https://github.com/L3N76/nuake) - A Quake-style terminal panel for Neovim and Vim
 - [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [jez/vim-superman](https://github.com/jez/vim-superman) - Read Unix man pages faster than a speeding bullet!
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
