@@ -220,6 +220,10 @@
 
 ## C 
 
+- [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore) - Arduino core for the tinyAVR 0/1/2-series - Ones's digit 2,4,5,7 (pincount, 8,14,20,24), tens digit 0, 1, or 2 (featureset), preceded by flash in kb. Library maintainers: porting help available!
+- [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8
+- [SpenceKonde/DxCore](https://github.com/SpenceKonde/DxCore) - Arduino core for AVR DA, DB, DD, EA and future DU-series parts - Microchip's latest and greatest AVRs. Library maintainers: Porting help and adviccee is available.
+- [kronenpj/kiss-avraprs](https://github.com/kronenpj/kiss-avraprs) - APRS Kiss TNC for ATMega328-based Microcontrollers
 - [tremaru/iarduino_Encoder_tmr](https://github.com/tremaru/iarduino_Encoder_tmr) - 
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [mobilinkd/uv-k5-firmware-custom](https://github.com/mobilinkd/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
@@ -1199,6 +1203,23 @@
 
 ## C++ 
 
+- [prt459/Simple_CW_keyer](https://github.com/prt459/Simple_CW_keyer) - Basic CW keyer for Arduino
+- [prt459/Digichirp](https://github.com/prt459/Digichirp) - Simple CW keyer and beacon with simulated chirp and drift, for nostalgia!
+- [prt459/SWR_Power_Monitor](https://github.com/prt459/SWR_Power_Monitor) - A simple SWR and power monitor, intended for an Arduino Nano and directional coupler built into an AM transmitter.
+- [prt459/si5351SigGen](https://github.com/prt459/si5351SigGen) - A basic 3-channel DC-160MHz RF Signal Generator using an Arduino Nano and si5351
+- [SpenceKonde/AVR-Guidance](https://github.com/SpenceKonde/AVR-Guidance) - A guide to best practices when using the Arduino IDE to program AVR microcontrollers
+- [k3ng/k3ng_antenna_tuner](https://github.com/k3ng/k3ng_antenna_tuner) - Arduino-based Automatic Amateur Radio Antenna Tuner
+- [FaBoPlatform/FaBoLCD-PCF8574-Library](https://github.com/FaBoPlatform/FaBoLCD-PCF8574-Library) - 
+- [FaBoPlatform/FaBo](https://github.com/FaBoPlatform/FaBo) - 
+- [PU2REO/Si5351ArduinoLite](https://github.com/PU2REO/Si5351ArduinoLite) - Library for the Si5351A (10 MSOP - 3 Clocks Only) clock generator IC in the Arduino environment , based on NT7S library.
+- [gmtii/teensySDR](https://github.com/gmtii/teensySDR) - Teensy SDR Convolution fronm DD4WH with msi001 support added
+- [gcrcien/Radio-de-conversion-directa](https://github.com/gcrcien/Radio-de-conversion-directa) - Proyecto sencillo de un radio de conversion directa con arduino y Si5351
+- [gcrcien/ardu_IQ](https://github.com/gcrcien/ardu_IQ) - IQ Receiver for sdr
+- [gcrcien/STM32_VFO](https://github.com/gcrcien/STM32_VFO) - VFO for si5351, stm32 and ili9341 2.8" spi tft
+- [sv1onw/Filter_soft_switch](https://github.com/sv1onw/Filter_soft_switch) - Arduino single button soft switch for relay board control
+- [sv1onw/si5351a-gen](https://github.com/sv1onw/si5351a-gen) - Si5351A based Frequency Generator
+- [sv1onw/Si5351_OLED_DFS_CW](https://github.com/sv1onw/Si5351_OLED_DFS_CW) - Modified version of Si5351_OLED_DFS for simple CW TX use or DC receiver.
+- [sv1onw/Si5351_OLED_DFS](https://github.com/sv1onw/Si5351_OLED_DFS) - Very minimalistic 20meter transceiver Digital Frequency Synthesizer with 0.96 or 1.3 inch 128x64 OLED Display for Ham-radio use
 - [enjoyneering/RotaryEncoder](https://github.com/enjoyneering/RotaryEncoder) - This is small and fast Arduino library for Rotary Encoder with interrupts.
 - [duinoWitchery/hd44780](https://github.com/duinoWitchery/hd44780) - Extensible hd44780 LCD library
 - [ON4QZ/QSSTV](https://github.com/ON4QZ/QSSTV) - Receive and transmit images over radio using analog SSTV or digital DRM
@@ -1930,7 +1951,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -4046,7 +4067,6 @@
 - [silverwind/updates](https://github.com/silverwind/updates) - Flexible npm and poetry dependency update tool
 - [despin/qbittorrent-webui-react](https://github.com/despin/qbittorrent-webui-react) - A custom WebUI to qBitTorrent torrent client. Written in JS and React. (Intended) Material Design compliant
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [GitbookIO/gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook's command line interface
 - [fengari-lua/fengari-interop](https://github.com/fengari-lua/fengari-interop) - Fengari &lt;=&gt; JS Interop
@@ -4399,7 +4419,7 @@
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) - 
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [Dich0tomy/snowstorm](https://github.com/Dich0tomy/snowstorm) - 
-- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI]
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [tomiis4/hypersonic.nvim](https://github.com/tomiis4/hypersonic.nvim) - A Neovim plugin that provides an explanation for regular expressions.
 - [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) - A multi cursor plugin for Neovim.
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
@@ -4885,7 +4905,7 @@
 - [n-shift/wordle.nvim](https://github.com/n-shift/wordle.nvim) - 
 - [n-shift/sage.nvim](https://github.com/n-shift/sage.nvim) - 
 - [n-shift/scratch.nvim](https://github.com/n-shift/scratch.nvim) - 
-- [n-shift/nvim](https://github.com/n-shift/nvim) - 
+- [n-shift/thesis](https://github.com/n-shift/thesis) - 
 - [0oAstro/silicon.lua](https://github.com/0oAstro/silicon.lua) - Beautiful code snippet images right in the most epic editor :chef_kiss:
 - [mrcjkb/nvim-minimal-packer](https://github.com/mrcjkb/nvim-minimal-packer) - Minimal NeoVim config with packer (for reproducing plugin behaviour)
 - [mrcjkb/telescope-manix](https://github.com/mrcjkb/telescope-manix) - A telescope.nvim extension for Manix - A fast documentation searcher for Nix
@@ -5758,7 +5778,6 @@
 - [nanotee/sqls.nvim](https://github.com/nanotee/sqls.nvim) - Neovim plugin for sqls that leverages the built-in LSP client
 - [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) - Easily follow markdown links with this neovim plugin
 - [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) - This neovim plugin creates missing folders on save.
-- [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) - A neovim plugin leveraging pandoc to help you convert your markdown files. It takes pandoc options from yaml blocks.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
 - [pocco81/dap-buddy.nvim](https://github.com/pocco81/dap-buddy.nvim) - 🐞 Debug Adapter Protocol manager for Neovim
 - [RRethy/dotfiles](https://github.com/RRethy/dotfiles) - My dotfiles: neovim, git, zsh, kitty
@@ -6789,6 +6808,7 @@
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
 - [aserowy/dots](https://github.com/aserowy/dots) - dotfiles
+- [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) - Use pandoc to convert markdown files according to options from a yaml block
 - [xFA25E/nix-config](https://github.com/xFA25E/nix-config) - dotfiles
 - [b3nj5m1n/serverdots](https://github.com/b3nj5m1n/serverdots) - 
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
@@ -6836,6 +6856,7 @@
 
 ## Others 
 
+- [prt459/VFO_Controller_for_Base_Transmitter](https://github.com/prt459/VFO_Controller_for_Base_Transmitter) - An Arduino and si5351 VFO and Controller, designed for an AM transmitter, suitable for other base transmitters/transceivers.
 - [afiskon/kicad-symbols-and-footprints](https://github.com/afiskon/kicad-symbols-and-footprints) - Custom KiCad symbols and footprints
 - [RSZ-Nld/VFO-1.8-Inch-Retro-scale](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale) - 
 - [garymcm/wsprnet_api](https://github.com/garymcm/wsprnet_api) - 
@@ -7170,6 +7191,7 @@
 - [xteve-project/xTeVe-Documentation](https://github.com/xteve-project/xTeVe-Documentation) - 
 - [hengestone/lua-languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua
 - [AdguardTeam/AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [SofianeHamlaoui/Awesome-Arch](https://github.com/SofianeHamlaoui/Awesome-Arch) - A curated list of awesome Arch-related projects,softwares and resources.
 - [adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB](https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB) - PCB files for the Adafruit Si5351A Clock Generator Breakout
 - [adafruit/Fritzing-Library](https://github.com/adafruit/Fritzing-Library) - Adafruit parts, components, breakouts, etc...in Fritzable format!
@@ -7393,6 +7415,7 @@
 
 ## Python 
 
+- [n2iw/cat-relay](https://github.com/n2iw/cat-relay) - 
 - [hangyav/textLSP](https://github.com/hangyav/textLSP) - Language server for text spell and grammar check with various tools.
 - [silenty4ng/K5_Tools](https://github.com/silenty4ng/K5_Tools) - 
 - [hank9999/K5_Tools](https://github.com/hank9999/K5_Tools) - Quanshang UV-K5/K6 Tool Collection
@@ -8109,6 +8132,7 @@
 
 ## Ruby 
 
+- [cho45/NanoVNA-manual](https://github.com/cho45/NanoVNA-manual) - 
 - [maxbrunsfeld/vim-yankstack](https://github.com/maxbrunsfeld/vim-yankstack) - A lightweight implementation of emacs's kill-ring for vim
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 - [ruby/syntax_suggest](https://github.com/ruby/syntax_suggest) - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
