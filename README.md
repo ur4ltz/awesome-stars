@@ -1203,6 +1203,10 @@
 
 ## C++ 
 
+- [kk4das/VWS-Direct-Conversion-Receiver](https://github.com/kk4das/VWS-Direct-Conversion-Receiver) - HF Direct Conversion Receiver project from the Vienna Wireless Society Makers
+- [kk4das/SSB_Radio_Control](https://github.com/kk4das/SSB_Radio_Control) - Amateur Radio Single Sideband Transceiver Controller for Arduino and SI5351 Clock generator.  Includes Dual VFO, single or double band support for 20 and 40 meter bands,  CAT control, optional S-meter
+- [locple/LCDI2C_Multilingual](https://github.com/locple/LCDI2C_Multilingual) - Arduino library for printing multi-lingual UTF8 strings (French, Spanish, Finnish, Russian, Vietnamese, Katakana, etc.) to LCD1602, LCD2004, LCD0801, etc. via I2C.
+- [locple/LiquidCrystal_I2C_UTF8](https://github.com/locple/LiquidCrystal_I2C_UTF8) - Arduino library extended from LiquidCrystal_I2C to print UTF-8 strings (Vietnamese, Russian) to LCDs
 - [prt459/Simple_CW_keyer](https://github.com/prt459/Simple_CW_keyer) - Basic CW keyer for Arduino
 - [prt459/Digichirp](https://github.com/prt459/Digichirp) - Simple CW keyer and beacon with simulated chirp and drift, for nostalgia!
 - [prt459/SWR_Power_Monitor](https://github.com/prt459/SWR_Power_Monitor) - A simple SWR and power monitor, intended for an Arduino Nano and directional coupler built into an AM transmitter.
@@ -7013,7 +7017,7 @@
 - [luvit/awesome-luvit](https://github.com/luvit/awesome-luvit) - A curated list of awesome Luvit frameworks, libraries and software
 - [prabirshrestha/vsnip-snippets](https://github.com/prabirshrestha/vsnip-snippets) - My snippets for https://github.com/hrsh7th/vim-vsnip
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-- [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
+- [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [enkia/enki-theme](https://github.com/enkia/enki-theme) - Enki Theme - A dark theme for Sublime Text
 - [danyspin97/TelegramBotsList](https://github.com/danyspin97/TelegramBotsList) - A list of all Telegram bots source hosted on github.
 - [Wscats/html-snippets](https://github.com/Wscats/html-snippets) - Full HTML tags including HTML5 Snippets.
@@ -7415,6 +7419,7 @@
 
 ## Python 
 
+- [mbridak/not1mm](https://github.com/mbridak/not1mm) - Not1MM != N1MM, An amateur radio contest logger for Linux.
 - [n2iw/cat-relay](https://github.com/n2iw/cat-relay) - 
 - [hangyav/textLSP](https://github.com/hangyav/textLSP) - Language server for text spell and grammar check with various tools.
 - [silenty4ng/K5_Tools](https://github.com/silenty4ng/K5_Tools) - 
