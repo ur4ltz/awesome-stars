@@ -4156,6 +4156,7 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -4258,6 +4259,7 @@
 
 ## Lua 
 
+- [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [vigoux/ltex-ls.nvim](https://github.com/vigoux/ltex-ls.nvim) - Enhanced integration of ltex-ls for neovim
 - [rmagatti/logger.nvim](https://github.com/rmagatti/logger.nvim) - A Neovim logger for plugin authors
 - [mrded/nvim-lsp-notify](https://github.com/mrded/nvim-lsp-notify) - NVIM plugin to notify about LSP processes
@@ -7342,6 +7344,8 @@
 
 ## Pascal 
 
+- [ok2cqr/cqrlog](https://github.com/ok2cqr/cqrlog) - Linux logging program for amateur radio operators
+- [ok2cqr/cqrprop](https://github.com/ok2cqr/cqrprop) - Shows propagation data provided by Paul, N0NBH on a Linux desktop
 - [VE3NEA/OmniRig](https://github.com/VE3NEA/OmniRig) - 
 - [wp-xyz/Hex](https://github.com/wp-xyz/Hex) - Hex editor designed for analyzing binary files.
 - [ccrause/fpc-avr](https://github.com/ccrause/fpc-avr) - Free pascal AVR microcontroller projects
@@ -9375,7 +9379,6 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
@@ -10113,7 +10116,7 @@
 - [gf3/molotov](https://github.com/gf3/molotov) - The exciting colour scheme that will make you code good™
 - [tjdevries/learn_your_vim](https://github.com/tjdevries/learn_your_vim) - Tool to generate Anki Cards for you Vim Configuration
 - [tjdevries/overlength.vim](https://github.com/tjdevries/overlength.vim) - Highlight when lines go over the length that you want them.
-- [phongnh/my-foldtext.vim](https://github.com/phongnh/my-foldtext.vim) - Vim Fold Text
+- [phongnh/foldtext.vim](https://github.com/phongnh/foldtext.vim) - Vim Fold Text
 - [phongnh/vim-cursor-settings](https://github.com/phongnh/vim-cursor-settings) - Set cursor settings for iTerm.app, Kitty and Alacritty terminals
 - [phongnh/zero.vim](https://github.com/phongnh/zero.vim) - My Vim helpers
 - [phongnh/fzf-settings.vim](https://github.com/phongnh/fzf-settings.vim) - My fzf settings
