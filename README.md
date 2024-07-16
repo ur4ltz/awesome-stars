@@ -1449,10 +1449,10 @@
 - [JChristensen/JC_EEPROM](https://github.com/JChristensen/JC_EEPROM) - Arduino library to support external I2C EEPROMs.
 - [Shagrat2/OneWireHub](https://github.com/Shagrat2/OneWireHub) - Arduino OneWire slave device emulator
 - [RobTillaart/AM232X](https://github.com/RobTillaart/AM232X) - Arduino library for AM2320 AM2321 and AM2323 I2C temperature and humidity sensor
-- [RobTillaart/Adler](https://github.com/RobTillaart/Adler) - Arduino Library for Adler-32 and Adler-16 checksum
+- [RobTillaart/Adler](https://github.com/RobTillaart/Adler) - Arduino library for calculating the Adler-32 and Adler-16 checksum.
 - [RobTillaart/Fletcher](https://github.com/RobTillaart/Fletcher) - Arduino Library for calculating Fletcher's checksum
 - [RobTillaart/RAIN](https://github.com/RobTillaart/RAIN) - Arduino library for rain sensor (analog)
-- [RobTillaart/Correlation](https://github.com/RobTillaart/Correlation) - Arduino Library to determine correlation between X and Y dataset
+- [RobTillaart/Correlation](https://github.com/RobTillaart/Correlation) - Arduino library to determine the correlation between X and Y datasets.
 - [RobTillaart/ellipse](https://github.com/RobTillaart/ellipse) - Arduino library with ellipse math
 - [RobTillaart/Optoma](https://github.com/RobTillaart/Optoma) - Arduino library to control an Optoma W305ST beamer over RS232
 - [RobTillaart/AnalogUVSensor](https://github.com/RobTillaart/AnalogUVSensor) - Arduino library for analog UV sensor
@@ -1530,11 +1530,11 @@
 - [RobTillaart/MAX31855_RT](https://github.com/RobTillaart/MAX31855_RT) - Arduino library for MAX31855 chip for K type thermocouple
 - [RobTillaart/ANSI](https://github.com/RobTillaart/ANSI) - Arduino library with basic ANSI display codes for simple terminal apps
 - [RobTillaart/HX711_MP](https://github.com/RobTillaart/HX711_MP) - Arduino library for HX711 24 bit ADC used for load cells with multipoint calibration (MP).
-- [RobTillaart/CountDown](https://github.com/RobTillaart/CountDown) - Arduino Library to implement a CountDown clock (in SW polling, no HW timer).
+- [RobTillaart/CountDown](https://github.com/RobTillaart/CountDown) - Arduino library to implement a countdown clock (in software by polling, no hardware timer).
 - [RobTillaart/statHelpers](https://github.com/RobTillaart/statHelpers) - Arduino library with a number of statistic helper functions.
 - [RobTillaart/SRF05](https://github.com/RobTillaart/SRF05) - Arduino library for SRF05 distance sensor
 - [RobTillaart/MCP_DAC](https://github.com/RobTillaart/MCP_DAC) - Arduino library for MCP_DAC MCP48xx and MCP49xx series SPI-DAC
-- [RobTillaart/AtomicWeight](https://github.com/RobTillaart/AtomicWeight) - Arduino library for atomic weights.
+- [RobTillaart/AtomicWeight](https://github.com/RobTillaart/AtomicWeight) - Arduino library for atomic weights from the periodic table of elements.
 - [RobTillaart/map2colour](https://github.com/RobTillaart/map2colour) - Arduino library for mapping a float to RGB colour spectrum
 - [RobTillaart/LUHN](https://github.com/RobTillaart/LUHN) - Arduino Library for calculating LUHN checksum
 - [RobTillaart/RS485](https://github.com/RobTillaart/RS485) - Arduino library for RS485, half duplex communication
@@ -1574,14 +1574,14 @@
 - [RobTillaart/PulseDivider](https://github.com/RobTillaart/PulseDivider) - Arduino library to divide a pulse stream with a fraction factor.
 - [RobTillaart/AD568X](https://github.com/RobTillaart/AD568X) - Arduino library for AD568X series Digital Analog Convertor. SPI
 - [RobTillaart/AS5600](https://github.com/RobTillaart/AS5600) - Arduino library for AS5600 magnetic rotation meter
-- [RobTillaart/A1301](https://github.com/RobTillaart/A1301) - Arduino library for A1301 A1302 magnetometer.
+- [RobTillaart/A1301](https://github.com/RobTillaart/A1301) - Arduino library for the A1301, A1302 and compatible magnetometers.
 - [RobTillaart/ACS712](https://github.com/RobTillaart/ACS712) - Arduino library for ACS Current Sensor - 5A, 20A, 30A
 - [RobTillaart/AD56X8](https://github.com/RobTillaart/AD56X8) - Arduino library for AD56X8, 8 channel Digital Analog Convertor.
 - [RobTillaart/SHT2x](https://github.com/RobTillaart/SHT2x) - Arduino library for the SHT2x series temperature and humidity sensors including SHT20, 21, 25.
 - [RobTillaart/SHT31](https://github.com/RobTillaart/SHT31) - Arduino library for the SHT31 temperature and humidity sensor
 - [RobTillaart/SHT85](https://github.com/RobTillaart/SHT85) - Arduino library for the SHT85 temperature and humidity sensor
 - [RobTillaart/AD5245](https://github.com/RobTillaart/AD5245) - Arduino library for I2C digital potentiometer AD5245
-- [RobTillaart/AD5246](https://github.com/RobTillaart/AD5246) - Arduino Library for AD5246, I2C 128 step rheostat.
+- [RobTillaart/AD5246](https://github.com/RobTillaart/AD5246) - Arduino library for the AD5246, I2C 128 step rheostat.
 - [RobTillaart/DS28CM00](https://github.com/RobTillaart/DS28CM00) - Arduino library for I2C unique ID ic.  [48 bit]
 - [RobTillaart/CHT8305](https://github.com/RobTillaart/CHT8305) - Arduino library for CHT8305 temperature and humidity sensor
 - [RobTillaart/AD9833](https://github.com/RobTillaart/AD9833) - Arduino library for AD9833 function generator.
@@ -1620,10 +1620,10 @@
 - [RobTillaart/ACD10](https://github.com/RobTillaart/ACD10) - Arduino library for the ACD10 CO2 sensor
 - [RobTillaart/AD5263](https://github.com/RobTillaart/AD5263) - Arduino library for I2C digital potentiometer AD5263 and compatibles.
 - [RobTillaart/AD520X](https://github.com/RobTillaart/AD520X) - Arduino library for SPI AD5204 and AD5206 digital potentiometers
-- [RobTillaart/AM2315](https://github.com/RobTillaart/AM2315) - AM2315 Temperature and Humidity sensor library for Arduino
-- [RobTillaart/AM2315C](https://github.com/RobTillaart/AM2315C) - Arduino library for I2C AM2315C temperature and humidity sensor.
+- [RobTillaart/AM2315](https://github.com/RobTillaart/AM2315) - Arduino library for the I2C AM2315 temperature and humidity sensor.
+- [RobTillaart/AM2315C](https://github.com/RobTillaart/AM2315C) - Arduino library for the I2C AM2315C temperature and humidity sensor.
 - [RobTillaart/ADT7470](https://github.com/RobTillaart/ADT7470) - Arduino library for I2C ADT7470 Fan Monitoring
-- [RobTillaart/I2C_SCANNER](https://github.com/RobTillaart/I2C_SCANNER) - Arduino class to implement an I2C scanner
+- [RobTillaart/I2C_SCANNER](https://github.com/RobTillaart/I2C_SCANNER) - Arduino library to implement an I2C scanner.
 - [ag88/SumpSTM32F401cc](https://github.com/ag88/SumpSTM32F401cc) - SUMP compatible logic analyzer board for STM32duino (steve's libmaple core) - stm32f401cc pill board
 - [MajicDesigns/MD_DS1307](https://github.com/MajicDesigns/MD_DS1307) - DS1307 Real Time Clock Library
 - [Serega88kos/BigClock](https://github.com/Serega88kos/BigClock) - 
@@ -1862,7 +1862,7 @@
 - [RobTillaart/FRAM_I2C](https://github.com/RobTillaart/FRAM_I2C) - Arduino library for I2C FRAM
 - [RobTillaart/FunctionGenerator](https://github.com/RobTillaart/FunctionGenerator) - Arduino library to generate wave forms (nummeric) for a DAC
 - [RobTillaart/I2C_24LC1025](https://github.com/RobTillaart/I2C_24LC1025) - Arduino library for the 24LC1025 I2C EEPROM and equivalent
-- [RobTillaart/I2CKeyPad](https://github.com/RobTillaart/I2CKeyPad) - Arduino libray for 4x4 (or smaller) KeyPad connected to an I2C PCF8574
+- [RobTillaart/I2CKeyPad](https://github.com/RobTillaart/I2CKeyPad) - Arduino library for 4x4 (or smaller) keypad connected to an I2C PCF8574.
 - [RobTillaart/I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM) - Library for I2C EEPROM - 24LC256
 - [RobTillaart/Arduino](https://github.com/RobTillaart/Arduino) - Arduino libraries, code and applications
 - [xlucn/fbterm](https://github.com/xlucn/fbterm) - A personal fork only to keep the patches I need
@@ -3846,6 +3846,7 @@
 
 ## Java 
 
+- [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [xdsopl/robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
 - [priyom/Rivet](https://github.com/priyom/Rivet) - A decoder for various HF data modes
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
@@ -4259,6 +4260,7 @@
 
 ## Lua 
 
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [vigoux/ltex-ls.nvim](https://github.com/vigoux/ltex-ls.nvim) - Enhanced integration of ltex-ls for neovim
 - [rmagatti/logger.nvim](https://github.com/rmagatti/logger.nvim) - A Neovim logger for plugin authors
@@ -4395,7 +4397,6 @@
 - [fazibear/cmp-nerdfonts](https://github.com/fazibear/cmp-nerdfonts) - nvim-cmp source for nerdfonts.
 - [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai) - 
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
-- [mg979/tabline.nvim](https://github.com/mg979/tabline.nvim) - 
 - [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim) - Plugin to open LazyDocker without quiting neovim
 - [fabius/molokai.nvim](https://github.com/fabius/molokai.nvim) - 
 - [dorrajmachai/nvim](https://github.com/dorrajmachai/nvim) - My Neovim configuration
@@ -4495,7 +4496,6 @@
 - [echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
 - [MaximilianLloyd/lazy-reload.nvim](https://github.com/MaximilianLloyd/lazy-reload.nvim) - A small utility for lazy.nvim to reload plugins.
 - [atusy/leap-search.nvim](https://github.com/atusy/leap-search.nvim) - 
-- [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
 - [ivan386/mag-maker](https://github.com/ivan386/mag-maker) - The script was originally written for use with the RHash program. He translated Sha1 hash from HEX to Base32 and collected a universal magnet from the hash link. Now the script has grown a bit.
 - [ivan386/lua-http-proxy](https://github.com/ivan386/lua-http-proxy) - proxy and url tester
 - [ivan386/lua-compact-variable-length-unsigned-integer](https://github.com/ivan386/lua-compact-variable-length-unsigned-integer) - compact variable length unsigned integer encoder/decoder in lua
@@ -4746,7 +4746,6 @@
 - [igorgue/danger](https://github.com/igorgue/danger) - danger VIM colorscheme
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
 - [bennypowers/splitjoin.nvim](https://github.com/bennypowers/splitjoin.nvim) - 🪓🧷 Split or join list-like syntax constructs
-- [mg979/vim.ui.popup](https://github.com/mg979/vim.ui.popup) - Popup module for nvim.
 - [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim
 - [NvChad/base46](https://github.com/NvChad/base46) - NvChad's base46 theme plugin with caching ( Total re-write )
 - [ziontee113/ziontee113-neovim-config](https://github.com/ziontee113/ziontee113-neovim-config) - My Neovim config since Oct 6, 2022
@@ -6861,6 +6860,7 @@
 
 ## Others 
 
+- [thinkrobotics/DATASHEET](https://github.com/thinkrobotics/DATASHEET) - Datasheets of various products on www.thinkrobotics.in
 - [prt459/VFO_Controller_for_Base_Transmitter](https://github.com/prt459/VFO_Controller_for_Base_Transmitter) - An Arduino and si5351 VFO and Controller, designed for an AM transmitter, suitable for other base transmitters/transceivers.
 - [afiskon/kicad-symbols-and-footprints](https://github.com/afiskon/kicad-symbols-and-footprints) - Custom KiCad symbols and footprints
 - [RSZ-Nld/VFO-1.8-Inch-Retro-scale](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale) - 
@@ -8142,6 +8142,7 @@
 
 - [cho45/NanoVNA-manual](https://github.com/cho45/NanoVNA-manual) - 
 - [maxbrunsfeld/vim-yankstack](https://github.com/maxbrunsfeld/vim-yankstack) - A lightweight implementation of emacs's kill-ring for vim
+- [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 - [ruby/syntax_suggest](https://github.com/ruby/syntax_suggest) - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
 - [CKolkey/solargraph-syntax-suggest](https://github.com/CKolkey/solargraph-syntax-suggest) - 
@@ -10089,8 +10090,6 @@
 - [voldikss/vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Translating plugin for Vim/Neovim
 - [Iron-E/vim-libmodal](https://github.com/Iron-E/vim-libmodal) - A Neo/vim plugin to create modes.
 - [dstein64/vim-win](https://github.com/dstein64/vim-win) - A Vim plugin for managing windows.
-- [mg979/vim-studio-dark](https://github.com/mg979/vim-studio-dark) - visual studio-like color schemes
-- [mg979/vim-yanktools](https://github.com/mg979/vim-yanktools) - Clipboard tools for vim
 - [mg979/vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
@@ -10712,7 +10711,7 @@
 - [nvim-neorg/neorg-lsp](https://github.com/nvim-neorg/neorg-lsp) - An LSP for the Neorg file format.
 - [glepnir/ziglearn-cn](https://github.com/glepnir/ziglearn-cn) - zig programming language tutorial
 - [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder designed for filtering filepaths
+- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig package designed for filtering filepaths
 - [daurnimator/zig-autolua](https://github.com/daurnimator/zig-autolua) - Lua binding creator for zig
 - [eira-fransham/octahack-zig](https://github.com/eira-fransham/octahack-zig) - VCV/Max-style modular plug-anything-to-anything system, designed to be embedded free-standing in an Octatrack-style physical instrument
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
