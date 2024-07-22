@@ -220,6 +220,7 @@
 
 ## C 
 
+- [dl5dla/FT-817-TouchDisplay](https://github.com/dl5dla/FT-817-TouchDisplay) - Software for the ESP32 D1 mini to control the FT818 transceiverby means of a TFT Touch Display
 - [jarikomppa/emu8051](https://github.com/jarikomppa/emu8051) - 8051/8052 emulator with curses-based UI
 - [SpenceKonde/megaTinyCore](https://github.com/SpenceKonde/megaTinyCore) - Arduino core for the tinyAVR 0/1/2-series - Ones's digit 2,4,5,7 (pincount, 8,14,20,24), tens digit 0, 1, or 2 (featureset), preceded by flash in kb. Library maintainers: porting help available!
 - [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8
@@ -1205,6 +1206,8 @@
 
 ## C++ 
 
+- [dl5dla/T1-Interface-for-IC-705](https://github.com/dl5dla/T1-Interface-for-IC-705) - Control the Elecraft tuner T1 with an ESP32, which connects to the ICOM IC-705 via bluetooth
+- [ok1cdj/IC705-BT-CIV](https://github.com/ok1cdj/IC705-BT-CIV) - Comunication with IC-705 over bluetooth on ESP32
 - [per1234/ThemeTest](https://github.com/per1234/ThemeTest) - Documentation and a testing sketch for modifying Arduino IDE themes
 - [Narwhalsss360/NRotary](https://github.com/Narwhalsss360/NRotary) - Narwhalsss360's NRotary library for arduino projects using rotary encoders.
 - [alexitoo00/NewEncoder](https://github.com/alexitoo00/NewEncoder) - A library that makes coding a rotary encoder a breeze with useful functions
@@ -2594,6 +2597,7 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -5743,7 +5747,7 @@
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [GustavoKatel/telescope-asynctasks.nvim](https://github.com/GustavoKatel/telescope-asynctasks.nvim) - Integration for asynctasks with telescope.nvim
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - GitHub's Neovim themes
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [TACC/Lmod](https://github.com/TACC/Lmod) - Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy
 - [winston0410/neovim-dotfiles](https://github.com/winston0410/neovim-dotfiles) - 
@@ -5751,7 +5755,6 @@
 - [EpsilonKu/nvim](https://github.com/EpsilonKu/nvim) - My "Neovim" configs
 - [Forlos/dotfiles](https://github.com/Forlos/dotfiles) - Config files
 - [ronniedroid/droidvim](https://github.com/ronniedroid/droidvim) - My personal neovim configuration.
-- [Joakker/nvim-config](https://github.com/Joakker/nvim-config) - :moon: Neovim configuration written primarily in lua
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
@@ -5807,7 +5810,6 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -6820,6 +6822,7 @@
 
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
@@ -8644,7 +8647,6 @@
 - [MichalPlacek/opensuse-i3-tuning](https://github.com/MichalPlacek/opensuse-i3-tuning) - opensuse & i3 - configs & changes
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Read-only mirror of nsxiv-extra
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [igorepst/dotfiles-reboot](https://github.com/igorepst/dotfiles-reboot) - Reboot of dotfiles
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
