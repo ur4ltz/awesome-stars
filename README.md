@@ -3513,7 +3513,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
-- [snapcore/snapd](https://github.com/snapcore/snapd) - The snapd and snap tools enable systems to work with .snap files.
+- [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [RRethy/hexokinase](https://github.com/RRethy/hexokinase) - Fast text scraper to find and convert colours (hex, rgb, rgb, hsl, web colours, custom patterns, etc.) into hex values
 - [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
@@ -6872,7 +6872,7 @@
 
 - [tjdevries/m-lua](https://github.com/tjdevries/m-lua) - o lua m'lua
 - [SquidDev/illuaminate](https://github.com/SquidDev/illuaminate) - Very WIP static analysis for Lua
-- [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon
+- [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon (previously at http://mldonkey.sourceforge.net/)
 - [raboof/zshprof](https://github.com/raboof/zshprof) - zsh script profiling
 
 ## Objective-C 
@@ -9463,6 +9463,7 @@
 
 ## Vim Script 
 
+- [andykog/fern-highlight.vim](https://github.com/andykog/fern-highlight.vim) - 🌿 fern.vim plugin that highlights the active file in the viewer
 - [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) - A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script)
 - [stsewd/gx-extended.vim](https://github.com/stsewd/gx-extended.vim) - Extend gx to use it beyond just URLs!
 - [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) - The Vim motion you've always wanted.
