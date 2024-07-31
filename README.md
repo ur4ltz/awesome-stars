@@ -534,7 +534,7 @@
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [karlc1/dwm-karlc](https://github.com/karlc1/dwm-karlc) - 
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [joestandring/nmenu](https://github.com/joestandring/nmenu) - A 'plug and play' menu system for ncurses with automatic sizing and centering
+- [hollystandring/nmenu](https://github.com/hollystandring/nmenu) - A 'plug and play' menu system for ncurses with automatic sizing and centering
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [optozorax/moonlander](https://github.com/optozorax/moonlander) - My keymap for moonlander keyboard
 - [tree-sitter-grammars/tree-sitter-markdown](https://github.com/tree-sitter-grammars/tree-sitter-markdown) - Markdown grammar for tree-sitter
@@ -8308,7 +8308,7 @@
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Composable PKM: You bring the text-editor, we bring the PKM - inspired by and compatible with Obsidian
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Minimalist, Unbundled PKM for use with your favorite text-editor
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dotcypress/ula](https://github.com/dotcypress/ula) - μLA: Micro Logic Analyzer for RP2040
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -8722,9 +8722,9 @@
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
 - [nullxception/roundy](https://github.com/nullxception/roundy) - fast, cute, and-of-course, roundy prompt-theme for Zsh
-- [joestandring/roundy-fish](https://github.com/joestandring/roundy-fish) - A clone of roundy for fish
-- [joestandring/dwm-bar](https://github.com/joestandring/dwm-bar) - A modular statusbar for dwm
-- [joestandring/alarm](https://github.com/joestandring/alarm) - A shell script to play an alarm at a predetermined time
+- [hollystandring/roundy-fish](https://github.com/hollystandring/roundy-fish) - A clone of roundy for fish
+- [hollystandring/dwm-bar](https://github.com/hollystandring/dwm-bar) - A modular statusbar for dwm
+- [hollystandring/alarm](https://github.com/hollystandring/alarm) - A shell script to play an alarm at a predetermined time
 - [ldelossa/sway-fzfify](https://github.com/ldelossa/sway-fzfify) - A set of script to incorporate fzf into your sway desktop
 - [fnune/i3](https://github.com/fnune/i3) - My i3 config files.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
@@ -9463,6 +9463,9 @@
 
 ## Vim Script 
 
+- [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim) - An extensible & universal comment vim-plugin that also handles embedded filetypes
+- [lacygoill/vim9-syntax](https://github.com/lacygoill/vim9-syntax) - 
+- [yegappan/searchcomplete](https://github.com/yegappan/searchcomplete) - Vim plugin to complete words in the search command line
 - [andykog/fern-highlight.vim](https://github.com/andykog/fern-highlight.vim) - 🌿 fern.vim plugin that highlights the active file in the viewer
 - [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) - A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script)
 - [stsewd/gx-extended.vim](https://github.com/stsewd/gx-extended.vim) - Extend gx to use it beyond just URLs!
