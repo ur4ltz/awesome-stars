@@ -54,6 +54,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
@@ -70,6 +71,7 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nu](#nu)
+- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-J](#objective-j)
@@ -1987,7 +1989,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.3: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -4212,6 +4214,10 @@
 
 - [geerlingguy/turing-pi-cluster](https://github.com/geerlingguy/turing-pi-cluster) - DEPRECATED - Turing Pi cluster configuration for Raspberry Pi Compute Modules
 
+## Julia 
+
+- [Klafyvel/norganic](https://github.com/Klafyvel/norganic) - The solvent-free Norg compiler.
+
 ## Jupyter Notebook 
 
 - [mobilinkd/uv-k6-digital-mod](https://github.com/mobilinkd/uv-k6-digital-mod) - UV-K6 Mods for Digital Modulation
@@ -4295,6 +4301,31 @@
 
 ## Lua 
 
+- [slugbyte/unruly-worker.nvim](https://github.com/slugbyte/unruly-worker.nvim) - a ridiculously fun neovim plugin for the workman keyboard layout
+- [arminveres/md-pdf.nvim](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF inside Neovim!
+- [simonhughxyz/neorg-bookmark](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way
+- [pysan3/pathlib.nvim](https://github.com/pysan3/pathlib.nvim) - Ultimate solution to path handling in neovim. OS Independent.
+- [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
+- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [AstroNvim/astrolsp](https://github.com/AstroNvim/astrolsp) - LSP Configuration Engine built for AstroNvim
+- [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration.
+- [TwIStOy/dotvim](https://github.com/TwIStOy/dotvim) - My personal neovim config
+- [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) - Implementation of gx without the need of netrw
+- [TwIStOy/luasnip-snippets](https://github.com/TwIStOy/luasnip-snippets) - Native LuaSnip snippets. Inspired by Jetbrain's IDEs.
+- [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
+- [catgoose/telescope-helpgrep.nvim](https://github.com/catgoose/telescope-helpgrep.nvim) - Telescope extension that uses Telescope builtins (live_grep or grep_string) to grep through help files
+- [massix/dot-termux](https://github.com/massix/dot-termux) - My Termux configuration for Android (WIP)
+- [massix/termux.nvim](https://github.com/massix/termux.nvim) - Neovim plugin to interact with the Termux APIs, useful for displaying various information in the statusline
+- [deathbeam/autocomplete.nvim](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help
+- [polirritmico/telescope-lazy-plugins.nvim](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access configurations of plugins managed by lazy.nvim.
+- [Zeioth/makeit.nvim](https://github.com/Zeioth/makeit.nvim) - Neovim Makefile plugin
+- [Zeioth/heirline-components.nvim](https://github.com/Zeioth/heirline-components.nvim) - Distro agnostic components for your Neovim heirline config
+- [anurag3301/nvim-platformio.lua](https://github.com/anurag3301/nvim-platformio.lua) - PlatformIO wrapper for neovim written in lua
+- [Selyss/mind.nvim](https://github.com/Selyss/mind.nvim) - Simple tree-based note taking system for Neovim
+- [ashfinal/qfview.nvim](https://github.com/ashfinal/qfview.nvim) - Pretty quickfix/location view for Neovim
+- [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
+- [vscode-neovim/vscode-multi-cursor.nvim](https://github.com/vscode-neovim/vscode-multi-cursor.nvim) - Integration of VSCode Multiple selections (multi-cursor)
+- [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) - Snippet support using native neovim snippets
 - [kepano/flexoki-neovim](https://github.com/kepano/flexoki-neovim) - Flexoki color scheme for Neovim
 - [tomiis4/BufEx.nvim](https://github.com/tomiis4/BufEx.nvim) - A plugin for effortless buffer sharing between nvim sessions.
 - [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
@@ -6653,7 +6684,7 @@
 - [nixlad/dotfiles-old](https://github.com/nixlad/dotfiles-old) - No longer in use or maintained
 - [yuri/sputnik](https://github.com/yuri/sputnik) - An Extensible Wiki/CMS in Lua
 - [fisadev/conky-draw](https://github.com/fisadev/conky-draw) - Easily create beautiful conky graphs and draws
-- [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
+- [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .h)
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [kassio/nvim](https://github.com/kassio/nvim) - My neovim setup
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
@@ -6834,6 +6865,7 @@
 
 ## Nim 
 
+- [pysan3/minorg](https://github.com/pysan3/minorg) - pandoc -&gt; norg converter written in the Nim language.
 - [zevv/nim-arduino](https://github.com/zevv/nim-arduino) - Trying to get Nim integrated into arduino IDE
 - [markspanbroek/nim-arduino](https://github.com/markspanbroek/nim-arduino) - Arduino bindings for Nim
 - [dinau/nimOnAVR](https://github.com/dinau/nimOnAVR) - Nim language test program for Arduino UNO/Nano or its compatibles
@@ -6867,6 +6899,10 @@
 ## Nu 
 
 - [yshui/.files](https://github.com/yshui/.files) - Linux configuration
+
+## Nunjucks 
+
+- [pysan3/Norg-Tutorial2](https://github.com/pysan3/Norg-Tutorial2) - Norg tutorial with kickstart configuration and awesome website.
 
 ## OCaml 
 
@@ -6903,6 +6939,10 @@
 
 ## Others 
 
+- [benlubas/neorg-module-tutorial](https://github.com/benlubas/neorg-module-tutorial) - A guide for neorg contributers and module developers
+- [pysan3/neorg-templates](https://github.com/pysan3/neorg-templates) - A template file mechanism for norg files
+- [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
+- [niuiic/awesome-neovim-plugins](https://github.com/niuiic/awesome-neovim-plugins) - Awesome neovim plugins I have written.
 - [kepano/flexoki-sublime](https://github.com/kepano/flexoki-sublime) - An inky color scheme for Sublime Text.
 - [gitbito/CLI](https://github.com/gitbito/CLI) - Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and 
 - [kevontheweb/tokyo-night-kicad-theme](https://github.com/kevontheweb/tokyo-night-kicad-theme) - A clean Kicad schematic editor (eeschema) theme that celebrates the lights of Downtown Tokyo at night.
@@ -8876,6 +8916,7 @@
 - [DanCardin/dotfiles](https://github.com/DanCardin/dotfiles) - 
 - [66RING/dotfiles](https://github.com/66RING/dotfiles) - My dotfiles
 - [metalelf0/gnome-terminal-colors](https://github.com/metalelf0/gnome-terminal-colors) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
+- [mcmire/dotfiles](https://github.com/mcmire/dotfiles) - My personal dotfiles
 - [sainnhe/zsh-completions](https://github.com/sainnhe/zsh-completions) - Personal collection of zsh completion definitions.
 - [felipec/git-completion](https://github.com/felipec/git-completion) - Git completion stuff
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
@@ -9898,7 +9939,6 @@
 - [lambdalisue/vim-fern-renderer-nerdfont](https://github.com/lambdalisue/vim-fern-renderer-nerdfont) - 🌿 fern.vim plugin which add file type icon through nerdfont.vim
 - [enricozb/neovim-setup](https://github.com/enricozb/neovim-setup) - 
 - [strboul/urlview.vim](https://github.com/strboul/urlview.vim) - List and open URLs easily
-- [mcmire/dotfiles](https://github.com/mcmire/dotfiles) - My personal dotfiles
 - [sainnhe/edge](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material
 - [psych3r/vim-remembers](https://github.com/psych3r/vim-remembers) - A vim plugin that emulates Notepad++ "remembering" the contents of unnamed files.
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
@@ -10492,7 +10532,7 @@
 - [KeitaNakamura/neodark.vim](https://github.com/KeitaNakamura/neodark.vim) - A dark color scheme for vim
 - [itchyny/landscape.vim](https://github.com/itchyny/landscape.vim) - A colorscheme for Vim
 - [noahfrederick/vim-noctu](https://github.com/noahfrederick/vim-noctu) - A Vim color scheme for 16-color terminals
-- [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
+- [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8+ (and Neovim)
 - [ap/vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
 - [krisleech/vimfiles](https://github.com/krisleech/vimfiles) - Ruby/Rails centric vimfiles with support for Git, RVM and more.
 - [liuchengxu/eleline.vim](https://github.com/liuchengxu/eleline.vim) - :herb: Another elegant statusline for vim
