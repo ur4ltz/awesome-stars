@@ -224,6 +224,7 @@
 
 ## C 
 
+- [msquirogac/avr-debugger-bootloader](https://github.com/msquirogac/avr-debugger-bootloader) - avr-debugger bootloader to enable Flash breakpoints, built throught PlatformIO
 - [tomiis4/CLang](https://github.com/tomiis4/CLang) - My CLang projects with cheatsheet
 - [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
 - [atsidaev/8515_TTL_tester](https://github.com/atsidaev/8515_TTL_tester) - 
@@ -4301,6 +4302,8 @@
 
 ## Lua 
 
+- [Fildo7525/reloader.nvim](https://github.com/Fildo7525/reloader.nvim) - Easy setup of C++ projects
+- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
 - [slugbyte/unruly-worker.nvim](https://github.com/slugbyte/unruly-worker.nvim) - a ridiculously fun neovim plugin for the workman keyboard layout
 - [arminveres/md-pdf.nvim](https://github.com/arminveres/md-pdf.nvim) - Preview markdown files and convert to PDF inside Neovim!
 - [simonhughxyz/neorg-bookmark](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way
@@ -5968,6 +5971,7 @@
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
+- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - 🗃️ Sensible Defaults of My Computer
 - [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - There's lots of configurations out there, but this one is mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
@@ -6939,6 +6943,9 @@
 
 ## Others 
 
+- [idma88/c-cpp-snippets](https://github.com/idma88/c-cpp-snippets) - C/C++ code snippets for Visual Studio Code
+- [softchris/cpp-snippets](https://github.com/softchris/cpp-snippets) - Snippets for  C++
+- [ronaldosena/arduino-snippets](https://github.com/ronaldosena/arduino-snippets) - vscode extension that adds code snipptes for arduino
 - [benlubas/neorg-module-tutorial](https://github.com/benlubas/neorg-module-tutorial) - A guide for neorg contributers and module developers
 - [pysan3/neorg-templates](https://github.com/pysan3/neorg-templates) - A template file mechanism for norg files
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
@@ -6986,7 +6993,6 @@
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [adityadaniel/gruvbox-baby-xcode](https://github.com/adityadaniel/gruvbox-baby-xcode) - Port of Gruvbox Baby vim colorscheme for Xcode
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
-- [Sinomor/dots](https://github.com/Sinomor/dots) - bspwm dotfiles
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
 - [devCU/IPS-BitTracker](https://github.com/devCU/IPS-BitTracker) - Bit Torrent Tracker application for IPS 4.5x Community Suite
@@ -7511,6 +7517,7 @@
 
 ## Python 
 
+- [proycon/tuir](https://github.com/proycon/tuir) - Browse Reddit from your terminal
 - [jwortmann/ini-syntax](https://github.com/jwortmann/ini-syntax) - Syntax highlighting for INI and REG files in Sublime Text
 - [llorllale/ttrv](https://github.com/llorllale/ttrv) - Tilde Terminal Reddit Viewer
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
@@ -8838,7 +8845,6 @@
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
-- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - 🗃️ Sensible Defaults of My Computer
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
@@ -9326,6 +9332,7 @@
 
 ## TypeScript 
 
+- [OwenFlood/arduino-snippets](https://github.com/OwenFlood/arduino-snippets) - vscode extension that adds code snippets for Arduino
 - [vitormv/fzf-themes](https://github.com/vitormv/fzf-themes) - Tweak, preview, import & share your fzf themes in an interactive environment.
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 - [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell langauge  🐠
@@ -9504,6 +9511,10 @@
 
 ## Vim Script 
 
+- [andykog/fern-copynode.vim](https://github.com/andykog/fern-copynode.vim) - 🌿 fern.vim plugin to copy the selected node's name/path into the system clipboard
+- [andykog/fern-search.vim](https://github.com/andykog/fern-search.vim) - 🌿 fern.vim plugin for full-text search/replacement using Ack
+- [andykog/fern-bookmarks.vim](https://github.com/andykog/fern-bookmarks.vim) - 🌿 fern.vim simple bookmarks plugin
+- [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - 🩳 My personal dotfiles
 - [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim) - An extensible & universal comment vim-plugin that also handles embedded filetypes
 - [lacygoill/vim9-syntax](https://github.com/lacygoill/vim9-syntax) - 
 - [yegappan/searchcomplete](https://github.com/yegappan/searchcomplete) - Vim plugin to complete words in the search command line
