@@ -4455,7 +4455,7 @@
 - [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim) - :yarn: A Neovim plugin to toggle python f-strings
 - [roobert/action-hints.nvim](https://github.com/roobert/action-hints.nvim) - ⚡ A Neovim plugin that displays available actions like 'Go to Definition' and 'Go to Reference(s)' for the highlighted word, presented in the statusline or inline as virtual text.
 - [roobert/hoversplit.nvim](https://github.com/roobert/hoversplit.nvim) - 🚁 Automatically updated documentation and information about code symbols in a split window
-- [chadcat7/prism](https://github.com/chadcat7/prism) - nvim coloring plugin
+- [namishh/prism](https://github.com/namishh/prism) - nvim coloring plugin
 - [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) - Neovim colorscheme using Gnome Adwaita syntax
 - [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) - Time to stand reminders
 - [linguini1/pulse.nvim](https://github.com/linguini1/pulse.nvim) - A simple timer plugin for Neovim.
@@ -5971,7 +5971,6 @@
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
-- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - 🗃️ Sensible Defaults of My Computer
 - [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - There's lots of configurations out there, but this one is mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
@@ -6886,7 +6885,7 @@
 
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
@@ -8269,7 +8268,7 @@
 - [wfxr/emoji-cli](https://github.com/wfxr/emoji-cli) - 
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [mcmire/dotfiles-manager](https://github.com/mcmire/dotfiles-manager) - Manage your dotfiles with this one simple tool
-- [mcmire/super_diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
+- [jas14/super_diff](https://github.com/jas14/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [felipec/dotfiles](https://github.com/felipec/dotfiles) - My config files
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
 - [mjohanning99/GmailNotifier-New](https://github.com/mjohanning99/GmailNotifier-New) - 
@@ -8845,6 +8844,7 @@
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
+- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - 🗃️ Sensible Defaults of My Computer
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
