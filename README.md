@@ -1219,6 +1219,7 @@
 
 ## C++ 
 
+- [hayguen/extio_rtl_tcp](https://github.com/hayguen/extio_rtl_tcp) - ExtIO plugin for Winrad/HDSDR connecting to librtlsdr's rtl_tcp
 - [LennartHennigs/ESPRotary](https://github.com/LennartHennigs/ESPRotary) - Arduino/ESP library to simplify reading rotary encoder data.
 - [kaefe64/Arduino_uSDX_Pico_FFT_Proj](https://github.com/kaefe64/Arduino_uSDX_Pico_FFT_Proj) - Hamradio SDR transceiver software
 - [LZ1PPL/Si4735](https://github.com/LZ1PPL/Si4735) - 
@@ -4195,7 +4196,6 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -4309,7 +4309,7 @@
 - [simonhughxyz/neorg-bookmark](https://github.com/simonhughxyz/neorg-bookmark) - A bookmark manager the neorg way
 - [pysan3/pathlib.nvim](https://github.com/pysan3/pathlib.nvim) - Ultimate solution to path handling in neovim. OS Independent.
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) - 🖋️ Highly extensible journaling system for Neovim
-- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [AstroNvim/astrolsp](https://github.com/AstroNvim/astrolsp) - LSP Configuration Engine built for AstroNvim
 - [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration.
 - [TwIStOy/dotvim](https://github.com/TwIStOy/dotvim) - My personal neovim config
@@ -8268,7 +8268,7 @@
 - [wfxr/emoji-cli](https://github.com/wfxr/emoji-cli) - 
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [mcmire/dotfiles-manager](https://github.com/mcmire/dotfiles-manager) - Manage your dotfiles with this one simple tool
-- [jas14/super_diff](https://github.com/jas14/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
+- [splitwise/super_diff](https://github.com/splitwise/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [felipec/dotfiles](https://github.com/felipec/dotfiles) - My config files
 - [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
 - [mjohanning99/GmailNotifier-New](https://github.com/mjohanning99/GmailNotifier-New) - 
@@ -9487,6 +9487,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
@@ -9802,7 +9803,6 @@
 - [vim-crystal/vim-crystal](https://github.com/vim-crystal/vim-crystal) - Vim filetype and tools support for Crystal language.
 - [eugen0329/vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
 - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
-- [ekiim/noffice](https://github.com/ekiim/noffice) - 
 - [vv9k/bogster](https://github.com/vv9k/bogster) - A theme for Vim and NeoVim
 - [kamykn/popup-menu.nvim](https://github.com/kamykn/popup-menu.nvim) - Popup-menu for Neovim!
 - [AlessandroYorba/Breve](https://github.com/AlessandroYorba/Breve) - Vim Colorscheme
