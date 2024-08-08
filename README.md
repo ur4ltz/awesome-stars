@@ -224,6 +224,7 @@
 
 ## C 
 
+- [soligen2010/DIY-Multiprotocol-TX-Module](https://github.com/soligen2010/DIY-Multiprotocol-TX-Module) - DIY Multiprotocol TX Module
 - [msquirogac/avr-debugger-bootloader](https://github.com/msquirogac/avr-debugger-bootloader) - avr-debugger bootloader to enable Flash breakpoints, built throught PlatformIO
 - [tomiis4/CLang](https://github.com/tomiis4/CLang) - My CLang projects with cheatsheet
 - [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
@@ -1219,6 +1220,16 @@
 
 ## C++ 
 
+- [F5OEO/librpitx](https://github.com/F5OEO/librpitx) - Radio frequency transmitter library - Engine of rpitx
+- [phdlee/dspmeterv1](https://github.com/phdlee/dspmeterv1) - Standalone Signal Analyzer (I2C Type Signal-Meter) for uBITX - Arduino Nano Version
+- [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models.
+- [soligen2010/RC_RX_CABELL_V3_FHSS](https://github.com/soligen2010/RC_RX_CABELL_V3_FHSS) - RC Reciever firmware using arduino and NRF24L01+
+- [soligen2010/6_Meter_Transceiver](https://github.com/soligen2010/6_Meter_Transceiver) - A homebrew transceiver for the 6 meter Ham band
+- [MadLittleMods/macchiato](https://github.com/MadLittleMods/macchiato) - Mocha/Chai inspired C++ test framework for desktop and Arduino (BDD)
+- [estechnical/reflowOvenController](https://github.com/estechnical/reflowOvenController) - ESTechnical Reflow Oven Controller source code and instructions
+- [0xPIT/reflowOvenController](https://github.com/0xPIT/reflowOvenController) - Reflow Oven Controller. See below for more information.
+- [soligen2010/encoder](https://github.com/soligen2010/encoder) - Atmel AVR C++ RotaryEncoder Implementation
+- [soligen2010/dspmeterv1](https://github.com/soligen2010/dspmeterv1) - Standalone Signal Analyzer (I2C Type Signal-Meter) for uBITX - Arduino Nano Version
 - [hayguen/extio_rtl_tcp](https://github.com/hayguen/extio_rtl_tcp) - ExtIO plugin for Winrad/HDSDR connecting to librtlsdr's rtl_tcp
 - [LennartHennigs/ESPRotary](https://github.com/LennartHennigs/ESPRotary) - Arduino/ESP library to simplify reading rotary encoder data.
 - [kaefe64/Arduino_uSDX_Pico_FFT_Proj](https://github.com/kaefe64/Arduino_uSDX_Pico_FFT_Proj) - Hamradio SDR transceiver software
@@ -1991,7 +2002,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.3: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.4: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3413,6 +3424,7 @@
 
 ## Go 
 
+- [elbachir-one/gt](https://github.com/elbachir-one/gt) - gt is a tree-like program written in Go with a lot of features.
 - [tomiis4/GoLang](https://github.com/tomiis4/GoLang) - My GoLang projects with cheatsheet
 - [nonoo/kappanhang](https://github.com/nonoo/kappanhang) - Remotely open audio channels and a serial port to an Icom RS-BA1 server (for ex. Icom IC-705 transceiver).
 - [wsw70/syncthing-map](https://github.com/wsw70/syncthing-map) - A utility to map syncthing devices and shared folders.
@@ -3959,6 +3971,7 @@
 
 ## JavaScript 
 
+- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [cho45/NanoVNA-Web-Client](https://github.com/cho45/NanoVNA-Web-Client) - NanoVNA interface implementation with WebSerial/WebUSB/Android.
 - [remarkjs/remark-language-server](https://github.com/remarkjs/remark-language-server) - A language server to lint and format markdown files with remark
 - [pu2clr/VFO_BFO_OLED_ARDUINO](https://github.com/pu2clr/VFO_BFO_OLED_ARDUINO) - VFO e BFO com Si5351 e OLED,  controlado por Arduino (Micro)
@@ -4196,6 +4209,7 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -4338,7 +4352,7 @@
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
-- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [vigoux/ltex-ls.nvim](https://github.com/vigoux/ltex-ls.nvim) - Enhanced integration of ltex-ls for neovim
 - [rmagatti/logger.nvim](https://github.com/rmagatti/logger.nvim) - A Neovim logger for plugin authors
@@ -5312,7 +5326,7 @@
 - [max397574/selection_popup.nvim](https://github.com/max397574/selection_popup.nvim) - 
 - [pcapel/tmux-nvim-bridge](https://github.com/pcapel/tmux-nvim-bridge) - Send content from neovim to tmux
 - [notomo/stlparts.nvim](https://github.com/notomo/stlparts.nvim) - Neovim lua statusline components
-- [JosefLitos/nerdcontrast.nvim](https://github.com/JosefLitos/nerdcontrast.nvim) - Light and dark colorscheme with optimal contrast, bases off of NetBeans IDE
+- [litoj/nerdcontrast.nvim](https://github.com/litoj/nerdcontrast.nvim) - Light and dark colorscheme with optimal contrast, bases off of NetBeans IDE
 - [Seniru/Timers4TFM](https://github.com/Seniru/Timers4TFM) - A library which provides easy and advanced timers for module developers
 - [folknor/lgi-wallpaper](https://github.com/folknor/lgi-wallpaper) - Small app built with Lua and GTK to set the desktop wallpaper.
 - [folknor/robotarmyfactorio](https://github.com/folknor/robotarmyfactorio) - A mod to add robot troop units and perhaps associated support buildings and items to produce and control them.
@@ -6509,6 +6523,7 @@
 - [Ruin0x11/ltags](https://github.com/Ruin0x11/ltags) - Exuberant CTags compatible tag files from Lua projects
 - [Ruin0x11/OpenNefia](https://github.com/Ruin0x11/OpenNefia) - (Archived) Moddable engine reimplementation of the Japanese roguelike Elona.
 - [TravonteD/luapack](https://github.com/TravonteD/luapack) - A package manager for neovim written in lua
+- [hydeik/dotfiles](https://github.com/hydeik/dotfiles) - My dotfiles
 - [TravonteD/luajob](https://github.com/TravonteD/luajob) - A vim-loop wrapper for neovim
 - [zoxves/LightningFileExplorer](https://github.com/zoxves/LightningFileExplorer) - 
 - [theHamsta/nvim_rocks](https://github.com/theHamsta/nvim_rocks) - :metal: Install luarocks packages for Neovim's built-in Lua interpreter.
@@ -7474,7 +7489,6 @@
 - [idevz/vanilla](https://github.com/idevz/vanilla) - An OpenResty Lua MVC Web Framework
 - [C-Radius/.dotfiles](https://github.com/C-Radius/.dotfiles) - My linux dotfiles... that's about it all folks.
 - [addy-dclxvi/void-bspwm-dotfiles](https://github.com/addy-dclxvi/void-bspwm-dotfiles) - My personal backup of my dotfiles (Void Linux).
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [metakirby5/.dots](https://github.com/metakirby5/.dots) - :computer: All of my dotfiles.
@@ -8580,6 +8594,7 @@
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [addy-dclxvi/dotfiles](https://github.com/addy-dclxvi/dotfiles) - My personal backup of my dotfiles on ThinkPad-X230-Debian-Openbox and Aspire-A514-Debian-Fluxbox
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [listentolist/kakoune-rainbow](https://github.com/listentolist/kakoune-rainbow) - rainbow brackets plugin for the Kakoune text editor
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) - a lightweight, robust, scheme-like lisp implementation
@@ -8587,6 +8602,7 @@
 
 ## Shell 
 
+- [ayufan-rock64/linux-build](https://github.com/ayufan-rock64/linux-build) - Rock64 Linux build scripts, tools and instructions
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
 - [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [cehoffman/luaenv](https://github.com/cehoffman/luaenv) - Groom your app's Lua environment
@@ -9101,7 +9117,6 @@
 - [romkatv/dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [hydeik/dotfiles](https://github.com/hydeik/dotfiles) - My dotfiles
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [theHamsta/dotfiles](https://github.com/theHamsta/dotfiles) - 
 - [evanthegrayt/yadem](https://github.com/evanthegrayt/yadem) - 🕴 Yet Another Dotfile and Environment Manager
@@ -9487,7 +9502,6 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
