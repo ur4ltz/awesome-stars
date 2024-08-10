@@ -1712,7 +1712,6 @@
 - [hecko/optiboot](https://github.com/hecko/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator and disassembler for 8-bit processors. Currently supports Z80.
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
-- [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - (OUTDATED, UNSUPPORTED) Weather monitor v4.1 based on ESP8266
 - [himikat123/Wireless-sensor-on-ESP8266](https://github.com/himikat123/Wireless-sensor-on-ESP8266) - (OUTDATED, UNSUPPORTED) Wireless temperature/humidity/pressure/ambient light sensor based on ESP8266
 - [himikat123/Clock](https://github.com/himikat123/Clock) - (OUTDATED, UNSUPPORTED) Clock "BIM" v3.2 based on ESP8266 and (TM1637 and/or MAX7219)
 - [pavelmc/BMux](https://github.com/pavelmc/BMux) - Analog Button Muxer, click & hold: the intuitive way.
@@ -3988,6 +3987,7 @@
 - [cncjs/cncjs](https://github.com/cncjs/cncjs) - A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.
 - [tedor/weather-station-frontend](https://github.com/tedor/weather-station-frontend) - Frontend for arduion-weather-station
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
+- [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - Weather monitor based on ESP8266
 - [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32 (Arduino Project)
 - [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
@@ -7373,6 +7373,7 @@
 - [drakulavich/russian-sublime-cheatsheet](https://github.com/drakulavich/russian-sublime-cheatsheet) - PDF-шпаргалка по клавиатурным сочетаниям Sublime Text
 - [noct/sublime-cpp11](https://github.com/noct/sublime-cpp11) - Replacement self-contained C++11 syntax definition for Sublime Text
 - [luarocks/lua-style-guide](https://github.com/luarocks/lua-style-guide) - Lua Style Guide, as used by LuaRocks
+- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [arvind-naidu/rutorrent-installer](https://github.com/arvind-naidu/rutorrent-installer) - Eaziest rutorrent & rtorrent installer + Web server, FTP, Webmin (Ubuntu/Debian/Fedora/More)
 - [jaap-karssenberg/zim-wiki](https://github.com/jaap-karssenberg/zim-wiki) - This repository is a placeholder so we can use the asociated wiki for community documentation.
 - [abcminiuser/sublimetext-gnu-map](https://github.com/abcminiuser/sublimetext-gnu-map) - SublimeText 3 syntax definition for GCC MAP files.
@@ -7596,7 +7597,6 @@
 - [platformio/platform-ststm32](https://github.com/platformio/platform-ststm32) - ST STM32: development platform for PlatformIO
 - [platformio/platform-espressif8266](https://github.com/platformio/platform-espressif8266) - Espressif 8266: development platform for PlatformIO
 - [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
-- [fandreyf/tm1637](https://github.com/fandreyf/tm1637) - modified version, works on OrangePi Zero2
 - [MilesBDyson/TM1637](https://github.com/MilesBDyson/TM1637) - TM 1637 display python module for Beaglebone Balck
 - [afabian80/nodemcu-weather](https://github.com/afabian80/nodemcu-weather) - Micropython application to show the current temperature from openweathermap on a TM1637 LED display
 - [nopnop2002/python-periphery-tm1637](https://github.com/nopnop2002/python-periphery-tm1637) - python-periphery TM1637 4Digits 8Segment LCD example
@@ -8368,7 +8368,7 @@
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Minimalist, Unbundled PKM for use with your favorite text-editor
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Minimalist, Unbundled PKM for your favorite text-editor through the LSP
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dotcypress/ula](https://github.com/dotcypress/ula) - μLA: Micro Logic Analyzer for RP2040
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -9501,7 +9501,6 @@
 - [ASDAlexander77/TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) - The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for LUA bytecode
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
