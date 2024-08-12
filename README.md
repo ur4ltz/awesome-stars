@@ -5748,7 +5748,7 @@
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
 - [ThePrimeagen/neovim-irc-ui](https://github.com/ThePrimeagen/neovim-irc-ui) - 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
-- [kkharji/lspsaga.nvim](https://github.com/kkharji/lspsaga.nvim) - The neovim language-server-client UI
+- [kkharji/archive-323](https://github.com/kkharji/archive-323) - The neovim language-server-client UI
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
 - [adisen99/jellybeans-nvim](https://github.com/adisen99/jellybeans-nvim) - A port of jellybeans colorscheme for neovim
@@ -7443,7 +7443,7 @@
 - [igorsimdyanov/php7](https://github.com/igorsimdyanov/php7) - Примеры к книге "PHP 7. Котеров Д., Симдянов И."
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server) - PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
 - [bakoontz/WikkaWiki](https://github.com/bakoontz/WikkaWiki) - This version (1.4.2) marks the end-of-life for WikkaWiki (see README.md for details).
-- [gerardroche/sublime-monokai-free](https://github.com/gerardroche/sublime-monokai-free) - Monokai color scheme.
+- [gerardroche/sublime-monokai-free](https://github.com/gerardroche/sublime-monokai-free) - Monokai Sublime Text color scheme.
 - [wtorrent/wtorrent](https://github.com/wtorrent/wtorrent) - wTorrent
 - [jgmdev/fossilize](https://github.com/jgmdev/fossilize) - A small php script to manage fossil repositories hosted on a web server.
 - [jrconlin/oauthsimple](https://github.com/jrconlin/oauthsimple) - Simple, standardized OAuth signature generator
