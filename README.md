@@ -2043,7 +2043,7 @@
 - [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees
 - [nmapsi4/nmapsi4](https://github.com/nmapsi4/nmapsi4) - NmapSi4 is a complete Qt-based Gui with the design goals to provide a complete nmap interface for Users, in order to management all options of this powerful security net scanner!
 - [sdhzdmzzl/iptv_channel_scanner_linux](https://github.com/sdhzdmzzl/iptv_channel_scanner_linux) - scan iptv channel in linux
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [amsynth/amsynth](https://github.com/amsynth/amsynth) - Simple software synthesizer for Linux
 - [cmdrkotori/mpc-qt-origin](https://github.com/cmdrkotori/mpc-qt-origin) - Media Player Classic Qute Theater
 - [qt-labs/qthttpserver](https://github.com/qt-labs/qthttpserver) - Qt HTTP Server
@@ -3690,7 +3690,7 @@
 - [golang/gofrontend](https://github.com/golang/gofrontend) - Go compiler frontend (gccgo)
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
 - [google/blueprint](https://github.com/google/blueprint) - 
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [golang-cjr/xep](https://github.com/golang-cjr/xep) - golang chat bot
 - [yasuyk/gocdnjs](https://github.com/yasuyk/gocdnjs) - Command line interface for http://cdnjs.com
@@ -4316,6 +4316,7 @@
 
 ## Lua 
 
+- [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as the colorcolumn
 - [Fildo7525/reloader.nvim](https://github.com/Fildo7525/reloader.nvim) - Easy setup of C++ projects
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
 - [slugbyte/unruly-worker.nvim](https://github.com/slugbyte/unruly-worker.nvim) - a ridiculously fun neovim plugin for the workman keyboard layout
@@ -5998,7 +5999,7 @@
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
-- [e-cal/nvim](https://github.com/e-cal/nvim) - the best nvim config there's ever been
+- [e-cal/nvim](https://github.com/e-cal/nvim) - my awesome nvim config
 - [smithbm2316/dotfiles](https://github.com/smithbm2316/dotfiles) - There's no place like ~
 - [rileyshahar/dotfiles](https://github.com/rileyshahar/dotfiles) - 
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
