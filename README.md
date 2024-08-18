@@ -784,7 +784,7 @@
 - [Conni2461/st](https://github.com/Conni2461/st) - st fork
 - [whitecatboard/Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Lua RTOS for ESP32
 - [luaposix/luaposix](https://github.com/luaposix/luaposix) - Lua bindings for POSIX APIs
-- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [YaN-3k/dots](https://github.com/YaN-3k/dots) - just dotfiles ¯\_(ツ)_/¯﻿
 - [linux-pam/linux-pam](https://github.com/linux-pam/linux-pam) - Linux PAM (Pluggable Authentication Modules for Linux) project
 - [hishamhm/dit](https://github.com/hishamhm/dit) - A console text editor for Unix systems that you already know how to use
@@ -889,7 +889,6 @@
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 - [sparkfun/LilyPad_Arduino_USB](https://github.com/sparkfun/LilyPad_Arduino_USB) - Design and firmware files for the LilyPad Arduino USB.
 - [austinthresher/dangerboy](https://github.com/austinthresher/dangerboy) - Game Boy emulator written in C. Aiming for cycle accurate DMG emulation.
-- [austinthresher/st-custom](https://github.com/austinthresher/st-custom) - 
 - [hide27k/haribote-os](https://github.com/hide27k/haribote-os) - 30日でできる！OS自作入門
 - [flatinum97/haribote-os](https://github.com/flatinum97/haribote-os) - 30日でできる！OS自作入門
 - [flatinum97/hariboteos](https://github.com/flatinum97/hariboteos) - Haribote OS
@@ -1713,6 +1712,7 @@
 - [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator and disassembler for 8-bit processors. Currently supports Z80.
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [himikat123/Wireless-sensor-on-ESP8266](https://github.com/himikat123/Wireless-sensor-on-ESP8266) - (OUTDATED, UNSUPPORTED) Wireless temperature/humidity/pressure/ambient light sensor based on ESP8266
+- [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32 (Arduino Project)
 - [himikat123/Clock](https://github.com/himikat123/Clock) - (OUTDATED, UNSUPPORTED) Clock "BIM" v3.2 based on ESP8266 and (TM1637 and/or MAX7219)
 - [pavelmc/BMux](https://github.com/pavelmc/BMux) - Analog Button Muxer, click & hold: the intuitive way.
 - [pavelmc/Yatuli](https://github.com/pavelmc/Yatuli) - Yet another tune lib: Linear volume control instead a rotary encoder, from the bitx40 idea.
@@ -1866,7 +1866,7 @@
 - [little-brother/attiny13-clock](https://github.com/little-brother/attiny13-clock) - ATtiny13 DS1302 TM1637 clock
 - [mibli/i3-termdialogs](https://github.com/mibli/i3-termdialogs) - Terminal based dialog utils for minimalistic setups
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [orbitalquark/scinterm](https://github.com/orbitalquark/scinterm) - Scinterm is a curses platform for Scintilla that supports ncurses, PDCurses, and X/Open Curses.
 - [RobTillaart/MultiMap](https://github.com/RobTillaart/MultiMap) - Arduino library for fast non-linear mapping or interpolation of values
@@ -2096,7 +2096,6 @@
 - [indutny/uv_link_t-binding](https://github.com/indutny/uv_link_t-binding) - WORK IN PROGRESS
 - [zgpio/tree.nvim](https://github.com/zgpio/tree.nvim) - Neovim file-explorer powered by C++
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [threeme3/WsprryPi](https://github.com/threeme3/WsprryPi) - Bareback LF/MF/HF/VHF WSPR transmitter using a Raspberry Pi
 - [threeme3/usdx](https://github.com/threeme3/usdx) - Simple and experimental (class-E driven) SSB transceiver.
 - [laserlance/Arduino-VFO-NCO-AD9951](https://github.com/laserlance/Arduino-VFO-NCO-AD9951) - This is an Arduino library for the Analog Devices AD9951 DDS chip. Learn more here: https://www.laserlance.com/projects/arduino-vfo-using-an-ad9951-dds-shield-and-library/
 - [etherkit/MorseArduino](https://github.com/etherkit/MorseArduino) - Generate Morse Code for transmission on a digital I/O pin
@@ -3894,6 +3893,7 @@
 
 ## Java 
 
+- [RainbowC0/TermuC](https://github.com/RainbowC0/TermuC) - A simple C/C++ IDE for Android, backed on powerfull Termux
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [xdsopl/robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
@@ -3906,7 +3906,7 @@
 - [AndreyPavlenko/transmissionbtc](https://github.com/AndreyPavlenko/transmissionbtc) - Transmission BitTorrent Client for Android
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [jawi/ols](https://github.com/jawi/ols) - OpenBench LogicSniffer repository
-- [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -3986,9 +3986,8 @@
 - [Mshakir-Git/Quantumjs](https://github.com/Mshakir-Git/Quantumjs) - Terminal game engine
 - [cncjs/cncjs](https://github.com/cncjs/cncjs) - A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.
 - [tedor/weather-station-frontend](https://github.com/tedor/weather-station-frontend) - Frontend for arduion-weather-station
-- [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder
+- [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder (React Project)
 - [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - Weather monitor based on ESP8266
-- [himikat123/Weather-monitor-BIM32](https://github.com/himikat123/Weather-monitor-BIM32) - Weather monitor based on ESP32 (Arduino Project)
 - [thesadabc/raspberrypi-tm1637-4display](https://github.com/thesadabc/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
@@ -4103,7 +4102,6 @@
 - [LuaLS/vscode-lua-doc](https://github.com/LuaLS/vscode-lua-doc) - 
 - [whitecatboard/whitecat-ide](https://github.com/whitecatboard/whitecat-ide) - The Whitecat IDE, to program the ecosystem in Blocks or Lua
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [dandavison/dotfiles](https://github.com/dandavison/dotfiles) - My dotfiles
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [yoshuawuyts/vmd](https://github.com/yoshuawuyts/vmd) - :pray: preview markdown files
 - [shime/livedown](https://github.com/shime/livedown) - Live Markdown previews for your favorite editor.
@@ -6477,6 +6475,7 @@
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [vv9k/configs](https://github.com/vv9k/configs) - 
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
+- [dandavison/dotfiles](https://github.com/dandavison/dotfiles) - My dotfiles
 - [open-dynaMIX/simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
 - [wbthomason/pdf-scribe.nvim](https://github.com/wbthomason/pdf-scribe.nvim) - Neovim plugin for importing annotations and metadata from PDFs
@@ -8594,8 +8593,8 @@
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-- [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) - My personal backup of my dotfiles on ThinkPad-X230-Debian-Openbox and Aspire-A514-Debian-Fluxbox
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about to install i3 & its and essentials packages, then make them look eye candy
+- [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) - My personal backup of my dotfiles of Debian 10 (Buster) on ThinkPad X230 with Openbox and Aspire A514 with Fluxbox
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Bookworm) setup
 - [listentolist/kakoune-rainbow](https://github.com/listentolist/kakoune-rainbow) - rainbow brackets plugin for the Kakoune text editor
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) - a lightweight, robust, scheme-like lisp implementation
@@ -9166,8 +9165,6 @@
 - [Seirdy/dotfiles](https://github.com/Seirdy/dotfiles) - Seirdy's dotfiles
 - [yutkat/dotfiles-mini](https://github.com/yutkat/dotfiles-mini) - 
 - [kyoh86/vim-editerm](https://github.com/kyoh86/vim-editerm) - 
-- [austinthresher/backpack](https://github.com/austinthresher/backpack) - user-space package manager
-- [austinthresher/bloated_dotfiles](https://github.com/austinthresher/bloated_dotfiles) - Personal dotfiles and configs
 - [challenger-deep-theme/gnome-terminal](https://github.com/challenger-deep-theme/gnome-terminal) - Challenger Deep Theme for GNOME Terminal
 - [nginx-le/nginx-le](https://github.com/nginx-le/nginx-le) - Nginx with automatic let's encrypt (docker image)
 - [sorbet/sorbet.run](https://github.com/sorbet/sorbet.run) - The online Sorbet playground
