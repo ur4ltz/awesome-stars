@@ -1219,6 +1219,8 @@
 
 ## C++ 
 
+- [pu2clr/BFO](https://github.com/pu2clr/BFO) - Simple BFO with Si5351A controlled by Arduino
+- [pu2clr/Small-Shortwave-Transmitter](https://github.com/pu2clr/Small-Shortwave-Transmitter) - Crystal and DDS Shortwave Trasmitter
 - [F5OEO/librpitx](https://github.com/F5OEO/librpitx) - Radio frequency transmitter library - Engine of rpitx
 - [phdlee/dspmeterv1](https://github.com/phdlee/dspmeterv1) - Standalone Signal Analyzer (I2C Type Signal-Meter) for uBITX - Arduino Nano Version
 - [pascallanger/DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models.
@@ -1994,7 +1996,7 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) - World's most powerful command line package manager
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
-- [AbiWord/enchant](https://github.com/AbiWord/enchant) - enchant spellchecking library
+- [rrthomas/enchant](https://github.com/rrthomas/enchant) - enchant spellchecking library
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [rychly/luaspell](https://github.com/rychly/luaspell) - Lua binding for Hunspell (a mirror repository, see the link).
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
@@ -2744,7 +2746,7 @@
 - [conao3/leaf-keywords.el](https://github.com/conao3/leaf-keywords.el) - Additional leaf.el keywords for external packages
 - [s-kostyaev/.emacs.d](https://github.com/s-kostyaev/.emacs.d) - my emacs configs
 - [snyball/emacs-fish-colors](https://github.com/snyball/emacs-fish-colors) - Set fish colors according to Emacs faces (useful for vterm)
-- [okamsn/loopy](https://github.com/okamsn/loopy) - A looping and iteration macro.
+- [okamsn/loopy](https://github.com/okamsn/loopy) - A better looping and iteration macro for Emacs.
 - [daviwil/dotcrafter.el](https://github.com/daviwil/dotcrafter.el) - Manage your dotfiles with Emacs!
 - [radian-software/diary-manager](https://github.com/radian-software/diary-manager) - 📔 Simple command-line tool and Emacs package for managing diary entries.
 - [radian-software/dumbparens](https://github.com/radian-software/dumbparens) - 📯 Minor mode for Emacs that deals with parens pairs and doesn't try to be smart about it.
@@ -3650,7 +3652,7 @@
 - [liuxu623/go-rtorrent](https://github.com/liuxu623/go-rtorrent) - rTorrent XMLRPC Bindings for Go
 - [mrobinsn/go-rtorrent](https://github.com/mrobinsn/go-rtorrent) - rTorrent XMLRPC Bindings for Go
 - [govim/govim](https://github.com/govim/govim) - govim is a Go development plugin for Vim8, written in Go
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [sourcegraph/lsp-adapter](https://github.com/sourcegraph/lsp-adapter) - lsp-adapter provides a proxy which adapts Sourcegraph LSP requests to vanilla LSP requests
 - [slytomcat/yandex-disk-simulator](https://github.com/slytomcat/yandex-disk-simulator) - yandex-disk utility simulator for integration tests (Linux)
 - [slytomcat/yd-qgo](https://github.com/slytomcat/yd-qgo) - Qt version of system tray indicator for Yandex.Disk CLI daemon (linux)
@@ -3770,6 +3772,7 @@
 
 ## HTML 
 
+- [pu2clr/PCF8574](https://github.com/pu2clr/PCF8574) - PCF8574 8-Bit I/O Expander
 - [oristopo/nVhelp](https://github.com/oristopo/nVhelp) - nanoVNA user documentation
 - [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension) - Source code for 2FAS Browser Extension
 - [ok1hra/IC-705_Interface](https://github.com/ok1hra/IC-705_Interface) - ESP32 interface for IC-705
@@ -4375,7 +4378,7 @@
 - [lewis6991/foldsigns.nvim](https://github.com/lewis6991/foldsigns.nvim) - Signs for folded lines
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [jedrzejboczar/exrc.nvim](https://github.com/jedrzejboczar/exrc.nvim) - Utilities for writing Neovim exrc files
-- [hedyhli/dotfiles](https://github.com/hedyhli/dotfiles) - ~&gt; $HOME sweet /home/ — (neo)vim, emacs, fish, git, shell scripts and more
+- [hedyhli/dotfiles](https://github.com/hedyhli/dotfiles) - $HOME sweet /home/ — mostly neovim, emacs, and shell scripts
 - [hedyhli/markdown-toc.nvim](https://github.com/hedyhli/markdown-toc.nvim) - Generate and auto-update table of contents list for markdown
 - [ray-x/telescope-ast-grep.nvim](https://github.com/ray-x/telescope-ast-grep.nvim) - AST grep extension for telescope.nvim
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim.
@@ -4526,7 +4529,7 @@
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) - A neovim plugin to navigate and execute code cells
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm's gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements.
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - A Neovim plugin helping you establish good command workflow and quit bad habit
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit
 - [ten3roberts/window-picker.nvim](https://github.com/ten3roberts/window-picker.nvim) - Easily jump, pick and swap vim windows by annotated letters
 - [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) - A neovim plugin for viewing images.
@@ -8453,7 +8456,7 @@
 - [Joakker/lua-json5](https://github.com/Joakker/lua-json5) - A json5 parser for luajit
 - [rhysd/vim-color-spring-night](https://github.com/rhysd/vim-color-spring-night) - Low-contrast calm color scheme for Vim
 - [condy0919/rua](https://github.com/condy0919/rua) - Lua dialect in rust
-- [doums/baru](https://github.com/doums/baru) - A system monitor written in Rust and C
+- [doums/baru](https://github.com/doums/baru) - A simple system monitor for WM statusbar
 - [TheNerdyHamster/tnh-wm](https://github.com/TheNerdyHamster/tnh-wm) - Personal WM written in rust with Penrose
 - [jenterkin/some-editor](https://github.com/jenterkin/some-editor) - toying with making a text editor
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -8666,7 +8669,6 @@
 - [atusy/zsh-nvrepl](https://github.com/atusy/zsh-nvrepl) - 
 - [thytom/dwmbar](https://github.com/thytom/dwmbar) - A Modular Status Bar for dwm.
 - [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator for Tmux.
-- [rashed145/TermuxGUI](https://github.com/rashed145/TermuxGUI) - Termux GUI setup for VNC
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [kiyoon/treemux](https://github.com/kiyoon/treemux) - A modern file explorer (Nvim-Tree) as a Tmux sidebar, with dynamic updates and bi-directional interaction.
@@ -9541,7 +9543,6 @@
 - [Luxed/ayu-vim](https://github.com/Luxed/ayu-vim) - Modern theme for modern VIMs
 - [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 - [girishji/ngram-complete.vim](https://github.com/girishji/ngram-complete.vim) - Autocompletion based on frequency of word occurrence in English corpus.
-- [girishji/vsnip-complete.vim](https://github.com/girishji/vsnip-complete.vim) - Snippets Autocompletion for Vimcomplete.
 - [girishji/omnifunc-complete.vim](https://github.com/girishji/omnifunc-complete.vim) - Autocompletion source of builtin omnifunc for Vimcomplete plugin.
 - [girishji/lsp-complete.vim](https://github.com/girishji/lsp-complete.vim) - Autocompletion based on LSP for Vimcomplete.
 - [girishji/vimscript-complete.vim](https://github.com/girishji/vimscript-complete.vim) - Autocompletion of Vimscript functions, variables, and other language features for Vimcomplete plugin.
