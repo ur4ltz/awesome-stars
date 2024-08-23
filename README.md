@@ -1996,7 +1996,6 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) - World's most powerful command line package manager
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
-- [rrthomas/enchant](https://github.com/rrthomas/enchant) - enchant spellchecking library
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [rychly/luaspell](https://github.com/rychly/luaspell) - Lua binding for Hunspell (a mirror repository, see the link).
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
@@ -2547,6 +2546,7 @@
 - [abo-abo/orly](https://github.com/abo-abo/orly) - Additional Org-mode link types and completion for them
 - [abo-abo/function-args](https://github.com/abo-abo/function-args) - C++ completion for GNU Emacs
 - [bookest/arduino-mode](https://github.com/bookest/arduino-mode) - Emacs major mode for editing Arduino sketches.
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [Shopify/shadowenv.el](https://github.com/Shopify/shadowenv.el) - Shadowenv integration for emacs
 - [mpwang/perfect-margin](https://github.com/mpwang/perfect-margin) - [emacs] auto center emacs windows, work with minimap and/or linum-mode
 - [clojure-emacs/parseedn](https://github.com/clojure-emacs/parseedn) - EDN parser for Emacs Lisp
@@ -3787,7 +3787,6 @@
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
-- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
@@ -9516,6 +9515,7 @@
 
 ## Vala 
 
+- [rrthomas/enchant](https://github.com/rrthomas/enchant) - enchant spellchecking library
 - [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
