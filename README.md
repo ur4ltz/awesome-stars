@@ -294,7 +294,7 @@
 - [dmitrii-rudnev/selenite-habr](https://github.com/dmitrii-rudnev/selenite-habr) - STM32F4 HAL USB Composite Device
 - [dmitrii-rudnev/selenite-habr-uac](https://github.com/dmitrii-rudnev/selenite-habr-uac) - STM32F4 HAL USB Audio Device
 - [dmitrii-rudnev/selenite-habr-cw](https://github.com/dmitrii-rudnev/selenite-habr-cw) - STM32 CW Iambic Keyer
-- [dmitrii-rudnev/selenite-lite](https://github.com/dmitrii-rudnev/selenite-lite) - Selenite Lite SDR HF Transceiver firmware
+- [dmitrii-rudnev/selenite-lite](https://github.com/dmitrii-rudnev/selenite-lite) - Selenite Lite SDR HF Transceiver Base Edition firmware
 - [dmitrii-rudnev/radio-76-cat](https://github.com/dmitrii-rudnev/radio-76-cat) - CAT interface for Radio-76 HAM transceiver
 - [kamilsss655/uv-k5-firmware-custom](https://github.com/kamilsss655/uv-k5-firmware-custom) - Open re-implementation of the Quansheng UV-K5 firmware
 - [rafael2k/sbitx](https://github.com/rafael2k/sbitx) - 
@@ -2002,7 +2002,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.4: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs(in addition, you need a bit of HW on a breadboard)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
