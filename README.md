@@ -72,6 +72,7 @@
 - [Nix](#nix)
 - [Nu](#nu)
 - [Nunjucks](#nunjucks)
+- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-J](#objective-j)
@@ -6924,6 +6925,10 @@
 
 - [pysan3/Norg-Tutorial2](https://github.com/pysan3/Norg-Tutorial2) - Norg tutorial with kickstart configuration and awesome website.
 
+## Nushell 
+
+- [euclidianAce/dotfiles](https://github.com/euclidianAce/dotfiles) - 
+
 ## OCaml 
 
 - [tjdevries/m-lua](https://github.com/tjdevries/m-lua) - o lua m'lua
@@ -7888,7 +7893,6 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [whitecatboard/whitecat-console](https://github.com/whitecatboard/whitecat-console) - A command line tool for send and receive files to Lua RTOS compatible boards without an IDE
 - [wbthomason/import-todoist.nvim](https://github.com/wbthomason/import-todoist.nvim) - A simple importer of completed Todoist tasks into Neovim
-- [ctarx/mac_dotfiles](https://github.com/ctarx/mac_dotfiles) - My macOS dotfiles
 - [hrsh7th/deoplete-calc](https://github.com/hrsh7th/deoplete-calc) - calculates at completion.
 - [hrsh7th/deoplete-fname](https://github.com/hrsh7th/deoplete-fname) - filename completion for deoplete.nvim.
 - [hrsh7th/vim-denite-gitto](https://github.com/hrsh7th/vim-denite-gitto) - denite with vim-gitto
@@ -8424,7 +8428,7 @@
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [ayosec/alacritty](https://github.com/ayosec/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [hadronized/this-week-in-neovim.org](https://github.com/hadronized/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [lukas-reineke/cbfmt](https://github.com/lukas-reineke/cbfmt) - A tool to format codeblocks inside markdown and org documents.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -9911,7 +9915,7 @@
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for profiling Vim and Neovim startup time.
 - [dstein64/dotfiles](https://github.com/dstein64/dotfiles) - My personal dotfiles.
 - [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool
-- [rbong/vim-flog](https://github.com/rbong/vim-flog) - A fast, beautiful, and powerful git branch viewer for vim.
+- [rbong/vim-flog](https://github.com/rbong/vim-flog) - A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.
 - [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
 - [othree/html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax
 - [othree/yajs.vim](https://github.com/othree/yajs.vim) - YAJS.vim: Yet Another JavaScript Syntax for Vim
@@ -9978,7 +9982,6 @@
 - [dhruvasagar/vim-prosession](https://github.com/dhruvasagar/vim-prosession) - Handle vim sessions like a pro
 - [Th3Whit3Wolf/Almost-Finished-Neovim-Config](https://github.com/Th3Whit3Wolf/Almost-Finished-Neovim-Config) - 
 - [drcrazykid/linux_things](https://github.com/drcrazykid/linux_things) - 
-- [rBrda/myKeymap](https://github.com/rBrda/myKeymap) - A simple plugin to list and search key mappings in (neo)vim. Based on fzf.vim.
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 - [nvimdev/oceanic-material](https://github.com/nvimdev/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
@@ -10844,7 +10847,6 @@
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [euclidianAce/dotfiles](https://github.com/euclidianAce/dotfiles) - 
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
 ## jq 
