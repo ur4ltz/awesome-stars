@@ -2591,6 +2591,7 @@
 - [shuxiao9058/emacs-config](https://github.com/shuxiao9058/emacs-config) - Back-up of my finely tweaked Emacs configuration
 - [emacs-lsp/lsp-gitpod](https://github.com/emacs-lsp/lsp-gitpod) - 
 - [fredcamps/lsp-jedi](https://github.com/fredcamps/lsp-jedi) - A LSP client for Emacs using Python Jedi Language Server
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [chmouel/emacs-swivb](https://github.com/chmouel/emacs-swivb) - 
 - [emacs-grammarly/lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
 - [anuvyklack/emacs](https://github.com/anuvyklack/emacs) - 
@@ -5450,7 +5451,6 @@
 - [tamago324/lsp-preview-hover-doc.nvim](https://github.com/tamago324/lsp-preview-hover-doc.nvim) - textDocument/hover plugin
 - [astoff/digestif](https://github.com/astoff/digestif) - A language server for TeX and friends
 - [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [fitrh/init.nvim](https://github.com/fitrh/init.nvim) - What nvim talk about when they talk about configuration
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
