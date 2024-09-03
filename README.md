@@ -8494,6 +8494,7 @@
 - [austinjones/tab-rs](https://github.com/austinjones/tab-rs) - The intuitive, config-driven terminal multiplexer designed for software & systems engineers
 - [sminez/my-penrose-config](https://github.com/sminez/my-penrose-config) - My personal penrose config
 - [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager
+- [cosmicexplorer/funnel](https://github.com/cosmicexplorer/funnel) - A transpiler, standard library, and self-bootstrapping tool environment to write more portable and maintainable bash scripts.
 - [tjdevries/rofl.nvim](https://github.com/tjdevries/rofl.nvim) - Rust On the FLY completion for neovim
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [oknozor/illumination](https://github.com/oknozor/illumination) - A mardown renderer for nvim written with gtkrs and neovim-lib
@@ -8582,7 +8583,6 @@
 
 ## Scala 
 
-- [cosmicexplorer/funnel](https://github.com/cosmicexplorer/funnel) - A transpiler, standard library, and self-bootstrapping tool environment to write more portable and maintainable bash scripts.
 - [hkupty/nero.nvim](https://github.com/hkupty/nero.nvim) - The Neovim REPL.
 - [jonas/example-gitbook-site-with-tut](https://github.com/jonas/example-gitbook-site-with-tut) - Example GitBook sbt-site using tut
 - [gtache/intellij-lsp](https://github.com/gtache/intellij-lsp) - Plugin adding Language Server Protocol support for IntelliJ
