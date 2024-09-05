@@ -88,6 +88,7 @@
 - [Processing](#processing)
 - [Python](#python)
 - [QMake](#qmake)
+- [ReScript](#rescript)
 - [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
@@ -2633,7 +2634,6 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -2643,7 +2643,6 @@
 - [xFA25E/pueue](https://github.com/xFA25E/pueue) - Emacs interface for Pueue
 - [xFA25E/shell-pwd](https://github.com/xFA25E/shell-pwd) - Show emacs shell current working directory in the mode-line
 - [xFA25E/skempo](https://github.com/xFA25E/skempo) - Enhance Emacs skeleton, tempo and abbrev.
-- [cheeze2000/delicade-theme](https://github.com/cheeze2000/delicade-theme) - an Emacs theme based on pastel colours
 - [cheeze2000/elcord-wsl](https://github.com/cheeze2000/elcord-wsl) - Discord Rich Presence for Emacs on WSL
 - [nloyola/.emacs.d](https://github.com/nloyola/.emacs.d) - Emacs configuration
 - [larkery/emacs](https://github.com/larkery/emacs) - 
@@ -4557,7 +4556,7 @@
 - [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with tmux, telescope integration, and native dot repeat.
 - [snelling-a/base16.nvim](https://github.com/snelling-a/base16.nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
-- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  312  LOC )
+- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  300 LOC )
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Quarto mode for Neovim
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [calind/selenized.nvim](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme for Neovim with support for Tree-sitter, nvim-cmp, GitSigns and some more
@@ -5683,7 +5682,7 @@
 - [sbulav/nredir.nvim](https://github.com/sbulav/nredir.nvim) - Redirect the output of Vim or external command to scratch buffer, in LUA
 - [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
 - [dokutan/macrodevice](https://github.com/dokutan/macrodevice) - Turn any input device into a dedicated macrodevice.
-- [martinsione/darkplus.nvim](https://github.com/martinsione/darkplus.nvim) - 
+- [martinsione/darkplus.nvim](https://github.com/martinsione/darkplus.nvim) - VSCode official theme for neovim
 - [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) - Tree-sitter powered syntax-aware completion framework.
 - [sunjon/Shade.nvim](https://github.com/sunjon/Shade.nvim) - An Nvim lua plugin that dims your inactive windows
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - 🗂 Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders) from within Neovim.
@@ -7744,6 +7743,7 @@
 - [python-poetry/poetry-core](https://github.com/python-poetry/poetry-core) - Poetry PEP 517 Build Backend & Core Utilities
 - [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export) - Poetry plugin to export the dependencies to various formats
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [sindresorhus/editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) - Sublime Text plugin for EditorConfig - Helps developers maintain consistent coding styles between different editors
 - [Kronuz/ColorHighlight](https://github.com/Kronuz/ColorHighlight) - 🎨 Lightweight Color Highlight colorizer for Sublime Text
 - [sublimelsp/lsp_utils](https://github.com/sublimelsp/lsp_utils) - Module with LSP-related utilities for Sublime Text
@@ -8243,6 +8243,10 @@
 
 - [VioletGiraffe/GPS-Server](https://github.com/VioletGiraffe/GPS-Server) - A TCP server that listens to the locally connected GPS receiver and translates its incoming data over the network.
 
+## ReScript 
+
+- [bakkeby/dusk.resources](https://github.com/bakkeby/dusk.resources) - Xresource themes and example status scripts, etc. for dusk
+
 ## Reason 
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
@@ -8712,7 +8716,6 @@
 - [Mte90/gitapper](https://github.com/Mte90/gitapper) - Remap Git with your custom scripts or new commands
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [UtkarshVerma/dotfiles](https://github.com/UtkarshVerma/dotfiles) - Dotfiles of my Arch Linux setup.
-- [bakkeby/dusk.resources](https://github.com/bakkeby/dusk.resources) - Xresource themes and example status scripts, etc. for dusk
 - [nguyenvukhang/ags](https://github.com/nguyenvukhang/ags) - ags scans your local git repositories for unstaged files and unpushed commits
 - [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
