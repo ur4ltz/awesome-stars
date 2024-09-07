@@ -2310,7 +2310,6 @@
 - [AndreLZGava/font-awesome-extension](https://github.com/AndreLZGava/font-awesome-extension) - Simple Font Awesome Extension
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [AndronixApp/docs](https://github.com/AndronixApp/docs) - 
-- [loctvl842/BeastFiles](https://github.com/loctvl842/BeastFiles) - My dotfiles
 - [davinche/godown-vim](https://github.com/davinche/godown-vim) - Vim plugin for Godown Markdown Previewer
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
@@ -2592,7 +2591,6 @@
 - [shuxiao9058/emacs-config](https://github.com/shuxiao9058/emacs-config) - Back-up of my finely tweaked Emacs configuration
 - [emacs-lsp/lsp-gitpod](https://github.com/emacs-lsp/lsp-gitpod) - 
 - [fredcamps/lsp-jedi](https://github.com/fredcamps/lsp-jedi) - A LSP client for Emacs using Python Jedi Language Server
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [chmouel/emacs-swivb](https://github.com/chmouel/emacs-swivb) - 
 - [emacs-grammarly/lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
 - [anuvyklack/emacs](https://github.com/anuvyklack/emacs) - 
@@ -4663,7 +4661,7 @@
 - [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
 - [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) - Neovim plugin that simplifies macros, enhancing productivity with harmony.
 - [nazo6/nvim](https://github.com/nazo6/nvim) - 
-- [vsedov/nvim](https://github.com/vsedov/nvim) - Some really weird setup, am I a plugin Hoe  ? im not sure ?
+- [vsedov/PoloVim](https://github.com/vsedov/PoloVim) - Some really weird setup, am I a plugin Hoe  ? im not sure ?
 - [ten3roberts/qf.nvim](https://github.com/ten3roberts/qf.nvim) - Extends the default quickfix and location lists for neovim
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
 - [davidosomething/everandever.nvim](https://github.com/davidosomething/everandever.nvim) - Lua utilities for composing an LSP progress indicator.
@@ -5450,6 +5448,7 @@
 - [tamago324/lsp-preview-hover-doc.nvim](https://github.com/tamago324/lsp-preview-hover-doc.nvim) - textDocument/hover plugin
 - [astoff/digestif](https://github.com/astoff/digestif) - A language server for TeX and friends
 - [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [fitrh/init.nvim](https://github.com/fitrh/init.nvim) - What nvim talk about when they talk about configuration
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
@@ -5772,7 +5771,6 @@
 - [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles:
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
-- [evantravers/dotfiles](https://github.com/evantravers/dotfiles) - My personal dotfiles… both to set up a new computer and to keep my dev environments synced.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
 - [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.11.0-dev-322+ge7020306a) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
@@ -6137,7 +6135,7 @@
 - [terrortylor/neovim-environment](https://github.com/terrortylor/neovim-environment) - My neovim environment
 - [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment) - A comment toggler for Neovim, written in Lua
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
-- [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
+- [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 - [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals) - A Metals plugin for Neovim
 - [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles) - All of my dotfiles are here.
 - [lunarmodules/lualogging](https://github.com/lunarmodules/lualogging) - A simple API to use logging features in Lua
@@ -6904,6 +6902,7 @@
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
+- [evantravers/dotfiles](https://github.com/evantravers/dotfiles) - My personal dotfiles… both to set up a new computer and to keep my dev environments synced.
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles) - Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
 - [aserowy/dots](https://github.com/aserowy/dots) - dotfiles
@@ -8661,6 +8660,7 @@
 - [cpea2506/dotfiles](https://github.com/cpea2506/dotfiles) - dotfiles in the pea shell.
 - [cpea2506/zcraft](https://github.com/cpea2506/zcraft) - A minimal zsh theme
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
+- [loctvl842/BeastFiles](https://github.com/loctvl842/BeastFiles) - My dotfiles
 - [cameron-wags/dmenu](https://github.com/cameron-wags/dmenu) - My fork, packaged and patched with fuzzy match
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [xPMo/zsh-ls-colors](https://github.com/xPMo/zsh-ls-colors) - A zsh library to use LS_COLORS
