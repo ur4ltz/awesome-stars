@@ -1198,6 +1198,7 @@
 
 ## C# # 
 
+- [qrp73/K5TOOL](https://github.com/qrp73/K5TOOL) - UV-K5 toolkit utility to read/write EEPROM and flashing firmware for Quansheng UV-K5 radios
 - [nicsure/QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
 - [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
 - [LONELY-WOLF/WatchDoge](https://github.com/LONELY-WOLF/WatchDoge) - Very simple Arduino watch project
@@ -2532,7 +2533,7 @@
 - [magnars/change-inner.el](https://github.com/magnars/change-inner.el) - Emacs version of vim's ci and co commands
 - [magnars/string-edit.el](https://github.com/magnars/string-edit.el) - Avoid escape nightmares by editing strings in a separate buffer
 - [magnars/s.el](https://github.com/magnars/s.el) - The long lost Emacs string manipulation library.
-- [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - read-only mirror of https://git.sr.ht/~theorytoe/everforest-theme
+- [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - everforest for emacs!
 - [emacs-tree-sitter/ts-fold](https://github.com/emacs-tree-sitter/ts-fold) - Code-folding using tree-sitter
 - [emacs-tree-sitter/tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) - Language bundle for Emacs's tree-sitter package
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
@@ -2600,7 +2601,6 @@
 - [ag91/moldable-emacs](https://github.com/ag91/moldable-emacs) - Adapting Emacs for moldable development
 - [andreyorst/dotfiles](https://github.com/andreyorst/dotfiles) - Emacs configurations and other stuff (mirror)
 - [jan-warchol/selenized](https://github.com/jan-warchol/selenized) - Solarized redesigned: fine-tuned color palette for programmers with focus on readability.
-- [Sharparam/dotfiles](https://github.com/Sharparam/dotfiles) - Collection of my dotfiles
 - [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [honmaple/maple-emacs](https://github.com/honmaple/maple-emacs) - Emacs configuration
 - [honmaple/emacs-maple-modeline](https://github.com/honmaple/emacs-maple-modeline) - Beautiful emacs modeline
@@ -3369,9 +3369,11 @@
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~p00f/godbolt.nvim instead
+- [iagoleal/dotfiles](https://github.com/iagoleal/dotfiles) - 
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [rafaeldelboni/cajus-nvim](https://github.com/rafaeldelboni/cajus-nvim) - Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure.
 - [m15a/vim-fennel-syntax](https://github.com/m15a/vim-fennel-syntax) - Yet another Vim syntax highlighting plugin for Fennel
+- [Sharparam/dotfiles](https://github.com/Sharparam/dotfiles) - Collection of my dotfiles
 - [alexaandru/froggy](https://github.com/alexaandru/froggy) - Neovim theme
 - [alexaandru/nvim-config](https://github.com/alexaandru/nvim-config) - Nvim config
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
@@ -4197,7 +4199,6 @@
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [zhovner/zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
-- [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [sergioramos/jsctags](https://github.com/sergioramos/jsctags) - jsctags generator using tern
 - [ternjs/tern](https://github.com/ternjs/tern) - A JavaScript code analyzer for deep, cross-editor language support
 - [IonicaBizau/cli-github](https://github.com/IonicaBizau/cli-github) - :smile_cat: A fancy GitHub client for command line.
@@ -4386,7 +4387,7 @@
 - [notomo/optpack.nvim](https://github.com/notomo/optpack.nvim) - Neovim plugin manager that uses only opt packages
 - [FredeEB/tardis.nvim](https://github.com/FredeEB/tardis.nvim) - Timetravel for neovim
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
-- [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) - 
+- [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) - Make Wezterm config overrides from inside Neovim
 - [abeldekat/lazyflex.nvim](https://github.com/abeldekat/lazyflex.nvim) - An addon for lazy.nvim. Easily enable/disable multiple plugins.
 - [svermeulen/nvim-lusc](https://github.com/svermeulen/nvim-lusc) - Structured Async/Concurrency in Neovim
 - [Zeioth/dooku.nvim](https://github.com/Zeioth/dooku.nvim) - Code documentation generator for Neovim
@@ -5559,7 +5560,7 @@
 - [arjunmahishi/dotfiles](https://github.com/arjunmahishi/dotfiles) - A collection of my dotfiles
 - [arjunmahishi/flow.nvim](https://github.com/arjunmahishi/flow.nvim) - A neovim plugin that lets you build custom commands to automate parts of your development workflow
 - [nvim-pack/lsp-fastaction.nvim](https://github.com/nvim-pack/lsp-fastaction.nvim) - lsp codeaction UI for neovim
-- [akinsho/pubspec-assist.nvim](https://github.com/akinsho/pubspec-assist.nvim) - 
+- [nvim-flutter/pubspec-assist.nvim](https://github.com/nvim-flutter/pubspec-assist.nvim) - 
 - [nvim-orgmode/org-bullets.nvim](https://github.com/nvim-orgmode/org-bullets.nvim) - 
 - [jackysee/telescope-hg.nvim](https://github.com/jackysee/telescope-hg.nvim) - Telescope plugin for mercurial (hg) repo
 - [rafcamlet/tabline-framework.nvim](https://github.com/rafcamlet/tabline-framework.nvim) - User-friendly framework for building your dream tabline in a few lines of code.
@@ -8801,7 +8802,6 @@
 - [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
 - [AlphaTechnolog/dotfiles-old](https://github.com/AlphaTechnolog/dotfiles-old) - This is my dotfiles for the xmonadwm, xmobar, qtile, polybar, bspwm, sxhkd, spectrwm, dwm, dwmblocks, i3, polybar-for-i3, custom scripts and others programs configs!
 - [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
-- [iagoleal/dotfiles](https://github.com/iagoleal/dotfiles) - 
 - [IndianBoy42/fish-auto-source](https://github.com/IndianBoy42/fish-auto-source) - Never type "source ~/.config/fish/config.fish" again
 - [bmalehorn/fish-auto-source](https://github.com/bmalehorn/fish-auto-source) - Never type "source ~/.config/fish/config.fish" again
 - [FotiadisM/dotfiles](https://github.com/FotiadisM/dotfiles) - 
@@ -9507,6 +9507,7 @@
 - [ASDAlexander77/TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) - The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for LUA bytecode
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
+- [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
