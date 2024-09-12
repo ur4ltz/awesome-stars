@@ -3376,6 +3376,7 @@
 - [Sharparam/dotfiles](https://github.com/Sharparam/dotfiles) - Collection of my dotfiles
 - [alexaandru/froggy](https://github.com/alexaandru/froggy) - Neovim theme
 - [alexaandru/nvim-config](https://github.com/alexaandru/nvim-config) - Nvim config
+- [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - dotfiles on an m1 mac
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - deprecated in favor of leap.nvim
 - [Gavinok/dotneovim](https://github.com/Gavinok/dotneovim) - My attempt at transitioning to neovim and embracing the crazy things people are doing with it.
@@ -5834,7 +5835,6 @@
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
-- [mizlan/dotfiles](https://github.com/mizlan/dotfiles) - dotfiles on an m1 mac
 - [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - see mizlan/dotfiles
 - [mizlan/vis-config](https://github.com/mizlan/vis-config) - 
 - [mizlan/microscope.nvim](https://github.com/mizlan/microscope.nvim) - Small Telescope-esque picker thing
