@@ -1198,7 +1198,7 @@
 
 ## C# # 
 
-- [qrp73/K5TOOL](https://github.com/qrp73/K5TOOL) - UV-K5 toolkit utility to read/write EEPROM and flashing firmware for Quansheng UV-K5 radios
+- [qrp73/K5TOOL](https://github.com/qrp73/K5TOOL) - UV-K5 toolkit utility to read/write EEPROM and flashing firmware for Quansheng UV-K5 and UV-R5 radios
 - [nicsure/QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
 - [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
 - [LONELY-WOLF/WatchDoge](https://github.com/LONELY-WOLF/WatchDoge) - Very simple Arduino watch project
@@ -4432,7 +4432,7 @@
 - [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) - Predictable LSP code actions
 - [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) - A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) - Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url
-- [coffebar/neovim-project](https://github.com/coffebar/neovim-project) - Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope.
+- [coffebar/neovim-project](https://github.com/coffebar/neovim-project) - Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope or fzf-lua..
 - [cryptomilk/nightcity.nvim](https://github.com/cryptomilk/nightcity.nvim) - 🏙 Night City - A dark colorscheme for Neovim with LSP support
 - [judaew/ronny.nvim](https://github.com/judaew/ronny.nvim) - Neovim/Vim color scheme inspired by Monokai theme
 - [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
@@ -6586,7 +6586,6 @@
 - [lutobler/vis-git-status](https://github.com/lutobler/vis-git-status) - Vis plugin for displaying git information in the status bar
 - [lutobler/vis-surround](https://github.com/lutobler/vis-surround) - Vis plugin to easily modify surrounding quotes or brackets
 - [lutobler/vis-commentary](https://github.com/lutobler/vis-commentary) - Vis plugin for easy block commenting
-- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [lutobler/vis-modelines](https://github.com/lutobler/vis-modelines) - Vis plugin that tries to read standard Vim modelines with an LPEG parser
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [haorenW1025/dotfiles](https://github.com/haorenW1025/dotfiles) - My dot files with neovim setting
@@ -7969,6 +7968,7 @@
 - [rmartin16/qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) - Python client implementation for qBittorrent's Web API
 - [nbusseneau/qBittorrent-RuTracker-plugin](https://github.com/nbusseneau/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [veggiedefender/http-server](https://github.com/veggiedefender/http-server) - A minimal HTTP server implemented from scratch using Python sockets and threads
+- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [austinthresher/luna-proto](https://github.com/austinthresher/luna-proto) - Prototyping ideas for text editing
 - [mzfr/rsh](https://github.com/mzfr/rsh) - generate reverse shell from CLI for linux and Windows.
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
@@ -9296,7 +9296,7 @@
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for MSYS2.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
 - [thenigan/git-diffall](https://github.com/thenigan/git-diffall) - Script to perform directory diffs using an external diff tool in Git
 - [sjl/learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
