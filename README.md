@@ -458,7 +458,7 @@
 - [jdryg/vg-renderer](https://github.com/jdryg/vg-renderer) - A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
 - [tronkko/dirent](https://github.com/tronkko/dirent) - C/C++ library for retrieving information on files and directories
 - [mauke/unibilium](https://github.com/mauke/unibilium) - a terminfo parsing library
-- [neovim/unibilium](https://github.com/neovim/unibilium) - https://github.com/neovim/neovim/wiki/Deps#forks
+- [neovim/unibilium](https://github.com/neovim/unibilium) - https://github.com/neovim/neovim/blob/master/MAINTAIN.md#third-party-dependencies
 - [tree-sitter-grammars/tree-sitter-hlsl](https://github.com/tree-sitter-grammars/tree-sitter-hlsl) - HLSL grammar for tree-sitter
 - [IngoZenz/ics-openvpn](https://github.com/IngoZenz/ics-openvpn) - OpenVPN for Android
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -3910,7 +3910,6 @@
 - [AndreyPavlenko/transmissionbtc](https://github.com/AndreyPavlenko/transmissionbtc) - Transmission BitTorrent Client for Android
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [jawi/ols](https://github.com/jawi/ols) - OpenBench LogicSniffer repository
-- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [termux/termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -4493,7 +4492,6 @@
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
 - [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim) - Plugin to open LazyDocker without quiting neovim
 - [fabius/molokai.nvim](https://github.com/fabius/molokai.nvim) - 
-- [dorrajmachai/nvim](https://github.com/dorrajmachai/nvim) - My Neovim configuration
 - [doums/dark.nvim](https://github.com/doums/dark.nvim) - A dark color scheme for nvim
 - [nvimdev/flybuf.nvim](https://github.com/nvimdev/flybuf.nvim) - show buffers in a float window and support use shortcut to open buffer
 - [nvimdev/nerdicons.nvim](https://github.com/nvimdev/nerdicons.nvim) - get the nerdfont icons inside neovim
