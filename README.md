@@ -5772,7 +5772,7 @@
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [evantravers/dotfiles](https://github.com/evantravers/dotfiles) - My personal dotfiles… both to set up a new computer and to keep my dev environments synced.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.11.0-dev-322+ge7020306a) lua config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.11.0-dev-782+ga0d8c2b86) lua config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -7316,7 +7316,6 @@
 - [sparkfun/SparkFun-Eagle-Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) - SparkFun's Public Eagle PCB Footprints
 - [challenger-deep-theme/alacritty](https://github.com/challenger-deep-theme/alacritty) - Alacritty Theme
 - [SofianeHamlaoui/i3-Polybar-showdesktop-module](https://github.com/SofianeHamlaoui/i3-Polybar-showdesktop-module) - :recycle: A Polybar ShowDesktop module (like the Windows one)
-- [xrkk/awesome-ida](https://github.com/xrkk/awesome-ida) - moved to: https://github.com/alphaSeclab/awesome-reverse-engineering
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [scmrtos/scmrtos-sample-projects](https://github.com/scmrtos/scmrtos-sample-projects) - 
 - [widgetii/ruswasmnotes](https://github.com/widgetii/ruswasmnotes) - My notes about Webassembly technology in Russian
@@ -7463,7 +7462,7 @@
 - [arjanadriaanse/pascal-language-server](https://github.com/arjanadriaanse/pascal-language-server) - LSP server implementation for Pascal
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) - Double Commander is a free cross platform open source file manager with two panels side by side.
 - [OleksiyPenkov/MyHomeLib](https://github.com/OleksiyPenkov/MyHomeLib) - MyHomeLib – комп'ютерна програма для керування домашньою бібліотекою електронних книг. MyHomeLib може використовуватися не тільки для каталогізації колекції файлів з електронними книгами, але і як клі
-- [nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash) - Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, UsbAsp, AVRISP(LUFA), Arduino, FT232H.
+- [nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash) - Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 - [LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe) - A GUI based installer for FPC and Lazarus
 - [pozitronik/CloudMailRu](https://github.com/pozitronik/CloudMailRu) - Total Commander plugin for cloud.mail.ru service
@@ -9471,7 +9470,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [aioutecism/amVim-for-VSCode](https://github.com/aioutecism/amVim-for-VSCode) - The Vim mode for Visual Studio Code(vscode) that works as expected.
-- [bazelbuild/vscode-bazel](https://github.com/bazelbuild/vscode-bazel) - Bazel support for Visual Studio Code
+- [bazel-contrib/vscode-bazel](https://github.com/bazel-contrib/vscode-bazel) - Bazel support for Visual Studio Code
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [kizza/actionmenu.nvim](https://github.com/kizza/actionmenu.nvim) - A nice context menu for vim
 - [neoclide/vim-node-rpc](https://github.com/neoclide/vim-node-rpc) - Make vim behavior like neovim rpc server by use node server in the middle.
