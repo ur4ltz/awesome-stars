@@ -99,6 +99,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Spline Font Database](#spline-font-database)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -862,7 +863,6 @@
 - [hiroshiyui/epgrab](https://github.com/hiroshiyui/epgrab) - Grab DVB EPG data.
 - [da-nie/SimplyVGAVideoCard](https://github.com/da-nie/SimplyVGAVideoCard) - Простейшая VGA-видеокарта на Atmega168-20.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [j2969719/doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander (third-party)
 - [JuliaStrings/utf8proc](https://github.com/JuliaStrings/utf8proc) - a clean C library for processing UTF-8 Unicode data
 - [shmuz/lsqlite3-s](https://github.com/shmuz/lsqlite3-s) - 
@@ -2091,6 +2091,7 @@
 - [ike9000e/p7z-usr](https://github.com/ike9000e/p7z-usr) - Stop war; stop Putin -- Plugin for Double Commander that adds 7-Zip compatible archives. Formats: 7z, Udf, VHD, SquashFS, NTFS, Rpm, Chm and more. Based on 7-Zip and P7ZIP projects.
 - [AndersMalmgren/qBittorrent](https://github.com/AndersMalmgren/qBittorrent) - qBittorrent BitTorrent client
 - [zhaozg/lua-webview](https://github.com/zhaozg/lua-webview) - 
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [nuspell/nuspell](https://github.com/nuspell/nuspell) - 🖋️ Fast and safe spellchecking C++ library
 - [bodqhrohro/DCPoppler](https://github.com/bodqhrohro/DCPoppler) - PDF viewer plugin for Double Commander
 - [doublecmd/plugins](https://github.com/doublecmd/plugins) - Some official and third-party plugins
@@ -2267,6 +2268,7 @@
 - [fatih/subvim](https://github.com/fatih/subvim) - Vim customized to be like SublimeText
 - [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
 - [lewei50/LeweiTcpClient](https://github.com/lewei50/LeweiTcpClient) - An arduino example（TCP） with  Lewei50 (IOT)  platform for free use .
+- [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [lsdev/LiteStep](https://github.com/lsdev/LiteStep) - LiteStep Alternative Shell
@@ -4379,7 +4381,7 @@
 - [hedyhli/dotfiles](https://github.com/hedyhli/dotfiles) - $HOME sweet /home/ — mostly neovim, emacs, and shell scripts
 - [hedyhli/markdown-toc.nvim](https://github.com/hedyhli/markdown-toc.nvim) - Generate and auto-update table of contents list for markdown
 - [ray-x/telescope-ast-grep.nvim](https://github.com/ray-x/telescope-ast-grep.nvim) - AST grep extension for telescope.nvim
-- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim.
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Forked from symbols-outline.nvim.
 - [nvimdev/epo.nvim](https://github.com/nvimdev/epo.nvim) - A blazing fast and minimal neovim autocompletion
 - [boltlessengineer/smart-tab.nvim](https://github.com/boltlessengineer/smart-tab.nvim) - Easily jump to the end of current node.
 - [Sharonex/edit-list.nvim](https://github.com/Sharonex/edit-list.nvim) - 
@@ -7812,7 +7814,6 @@
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client.
 - [kristijanhusak/defx-git](https://github.com/kristijanhusak/defx-git) - Git status implementation for https://github.com/Shougo/defx.nvim
-- [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [schwifty42069/piptv](https://github.com/schwifty42069/piptv) - A very simple Python IPTV client
 - [su1s/e2m3u2bouquet](https://github.com/su1s/e2m3u2bouquet) - Enigma2 IPTV m3u parser and bouquet creator
 - [erayaydin/i3-manager](https://github.com/erayaydin/i3-manager) - i3 Manager Tool - Written with Python and Qt
@@ -7857,7 +7858,7 @@
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
 - [viniarck/tmuxdir.nvim](https://github.com/viniarck/tmuxdir.nvim) - :open_file_folder: :zap: tmux session workspace plugin for nvim
 - [huxuan/iptvtools](https://github.com/huxuan/iptvtools) - A set of scripts that help to better the IPTV experience.
-- [joddude/iptvscan](https://github.com/joddude/iptvscan) - Python script for scanning and saving IPTV playlist.
+- [joddude/iptvscan](https://github.com/joddude/iptvscan) - Python script for scanning multicast IPTV and saving playlist.
 - [sdhzdmzzl/bj-unicom-iptv-scanner](https://github.com/sdhzdmzzl/bj-unicom-iptv-scanner) - iptv channel scanner
 - [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [doczi-dominik/colorlist](https://github.com/doczi-dominik/colorlist) - Extract and display colors
@@ -8222,7 +8223,6 @@
 - [rorydriscoll/LuaSublime](https://github.com/rorydriscoll/LuaSublime) - Various support files for making developing Lua using Sublime Text 2 more pleasant.
 - [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [Valloric/dotfiles](https://github.com/Valloric/dotfiles) - Some of my dotfiles
-- [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
 - [mkrautz/goimport](https://github.com/mkrautz/goimport) - GoImport is a Sublime Text 2 plugin that handles importing and dropping packages from Go source code
@@ -9298,6 +9298,10 @@
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [epi/avr-gcc](https://github.com/epi/avr-gcc) - Collection of patches and scripts for building GNU toolchain for AVR uCs.
 - [lua-cookbook/lua-cookbook](https://github.com/lua-cookbook/lua-cookbook) - The Lua Cookbook
+
+## Spline Font Database 
+
+- [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 
 ## Starlark 
 
