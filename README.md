@@ -160,7 +160,7 @@
 
 - [nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering) - Experimentation with the TIDRADIO TD-H3
 - [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
-- [GreatCowBASIC/Demonstration_Sources](https://github.com/GreatCowBASIC/Demonstration_Sources) - 
+- [GreatCowBASIC/Demonstration_Sources](https://github.com/GreatCowBASIC/Demonstration_Sources) - GCBasic demonstrations source code
 - [f4goh/8052AH-BASIC](https://github.com/f4goh/8052AH-BASIC) - 
 - [mariusgreuel/USBasp](https://github.com/mariusgreuel/USBasp) - USBasp - USB programmer for Atmel AVR controllers (with WinUSB support)
 - [nerdralph/usbasp](https://github.com/nerdralph/usbasp) - usbasp improved firmware
@@ -8104,8 +8104,8 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [geany/geany-themes](https://github.com/geany/geany-themes) - A collection of color schemes for Geany
-- [rocky/python2-trepan](https://github.com/rocky/python2-trepan) - A gdb-like Python 2.x Debugger in the Trepan family
-- [rocky/python3-trepan](https://github.com/rocky/python3-trepan) - A gdb-like Python3 Debugger in the Trepan family
+- [Trepan-Debuggers/python2-trepan](https://github.com/Trepan-Debuggers/python2-trepan) - A gdb-like Python 2.x Debugger in the Trepan family
+- [Trepan-Debuggers/python3-trepan](https://github.com/Trepan-Debuggers/python3-trepan) - A gdb-like Python3 Debugger in the Trepan family
 - [slackroll/slackroll](https://github.com/slackroll/slackroll) - slackroll is a package or upgrade manager for Slackware Linux
 - [vim-vdebug/vdebug](https://github.com/vim-vdebug/vdebug) - Multi-language DBGP debugger client for Vim (PHP, Python, Perl, Ruby, etc.)
 - [yueyoum/i3-dzen2-bridge](https://github.com/yueyoum/i3-dzen2-bridge) - Bridged the i3status and dzen2 to make dzen2 display icons
@@ -8221,7 +8221,7 @@
 - [randy3k/GitStatusBar](https://github.com/randy3k/GitStatusBar) - A more compact Git StatusBar
 - [kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
 - [rorydriscoll/LuaSublime](https://github.com/rorydriscoll/LuaSublime) - Various support files for making developing Lua using Sublime Text 2 more pleasant.
-- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
+- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator (Presently Unmaintained).
 - [Valloric/dotfiles](https://github.com/Valloric/dotfiles) - Some of my dotfiles
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
@@ -9274,7 +9274,7 @@
 - [KiCad/kicad-i18n](https://github.com/KiCad/kicad-i18n) - Translations for KiCad source code [moved to https://gitlab.com/kicad]
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [gmdfalk/awmtt](https://github.com/gmdfalk/awmtt) - awesomewm testing tool
-- [rocky/zshdb](https://github.com/rocky/zshdb) - gdb-like "trepan" debugger for zsh
+- [Trepan-Debuggers/zshdb](https://github.com/Trepan-Debuggers/zshdb) - gdb-like "trepan" debugger for zsh
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
@@ -10355,7 +10355,7 @@
 - [dominikduda/vim_current_word](https://github.com/dominikduda/vim_current_word) - Plugin highlighting word under cursor and all of its occurences
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 - [vim/killersheep](https://github.com/vim/killersheep) - Silly game for Vim 8.2
-- [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
+- [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create visual leader key menu
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [mattn/vim-goimports](https://github.com/mattn/vim-goimports) - Vim plugin for Minimalist Gopher
 - [mattn/vim-quickrun-switcher](https://github.com/mattn/vim-quickrun-switcher) - 
