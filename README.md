@@ -1302,7 +1302,7 @@
 - [danielromila/charlie-morris-corrected-ino](https://github.com/danielromila/charlie-morris-corrected-ino) - 
 - [danielromila/VFO-Si5351-LCD16x2-I2C](https://github.com/danielromila/VFO-Si5351-LCD16x2-I2C) - A VFO between 4 KHz and 225 MHz based on Si5351 and Arduino Nano
 - [danielromila/VFO-10-KHz-160-MHz](https://github.com/danielromila/VFO-10-KHz-160-MHz) - VFO 10 KHz 160 MHz
-- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications
+- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - ESP32/ESP8285-based High-Performance Radio Link for RC applications
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [MoonFox2006/AVRizer](https://github.com/MoonFox2006/AVRizer) - Atmega 328 offline programmer
 - [kk4das/IC746CAT](https://github.com/kk4das/IC746CAT) - ICOM IC-746 Computer Aided Transceiver (CAT) control emulation for Arduino
@@ -2365,7 +2365,6 @@
 - [caddyserver/examples](https://github.com/caddyserver/examples) - OBSOLETE. This repo was for Caddy v1. For v2 and newer, see our forum's wiki category.
 - [gerardroche/sublime-molokai](https://github.com/gerardroche/sublime-molokai) - Molokai color scheme.
 - [emacs-china/Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
-- [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 - [progit/progit2-ru](https://github.com/progit/progit2-ru) - 
 - [progit/progit2-uk](https://github.com/progit/progit2-uk) - Ukrainian translation
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
@@ -6913,6 +6912,7 @@
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [teto/home](https://github.com/teto/home) - Configurations
+- [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 
 ## Nu 
 
@@ -9589,7 +9589,7 @@
 - [habamax/vim-habamax](https://github.com/habamax/vim-habamax) - Vim colorscheme
 - [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) - Tomorrow Theme for Vim
 - [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
-- [Theory-of-Everything/everglade](https://github.com/Theory-of-Everything/everglade) - read-only mirror of https://git.sr.ht/~theorytoe/everglade
+- [Theory-of-Everything/everglade](https://github.com/Theory-of-Everything/everglade) - 
 - [cpiger/NeoDebug](https://github.com/cpiger/NeoDebug) - NeoDebug - Vim plugin for interface to gdb from Vim
 - [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
 - [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
