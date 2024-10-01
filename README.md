@@ -186,6 +186,7 @@
 - [rgimad/fasm_programs](https://github.com/rgimad/fasm_programs) - fasm related stuff
 - [rgimad/chip8_kolibri](https://github.com/rgimad/chip8_kolibri) - CHIP-8 emulator for KolibriOS, written in fasm
 - [hearsilent/8051-Course](https://github.com/hearsilent/8051-Course) - 
+- [maziac/DeZog](https://github.com/maziac/DeZog) - Visual Studio Code Debugger for Z80/ZX Spectrum.
 - [skiselev/minimax8085](https://github.com/skiselev/minimax8085) - Simple Intel 8085 based Single Board Computer (SBC)
 - [skiselev/radio-86rk](https://github.com/skiselev/radio-86rk) - Re-make of the Soviet Ham Radio computer published in Radio Magazine in 1986
 - [begoon/rk86-ex1](https://github.com/begoon/rk86-ex1) - 8080/8085 CPU Exerciser для Радио-86РК
@@ -570,7 +571,7 @@
 - [torvalds/uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 - [romkatv/libgit2](https://github.com/romkatv/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [rtrussell/BBCSDL](https://github.com/rtrussell/BBCSDL) - BBC BASIC for SDL 2.0: for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS.
-- [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
+- [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
 - [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
@@ -1170,7 +1171,6 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [libgit2/luagit2](https://github.com/libgit2/luagit2) - Lua bindings for libgit2
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [nsf/termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [nsf/ccode](https://github.com/nsf/ccode) - An autocompletion daemon for the C programming language (vim, libclang, omnifunc)
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
@@ -2271,6 +2271,7 @@
 - [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [lsdev/LiteStep](https://github.com/lsdev/LiteStep) - LiteStep Alternative Shell
 - [njh/EtherCard](https://github.com/njh/EtherCard) - EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE
 - [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
@@ -5142,6 +5143,7 @@
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) - Non-intrusive notification system for neovim
 - [numToStr/prettierrc.nvim](https://github.com/numToStr/prettierrc.nvim) - Apply editor settings from prettier config
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) - Nvim Plugin
+- [UtkarshVerma/dotfiles](https://github.com/UtkarshVerma/dotfiles) - Dotfiles of my Arch Linux setup.
 - [UtkarshVerma/molokai.nvim](https://github.com/UtkarshVerma/molokai.nvim) - Molokai colorscheme for Neovim.
 - [simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - almost not wip
 - [gaoDean/bare.nvim](https://github.com/gaoDean/bare.nvim) - A template repository for the most barebones setup function that implements configuration
@@ -7708,7 +7710,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
-- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
+- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages 📚
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [python-lsp/cookiecutter-pylsp-plugin](https://github.com/python-lsp/cookiecutter-pylsp-plugin) - Cookiecutter template for creating a 3rd party python-lsp-server plugin
@@ -7833,7 +7835,7 @@
 - [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) - 
 - [worron/ACYLS](https://github.com/worron/ACYLS) - Any Color You Like Simple icon pack
 - [qguv/config](https://github.com/qguv/config) - My configuration file setup.
-- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
+- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [fogine/i3-workscreen](https://github.com/fogine/i3-workscreen) - In i3wm compatible manner - dynamically re-configures your (multi)-monitor setup on the fly when you hotplug/unplug display cabel(s)
 - [mmskv/toggl_polybar](https://github.com/mmskv/toggl_polybar) - Simple toggl widget for polybar/i3bar, similar to official for macOS
 - [1ts-org/snipe](https://github.com/1ts-org/snipe) - curses based roost, irccloud & zulip client  (a snipe is a kind of bird)
@@ -8373,7 +8375,7 @@
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Minimalist, Unbundled PKM for your favorite text-editor through the LSP
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dotcypress/ula](https://github.com/dotcypress/ula) - μLA: Micro Logic Analyzer for RP2040
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -8445,7 +8447,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [MiSawa/xq](https://github.com/MiSawa/xq) - Pure rust implementation of jq
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
-- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [kitten/prosemd-lsp](https://github.com/kitten/prosemd-lsp) - An experimental proofreading and linting language server for markdown files ✍️
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Th3Whit3Wolf/bulbb](https://github.com/Th3Whit3Wolf/bulbb) - Bulbb is a library to manage backlight brightness.
@@ -8711,7 +8713,6 @@
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [Mte90/gitapper](https://github.com/Mte90/gitapper) - Remap Git with your custom scripts or new commands
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
-- [UtkarshVerma/dotfiles](https://github.com/UtkarshVerma/dotfiles) - Dotfiles of my Arch Linux setup.
 - [nguyenvukhang/ags](https://github.com/nguyenvukhang/ags) - ags scans your local git repositories for unstaged files and unpushed commits
 - [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
@@ -9430,7 +9431,6 @@
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [rubyide/vscode-ruby](https://github.com/rubyide/vscode-ruby) - Provides Ruby language and debugging support for Visual Studio Code
-- [maziac/DeZog](https://github.com/maziac/DeZog) - Visual Studio Code Debugger for Z80/ZX Spectrum.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [tomblind/local-lua-debugger-vscode](https://github.com/tomblind/local-lua-debugger-vscode) - Local Lua Debugger for VSCode
@@ -9849,9 +9849,9 @@
 - [i3d/vim-jimbothemes](https://github.com/i3d/vim-jimbothemes) - Self developed morden vim themes (mainly for neovim)
 - [katawful/kat.vim](https://github.com/katawful/kat.vim) - Blue based Vim theme with warm hues
 - [JRasmusBm/vim-peculiar](https://github.com/JRasmusBm/vim-peculiar) - 
-- [Jorengarenar/vim-MvVis](https://github.com/Jorengarenar/vim-MvVis) - Move visually selected text
-- [Jorengarenar/miniSnip](https://github.com/Jorengarenar/miniSnip) - Lightweight snippet plugin for Vim
-- [Jorengarenar/fauxClip](https://github.com/Jorengarenar/fauxClip) - Custom registers and clipboard support for Vim without +clipboard
+- [Jorenar/vim-MvVis](https://github.com/Jorenar/vim-MvVis) - Move visually selected text
+- [Jorenar/miniSnip](https://github.com/Jorenar/miniSnip) - Lightweight snippet plugin for Vim
+- [Jorenar/fauxClip](https://github.com/Jorenar/fauxClip) - Custom registers and clipboard support for Vim without +clipboard
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
 - [DoeringChristian/VimIT](https://github.com/DoeringChristian/VimIT) - Vim Interactive Template
 - [laggardkernel/vim-one](https://github.com/laggardkernel/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
@@ -10102,7 +10102,7 @@
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
 - [yegappan/taglist](https://github.com/yegappan/taglist) - Source code browser plugin for Vim
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
-- [Jorengarenar/dotfiles](https://github.com/Jorengarenar/dotfiles) - My personal configuration files
+- [Jorenar/dotfiles](https://github.com/Jorenar/dotfiles) - My personal configuration files
 - [hrsh7th/diagnostics.nvim](https://github.com/hrsh7th/diagnostics.nvim) - Experimental diagnostics service for neovim.
 - [hrsh7th/vim-unmatchparen](https://github.com/hrsh7th/vim-unmatchparen) - highlight unmatch parens.
 - [hrsh7th/vim-versions](https://github.com/hrsh7th/vim-versions) - useful interface for version control.
