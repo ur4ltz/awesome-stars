@@ -10845,7 +10845,7 @@
 - [nvim-neorg/neorg-lsp](https://github.com/nvim-neorg/neorg-lsp) - An LSP for the Neorg file format.
 - [glepnir/ziglearn-cn](https://github.com/glepnir/ziglearn-cn) - zig programming language tutorial
 - [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Zig bindings for the Lua C API
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig package designed for filtering filepaths
+- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [daurnimator/zig-autolua](https://github.com/daurnimator/zig-autolua) - Lua binding creator for zig
 - [eira-fransham/octahack-zig](https://github.com/eira-fransham/octahack-zig) - VCV/Max-style modular plug-anything-to-anything system, designed to be embedded free-standing in an Octatrack-style physical instrument
 - [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
