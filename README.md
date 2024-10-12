@@ -1913,7 +1913,7 @@
 - [RobTillaart/FunctionGenerator](https://github.com/RobTillaart/FunctionGenerator) - Arduino library to generate wave forms (nummeric) for a DAC
 - [RobTillaart/I2C_24LC1025](https://github.com/RobTillaart/I2C_24LC1025) - Arduino library for the 24LC1025 I2C EEPROM and equivalent
 - [RobTillaart/I2CKeyPad](https://github.com/RobTillaart/I2CKeyPad) - Arduino library for 4x4 (or smaller) keypad connected to an I2C PCF8574.
-- [RobTillaart/I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM) - Library for I2C EEPROM - 24LC256
+- [RobTillaart/I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM) - Library for I2C EEPROM - 24LC512, 24LC256, 24LC64/32/16/08/04/02/01.
 - [RobTillaart/Arduino](https://github.com/RobTillaart/Arduino) - Arduino libraries, code and applications
 - [xlucn/fbterm](https://github.com/xlucn/fbterm) - A personal fork only to keep the patches I need
 - [enjoyneering/Bench_Power_Supply](https://github.com/enjoyneering/Bench_Power_Supply) - Bench power supply controlled by Arduino
@@ -2649,7 +2649,7 @@
 - [tecosaur/org-pandoc-import](https://github.com/tecosaur/org-pandoc-import) - Mirror of https://git.tecosaur.net/tec/org-pandoc-import
 - [tecosaur/screenshot](https://github.com/tecosaur/screenshot) - Mirror of https://git.tecosaur.net/tec/screenshot.el
 - [tecosaur/LaTeX-auto-activating-snippets](https://github.com/tecosaur/LaTeX-auto-activating-snippets) - Mirror of https://git.tecosaur.net/tec/LaTeX-auto-activating-snippets
-- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://git.tecosaur.net/tec/engrave-faces
+- [tecosaur/engrave-faces](https://github.com/tecosaur/engrave-faces) - Mirror of https://code.tecosaur.net/tec/engrave-faces
 - [naturallydisasterous/.emacs.d](https://github.com/naturallydisasterous/.emacs.d) - A Simple, Fully Featured, and EVIL (Extensible VI Layer) Emacs Config
 - [stanhe/pop-eshell](https://github.com/stanhe/pop-eshell) - bottom-terminal like intellij idea and full-terminal for multi windows.
 - [DaoHuyTuan/Emacs-Init](https://github.com/DaoHuyTuan/Emacs-Init) - My Emacs Config file
@@ -4982,7 +4982,7 @@
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
 - [nat-418/scamp.nvim](https://github.com/nat-418/scamp.nvim) - Neovim plugin to remotely edit files over SSH
 - [rgroli/other.nvim](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer
-- [Yazeed1s/oh-lucy.nvim](https://github.com/Yazeed1s/oh-lucy.nvim) - Inspired by oh-lucy theme in vscodium, with few tweaks!
+- [yazeed1s/oh-lucy.nvim](https://github.com/yazeed1s/oh-lucy.nvim) - Inspired by oh-lucy theme in vscodium, with few tweaks!
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) - NeoVim UI sweetness.
 - [YacineDo/mc.nvim](https://github.com/YacineDo/mc.nvim) - 
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
@@ -5197,7 +5197,7 @@
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) - 
 - [kaplanz/retrail.nvim](https://github.com/kaplanz/retrail.nvim) - Whitespace management for Neovim
-- [Yazeed1s/minimal.nvim](https://github.com/Yazeed1s/minimal.nvim) - 
+- [yazeed1s/minimal.nvim](https://github.com/yazeed1s/minimal.nvim) - 
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
 - [maxmx03/solarized.nvim](https://github.com/maxmx03/solarized.nvim) - Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. Solarized port for Neovim
 - [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) - Simple directory browser for Neovim
@@ -5797,8 +5797,6 @@
 - [jpaulogg/vis-ins-completion](https://github.com/jpaulogg/vis-ins-completion) - Basic insert mode completion for the vis editor.
 - [erf/vis-plug](https://github.com/erf/vis-plug) - A minimal plugin-manager for vis
 - [fischerling/vis-lspc](https://github.com/fischerling/vis-lspc) - language server protocol client for the vis editor
-- [rafamadriz/themes.nvim](https://github.com/rafamadriz/themes.nvim) - 
-- [rafamadriz/NeoCode](https://github.com/rafamadriz/NeoCode) - 
 - [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) - solarized colorscheme in lua for nvim 0.5
 - [David-Kunz/jester](https://github.com/David-Kunz/jester) - A Neovim plugin to easily run and debug Jest tests
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) - 💾  Simple session management for Neovim
@@ -6592,6 +6590,7 @@
 - [haorenW1025/dotfiles](https://github.com/haorenW1025/dotfiles) - My dot files with neovim setting
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [andriiyaremenko/dotfiles](https://github.com/andriiyaremenko/dotfiles) - 
+- [drewtempelmeyer/dotfiles](https://github.com/drewtempelmeyer/dotfiles) - A place to store config files so I can revert when my entire system crashes from entering the wrong character
 - [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) - a neovim syntax highlighter using treesitter
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [steino/lua-xmlrpc](https://github.com/steino/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
@@ -7572,7 +7571,7 @@
 - [microchip-pic-avr-tools/pyedbglib](https://github.com/microchip-pic-avr-tools/pyedbglib) - Low-level protocol library for communicating with Microchip CMSIS-DAP based debuggers
 - [neomutt/mutt-language-server](https://github.com/neomutt/mutt-language-server) - 🛠️ A language server for (neo)mutt's muttrc.
 - [Retsediv/hydra-lsp](https://github.com/Retsediv/hydra-lsp) - 
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [SnellerInc/asm-dude](https://github.com/SnellerInc/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [tuxcanfly/litter](https://github.com/tuxcanfly/litter) - A lightweight terminal-based read-only browser
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
@@ -7710,7 +7709,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
-- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages 📚
+- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - :snake: Python command-line client for tldr pages 📚
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [python-lsp/cookiecutter-pylsp-plugin](https://github.com/python-lsp/cookiecutter-pylsp-plugin) - Cookiecutter template for creating a 3rd party python-lsp-server plugin
@@ -8630,7 +8629,7 @@
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [ajpaon/termux-packages](https://github.com/ajpaon/termux-packages) - A package build system for Termux.
-- [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
+- [raexera/tokyo](https://github.com/raexera/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [bboymega/Termux_url_opener_all_in_one_downloader](https://github.com/bboymega/Termux_url_opener_all_in_one_downloader) - All-in-one Download Script for Termux URL Opener
@@ -9110,6 +9109,7 @@
 - [Tarrasquero/Mocp_notify](https://github.com/Tarrasquero/Mocp_notify) - Script shell de notificaciones para el reproductor Mocp - Moc
 - [AndydeCleyre/bookme](https://github.com/AndydeCleyre/bookme) - A handy helper for acquiring the textbooks made freely available by Springer during Covid 19
 - [weilbith/dotfiles](https://github.com/weilbith/dotfiles) - My private dotfiles to configure different applications. Used as backup, distribution and exchange.
+- [darthfork/dotfiles](https://github.com/darthfork/dotfiles) - Dotfiles
 - [vuhuucuong/dotfiles](https://github.com/vuhuucuong/dotfiles) - My Neovim config and relevant stuff
 - [mdaffin/arch-pkgs](https://github.com/mdaffin/arch-pkgs) - Management repo for my Arch Linux systems. Mirror of https://gitlab.com/mdaffin/arch-pkgs
 - [takeokunn/dotfiles](https://github.com/takeokunn/dotfiles) - 
@@ -9668,7 +9668,7 @@
 - [obcat/vim-ref-godoc](https://github.com/obcat/vim-ref-godoc) - 📚 A vim-ref source for go doc
 - [bfrg/vim-cmakecache-syntax](https://github.com/bfrg/vim-cmakecache-syntax) - Vim syntax file for CMakeCache.txt files generated by CMake
 - [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) - View CMake Documentation inside Vim
-- [bfrg/vim-cpp-modern](https://github.com/bfrg/vim-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
+- [bfrg/vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
 - [bfrg/vim-qf-history](https://github.com/bfrg/vim-qf-history) - Navigate Vim's quickfix and location-list history using a popup menu
 - [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) - Preview the quickfix item under the cursor in a popup window
 - [bfrg/vim-qf-diagnostics](https://github.com/bfrg/vim-qf-diagnostics) - Highlight quickfix errors, and display error messages as virtual text or in a popup window
@@ -10168,7 +10168,6 @@
 - [kjakapat/eva-theme](https://github.com/kjakapat/eva-theme) - Eva themes built from https://github.com/kjakapat/base16-eva-scheme
 - [cdelledonne/vim-cmake](https://github.com/cdelledonne/vim-cmake) - Vim/Neovim plugin for working with CMake projects
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
-- [darthfork/dotfiles](https://github.com/darthfork/dotfiles) - Dotfiles
 - [oppiliappan/dotfiles](https://github.com/oppiliappan/dotfiles) - files that define my GNU/Linux box.
 - [oppiliappan/scientifica](https://github.com/oppiliappan/scientifica) - tall, condensed, bitmap font for geeks
 - [wincent/pinnacle](https://github.com/wincent/pinnacle) - 🏔 Highlight group manipulation for Vim
@@ -10306,7 +10305,6 @@
 - [williamjameshandley/vimteractive](https://github.com/williamjameshandley/vimteractive) - Send commands from text to interactive programs
 - [tyru/current-func-info.vim](https://github.com/tyru/current-func-info.vim) - Get current function name
 - [m-pilia/vim-ccls](https://github.com/m-pilia/vim-ccls) - Vim plugin for the ccls language server
-- [drewtempelmeyer/dotfiles](https://github.com/drewtempelmeyer/dotfiles) - A place to store config files so I can revert when my entire system crashes from entering the wrong character
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
