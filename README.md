@@ -3436,7 +3436,7 @@
 - [creativecreature/pulse](https://github.com/creativecreature/pulse) - Like a fitness tracker for your coding sessions
 - [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
 - [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
 - [iamwavecut/retracker](https://github.com/iamwavecut/retracker) - Simple local http torrent tracker written in Go
@@ -6911,7 +6911,6 @@
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
-- [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [teto/home](https://github.com/teto/home) - Configurations
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 
@@ -9068,6 +9067,7 @@
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
 - [jeremyf/dotzshrc](https://github.com/jeremyf/dotzshrc) - 
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
+- [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [krukas/DotFiles](https://github.com/krukas/DotFiles) - 
 - [xServo/dot_files](https://github.com/xServo/dot_files) - All my dotfiles which can be installed on a fresh arch install
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
