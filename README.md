@@ -56,6 +56,7 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [KakouneScript](#kakounescript)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
@@ -136,6 +137,7 @@
 
 ## Arduino 
 
+- [rambo/ds1307](https://github.com/rambo/ds1307) - Arduino library for DS1307 RTC
 - [LZ1PPL/VSTv2](https://github.com/LZ1PPL/VSTv2) - Small Arduino Based APRS Tracker
 - [sq9nje/si5351_lcd_sdr](https://github.com/sq9nje/si5351_lcd_sdr) - 
 - [ok1hra/band_decoder_for_arduino](https://github.com/ok1hra/band_decoder_for_arduino) - Read frequency from YAESU KENWOOD ICOM FLEX transcivers CAT, YAESU BCD and Icom ACC voltage
@@ -228,6 +230,9 @@
 
 ## C 
 
+- [yazeed1s/zwm](https://github.com/yazeed1s/zwm) - X11 tiling window manager
+- [Marzogh/ATtiny](https://github.com/Marzogh/ATtiny) - ATtiny 13/44/84/45/85 cores for Arduino 1.6.x
+- [MarcelMG/AVR8_BitBang_UART_TX](https://github.com/MarcelMG/AVR8_BitBang_UART_TX) - Software UART transmitter for AVR µCs which don't include an USART peripheral
 - [soligen2010/DIY-Multiprotocol-TX-Module](https://github.com/soligen2010/DIY-Multiprotocol-TX-Module) - DIY Multiprotocol TX Module
 - [msquirogac/avr-debugger-bootloader](https://github.com/msquirogac/avr-debugger-bootloader) - avr-debugger bootloader to enable Flash breakpoints, built throught PlatformIO
 - [tomiis4/CLang](https://github.com/tomiis4/CLang) - My CLang projects with cheatsheet
@@ -1198,6 +1203,7 @@
 
 ## C# # 
 
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [qrp73/K5TOOL](https://github.com/qrp73/K5TOOL) - UV-K5 toolkit utility to read/write EEPROM and flashing firmware for Quansheng UV-K5 and UV-R5 radios
 - [nicsure/QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
 - [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
@@ -1222,6 +1228,17 @@
 
 ## C++ 
 
+- [om0wt/om0et_quansheng_control](https://github.com/om0wt/om0et_quansheng_control) - Control OM0ET_QUANSHENG with ESP32 and rotary encoder
+- [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
+- [rambo/i2c_sensor_lib](https://github.com/rambo/i2c_sensor_lib) - Looking into building a hierarchical library for i2c sensors (for Arduino)
+- [rambo/i2c_device](https://github.com/rambo/i2c_device) - Arduino I2C device baseclass
+- [rambo/TinyWire](https://github.com/rambo/TinyWire) - My modifications to TinyWire Arduino libs
+- [thijse/Arduino-EEPROMEx](https://github.com/thijse/Arduino-EEPROMEx) - Extended EEPROM library for Arduino
+- [RoelKroes/wsprbeacon](https://github.com/RoelKroes/wsprbeacon) - Band hopping WSPR beacon for Arduino and Si5351
+- [Thor-x86/arduino_cli](https://github.com/Thor-x86/arduino_cli) - I/O Testing or PC program &lt;=&gt; Arduino communication
+- [Marzogh/SPIMemory](https://github.com/Marzogh/SPIMemory) - Arduino library for Flash Memory Chips (SPI based only). Formerly SPIFlash
+- [rambo/I2C](https://github.com/rambo/I2C) - Arduino I2C Master library (originally by Wayne Truchsess)
+- [prt459/Arduino_presence_sensing_morse_clock](https://github.com/prt459/Arduino_presence_sensing_morse_clock) - An Arduino sketch to implement a RealTime clock, which senses your presence using an ultrasonic transducer, and emits the time at minute intervals in morse code.
 - [pu2clr/BFO](https://github.com/pu2clr/BFO) - Simple BFO with Si5351A controlled by Arduino
 - [pu2clr/Small-Shortwave-Transmitter](https://github.com/pu2clr/Small-Shortwave-Transmitter) - Crystal and DDS Shortwave Trasmitter
 - [F5OEO/librpitx](https://github.com/F5OEO/librpitx) - Radio frequency transmitter library - Engine of rpitx
@@ -3775,6 +3792,7 @@
 
 ## HTML 
 
+- [kholia/Si5351-Module-Clone-TCXO](https://github.com/kholia/Si5351-Module-Clone-TCXO) - Si5351-Module-Clone with low PPM TCXO! Drop-in replacement for the Adafruit's Si5351 module. 3.3v ONLY!
 - [pu2clr/PCF8574](https://github.com/pu2clr/PCF8574) - PCF8574 8-Bit I/O Expander
 - [oristopo/nVhelp](https://github.com/oristopo/nVhelp) - nanoVNA user documentation
 - [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension) - Source code for 2FAS Browser Extension
@@ -4246,6 +4264,10 @@
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode
 
+## Just 
+
+- [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
+
 ## KakouneScript 
 
 - [gustavo-hms/objetiva](https://github.com/gustavo-hms/objetiva) - Some new object selections for Kakoune
@@ -4317,6 +4339,13 @@
 
 ## Lua 
 
+- [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
+- [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
+- [DanWlker/toolbox.nvim](https://github.com/DanWlker/toolbox.nvim) - A toolbox for neovim to put your custom neovim functions, all invokable from vim.ui.select!
+- [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork
+- [yioneko/nvim-cmp](https://github.com/yioneko/nvim-cmp) - A completion plugin for neovim coded in Lua.
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [wassimk/gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) - Navigate from Neovim to GitHub quickly with this plugin
 - [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as the colorcolumn
 - [Fildo7525/reloader.nvim](https://github.com/Fildo7525/reloader.nvim) - Easy setup of C++ projects
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
@@ -6255,6 +6284,7 @@
 - [lukas-reineke/pr.nvim](https://github.com/lukas-reineke/pr.nvim) - 
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
+- [lucax88x/configs](https://github.com/lucax88x/configs) - lucatrazzi dotfiles & installer scripts
 - [zdenekkostal/dotfiles](https://github.com/zdenekkostal/dotfiles) - 
 - [lucastrvsn/.dotfiles](https://github.com/lucastrvsn/.dotfiles) - wow such dotfiles
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration
@@ -6961,6 +6991,8 @@
 
 ## Others 
 
+- [shreyaschavhan/linux-commands-cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet) - All Useful Linux Commands (For OSCP & daily pen-testing usage)
+- [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
 - [idma88/c-cpp-snippets](https://github.com/idma88/c-cpp-snippets) - C/C++ code snippets for Visual Studio Code
 - [softchris/cpp-snippets](https://github.com/softchris/cpp-snippets) - Snippets for  C++
 - [ronaldosena/arduino-snippets](https://github.com/ronaldosena/arduino-snippets) - vscode extension that adds code snipptes for arduino
@@ -7533,6 +7565,8 @@
 
 ## Python 
 
+- [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
+- [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [proycon/tuir](https://github.com/proycon/tuir) - Browse Reddit from your terminal
 - [jwortmann/ini-syntax](https://github.com/jwortmann/ini-syntax) - Syntax highlighting for INI and REG files in Sublime Text
 - [llorllale/ttrv](https://github.com/llorllale/ttrv) - Tilde Terminal Reddit Viewer
@@ -8607,6 +8641,36 @@
 
 ## Shell 
 
+- [lilyball/fzf-git.fish](https://github.com/lilyball/fzf-git.fish) - Fish shell plugin for fzf git bindings
+- [halostatue/fish-direnv](https://github.com/halostatue/fish-direnv) - A very basic direnv configuration for fish
+- [goranmoomin/fish-color-manual](https://github.com/goranmoomin/fish-color-manual) - Simple fisher package to colorize manual pages
+- [icyleaf/fish-pkg-git](https://github.com/icyleaf/fish-pkg-git) - This plugin adds many useful git aliases and functions for fish shell
+- [kpbaks/zellij.fish](https://github.com/kpbaks/zellij.fish) - Integrate fish with zellij for a nicer experience.
+- [Molyuu/x](https://github.com/Molyuu/x) - Extract plugin for fish.
+- [aohorodnyk/fish-autovenv](https://github.com/aohorodnyk/fish-autovenv) - Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
+- [wawa19933/fish-systemd](https://github.com/wawa19933/fish-systemd) - Comfortable aliases for `systemctl` command to include `sudo` when needed
+- [EHfive/fish-bash2env](https://github.com/EHfive/fish-bash2env) - A lightweight fish plugin to import environment variables set by given bash command/script.
+- [adamchristiansen/vertical-fish](https://github.com/adamchristiansen/vertical-fish) - A git-aware prompt for the fish shell
+- [joehillen/ev-fish](https://github.com/joehillen/ev-fish) - Load environment variables from files and directories using fish shell, like envdir
+- [gyakovlev/fish-fzy](https://github.com/gyakovlev/fish-fzy) - fzy inegration with fish. Search history, navigate directories and more. Blazingly fast.
+- [ankitsumitg/docker-fish-completions](https://github.com/ankitsumitg/docker-fish-completions) - Docker command completion for the fish shell.
+- [daleeidd/natural-selection](https://github.com/daleeidd/natural-selection) - Fish shell plugin that makes selection as natural as a text editor.
+- [marcransome/pond](https://github.com/marcransome/pond) - A shell environment manager for the fish shell. 🐟
+- [decors/fish-colored-man](https://github.com/decors/fish-colored-man) - Color-enabled man pages plugin for fish-shell
+- [OakNinja/MakeMeFish](https://github.com/OakNinja/MakeMeFish) - Easing the usage of make and Makefiles
+- [h-matsuo/fish-color-scheme-switcher](https://github.com/h-matsuo/fish-color-scheme-switcher) - A fish shell :fish: plugin to switch color schemes :rainbow:
+- [joehillen/to-fish](https://github.com/joehillen/to-fish) - Bookmarks for Fish Shell
+- [gazorby/fish-exa](https://github.com/gazorby/fish-exa) - :fish: exa aliases for fish
+- [gazorby/fifc](https://github.com/gazorby/fifc) - 🐠 Configurable fzf completions for fish shell
+- [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
+- [laughedelic/pisces](https://github.com/laughedelic/pisces) - ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
+- [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations
+- [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands, replay changes in Fish 🍤
+- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish
+- [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
+- [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - The Node.js version manager you'll adore, crafted just for Fish
+- [paysonwallach/fish-you-should-use](https://github.com/paysonwallach/fish-you-should-use) - A fish plugin that reminds you to use your aliases.
+- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [ayufan-rock64/linux-build](https://github.com/ayufan-rock64/linux-build) - Rock64 Linux build scripts, tools and instructions
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
 - [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
@@ -8932,7 +8996,6 @@
 - [kevinhwang91/adb-sync-wrap](https://github.com/kevinhwang91/adb-sync-wrap) - Wrap adb-sync.
 - [purcell/setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
 - [22mahmoud/vim-curl-demo](https://github.com/22mahmoud/vim-curl-demo) - 
-- [lucax88x/configs](https://github.com/lucax88x/configs) - lucatrazzi dotfiles & installer scripts
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
 - [halkn/dotfiles](https://github.com/halkn/dotfiles) - 
 - [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
@@ -10144,7 +10207,7 @@
 - [iamcco/statusline.vim](https://github.com/iamcco/statusline.vim) - 
 - [agilecreativity/dotvim](https://github.com/agilecreativity/dotvim) - 
 - [voldikss/vim-browser-search](https://github.com/voldikss/vim-browser-search) - :cyclone: Perform a quick web search for the text selected in (Neo)Vim
-- [L3N76/nuake](https://github.com/L3N76/nuake) - A Quake-style terminal panel for Neovim and Vim
+- [lenovsky/nuake](https://github.com/lenovsky/nuake) - A Quake-style terminal panel for Neovim and Vim
 - [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [jez/vim-superman](https://github.com/jez/vim-superman) - Read Unix man pages faster than a speeding bullet!
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
