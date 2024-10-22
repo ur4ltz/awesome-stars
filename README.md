@@ -4339,6 +4339,7 @@
 
 ## Lua 
 
+- [s1n7ax/lazyvim-dotnvim](https://github.com/s1n7ax/lazyvim-dotnvim) - 
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
 - [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
 - [DanWlker/toolbox.nvim](https://github.com/DanWlker/toolbox.nvim) - A toolbox for neovim to put your custom neovim functions, all invokable from vim.ui.select!
@@ -4571,7 +4572,7 @@
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - A simple neovim plugin that enables you to instantly create snippets on ray.so
 - [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - Warm Green Theme for Neovim and Beyond
-- [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) - Highlight changed text after Undo / Redo operations
+- [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) - Highlight changed text after any text changing operation
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) - Dumb automatic fast indentation detection for Neovim written in Lua
 - [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) - :crescent_moon:  A modern black neovim theme written in Lua, with comfortable color contrast for a pleasant visual experience, with LSP and treesitter support
 - [jake-stewart/jfind.nvim](https://github.com/jake-stewart/jfind.nvim) - 
@@ -6991,6 +6992,7 @@
 
 ## Others 
 
+- [s1n7ax/home-server-ollama](https://github.com/s1n7ax/home-server-ollama) - 
 - [shreyaschavhan/linux-commands-cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet) - All Useful Linux Commands (For OSCP & daily pen-testing usage)
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
 - [idma88/c-cpp-snippets](https://github.com/idma88/c-cpp-snippets) - C/C++ code snippets for Visual Studio Code
