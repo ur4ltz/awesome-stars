@@ -230,6 +230,8 @@
 
 ## C 
 
+- [RPiks/pico-WSPR-tx](https://github.com/RPiks/pico-WSPR-tx) - WSPR beacon for Raspberry Pi Pico, based on pico-hf-oscillator library. It doesn't require any hardware - Pico board itself only.
+- [RPiks/pico-hf-oscillator](https://github.com/RPiks/pico-hf-oscillator) - Digital controlled radio frequency oscillator based on Raspberry Pi Pico (1 Hz to ~32.333 MHz band). RTTY, MFSK, freq sweep examples are included.
 - [yazeed1s/zwm](https://github.com/yazeed1s/zwm) - X11 tiling window manager
 - [Marzogh/ATtiny](https://github.com/Marzogh/ATtiny) - ATtiny 13/44/84/45/85 cores for Arduino 1.6.x
 - [MarcelMG/AVR8_BitBang_UART_TX](https://github.com/MarcelMG/AVR8_BitBang_UART_TX) - Software UART transmitter for AVR µCs which don't include an USART peripheral
@@ -695,6 +697,7 @@
 - [mil/meis-wm](https://github.com/mil/meis-wm) - An minimalist, inotify/filesystem based window manager. Inspired by no-wm.
 - [mil/foo-wm](https://github.com/mil/foo-wm) - A minimal window manager that organizes windows in a tree data structure, provides a socket to send commands to, and nothing more.
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
+- [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [javalikescript/webview-c](https://github.com/javalikescript/webview-c) - A tiny cross-platform webview C library to build modern cross-platform GUIs
 - [luarocks/cluacov](https://github.com/luarocks/cluacov) - C extensions for LuaCov
 - [siffiejoe/lua-tinylthread](https://github.com/siffiejoe/lua-tinylthread) - Tiny threading module for Lua
@@ -1972,7 +1975,7 @@
 - [Iskustvo/i3-ipcpp](https://github.com/Iskustvo/i3-ipcpp) - i3-ipc++ is a C++ library that implements the i3 IPC protocol.
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [franko/graph-toolkit](https://github.com/franko/graph-toolkit) - Lua Graphics Toolkit
-- [axilmar/parserlib](https://github.com/axilmar/parserlib) - A c++ recursive-descent generic parsing library that supports left recursion.
+- [axilmar/parserlib](https://github.com/axilmar/parserlib) - A c++17 recursive-descent generic parsing library that supports left recursion.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [Sharparam/AssortedScripts](https://github.com/Sharparam/AssortedScripts) - Various scripts/snippets I've written throughout the years
 - [ADiea/si4432](https://github.com/ADiea/si4432) - Si4432 Library for Arduino
@@ -2022,7 +2025,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs (you need a bit of HW on a breadboard or some special Arduino shields as well)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3986,7 +3989,6 @@
 - [EmmyLua/EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
 - [shiftrot/droidvim](https://github.com/shiftrot/droidvim) - DroidVim is a Vim clone for Android.
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
-- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [irengrig/fossil4idea](https://github.com/irengrig/fossil4idea) - Fossil SCM (http://www.fossil-scm.org/) plugin for IntelliJ IDEA
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 
@@ -4339,6 +4341,8 @@
 
 ## Lua 
 
+- [dam9000/kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim) - A launch point for your personal nvim configuration
+- [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames
 - [s1n7ax/lazyvim-dotnvim](https://github.com/s1n7ax/lazyvim-dotnvim) - 
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) - Efficient targetted menu built for fast buffer navigation
 - [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
@@ -5213,7 +5217,7 @@
 - [ii14/neorepl.nvim](https://github.com/ii14/neorepl.nvim) - Neovim REPL for lua and vim script
 - [ii14/emmylua-nvim](https://github.com/ii14/emmylua-nvim) - Neovim emmylua library
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
-- [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
+- [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - UNMaintained fork of the fastest Neovim colorizer
 - [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) - A simple neovim plugin to highlight and remove trailing whitespace.
 - [FeiyouG/commander.nvim](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
@@ -6286,7 +6290,6 @@
 - [lukas-reineke/pr.nvim](https://github.com/lukas-reineke/pr.nvim) - 
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
-- [lucax88x/configs](https://github.com/lucax88x/configs) - lucatrazzi dotfiles & installer scripts
 - [zdenekkostal/dotfiles](https://github.com/zdenekkostal/dotfiles) - 
 - [lucastrvsn/.dotfiles](https://github.com/lucastrvsn/.dotfiles) - wow such dotfiles
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration
@@ -6389,7 +6392,6 @@
 - [pguimier/SciTE_extman_scripts](https://github.com/pguimier/SciTE_extman_scripts) - Some useful scripts for lua extention manager in SciTE
 - [tjdevries/streamer.nvim](https://github.com/tjdevries/streamer.nvim) - 
 - [mil/dot-files](https://github.com/mil/dot-files) - My dotfiles, managed with stow
-- [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [kristijanhusak/completion-tags](https://github.com/kristijanhusak/completion-tags) - Tags completion for completion-nvim
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
 - [javalikescript/luajls](https://github.com/javalikescript/luajls) - luajls is a set of Lua modules for developing stand-alone Lua applications
@@ -6617,6 +6619,7 @@
 - [lutobler/vis-git-status](https://github.com/lutobler/vis-git-status) - Vis plugin for displaying git information in the status bar
 - [lutobler/vis-surround](https://github.com/lutobler/vis-surround) - Vis plugin to easily modify surrounding quotes or brackets
 - [lutobler/vis-commentary](https://github.com/lutobler/vis-commentary) - Vis plugin for easy block commenting
+- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [lutobler/vis-modelines](https://github.com/lutobler/vis-modelines) - Vis plugin that tries to read standard Vim modelines with an LPEG parser
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [haorenW1025/dotfiles](https://github.com/haorenW1025/dotfiles) - My dot files with neovim setting
@@ -7951,7 +7954,7 @@
 - [yorikvanhavre/WebTools](https://github.com/yorikvanhavre/WebTools) - A series of tools to communicate with web services from within FreeCAD
 - [yorikvanhavre/BIM_Workbench](https://github.com/yorikvanhavre/BIM_Workbench) - A BIM Workbench for FreeCAD
 - [dinkel/gedit-whitespace-remover](https://github.com/dinkel/gedit-whitespace-remover) - Gedit plugin that removes unnecessary whitespace upon saving
-- [jefferyto/gedit-control-your-tabs](https://github.com/jefferyto/gedit-control-your-tabs) - A gedit plugin to switch between document tabs using Ctrl+Tab / Ctrl+Shift+Tab (most recently used order or tab row order) and Ctrl+PageUp / Ctrl+PageDown (tab row order)
+- [jefferyto/gedit-control-your-tabs](https://github.com/jefferyto/gedit-control-your-tabs) - A gedit/Pluma/xed plugin to switch between document tabs using Ctrl+Tab and other common keyboard shortcuts
 - [rdunklau/Gedit-checkpython](https://github.com/rdunklau/Gedit-checkpython) - A pep8 and pyflakes checker for Gedit
 - [coala/coala-gedit](https://github.com/coala/coala-gedit) - Gedit plugin for the coala analyzer
 - [Meseira/gedit-jshint](https://github.com/Meseira/gedit-jshint) - JSHint plugin for Gedit
@@ -8001,7 +8004,6 @@
 - [rmartin16/qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) - Python client implementation for qBittorrent's Web API
 - [nbusseneau/qBittorrent-RuTracker-plugin](https://github.com/nbusseneau/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [veggiedefender/http-server](https://github.com/veggiedefender/http-server) - A minimal HTTP server implemented from scratch using Python sockets and threads
-- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [austinthresher/luna-proto](https://github.com/austinthresher/luna-proto) - Prototyping ideas for text editing
 - [mzfr/rsh](https://github.com/mzfr/rsh) - generate reverse shell from CLI for linux and Windows.
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
@@ -8690,8 +8692,8 @@
 - [GlitchYou/termux-launch](https://github.com/GlitchYou/termux-launch) - Launch apps on Termux
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [psprint/Zinit-4](https://github.com/psprint/Zinit-4) - NG Flexible and fast Zsh plugin manager
-- [SUFandom/proot-distro-tui](https://github.com/SUFandom/proot-distro-tui) - A TUI for Termux's Proot-Distro
-- [SUFandom/proot-distro-tui-u](https://github.com/SUFandom/proot-distro-tui-u) - An Unstable Version of Proot-distro-tui, this is where features can be tested before going mainstream, expect worse bugs than the ordinary
+- [Mizumo-prjkt/proot-distro-tui](https://github.com/Mizumo-prjkt/proot-distro-tui) - A TUI for Termux's Proot-Distro
+- [Mizumo-prjkt/proot-distro-tui-u](https://github.com/Mizumo-prjkt/proot-distro-tui-u) - An Unstable Version of Proot-distro-tui, this is where features can be tested before going mainstream, expect worse bugs than the ordinary
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [ajpaon/termux-packages](https://github.com/ajpaon/termux-packages) - A package build system for Termux.
@@ -9356,6 +9358,7 @@
 - [niXman/mingw-builds](https://github.com/niXman/mingw-builds) - Scripts for building the 32 and 64-bit MinGW-W64 compilers for Windows
 - [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://git.q3aql.dev/q3aql/aria2-static-builds
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for MSYS2.
+- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -9508,6 +9511,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
 - [lucax88x/CodeAceJumper](https://github.com/lucax88x/CodeAceJumper) - Ace Jump extension for Visual Studio Code
+- [lucax88x/configs](https://github.com/lucax88x/configs) - lucatrazzi dotfiles & installer scripts
 - [sourcegraph/sourcegraph-vscode-DEPRECATED](https://github.com/sourcegraph/sourcegraph-vscode-DEPRECATED) - *️⃣+ 🆚 = ❤️
 - [sainnhe/gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode) - Gruvbox Material for Visual Studio Code
 - [iamcco/coc-post](https://github.com/iamcco/coc-post) - post extension for coc.nvim
