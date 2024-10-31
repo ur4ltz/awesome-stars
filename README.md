@@ -225,7 +225,7 @@
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [dibyendumajumdar/Suravi](https://github.com/dibyendumajumdar/Suravi) - Suravi is a small distribution of Ravi/Lua 5.3 with batteries such as cjson, lpeglabel, luasocket, penlight, torch7, luv, luaossl
 - [k-takata/vim-win32-installer](https://github.com/k-takata/vim-win32-installer) - This is a workbench for the vim/vim-win32-installer project
-- [shidel/FDI](https://github.com/shidel/FDI) - FreeDOS 1.2, 1.3+ Installer
+- [shidel/FDI](https://github.com/shidel/FDI) - FreeDOS 1.2, 1.3, 1.4+ Installer
 - [Tieske/luawinmulti](https://github.com/Tieske/luawinmulti) - Lua build and installation script for Windows, building multiple Lua versions in parallel, including LuaRocks.
 
 ## C 
@@ -4761,7 +4761,6 @@
 - [chrisgrieser/cmp-nerdfont](https://github.com/chrisgrieser/cmp-nerdfont) - nvim-cmp source for nerdfont icons
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) - A simple Lua statusline for Neovim
-- [Bekaboo/nvim](https://github.com/Bekaboo/nvim) - Neovim :: M Λ C R O - Editing made simple
 - [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) - A neovim plugin that shows colorcolumn dynamically
 - [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.
 - [JoseConseco/nvim_config](https://github.com/JoseConseco/nvim_config) - nvim config
@@ -6600,6 +6599,7 @@
 - [pkulchenko/ZeroBraneEduPack](https://github.com/pkulchenko/ZeroBraneEduPack) - A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 - [shmuz/far_plugins](https://github.com/shmuz/far_plugins) - 
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [haorenW1025/tasknvim](https://github.com/haorenW1025/tasknvim) - A simple task manager plugin of  neovim written in Lua
 - [haorenW1025/term-nvim](https://github.com/haorenW1025/term-nvim) - A simple terminal manager for neovim written in lua
 - [zinovyev/lugate](https://github.com/zinovyev/lugate) - Lua module for building JSON-RPC 2.0 Gateway APIs just inside of your Nginx
@@ -7063,6 +7063,7 @@
 - [git-pull/tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [pavelmc/multi-probe-swr-meter](https://github.com/pavelmc/multi-probe-swr-meter) - Multi-Probe SWR/PWR Meter with Icom Tuner handling for Yaesu Rigs
 - [AbhishekGhosh/Arduino-Themes](https://github.com/AbhishekGhosh/Arduino-Themes) - Collection of Arduino IDE Themes Created By Community
+- [Bekaboo/nvim](https://github.com/Bekaboo/nvim) - Neovim :: M Λ C R O - Editing made simple
 - [BachoSeven/wiki](https://github.com/BachoSeven/wiki) - keeping track of the drops in a sea of Linux learning
 - [agnostic-apollo/Android-Docs](https://github.com/agnostic-apollo/Android-Docs) - This repository provides documentation for random stuff related to the Android operating system.
 - [jmbuhr/tmux-kickstarter](https://github.com/jmbuhr/tmux-kickstarter) - A semi-opinionated tmux config to get started
@@ -7820,7 +7821,7 @@
 - [gillescastel/university-setup](https://github.com/gillescastel/university-setup) - My note taking setup scripts.
 - [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
 - [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [akatrevorjay/dotfiles](https://github.com/akatrevorjay/dotfiles) - Opinionated garbage for your terminal. Gotta get that yolo swag.
 - [deadc0de6/i3smartfocus](https://github.com/deadc0de6/i3smartfocus) - i3wm smart focus
 - [mkcms/maildirwatch](https://github.com/mkcms/maildirwatch) - Watch Maildir for new email and display notifications
@@ -9228,7 +9229,6 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My *NIX dotfiles [i3wm, URxvt, tmux, zsh, rofi, cmus, irssi, vifm, mutt, feh, mpv, newsbeuter]
 - [rickysaurav/dotfiles](https://github.com/rickysaurav/dotfiles) - 
-- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Vim & Tmux dotfiles
 - [tkabber/Tkabber-pack](https://github.com/tkabber/Tkabber-pack) - Tkabber distribution for Windows
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
@@ -9348,7 +9348,7 @@
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
@@ -9984,7 +9984,7 @@
 - [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
 - [atticusmatticus/nvim](https://github.com/atticusmatticus/nvim) - Neovim Dotfiles
 - [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - calendar vimscript
-- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for profiling Vim and Neovim startup time.
+- [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [dstein64/dotfiles](https://github.com/dstein64/dotfiles) - My personal dotfiles.
 - [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.
@@ -9997,7 +9997,7 @@
 - [laher/fuzzymenu.vim](https://github.com/laher/fuzzymenu.vim) - menu system for vim/neovim, using fzf for fuzzy selection
 - [wsdjeg/git.vim](https://github.com/wsdjeg/git.vim) - Use git in spacevim
 - [tgetgood/dotfiles](https://github.com/tgetgood/dotfiles) - Misc configuration files
-- [tinted-theming/base16-vim](https://github.com/tinted-theming/base16-vim) - base16-vim refreshes and commits new themes weekly automatically and has a documented build process.
+- [tinted-theming/tinted-vim](https://github.com/tinted-theming/tinted-vim) - base16-vim refreshes and commits new themes weekly automatically and has a documented build process.
 - [lervag/wiki-ft.vim](https://github.com/lervag/wiki-ft.vim) - Simple Vim filetype plugin for wiki-files
 - [lervag/dotvim](https://github.com/lervag/dotvim) - Vim settings
 - [Soneji/dotfiles](https://github.com/Soneji/dotfiles) - My dotfiles - managed by yadm.io
