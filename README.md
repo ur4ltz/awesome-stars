@@ -137,6 +137,7 @@
 
 ## Arduino 
 
+- [k3ng/k3ng_arduino_beacon](https://github.com/k3ng/k3ng_arduino_beacon) - K3NG Arduino Amateur Radio Beacon Controller
 - [rambo/ds1307](https://github.com/rambo/ds1307) - Arduino library for DS1307 RTC
 - [LZ1PPL/VSTv2](https://github.com/LZ1PPL/VSTv2) - Small Arduino Based APRS Tracker
 - [sq9nje/si5351_lcd_sdr](https://github.com/sq9nje/si5351_lcd_sdr) - 
@@ -230,6 +231,14 @@
 
 ## C 
 
+- [tjlab-jf3hzb/Digital_VFO_with_analog_dial_V2](https://github.com/tjlab-jf3hzb/Digital_VFO_with_analog_dial_V2) - 
+- [k3ng/acorn](https://github.com/k3ng/acorn) - 
+- [tjlab-jf3hzb/All_mode_SDR](https://github.com/tjlab-jf3hzb/All_mode_SDR) - 16.93MHz all mode TRCV using ESP32-S3
+- [pu2clr/QN8066_PIC16F](https://github.com/pu2clr/QN8066_PIC16F) - QN8066 FM TRANSMITTER  FOR PIC16F
+- [dail8859/LuaScript](https://github.com/dail8859/LuaScript) - Notepad++ plugin for Lua scripting capabilities
+- [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
+- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+- [juliusHuelsmann/st](https://github.com/juliusHuelsmann/st) - Repatch repository of developed 'Vim Browse' and 'Alpha Focus Highlight' patches for simple terminal (st).
 - [RPiks/pico-WSPR-tx](https://github.com/RPiks/pico-WSPR-tx) - WSPR beacon for Raspberry Pi Pico, based on pico-hf-oscillator library. It doesn't require any hardware - Pico board itself only.
 - [RPiks/pico-hf-oscillator](https://github.com/RPiks/pico-hf-oscillator) - Digital controlled radio frequency oscillator based on Raspberry Pi Pico (1 Hz to ~32.333 MHz band). RTTY, MFSK, freq sweep examples are included.
 - [yazeed1s/zwm](https://github.com/yazeed1s/zwm) - X11 tiling window manager
@@ -1066,6 +1075,7 @@
 - [smallbasic/SmallBASIC](https://github.com/smallbasic/SmallBASIC) - SmallBASIC is a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in
 - [ers35/luakernel](https://github.com/ers35/luakernel) - Lua + SQLite + musl libc running on x86.
 - [wd5gnr/qtl866](https://github.com/wd5gnr/qtl866) - GUI driver for minipro software found at https://github.com/vdudouyt/minipro
+- [elfmz/far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 - [abcminiuser/lufa](https://github.com/abcminiuser/lufa) - LUFA - the Lightweight USB Framework for AVRs.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
@@ -1231,6 +1241,32 @@
 
 ## C++ 
 
+- [martinmarinov/ArduinoTemperatureSensorDecoder](https://github.com/martinmarinov/ArduinoTemperatureSensorDecoder) - Allows decoding of some 433MHz wireless temperature and humidity sensors
+- [zoomx/PrologueDecoder](https://github.com/zoomx/PrologueDecoder) - RF protocol decoder for Arduino and the Prologue temperature sensor and Digoo outdoor temperature humidity sensor DG-R8S
+- [dgomes/homeGW](https://github.com/dgomes/homeGW) - RF433Mhz decoding library
+- [k3ng/arduino_multitasking_video_series](https://github.com/k3ng/arduino_multitasking_video_series) - Code from the Radio Artisan Arduino Multitasking Video Series
+- [k3ng/k3ng_dds_beacon_controller](https://github.com/k3ng/k3ng_dds_beacon_controller) - A DDS-based Multi-Band Multi-Mode Beacon Controller
+- [k3ng/k3ng_analog_devices_dds](https://github.com/k3ng/k3ng_analog_devices_dds) - K3NG Arduino Analog Devices DDS Library
+- [k3ng/k3ng_antenna_array_controller](https://github.com/k3ng/k3ng_antenna_array_controller) - K3NG Arduino Directional Antenna Array Controller
+- [k3ng/cw_remote_control](https://github.com/k3ng/cw_remote_control) - Arduino CW Remote Control
+- [pu2clr/auto_bpf_arduino](https://github.com/pu2clr/auto_bpf_arduino) - Auto Band Pass Filter controlled by Arduino
+- [pu2clr/QN800X](https://github.com/pu2clr/QN800X) - Arduino Library for QN8006 and QN8007 FM TRANSMITERS AND RECEIVERS devices
+- [W3PM/GPS-Si5351-VFO-QEX-JUL-AUG-2015](https://github.com/W3PM/GPS-Si5351-VFO-QEX-JUL-AUG-2015) - Si5351 Arduino Controlled GPS Corrected VFO (QEX July/August 2015)
+- [Nobcha/R909-VFO_try2](https://github.com/Nobcha/R909-VFO_try2) - I will remodel the Chinese airband receiver wih R909-VFO to incorpolate the digital local oscillator.
+- [Nobcha/ArduinoLCM](https://github.com/Nobcha/ArduinoLCM) - Franclin oscillator method LC meter
+- [Nobcha/R909-SDR](https://github.com/Nobcha/R909-SDR) - R909-SDR
+- [Nobcha/R909-VFO-GPS](https://github.com/Nobcha/R909-VFO-GPS) - GPS corrected Si5351a VFO
+- [Nobcha/R909-VFO](https://github.com/Nobcha/R909-VFO) - 
+- [wayoda/LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
+- [StefanoHomebrew/VFO_LED_DISPLAY_DDS](https://github.com/StefanoHomebrew/VFO_LED_DISPLAY_DDS) - This is A NEW version of the VFO with DDS AD9850. Iused 7 segment displays, to give a vintage look! I remind you that the project is experimental for hobbyists and homebrewing enthusiasts and can be c
+- [NorthernWidget/DS3231](https://github.com/NorthernWidget/DS3231) - Communicates between Arduino-programmed AVR and Maxim DS3231 RTC: splice of Ayars' (http://hacks.ayars.org/2011/04/ds3231-real-time-clock.html) and Jeelabs/Ladyada's (https://github.com/adafruit/RTCli
+- [oviradoi/npp-explorer-plugin](https://github.com/oviradoi/npp-explorer-plugin) - Modified version of the Explorer plugin for Notepad++ that matches its colors with the current theme
+- [pnedev/comparePlus](https://github.com/pnedev/comparePlus) - Compare plugin for Notepad++
+- [Krazal/nppopenai](https://github.com/Krazal/nppopenai) - OpenAI (aka. ChatGPT) plugin for Notepad++
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
+- [stickz/rtorrent](https://github.com/stickz/rtorrent) - Stable high performance BitTorrent client
+- [jesec/libtorrent](https://github.com/jesec/libtorrent) - 
+- [jesec/rtorrent](https://github.com/jesec/rtorrent) - stable, high-performance and low resource consumption BitTorrent client
 - [om0wt/om0et_quansheng_control](https://github.com/om0wt/om0et_quansheng_control) - Control OM0ET_QUANSHENG with ESP32 and rotary encoder
 - [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 - [rambo/i2c_sensor_lib](https://github.com/rambo/i2c_sensor_lib) - Looking into building a hierarchical library for i2c sensors (for Arduino)
@@ -2238,7 +2274,6 @@
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [vdudouyt/codeblocks-fast-tabswitch](https://github.com/vdudouyt/codeblocks-fast-tabswitch) - Chrome/Firefox-like tab switching
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
-- [elfmz/far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 - [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
 - [airdcpp/airdcpp-webapi](https://github.com/airdcpp/airdcpp-webapi) - Websocket/REST JSON API for AirDC++ core
@@ -2327,6 +2362,7 @@
 
 ## CSS 
 
+- [porkloin/terminus-theme-gruvbox](https://github.com/porkloin/terminus-theme-gruvbox) - A Terminus theme for the gruvbox color theme
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [gabrielelana/pomicons](https://github.com/gabrielelana/pomicons) - Font with symbols to talk about the "Pomodoro Technique"
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
@@ -2460,6 +2496,7 @@
 
 ## Cython 
 
+- [girishji/pythondoc.vim](https://github.com/girishji/pythondoc.vim) - Python API documentation for Vim and Neovim
 - [marcan/pympv](https://github.com/marcan/pympv) - 
 
 ## D 
@@ -2508,6 +2545,9 @@
 
 ## Emacs Lisp 
 
+- [duckwork/setup.el](https://github.com/duckwork/setup.el) - (mirror) Helpful configuration macro
+- [arkhan/vibrant-ink-theme](https://github.com/arkhan/vibrant-ink-theme) - 
+- [kiennq/treesit-langs](https://github.com/kiennq/treesit-langs) - Language bundle for Emacs's tree-sitter package
 - [jcs-elpa/alt-codes](https://github.com/jcs-elpa/alt-codes) - Insert alt codes using meta key.
 - [rougier/aerial-emacs](https://github.com/rougier/aerial-emacs) - A cleaner and less cluttered style for emacs
 - [rougier/emacs-octicons](https://github.com/rougier/emacs-octicons) - Octicons glyph name for emacs
@@ -3393,7 +3433,6 @@
 - [iagoleal/dotfiles](https://github.com/iagoleal/dotfiles) - 
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [rafaeldelboni/cajus-nvim](https://github.com/rafaeldelboni/cajus-nvim) - Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure.
-- [m15a/vim-fennel-syntax](https://github.com/m15a/vim-fennel-syntax) - Yet another Vim syntax highlighting plugin for Fennel
 - [Sharparam/dotfiles](https://github.com/Sharparam/dotfiles) - Collection of my dotfiles
 - [alexaandru/froggy](https://github.com/alexaandru/froggy) - Neovim theme
 - [alexaandru/nvim-config](https://github.com/alexaandru/nvim-config) - Nvim config
@@ -3447,6 +3486,8 @@
 
 ## Go 
 
+- [Tigermen0710/gols](https://github.com/Tigermen0710/gols) - ls with icons, written in go
+- [rakshasa/rbedit](https://github.com/rakshasa/rbedit) - Dependency-Free Bencode Editor
 - [elbachir-one/gt](https://github.com/elbachir-one/gt) - gt is a tree-like program written in Go with a lot of features.
 - [tomiis4/GoLang](https://github.com/tomiis4/GoLang) - My GoLang projects with cheatsheet
 - [nonoo/kappanhang](https://github.com/nonoo/kappanhang) - Remotely open audio channels and a serial port to an Icom RS-BA1 server (for ex. Icom IC-705 transceiver).
@@ -3795,6 +3836,14 @@
 
 ## HTML 
 
+- [pu2clr/BK108X](https://github.com/pu2clr/BK108X) - BK108X Arduino Library
+- [pu2clr/SI470X](https://github.com/pu2clr/SI470X) - It is an Arduino Library for the SI4702 and SI4703, BROADCAST RECEIVER.
+- [pu2clr/MCP23008](https://github.com/pu2clr/MCP23008) - Control the MCP23008/MCP23S08 8-Bit I/O Expander with Serial Interface with your Arduino
+- [pu2clr/KT0915](https://github.com/pu2clr/KT0915) - This is an Arduino Library to control the KT0915 DSP receiver from KTMicro
+- [pu2clr/AKC695X](https://github.com/pu2clr/AKC695X) - Arduino Library for the AKC695X devices
+- [pu2clr/QN8066](https://github.com/pu2clr/QN8066) - QN8066 TX FM DSP Transmitter Arduino Library
+- [pu2clr/RDA5807](https://github.com/pu2clr/RDA5807) - Arduino Library for SINGLE-CHIP BROADCAST FM RADIO TUNER RDA5807
+- [pu2clr/SI4844](https://github.com/pu2clr/SI4844) - Silicon Labs SI4844 (BROADCAST ANALOG TUNING DIGITAL DISPLAY AM/FM/SW RADIO RECEIVER) Library
 - [kholia/Si5351-Module-Clone-TCXO](https://github.com/kholia/Si5351-Module-Clone-TCXO) - Si5351-Module-Clone with low PPM TCXO! Drop-in replacement for the Adafruit's Si5351 module. 3.3v ONLY!
 - [pu2clr/PCF8574](https://github.com/pu2clr/PCF8574) - PCF8574 8-Bit I/O Expander
 - [oristopo/nVhelp](https://github.com/oristopo/nVhelp) - nanoVNA user documentation
@@ -3994,6 +4043,8 @@
 
 ## JavaScript 
 
+- [eendroroy/alacritty-theme-preview](https://github.com/eendroroy/alacritty-theme-preview) - A theme previewer for Alacritty terminal
+- [nayanio/RTorrent](https://github.com/nayanio/RTorrent) - Remote torrent client
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [cho45/NanoVNA-Web-Client](https://github.com/cho45/NanoVNA-Web-Client) - NanoVNA interface implementation with WebSerial/WebUSB/Android.
 - [remarkjs/remark-language-server](https://github.com/remarkjs/remark-language-server) - A language server to lint and format markdown files with remark
@@ -4181,7 +4232,6 @@
 - [Micdu70/rutorrentMobile](https://github.com/Micdu70/rutorrentMobile) - Plugin for ruTorrent to use it with mobile devies (Android, iOS, etc)
 - [nelu/rutorrent-filemanager-share](https://github.com/nelu/rutorrent-filemanager-share) - File share link plugin
 - [nelu/rutorrent-filemanager](https://github.com/nelu/rutorrent-filemanager) - Shell file management plugin for ruTorrent webUI
-- [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [linuxmint/cinnamon-spices-applets](https://github.com/linuxmint/cinnamon-spices-applets) - Applets for the Cinnamon desktop
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [xodio/xod](https://github.com/xodio/xod) - XOD IDE
@@ -4341,6 +4391,8 @@
 
 ## Lua 
 
+- [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) - Helping you find free keybinds in vim
+- [yazi-rs/plugins](https://github.com/yazi-rs/plugins) - Place code snippets from docs into this monorepo, so that users can update more easily via package manager.
 - [dam9000/kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim) - A launch point for your personal nvim configuration
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames
 - [s1n7ax/lazyvim-dotnvim](https://github.com/s1n7ax/lazyvim-dotnvim) - 
@@ -6848,6 +6900,7 @@
 
 ## Makefile 
 
+- [pu2clr/PIC16F](https://github.com/pu2clr/PIC16F) - PIC10F200, PIC12F675, PIC16F, 1-wire protocol, 74hc595, lm35, ds18b20, pwm and more
 - [silenty4ng/uv-k5-firmware-chinese-lts](https://github.com/silenty4ng/uv-k5-firmware-chinese-lts) - 基于萝卜固件 117 版的长期支持
 - [billygr/avr-stepper](https://github.com/billygr/avr-stepper) - AVR Stepper Driver
 - [gillham/logic_analyzer](https://github.com/gillham/logic_analyzer) - Implementation of a SUMP compatible logic analyzer for the Arduino
@@ -6996,6 +7049,11 @@
 
 ## Others 
 
+- [imsaiguy/R80-Air-Band-Receiver](https://github.com/imsaiguy/R80-Air-Band-Receiver) - documentation for kit
+- [Nobcha/R80-Air-Band-Receiver](https://github.com/Nobcha/R80-Air-Band-Receiver) - documentation for kit
+- [francostellari/NppPlugins](https://github.com/francostellari/NppPlugins) - 
+- [eendroroy/mercurial-cli-templates](https://github.com/eendroroy/mercurial-cli-templates) - 
+- [iconicFonts/iconic-fonts](https://github.com/iconicFonts/iconic-fonts) - Over 50 patched fonts with 60,000+ icons. ⭐️ to support us!
 - [s1n7ax/home-server-ollama](https://github.com/s1n7ax/home-server-ollama) - 
 - [shreyaschavhan/linux-commands-cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet) - All Useful Linux Commands (For OSCP & daily pen-testing usage)
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
@@ -7357,7 +7415,6 @@
 - [sparkfun/SparkFun-Eagle-Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) - SparkFun's Public Eagle PCB Footprints
 - [challenger-deep-theme/alacritty](https://github.com/challenger-deep-theme/alacritty) - Alacritty Theme
 - [SofianeHamlaoui/i3-Polybar-showdesktop-module](https://github.com/SofianeHamlaoui/i3-Polybar-showdesktop-module) - :recycle: A Polybar ShowDesktop module (like the Windows one)
-- [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [scmrtos/scmrtos-sample-projects](https://github.com/scmrtos/scmrtos-sample-projects) - 
 - [widgetii/ruswasmnotes](https://github.com/widgetii/ruswasmnotes) - My notes about Webassembly technology in Russian
 - [widgetii/rusopsnotes](https://github.com/widgetii/rusopsnotes) - My notes about ops in Russian
@@ -7389,7 +7446,7 @@
 - [id-Software/wolf3d](https://github.com/id-Software/wolf3d) - The original open source release of Wolfenstein 3D
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [challenger-deep-theme/xresources](https://github.com/challenger-deep-theme/xresources) - Challenger Deep Theme for Xresources such as xterm, (u)rxvt, and other X11 applications
-- [Monokai/monokai-pro-sublime-text](https://github.com/Monokai/monokai-pro-sublime-text) - Monokai Pro: beautiful functionality for professional developers
+- [monokai-pro/sublime-text](https://github.com/monokai-pro/sublime-text) - Issue tracking for Monokai Pro for Visual Studio Code
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
@@ -7518,6 +7575,7 @@
 
 ## Perl 
 
+- [hexchat/hexchat-addons](https://github.com/hexchat/hexchat-addons) - Plugins and scripts made for HexChat
 - [Tarrasch/zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [jamesmarlowe/lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) - Lua library for capturing urls, decoding, and logging results
@@ -7572,6 +7630,8 @@
 
 ## Python 
 
+- [notepad-plus-plus/nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) - The official collection of Notepad++ plugins.
+- [Trogious/fetch_youtube_playlist](https://github.com/Trogious/fetch_youtube_playlist) - 
 - [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [proycon/tuir](https://github.com/proycon/tuir) - Browse Reddit from your terminal
@@ -7912,7 +7972,7 @@
 - [scrapinghub/splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
 - [windwp/i3-master-stack](https://github.com/windwp/i3-master-stack) - I3wm master and stack layout
 - [Tblue/mkttf](https://github.com/Tblue/mkttf) - Scripts to generate TTF files from BDF source files
-- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
 - [okraits/rofi-tools](https://github.com/okraits/rofi-tools) - Tools for and with rofi (https://github.com/DaveDavenport/rofi)
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi and rofi-likes
 - [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
@@ -8410,6 +8470,7 @@
 
 ## Rust 
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
@@ -8444,7 +8505,7 @@
 - [naryand/bittorrent](https://github.com/naryand/bittorrent) - BitTorrent client from scratch in Rust
 - [naryand/mainline-dht](https://github.com/naryand/mainline-dht) - BitTorrent DHT protocol implementation (WIP)
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
+- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) - Use github code search within neovim
 - [w1png/tm1637-avr-hal](https://github.com/w1png/tm1637-avr-hal) - A simple library for interfacing with the tm1637 using avr-hal.
 - [nomad/crop](https://github.com/nomad/crop) - 🌾 A pretty fast text rope
@@ -8599,7 +8660,6 @@
 - [rust-lang-ru/rust_book_2ed](https://github.com/rust-lang-ru/rust_book_2ed) - The Rust Programming Language (на русском)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [maralla/pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
-- [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [daa84/neovim-gtk](https://github.com/daa84/neovim-gtk) - gtk ui for neovim
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [Tobbe/losi](https://github.com/Tobbe/losi) - LiteStep OpenSource Installer
@@ -8647,6 +8707,24 @@
 
 ## Shell 
 
+- [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
+- [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) - Matrix client / Element Web/Desktop fork
+- [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
+- [eendroroy/bin_scripts](https://github.com/eendroroy/bin_scripts) - You can't see me. (⌐■_■)
+- [eendroroy/zsh-manpage-color](https://github.com/eendroroy/zsh-manpage-color) - colorize 'man' page
+- [eendroroy/zsh-command-time](https://github.com/eendroroy/zsh-command-time) - Show execution time for long commands in zsh
+- [eendroroy/zed-zsh](https://github.com/eendroroy/zed-zsh) - A simple wrapper for z to install as zsh plugin.
+- [eendroroy/awesome-git](https://github.com/eendroroy/awesome-git) - some usefull git shortcats
+- [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
+- [eendroroy/nothing](https://github.com/eendroroy/nothing) - Nothing ZSH theme
+- [eendroroy/autoenv-templates](https://github.com/eendroroy/autoenv-templates) - My autoenv templates
+- [eendroroy/zsh-autoenv-templates-installer](https://github.com/eendroroy/zsh-autoenv-templates-installer) - 
+- [tmux-plugins/tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
+- [eendroroy/alien-tmux](https://github.com/eendroroy/alien-tmux) - Tmux theme
+- [eendroroy/promptlib-zsh](https://github.com/eendroroy/promptlib-zsh) - collection of libraries for zsh prompts
+- [chrissicool/zsh-256color](https://github.com/chrissicool/zsh-256color) - ZSH plugin to enhance the terminal environment with 256 colors
+- [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
+- [jesec/zsh_theme_theta-async](https://github.com/jesec/zsh_theme_theta-async) - Simplified rewrite of theta theme (https://github.com/eendroroy/theta) with true async support
 - [lilyball/fzf-git.fish](https://github.com/lilyball/fzf-git.fish) - Fish shell plugin for fzf git bindings
 - [halostatue/fish-direnv](https://github.com/halostatue/fish-direnv) - A very basic direnv configuration for fish
 - [goranmoomin/fish-color-manual](https://github.com/goranmoomin/fish-color-manual) - Simple fisher package to colorize manual pages
@@ -9422,6 +9500,7 @@
 
 ## TypeScript 
 
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [OwenFlood/arduino-snippets](https://github.com/OwenFlood/arduino-snippets) - vscode extension that adds code snippets for Arduino
 - [vitormv/fzf-themes](https://github.com/vitormv/fzf-themes) - Tweak, preview, import & share your fzf themes in an interactive environment.
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
@@ -9556,7 +9635,7 @@
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [neoclide/coc-lists](https://github.com/neoclide/coc-lists) - Common lists for coc.nvim
 - [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [sourcegraph/code-intel-extensions](https://github.com/sourcegraph/code-intel-extensions) - Provides precise code intelligence via LSIF and Language Servers, and fuzzy code intelligence using ctags and text search
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
@@ -9601,6 +9680,8 @@
 
 ## Vim Script 
 
+- [girishji/vimsuggest](https://github.com/girishji/vimsuggest) - Auto-completion for Vim's command-line.
+- [eendroroy/dotfiles](https://github.com/eendroroy/dotfiles) - 
 - [andykog/fern-copynode.vim](https://github.com/andykog/fern-copynode.vim) - 🌿 fern.vim plugin to copy the selected node's name/path into the system clipboard
 - [andykog/fern-search.vim](https://github.com/andykog/fern-search.vim) - 🌿 fern.vim plugin for full-text search/replacement using Ack
 - [andykog/fern-bookmarks.vim](https://github.com/andykog/fern-bookmarks.vim) - 🌿 fern.vim simple bookmarks plugin
@@ -9623,7 +9704,6 @@
 - [girishji/lsp-complete.vim](https://github.com/girishji/lsp-complete.vim) - Autocompletion based on LSP for Vimcomplete.
 - [girishji/vimscript-complete.vim](https://github.com/girishji/vimscript-complete.vim) - Autocompletion of Vimscript functions, variables, and other language features for Vimcomplete plugin.
 - [yssl/QFEnter](https://github.com/yssl/QFEnter) - Open a Quickfix item in a window you choose. (Vim plugin)
-- [girishji/pythondoc.vim](https://github.com/girishji/pythondoc.vim) - Python API documentation for Vim and Neovim
 - [vim-scripts/a.vim](https://github.com/vim-scripts/a.vim) - Alternate Files quickly (.c --&gt; .h etc)
 - [ton/vim-alternate](https://github.com/ton/vim-alternate) - Quickly switch between alternate files in Vim, similar to a.vim, but more flexible
 - [girishji/autosuggest.vim](https://github.com/girishji/autosuggest.vim) - Autocompletion for Vim's command-line.
@@ -9842,6 +9922,7 @@
 - [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
 - [elianiva/gitgud.nvim](https://github.com/elianiva/gitgud.nvim) - github dark colorscheme for neovim made with lush
 - [numToStr/gruvbox-material](https://github.com/numToStr/gruvbox-material) - Fork of gruvbox-material
+- [m15a/vim-fennel-syntax](https://github.com/m15a/vim-fennel-syntax) - Yet another Vim syntax highlighting plugin for Fennel
 - [othree/vim-autocomplpop](https://github.com/othree/vim-autocomplpop) - Automatic trigger complete popup menu
 - [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu) - :sunglasses: Display the Completion Menu Automantically (next AutoComplPop) !!
 - [fcying/gen_clang_conf.vim](https://github.com/fcying/gen_clang_conf.vim) - gen clang config for vim
@@ -10551,7 +10632,6 @@
 - [idbrii/gv.vim](https://github.com/idbrii/gv.vim) - contribution fork: A git commit browser in Vim
 - [prabirshrestha/asyncomplete-ultisnips.vim](https://github.com/prabirshrestha/asyncomplete-ultisnips.vim) - provides ultisnips autocomplete for asyncomplete.vim
 - [yami-beta/asyncomplete-omni.vim](https://github.com/yami-beta/asyncomplete-omni.vim) - Omni completion source for asyncomplete.vim
-- [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) - A vim plugin for communicating with a language server
 - [ncm2/ncm2-vim-lsp](https://github.com/ncm2/ncm2-vim-lsp) - 
 - [electro7/dot_arch](https://github.com/electro7/dot_arch) - Configuration files for my archlinux (HP Probook G430 G5)
 - [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github) - Shougo's git repository - vim, zsh, screen, etc...
@@ -10897,6 +10977,7 @@
 
 ## YASnippet 
 
+- [arkhan/emacs.d](https://github.com/arkhan/emacs.d) - 
 - [mohkale/emacs](https://github.com/mohkale/emacs) - My literate emacs config
 - [doomemacs/snippets](https://github.com/doomemacs/snippets) - The Doom Emacs snippets library
 - [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
