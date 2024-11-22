@@ -137,6 +137,13 @@
 
 ## Arduino 
 
+- [kareiva/wb7fhc-cw-decoder](https://github.com/kareiva/wb7fhc-cw-decoder) - WB7FHC's Morse Code Decoder v. 1.1
+- [sprakashb/5351-with-Ardu-Mega](https://github.com/sprakashb/5351-with-Ardu-Mega) - 5351 based vfo/bfo generator with Arduino Mega Shield
+- [sprakashb/5351-with-Ardu-Megav2.x](https://github.com/sprakashb/5351-with-Ardu-Megav2.x) - 
+- [sprakashb/ArduDDS](https://github.com/sprakashb/ArduDDS) - An arduino based dds with 4X20 display, 4VFOs and 40 channel memory
+- [sprakashb/Si5351VFO-BFO-with-Keypad](https://github.com/sprakashb/Si5351VFO-BFO-with-Keypad) - Si5351 based VFO / BFO with 4 line display, Keypad and Rotary encoder
+- [sprakashb/Si5351-VFO-BFO-for-12-MHz-IF](https://github.com/sprakashb/Si5351-VFO-BFO-for-12-MHz-IF) - 
+- [sprakashb/Si5351vfo_bfo](https://github.com/sprakashb/Si5351vfo_bfo) - A combined VFO and BFO using Si5351
 - [k3ng/k3ng_arduino_beacon](https://github.com/k3ng/k3ng_arduino_beacon) - K3NG Arduino Amateur Radio Beacon Controller
 - [rambo/ds1307](https://github.com/rambo/ds1307) - Arduino library for DS1307 RTC
 - [LZ1PPL/VSTv2](https://github.com/LZ1PPL/VSTv2) - Small Arduino Based APRS Tracker
@@ -232,6 +239,10 @@
 
 ## C 
 
+- [markqvist/MicroDigi](https://github.com/markqvist/MicroDigi) - Standalone digipeater firmware for MicroModem
+- [sleemanj/usbasp](https://github.com/sleemanj/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
+- [PeterVH/usbasp](https://github.com/PeterVH/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
+- [bperrybap/usbasp](https://github.com/bperrybap/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
 - [jgauchia/ESP32-SDR](https://github.com/jgauchia/ESP32-SDR) - ESP32 SDR Based radio receiver
 - [mcpcpc/xbar](https://github.com/mcpcpc/xbar) - An tiny XCB information bar.
 - [mcpcpc/xwm](https://github.com/mcpcpc/xwm) - A tiny XCB floating window manager.
@@ -1266,6 +1277,17 @@
 
 ## C++ 
 
+- [PU2REO/PU2REO_Si570](https://github.com/PU2REO/PU2REO_Si570) - Library for the Si570 10 Mhz to 1.4 ghz I2C programmable XO/VCXO, in the Arduino environment
+- [PU2REO/PU2REO_AD9851](https://github.com/PU2REO/PU2REO_AD9851) - Arduino Library for the AD9851 - CMOS 180 MHz DDS/DAC Synthesizer
+- [ideal54/VK2IDL-CW-Encoder](https://github.com/ideal54/VK2IDL-CW-Encoder) - Morse Code encoder for the Arduino
+- [ideal54/Morse-Code-Encoder-v2](https://github.com/ideal54/Morse-Code-Encoder-v2) - Morse Encoder for the Arduino. This is the latest version, with built-in LCD and feature improvements
+- [ideal54/VK2IDL_CW_Decoder](https://github.com/ideal54/VK2IDL_CW_Decoder) - A Morse Code Decoder based on WB7FHC's Simple Morse Code Decoder
+- [PU2REO/PU2REO_DVFO](https://github.com/PU2REO/PU2REO_DVFO) - Digital Variable Frequency Oscillator to be applied to Citzen Band/Amateur Radio transceivers.
+- [sprakashb/TFT_TouchScreen_for_uBitx](https://github.com/sprakashb/TFT_TouchScreen_for_uBitx) - A Touch screen and colour TFT for uBitx
+- [sprakashb/TFT-Touch-VFO-BFOfor-uBitxv3.1U](https://github.com/sprakashb/TFT-Touch-VFO-BFOfor-uBitxv3.1U) - 
+- [sprakashb/Weather-Monitor](https://github.com/sprakashb/Weather-Monitor) - Simple Weather Monitor with Colour Display
+- [sprakashb/FT2000-CAT-Library](https://github.com/sprakashb/FT2000-CAT-Library) - 
+- [tjlab-jf3hzb/Digital_VFO_with_analog_dial](https://github.com/tjlab-jf3hzb/Digital_VFO_with_analog_dial) - 
 - [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [owenduffy/ssc](https://github.com/owenduffy/ssc) - SNTP synchronised clock
@@ -2626,6 +2648,7 @@
 
 ## Eagle 
 
+- [rccam/usbasp](https://github.com/rccam/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
 - [ZdenekBrichacek/PCB-2way_Radio-AT1846](https://github.com/ZdenekBrichacek/PCB-2way_Radio-AT1846) - Two Way Radio development board with RDA1846s
 - [JChristensen/tinyTorch](https://github.com/JChristensen/tinyTorch) - Hardware design for a small LED flashlight powered by an ATtiny84A.
 - [danielrempel/USBIRReceiver](https://github.com/danielrempel/USBIRReceiver) - USB IR receiver on atmega8l with own host-side software
@@ -4425,7 +4448,7 @@
 
 - [mobilinkd/uv-k6-digital-mod](https://github.com/mobilinkd/uv-k6-digital-mod) - UV-K6 Mods for Digital Modulation
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
-- [fastai/ghapi](https://github.com/fastai/ghapi) - A delightful and complete interface to GitHub's amazing API
+- [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [fastai/ghtop-demo](https://github.com/fastai/ghtop-demo) - A CLI tool for showing GitHub events, written with Rich
 - [medwatt/Notes](https://github.com/medwatt/Notes) - 
 - [jkitchin/ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
@@ -7216,6 +7239,11 @@
 
 ## Others 
 
+- [kareiva/micromodem-pcb](https://github.com/kareiva/micromodem-pcb) - MicroModem-compatible PCB shield for Arduino Nano by LY2EN
+- [MCUdude/microUPDI](https://github.com/MCUdude/microUPDI) - DIY UPDI programmer with open source hardware!
+- [sprakashb/TFT-VFO-v5](https://github.com/sprakashb/TFT-VFO-v5) - Ver 5 with larger buttons and multiple screens for simplifying operation and additional facilities
+- [sprakashb/TFT-VFO-FT2000-CAT](https://github.com/sprakashb/TFT-VFO-FT2000-CAT) - Improved version with CAT emulation of Yaesu-FT2000
+- [sprakashb/SWR_Meter](https://github.com/sprakashb/SWR_Meter) - Simple Homebrewed SWR Meter
 - [imsi32/yatline-addons](https://github.com/imsi32/yatline-addons) - Awesome list of repositories for Yatline add-ons.
 - [imsi32/yatline-themes](https://github.com/imsi32/yatline-themes) - Awesome list of repositories for Yatline themes.
 - [poperigby/gruvbox-dark-yazi](https://github.com/poperigby/gruvbox-dark-yazi) - A Gruvbox Dark theme for Yazi
@@ -7730,6 +7758,7 @@
 
 ## Pascal 
 
+- [dioannidis/libUSBUARTTerminal](https://github.com/dioannidis/libUSBUARTTerminal) - An Object Pascal UART Terminal for USBasp UART firmwares.
 - [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 - [ok2cqr/cqrlog](https://github.com/ok2cqr/cqrlog) - Linux logging program for amateur radio operators
 - [ok2cqr/cqrprop](https://github.com/ok2cqr/cqrprop) - Shows propagation data provided by Paul, N0NBH on a Linux desktop
@@ -8541,6 +8570,7 @@
 
 ## Roff 
 
+- [sprakashb/COLOUR-TFT-VFO-BFO-v6.2-uBitx-Bitx](https://github.com/sprakashb/COLOUR-TFT-VFO-BFO-v6.2-uBitx-Bitx) - Improved version of Colour TFT+ Touch display VFO/BFO generation for uBitx / Bitx and similar rigs
 - [kholia/pico-cw-beacon-drs](https://github.com/kholia/pico-cw-beacon-drs) - Direct-RF-Synthesis CW Beacon PoC using Raspberry Pi Pico. No Si5351 is needed. HF and VHF fox! Have fun! ;) Comes with 5W amplifier + LPF!
 - [afarhan/bitx2m](https://github.com/afarhan/bitx2m) - Documentation for the bitx2m
 - [ColumPaget/libUseful-lua](https://github.com/ColumPaget/libUseful-lua) - lua bindings for libUseful
@@ -8872,6 +8902,7 @@
 
 ## Scala 
 
+- [ge0rg/aprsdroid](https://github.com/ge0rg/aprsdroid) - APRSdroid - Geo-Location for Radio Amateurs
 - [hkupty/nero.nvim](https://github.com/hkupty/nero.nvim) - The Neovim REPL.
 - [jonas/example-gitbook-site-with-tut](https://github.com/jonas/example-gitbook-site-with-tut) - Example GitBook sbt-site using tut
 - [gtache/intellij-lsp](https://github.com/gtache/intellij-lsp) - Plugin adding Language Server Protocol support for IntelliJ
