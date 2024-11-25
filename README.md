@@ -137,6 +137,7 @@
 
 ## Arduino 
 
+- [brucemack/Peppermint-VFO](https://github.com/brucemack/Peppermint-VFO) - VFO/Controller for BITX40
 - [kareiva/wb7fhc-cw-decoder](https://github.com/kareiva/wb7fhc-cw-decoder) - WB7FHC's Morse Code Decoder v. 1.1
 - [sprakashb/5351-with-Ardu-Mega](https://github.com/sprakashb/5351-with-Ardu-Mega) - 5351 based vfo/bfo generator with Arduino Mega Shield
 - [sprakashb/5351-with-Ardu-Megav2.x](https://github.com/sprakashb/5351-with-Ardu-Megav2.x) - 
@@ -231,6 +232,7 @@
 
 ## Batchfile 
 
+- [MCUdude/microUPDIcore](https://github.com/MCUdude/microUPDIcore) - Arduino core for flashing mEDBG firmware onto the microUPDI programmer
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [dibyendumajumdar/Suravi](https://github.com/dibyendumajumdar/Suravi) - Suravi is a small distribution of Ravi/Lua 5.3 with batteries such as cjson, lpeglabel, luasocket, penlight, torch7, luv, luaossl
 - [k-takata/vim-win32-installer](https://github.com/k-takata/vim-win32-installer) - This is a workbench for the vim/vim-win32-installer project
@@ -239,6 +241,23 @@
 
 ## C 
 
+- [bclswl0827/51duino](https://github.com/bclswl0827/51duino) - Arduino styled function library for the STC89C5x series single chip microcomputer
+- [tedsluis/dump1090](https://github.com/tedsluis/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
+- [afiskon/stm32-sdcard](https://github.com/afiskon/stm32-sdcard) - STM32 HAL-based library for SDHC/SDXC-cards
+- [afiskon/stm32-fatfs-examples](https://github.com/afiskon/stm32-fatfs-examples) - STM32: examples of usage of FatFs library
+- [afiskon/stm32-st7735](https://github.com/afiskon/stm32-st7735) - STM32 HAL-based library for ST7735 displays
+- [afiskon/stm32-ssd1351](https://github.com/afiskon/stm32-ssd1351) - STM32 HAL-based library for SSD1351 color OLED modules
+- [afiskon/stm32-i2c-lcd-1602](https://github.com/afiskon/stm32-i2c-lcd-1602) - STM32: LCD 1602 w/ I2C adapter usage example
+- [afiskon/stm32-ssd1306](https://github.com/afiskon/stm32-ssd1306) - STM32 library for working with OLEDs based on SSD1306, SH1106, SH1107 and SSD1309, supports I2C and SPI
+- [michaeldaranto/UglyDDS-STM32](https://github.com/michaeldaranto/UglyDDS-STM32) - Simple DDS with STM32F411
+- [ohmytime/CentSDR](https://github.com/ohmytime/CentSDR) - CentSDR: tiny handheld standalone software defined receiver with LCD display.
+- [crazybolillo/pico53](https://github.com/crazybolillo/pico53) - Interactive shell for a Si5351A synthesizer with a Pi Pico
+- [espressif/esp-at](https://github.com/espressif/esp-at) - AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266
+- [kholia/Si5351-Pi-Pico](https://github.com/kholia/Si5351-Pi-Pico) - Native (C/C++ SDK) Si5351 library for Raspberry Pi Pico
+- [amedes/pico_tnc](https://github.com/amedes/pico_tnc) - TNC for Raspberry  Pi Pico
+- [dawsonjon/PicoRX](https://github.com/dawsonjon/PicoRX) - Build a SDR SW/MW/LW Receiver with a Raspberry Pi Pico
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+- [Montecri/GNSSTimeServer](https://github.com/Montecri/GNSSTimeServer) - WiFi-enabled GNSS (GPS, BeiDou, GLONASS, Galileo) fed NTP/RDATE server based on ESP8266/ESP32 and Arduino
 - [markqvist/MicroDigi](https://github.com/markqvist/MicroDigi) - Standalone digipeater firmware for MicroModem
 - [sleemanj/usbasp](https://github.com/sleemanj/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
 - [PeterVH/usbasp](https://github.com/PeterVH/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
@@ -363,7 +382,6 @@
 - [igor-m/NanoVNA-Z](https://github.com/igor-m/NanoVNA-Z) - NanoVNA github repository backup as of August 6th 2020, the day the original NanoVNA github repository was deleted by a member and the binaries by nanovna-users group owners..... NO WARRANTIES, EXPRES
 - [igor-m/NanoVNA-H4](https://github.com/igor-m/NanoVNA-H4) - NanoVNA H4 branch github repository backup as of August 6th 2020. NO WARRANTIES, EXPRESS, IMPLIED OR OTHERWISE, REGARDING ITS ACCURACY, COMPLETENESS OR PERFORMANCE. PROVIDED AS-IS.
 - [flyoob/NanoVNA-F](https://github.com/flyoob/NanoVNA-F) - NanoVNA-F, NanoVNA-Fairy, FreeRTOS version of TTRFTECH's NanoVNA.
-- [ttrftech/CentSDR](https://github.com/ttrftech/CentSDR) - CentSDR: tiny handheld standalone software defined receiver with LCD display.
 - [edy555/ChibiOS](https://github.com/edy555/ChibiOS) - Read only mirror of SVN ChibiOS repository. Official forum http://forum.chibios.org  Bugtracker http://sourceforge.net/projects/chibios
 - [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [afiskon/hbr-mk2](https://github.com/afiskon/hbr-mk2) - All HF bands QRP CW/SSB transceiver
@@ -1277,6 +1295,40 @@
 
 ## C++ 
 
+- [adecarolis/K1FM-WSPR-TX](https://github.com/adecarolis/K1FM-WSPR-TX) - A Si5351a WSPR Transmitter.
+- [paddatrapper/Arduino_si5351_VFO_Controller_Keyer](https://github.com/paddatrapper/Arduino_si5351_VFO_Controller_Keyer) - A controller for a multi-band homebrew SSB/CW transceiver, targeting Arduino Nano and si5351 PLL.
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
+- [MajicDesigns/MD_REncoder](https://github.com/MajicDesigns/MD_REncoder) - Rotary Encoder Library
+- [michaeldaranto/UglyDDS](https://github.com/michaeldaranto/UglyDDS) - DDS Si5351 without any features :) Just VFO, BFO, OLED128x64/LCD16x2, Encoder, and of course Arduino Nano
+- [bhall66/morse-tutor](https://github.com/bhall66/morse-tutor) - 
+- [tmr4/T41_SDR](https://github.com/tmr4/T41_SDR) - SDR based on T41-EP
+- [manashmandal/SerialPort](https://github.com/manashmandal/SerialPort) - :large_orange_diamond: C++ Library for Serial Communication with Arduino
+- [F3lda/BP-HistoR](https://github.com/F3lda/BP-HistoR) - Embedded system for receiving audio streams on a historic radio receiver
+- [kp4md/TunaTinS](https://github.com/kp4md/TunaTinS) - Arduino code for Bob Fontana AK3Y's Tuna Tin S QRPp CW Transmitter
+- [ianm8/HySSB](https://github.com/ianm8/HySSB) - 
+- [ianm8/MBDC](https://github.com/ianm8/MBDC) - Multiband direct conversion reciever
+- [ianm8/iDSB](https://github.com/ianm8/iDSB) - 
+- [ianm8/H.AM-Radio](https://github.com/ianm8/H.AM-Radio) - An AM radio designed to be used with a long wire ham radio antenna. Based on a design by ZL2CTM (Charlie).
+- [ianm8/uDCR](https://github.com/ianm8/uDCR) - Micro direct conversion receiver covering 80m, 40m, 20m bands.
+- [ianm8/uSBITX](https://github.com/ianm8/uSBITX) - An HF transceiver based on the sBITX.
+- [ianm8/iDSB40](https://github.com/ianm8/iDSB40) - Double sideband transceiver with inverse audio for the 40m band.
+- [ianm8/MBPR](https://github.com/ianm8/MBPR) - 
+- [ianm8/4020](https://github.com/ianm8/4020) - A dual band QRP transceiver for 40m and 20m.
+- [agustinmartino/wsjt_transceiver](https://github.com/agustinmartino/wsjt_transceiver) - A WSJT transceiver using Si5351, SDR and Arduino
+- [lu1aat/rtty-arduino-beacon-audio](https://github.com/lu1aat/rtty-arduino-beacon-audio) - Basic RTTY audio beacon with Arduino
+- [lu1aat/cw-arduino-beacon](https://github.com/lu1aat/cw-arduino-beacon) - Basic CW Arduino Beacon
+- [lu1aat/rtty-arduino-beacon-si5351](https://github.com/lu1aat/rtty-arduino-beacon-si5351) - RTTY Arduino Beacon for Si5351
+- [lu1aat/hellschreiberlib](https://github.com/lu1aat/hellschreiberlib) - This library compatible with Arduino will modulate Hellscriber OOK signal via output pin
+- [lu1aat/wspr-si5351](https://github.com/lu1aat/wspr-si5351) - WSPR very basic JTEncode implementation
+- [fdebrabander/Arduino-LiquidCrystal-I2C-library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) - Library for the LiquidCrystal LCD display connected to an Arduino board.
+- [WA2FZW/Adjustable-RF-Attenuator-by-WA2FZW](https://github.com/WA2FZW/Adjustable-RF-Attenuator-by-WA2FZW) - A low power adjustable RF attenuator intended for such applications as being between an RF preamplifier and an SDR.
+- [WA2FZW/It-s-Not-Just-Another-Digital-VFO-by-WA2FZW-VK3PE-and-G3ZQC](https://github.com/WA2FZW/It-s-Not-Just-Another-Digital-VFO-by-WA2FZW-VK3PE-and-G3ZQC) - A total overhaul of the simulated analog dial VFO originally developed by TJ Ubeo (JF3HZB).
+- [kholia/DigitalRadioReceiverSupport](https://github.com/kholia/DigitalRadioReceiverSupport) - Support repository for the 'Digital Radio Receiver' / 'FT8 Decoder' / 'FT8 Radio' app.
+- [webft8/Si5351Arduino4Linux](https://github.com/webft8/Si5351Arduino4Linux) - 
+- [kholia/Alinco-FT8-Interface](https://github.com/kholia/Alinco-FT8-Interface) - FT8 interface for Alinco DX-10 transceiver
+- [rtmrtmrtmrtm/ft8mon](https://github.com/rtmrtmrtmrtm/ft8mon) - FT8 receiver in C++
+- [khoih-prog/RP2040_PWM](https://github.com/khoih-prog/RP2040_PWM) - This library enables you to use Hardware-based PWM channels on RP2040-based boards, such as Nano_RP2040_Connect, RASPBERRY_PI_PICO, with either Arduino-mbed (mbed_nano or mbed_rp2040) or arduino-pico 
+- [lora-aprs/LoRa_APRS_Tracker](https://github.com/lora-aprs/LoRa_APRS_Tracker) - A LoRa based APRS tracker for ESP32 boards.
 - [PU2REO/PU2REO_Si570](https://github.com/PU2REO/PU2REO_Si570) - Library for the Si570 10 Mhz to 1.4 ghz I2C programmable XO/VCXO, in the Arduino environment
 - [PU2REO/PU2REO_AD9851](https://github.com/PU2REO/PU2REO_AD9851) - Arduino Library for the AD9851 - CMOS 180 MHz DDS/DAC Synthesizer
 - [ideal54/VK2IDL-CW-Encoder](https://github.com/ideal54/VK2IDL-CW-Encoder) - Morse Code encoder for the Arduino
@@ -2175,7 +2227,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs (you need a bit of HW on a breadboard or some special Arduino shields as well)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -2648,6 +2700,7 @@
 
 ## Eagle 
 
+- [M0IFA/Concept](https://github.com/M0IFA/Concept) - Arduino Concept SDR
 - [rccam/usbasp](https://github.com/rccam/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
 - [ZdenekBrichacek/PCB-2way_Radio-AT1846](https://github.com/ZdenekBrichacek/PCB-2way_Radio-AT1846) - Two Way Radio development board with RDA1846s
 - [JChristensen/tinyTorch](https://github.com/JChristensen/tinyTorch) - Hardware design for a small LED flashlight powered by an ATtiny84A.
@@ -2814,8 +2867,8 @@
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
 - [condy0919/.emacs.d](https://github.com/condy0919/.emacs.d) - 一个快速且实用的 Emacs 配置
 - [emacs-exordium/exordium](https://github.com/emacs-exordium/exordium) - An Emacs configuration that will make your C++ IDE jealous.
-- [ajgrf/edwina](https://github.com/ajgrf/edwina) - Dynamic window manager for Emacs – GitHub mirror
-- [ajgrf/parchment](https://github.com/ajgrf/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
+- [axgfn/edwina](https://github.com/axgfn/edwina) - Dynamic window manager for Emacs – GitHub mirror
+- [axgfn/parchment](https://github.com/axgfn/parchment) - A light editor theme for Vim and Emacs, inspired by Acme and Leuven – GitHub mirror
 - [amirrezaask/acme-mode](https://github.com/amirrezaask/acme-mode) - Emacs minor mode to behave more like Acme editor from Plan9 project
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
@@ -3968,6 +4021,7 @@
 
 ## HTML 
 
+- [kholia/DDX](https://github.com/kholia/DDX) - The 'Direct Digital Transceiver' (DDX) project. Some folks call it 'Dhiru's Digital Transceiver' :D
 - [pu2clr/BK108X](https://github.com/pu2clr/BK108X) - BK108X Arduino Library
 - [pu2clr/SI470X](https://github.com/pu2clr/SI470X) - It is an Arduino Library for the SI4702 and SI4703, BROADCAST RECEIVER.
 - [pu2clr/MCP23008](https://github.com/pu2clr/MCP23008) - Control the MCP23008/MCP23S08 8-Bit I/O Expander with Serial Interface with your Arduino
@@ -4621,7 +4675,7 @@
 - [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
 - [kevontheweb/linux-configs](https://github.com/kevontheweb/linux-configs) - my neovim and other linux configs
 - [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) - A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command
-- [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) - See status of ci/cd pipeline runs directly in neovim
+- [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) - See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
@@ -7239,6 +7293,8 @@
 
 ## Others 
 
+- [M0IFA/BARSicle](https://github.com/M0IFA/BARSicle) - Amateur Radio learning project LEARN - CODE - BUILD
+- [lu1aat/rtty](https://github.com/lu1aat/rtty) - Notes and resources about RTTY
 - [kareiva/micromodem-pcb](https://github.com/kareiva/micromodem-pcb) - MicroModem-compatible PCB shield for Arduino Nano by LY2EN
 - [MCUdude/microUPDI](https://github.com/MCUdude/microUPDI) - DIY UPDI programmer with open source hardware!
 - [sprakashb/TFT-VFO-v5](https://github.com/sprakashb/TFT-VFO-v5) - Ver 5 with larger buttons and multiple screens for simplifying operation and additional facilities
@@ -7758,6 +7814,7 @@
 
 ## Pascal 
 
+- [VE3NEA/MorseRunner](https://github.com/VE3NEA/MorseRunner) - 
 - [dioannidis/libUSBUARTTerminal](https://github.com/dioannidis/libUSBUARTTerminal) - An Object Pascal UART Terminal for USBasp UART firmwares.
 - [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 - [ok2cqr/cqrlog](https://github.com/ok2cqr/cqrlog) - Linux logging program for amateur radio operators
@@ -7838,6 +7895,9 @@
 
 ## Python 
 
+- [agustinmartino/wsjtx_transceiver_interface](https://github.com/agustinmartino/wsjtx_transceiver_interface) - A Python server to interface Arduino transmitter with WSJTX
+- [rtmrtmrtmrtm/weakmon](https://github.com/rtmrtmrtmrtm/weakmon) - Sound-card software for FT8, JT65A, and WSPR.
+- [michalin/easysdr](https://github.com/michalin/easysdr) - Super Simple SDR Receiver
 - [0x9900/SA818](https://github.com/0x9900/SA818) - Programming software for the SA818 radio module.
 - [0x9900/FT8Commander](https://github.com/0x9900/FT8Commander) - QSO Automation for WSJT
 - [0x9900/aprs_wx](https://github.com/0x9900/aprs_wx) - Send temperature to APRS
@@ -8688,6 +8748,8 @@
 
 ## Rust 
 
+- [atanunq/viuer](https://github.com/atanunq/viuer) - Rust library for displaying images in the terminal.
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [openSUSE-Rust/obs-service-cargo](https://github.com/openSUSE-Rust/obs-service-cargo) - OBS Source Service and utilities for Rust software packaging
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -8927,6 +8989,8 @@
 
 ## Shell 
 
+- [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
+- [michaeldaranto/Termux-Slackware](https://github.com/michaeldaranto/Termux-Slackware) - Run Slackware ARM Linux on Termux Android
 - [mcpcpc/kinode](https://github.com/mcpcpc/kinode) - Scripts for Linode VPS unattended KISS Linux installation
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) - Matrix client / Element Web/Desktop fork
@@ -9679,6 +9743,7 @@
 
 ## Swift 
 
+- [espressif/book-esp32c3-iot-projects](https://github.com/espressif/book-esp32c3-iot-projects) - 《ESP32-C3 物联网工程开发实战》配套代码
 - [SwiftyLinkerKit/SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
