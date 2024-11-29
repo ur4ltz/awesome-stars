@@ -241,6 +241,14 @@
 
 ## C 
 
+- [kaduhi/CentSDR](https://github.com/kaduhi/CentSDR) - CentSDR: tiny handheld standalone software defined receiver with LCD display.
+- [ttrftech/CentSDR](https://github.com/ttrftech/CentSDR) - CentSDR: tiny handheld standalone software defined receiver with LCD display.
+- [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) - 
+- [sp6q/maidenhead](https://github.com/sp6q/maidenhead) - C library for converting between latitude/longitude and Maidenhead locators
+- [RPiks/pico-widgets](https://github.com/RPiks/pico-widgets) - A tiny GUI library for Raspberry Pi Pico
+- [RPiks/pico-touchscr-sdk](https://github.com/RPiks/pico-touchscr-sdk) - Display & Touchscreen SDK for Raspberry Pi Pico
+- [R03LTjuh/KG0CQ-s-yaesu-program](https://github.com/R03LTjuh/KG0CQ-s-yaesu-program) - This is an easy to use software for terminal freaks controling the Yaesu FT-890 by Emarit Ranu - KG0CQ: no longer maintain this software. so im maintain this peace of software to keep it alive. wich i
+- [iphizic/uvk5-fagci-reborn](https://github.com/iphizic/uvk5-fagci-reborn) - Rewritten uv-k5 firmware, except drivers
 - [bclswl0827/51duino](https://github.com/bclswl0827/51duino) - Arduino styled function library for the STC89C5x series single chip microcomputer
 - [tedsluis/dump1090](https://github.com/tedsluis/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [afiskon/stm32-sdcard](https://github.com/afiskon/stm32-sdcard) - STM32 HAL-based library for SDHC/SDXC-cards
@@ -460,6 +468,7 @@
 - [gavinlyonsrepo/pic_16F1619_projects](https://github.com/gavinlyonsrepo/pic_16F1619_projects) - Projects and  libraries for the Microchip  PIC 16F1619 Microcontroller ( 8-bit, 20-pin).
 - [PaulStoffregen/teensy_loader_cli](https://github.com/PaulStoffregen/teensy_loader_cli) - Command line Teensy Loader
 - [PaulStoffregen/Video_Start_Button](https://github.com/PaulStoffregen/Video_Start_Button) - 
+- [PaulStoffregen/AltSoftSerial](https://github.com/PaulStoffregen/AltSoftSerial) - Software emulated serial using hardware timers for improved compatibility
 - [PaulStoffregen/teensy41_extram](https://github.com/PaulStoffregen/teensy41_extram) - 
 - [PaulStoffregen/LittleFS](https://github.com/PaulStoffregen/LittleFS) - 
 - [PaulStoffregen/Tlc5940](https://github.com/PaulStoffregen/Tlc5940) - 16 channel PWM LED driver based on the Texas Instruments TLC5940 chip.
@@ -1295,6 +1304,37 @@
 
 ## C++ 
 
+- [kaduhi/IC746CAT](https://github.com/kaduhi/IC746CAT) - ICOM IC-746 Computer Aided Transceiver (CAT) control emulation for Arduino
+- [kaduhi/AFSK_to_FSK_VFO](https://github.com/kaduhi/AFSK_to_FSK_VFO) - 
+- [elelel/qluacpp-tutorial](https://github.com/elelel/qluacpp-tutorial) - Tutorial for Qluacpp library (C++ interface for Quik trading terminal)
+- [elelel/qluacpp](https://github.com/elelel/qluacpp) - C++ interface for Quik trading terminal via lua bindings
+- [adamczykpiotr/pico-mcp2515](https://github.com/adamczykpiotr/pico-mcp2515) - Raspberry Pi Pico MCP2515 CAN-Bus Interface Library
+- [RPiks/pico-FDCT](https://github.com/RPiks/pico-FDCT) - Fast discrete cosine transform (FDCT) for Raspberry Pi Pico & any other platform
+- [lightaprs/LightAPRS-1.0](https://github.com/lightaprs/LightAPRS-1.0) - Arduino based APRS Tracker
+- [lightaprs/LightTracker-1.1](https://github.com/lightaprs/LightTracker-1.1) - LoRa & LoRaWAN Tracker for pico balloons, high altitude balloons and drones
+- [lightaprs/LightTracker-1.0](https://github.com/lightaprs/LightTracker-1.0) - LoRa & LoRaWAN Tracker for pico balloons, high altitude balloons and drones
+- [kk4das/SSB_TFT_Display](https://github.com/kk4das/SSB_TFT_Display) - 
+- [kk4das/Signal_Generator](https://github.com/kk4das/Signal_Generator) - Sine Wave Signal Generator using an Arduino Nano and an AD-9850 Direct Digital Synthensizer
+- [s21rc/auto-STL-controller](https://github.com/s21rc/auto-STL-controller) - Magnetic loop antenna (STL) controller
+- [s21rc/Arduino-LDMOS-SSPA-Controller](https://github.com/s21rc/Arduino-LDMOS-SSPA-Controller) - Arduino LDMOS SSPA controller with Nextion HMI display
+- [s21rc/SSPA-Controller-REV3](https://github.com/s21rc/SSPA-Controller-REV3) - 
+- [s21rc/ldmos_sspa_controller_v2.1_lite](https://github.com/s21rc/ldmos_sspa_controller_v2.1_lite) - A lite version of controller without any software protection. Simple for monitoring the SSPA parameters.
+- [s21rc/USB-Controller-for-SDR-CONSOLE](https://github.com/s21rc/USB-Controller-for-SDR-CONSOLE) - 
+- [s21rc/MORSE_PADDLE_USB](https://github.com/s21rc/MORSE_PADDLE_USB) - To connect a CW paddle with computer to practise CW Morse using different software or web application. This one was made to practice with Ham Radio Solutions Virtual CW Band
+- [xreef/PCF8574_library](https://github.com/xreef/PCF8574_library) - PCF8574 library. i2c digital expander for Arduino, Raspberry Pi Pico and rp2040 boards, esp32, SMT32 and ESP8266. Can read write digital values with only 2 wire. Very simple to use and encoder support
+- [RobTillaart/Adafruit_BusIO](https://github.com/RobTillaart/Adafruit_BusIO) - I2C & SPI abstractions for use with Arduino
+- [RobTillaart/HX710AB](https://github.com/RobTillaart/HX710AB) - Arduino library for the HX710A and HX710B 24-Bit ADC.
+- [RobTillaart/DAC8571](https://github.com/RobTillaart/DAC8571) - Arduino library for DAC8571 I2C 16 bit DAC.
+- [RobTillaart/DAC8574](https://github.com/RobTillaart/DAC8574) - Arduino library for DAC8574, I2C, 4 channel, 16 bit DAC.
+- [RobTillaart/DS1804](https://github.com/RobTillaart/DS1804) - Arduino library for DS1804 Nonvolatile Trimmer Potentiometer.
+- [RobTillaart/AD8495](https://github.com/RobTillaart/AD8495) - Arduino library for the AD8494, AD8495, AD8496 and AD8497 thermocouple.
+- [RobTillaart/TEMT6000](https://github.com/RobTillaart/TEMT6000) - Arduino library for analog TEMT6000 light / LUX sensor.
+- [RobTillaart/PCA9632](https://github.com/RobTillaart/PCA9632) - Arduino library for PCA9632 and PCA9633 4 channel, I2C LED driver.
+- [RobTillaart/AD523X](https://github.com/RobTillaart/AD523X) - Arduino library for SPI AD5231 and AD5235 10 bit digital potentiometers.
+- [joaoaugustocz/LidarArray](https://github.com/joaoaugustocz/LidarArray) - 
+- [WK-Software56/AdvKeyPad](https://github.com/WK-Software56/AdvKeyPad) - Arduino advanced Keypad-Library for 4x4 Keypads with PCF8574 I2C Interface
+- [IgrikXD/WSPR-beacon](https://github.com/IgrikXD/WSPR-beacon) - A small hardware device for transmitting WSPR messages based on the SI5351 IC which uses GPS for transmission time synchronization and automatic QTH locator calculation.
+- [josevcm/nfc-laboratory](https://github.com/josevcm/nfc-laboratory) - NFC signal and protocol analyzer using SDR receiver
 - [adecarolis/K1FM-WSPR-TX](https://github.com/adecarolis/K1FM-WSPR-TX) - A Si5351a WSPR Transmitter.
 - [paddatrapper/Arduino_si5351_VFO_Controller_Keyer](https://github.com/paddatrapper/Arduino_si5351_VFO_Controller_Keyer) - A controller for a multi-band homebrew SSB/CW transceiver, targeting Arduino Nano and si5351 PLL.
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -1968,7 +2008,6 @@
 - [PaulStoffregen/Ethernet](https://github.com/PaulStoffregen/Ethernet) - Ethernet library for Teensy (Wiznet W5100 / W5200 / W5500)
 - [PaulStoffregen/Teensyduino_Examples](https://github.com/PaulStoffregen/Teensyduino_Examples) - Examples for Teensyduino, installed into Arduino's File &gt; Examples &gt; Teensy menu
 - [PaulStoffregen/Wire](https://github.com/PaulStoffregen/Wire) - Wire library used on Teensy boards
-- [PaulStoffregen/AltSoftSerial](https://github.com/PaulStoffregen/AltSoftSerial) - Software emulated serial using hardware timers for improved compatibility
 - [PaulStoffregen/CapacitiveSensor](https://github.com/PaulStoffregen/CapacitiveSensor) - Detect touch or proximity by capacitve sensing
 - [PaulStoffregen/OneWire](https://github.com/PaulStoffregen/OneWire) - Library for Dallas/Maxim 1-Wire Chips
 - [PaulStoffregen/WS2812Serial](https://github.com/PaulStoffregen/WS2812Serial) - Non-Blocking WS2812 LED Library
@@ -4306,7 +4345,7 @@
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [Harry-Ross/vscode-c-snippets](https://github.com/Harry-Ross/vscode-c-snippets) - A simple extension for Visual Studio Code snippets for the C programming language.
 - [kira-krul/estilo](https://github.com/kira-krul/estilo) - Create color schemes for Vim, Airline and Lightline
-- [Web-eWorks/ide-c-cpp](https://github.com/Web-eWorks/ide-c-cpp) - An Atom IDE integration with CCLS / CQuery.
+- [sturnclaw/ide-c-cpp](https://github.com/sturnclaw/ide-c-cpp) - An Atom IDE integration with CCLS / CQuery.
 - [bash-lsp/ide-bash](https://github.com/bash-lsp/ide-bash) - Bash language support for Atom-IDE
 - [whizkydee/vscode-palenight-theme](https://github.com/whizkydee/vscode-palenight-theme) - ✨ An elegant and juicy material-inspired theme for Visual Studio Code.
 - [b3by/atom-clock](https://github.com/b3by/atom-clock) - Place a clock or calendar in your status bar
@@ -5508,7 +5547,7 @@
 - [ii14/neorepl.nvim](https://github.com/ii14/neorepl.nvim) - Neovim REPL for lua and vim script
 - [ii14/emmylua-nvim](https://github.com/ii14/emmylua-nvim) - Neovim emmylua library
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing!
-- [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - The fastest Neovim colorizer
+- [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua) - The fastest Neovim colorizer
 - [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) - A simple neovim plugin to highlight and remove trailing whitespace.
 - [FeiyouG/commander.nvim](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
@@ -5576,7 +5615,7 @@
 - [oncomouse/lushwal.nvim](https://github.com/oncomouse/lushwal.nvim) - Lush.nvim theme for Pywal colors
 - [notomo/vusted](https://github.com/notomo/vusted) - A busted wrapper for testing neovim plugin
 - [olexsmir/init.lua](https://github.com/olexsmir/init.lua) - i use nvim btw
-- [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Neovim plugin for make golang development easiest
+- [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Neovim plugin that makes golang development easier
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
 - [rcarriga/cmp-dap](https://github.com/rcarriga/cmp-dap) - nvim-cmp source for nvim-dap REPL and nvim-dap-ui buffers
@@ -5681,7 +5720,7 @@
 - [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) - Gruvbox theme for neovim with full 🎄TreeSitter support.
 - [klen/nvim-config-local](https://github.com/klen/nvim-config-local) - Secure load local config files for neovim
 - [pandoc/lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
-- [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf or other profilers
+- [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - NeoVim lua plugin that annotates source code with profiling information from perf, LuaJIT, or other profilers.
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter
 - [ray-x/viewdoc.nvim](https://github.com/ray-x/viewdoc.nvim) - Search and view your (vim plugins) markdown & help files with glow
 - [ray-x/sad.nvim](https://github.com/ray-x/sad.nvim) - Space Age seD in Neovim. A project-wide find and replace plugin for Neovim.
@@ -7140,6 +7179,9 @@
 
 ## Makefile 
 
+- [kaduhi/pico-WSPRer](https://github.com/kaduhi/pico-WSPRer) - Minimalist WSPR tracker for pico-balloons utilizing Raspberry Pi Pico (or Rp2040) as the RF generator (aka The Cheapest Tracker In The World™). More info: [WIKI](https://github.com/EngineerGuy314/pico
+- [garyexplains/piccolo_os_v1](https://github.com/garyexplains/piccolo_os_v1) - Piccolo OS is a small multitasking OS for the Raspberry Pi Pico. It is designed primarily as a teaching tool. It demonstrates the fundamentals of a co-operative multitasking OS and the Arm Cortex-M0+.
+- [EngineerGuy314/pico-WSPRer](https://github.com/EngineerGuy314/pico-WSPRer) - Minimalist WSPR tracker for pico-balloons utilizing Raspberry Pi Pico (or Rp2040) as the RF generator (aka The Cheapest Tracker In The World™). More info: [WIKI](https://github.com/EngineerGuy314/pico
 - [DK7IH/AD9951_VFO_module](https://github.com/DK7IH/AD9951_VFO_module) - The software for my AD9951 variable frequency oscillator module
 - [pu2clr/PIC16F](https://github.com/pu2clr/PIC16F) - PIC10F200, PIC12F675, PIC16F, 1-wire protocol, 74hc595, lm35, ds18b20, pwm and more
 - [silenty4ng/uv-k5-firmware-chinese-lts](https://github.com/silenty4ng/uv-k5-firmware-chinese-lts) - 基于萝卜固件 117 版的长期支持
@@ -7293,6 +7335,8 @@
 
 ## Others 
 
+- [kaduhi/sf-hab_rp2040_picoballoon_tracker_pcb_gen1](https://github.com/kaduhi/sf-hab_rp2040_picoballoon_tracker_pcb_gen1) - sf-hab.org RP2040 based PicoBalloon Tracker generation 1 board for STEM education, designed by AG6NS
+- [s21rc/ham-radio-digital-interface](https://github.com/s21rc/ham-radio-digital-interface) - 
 - [M0IFA/BARSicle](https://github.com/M0IFA/BARSicle) - Amateur Radio learning project LEARN - CODE - BUILD
 - [lu1aat/rtty](https://github.com/lu1aat/rtty) - Notes and resources about RTTY
 - [kareiva/micromodem-pcb](https://github.com/kareiva/micromodem-pcb) - MicroModem-compatible PCB shield for Arduino Nano by LY2EN
@@ -7316,7 +7360,7 @@
 - [Nobcha/R80-Air-Band-Receiver](https://github.com/Nobcha/R80-Air-Band-Receiver) - documentation for kit
 - [francostellari/NppPlugins](https://github.com/francostellari/NppPlugins) - 
 - [eendroroy/mercurial-cli-templates](https://github.com/eendroroy/mercurial-cli-templates) - 
-- [iconicFonts/iconic-fonts](https://github.com/iconicFonts/iconic-fonts) - Over 50 patched fonts with 60,000+ icons. ⭐️ to support us!
+- [mdSlash/iconic-fonts](https://github.com/mdSlash/iconic-fonts) - Over 50 patched fonts with 60,000+ icons. ⭐️ to support us!
 - [s1n7ax/home-server-ollama](https://github.com/s1n7ax/home-server-ollama) - 
 - [shreyaschavhan/linux-commands-cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet) - All Useful Linux Commands (For OSCP & daily pen-testing usage)
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
@@ -8989,6 +9033,20 @@
 
 ## Shell 
 
+- [zimfw/fzf](https://github.com/zimfw/fzf) - Configures fzf for faster fetching of files and directories names.
+- [zimfw/direnv](https://github.com/zimfw/direnv) - Sets up the direnv Zsh shell integration
+- [Ansimorph/oblong](https://github.com/Ansimorph/oblong) - A simple bash-inspired prompt for [ZIM], the ZSH-IMproved shell.
+- [zimfw/steeef](https://github.com/zimfw/steeef) - A customizable version of steeef's prompt theme.
+- [zimfw/sorin](https://github.com/zimfw/sorin) - A fork of sorin's prompt theme.
+- [zimfw/s1ck94](https://github.com/zimfw/s1ck94) - A fork of S1cK94's minimal prompt theme.
+- [zimfw/prompt-pwd](https://github.com/zimfw/prompt-pwd) - Formats the current working directory to be used by prompts.
+- [zimfw/magicmace](https://github.com/zimfw/magicmace) - A prompt theme inspired by xero's and eriner's themes.
+- [zimfw/gitster](https://github.com/zimfw/gitster) - A fork of shashankmehta's gitster prompt theme.
+- [zimfw/eriner](https://github.com/zimfw/eriner) - A Zim fork of the Powerline-inspired agnoster prompt theme.
+- [zimfw/bira](https://github.com/zimfw/bira) - A fork of bira's theme.
+- [zimfw/duration-info](https://github.com/zimfw/duration-info) - Exposes to prompts how long the last command took to execute.
+- [zimfw/git-info](https://github.com/zimfw/git-info) - Exposes git repository status information to prompts.
+- [zimfw/asciiship](https://github.com/zimfw/asciiship) - A heavily reduced, ASCII-only version of the Spaceship and Starship prompts.
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [michaeldaranto/Termux-Slackware](https://github.com/michaeldaranto/Termux-Slackware) - Run Slackware ARM Linux on Termux Android
 - [mcpcpc/kinode](https://github.com/mcpcpc/kinode) - Scripts for Linode VPS unattended KISS Linux installation
@@ -9964,6 +10022,7 @@
 
 ## Vim Script 
 
+- [lilydjwg/colorizer](https://github.com/lilydjwg/colorizer) - A Vim plugin to colorize all text in the form #rrggbb or #rgb.
 - [fladson/vim-kitty](https://github.com/fladson/vim-kitty) - Vim syntax highlighting for Kitty terminal config files
 - [zhenyangze/vim-bitoai](https://github.com/zhenyangze/vim-bitoai) - Use Bito CLI in vim and neovim
 - [girishji/vimsuggest](https://github.com/girishji/vimsuggest) - Auto-completion for Vim's command-line.
