@@ -137,6 +137,9 @@
 
 ## Arduino 
 
+- [wpa/arduino-arcs](https://github.com/wpa/arduino-arcs) - Amateur Radio Control & Clock (RF) Solution
+- [varind/GPS-Clock](https://github.com/varind/GPS-Clock) - Arduino based GPS locator and clock
+- [coolacid/arduino-ctcss](https://github.com/coolacid/arduino-ctcss) - CTCSS Decoder for Arduino
 - [brucemack/Peppermint-VFO](https://github.com/brucemack/Peppermint-VFO) - VFO/Controller for BITX40
 - [kareiva/wb7fhc-cw-decoder](https://github.com/kareiva/wb7fhc-cw-decoder) - WB7FHC's Morse Code Decoder v. 1.1
 - [sprakashb/5351-with-Ardu-Mega](https://github.com/sprakashb/5351-with-Ardu-Mega) - 5351 based vfo/bfo generator with Arduino Mega Shield
@@ -169,6 +172,8 @@
 
 ## Assembly 
 
+- [riyas-org/tiny5351](https://github.com/riyas-org/tiny5351) - A minimal Si5351 library for avr and Arduino (~1kb)
+- [Fmulder007/Karat-M](https://github.com/Fmulder007/Karat-M) - Karat-M syntez
 - [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax
 - [nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering) - Experimentation with the TIDRADIO TD-H3
 - [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
@@ -241,6 +246,12 @@
 
 ## C 
 
+- [RA3PKJ/Quisk_modification](https://github.com/RA3PKJ/Quisk_modification) - Modification of the SDR-program Quisk.
+- [mborgerding/kissfft](https://github.com/mborgerding/kissfft) - a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid
+- [SlashDevin/NeoICSerial](https://github.com/SlashDevin/NeoICSerial) - Arduino AltSoftSerial with attachInterrupt for RX chars
+- [valentintintin/FT857-CAT](https://github.com/valentintintin/FT857-CAT) - 
+- [gcallipo/arduino-hamradio-watch](https://github.com/gcallipo/arduino-hamradio-watch) - This is an OpenSource project based on Arduino platform, for building a smart watch with some functions: OLED Display, clock RTC, Satellite pass prediction routine, Moon phase routine, multi Alarms, t
+- [laiudm/laiudm-Teensy4-192k-USB-Audio](https://github.com/laiudm/laiudm-Teensy4-192k-USB-Audio) - Patches to Teensyduino to support 192k sps USB Audio
 - [kaduhi/CentSDR](https://github.com/kaduhi/CentSDR) - CentSDR: tiny handheld standalone software defined receiver with LCD display.
 - [ttrftech/CentSDR](https://github.com/ttrftech/CentSDR) - CentSDR: tiny handheld standalone software defined receiver with LCD display.
 - [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) - 
@@ -1279,6 +1290,7 @@
 
 ## C# # 
 
+- [Igor-kor/ArduinoDiagramm](https://github.com/Igor-kor/ArduinoDiagramm) - Построение графика, для данных из порта ардуино
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [qrp73/K5TOOL](https://github.com/qrp73/K5TOOL) - UV-K5 toolkit utility to read/write EEPROM and flashing firmware for Quansheng UV-K5 and UV-R5 radios
 - [nicsure/QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
@@ -1304,6 +1316,43 @@
 
 ## C++ 
 
+- [NT7S/MAX2681Transceiver](https://github.com/NT7S/MAX2681Transceiver) - Homebrew MAX2681 Superhet Transceiver
+- [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
+- [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
+- [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
+- [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
+- [NovoselovMilk/Arduino-ELRS-Controller](https://github.com/NovoselovMilk/Arduino-ELRS-Controller) - 
+- [kkbin505/Arduino-Transmitter-for-ELRS](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Arduino based RC transmitter for ELRS external TX Module
+- [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
+- [RG22EM/MorzeRepeater](https://github.com/RG22EM/MorzeRepeater) - Автоматический Морзе маяк
+- [AlexBeem/FT857D_UNI](https://github.com/AlexBeem/FT857D_UNI) - Переработанный вариант библиотеки эмулятора трансивера FT-857 (FT-897)
+- [kakmyc-github/kakmyc_btn](https://github.com/kakmyc-github/kakmyc_btn) - 
+- [orgua/OneWireHub](https://github.com/orgua/OneWireHub) - OneWire slave device emulator
+- [MartinStokroos/TrueRMS](https://github.com/MartinStokroos/TrueRMS) - Average, RMS, Power and Energy measurement library for Arduino.
+- [plerup/espsoftwareserial](https://github.com/plerup/espsoftwareserial) - Implementation of the Arduino software serial for ESP8266
+- [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
+- [mathworks/thingspeak-arduino](https://github.com/mathworks/thingspeak-arduino) - ThingSpeak Communication Library for Arduino, ESP8266 and ESP32
+- [gicking/NeoHWSerial](https://github.com/gicking/NeoHWSerial) - Arduino HardwareSerial with attachInterrupt for RX chars
+- [SlashDevin/NeoSWSerial](https://github.com/SlashDevin/NeoSWSerial) - Efficient alternative to SoftwareSerial with attachInterrupt for RX chars, simultaneous RX & TX
+- [SlashDevin/NeoHWSerial](https://github.com/SlashDevin/NeoHWSerial) - Arduino HardwareSerial with attachInterrupt for RX chars
+- [JoeSchDev/NeoHWSerial](https://github.com/JoeSchDev/NeoHWSerial) - Arduino HardwareSerial with attachInterrupt for RX chars
+- [Igor-kor/SolderingStation](https://github.com/Igor-kor/SolderingStation) - Паяльная станция
+- [dsa-a/Arduino-Smart-Battery](https://github.com/dsa-a/Arduino-Smart-Battery) - Several utilities for working with TI bq20z... IC.
+- [Fmulder007/PixieFM](https://github.com/Fmulder007/PixieFM) - Pixie by FM
+- [buk7456/Arduino-LoRa-RC-transmitter-and-reciever](https://github.com/buk7456/Arduino-LoRa-RC-transmitter-and-reciever) - Control just about anything RC
+- [w1hkj/nanoIO](https://github.com/w1hkj/nanoIO) - Amateur Radio FSK/CW interface Arduino sketch for nano board
+- [w1hkj/flamp](https://github.com/w1hkj/flamp) - File transfer application using AMP 3.0 protocol [SF mirror]
+- [w1hkj/flmsg](https://github.com/w1hkj/flmsg) - Ham standard message generator [SF mirror]
+- [w1hkj/flrig](https://github.com/w1hkj/flrig) - amateur radio transceiver control application [SF mirror]
+- [aschermann/FT857d](https://github.com/aschermann/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
+- [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
+- [miek/inspectrum](https://github.com/miek/inspectrum) - Radio signal analyser
+- [coolacid/FT857d](https://github.com/coolacid/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
+- [aa2mz/FT857d](https://github.com/aa2mz/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
+- [UA6EM/FT857d](https://github.com/UA6EM/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
+- [stdevPavelmc/FT857d](https://github.com/stdevPavelmc/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
+- [g0orx/SDTVer050.0](https://github.com/g0orx/SDTVer050.0) - Latest SDTVer050.0 with G0ORX MCP23017 Front Panel
+- [KI3P/SDTVer050.0](https://github.com/KI3P/SDTVer050.0) - Latest SDTVer050.0 with G0ORX MCP23017 Front Panel
 - [kaduhi/IC746CAT](https://github.com/kaduhi/IC746CAT) - ICOM IC-746 Computer Aided Transceiver (CAT) control emulation for Arduino
 - [kaduhi/AFSK_to_FSK_VFO](https://github.com/kaduhi/AFSK_to_FSK_VFO) - 
 - [elelel/qluacpp-tutorial](https://github.com/elelel/qluacpp-tutorial) - Tutorial for Qluacpp library (C++ interface for Quik trading terminal)
@@ -1582,7 +1631,6 @@
 - [RG22EM/FT897D](https://github.com/RG22EM/FT897D) - 
 - [RG22EM/HAMDUINO](https://github.com/RG22EM/HAMDUINO) - New Arduino board Atmega328PB
 - [RG22EM/ARDUINO-ETUDE](https://github.com/RG22EM/ARDUINO-ETUDE) - Этюды для ардуины
-- [RG22EM/FT817D](https://github.com/RG22EM/FT817D) - 
 - [RG22EM/HAMRAIO](https://github.com/RG22EM/HAMRAIO) - HAMRAIO DIY
 - [RG22EM/FT857d](https://github.com/RG22EM/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
 - [RG22EM/FT879D](https://github.com/RG22EM/FT879D) - Библиотека для управления трансиверами марок YAESU FT-817/FT-847 /FT-857 /FT-897 разных модификаций.
@@ -3686,6 +3734,9 @@
 
 ## G-code 
 
+- [Fmulder007/Karat-3FM](https://github.com/Fmulder007/Karat-3FM) - Karat-3FM
+- [Fmulder007/Karat-3.5](https://github.com/Fmulder007/Karat-3.5) - Karat-3.5
+- [Fmulder007/Karat2N_synt](https://github.com/Fmulder007/Karat2N_synt) - Проект модернизации радиостанции Карат-2Н от UD0CAJ
 - [dawsonjon/101Things](https://github.com/dawsonjon/101Things) - A collection of cool projects to make!
 - [yorikvanhavre/FreeCAD-manual](https://github.com/yorikvanhavre/FreeCAD-manual) - An experiment at reorganizing the contents of the FreeCAD wiki in an easier, friendlier book-like manner. The manual is now hosted on the FreeCAD wiki
 
@@ -3836,7 +3887,7 @@
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 - [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [qvest-digital/loginsrv](https://github.com/qvest-digital/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [chayward1/users](https://github.com/chayward1/users) - User accounts and persistent sessions for peons
@@ -4274,6 +4325,8 @@
 
 ## JavaScript 
 
+- [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
+- [SuperZombi/HDrezka-Helper](https://github.com/SuperZombi/HDrezka-Helper) - Adds a «Download» button below the video. Export favorites and more.
 - [kpn-iot/thingsml-c-library](https://github.com/kpn-iot/thingsml-c-library) - C library for ThingsML on your device
 - [latex-lsp/tree-sitter-latex](https://github.com/latex-lsp/tree-sitter-latex) - LaTeX grammar for tree-sitter
 - [eendroroy/alacritty-theme-preview](https://github.com/eendroroy/alacritty-theme-preview) - A theme previewer for Alacritty terminal
@@ -4624,6 +4677,8 @@
 
 ## Lua 
 
+- [jmattaa/quickmark.nvim](https://github.com/jmattaa/quickmark.nvim) - Quickly mark and switch between files
+- [aredn/aredn](https://github.com/aredn/aredn) - Amateur Radio Emergency Data Network (AREDN)
 - [dawsers/dual-pane.yazi](https://github.com/dawsers/dual-pane.yazi) - Yazi plugin: dual pane navigation
 - [dawsers/toggle-view.yazi](https://github.com/dawsers/toggle-view.yazi) - Yazi plugin: toggle different view configurations with or without preview
 - [dedukun/bookmarks.yazi](https://github.com/dedukun/bookmarks.yazi) - 
@@ -6498,7 +6553,6 @@
 - [pwntester/nautilus.nvim](https://github.com/pwntester/nautilus.nvim) - A nice and cobaltish neovim theme
 - [terrortylor/nvim-pluginman](https://github.com/terrortylor/nvim-pluginman) - A simple plugin manager for NeoVim
 - [terrortylor/neovim-environment](https://github.com/terrortylor/neovim-environment) - My neovim environment
-- [delphinus/dotfiles](https://github.com/delphinus/dotfiles) - my dotfiles
 - [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment) - A comment toggler for Neovim, written in Lua
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
 - [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
@@ -7335,6 +7389,14 @@
 
 ## Others 
 
+- [fagci/awesome-stars](https://github.com/fagci/awesome-stars) - My awesome stars
+- [NovoselovMilk/ELRS-TX-E32-DIY](https://github.com/NovoselovMilk/ELRS-TX-E32-DIY) - ELRS передатчик на основе модуля Ebyte E32 с мощностью 1W
+- [w1hkj/flcluster](https://github.com/w1hkj/flcluster) - DX cluster access application [SF mirror]
+- [w1hkj/fllog](https://github.com/w1hkj/fllog) - Ham logbook application [SF mirror]
+- [w1hkj/flnet](https://github.com/w1hkj/flnet) - Ham net controller application [SF mirror]
+- [ok1cdj/OpenCWKeyerMK2](https://github.com/ok1cdj/OpenCWKeyerMK2) - OpenCW Keyer MK2 hardware files
+- [DD5HT/awesome-hamradio](https://github.com/DD5HT/awesome-hamradio) - Awesome hamradio repositories.
+- [s21rc/LPF-200](https://github.com/s21rc/LPF-200) - A low power 5 band LPF for DIY HF Radio/PA
 - [kaduhi/sf-hab_rp2040_picoballoon_tracker_pcb_gen1](https://github.com/kaduhi/sf-hab_rp2040_picoballoon_tracker_pcb_gen1) - sf-hab.org RP2040 based PicoBalloon Tracker generation 1 board for STEM education, designed by AG6NS
 - [s21rc/ham-radio-digital-interface](https://github.com/s21rc/ham-radio-digital-interface) - 
 - [M0IFA/BARSicle](https://github.com/M0IFA/BARSicle) - Amateur Radio learning project LEARN - CODE - BUILD
@@ -7939,6 +8001,11 @@
 
 ## Python 
 
+- [Hagtronics/SDRpp-FrequencyManager-Spreadsheet-Tool](https://github.com/Hagtronics/SDRpp-FrequencyManager-Spreadsheet-Tool) - Python script to convert Spreadsheet Frequency Lists into a Frequency Manager JSON file for SDR++
+- [HollowHunter/Arduino-Control-System](https://github.com/HollowHunter/Arduino-Control-System) - Программа на pyton, позволяющая управлять ардуиной при помощи созданного интерфейса
+- [M17-Project/OpenHT-hw](https://github.com/M17-Project/OpenHT-hw) - Repository for the hardware parts of the OpenHT project
+- [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface
+- [asdil12/pymultimonaprs](https://github.com/asdil12/pymultimonaprs) - RF 2 APRS-IS Gateway
 - [agustinmartino/wsjtx_transceiver_interface](https://github.com/agustinmartino/wsjtx_transceiver_interface) - A Python server to interface Arduino transmitter with WSJTX
 - [rtmrtmrtmrtm/weakmon](https://github.com/rtmrtmrtmrtm/weakmon) - Sound-card software for FT8, JT65A, and WSPR.
 - [michalin/easysdr](https://github.com/michalin/easysdr) - Super Simple SDR Receiver
@@ -9033,6 +9100,28 @@
 
 ## Shell 
 
+- [km4ack/73Linux](https://github.com/km4ack/73Linux) - 
+- [romkatv/you-the-champ](https://github.com/romkatv/you-the-champ) - 
+- [romkatv/zsh-no-ps2](https://github.com/romkatv/zsh-no-ps2) - A plugin for zsh that inserts a newline on Enter if the typed command is incomplete
+- [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
+- [zimfw/custom](https://github.com/zimfw/custom) - Template for custom module.
+- [zimfw/ssh](https://github.com/zimfw/ssh) - Provides a convenient way to load ssh-agent.
+- [zimfw/debug](https://github.com/zimfw/debug) - Provides a function to debug Zim.
+- [zimfw/ruby](https://github.com/zimfw/ruby) - Provides ruby, bundler, rbenv and rvm aliases and initialization.
+- [zimfw/environment](https://github.com/zimfw/environment) - Sets generic Zsh built-in environment options.
+- [zimfw/termtitle](https://github.com/zimfw/termtitle) - Sets a custom terminal title.
+- [zimfw/pvenv](https://github.com/zimfw/pvenv) - Manages all python venvs in one place using just venv and pip.
+- [zimfw/pacman](https://github.com/zimfw/pacman) - Adds aliases for the pacman package manager. Also includes optional helper aliases.
+- [zimfw/input](https://github.com/zimfw/input) - Applies correct bindkeys for input events.
+- [zimfw/archive](https://github.com/zimfw/archive) - Provides functions for easy archive manipulation.
+- [zimfw/magic-enter](https://github.com/zimfw/magic-enter) - Shown when there is no command and user presses ENTER.
+- [zimfw/run-help](https://github.com/zimfw/run-help) - Figures out where to get the best help, and gets it.
+- [zimfw/install](https://github.com/zimfw/install) - Zim installer
+- [zimfw/git](https://github.com/zimfw/git) - Provides nice git aliases and functions.
+- [zimfw/exa](https://github.com/zimfw/exa) - Adds aliases and better defaults for eza or exa.
+- [zimfw/utility](https://github.com/zimfw/utility) - Utility aliases and functions. Adds colour to ls, grep and less.
+- [zimfw/k](https://github.com/zimfw/k) - All kubectl aliases in one function.
+- [zimfw/asdf](https://github.com/zimfw/asdf) - Sets up asdf, with auto install and optimized usage of the direnv plugin.
 - [zimfw/fzf](https://github.com/zimfw/fzf) - Configures fzf for faster fetching of files and directories names.
 - [zimfw/direnv](https://github.com/zimfw/direnv) - Sets up the direnv Zsh shell integration
 - [Ansimorph/oblong](https://github.com/Ansimorph/oblong) - A simple bash-inspired prompt for [ZIM], the ZSH-IMproved shell.
@@ -9400,6 +9489,7 @@
 - [alphapapa/org-recent-headings](https://github.com/alphapapa/org-recent-headings) - Go to recently used Org headings
 - [alphapapa/org-sidebar](https://github.com/alphapapa/org-sidebar) - A helpful sidebar for Org mode
 - [jamespeapen/dotfiles](https://github.com/jamespeapen/dotfiles) - 
+- [delphinus/dotfiles](https://github.com/delphinus/dotfiles) - my dotfiles
 - [DogLooksGood/dotfiles](https://github.com/DogLooksGood/dotfiles) - personal dotfiles
 - [NNBnh/coderun](https://github.com/NNBnh/coderun) - ⏯️ Code runner CLI that can run any languages
 - [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor) - A fullcolor icon pack for Libreoffice of the awesome Yaru theme
@@ -9841,6 +9931,7 @@
 
 ## TypeScript 
 
+- [ExpressLRS/ExpressLRS-Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator) - Cross platform configuration & build tool for the ExpressLRS radio link
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [OwenFlood/arduino-snippets](https://github.com/OwenFlood/arduino-snippets) - vscode extension that adds code snippets for Arduino
 - [vitormv/fzf-themes](https://github.com/vitormv/fzf-themes) - Tweak, preview, import & share your fzf themes in an interactive environment.
