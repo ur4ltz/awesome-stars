@@ -244,6 +244,7 @@
 
 ## Batchfile 
 
+- [nodemcu/nodemcu-devkit-v1.0](https://github.com/nodemcu/nodemcu-devkit-v1.0) - 
 - [ViacheslavMezentsev/mediateka-stm32](https://github.com/ViacheslavMezentsev/mediateka-stm32) - A set of scripts for downloading lessons for STM32
 - [MCUdude/microUPDIcore](https://github.com/MCUdude/microUPDIcore) - Arduino core for flashing mEDBG firmware onto the microUPDI programmer
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
@@ -254,6 +255,9 @@
 
 ## C 
 
+- [wemos/TFT_eSPI](https://github.com/wemos/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
+- [wemos/D1_mini_Examples](https://github.com/wemos/D1_mini_Examples) - WeMos D1 & D1 mini Arduino Examples
+- [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [Serasidis/STM32_HID_Bootloader](https://github.com/Serasidis/STM32_HID_Bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
 - [WeActStudio/WeActStudio.MiniSTM32F4x1](https://github.com/WeActStudio/WeActStudio.MiniSTM32F4x1) - MiniF4-STM32F401CEU6/STM32F411CEU6 Product Literature
@@ -1393,6 +1397,8 @@
 
 ## C++ 
 
+- [wemos/Arduino_ESP32](https://github.com/wemos/Arduino_ESP32) - Arduino core for the ESP32
+- [mcauser/i2cdetect](https://github.com/mcauser/i2cdetect) - Arduino library for scanning I2C bus for devices
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [jake-is-ESD-protected/ESP32debugging_guide](https://github.com/jake-is-ESD-protected/ESP32debugging_guide) - A very comprehensive ESP32 Debugging Guide.
 - [fdivitto/FabGL](https://github.com/fdivitto/FabGL) - ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal
@@ -4833,6 +4839,7 @@
 
 ## Lua 
 
+- [wemos/D1_mini_Examples_lua](https://github.com/wemos/D1_mini_Examples_lua) - D1 & D1 mini examples for nodemcu
 - [m15a/nvim-srcerite](https://github.com/m15a/nvim-srcerite) - Neovim colorscheme inspired by Srcery
 - [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
@@ -7575,6 +7582,7 @@
 
 ## Others 
 
+- [wemos/docs](https://github.com/wemos/docs) - 
 - [rbong/flog-symbols](https://github.com/rbong/flog-symbols) - Glyphs for rendering Git branches.
 - [ViacheslavMezentsev/smath-cookbook](https://github.com/ViacheslavMezentsev/smath-cookbook) - Примеры, демонстрирующие работу в математической программе SMath Studio
 - [esp8266/at-command-set](https://github.com/esp8266/at-command-set) - ESP8266 AT+ Command Set
@@ -8201,6 +8209,8 @@
 
 ## Python 
 
+- [russhughes/st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C
+- [wemos/st7789_mpy](https://github.com/wemos/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C
 - [jacobrosenthal/arduino-cli](https://github.com/jacobrosenthal/arduino-cli) - Arduino Build System for Sublime Text 3
 - [vshymanskyy/posix_tz_db](https://github.com/vshymanskyy/posix_tz_db) - Generates POSIX timezones strings
 - [vshymanskyy/ViperIDE](https://github.com/vshymanskyy/ViperIDE) - An innovative MicroPython / CircuitPython IDE for Web and Mobile
@@ -10143,6 +10153,7 @@
 
 ## TypeScript 
 
+- [GoogleChromeLabs/serial-terminal](https://github.com/GoogleChromeLabs/serial-terminal) - Demo application for the Web Serial API.
 - [tjdevries/nvim-code-highlight.obsidian](https://github.com/tjdevries/nvim-code-highlight.obsidian) - Syntax highlighting provided by Neovim for Obsidian
 - [VonHeikemen/lsp-zero-docs](https://github.com/VonHeikemen/lsp-zero-docs) - Documentation site for lsp-zero.nvim
 - [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
