@@ -244,6 +244,7 @@
 
 ## Batchfile 
 
+- [AnZoRiN228/STM32-ST-Link-V2.1](https://github.com/AnZoRiN228/STM32-ST-Link-V2.1) - 
 - [nodemcu/nodemcu-devkit-v1.0](https://github.com/nodemcu/nodemcu-devkit-v1.0) - 
 - [ViacheslavMezentsev/mediateka-stm32](https://github.com/ViacheslavMezentsev/mediateka-stm32) - A set of scripts for downloading lessons for STM32
 - [MCUdude/microUPDIcore](https://github.com/MCUdude/microUPDIcore) - Arduino core for flashing mEDBG firmware onto the microUPDI programmer
@@ -255,6 +256,9 @@
 
 ## C 
 
+- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) - CMSIS Version 5 Development Repository
+- [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C
+- [jeanthom/stlink-tool](https://github.com/jeanthom/stlink-tool) - Firmware uploader for ST-Link
 - [wemos/TFT_eSPI](https://github.com/wemos/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
 - [wemos/D1_mini_Examples](https://github.com/wemos/D1_mini_Examples) - WeMos D1 & D1 mini Arduino Examples
 - [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
@@ -1397,6 +1401,16 @@
 
 ## C++ 
 
+- [RobertDB59/bldc-Analyst](https://github.com/RobertDB59/bldc-Analyst) - Brushless motor analyst for small electrical vehicles
+- [frodofski/RC5_Decoder](https://github.com/frodofski/RC5_Decoder) - 
+- [frodofski/RC5_Decoder_V2](https://github.com/frodofski/RC5_Decoder_V2) - 
+- [frodofski/Encoder_Polling_V2](https://github.com/frodofski/Encoder_Polling_V2) - 
+- [frodofski/Encoder_Polling](https://github.com/frodofski/Encoder_Polling) - 
+- [RobertDB59/analog_digital_RPM_gauge](https://github.com/RobertDB59/analog_digital_RPM_gauge) - Arduino based RPM meter with analog and digital presentation with a ST7735 color display
+- [RobertDB59/Arduino-Text-to-Morse-Code](https://github.com/RobertDB59/Arduino-Text-to-Morse-Code) - This repository enables you to put any text into morse code. I needed this to create a flashing taillight on my bicycle. Pulsing taillights are better noticed than steady ones.
+- [RobertDB59/Arduino-Nano-ACS712-ADS1115](https://github.com/RobertDB59/Arduino-Nano-ACS712-ADS1115) - 
+- [Zdravevski/esp32-bluetooth-keyboard](https://github.com/Zdravevski/esp32-bluetooth-keyboard) - You can check this video: https://youtu.be/Y4vDdVLjCtg, I explained the code and the circuit as well
+- [Zdravevski/talk-to-esp32](https://github.com/Zdravevski/talk-to-esp32) - I did a video series showing how you can use the app, the schematics you can follow, and also put a code example, youtube video playlist: https://bit.ly/34qoYDY
 - [wemos/Arduino_ESP32](https://github.com/wemos/Arduino_ESP32) - Arduino core for the ESP32
 - [mcauser/i2cdetect](https://github.com/mcauser/i2cdetect) - Arduino library for scanning I2C bus for devices
 - [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
@@ -2785,6 +2799,7 @@
 - [caleb/gruvbox-syntax-atom](https://github.com/caleb/gruvbox-syntax-atom) - 
 - [zamansky/github-org-explorer](https://github.com/zamansky/github-org-explorer) - 
 - [kkbesp/Void-Linux-BSPWM](https://github.com/kkbesp/Void-Linux-BSPWM) - My personal configuration files and installation script for void linux glibc + bspwm. Collected them myself from different parts of the Internet. I would like to thank ctlos and alex personally, I got
+- [Alexander-Miller/dotfiles](https://github.com/Alexander-Miller/dotfiles) - 
 - [doopath/doodots](https://github.com/doopath/doodots) - My dotfiles
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
@@ -3377,7 +3392,6 @@
 - [Wilfred/ht.el](https://github.com/Wilfred/ht.el) - The missing hash table library for Emacs
 - [Alexander-Miller/cfrs](https://github.com/Alexander-Miller/cfrs) - Child Frame Read String
 - [Alexander-Miller/morning-star-theme](https://github.com/Alexander-Miller/morning-star-theme) - 
-- [Alexander-Miller/dotfiles](https://github.com/Alexander-Miller/dotfiles) - 
 - [Alexander-Miller/treemacs](https://github.com/Alexander-Miller/treemacs) - 
 - [ifree/leetcode.el](https://github.com/ifree/leetcode.el) - leetcode emacs client
 - [ifree/org-onenote](https://github.com/ifree/org-onenote) - Post org file to onenote
@@ -4404,6 +4418,8 @@
 
 ## Java 
 
+- [mstrobel/procyon](https://github.com/mstrobel/procyon) - Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
+- [lujji/st-decrypt](https://github.com/lujji/st-decrypt) - Utility for encrypting/decrypting ST-Link firmware images
 - [4refr0nt/ESPlorer](https://github.com/4refr0nt/ESPlorer) - Integrated Development Environment (IDE) for ESP8266 developers
 - [jawatson/MorsePractice](https://github.com/jawatson/MorsePractice) - An updated version of Martin Minow's Morse Practice app
 - [JetBrains/teamcity-torrent-plugin](https://github.com/JetBrains/teamcity-torrent-plugin) - Teamcity torrent plugin
@@ -4485,6 +4501,7 @@
 
 ## JavaScript 
 
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
@@ -4631,7 +4648,6 @@
 - [ChristianChiarulli/github-finder](https://github.com/ChristianChiarulli/github-finder) - 
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -4845,7 +4861,7 @@
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) - 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [AstroNvim/template](https://github.com/AstroNvim/template) - AstroNvim template (v4+)
 - [MisanthropicBit/neotest-busted](https://github.com/MisanthropicBit/neotest-busted) - Highly experimental neotest adapter for running tests using busted
@@ -5380,7 +5396,7 @@
 - [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative number, supports various number combinations
 - [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
 - [Integralist/nvim](https://github.com/Integralist/nvim) - Neovim configuration
-- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from wezterm, kitty, and neovim terminals in your current neovim instance
+- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Pipe from wezterm, kitty, and neovim terminals into your current neovim instance. Like `code -r` on steroids.
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) - VSCode-Like Workspace Configuration Manager
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
@@ -6801,7 +6817,7 @@
 - [kikito/semver.lua](https://github.com/kikito/semver.lua) - Semantic versioning for Lua
 - [kikito/lua-sandbox](https://github.com/kikito/lua-sandbox) - A lua sandbox for executing non-trusted code
 - [catwell/lua-multipart-post](https://github.com/catwell/lua-multipart-post) - HTTP Multipart Post helper that does just that.
-- [catwell/cwtest](https://github.com/catwell/cwtest) - Tiny Lua test helper.
+- [catwell/cwtest](https://github.com/catwell/cwtest) - Tiny Teal / Lua test helper.
 - [ldb/lua-telegram-bot](https://github.com/ldb/lua-telegram-bot) - Lua Library for the Telegram Bot API
 - [wrxck/telegram-bot-lua](https://github.com/wrxck/telegram-bot-lua) - A simple yet extensive Lua library for the Telegram bot API.
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
@@ -7582,6 +7598,10 @@
 
 ## Others 
 
+- [GolinskiyKonstantin/ST-Link-V2-1](https://github.com/GolinskiyKonstantin/ST-Link-V2-1) - ST-Link V2-1
+- [User420t/V2_1](https://github.com/User420t/V2_1) - 
+- [RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge](https://github.com/RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge) - Arduino nano and a ST7735 128 x 160 full color tft screen. This gauge is using the resistance of the excisting coolant temperature sensor in the car to monitor the coolant temperature. The minimum tem
+- [Krakenw/Stlink-Bootloaders](https://github.com/Krakenw/Stlink-Bootloaders) - Stlink Bootloaders
 - [wemos/docs](https://github.com/wemos/docs) - 
 - [rbong/flog-symbols](https://github.com/rbong/flog-symbols) - Glyphs for rendering Git branches.
 - [ViacheslavMezentsev/smath-cookbook](https://github.com/ViacheslavMezentsev/smath-cookbook) - Примеры, демонстрирующие работу в математической программе SMath Studio
@@ -8209,6 +8229,8 @@
 
 ## Python 
 
+- [tasmota/platform-espressif32](https://github.com/tasmota/platform-espressif32) - Tasmota Espressif 32: development platform for PlatformIO
+- [espressif/esp-debug-adapter](https://github.com/espressif/esp-debug-adapter) - An implementation of Microsoft Debug Adapter Protocol server which works with GDB.
 - [russhughes/st7789_mpy](https://github.com/russhughes/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C
 - [wemos/st7789_mpy](https://github.com/wemos/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C
 - [jacobrosenthal/arduino-cli](https://github.com/jacobrosenthal/arduino-cli) - Arduino Build System for Sublime Text 3
@@ -9520,7 +9542,7 @@
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
-- [Integralist/dotfiles](https://github.com/Integralist/dotfiles) - Bash shell and Vim configuration settings
+- [Integralist/dotfiles](https://github.com/Integralist/dotfiles) - Terminal, Shell and Neovim configuration settings
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [tortious/zplugin-configs](https://github.com/tortious/zplugin-configs) - Real-world configuration files (basically zshrc-s) holding Zplugin invocations
 - [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) - Neovim users, you may not need Postman
@@ -10037,7 +10059,7 @@
 - [moon-musick/i3](https://github.com/moon-musick/i3) - i3 window manager configuration
 - [rafi/.config](https://github.com/rafi/.config) - Rafi's workstations (Archlinux, osx) ~/.config.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux &macOS
+- [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux & macOS
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [seletskiy/zsh-prompt-lambda17](https://github.com/seletskiy/zsh-prompt-lambda17) - Highly extensible prompt for zsh
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -10046,7 +10068,7 @@
 - [windelicato/dotfiles](https://github.com/windelicato/dotfiles) - arch linux configuration files
 - [vruivo/linux-user-manager](https://github.com/vruivo/linux-user-manager) - Linux user manager for the bash, using menus
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [saahriktu/modified-slackbuilds](https://github.com/saahriktu/modified-slackbuilds) - slackbuilds modified by me
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [seagle0128/dotfiles](https://github.com/seagle0128/dotfiles) - Centaur Dotfiles - Full and clean configurations for development environment on GNU Linux, macOS and Cygwin
@@ -10112,6 +10134,7 @@
 
 ## Swift 
 
+- [mfikes/impedance-converter](https://github.com/mfikes/impedance-converter) - Impedance Converter
 - [espressif/book-esp32c3-iot-projects](https://github.com/espressif/book-esp32c3-iot-projects) - 《ESP32-C3 物联网工程开发实战》配套代码
 - [SwiftyLinkerKit/SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
@@ -10271,6 +10294,7 @@
 - [LuaLS/vscode-lua](https://github.com/LuaLS/vscode-lua) - Release lua-language-server for VSCode
 - [scttcper/qbittorrent](https://github.com/scttcper/qbittorrent) - qBittorrent api wrapper
 - [rafaelmaiolla/remote-vscode](https://github.com/rafaelmaiolla/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [notomo/ctrlb.nvim](https://github.com/notomo/ctrlb.nvim) - Control web browsers with neovim
 - [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
 - [Koihik/vscode-lua-format](https://github.com/Koihik/vscode-lua-format) - Reformats your Lua source code
@@ -10380,7 +10404,6 @@
 - [imsnif/kdl.vim](https://github.com/imsnif/kdl.vim) - Syntax highlighting and indentation for KDL (https://kdl.dev)
 - [JMcKiern/vim-venter](https://github.com/JMcKiern/vim-venter) - Vim plugin that horizontally centers the current window(s)
 - [isene/hyperlist.vim](https://github.com/isene/hyperlist.vim) - This VIM plugin makes it easy to create and manage HyperLists using VIM
-- [cynix/vim-mergetool](https://github.com/cynix/vim-mergetool) - :cake: Efficient way of using Vim as a Git mergetool
 - [girishji/search-complete.vim](https://github.com/girishji/search-complete.vim) - Async search mode completion with popup menu for Vim.
 - [EgZvor/vim-ostroga](https://github.com/EgZvor/vim-ostroga) - Ostroga is kind of like harpoon...
 - [ShayHill/vim9-focalpoint](https://github.com/ShayHill/vim9-focalpoint) - Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*.
