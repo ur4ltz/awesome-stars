@@ -257,6 +257,11 @@
 
 ## C 
 
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+- [lujji/blackmagic](https://github.com/lujji/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+- [STMicroelectronics/stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) - Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.
+- [nr-electronics/DiY](https://github.com/nr-electronics/DiY) - DiY
+- [IgrikXD/rpitx-ui](https://github.com/IgrikXD/rpitx-ui) - RF transmitter for Raspberry Pi with improved UI functionality.
 - [PTDreamer/stm32_soldering_iron_controller](https://github.com/PTDreamer/stm32_soldering_iron_controller) - Custom firmware for the chinese ksger soldering iron controller
 - [deividAlfa/stm32_soldering_iron_controller](https://github.com/deividAlfa/stm32_soldering_iron_controller) - Custom firmware for Quicko and KSGER T12 soldering stations
 - [well-techn/Aquila](https://github.com/well-techn/Aquila) - 
@@ -493,7 +498,6 @@
 - [igor-m/NanoVNA-H4](https://github.com/igor-m/NanoVNA-H4) - NanoVNA H4 branch github repository backup as of August 6th 2020. NO WARRANTIES, EXPRESS, IMPLIED OR OTHERWISE, REGARDING ITS ACCURACY, COMPLETENESS OR PERFORMANCE. PROVIDED AS-IS.
 - [flyoob/NanoVNA-F](https://github.com/flyoob/NanoVNA-F) - NanoVNA-F, NanoVNA-Fairy, FreeRTOS version of TTRFTECH's NanoVNA.
 - [edy555/ChibiOS](https://github.com/edy555/ChibiOS) - Read only mirror of SVN ChibiOS repository. Official forum http://forum.chibios.org  Bugtracker http://sourceforge.net/projects/chibios
-- [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [afiskon/hbr-mk2](https://github.com/afiskon/hbr-mk2) - All HF bands QRP CW/SSB transceiver
 - [stefanrueger/urboot](https://github.com/stefanrueger/urboot) - Small AVR bootloader using urprotocol
 - [dioannidis/usbasp](https://github.com/dioannidis/usbasp) - usbasp improved firmware
@@ -2334,7 +2338,7 @@
 - [bkaradzic/bnet](https://github.com/bkaradzic/bnet) - Message oriented networking library using TCP transport.
 - [bkaradzic/bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-- [pigpigyyy/YueScript](https://github.com/pigpigyyy/YueScript) - A MoonScript dialect compiles to Lua.
+- [IppClub/YueScript](https://github.com/IppClub/YueScript) - A MoonScript dialect compiles to Lua.
 - [BleuLlama/TM1637](https://github.com/BleuLlama/TM1637) - Arduino library for TM1637 (LED Driver)
 - [SindormirNet/SindormirSevenSegments](https://github.com/SindormirNet/SindormirSevenSegments) - Simple Seven Segments library for Arduino
 - [TinyTronics/TM1637_6D](https://github.com/TinyTronics/TM1637_6D) - Arduino library for the 6 digit TM1637 based segment displays
@@ -2449,7 +2453,7 @@
 - [UN7FGO/SI5351_OLED_SHIELD](https://github.com/UN7FGO/SI5351_OLED_SHIELD) - A simple shield for a two-channel generator with an OLED display.
 - [AlexGyver/MeteoClock](https://github.com/AlexGyver/MeteoClock) - Домашняя метеостанция на Arduino
 - [Norovl/meteoClock](https://github.com/Norovl/meteoClock) - Update Alex Gayer's meteoClock
-- [milesburton/Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - A robust and flexible library for interfacing with Dallas/Maxim 1-Wire temperature sensors, such as the DS18B20, DS18S20, and others.
+- [milesburton/Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino library for interfacing with Maxim temperature sensors like DS18B20, DS18S20, and MAX31850. Supports multiple sensors, asynchronous operation, and configurable resolution for precise temperatu
 - [ivankravets/PCF8574](https://github.com/ivankravets/PCF8574) - Arduino library for PCF8574 - I2C IO expander
 - [RobTillaart/PCF8574](https://github.com/RobTillaart/PCF8574) - Arduino library for PCF8574 - I2C IO expander
 - [edebill/PCF8583](https://github.com/edebill/PCF8583) - Arduino library for interfacing with the PCF8583 real-time clock chip
@@ -4147,7 +4151,6 @@
 - [matei-oltean/go-torrent](https://github.com/matei-oltean/go-torrent) - Command line torrent client written in Go
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [MichaelS11/go-tetris](https://github.com/MichaelS11/go-tetris) - Golang Tetris for console window with optional AI
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
@@ -4871,6 +4874,7 @@
 
 ## Lua 
 
+- [wincent/base16-nvim](https://github.com/wincent/base16-nvim) - base16 color schemes in Lua for Neovim
 - [wemos/D1_mini_Examples_lua](https://github.com/wemos/D1_mini_Examples_lua) - D1 & D1 mini examples for nodemcu
 - [m15a/nvim-srcerite](https://github.com/m15a/nvim-srcerite) - Neovim colorscheme inspired by Srcery
 - [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim
@@ -7452,9 +7456,12 @@
 ## MDX 
 
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
+- [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs) - 
 
 ## Makefile 
 
+- [blackmagic-debug/blackmagic-hardware](https://github.com/blackmagic-debug/blackmagic-hardware) - Hardware design files for the Black Magic Probe
+- [lujji/st-link-dumper](https://github.com/lujji/st-link-dumper) - ST-Link dumper firmware
 - [Sonic-Amiga/logic_analyzer](https://github.com/Sonic-Amiga/logic_analyzer) - Implementation of a SUMP compatible logic analyzer for the Arduino
 - [garyexplains/piccolo_os_v1](https://github.com/garyexplains/piccolo_os_v1) - Piccolo OS is a small multitasking OS for the Raspberry Pi Pico. It is designed primarily as a teaching tool. It demonstrates the fundamentals of a co-operative multitasking OS and the Arm Cortex-M0+.
 - [DK7IH/AD9951_VFO_module](https://github.com/DK7IH/AD9951_VFO_module) - The software for my AD9951 variable frequency oscillator module
@@ -7522,6 +7529,7 @@
 
 ## Mustache 
 
+- [tinted-theming/tinted-xresources](https://github.com/tinted-theming/tinted-xresources) - Base16 for Xresources
 - [chriskempson/base16-textmate](https://github.com/chriskempson/base16-textmate) - Base16 for TextMate & Sublime
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [tinted-theming/base16-i3](https://github.com/tinted-theming/base16-i3) - 
@@ -7611,6 +7619,9 @@
 
 ## Others 
 
+- [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
+- [IgrikXD/rpitx-coax-pcb](https://github.com/IgrikXD/rpitx-coax-pcb) - Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment when working with the rpitx package.
+- [IgrikXD/Easy-SDR](https://github.com/IgrikXD/Easy-SDR) - This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on RTL2832U chip.
 - [GolinskiyKonstantin/ST-Link-V2-1](https://github.com/GolinskiyKonstantin/ST-Link-V2-1) - ST-Link V2-1
 - [User420t/V2_1](https://github.com/User420t/V2_1) - 
 - [RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge](https://github.com/RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge) - Arduino nano and a ST7735 128 x 160 full color tft screen. This gauge is using the resistance of the excisting coolant temperature sensor in the car to monitor the coolant temperature. The minimum tem
@@ -8242,6 +8253,12 @@
 
 ## Python 
 
+- [tinted-theming/base24-xfce4-terminal](https://github.com/tinted-theming/base24-xfce4-terminal) - Base 24 themes for XFCE4 Terminal https://launchpad.net/xfce4-terminal
+- [tinted-theming/base24-termux](https://github.com/tinted-theming/base24-termux) - Base 24 themes for Termux https://termux.com/
+- [Base24/base24-kitty-te](https://github.com/Base24/base24-kitty-te) - Base 24 themes for kitty-te https://github.com/kovidgoyal/kitty
+- [tinted-theming/base24](https://github.com/tinted-theming/base24) - Base24/ Base16 can be used to easily generate your favourite theme for your favourite application. Many of the template repositories provide theme files that you can copy/ import into said application
+- [IgrikXD/rpitx-expansion-board](https://github.com/IgrikXD/rpitx-expansion-board) - Expansion board for Raspberry Pi 4 Model B that eliminates the need for a direct wired connection of radio equipment to GPIO when working with rpitx or rpitx-ui packages. Now, you can use coaxial SMA 
+- [IgrikXD/SDR-Exp](https://github.com/IgrikXD/SDR-Exp) - Some experiments with SDR equipment (GNU Radio, SoapySDR, etc.) that are used by me for self-study of SDR and DSP technology.
 - [CTXz/stm32f1-picopwner](https://github.com/CTXz/stm32f1-picopwner) - Dump read-out protected STM32F1's with a Pi Pico - A Pi Pico implementation of @JohannesObermaier's, Marc Schink's and Kosma Moczek's Glitch and FPB attack to bypass RDP (read-out protection) level 1 
 - [tasmota/platform-espressif32](https://github.com/tasmota/platform-espressif32) - Tasmota Espressif 32: development platform for PlatformIO
 - [espressif/esp-debug-adapter](https://github.com/espressif/esp-debug-adapter) - An implementation of Microsoft Debug Adapter Protocol server which works with GDB.
