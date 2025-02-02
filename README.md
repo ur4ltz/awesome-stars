@@ -258,6 +258,24 @@
 
 ## C 
 
+- [deividAlfa/STM32F429-Discovery-Oscilloscope](https://github.com/deividAlfa/STM32F429-Discovery-Oscilloscope) - 
+- [deividAlfa/STM32F411-Black-pill-USB-wav-player](https://github.com/deividAlfa/STM32F411-Black-pill-USB-wav-player) - Simple WAV player with a STM32F411 "Black Pill", using PWM and USB OTG
+- [deividAlfa/STM32F411-Black-pill-USB-WAV-MP3-player](https://github.com/deividAlfa/STM32F411-Black-pill-USB-WAV-MP3-player) - Simple WAV/MP3 player with a STM32F411 "Black Pill", using I2S DAC and USB OTG
+- [deividAlfa/UGUI](https://github.com/deividAlfa/UGUI) - µGUI - Open Source GUI module for embedded systems
+- [deividAlfa/ttf2ugui](https://github.com/deividAlfa/ttf2ugui) - Simple utility to convert TTF fonts into uGUI bitmap fonts.
+- [deividAlfa/ST7789-STM32-uGUI](https://github.com/deividAlfa/ST7789-STM32-uGUI) - Driving st7789 displays with STM32 and uGUI library, using hardware SPI and DMA(Optional), with several modifications for best performance.
+- [sfrwmaker/LED-table-lamp](https://github.com/sfrwmaker/LED-table-lamp) - 
+- [sfrwmaker/Inductance_meter](https://github.com/sfrwmaker/Inductance_meter) - The inductance meter on STM32 and atmega328p
+- [sfrwmaker/TFT_graphic_library](https://github.com/sfrwmaker/TFT_graphic_library) - 
+- [sfrwmaker/stm32_HT1621_library](https://github.com/sfrwmaker/stm32_HT1621_library) - 
+- [sfrwmaker/TFT_Rework_station](https://github.com/sfrwmaker/TFT_Rework_station) - Soldering and rework station with TFT ili9341 display absed on stm32
+- [sfrwmaker/F103RE_UNITED_Rework](https://github.com/sfrwmaker/F103RE_UNITED_Rework) - The soldering and rework station managing T12, JBC C245 tips and Hot Air Gun
+- [sfrwmaker/T12-JBC-rework-station](https://github.com/sfrwmaker/T12-JBC-rework-station) - 
+- [sfrwmaker/F1-T12-858D](https://github.com/sfrwmaker/F1-T12-858D) - Soldering station for hakko t12 tips + 858D rework
+- [g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source](https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source) - G8KIG's changes to the source code for the DX FT8 Multiband-Tablet-Transceiver
+- [eriklins/chip45boot3](https://github.com/eriklins/chip45boot3) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with automatic baudrate adjustment, encryption and Visual Studio GUI.
+- [eriklins/chip45boot2](https://github.com/eriklins/chip45boot2) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with Intel hex file support and automatic baudrate adjustment.
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [earlephilhower/BackgroundAudio](https://github.com/earlephilhower/BackgroundAudio) - Arduino library for easy, interrupt driven speech, MP3, AAC, and WAV playback on the Raspberry Pi Pico RP2040, Pico 2 RP2350, and ESP32
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
@@ -1427,6 +1445,22 @@
 
 ## C++ 
 
+- [LGTMCU/LarduinoISP](https://github.com/LGTMCU/LarduinoISP) - make arduino board to be LGT8FX8D/P programmer
+- [sfrwmaker/CommonControls](https://github.com/sfrwmaker/CommonControls) - 
+- [sfrwmaker/weather_sensor_tiny85](https://github.com/sfrwmaker/weather_sensor_tiny85) - Wireless weather sensor on attiny85
+- [sfrwmaker/WirelessOregonV2](https://github.com/sfrwmaker/WirelessOregonV2) - The arduino library for OregonV2 protocol
+- [sfrwmaker/WaterMeter](https://github.com/sfrwmaker/WaterMeter) - The Arduino project for Water Meters using esp8266 and Blynk
+- [sfrwmaker/soldering_907_lcd](https://github.com/sfrwmaker/soldering_907_lcd) - The soldering controller for hakko 907 with lcd screen
+- [sfrwmaker/openweathermap.org-ESP8266](https://github.com/sfrwmaker/openweathermap.org-ESP8266) - ESP8266 parsing library for openweathermap.org site
+- [sfrwmaker/hakko_t12](https://github.com/sfrwmaker/hakko_t12) - The hakko T12 digital controller on atmega328
+- [sfrwmaker/hakko_t12_stm32](https://github.com/sfrwmaker/hakko_t12_stm32) - The soldering iron controller built on stm32 micro controller
+- [sfrwmaker/sunMoon](https://github.com/sfrwmaker/sunMoon) - arduino library to calculate moon day and sunrise and sunset times
+- [sfrwmaker/ntp_clock](https://github.com/sfrwmaker/ntp_clock) - GPS or NTP Synched clock built on esp8266 micro-controller
+- [sfrwmaker/Arduino_Hot_Air_Gun](https://github.com/sfrwmaker/Arduino_Hot_Air_Gun) - 
+- [WB2CBA/uSDX-mOnO](https://github.com/WB2CBA/uSDX-mOnO) - 
+- [WB2CBA/W5BAA-FT8-POCKET-TERMINAL](https://github.com/WB2CBA/W5BAA-FT8-POCKET-TERMINAL) - FT 8 POCKET - Palm size FT8 Interface Terminal
+- [n2htt/si5351-3-band-vfo](https://github.com/n2htt/si5351-3-band-vfo) - An Arduino sketch for implementing a 3 band VFO using the si5351
+- [rheslip/Teensy_SDR](https://github.com/rheslip/Teensy_SDR) - Software defined radio using Teensy 3.1, Teensy Audio shield and Softrock
 - [earlephilhower/ESP8266SdFat](https://github.com/earlephilhower/ESP8266SdFat) - Arduino FAT16/FAT32 Library
 - [SuperUserNameMan/LGTISP](https://github.com/SuperUserNameMan/LGTISP) - LGT8Fx8P ISP download protocol implementation
 - [brother-yan/LGTISP](https://github.com/brother-yan/LGTISP) - LGT8Fx8P ISP download protocol implementation
@@ -1881,7 +1915,7 @@
 - [ssilver2007/LCD_1602_RUS_ALL](https://github.com/ssilver2007/LCD_1602_RUS_ALL) - Библиотека поддержки кириллицы для дисплеев на базе контроллера HD44780 без встроенной кириллицы. Подключение дисплея как напрямую (10-контактное), так и по интерфейсу I2C.
 - [TcMenu/tcMenuLib](https://github.com/TcMenu/tcMenuLib) - TcMenu modular IoT menu library supporting rotary encoder, joysticks, many displays, and remote control over Ethernet and Serial
 - [TcMenu/LiquidCrystalIO](https://github.com/TcMenu/LiquidCrystalIO) - IoAbstraction fork of Liquid Crystal Library for Arduino
-- [sstaub/LCDi2c](https://github.com/sstaub/LCDi2c) - Arduino LCD library for HD44780 displays with I2C expander
+- [sstaub/LCD-I2C-HD44780](https://github.com/sstaub/LCD-I2C-HD44780) - Arduino LCD library for HD44780 displays with I2C expander
 - [RobTillaart/I2C_LCD](https://github.com/RobTillaart/I2C_LCD) - Arduino library for I2C LCD displays e.g. 20x4
 - [enjoyneering/LiquidCrystal_I2C](https://github.com/enjoyneering/LiquidCrystal_I2C) - This is an Arduino library for HD44780 LCD display, operated in 4 bit mode over I2C bus with 8-bit I/O expander PCF8574
 - [ta2bgh/cw-beacon](https://github.com/ta2bgh/cw-beacon) - This is a simple CW beacon project based on Arduino and Si5351 clock generator. It transmits a predefined message as morse code on a fixed frequency.
@@ -2031,7 +2065,7 @@
 - [RobTillaart/fast_math](https://github.com/RobTillaart/fast_math) - Arduino library for fast math algorithms
 - [RobTillaart/FastMap](https://github.com/RobTillaart/FastMap) - Arduino library for Fast mapping and constraining
 - [RobTillaart/FastTrig](https://github.com/RobTillaart/FastTrig) - Arduino library with interpolated lookup for sin() and cos()
-- [RobTillaart/HeartBeat](https://github.com/RobTillaart/HeartBeat) - Arduino library for a simple HeartBeat
+- [RobTillaart/HeartBeat](https://github.com/RobTillaart/HeartBeat) - Arduino library for a HeartBeat with frequency and duty cycle.
 - [RobTillaart/HMC6352](https://github.com/RobTillaart/HMC6352) - Arduino library for HMC6352 compass sensor
 - [RobTillaart/I2CKeyPad8x8](https://github.com/RobTillaart/I2CKeyPad8x8) - Arduino library for 8x8 or smaller KeyPad connected to an I2C PCF8575.
 - [RobTillaart/infiniteAverage](https://github.com/RobTillaart/infiniteAverage) - Arduino Library to calculate an average of many many samples
@@ -4328,10 +4362,10 @@
 
 ## HTML 
 
+- [deividAlfa/t12-t245-controllers-docs](https://github.com/deividAlfa/t12-t245-controllers-docs) - 
 - [dreamcat4/t12-t245-controllers-docs](https://github.com/dreamcat4/t12-t245-controllers-docs) - 
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 - [HomeDing/homeding.github.io](https://github.com/HomeDing/homeding.github.io) - Documentation of the HomeDing library
-- [HomeDing/WebFiles](https://github.com/HomeDing/WebFiles) - Source code of the web UI for HomeDing based devices
 - [kholia/G8GYW-QRP-RF-Meter](https://github.com/kholia/G8GYW-QRP-RF-Meter) - QRP RF Power + SWR meter. Fork of https://g8gyw.github.io/ work.
 - [kholia/Simple-TR-Switch](https://github.com/kholia/Simple-TR-Switch) - VU3CER's non-RF-sensing, MCU controlled Simple T/R Switch with RX Grounding!
 - [pricna/Software-Defined-Radio-Receiver](https://github.com/pricna/Software-Defined-Radio-Receiver) - Software Defined Radio receiver created for Engineering Electronics II at Walla Walla University.
@@ -4454,7 +4488,6 @@
 - [zarkone/.xmonad](https://github.com/zarkone/.xmonad) - 
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
-- [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Vim plug-ins
 - [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [ghc/ghc](https://github.com/ghc/ghc) - Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the n
 - [Dlackware/dlackware](https://github.com/Dlackware/dlackware) - builder/installer for Projects using a compile-order
@@ -4558,6 +4591,7 @@
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
+- [HomeDing/WebFiles](https://github.com/HomeDing/WebFiles) - Source code of the web UI for HomeDing based devices
 - [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [SuperZombi/HDrezka-Helper](https://github.com/SuperZombi/HDrezka-Helper) - Adds a «Download» button below the video. Export favorites and more.
 - [kpn-iot/thingsml-c-library](https://github.com/kpn-iot/thingsml-c-library) - C library for ThingsML on your device
@@ -4909,6 +4943,7 @@
 
 ## Lua 
 
+- [aschrab/feline.nvim](https://github.com/aschrab/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, kitty, lf, etc
 - [scottmckendry/telescope-resession.nvim](https://github.com/scottmckendry/telescope-resession.nvim) - Telescope extension for resession.nvim
 - [ray-x/mkdn.nvim](https://github.com/ray-x/mkdn.nvim) - Essential markdown note-taking tools with LSP support.
@@ -5465,7 +5500,6 @@
 - [mjlbach/starter.nvim](https://github.com/mjlbach/starter.nvim) - A small, documented, and featureful neovim starter config
 - [LucasTavaresA/simpleCommand.nvim](https://github.com/LucasTavaresA/simpleCommand.nvim) - Saves a table of commands based on cwd
 - [LucasTavaresA/SingleComment.nvim](https://github.com/LucasTavaresA/SingleComment.nvim) - Always single line, comment sensitive, indentation preserving commenting.
-- [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline, statuscolumn, and winbar for Neovim
 - [anuvyklack/nvim-api-wrappers](https://github.com/anuvyklack/nvim-api-wrappers) - 
 - [anuvyklack/blueflower](https://github.com/anuvyklack/blueflower) - 
 - [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) - Rainbow delimiters for Neovim through Tree-sitter
@@ -7088,7 +7122,6 @@
 - [teal-language/teal-types](https://github.com/teal-language/teal-types) - Teal type definitions of Lua libraries!
 - [MeetLima/json.lua](https://github.com/MeetLima/json.lua) - Lima's version of the JSON wheel.
 - [rxi/flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
-- [rjshkhr/dotfiles](https://github.com/rjshkhr/dotfiles) - ~/
 - [Yonaba/30log](https://github.com/Yonaba/30log) - 30 lines library for object orientation in Lua
 - [rossy/mpv-open-file-dialog](https://github.com/rossy/mpv-open-file-dialog) - A script for mpv that can launch a regular Windows open file dialog from a key binding
 - [somnam/dotfiles](https://github.com/somnam/dotfiles) - 
@@ -7189,6 +7222,7 @@
 - [drmargarido/TodoTreeView](https://github.com/drmargarido/TodoTreeView) - Todo View for https://github.com/rxi/lite
 - [drmargarido/linters](https://github.com/drmargarido/linters) - Linters for https://github.com/rxi/lite
 - [monolifed/theme16](https://github.com/monolifed/theme16) - theme manager for https://github.com/rxi/lite
+- [kjakapat/eva-theme](https://github.com/kjakapat/eva-theme) - Eva themes built from https://github.com/kjakapat/base16-eva-scheme
 - [rxi/lovebird](https://github.com/rxi/lovebird) - A browser-based debug console for LÖVE
 - [rxi/autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 - [rxi/lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running LÖVE project
@@ -7605,7 +7639,9 @@
 - [b3nj5m1n/serverdots](https://github.com/b3nj5m1n/serverdots) - 
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - my nixos config
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
+- [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [teto/home](https://github.com/teto/home) - Configurations
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 
@@ -7659,6 +7695,13 @@
 
 ## Others 
 
+- [WB2CBA/Barb-A-Watt-QRP-POWER-and-SWR-Monitor](https://github.com/WB2CBA/Barb-A-Watt-QRP-POWER-and-SWR-Monitor) - 
+- [WB2CBA/POCKET-TUNER-V1](https://github.com/WB2CBA/POCKET-TUNER-V1) - 
+- [WB2CBA/FDIM-2024-LOGIC-IC-TRANSMITTER-CHALLENGE](https://github.com/WB2CBA/FDIM-2024-LOGIC-IC-TRANSMITTER-CHALLENGE) - 
+- [WB2CBA/QO100-PORTABLE-TRANSCEIVER-PROJECT](https://github.com/WB2CBA/QO100-PORTABLE-TRANSCEIVER-PROJECT) - 
+- [WB2CBA/ESP-WSPR](https://github.com/WB2CBA/ESP-WSPR) - A Simple ESP8266/SI5351 based stand alone WSPR Transmitter
+- [WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER](https://github.com/WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER) - 
+- [vlasikhin/Aethra](https://github.com/vlasikhin/Aethra) - Aethra is a minimalist color scheme for Sublime Text, designed with simplicity and clarity in mind.
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [HB9VQQ/WSPRBeacon](https://github.com/HB9VQQ/WSPRBeacon) - Worldwide Network of WSPR Beacons
 - [wb2osz/aprsspec](https://github.com/wb2osz/aprsspec) - The APRS Documentation Project: APRS Protocol Specification 1.2, Understanding APRS Packets, How to Get Started in APRS, The Best APRS Presentations, etc.
@@ -8299,6 +8342,7 @@
 
 ## Python 
 
+- [nicechao/ISP4LGT8F328P](https://github.com/nicechao/ISP4LGT8F328P) - 
 - [platformio/platform-espressif32](https://github.com/platformio/platform-espressif32) - Espressif 32: development platform for PlatformIO
 - [mlichvar/ntp2chrony](https://github.com/mlichvar/ntp2chrony) - Script for converting ntp configuration to chrony
 - [sq9nje/sr0wx.py](https://github.com/sq9nje/sr0wx.py) - Automatic hamradio weather station written in python
@@ -8661,6 +8705,7 @@
 - [kovetskiy/neovim-move](https://github.com/kovetskiy/neovim-move) - :Move files with NeoVim
 - [proxypoke/quickswitch-for-i3](https://github.com/proxypoke/quickswitch-for-i3) - A python utility to quickly change to and locate windows in i3
 - [jesparza/peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents
+- [rjshkhr/dotfiles](https://github.com/rjshkhr/dotfiles) - ~/
 - [deepjyoti30/downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
 - [sainathadapa/i3-wm-multi-disp-scripts](https://github.com/sainathadapa/i3-wm-multi-disp-scripts) - Scripts to navigate a multi-monitor setup in I3 WM
 - [firecat53/urlscan](https://github.com/firecat53/urlscan) - Mutt and terminal url selector (similar to urlview)
@@ -9190,6 +9235,7 @@
 
 ## Rust 
 
+- [CppCXY/emmylua-analyzer-rust](https://github.com/CppCXY/emmylua-analyzer-rust) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [atanunq/viuer](https://github.com/atanunq/viuer) - Rust library for displaying images in the terminal.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
@@ -9372,6 +9418,7 @@
 - [daa84/neovim-lib](https://github.com/daa84/neovim-lib) - Rust library for Neovim clients
 - [yutkat/dotplugs](https://github.com/yutkat/dotplugs) - 
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
+- [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Neovim plug-ins
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for nearly 20 languages 📚 Generate proper code documentation with a single keypress. ⚡️🔥
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -9900,7 +9947,6 @@
 - [jessiehildebrandt/dot-fish](https://github.com/jessiehildebrandt/dot-fish) - My personal Fish configuration (GitLab mirror)
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [beanaroo/display-visor](https://github.com/beanaroo/display-visor) - Bash script for applying a pre-defined Xorg monitor layout. Useful for tiling window manager users.
-- [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - dots for my Linux setup
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
 - [colonelpanic8/rofi-systemd](https://github.com/colonelpanic8/rofi-systemd) - 
 - [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
@@ -9977,7 +10023,6 @@
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
 - [jeremyf/dotzshrc](https://github.com/jeremyf/dotzshrc) - 
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
-- [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [krukas/DotFiles](https://github.com/krukas/DotFiles) - 
 - [xServo/dot_files](https://github.com/xServo/dot_files) - All my dotfiles which can be installed on a fresh arch install
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
@@ -11091,7 +11136,6 @@
 - [mattn/vim-lsp-icons](https://github.com/mattn/vim-lsp-icons) - 
 - [svermeulen/vim-macrobatics](https://github.com/svermeulen/vim-macrobatics) - Plugin for Vim that makes it easier to record / play / edit macros
 - [rafalbromirski/vim-aurora](https://github.com/rafalbromirski/vim-aurora) - dark theme for vim
-- [kjakapat/eva-theme](https://github.com/kjakapat/eva-theme) - Eva themes built from https://github.com/kjakapat/base16-eva-scheme
 - [cdelledonne/vim-cmake](https://github.com/cdelledonne/vim-cmake) - Vim/Neovim plugin for working with CMake projects
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [oppiliappan/dotfiles](https://github.com/oppiliappan/dotfiles) - files that define my GNU/Linux box.
@@ -11271,7 +11315,7 @@
 - [wincent/loupe](https://github.com/wincent/loupe) - 🔍 Enhanced in-file search for Vim
 - [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
-- [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
+- [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap: netrW =&gt; netrL
 - [wincent/vim-docvim](https://github.com/wincent/vim-docvim) - Syntax highlighting for Docvim comments
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
