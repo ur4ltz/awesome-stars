@@ -10005,7 +10005,7 @@
 - [caarlos0-graveyard/zsh-git-sync](https://github.com/caarlos0-graveyard/zsh-git-sync) - A zsh plugin to sync git repositories and clean them up.
 - [nanotee/dotfiles](https://github.com/nanotee/dotfiles) - 
 - [grznych/dotfiles](https://github.com/grznych/dotfiles) - 
-- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
+- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [jessiehildebrandt/dot-fish](https://github.com/jessiehildebrandt/dot-fish) - My personal Fish configuration (GitLab mirror)
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
