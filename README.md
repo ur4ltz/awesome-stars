@@ -254,6 +254,8 @@
 
 ## C 
 
+- [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok
+- [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [WeActStudio/WeAct_HID_Bootloader_F4x1](https://github.com/WeActStudio/WeAct_HID_Bootloader_F4x1) - WeAct_HID_Bootloader_F4x1 base on STM32_HID_Bootloader
 - [dawsonjon/speedometer](https://github.com/dawsonjon/speedometer) - AVR based GPS speedometer with retro LED display
 - [dawsonjon/PicoSSTV](https://github.com/dawsonjon/PicoSSTV) - Slow Scan Television (SSTV) decoder using Raspberry Pi Pico
@@ -950,7 +952,7 @@
 - [jkitchin/emacs-modules](https://github.com/jkitchin/emacs-modules) - Dynamic modules for emacs
 - [dyama/mruby-lua](https://github.com/dyama/mruby-lua) - mruby-lua calls Lua script engine from mruby.
 - [syohex/emacs-lua](https://github.com/syohex/emacs-lua) - Lua engine from Emacs Lisp
-- [the-chenergy/grid88_qmk_firmware](https://github.com/the-chenergy/grid88_qmk_firmware) - A from-scratch designed, made, and programmed mechanical keyboard for a premium daily driver.
+- [the-chenergy/grid88_qmk_firmware](https://github.com/the-chenergy/grid88_qmk_firmware) - Designed, crafted, and wired from scratch, a mechanical keyboard meticulously built for the rhythm of keystroke and code.
 - [ibhagwan/picom](https://github.com/ibhagwan/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [starwing/luautf8](https://github.com/starwing/luautf8) - a utf-8 support module for Lua and LuaJIT.
@@ -1262,7 +1264,7 @@
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [lxde/lxterminal](https://github.com/lxde/lxterminal) - VTE terminal emulator written in GTK
-- [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
+- [MidnightCommander/mc-old](https://github.com/MidnightCommander/mc-old) - Midnight Commander's repository
 - [Tangent128/lua-evdev](https://github.com/Tangent128/lua-evdev) - Lua module for reading Linux input events from /dev/input/eventXX nodes
 - [Tangent128/luasdl2](https://github.com/Tangent128/luasdl2) - A pure C binding of SDL 2.0 for Lua 5.1, Lua 5.2, and LuaJIT.
 - [lighttpd/lighttpd1.4](https://github.com/lighttpd/lighttpd1.4) - lighttpd1.4 on github for easier collaboration - main repo still on lighttpd.net
@@ -1340,7 +1342,7 @@
 - [dfu-programmer/dfu-programmer](https://github.com/dfu-programmer/dfu-programmer) - dfu-programmer is a Device Firmware Update based USB programmer for Atmel chips with a USB bootloader
 - [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
-- [CMB/edbrowse](https://github.com/CMB/edbrowse) - A command-line editor and web browser.
+- [edbrowse/edbrowse](https://github.com/edbrowse/edbrowse) - A command-line editor and web browser.
 - [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [wahern/luaossl](https://github.com/wahern/luaossl) - Most comprehensive OpenSSL module in the Lua universe.
@@ -1418,7 +1420,7 @@
 - [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded TCP/IP network stack with embedded web server, Websocket, and MQTT client
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket
 - [jgm/lunamark-standalone](https://github.com/jgm/lunamark-standalone) - Standalone version of lunamark (compiled with no library dependencies)
 - [michaellukashov/Far-NetBox](https://github.com/michaellukashov/Far-NetBox) - SFTP/SCP/FTP/FTPS/WebDAV/S3 client for Far Manager 3 (http://farmanager.com/)
 - [musashimm/avrboot](https://github.com/musashimm/avrboot) - Bootloader for AVR microcontrollers
@@ -2345,7 +2347,6 @@
 - [billygr/arduino-clock](https://github.com/billygr/arduino-clock) - An Arduino Clock based on TM1637 and DS3231
 - [adamvotocek/arduinoAlarmClockExample](https://github.com/adamvotocek/arduinoAlarmClockExample) - This is a an alarm clock example made from an Arduino Nano, DS3231, TM1637 and some simple components. WARNING: terrible code and bad joke attempts
 - [StoicaT/Timer-with-TM1637-and-Arduino](https://github.com/StoicaT/Timer-with-TM1637-and-Arduino) - Countdown timer with LED display drive by TM1637 and Arduino Nano.
-- [diegoportela99/TM1637-arduino](https://github.com/diegoportela99/TM1637-arduino) - Timer Method for arduino TM1637
 - [mcauser/TM1637-led-driver-7-segment](https://github.com/mcauser/TM1637-led-driver-7-segment) - Arduino library for TM1637, used in the Grove 4 Digit Display
 - [adamvotocek/3DprintedAlarmClock](https://github.com/adamvotocek/3DprintedAlarmClock) - This is a an alarm clock made from an Arduino Nano, DS3231, TM1637, some buttons, an LED and a buzzer.
 - [AbhishekGhosh/Arduino-Buzzer-Tone-Codes](https://github.com/AbhishekGhosh/Arduino-Buzzer-Tone-Codes) - Some Collected Arduino Buzzer Tone Codes
@@ -2577,7 +2578,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.2 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs (you need a bit of HW on a breadboard or some special Arduino shields as well)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -2695,7 +2696,7 @@
 - [phdlee/ubitx](https://github.com/phdlee/ubitx) - ubitx  - sketch for the raduino to work with the ubitx transceiver
 - [w1hkj/fldigi](https://github.com/w1hkj/fldigi) - Amateur Radio digital modem application [SF mirror]
 - [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
-- [charlie-foxtrot/RTLSDR-Airband](https://github.com/charlie-foxtrot/RTLSDR-Airband) - Multichannel AM/NFM demodulator
+- [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [pothosware/PothosCore](https://github.com/pothosware/PothosCore) - The Pothos data-flow framework
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [gnuradio/volk](https://github.com/gnuradio/volk) - The Vector Optimized Library of Kernels
@@ -3230,6 +3231,7 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -3251,7 +3253,7 @@
 - [stanhe/pop-eshell](https://github.com/stanhe/pop-eshell) - bottom-terminal like intellij idea and full-terminal for multi windows.
 - [DaoHuyTuan/Emacs-Init](https://github.com/DaoHuyTuan/Emacs-Init) - My Emacs Config file
 - [DaoHuyTuan/dotfiles](https://github.com/DaoHuyTuan/dotfiles) - my dot file
-- [g6ai/dotfiles](https://github.com/g6ai/dotfiles) - My dotfiles for Bash/Zsh, Vim/Neovim, Doom Emacs, tmux, Git, terminal emulators, JupyterLab, aria2, mpv, Nix and Homebrew
+- [g6ai/dotfiles](https://github.com/g6ai/dotfiles) - My dotfiles for Bash/Zsh, Vim/Neovim, Doom Emacs, tmux, Git, terminal emulators, aria2, mpv, Nix and Homebrew
 - [weirdNox/org-noter](https://github.com/weirdNox/org-noter) - Emacs document annotator, using Org-mode
 - [rajcspsg/.doom.d](https://github.com/rajcspsg/.doom.d) - 
 - [rajcspsg/emacs.d](https://github.com/rajcspsg/emacs.d) - 
@@ -3969,7 +3971,6 @@
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~p00f/godbolt.nvim instead
-- [iagoleal/dotfiles](https://github.com/iagoleal/dotfiles) - 
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [rafaeldelboni/cajus-nvim](https://github.com/rafaeldelboni/cajus-nvim) - Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure.
 - [Sharparam/dotfiles](https://github.com/Sharparam/dotfiles) - Collection of my dotfiles
@@ -4825,7 +4826,6 @@
 - [dapetcu21/atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) - Extensible autocomplete+ provider for Lua
 - [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
 - [Azganoth/language-lua-plus](https://github.com/Azganoth/language-lua-plus) - Lua grammar and snippets for Atom.
-- [jdinhify/vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox) - Gruvbox theme for vscode based on https://github.com/morhetz/gruvbox
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [simonthechipmunk/arduinocontrol](https://github.com/simonthechipmunk/arduinocontrol) - "Arduino Control" Gnome-Shell Extension
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
@@ -4888,7 +4888,7 @@
 
 - [newhouseb/onebitbt](https://github.com/newhouseb/onebitbt) - Bluetooth PHY based on one-bit input and output
 - [mobilinkd/uv-k6-digital-mod](https://github.com/mobilinkd/uv-k6-digital-mod) - UV-K6 Mods for Digital Modulation
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [fastai/ghtop-demo](https://github.com/fastai/ghtop-demo) - A CLI tool for showing GitHub events, written with Rich
 - [medwatt/Notes](https://github.com/medwatt/Notes) - 
@@ -4979,7 +4979,7 @@
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [Freed-Wu/git2.nvim](https://github.com/Freed-Wu/git2.nvim) - [WIP!!!] Use luagit2 to realize a :Git in neovim
 - [Freed-Wu/luarocks-build-autotools](https://github.com/Freed-Wu/luarocks-build-autotools) - A luarocks build module for autotools
-- [Freed-Wu/texrocks](https://github.com/Freed-Wu/texrocks) - A (La)TeX package manager powered by luarocks and luaTeX.
+- [ustctug/texrocks](https://github.com/ustctug/texrocks) - A (La)TeX package manager powered by luarocks and luaTeX.
 - [FantomeBeignet/ghostly.nvim](https://github.com/FantomeBeignet/ghostly.nvim) - My personal color theme for Neovim
 - [FantomeBeignet/feline.nvim](https://github.com/FantomeBeignet/feline.nvim) - A minimal, stylish and customizable statusline / winbar for Neovim written in Lua
 - [vague2k/vague.nvim](https://github.com/vague2k/vague.nvim) - A cool, dark, low contrast, theme inspired by ThePrimeagen's tmux not fixing rose-pine colors
@@ -5167,7 +5167,7 @@
 - [trimclain/builder.nvim](https://github.com/trimclain/builder.nvim) - Simple building plugin for neovim written 100% in lua
 - [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) - 🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀
 - [JMarkin/gentags.lua](https://github.com/JMarkin/gentags.lua) - autogenerate tags for neovim
-- [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) - Start/stop LSP servers upon demand; keeps RAM usage low
+- [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop LSP servers upon demand; keeps RAM usage low
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - A very lightweight, super fast and lazyloading statusline plugin for Neovim written in lua.
 - [dasupradyumna/launch.nvim](https://github.com/dasupradyumna/launch.nvim) - :rocket: A task launcher plugin for neovim allowing dynamic task configuration per directory, with optional support for debugging
 - [craigmac/nvim-navigator](https://github.com/craigmac/nvim-navigator) - :sparkles: Smoothly navigate between neovim and multiplexer :sparkles:
@@ -8229,7 +8229,7 @@
 - [drakulavich/russian-sublime-cheatsheet](https://github.com/drakulavich/russian-sublime-cheatsheet) - PDF-шпаргалка по клавиатурным сочетаниям Sublime Text
 - [noct/sublime-cpp11](https://github.com/noct/sublime-cpp11) - Replacement self-contained C++11 syntax definition for Sublime Text
 - [luarocks/lua-style-guide](https://github.com/luarocks/lua-style-guide) - Lua Style Guide, as used by LuaRocks
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
+- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [arvind-naidu/rutorrent-installer](https://github.com/arvind-naidu/rutorrent-installer) - Eaziest rutorrent & rtorrent installer + Web server, FTP, Webmin (Ubuntu/Debian/Fedora/More)
 - [jaap-karssenberg/zim-wiki](https://github.com/jaap-karssenberg/zim-wiki) - This repository is a placeholder so we can use the asociated wiki for community documentation.
 - [abcminiuser/sublimetext-gnu-map](https://github.com/abcminiuser/sublimetext-gnu-map) - SublimeText 3 syntax definition for GCC MAP files.
@@ -8456,7 +8456,7 @@
 - [0x9900/aprs_wx](https://github.com/0x9900/aprs_wx) - Send temperature to APRS
 - [owenduffy/tinydevicecapture](https://github.com/owenduffy/tinydevicecapture) - 
 - [olgierd/yagi_designer](https://github.com/olgierd/yagi_designer) - Yagi antenna design utility written in py3+qt5 with nec2c backend.
-- [PICC-Group/pynanovna](https://github.com/PICC-Group/pynanovna) - A python library to easily read and save data from a NanoVNA.
+- [PICC-Group/pynanovna](https://github.com/PICC-Group/pynanovna) - A Python library to easily read and save data from a NanoVNA.
 - [cbalint13/avr-aosp](https://github.com/cbalint13/avr-aosp) - AVR AOSP like programmer
 - [microchip-pic-avr-tools/pymcuprog](https://github.com/microchip-pic-avr-tools/pymcuprog) - a Python utility for programming various Microchip MCU devices using Microchip CMSIS-DAP based debuggers
 - [mraardvark/pyupdi](https://github.com/mraardvark/pyupdi) - Python UPDI driver for programming "new" tinyAVR and megaAVR devices
@@ -8670,7 +8670,6 @@
 - [python-poetry/poetry-core](https://github.com/python-poetry/poetry-core) - Poetry PEP 517 Build Backend & Core Utilities
 - [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export) - Poetry plugin to export the dependencies to various formats
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [sindresorhus/editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) - Sublime Text plugin for EditorConfig - Helps developers maintain consistent coding styles between different editors
 - [Kronuz/ColorHighlight](https://github.com/Kronuz/ColorHighlight) - 🎨 Lightweight Color Highlight colorizer for Sublime Text
 - [sublimelsp/lsp_utils](https://github.com/sublimelsp/lsp_utils) - Module with LSP-related utilities for Sublime Text
@@ -8936,7 +8935,7 @@
 - [sleduc/weechat-xmpp](https://github.com/sleduc/weechat-xmpp) - A fork of the jabber plugin for weechat
 - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
 - [ajlende/dotbot-pacaur](https://github.com/ajlende/dotbot-pacaur) - dotbot pacaur plugin
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
+- [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [slytomcat/yandex-disk-indicator](https://github.com/slytomcat/yandex-disk-indicator) - Panel indicator (GTK+) for YandexDisk CLI client for Linux
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -9458,7 +9457,7 @@
 - [altdesktop/colornamer-rs](https://github.com/altdesktop/colornamer-rs) - Give me a color and I will name it
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [ubolonton/emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) - Rust binding and tools for Emacs's dynamic modules
@@ -10033,7 +10032,6 @@
 - [DreymaR/BigBagKbdTrixXKB](https://github.com/DreymaR/BigBagKbdTrixXKB) - "DreymaR's Big Bag of Keyboard Tricks" for *nix with XKB
 - [EllaTheCat/dopamine-2020](https://github.com/EllaTheCat/dopamine-2020) - i3 window manager config and scripts, tuned to help me manage my Parkinson's Disease symptoms.
 - [kovetskiy/dotfiles](https://github.com/kovetskiy/dotfiles) - an effective environment based on arch linux w/ i3, vim, alacritty, zsh, polybar
-- [felipendc/vicyos-build-folder](https://github.com/felipendc/vicyos-build-folder) - 
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [klaxalk/profile_manager](https://github.com/klaxalk/profile_manager) - profile switching in any config files using vim-commentary
 - [klaxalk/linux-setup](https://github.com/klaxalk/linux-setup) - Custom Linux setup nicely integrating vim+tmux+i3+urxvt+zsh+athame
@@ -10500,7 +10498,7 @@
 - [kapecp/vscode-lrdb](https://github.com/kapecp/vscode-lrdb) - Lua debugger for vscode
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
 - [funktechno/git-kanban-enhanced-extension](https://github.com/funktechno/git-kanban-enhanced-extension) - chrome extension to add additional kanban project planning to git hosting: github.com, gitlab.com, gitea.io, bitbucket.org
-- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
+- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
 - [Novage/wt-tracker](https://github.com/Novage/wt-tracker) - High-performance WebTorrent tracker
@@ -10546,6 +10544,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [kingsoftgames/vscode-luacheck](https://github.com/kingsoftgames/vscode-luacheck) - Luacheck for Visual Studio Code
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
+- [jdinhify/vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox) - Gruvbox theme for vscode based on https://github.com/morhetz/gruvbox
 - [EmmyLua/VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode
 - [trixnz/vscode-lua](https://github.com/trixnz/vscode-lua) - Intellisense and Linting for Lua in VSCode
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
