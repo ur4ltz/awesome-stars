@@ -254,6 +254,10 @@
 
 ## C 
 
+- [GolinskiyKonstantin/STM32_Lib_TFT_ST7789](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ST7789) - STM32 Display ST7789 135x240  240x240  172x320  240x280  240x320 EN UA RUS
+- [tsripramong/VGA256_USB-host](https://github.com/tsripramong/VGA256_USB-host) - An example for 8-bit color VGA display for STM32F411CEU6 (Black Pill) with a simple USB-host functionality
+- [nr-electronics/Mastering-STM32-on-your-own](https://github.com/nr-electronics/Mastering-STM32-on-your-own) - Sources for studying STM32 microcontrollers.
+- [wegi1/W25Q16-STM32F407VE-BLACK-SPI-EXTERNAL-LOADER](https://github.com/wegi1/W25Q16-STM32F407VE-BLACK-SPI-EXTERNAL-LOADER) - W25Q16 SPI external loater for black board STM32F407VET6
 - [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [WeActStudio/WeAct_HID_Bootloader_F4x1](https://github.com/WeActStudio/WeAct_HID_Bootloader_F4x1) - WeAct_HID_Bootloader_F4x1 base on STM32_HID_Bootloader
@@ -565,7 +569,7 @@
 - [RobTillaart/IEEE754tools](https://github.com/RobTillaart/IEEE754tools) - Arduino library to manipulate IEEE754 float numbers fast. (experimental)
 - [Ebiroll/esp32_sigrok](https://github.com/Ebiroll/esp32_sigrok) - Simple sigrok sump implementation
 - [jpbarraca/LogicAlNucleo](https://github.com/jpbarraca/LogicAlNucleo) - A SUMP compatible Logical Analyser for the STM32F4
-- [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - 
+- [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - Firmware source and binaries for the RP2040-based Debug Probe accessory
 - [perexg/picoprobe-sump](https://github.com/perexg/picoprobe-sump) - 
 - [KimJorgensen/KungFuFlash](https://github.com/KimJorgensen/KungFuFlash) - Cartridge for the Commodore 64 that packs a punch
 - [Serega88kos/MatrixClock](https://github.com/Serega88kos/MatrixClock) - 
@@ -672,7 +676,7 @@
 - [ThomasDickey/lynx-snapshots](https://github.com/ThomasDickey/lynx-snapshots) - snapshots of releases and interim labels for "lynx"https://invisible-island.net/personal/git-exports.html (no pull requests)
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) - snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
 - [ThomasDickey/vile-snapshots](https://github.com/ThomasDickey/vile-snapshots) - snapshots of releases and interim labels for "vi-like-emacs" program (1996-present) https://invisible-island.net/personal/git-exports.html
-- [jakkra/ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
+- [ZSWatch/ZSWatch](https://github.com/ZSWatch/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
 - [jdolinay/avr_debug](https://github.com/jdolinay/avr_debug) - Source level debugger for Arduino - GDB stub for Atmega328 microcontroller used in Arduino Uno.
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
 - [glebzlat/SimpleMenu](https://github.com/glebzlat/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
@@ -1465,7 +1469,6 @@
 - [AE9RB/iambino](https://github.com/AE9RB/iambino) - Iambino - Iambic Keyer for Arduino
 - [flank1er/DS3231SQW](https://github.com/flank1er/DS3231SQW) - Arduino library for RTC DS1307/DS3231
 - [jmparatte/jm_PCF8574](https://github.com/jmparatte/jm_PCF8574) - jm_PCF8574 Arduino Library
-- [rodan/ds3231](https://github.com/rodan/ds3231) - arduino library for DS3231 RTC
 - [dilshan/ntp-clock](https://github.com/dilshan/ntp-clock) - Ethernet base NTP clock panel driver
 - [dilshan/arduino-superhet](https://github.com/dilshan/arduino-superhet) - Si5351 and Arduino based superheterodyne receiver
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
@@ -2198,7 +2201,7 @@
 - [RobTillaart/DRV8825](https://github.com/RobTillaart/DRV8825) - Arduino library for DRV8825 stepper motor driver
 - [RobTillaart/PulseDivider](https://github.com/RobTillaart/PulseDivider) - Arduino library to divide a pulse stream with a fraction factor.
 - [RobTillaart/AD568X](https://github.com/RobTillaart/AD568X) - Arduino library for AD568X series Digital Analog Convertor. SPI
-- [RobTillaart/AS5600](https://github.com/RobTillaart/AS5600) - Arduino library for AS5600 magnetic rotation meter
+- [RobTillaart/AS5600](https://github.com/RobTillaart/AS5600) - Arduino library for AS5600 and AS5600L magnetic rotation meter
 - [RobTillaart/A1301](https://github.com/RobTillaart/A1301) - Arduino library for the A1301, A1302 and compatible magnetometers.
 - [RobTillaart/ACS712](https://github.com/RobTillaart/ACS712) - Arduino library for ACS Current Sensor - 5A, 20A, 30A
 - [RobTillaart/AD56X8](https://github.com/RobTillaart/AD56X8) - Arduino library for AD56X8, 8 channel Digital Analog Convertor.
@@ -2743,7 +2746,7 @@
 - [AlexGyver/LEDcube](https://github.com/AlexGyver/LEDcube) - 8x8x8 LED cube on Arduino
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
-- [fluxbox/fluxbox](https://github.com/fluxbox/fluxbox) - Fluxbox Window Manager (Mirror)
+- [fluxbox/fluxbox](https://github.com/fluxbox/fluxbox) - Fluxbox Window Manager
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [daedreth/URXVTConfig](https://github.com/daedreth/URXVTConfig) - A graphical user interface tool for configuration of the rxvt-unicode terminal emulator.
 - [polybar/i3ipcpp](https://github.com/polybar/i3ipcpp) - C++ interface to i3 ipc
@@ -4424,7 +4427,6 @@
 - [xibhuxan/Arduino](https://github.com/xibhuxan/Arduino) - :rocket: Proyectos de todo tipo para arduino utilizando sus sensores y actuadores. :robot:
 - [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
@@ -4564,7 +4566,7 @@
 - [aaronjwood/PortAuthority](https://github.com/aaronjwood/PortAuthority) - A handy systems and security-focused tool, Port Authority is a very fast Android port scanner. Port Authority also allows you to quickly discover hosts on your network and will display useful network 
 - [IngoZenz/personaldnsfilter](https://github.com/IngoZenz/personaldnsfilter) - See http://www.zenz-solutions.de/personaldnsfilter for details
 - [kreativekorp/bitsnpicas](https://github.com/kreativekorp/bitsnpicas) - Bits'N'Picas - Bitmap & Emoji Font Creation & Conversion Tools
-- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
+- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [fabienli/DokuwikiAndroid](https://github.com/fabienli/DokuwikiAndroid) - Android application to access a dokuwiki
 - [maxistar/TextPad](https://github.com/maxistar/TextPad) - Simple Text Editor for Android
 - [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
@@ -4643,6 +4645,7 @@
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [takahirox/nes-js](https://github.com/takahirox/nes-js) - JavaScript NES(Famicom) emulator
 - [Mshakir-Git/Quantumjs](https://github.com/Mshakir-Git/Quantumjs) - Terminal game engine
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [cncjs/cncjs](https://github.com/cncjs/cncjs) - A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.
 - [tedor/weather-station-frontend](https://github.com/tedor/weather-station-frontend) - Frontend for arduion-weather-station
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder (React Project)
@@ -5993,7 +5996,7 @@
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - Use your favorite machine translation engines without having to leave your favorite editor.
 - [eddyekofo94/bogster.nvim](https://github.com/eddyekofo94/bogster.nvim) - Another Neovim colorscheme
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) - Neovim (Lua powered) Network Resource Manager
-- [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) - Neovim plugin to read, write and post articles on Forem platforms like dev.to
+- [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) - Neovim plugin to read, write and post articles on dev.to
 - [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) - An extension for telescope.nvim that allows you to search emojis😃
 - [xiyaowong/nvim-colorizer.lua](https://github.com/xiyaowong/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
@@ -6116,7 +6119,7 @@
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter
 - [ray-x/viewdoc.nvim](https://github.com/ray-x/viewdoc.nvim) - Search and view your (vim plugins) markdown & help files with glow
 - [ray-x/sad.nvim](https://github.com/ray-x/sad.nvim) - Space Age seD in Neovim. A project-wide find and replace plugin for Neovim.
-- [ray-x/web-tools.nvim](https://github.com/ray-x/web-tools.nvim) - Neovim plugin for web developers
+- [ray-x/web-tools.nvim](https://github.com/ray-x/web-tools.nvim) - Neovim plugin for web developers. Browser-sync | http/css lsp | hurl/curl | npm/yarn/npx
 - [gennaro-tedesco/nvim-dvc](https://github.com/gennaro-tedesco/nvim-dvc) - The long awaited dvc plugin for neovim
 - [max397574/startup.nvim](https://github.com/max397574/startup.nvim) - A highly configurable neovim startup screen
 - [johann2357/nvim-smartbufs](https://github.com/johann2357/nvim-smartbufs) - Smart buffer management in neovim
@@ -7737,6 +7740,8 @@
 
 ## Others 
 
+- [GolinskiyKonstantin/TFT-ST7789-for-STM32](https://github.com/GolinskiyKonstantin/TFT-ST7789-for-STM32) - PCB pin to pin TFT ST7789 for STM32
+- [WeActStudio/WeActStudio.TFT-LCD-Module](https://github.com/WeActStudio/WeActStudio.TFT-LCD-Module) - WeAct Studio 2.8 Inch TFT-LCD Module
 - [WeActStudio/WeActStudio.BlackPill](https://github.com/WeActStudio/WeActStudio.BlackPill) - BlackPill Core Board AT32F403ACGx(240Mhz,96kRAM/1024kROM)
 - [WeActStudio/LogicAnalyzerV1](https://github.com/WeActStudio/LogicAnalyzerV1) - WeAct LogicAnalyzerV1 : A logic analyzer based on Cypress CY7C68013A / Corebai CBM9002A
 - [WeActStudio/WeActStudio.MiniDebugger](https://github.com/WeActStudio/WeActStudio.MiniDebugger) - APM32F103CBT6/STM32F103CBT6 Mini Debugger
@@ -8396,6 +8401,8 @@
 
 ## Python 
 
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+- [guoccaiLi/RP2040](https://github.com/guoccaiLi/RP2040) - RP2040-2MB/4MB/8MB/16MB
 - [dawsonjon/basicft8](https://github.com/dawsonjon/basicft8) - An annotated simple FT8 demodulator.
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [blackmagic-debug/black-magic-org](https://github.com/blackmagic-debug/black-magic-org) - The Black Magic Project Website
@@ -10036,8 +10043,8 @@
 - [klaxalk/profile_manager](https://github.com/klaxalk/profile_manager) - profile switching in any config files using vim-commentary
 - [klaxalk/linux-setup](https://github.com/klaxalk/linux-setup) - Custom Linux setup nicely integrating vim+tmux+i3+urxvt+zsh+athame
 - [klaxalk/i3-layout-manager](https://github.com/klaxalk/i3-layout-manager) - Saving, loading and managing layouts for i3wm.
-- [dennisleexyz/voidrice](https://github.com/dennisleexyz/voidrice) - Old repository based on Luke Smith's. Restarted from scratch at https://github.com/dennisleexyz/dotfiles
-- [dennisleexyz/scripts](https://github.com/dennisleexyz/scripts) - My shell scripts for system automation.
+- [dennisleexyz/voidrice](https://github.com/dennisleexyz/voidrice) - Used/contributed to Luke Smith's configuration files before restarting from scratch
+- [dennisleexyz/scripts](https://github.com/dennisleexyz/scripts) - Automation scripts for Unix systems
 - [BrodieRobertson/dmenufm](https://github.com/BrodieRobertson/dmenufm) - A simple file manager using dmenu
 - [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
 - [JopStro/bspswallow](https://github.com/JopStro/bspswallow) - dwm-like swallowing for bspwm
