@@ -190,6 +190,7 @@
 - [DeqingSun/vnproch551](https://github.com/DeqingSun/vnproch551) - CH551 Programming software
 - [avrdudes/avr-libc](https://github.com/avrdudes/avr-libc) - The AVR-LibC package provides a subset of the standard C library for AVR 8-bit RISC microcontrollers.
 - [Megatokio/zasm](https://github.com/Megatokio/zasm) - Z80 / 8080 / Z180 assembler (for unix-style OS)
+- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-based debugWIRE hardware-debugger
 - [zoosmand/SAMD21G18A_SPI](https://github.com/zoosmand/SAMD21G18A_SPI) - Microchip (Atmel) SAMD21 SPI example. MAX7219 as a ticker and BMP280 as a data source for ticker, are used on the same SPI bus.
 - [zoosmand/SAMD21G18A_delay](https://github.com/zoosmand/SAMD21G18A_delay) - In this example a delay don't make an empty job, but passing handle into a main cycle
 - [zoosmand/SAMD21G18A_eic](https://github.com/zoosmand/SAMD21G18A_eic) - EIC controller on SAMD device
@@ -255,6 +256,8 @@
 
 ## C 
 
+- [espressif/ESP8266_MP3_DECODER](https://github.com/espressif/ESP8266_MP3_DECODER) - A demo that should be run with ESP8266 Non-OS SDK
+- [jomat/stm32_soldering_iron_controller](https://github.com/jomat/stm32_soldering_iron_controller) - Custom firmware for the chinese kseger soldering iron controller
 - [jjsch-dev/pico_i2c_sniffer](https://github.com/jjsch-dev/pico_i2c_sniffer) - i2c sniffer with a Raspberry Pi Pico
 - [UKTailwind/PicoMiteAllVersions](https://github.com/UKTailwind/PicoMiteAllVersions) - This contains files to build MMbasic to run on both RP2040 and RP2350
 - [raspberrypi/pico-bootrom-rp2040](https://github.com/raspberrypi/pico-bootrom-rp2040) - 
@@ -1421,7 +1424,6 @@
 - [moteus/lua-lluv](https://github.com/moteus/lua-lluv) - Lua binding to libuv
 - [zhaozg/mod_luaex](https://github.com/zhaozg/mod_luaex) - extend mod_lua module in apache2.4
 - [zhaozg/lua-enhance](https://github.com/zhaozg/lua-enhance) - Lua Enhance/Extend library
-- [luvit/luv](https://github.com/luvit/luv) - Bare libuv bindings for lua
 - [zhaozg/openssl-win32](https://github.com/zhaozg/openssl-win32) - 
 - [zhaozg/lua-openssl](https://github.com/zhaozg/lua-openssl) - Openssl binding for Lua
 - [holy-shit/iconv-for-windows](https://github.com/holy-shit/iconv-for-windows) - iconv library for Windows (Microsoft Visual Studio Compiler)
@@ -1659,7 +1661,7 @@
 - [UA6EM/FT857d](https://github.com/UA6EM/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
 - [stdevPavelmc/FT857d](https://github.com/stdevPavelmc/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
 - [g0orx/SDTVer050.0](https://github.com/g0orx/SDTVer050.0) - Latest SDTVer050.0 with G0ORX MCP23017 Front Panel
-- [KI3P/T41-V12-SDT](https://github.com/KI3P/T41-V12-SDT) - Latest SDTVer050.0 with G0ORX MCP23017 Front Panel
+- [KI3P/T41-V12-SDT](https://github.com/KI3P/T41-V12-SDT) - Repository for ongoing development of the software for the T41 V12 software-defined transceiver
 - [kaduhi/IC746CAT](https://github.com/kaduhi/IC746CAT) - ICOM IC-746 Computer Aided Transceiver (CAT) control emulation for Arduino
 - [kaduhi/AFSK_to_FSK_VFO](https://github.com/kaduhi/AFSK_to_FSK_VFO) - 
 - [elelel/qluacpp-tutorial](https://github.com/elelel/qluacpp-tutorial) - Tutorial for Qluacpp library (C++ interface for Quik trading terminal)
@@ -2377,7 +2379,6 @@
 - [felias-fogg/RTC_I2C](https://github.com/felias-fogg/RTC_I2C) - This is an Ardunio library implementing a unified, minimalistic interface to many I2C RTCs
 - [felias-fogg/RTCEval](https://github.com/felias-fogg/RTCEval) - A long-term experiment with thirteen different RTCs
 - [felias-fogg/SingleWireSerial](https://github.com/felias-fogg/SingleWireSerial) - Software serial library using a single line in half-duplex mode. In addition, it uses the input capture feature of timer 1 for improved accuracy.
-- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-based debugWIRE hardware-debugger
 - [smaffer/vgax](https://github.com/smaffer/vgax) - VGA library for Arduino UNO
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ariskyr/Billiards_Firmware](https://github.com/ariskyr/Billiards_Firmware) - Automatic Billiards Table
@@ -2950,6 +2951,7 @@
 - [doopath/doodots](https://github.com/doopath/doodots) - My dotfiles
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
+- [oknozor/dotfiles](https://github.com/oknozor/dotfiles) - my dotfiles
 - [n1flh31mur/DotFiles](https://github.com/n1flh31mur/DotFiles) - Just a save place for my dotfiles
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [editor-bootstrap/emacs-bootstrap](https://github.com/editor-bootstrap/emacs-bootstrap) - Your on-the-fly Emacs development environment.
@@ -3274,7 +3276,6 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -5244,7 +5245,7 @@
 - [judaew/ronny.nvim](https://github.com/judaew/ronny.nvim) - Neovim/Vim color scheme inspired by Monokai theme
 - [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
 - [jonboh/nvim-dap-rr](https://github.com/jonboh/nvim-dap-rr) - Dap configuration for the record and replay debugger. Supports Rust, C++ and C.
-- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
 - [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - A lightweight bundle of commands focussed on swift and streamlined git operations.
 - [davidmh/cmp-nerdfonts](https://github.com/davidmh/cmp-nerdfonts) - nvim-cmp source for nerd fonts icons
 - [Wansmer/serenity.nvim](https://github.com/Wansmer/serenity.nvim) - Wansmer's colorsheme for Neovim
@@ -6395,7 +6396,6 @@
 - [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
-- [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [ner0-m/cmp-git](https://github.com/ner0-m/cmp-git) - Git source for nvim-cmp
 - [ner0-m/dotfiles](https://github.com/ner0-m/dotfiles) - My dotfiles
@@ -6687,6 +6687,7 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -7077,7 +7078,6 @@
 - [semanser/dotfiles](https://github.com/semanser/dotfiles) - Alacritty + Tmux + Oh My Zsh + Neovim = ❤️
 - [solidiquis/dotfiles](https://github.com/solidiquis/dotfiles) - Me confeegs.. me precious confeegs.
 - [Yonaba/Moses](https://github.com/Yonaba/Moses) - Utility library for functional programming  in Lua
-- [oknozor/dotfiles](https://github.com/oknozor/dotfiles) - my dotfiles
 - [kavotaman/dotfiles_old](https://github.com/kavotaman/dotfiles_old) - 
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
 - [bkegley/dotfiles](https://github.com/bkegley/dotfiles) - 
@@ -7160,6 +7160,7 @@
 - [mil/dot-files](https://github.com/mil/dot-files) - My dotfiles, managed with stow
 - [kristijanhusak/completion-tags](https://github.com/kristijanhusak/completion-tags) - Tags completion for completion-nvim
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
+- [wsdjeg/scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim) - floating scrollbar plugin for neovim
 - [javalikescript/luajls](https://github.com/javalikescript/luajls) - luajls is a set of Lua modules for developing stand-alone Lua applications
 - [zhaozg/lpeg_patterns](https://github.com/zhaozg/lpeg_patterns) - A collection of LPEG patterns
 - [luarocks/luarocks-gui](https://github.com/luarocks/luarocks-gui) - GUI module for LuaRocks 3.x
@@ -7572,6 +7573,7 @@
 - [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be
 - [norman/lua-haml](https://github.com/norman/lua-haml) - Haml for Lua
 - [zhaozg/lua-haml](https://github.com/zhaozg/lua-haml) - lua-haml update base on https://github.com/norman/lua-haml
+- [luvit/luv](https://github.com/luvit/luv) - Bare libuv bindings for lua
 - [moteus/lua-lluv-ssl](https://github.com/moteus/lua-lluv-ssl) - SSL/TLS sockets for lluv library
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
 - [rgieseke/base16-textadept](https://github.com/rgieseke/base16-textadept) - Base16 themes for the Textadept editor
@@ -9879,6 +9881,7 @@
 - [hollystandring/dwm-bar](https://github.com/hollystandring/dwm-bar) - A modular statusbar for dwm
 - [hollystandring/alarm](https://github.com/hollystandring/alarm) - A shell script to play an alarm at a predetermined time
 - [ldelossa/sway-fzfify](https://github.com/ldelossa/sway-fzfify) - A set of script to incorporate fzf into your sway desktop
+- [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [fnune/i3](https://github.com/fnune/i3) - My i3 config files.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
@@ -11124,7 +11127,6 @@
 - [yaronkh/vim-winmanip](https://github.com/yaronkh/vim-winmanip) - 
 - [adelarsq/vim-tetris](https://github.com/adelarsq/vim-tetris) - Tetris para Vim
 - [juneedahamed/vc.vim](https://github.com/juneedahamed/vc.vim) - Support for SVN, Git, HG and BZR
-- [wsdjeg/scrollbar.vim](https://github.com/wsdjeg/scrollbar.vim) - 
 - [nicwest/vim-http](https://github.com/nicwest/vim-http) - simple vim plugin to make http requests from buffers
 - [cohama/agit.vim](https://github.com/cohama/agit.vim) - A powerful Git log viewer
 - [itchyny/lightline-powerful](https://github.com/itchyny/lightline-powerful) - Powerful settings for lightline.vim
