@@ -3092,6 +3092,9 @@
 
 ## Dockerfile 
 
+- [ffeldhaus/docker-xpra-minimal](https://github.com/ffeldhaus/docker-xpra-minimal) - XPRA docker base image
+- [lambdalisue/docker-wireshark](https://github.com/lambdalisue/docker-wireshark) - Docker image which makes Wireshark available via HTML5 using XPRA
+- [ffeldhaus/docker-wireshark](https://github.com/ffeldhaus/docker-wireshark) - Docker image which makes Wireshark available via HTML5 using XPRA
 - [k1LoW/ghdag-action](https://github.com/k1LoW/ghdag-action) - GitHub Action for ghdag
 - [lspcontainers/dockerfiles](https://github.com/lspcontainers/dockerfiles) - Dockerfiles for all LSPs used with lspcontainers.
 - [ziglang/docker-zig](https://github.com/ziglang/docker-zig) - Dockerfile for zig programming language
@@ -3283,6 +3286,7 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -4088,6 +4092,7 @@
 
 ## Go 
 
+- [rakshasa/rtorrent-cli](https://github.com/rakshasa/rtorrent-cli) - Dependency-Free RTorrent CLI Tool
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -5233,7 +5238,6 @@
 - [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) - A statefull task manager focused on integration with build systems.
 - [echasnovski/mini.pick](https://github.com/echasnovski/mini.pick) - Pick anything. Part of 'mini.nvim' library.
 - [Gelio/cmp-natdat](https://github.com/Gelio/cmp-natdat) - nvim-cmp source to autocomplete natural dates and turm them into ISO dates
-- [DoDoENT/neovim-additional-tasks](https://github.com/DoDoENT/neovim-additional-tasks) - Additional tasks for Shatur/neovim-tasks
 - [saccarosium/neomarks](https://github.com/saccarosium/neomarks) - A new take on vim marks
 - [iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim) - A port of Gilles Castel's UltiSnip snippets for LuaSnip.
 - [rossjaywill/insights.nvim](https://github.com/rossjaywill/insights.nvim) - Native neovim lua integration for cppinsights, with async, telescope, and optional HTTP support.
@@ -5837,8 +5841,8 @@
 - [nvim-plugnplay/database](https://github.com/nvim-plugnplay/database) - Neovim plugins database used by plugnplay
 - [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
-- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
+- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [notomo/piemenu.nvim](https://github.com/notomo/piemenu.nvim) - Pie menu plugin for neovim
 - [meznaric/conmenu](https://github.com/meznaric/conmenu) - Powerful but minimal context menu plugin for neovim.
@@ -6475,7 +6479,6 @@
 - [chentoast/todolist.nvim](https://github.com/chentoast/todolist.nvim) - Syntax highlighting, basic functionality, and floating window support for todo lists
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [TerseTears/maani.nvim](https://github.com/TerseTears/maani.nvim) - Colorful dark colorscheme for Neovim
-- [luukvbaal/nvimconfig](https://github.com/luukvbaal/nvimconfig) - lazy.nvim config originially based on NvChad
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
 - [Furkanzmc/sekme.nvim](https://github.com/Furkanzmc/sekme.nvim) - Simplistic chain completion plugin for Neovim
 - [roflolilolmao/oceanic-next.nvim](https://github.com/roflolilolmao/oceanic-next.nvim) - Lua color scheme for Neovim
@@ -6586,7 +6589,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.11.0-dev-1777+g5d03060743) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.12.0-dev-320+g8d75910ef9) config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -6696,7 +6699,6 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -7410,6 +7412,7 @@
 - [steino/lua-xmlrpc](https://github.com/steino/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
 - [ningyou/Bunraku](https://github.com/ningyou/Bunraku) - Backend for Ningyou
 - [ningyou/Main](https://github.com/ningyou/Main) - The main ningyou project.
+- [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
 - [przmv/base16-vis](https://github.com/przmv/base16-vis) - Base16 for Vis
 - [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
@@ -7624,7 +7627,7 @@
 ## MDX 
 
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 
 ## Makefile 
 
@@ -7914,6 +7917,7 @@
 - [AlexanderBrevig/kicad-gruvbox-theme](https://github.com/AlexanderBrevig/kicad-gruvbox-theme) - Gruvbox for KiCAD - THE FUTURE IS HERE
 - [storef/ch341.driver](https://github.com/storef/ch341.driver) - CH340 Drivers for Windows, Mac and Linux
 - [AndrewChqng/Chroot-on-android](https://github.com/AndrewChqng/Chroot-on-android) - Android chroot guide.
+- [DoDoENT/neovim-additional-tasks](https://github.com/DoDoENT/neovim-additional-tasks) - Additional tasks for Shatur/neovim-tasks
 - [JChristensen/tinyTimer](https://github.com/JChristensen/tinyTimer) - A small battery-operated timer based on an ATtiny84A.
 - [JChristensen/usb-condom](https://github.com/JChristensen/usb-condom) - A little something for the tinfoil hat crowd.
 - [JChristensen/dotstar4](https://github.com/JChristensen/dotstar4) - Simple board to hold four APA102C addressable RGB LEDs.
@@ -8458,6 +8462,9 @@
 
 ## Python 
 
+- [kannibalox/pyrosimple](https://github.com/kannibalox/pyrosimple) - An overhauled fork of the pyrocore tools for rTorrent
+- [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool
+- [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
 - [raspberrypi/pico-project-generator](https://github.com/raspberrypi/pico-project-generator) - Tool to automatically generate a Pico C SDK Project
 - [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples) - Examples to accompany the "Raspberry Pi Pico Python SDK" book.
@@ -9614,6 +9621,7 @@
 
 ## Shell 
 
+- [rakshasa/rtorrent-archive](https://github.com/rakshasa/rtorrent-archive) - Archive of old rtorrent packages.
 - [itchyny/dotfiles](https://github.com/itchyny/dotfiles) - my dotfiles
 - [raspberrypi/pico-setup](https://github.com/raspberrypi/pico-setup) - 
 - [raspberrypi/pico-sdk-tools](https://github.com/raspberrypi/pico-sdk-tools) - 
@@ -10272,7 +10280,6 @@
 - [challenger-deep-theme/gnome-terminal](https://github.com/challenger-deep-theme/gnome-terminal) - Challenger Deep Theme for GNOME Terminal
 - [nginx-le/nginx-le](https://github.com/nginx-le/nginx-le) - Nginx with automatic let's encrypt (docker image)
 - [sorbet/sorbet.run](https://github.com/sorbet/sorbet.run) - The online Sorbet playground
-- [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [nordtheme/gedit](https://github.com/nordtheme/gedit) - An arctic, north-bluish clean and elegant gedit syntax theme.
@@ -10461,7 +10468,7 @@
 
 ## TypeScript 
 
-- [salihdhaifullah/cspell-lsp](https://github.com/salihdhaifullah/cspell-lsp) - 
+- [salihdhaifullah/cspell-lsp](https://github.com/salihdhaifullah/cspell-lsp) - cspell spell checker lsp for neovim
 - [vlabo/cspell-lsp](https://github.com/vlabo/cspell-lsp) - A simple source code spell checker for helix
 - [raspberrypi/pico-vscode](https://github.com/raspberrypi/pico-vscode) - The official VS Code extension for Raspberry Pi Pico development. It includes several features to simplify project creation and deployment.
 - [earlephilhower/arduino-littlefs-upload](https://github.com/earlephilhower/arduino-littlefs-upload) - Build and uploads LittleFS filesystems for the Arduino-Pico RP2040, RP2350, ESP8266, and ESP32 cores under Arduino IDE 2.2.1 or higher
@@ -10659,6 +10666,13 @@
 
 ## Vim Script 
 
+- [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) - Run fzy asynchronously in a Vim (popup) terminal-window
+- [lambdalisue/vim-reword](https://github.com/lambdalisue/vim-reword) - 🧬 Vim plugin to provide case-preserving substitutuion
+- [lambdalisue/vim-manpager](https://github.com/lambdalisue/vim-manpager) - Use Vim as a MANPAGER program
+- [lambdalisue/vim-file-protocol](https://github.com/lambdalisue/vim-file-protocol) - Vim plugin to support file:// protocol with line/column support
+- [lambdalisue/vim-backslash](https://github.com/lambdalisue/vim-backslash) - Automatically insert a leading backslash when editing Vim scripts
+- [lambdalisue/vim-http-protocol](https://github.com/lambdalisue/vim-http-protocol) - Vim/Neovim plugin to support opening http:// or https:// without netrw.vim
+- [lambdalisue/vim-mr](https://github.com/lambdalisue/vim-mr) - 🎩 Small plugin to track MRU/MRW
 - [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) - A window is too small for your long buffer? Then, try this!
 - [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) - modern alternative to easymotion written in vim9
 - [jessepav/vim-boxdraw](https://github.com/jessepav/vim-boxdraw) - Vim 9 plugin to draw boxes, tables, and lines
