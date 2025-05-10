@@ -1499,6 +1499,8 @@
 
 ## C++ 
 
+- [MrTransistorsChannel/TransistorSoldering_V3.0](https://github.com/MrTransistorsChannel/TransistorSoldering_V3.0) - Паяльная станция на Ардуино - версия 3.0
+- [MrTransistorsChannel/TransistorSoldering_V4.0](https://github.com/MrTransistorsChannel/TransistorSoldering_V4.0) - Прошивка для паяльной станции на Arduino версии 4.0
 - [br3ttb/Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library) - 
 - [avdwebLibraries/avdweb_AnalogReadFast](https://github.com/avdwebLibraries/avdweb_AnalogReadFast) - Fast analogRead 10/12 bit ADC for the Arduino Zero and Uno
 - [avdwebLibraries/wrapper_Fast-PWM-DAC](https://github.com/avdwebLibraries/wrapper_Fast-PWM-DAC) - Create a faster DAC than analogWrite() with the FastPWMdac library
@@ -2810,7 +2812,7 @@
 - [JeffersGlass/DDS_VFO](https://github.com/JeffersGlass/DDS_VFO) - Code for the arduino-controlled VFO based on the Si5351 chip
 - [vpyk/emu80v4](https://github.com/vpyk/emu80v4) - Emu80 emulator v.4 source code
 - [buggins/coolreader](https://github.com/buggins/coolreader) - Official site of CoolReader project. Sourceforge repository is obsolete.
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [chros73/rtorrent-ps-ch](https://github.com/chros73/rtorrent-ps-ch) - :art: Extended rTorrent distribution with UI enhancements, colorization, and some added features.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
@@ -7570,7 +7572,6 @@
 - [Neopallium/LuaNativeObjects](https://github.com/Neopallium/LuaNativeObjects) - A Lua bindings generator written in Lua.
 - [salviati/go-qt5](https://github.com/salviati/go-qt5) - qt5 bindings for go
 - [premake/premake-4.x](https://github.com/premake/premake-4.x) - Premake 4
-- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [EvandroLG/pegasus.lua](https://github.com/EvandroLG/pegasus.lua) - :rocket: Pegasus.lua is an http server to work with web applications written in Lua language.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [atercattus/luaghetti](https://github.com/atercattus/luaghetti) - Spaghetti html+lua code templater inside nginx
@@ -10398,6 +10399,7 @@
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for MSYS2.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
+- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
