@@ -264,6 +264,24 @@
 
 ## C 
 
+- [spm81/MCFW_UV-K5_Open_Source_Firmware](https://github.com/spm81/MCFW_UV-K5_Open_Source_Firmware) - MCFW - Matoz Custom Firmware Based on Fagci OEFW https://github.com/fagci/uv-k5-firmware-fagci-mod and DualTachyon OEFW https://github.com/DualTachyon/uv-k5-firmware
+- [embeddedartistry/arduino-printf](https://github.com/embeddedartistry/arduino-printf) - Add printf support to the Arduino SDK
+- [eyalroz/printf](https://github.com/eyalroz/printf) - Tiny, fast(ish), self-contained, fully loaded printf, sprinf etc. implementation; particularly useful in embedded systems.
+- [embeddedartistry/printf](https://github.com/embeddedartistry/printf) - Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc. implementation, mainly for embedded systems.
+- [mpaland/printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
+- [timmbogner/Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
+- [qshosfw/matoz](https://github.com/qshosfw/matoz) - CFW based on Matoz, Fagci, DualTachyon
+- [DualTachyon/uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
+- [DualTachyon/dp32g030-flash-loader](https://github.com/DualTachyon/dp32g030-flash-loader) - 
+- [fagci/s0v4](https://github.com/fagci/s0v4) - r3r3b0rn =D
+- [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
+- [losehu/uv-k5-qemu](https://github.com/losehu/uv-k5-qemu) - QEMU for uvk5
+- [schreibfaul1/ESP32-TFT-Library-ST7735](https://github.com/schreibfaul1/ESP32-TFT-Library-ST7735) - 
+- [schreibfaul1/ESP32-TFT-Library-ILI9341-HX8347D](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9341-HX8347D) - TFT Library for controller ILI9341 and HX8347D
+- [schreibfaul1/ESP32-TFT-Library-ILI9486](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9486) - A library for 3.5 inch RPi LCD (A) 320x480 display from Waveshare
+- [schreibfaul1/ESP32-MiniWebRadio](https://github.com/schreibfaul1/ESP32-MiniWebRadio) - Internetradio with ESP32, I2S DAC and SPI TFT Display with Touchpad
+- [yellobyte/ESP32-DevBoards-Getting-Started](https://github.com/yellobyte/ESP32-DevBoards-Getting-Started) - Getting started with various ESP32 development boards. Lots of examples.
+- [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [kubi48/avr-assembler-optiboot](https://github.com/kubi48/avr-assembler-optiboot) - Optiboot bootloader for AVR processors in assembler language
 - [kubi48/TransistorTester-source](https://github.com/kubi48/TransistorTester-source) - Sources of the Transistor Tester project
 - [Mikrocontroller-net/transistortester](https://github.com/Mikrocontroller-net/transistortester) - 
@@ -1525,6 +1543,30 @@
 
 ## C++ 
 
+- [VolosR/TEmbedFMRadio](https://github.com/VolosR/TEmbedFMRadio) - 
+- [esp32-si4732/ats-mini](https://github.com/esp32-si4732/ats-mini) - ATS Mini firmware fork
+- [imax9000/Arduino-PID-Library](https://github.com/imax9000/Arduino-PID-Library) - 
+- [javierbrk/Lua-Arduino-PID-Library](https://github.com/javierbrk/Lua-Arduino-PID-Library) - Translation of the arduino c++ lib into lua to be used with nodemcu
+- [mollohana/Arduino-PID-Library](https://github.com/mollohana/Arduino-PID-Library) - Modified to return PID terms
+- [samyarsadat/Pico-PID-Library](https://github.com/samyarsadat/Pico-PID-Library) - A fork of the Arduino PID library modified for use with the Raspberry Pi Pico.
+- [kaiaai/arduino_pid_timed](https://github.com/kaiaai/arduino_pid_timed) - Brett Beauregard's Arduino PID library adapted to non-uniform time sampling
+- [drf5n/Arduino-PID-Library](https://github.com/drf5n/Arduino-PID-Library) - 
+- [Dlloydev/sTune](https://github.com/Dlloydev/sTune) - Open loop PID autotuner using a novel s-curve inflection point test method. Tuning parameters are determined in about ½Tau on a first-order system with time delay. Full 5Tau testing and multiple seria
+- [Dlloydev/QuickPID](https://github.com/Dlloydev/QuickPID) - A fast PID controller with multiple options. Various Integral anti-windup, Proportional, Derivative and timer control modes.
+- [jhrg/Arduino-PID-Library](https://github.com/jhrg/Arduino-PID-Library) - For of br3ttb/Arduino-PID-Library that simplifies minimizing calls to analogRead()
+- [BlackJackGeary83/PID_V2](https://github.com/BlackJackGeary83/PID_V2) - Better PID with angle Wrap
+- [orgua/iLib](https://github.com/orgua/iLib) - Library for various I2C-Sensors with examples for Arduino
+- [avdwebLibraries/avdweb_FreqPeriodCounter](https://github.com/avdwebLibraries/avdweb_FreqPeriodCounter) - Smart library with comprehensive functions for counting (multiple) frequencies and period-times. For Arduino Uno and Zero.
+- [EnviroDIY/Arduino-SDI-12](https://github.com/EnviroDIY/Arduino-SDI-12) - An Arduino library for SDI-12 communication with a wide variety of environmental sensors. This library provides a general software solution, without requiring any additional hardware.
+- [joaquimorg/UV-KX](https://github.com/joaquimorg/UV-KX) - Open implementation of the Quansheng UV-K5/K6/5R firmware
+- [kapraran/FreqCountESP](https://github.com/kapraran/FreqCountESP) - A frequency counter library for esp32
+- [dpwe/FreqCountRP2](https://github.com/dpwe/FreqCountRP2) - Frequency Counter library for the RP2040 under the Arduino IDE.
+- [schreibfaul1/ESP8266-LED-Matrix-Clock](https://github.com/schreibfaul1/ESP8266-LED-Matrix-Clock) - Clock with six 8x8 Led-Matrix, watch my video at YouTube: https://www.youtube.com/watch?v=mea5-qX4O54
+- [schreibfaul1/ESP32-IR-Remote-Control](https://github.com/schreibfaul1/ESP32-IR-Remote-Control) - C++ class for the infrared remote control and reciever module
+- [schreibfaul1/ESP32-LED-Matrix-Clock](https://github.com/schreibfaul1/ESP32-LED-Matrix-Clock) - Clock with six 8x8 Led-Matrix, similar to my video at YouTube: https://www.youtube.com/watch?v=mea5-qX4O54
+- [schreibfaul1/ESP32-Opus-Player](https://github.com/schreibfaul1/ESP32-Opus-Player) - plays Opus files via I2S from SD card
+- [schreibfaul1/ESP32_Arduino_ESPIDF](https://github.com/schreibfaul1/ESP32_Arduino_ESPIDF) - 
+- [Yveaux/AC101](https://github.com/Yveaux/AC101) - AC101 audio codec driver library for Arduino
 - [liman324/AD7705](https://github.com/liman324/AD7705) - Скетч и описание
 - [BreweryArduino/BreweryArduino](https://github.com/BreweryArduino/BreweryArduino) - Контроллер для пивоварни
 - [AussieMakerGeek/TDA7439](https://github.com/AussieMakerGeek/TDA7439) - Arduino library for the TDA7439 sound processor by ST
@@ -4058,7 +4100,7 @@
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [hudclark/grpc-nvim](https://github.com/hudclark/grpc-nvim) - Grpc Client for Neovim
 - [aileot/nvim-fnl](https://github.com/aileot/nvim-fnl) - Neovim config under fnl/ from my private dotfiles
-- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of macros for Neovim, highly inspired by Vim script, and Nvim Lua-Vimscript bridge on metatable
+- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - A set of macros for nvim, simpler than in Lua, more flexible than in Vim script
 - [n-shift/lens.nvim](https://github.com/n-shift/lens.nvim) - Git workflow for neovim
 - [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) - 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
@@ -4489,6 +4531,7 @@
 
 ## HTML 
 
+- [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [gkiefer/home2l](https://github.com/gkiefer/home2l) - The Home2Ls - Smart Tools for a Private Home
 - [tabemann/zeptoscript](https://github.com/tabemann/zeptoscript) - A Forth-based dynamic scripting language
 - [deividAlfa/t12-t245-controllers-docs](https://github.com/deividAlfa/t12-t245-controllers-docs) - 
@@ -4634,6 +4677,7 @@
 
 ## Java 
 
+- [exbin/bined-android](https://github.com/exbin/bined-android) - BinEd Hex Editor for Android
 - [vmihalachi/turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.
 - [olgamiller/SSTVEncoder2](https://github.com/olgamiller/SSTVEncoder2) - Send images via SSTV
 - [mstrobel/procyon](https://github.com/mstrobel/procyon) - Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
@@ -5034,6 +5078,7 @@
 
 ## Kotlin 
 
+- [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [w2sv/WiFi-Widget](https://github.com/w2sv/WiFi-Widget) - Android app providing a fully configurable widget for the monitoring of your WiFi connection details.
@@ -7840,6 +7885,8 @@
 
 ## Others 
 
+- [mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) - Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7
+- [AI6YP/VSWR](https://github.com/AI6YP/VSWR) - VSWR / Return loss analyzer
 - [kubi48/TransistorTester-old-versions](https://github.com/kubi48/TransistorTester-old-versions) - Collection of old Transistor Tester sources and documentations
 - [OwnedByWuigi/sv32](https://github.com/OwnedByWuigi/sv32) - Community effort to make 11 21H2 PE "desktop" experience
 - [selfrender/Windows-Server-2003](https://github.com/selfrender/Windows-Server-2003) - This is the leaked source code of Windows Server 2003
@@ -8509,6 +8556,7 @@
 
 ## Python 
 
+- [felias-fogg/dw-gdbserver](https://github.com/felias-fogg/dw-gdbserver) - A Python script implementing a gdbserver interfacing to debugWIRE MCUs
 - [kannibalox/pyrosimple](https://github.com/kannibalox/pyrosimple) - An overhauled fork of the pyrocore tools for rTorrent
 - [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
