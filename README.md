@@ -304,7 +304,6 @@
 - [schreibfaul1/ESP32-TFT-Library-ILI9486](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9486) - A library for 3.5 inch RPi LCD (A) 320x480 display from Waveshare
 - [schreibfaul1/ESP32-MiniWebRadio](https://github.com/schreibfaul1/ESP32-MiniWebRadio) - Internetradio with ESP32, I2S DAC and SPI TFT Display with Touchpad
 - [yellobyte/ESP32-DevBoards-Getting-Started](https://github.com/yellobyte/ESP32-DevBoards-Getting-Started) - Getting started with various ESP32 development boards. Lots of examples.
-- [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [kubi48/avr-assembler-optiboot](https://github.com/kubi48/avr-assembler-optiboot) - Optiboot bootloader for AVR processors in assembler language
 - [kubi48/TransistorTester-source](https://github.com/kubi48/TransistorTester-source) - Sources of the Transistor Tester project
 - [Mikrocontroller-net/transistortester](https://github.com/Mikrocontroller-net/transistortester) - 
@@ -920,6 +919,7 @@
 - [petrihakkinen/lua-array](https://github.com/petrihakkinen/lua-array) - This is a experimental patch for Lua 5.4-work1 that adds first class support for arrays.
 - [lunarmodules/lua-compat-5.3](https://github.com/lunarmodules/lua-compat-5.3) - Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1
 - [NTBBloodbath/st](https://github.com/NTBBloodbath/st) - My personal suckless terminal build
+- [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [avahi/nss-mdns](https://github.com/avahi/nss-mdns) - nss-mdns is a plugin for the GNU Name Service Switch (NSS) functionality of the GNU C Library (glibc) providing host name resolution via Multicast DNS (aka Zeroconf, aka Apple Rendezvous, aka Apple Bo
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
@@ -1607,6 +1607,7 @@
 - [schreibfaul1/ESP32-LED-Matrix-Clock](https://github.com/schreibfaul1/ESP32-LED-Matrix-Clock) - Clock with six 8x8 Led-Matrix, similar to my video at YouTube: https://www.youtube.com/watch?v=mea5-qX4O54
 - [schreibfaul1/ESP32_Arduino_ESPIDF](https://github.com/schreibfaul1/ESP32_Arduino_ESPIDF) - 
 - [Yveaux/AC101](https://github.com/Yveaux/AC101) - AC101 audio codec driver library for Arduino
+- [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [liman324/AD7705](https://github.com/liman324/AD7705) - Скетч и описание
 - [BreweryArduino/BreweryArduino](https://github.com/BreweryArduino/BreweryArduino) - Контроллер для пивоварни
 - [AussieMakerGeek/TDA7439](https://github.com/AussieMakerGeek/TDA7439) - Arduino library for the TDA7439 sound processor by ST
@@ -2702,7 +2703,6 @@
 - [hchunhui/librime-lua](https://github.com/hchunhui/librime-lua) - Extending RIME with Lua scripts
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
 - [Iskustvo/i3-ipcpp](https://github.com/Iskustvo/i3-ipcpp) - i3-ipc++ is a C++ library that implements the i3 IPC protocol.
-- [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [franko/graph-toolkit](https://github.com/franko/graph-toolkit) - Lua Graphics Toolkit
 - [axilmar/parserlib](https://github.com/axilmar/parserlib) - A c++17 recursive-descent generic parsing library that supports left recursion, tokenization, AST tree creation, multiple error handling etc..
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
@@ -2792,7 +2792,7 @@
 - [pavel-pimenov/flylinkdc-r5xx](https://github.com/pavel-pimenov/flylinkdc-r5xx) - flylinkdc-r5xx
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [torch/qtlua](https://github.com/torch/qtlua) - Lua interface to QT library
-- [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling wm using space partitioning trees (SITCON 2019)
+- [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees
 - [nmapsi4/nmapsi4](https://github.com/nmapsi4/nmapsi4) - NmapSi4 is a complete Qt-based Gui with the design goals to provide a complete nmap interface for Users, in order to management all options of this powerful security net scanner!
 - [sdhzdmzzl/iptv_channel_scanner_linux](https://github.com/sdhzdmzzl/iptv_channel_scanner_linux) - scan iptv channel in linux
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
