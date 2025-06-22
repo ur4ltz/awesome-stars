@@ -112,6 +112,7 @@
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
+- [VBA](#vba)
 - [VHDL](#vhdl)
 - [Vala](#vala)
 - [Verilog](#verilog)
@@ -177,6 +178,11 @@
 
 ## Assembly 
 
+- [glitchwrks/kermit80](https://github.com/glitchwrks/kermit80) - KERMIT for CP/M-80
+- [glitchwrks/ehbasic_r6501](https://github.com/glitchwrks/ehbasic_r6501) - EhBASIC Port for the Rockwell R6501 Family
+- [glitchwrks/gwmon-65](https://github.com/glitchwrks/gwmon-65) - Glitch Works Monitor for 6502 and Compatible
+- [glitchwrks/gwmon-80](https://github.com/glitchwrks/gwmon-80) - Glitch Works Monitor targeted toward the 8080/8085/Z80 CPUs
+- [chapmajs/glitchworks_monitor](https://github.com/chapmajs/glitchworks_monitor) - Glitch Works Monitor targeted toward the 8080/8085/Z80 CPUs
 - [oh2aun/flashforth](https://github.com/oh2aun/flashforth) - FlashForth development
 - [CableGuy67/AmForth](https://github.com/CableGuy67/AmForth) - This forked version of AmForth is only for AVR8 chips and adds avra as an assembler. Only use the appl/avr8-app-template at the moment.
 - [TomNisbet/Simple8085](https://github.com/TomNisbet/Simple8085) - A simple Intel 8085-based computer design
@@ -271,6 +277,14 @@
 
 ## C 
 
+- [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
+- [neoxic/lua-json](https://github.com/neoxic/lua-json) - JSON encoding/decoding module for Lua
+- [arcapos/luajson](https://github.com/arcapos/luajson) - JSON for Lua
+- [wahern/lunix](https://github.com/wahern/lunix) - Lua Unix Module.
+- [pallene-lang/pallene-tracer](https://github.com/pallene-lang/pallene-tracer) - Pallene Tracer is a mechanism and protocol for Lua C modules to have proper tracebacks
+- [hugomg/lua-aot-5.4](https://github.com/hugomg/lua-aot-5.4) - An ahead-of-time compiler for Lua 5.4
+- [pallene-lang/lua-internals](https://github.com/pallene-lang/lua-internals) - Patched version of Lua, exposing internal APIs
+- [glitchwrks/a85](https://github.com/glitchwrks/a85) - A85 Cross Assembler
 - [zherlitsyn/oscilloscope](https://github.com/zherlitsyn/oscilloscope) - A simple oscilloscope based on STM32F411CEU6
 - [UA6EM/Digital_VFO_with_analog_dial_V2](https://github.com/UA6EM/Digital_VFO_with_analog_dial_V2) - 
 - [UA6EM/ayn-4b-New](https://github.com/UA6EM/ayn-4b-New) - 
@@ -1534,6 +1548,7 @@
 
 ## C# # 
 
+- [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [Krusen/BencodeNET](https://github.com/Krusen/BencodeNET) - .NET library for encoding/decoding bencode and reading/writing torrent files
 - [Maximus5/conemu-inside](https://github.com/Maximus5/conemu-inside) - An example, how to embed http://conemu.github.io/ into another graphical application
 - [Igor-kor/ArduinoDiagramm](https://github.com/Igor-kor/ArduinoDiagramm) - Построение графика, для данных из порта ардуино
@@ -1562,6 +1577,10 @@
 
 ## C++ 
 
+- [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
+- [steeve/libtorrent-go](https://github.com/steeve/libtorrent-go) - SWIG Go bindings for libtorrent-rasterbar
+- [winslygeorge/luauwebsockets](https://github.com/winslygeorge/luauwebsockets) - a lua FFI luajit warpper for uWebSockets c++ library
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [asukiaaa/SomeSerial](https://github.com/asukiaaa/SomeSerial) - An Arduino library to wrap multiple kind of serials.
 - [Edzelf/ESP32Radio-V2](https://github.com/Edzelf/ESP32Radio-V2) - New version of the well known ESP32 Radio.  Now optional I2S output!
 - [Edzelf/ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
@@ -3986,7 +4005,6 @@
 - [a13/emacs.d](https://github.com/a13/emacs.d) - 
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
-- [galczo5/dotfiles](https://github.com/galczo5/dotfiles) - 
 - [skeeto/.emacs.d](https://github.com/skeeto/.emacs.d) - My personal .emacs.d
 - [aspiers/emacs](https://github.com/aspiers/emacs) - Adam's emacs config
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
@@ -4203,6 +4221,7 @@
 - [Fmulder007/Karat-3.5](https://github.com/Fmulder007/Karat-3.5) - Karat-3.5
 - [Fmulder007/Karat2N_synt](https://github.com/Fmulder007/Karat2N_synt) - Проект модернизации радиостанции Карат-2Н от UD0CAJ
 - [dawsonjon/101Things](https://github.com/dawsonjon/101Things) - A collection of cool projects to make!
+- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 - [yorikvanhavre/FreeCAD-manual](https://github.com/yorikvanhavre/FreeCAD-manual) - An experiment at reorganizing the contents of the FreeCAD wiki in an easier, friendlier book-like manner. The manual is now hosted on the FreeCAD wiki
 
 ## GDScript 
@@ -4222,6 +4241,8 @@
 
 ## Go 
 
+- [porla/cli](https://github.com/porla/cli) - A neat CLI for remotely managing Porla.
+- [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli) - MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [rakshasa/rtorrent-cli](https://github.com/rakshasa/rtorrent-cli) - Dependency-Free RTorrent CLI Tool
@@ -5076,6 +5097,7 @@
 
 ## Jinja 
 
+- [RealTimeLogic/MakoInstaller](https://github.com/RealTimeLogic/MakoInstaller) - Linux Mako Server Ansible Installation Script
 - [geerlingguy/turing-pi-cluster](https://github.com/geerlingguy/turing-pi-cluster) - DEPRECATED - Turing Pi cluster configuration for Raspberry Pi Compute Modules
 
 ## Julia 
@@ -5135,6 +5157,7 @@
 
 ## Kotlin 
 
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
@@ -5186,6 +5209,9 @@
 
 ## Lua 
 
+- [RealTimeLogic/BAS-Resources](https://github.com/RealTimeLogic/BAS-Resources) - The Barracuda App Server's resource files
+- [hjson/hjson-lua](https://github.com/hjson/hjson-lua) - A lightweight H/JSON library for Lua
+- [tiye/json-lua](https://github.com/tiye/json-lua) - JSON encoder/decoder
 - [Saghen/blink.download](https://github.com/Saghen/blink.download) - Neovim library for downloading shared libraries
 - [Saghen/neovim-lua-rust-template](https://github.com/Saghen/neovim-lua-rust-template) - Template for writing plugins for Neovim in Lua and Rust
 - [Saghen/nvim](https://github.com/Saghen/nvim) - Personal neovim configuration
@@ -7990,6 +8016,9 @@
 
 ## Others 
 
+- [glitchwrks/rsc_forth](https://github.com/glitchwrks/rsc_forth) - Rockwell RSC-FORTH for the R6500 family
+- [glitchwrks/xt_ide](https://github.com/glitchwrks/xt_ide) - XT-IDE 8-Bit IDE Controller
+- [glitchwrks/8085_sbc](https://github.com/glitchwrks/8085_sbc) - Glitch Works 8085 SBC
 - [offpic/OSCILLOSCOPE-STM32-ILI9341-SPI-TFT-STM32F411CEU6](https://github.com/offpic/OSCILLOSCOPE-STM32-ILI9341-SPI-TFT-STM32F411CEU6) - OSCILLOSCOPE STM32 ILI9341 SPI TFT STM32F411CEU6
 - [UA6EM/hbr-mk2-New](https://github.com/UA6EM/hbr-mk2-New) - 
 - [WeActStudio/WeAct-ST7735](https://github.com/WeActStudio/WeAct-ST7735) - ST7735 1,8 inch size display module .Power by WeAct Studio.
@@ -8166,7 +8195,6 @@
 - [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
-- [cpea2506/dark-flat-wezterm](https://github.com/cpea2506/dark-flat-wezterm) - A dark flat color scheme for Wezterm
 - [danymat/norg_notes](https://github.com/danymat/norg_notes) - 
 - [AndronixApp/andronix-external-app](https://github.com/AndronixApp/andronix-external-app) - Collection of all the external/third-party softwares for easier processing. We don't own any rights to the files included
 - [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
@@ -8320,7 +8348,6 @@
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [josefadamcik/Lily58](https://github.com/josefadamcik/Lily58) - Fork of Lily58 keyboard as a base for modified version.
 - [hslua/lua-style-guide](https://github.com/hslua/lua-style-guide) - Lua style guide
-- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 - [enricozb/lean.kak](https://github.com/enricozb/lean.kak) - Minimal Lean syntax highlighting, intermediate evaluation, and LaTeX completions
 - [skiselev/micro_8088](https://github.com/skiselev/micro_8088) - Micro 8088 - IBM XT Compatible Processor Board based on Faraday FE2010 chipset
 - [nvim-lua/marks.nvim](https://github.com/nvim-lua/marks.nvim) - Marks related utilties
@@ -10889,6 +10916,10 @@
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [NTBBloodbath/nvenv](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 
+## VBA 
+
+- [glitchwrks/tiny_basic_r6501](https://github.com/glitchwrks/tiny_basic_r6501) - 
+
 ## VHDL 
 
 - [freitz85/AppleIISd](https://github.com/freitz85/AppleIISd) - SD card based ProFile replacement for IIe
@@ -11970,6 +12001,7 @@
 - [bling/vim-bufferline](https://github.com/bling/vim-bufferline) - super simple vim plugin to show the list of buffers in the command bar
 - [novadev94/vim-bufferline](https://github.com/novadev94/vim-bufferline) - super simple vim plugin to show the list of buffers in the command bar
 - [novadev94/lightline-onedark](https://github.com/novadev94/lightline-onedark) - A lightline.vim theme for onedark.vim colorscheme
+- [galczo5/dotfiles](https://github.com/galczo5/dotfiles) - 
 - [josuegaleas/jay](https://github.com/josuegaleas/jay) - Yet another Vim colorscheme on GitHub. Inspired by Molokai.
 - [jsit/disco.vim](https://github.com/jsit/disco.vim) - A full set of 2-, 8-, 16-, 88-, 256-, and GUI-color-compatible Vim colors.
 - [skielbasa/vim-material-monokai](https://github.com/skielbasa/vim-material-monokai) - A dark Material Design version of Monokai for Vim
