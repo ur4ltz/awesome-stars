@@ -277,6 +277,8 @@
 
 ## C 
 
+- [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
+- [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
 - [neoxic/lua-json](https://github.com/neoxic/lua-json) - JSON encoding/decoding module for Lua
 - [arcapos/luajson](https://github.com/arcapos/luajson) - JSON for Lua
@@ -1577,6 +1579,9 @@
 
 ## C++ 
 
+- [hrkfdn/hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
+- [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
+- [OlafvdSpek/xbt](https://github.com/OlafvdSpek/xbt) - High-Performance BitTorrent Tracker
 - [porla/porla](https://github.com/porla/porla) - A high performance BitTorrent client for servers and seedboxes.
 - [steeve/libtorrent-go](https://github.com/steeve/libtorrent-go) - SWIG Go bindings for libtorrent-rasterbar
 - [winslygeorge/luauwebsockets](https://github.com/winslygeorge/luauwebsockets) - a lua FFI luajit warpper for uWebSockets c++ library
@@ -3467,7 +3472,7 @@
 - [neckoPecker/.emacs.d](https://github.com/neckoPecker/.emacs.d) - 
 - [magit/transient](https://github.com/magit/transient) - Transient commands
 - [mrcnski/nimbus-theme](https://github.com/mrcnski/nimbus-theme) - Nimbus dark theme for Emacs. Beautiful, slightly retro, yet readable and easy on the eyes.
-- [prettier/prettier-emacs](https://github.com/prettier/prettier-emacs) - Minor mode to format JS code on file save
+- [prettier/prettier-emacs](https://github.com/prettier/prettier-emacs) - Minor mode to format code on file save
 - [pythonic-emacs/blacken](https://github.com/pythonic-emacs/blacken) - Python Black for Emacs
 - [shackra/emacs](https://github.com/shackra/emacs) - Mi configuración de GNU Emacs, usando org-mode y org-babel :)
 - [novoid/dot-emacs](https://github.com/novoid/dot-emacs) - My GNU/Emacs configuration
@@ -4749,6 +4754,7 @@
 
 ## Java 
 
+- [TylerWilliamson/BatteryNotification](https://github.com/TylerWilliamson/BatteryNotification) - Creates a persistent notification to see battery information at a glance!
 - [mkeller0815/MEEPROMMER](https://github.com/mkeller0815/MEEPROMMER) - EEPROM / EPROM programmer based on Arduino hardware
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 - [exbin/bined-android](https://github.com/exbin/bined-android) - BinEd Hex Editor for Android
@@ -4836,6 +4842,9 @@
 
 ## JavaScript 
 
+- [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
+- [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
+- [webtorrent/node-bencode](https://github.com/webtorrent/node-bencode) - bencode de/encoder for nodejs
 - [sublimelsp/LSP-cspell](https://github.com/sublimelsp/LSP-cspell) - Spell check support for Sublime's LSP plugin provided through cspell.
 - [svofski/vector06js](https://github.com/svofski/vector06js) - vector06js Vector-06c Emulator in JavaScript
 - [bajrangCoder/acode-plugin-acodex](https://github.com/bajrangCoder/acode-plugin-acodex) - AcodeX - A Terminal plugin for Acode App
@@ -5209,6 +5218,8 @@
 
 ## Lua 
 
+- [acidpop/bot](https://github.com/acidpop/bot) - Acidpop Telegram BOT Script
+- [LuaDist/bencode](https://github.com/LuaDist/bencode) - Library for encoding and decoding bencoded data.
 - [RealTimeLogic/BAS-Resources](https://github.com/RealTimeLogic/BAS-Resources) - The Barracuda App Server's resource files
 - [hjson/hjson-lua](https://github.com/hjson/hjson-lua) - A lightweight H/JSON library for Lua
 - [tiye/json-lua](https://github.com/tiye/json-lua) - JSON encoder/decoder
@@ -7932,6 +7943,7 @@
 
 ## Nim 
 
+- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [pysan3/minorg](https://github.com/pysan3/minorg) - pandoc -&gt; norg converter written in the Nim language.
 - [zevv/nim-arduino](https://github.com/zevv/nim-arduino) - Trying to get Nim integrated into arduino IDE
 - [markspanbroek/nim-arduino](https://github.com/markspanbroek/nim-arduino) - Arduino bindings for Nim
@@ -8016,6 +8028,7 @@
 
 ## Others 
 
+- [FrankBoesing/Teensy64](https://github.com/FrankBoesing/Teensy64) - C64 Emulation on a Teensy 3.6
 - [glitchwrks/rsc_forth](https://github.com/glitchwrks/rsc_forth) - Rockwell RSC-FORTH for the R6500 family
 - [glitchwrks/xt_ide](https://github.com/glitchwrks/xt_ide) - XT-IDE 8-Bit IDE Controller
 - [glitchwrks/8085_sbc](https://github.com/glitchwrks/8085_sbc) - Glitch Works 8085 SBC
@@ -8150,7 +8163,6 @@
 - [lethalbit/arcana-kicad](https://github.com/lethalbit/arcana-kicad) - My personal color scheme for KiCad
 - [AlexanderBrevig/kicad-gruvbox-theme](https://github.com/AlexanderBrevig/kicad-gruvbox-theme) - Gruvbox for KiCAD - THE FUTURE IS HERE
 - [storef/ch341.driver](https://github.com/storef/ch341.driver) - CH340 Drivers for Windows, Mac and Linux
-- [AndrewChqng/Chroot-on-android](https://github.com/AndrewChqng/Chroot-on-android) - Android chroot guide.
 - [DoDoENT/neovim-additional-tasks](https://github.com/DoDoENT/neovim-additional-tasks) - Additional tasks for Shatur/neovim-tasks
 - [JChristensen/tinyTimer](https://github.com/JChristensen/tinyTimer) - A small battery-operated timer based on an ATtiny84A.
 - [JChristensen/usb-condom](https://github.com/JChristensen/usb-condom) - A little something for the tinfoil hat crowd.
@@ -8697,6 +8709,7 @@
 
 ## Python 
 
+- [7sDream/torrent_parser](https://github.com/7sDream/torrent_parser) - A .torrent file parser and creator for both Python 2 and 3
 - [dbcli/mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 - [dbcli/cli_helpers](https://github.com/dbcli/cli_helpers) - Python helpers for common CLI tasks
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
@@ -9654,7 +9667,6 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [nim65s/jbz](https://github.com/nim65s/jbz) - 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [swsnr/git-gone](https://github.com/swsnr/git-gone) - Cleanup stale Git branches of pull requests
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [enricozb/tree-sitter.kak](https://github.com/enricozb/tree-sitter.kak) - tree-sitter server for kakoune
 - [hadronized/kak-tree-sitter](https://github.com/hadronized/kak-tree-sitter) - tree-sitter meets Kakoune
@@ -9988,6 +10000,7 @@
 - [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [chrisgrieser/zsh-magic-dashboard](https://github.com/chrisgrieser/zsh-magic-dashboard) - Pressing "enter" on an empty buffer displays an information-rich and pretty dashboard.
+- [AndrewChqng/Chroot-on-android](https://github.com/AndrewChqng/Chroot-on-android) - Android chroot guide + other useful scripts
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [JChristensen/backup](https://github.com/JChristensen/backup) - A simple rsync backup script
 - [JChristensen/Trace](https://github.com/JChristensen/Trace) - Bash script to run traceroute for a given IP and log the results to a file.
@@ -10571,6 +10584,7 @@
 - [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) - Auto install script for rTorrent with ruTorrent
 - [edouard-lopez/record-gif.sh](https://github.com/edouard-lopez/record-gif.sh) - Based on `byzanz-record-region` from http://askubuntu.com/a/201018/22343
 - [cgoodrich/byzanz](https://github.com/cgoodrich/byzanz) - unix gif screencasts
+- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [porras/i3-keyboard-layout](https://github.com/porras/i3-keyboard-layout) - Change keyboard layout with a keystroke + show it in the status bar
 - [okraits/boosta](https://github.com/okraits/boosta) - Easy bookmark management with rofi
 - [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
@@ -11850,7 +11864,6 @@
 - [chrisbra/CheckAttach](https://github.com/chrisbra/CheckAttach) - Check for attachments when writing mails with mutt
 - [chrisbra/vim-zsh](https://github.com/chrisbra/vim-zsh) - Official Vim Runtime Files for Zsh
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
-- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [farisachugthai/viconf](https://github.com/farisachugthai/viconf) - My (n)Vim config files
 - [liuchengxu/space-vim-theme](https://github.com/liuchengxu/space-vim-theme) - :blossom: A dark and light colorscheme for space-vim that supports GUI & terminal
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
