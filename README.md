@@ -137,7 +137,7 @@
 
 ## Adblock Filter List 
 
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 
 ## Arduino 
 
@@ -178,6 +178,11 @@
 
 ## Assembly 
 
+- [nanochess/bootBASIC](https://github.com/nanochess/bootBASIC) - bootBASIC is a BASIC language in 512 bytes of x86 machine code.
+- [nanochess/tinyasm](https://github.com/nanochess/tinyasm) - Tiny assembler for 8086/8088, able to run over DOS for 8086/8088 machines.
+- [pts/insight-mininasm](https://github.com/pts/insight-mininasm) - compiling the Insight real-mode DOS 16-bit debugger with mininasm
+- [pts/mininasm](https://github.com/pts/mininasm) - NASM-compatible mini assembler for 8086, 186 and 286, able to run on DOS and on modern systems
+- [tstamborski/wild-snake-boa-ii](https://github.com/tstamborski/wild-snake-boa-ii) - A snake game for MS-DOS. 🐍
 - [glitchwrks/kermit80](https://github.com/glitchwrks/kermit80) - KERMIT for CP/M-80
 - [glitchwrks/ehbasic_r6501](https://github.com/glitchwrks/ehbasic_r6501) - EhBASIC Port for the Rockwell R6501 Family
 - [glitchwrks/gwmon-65](https://github.com/glitchwrks/gwmon-65) - Glitch Works Monitor for 6502 and Compatible
@@ -277,6 +282,13 @@
 
 ## C 
 
+- [ImpulseAdventure/GUIslice](https://github.com/ImpulseAdventure/GUIslice) - GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL
+- [fagci/hawk5](https://github.com/fagci/hawk5) - R3s0v4
+- [Baron-von-Riedesel/JWasm](https://github.com/Baron-von-Riedesel/JWasm) - Masm compatible assembler
+- [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
+- [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
+- [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
+- [dschp/uvllhttpd](https://github.com/dschp/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -1579,6 +1591,7 @@
 
 ## C++ 
 
+- [HarringayMakerSpace/ESP-Now](https://github.com/HarringayMakerSpace/ESP-Now) - ESP-Now Examples
 - [hrkfdn/hrktorrent](https://github.com/hrkfdn/hrktorrent) - hrktorrent is a light console torrent client written in C++, using rasterbar's libtorrent.
 - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
 - [OlafvdSpek/xbt](https://github.com/OlafvdSpek/xbt) - High-Performance BitTorrent Tracker
@@ -2795,7 +2808,6 @@
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 - [ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects
 - [kapecp/LRDB](https://github.com/kapecp/LRDB) - Lua Remote DeBugger
-- [francescmm/GitQlientPlugin](https://github.com/francescmm/GitQlientPlugin) - GitQlientPlugin provides you a plugin to integrate Git in QtCreator full UI oriented
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [Dax89/QHexView](https://github.com/Dax89/QHexView) - A versatile Hexadecimal widget for Qt6 (and Qt5)
 - [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
@@ -3071,6 +3083,7 @@
 - [brodo/arduino-cmake](https://github.com/brodo/arduino-cmake) - Arduino CMake Build system
 - [tttapa/Arduino-AVR-CMake](https://github.com/tttapa/Arduino-AVR-CMake) - Compile Arduino AVR programs using CMake.
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
+- [francescmm/GitQlientPlugin](https://github.com/francescmm/GitQlientPlugin) - GitQlientPlugin provides you a plugin to integrate Git in QtCreator full UI oriented
 - [arduino-cmake/Arduino-CMake-NG](https://github.com/arduino-cmake/Arduino-CMake-NG) - CMake-Based framework for Arduino platforms
 - [a9183756-gh/Arduino-CMake-Toolchain](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all Arduino compatible boards
 - [KiCad/kicad-doc](https://github.com/KiCad/kicad-doc) - KiCad new documentation repository [moved to https://gitlab.com/kicad/services/kicad-doc]
@@ -3438,6 +3451,7 @@
 - [amirrezaask/Rhythmbox.el](https://github.com/amirrezaask/Rhythmbox.el) - Rhythmbox controller for Emacs using Linux DBus
 - [amirrezaask/imax](https://github.com/amirrezaask/imax) - imax
 - [amirrezaask/gamer.el](https://github.com/amirrezaask/gamer.el) - Make Emacs keybindings as sane as possible
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [Gavinok/emacs.d](https://github.com/Gavinok/emacs.d) - nothing to see here 👀
 - [xFA25E/sxhkd-mode](https://github.com/xFA25E/sxhkd-mode) - Emacs mode for editing sxhkd configuration file
@@ -5088,7 +5102,6 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -5191,7 +5204,7 @@
 - [EmmyLua/EmmyLua-Unity](https://github.com/EmmyLua/EmmyLua-Unity) - EmmyLua unity3d plugin
 - [barbeau/gpstest](https://github.com/barbeau/gpstest) - The #1 open-source Android GNSS/GPS test program
 - [EmmyLua/IntelliJ-EmmyLua](https://github.com/EmmyLua/IntelliJ-EmmyLua) - Lua IDE/Debugger Plugin for IntelliJ IDEA
-- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
+- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
 
 ## LLVM 
 
@@ -6932,7 +6945,6 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -8179,7 +8191,7 @@
 - [yegappan/VimScriptForPythonDevelopers](https://github.com/yegappan/VimScriptForPythonDevelopers) - Vim Script For Python Developers
 - [veebch/boostbox](https://github.com/veebch/boostbox) - Some notes on a cli terminal, upcycling an old super 8 film viewer
 - [adityadaniel/gruvbox-baby-xcode](https://github.com/adityadaniel/gruvbox-baby-xcode) - Port of Gruvbox Baby vim colorscheme for Xcode
-- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
+- [syndrizzle/hotfiles](https://github.com/syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
 - [devcu/IPS-BitTracker](https://github.com/devcu/IPS-BitTracker) - Bit Torrent Tracker application for IPS 4.5x Community Suite
@@ -8619,6 +8631,21 @@
 
 ## Pascal 
 
+- [fredvs/Azote](https://github.com/fredvs/Azote) - Fast and lightweight AArch64 disassembler.
+- [graemeg/fpGUI](https://github.com/graemeg/fpGUI) - fpGUI Toolkit  is a cross-platform GUI toolkit using Free Pascal
+- [galaxysite/gorg64](https://github.com/galaxysite/gorg64) - The organizer includes a clock with an alarm, a scheduler, a notebook and a tool for working with a clipboard.  For GNU/Linux 64 bit version.
+- [fredvs/WavvieW](https://github.com/fredvs/WavvieW) - WavvieW: Analyzes the noise-wave-generator, synthesizer, audio files, input-mic_line-in with Oscilloscope and Spectrum FFT.
+- [fredvs/swp](https://github.com/fredvs/swp) - Simple Webstream Player, to listen and record web radios and other streams.
+- [fredvs/ideU](https://github.com/fredvs/ideU) - The ide. Universal.
+- [mse-org/mseuniverse](https://github.com/mse-org/mseuniverse) - Some applications and samples of MSEgui.
+- [mse-org/mseide-msegui](https://github.com/mse-org/mseide-msegui) - MSEide is a Rapid Application Development IDE for platform independent rich GUI applications in the Pascal language. It comes with its own GUI toolkit called MSEgui. Binaries: https://github.com/mse-o
+- [fredvs/uos](https://github.com/fredvs/uos) - United Open-libraries of Sound. United procedures for open-source audio libraries. For FPC/Lazarus/fpGUI/MSEgui.
+- [mriscoc/uEControls](https://github.com/mriscoc/uEControls) - Open source set of instrumentation controls.
+- [synopse/mORMot](https://github.com/synopse/mORMot) - Synopse mORMot 1 ORM/SOA/MVC framework - Please upgrade to mORMot 2 !
+- [Alexey-T/EControl](https://github.com/Alexey-T/EControl) - Syntax parser from EControl SDK, ported to Lazarus
+- [synopse/mORMot2](https://github.com/synopse/mORMot2) - OpenSource RESTful ORM/SOA/MVC ToolBox for Delphi and FreePascal
+- [risoflora/brookfreepascal](https://github.com/risoflora/brookfreepascal) - The perfect Free Pascal framework for your web applications.
+- [risoflora/brookframework](https://github.com/risoflora/brookframework) - Microframework which helps to develop web Pascal applications.
 - [serge-404/OriZEmu](https://github.com/serge-404/OriZEmu) - Orion-128 and Orion-PRO homebrew 8-bit computer emulator
 - [dilshan/avr-hv2](https://github.com/dilshan/avr-hv2) - AVR High Voltage Programmer 2
 - [nodemcu/nodemcu-flasher](https://github.com/nodemcu/nodemcu-flasher) - A firmware Flash tool for nodemcu
@@ -8781,7 +8808,7 @@
 - [HollowHunter/Arduino-Control-System](https://github.com/HollowHunter/Arduino-Control-System) - Программа на pyton, позволяющая управлять ардуиной при помощи созданного интерфейса
 - [M17-Project/OpenHT-hw](https://github.com/M17-Project/OpenHT-hw) - Repository for the hardware parts of the OpenHT project
 - [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface
-- [asdil12/pymultimonaprs](https://github.com/asdil12/pymultimonaprs) - RF 2 APRS-IS Gateway
+- [aylen384/pymultimonaprs](https://github.com/aylen384/pymultimonaprs) - RF 2 APRS-IS Gateway
 - [agustinmartino/wsjtx_transceiver_interface](https://github.com/agustinmartino/wsjtx_transceiver_interface) - A Python server to interface Arduino transmitter with WSJTX
 - [rtmrtmrtmrtm/weakmon](https://github.com/rtmrtmrtmrtm/weakmon) - Sound-card software for FT8, JT65A, and WSPR.
 - [michalin/easysdr](https://github.com/michalin/easysdr) - Super Simple SDR Receiver
@@ -10745,6 +10772,7 @@
 
 ## TypeScript 
 
+- [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [xuhuanzy/VSCode-EmmyLua-Luals](https://github.com/xuhuanzy/VSCode-EmmyLua-Luals) - Lua IDE Plugin for VSCode
@@ -10921,6 +10949,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
