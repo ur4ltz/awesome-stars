@@ -178,6 +178,8 @@
 
 ## Assembly 
 
+- [michalin/ZX2020](https://github.com/michalin/ZX2020) - A super-simple Z80 based computer that runs CP/M
+- [michalin/ZX2022](https://github.com/michalin/ZX2022) - Another DIY Z80 Computer With CP/M
 - [skx/z80-playground-cpm-fat](https://github.com/skx/z80-playground-cpm-fat) - CP/M for the Z80 Playground that runs on the FAT disk format
 - [labomb/Build-CPM3-On-Unix](https://github.com/labomb/Build-CPM3-On-Unix) - Source files and tools required to build the CP/M 3 operating system on the Unix platform.
 - [durgadas311/cpnet-z80](https://github.com/durgadas311/cpnet-z80) - 
@@ -289,6 +291,7 @@
 
 ## C 
 
+- [tree-sitter-grammars/tree-sitter-kdl](https://github.com/tree-sitter-grammars/tree-sitter-kdl) - KDL grammar for tree-sitter
 - [db-electronics/asmx](https://github.com/db-electronics/asmx) - Fork of Bruce Tomlin's ASMX cross-assembler
 - [lynchaj/rhyophyre](https://github.com/lynchaj/rhyophyre) - Single Board Computer featuring Zilog Z180 processor and NEC µPD7220 Graphics Display Controller
 - [adafruit/tinyuf2](https://github.com/adafruit/tinyuf2) - UF2 bootloader based on TinyUSB for embedded devices such as ESP32S2, STM32F4 and iMX RT10xx
@@ -863,7 +866,7 @@
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) - 
 - [anet-be/lua-yottadb](https://github.com/anet-be/lua-yottadb) - Lua bindings for YottaDB - moved to YDBLua
-- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
+- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 21 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [skvadrik/re2c](https://github.com/skvadrik/re2c) - Lexer generator for C, C++, D, Go, Haskell, Java, JS, OCaml, Python, Rust, Swift, V and Zig.
 - [RealTimeLogic/BAS](https://github.com/RealTimeLogic/BAS) - Embedded Web Server Library with Integrated Scripting Engine
@@ -1607,6 +1610,7 @@
 
 ## C++ 
 
+- [michalin/Ardumouse](https://github.com/michalin/Ardumouse) - Arduino library for PS/2 and PS/2 compatible USB mice
 - [johnwinans/rvddt](https://github.com/johnwinans/rvddt) - RISC-V Dynamic Debugging Tool
 - [db-electronics/ArduinoSerialCommand](https://github.com/db-electronics/ArduinoSerialCommand) - An Arduino library to tokenize and parse commands received over a serial port.
 - [arvidn/torrent-analyzer](https://github.com/arvidn/torrent-analyzer) - A tool to run statistics analysis on a set of .torrent files
@@ -4888,6 +4892,9 @@
 
 ## JavaScript 
 
+- [OXY2DEV/tree-sitter-qf](https://github.com/OXY2DEV/tree-sitter-qf) - Tree-sitter parser for Vim's quickfix list.
+- [OXY2DEV/tree-sitter-lua_patterns](https://github.com/OXY2DEV/tree-sitter-lua_patterns) - Tree-sitter parser for Lua patterns
+- [tree-sitter-grammars/tree-sitter-vim](https://github.com/tree-sitter-grammars/tree-sitter-vim) - Vimscript grammar for tree-sitter
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
 - [webtorrent/node-bencode](https://github.com/webtorrent/node-bencode) - bencode de/encoder for nodejs
@@ -5002,7 +5009,6 @@
 - [rajasegar/alacritty-themes](https://github.com/rajasegar/alacritty-themes) - :rainbow: :lollipop: Themes :candy: :heart_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator
 - [alajmo/pinto](https://github.com/alajmo/pinto) - :paintbrush: Create, view and edit vim color themes
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
-- [vigoux/tree-sitter-viml](https://github.com/vigoux/tree-sitter-viml) - Tree-sitter parser for VimL
 - [edubart/nelua-vscode](https://github.com/edubart/nelua-vscode) - Nelua syntax highlighting for Visual Studio Code
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
@@ -5263,6 +5269,13 @@
 
 ## Lua 
 
+- [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
+- [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
+- [AstroNvim/astroui](https://github.com/AstroNvim/astroui) - UI Configuration Engine built for AstroNvim
+- [AstroNvim/astrocore](https://github.com/AstroNvim/astrocore) - Core AstroNvim configuration engine
+- [OXY2DEV/nvim](https://github.com/OXY2DEV/nvim) - 
+- [OXY2DEV/ui.nvim](https://github.com/OXY2DEV/ui.nvim) - A blueprint/template/guide to customize Neovim's UI using Lua.
+- [danini-the-panini/kdlua](https://github.com/danini-the-panini/kdlua) - Lua implementation of the KDL language
 - [pkulchenko/fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic Redbean-based Lua web framework in one file.
 - [mfussenegger/nluarepl](https://github.com/mfussenegger/nluarepl) - (mirror) nvim plugin that implements a debug adapter limited to evaluating expressions
 - [Zeioth/none-ls-external-sources.nvim](https://github.com/Zeioth/none-ls-external-sources.nvim) - All external sources not natively supported by none-ls
@@ -5543,7 +5556,7 @@
 - [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) - Predictable LSP code actions
 - [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) - A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) - Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url
-- [coffebar/neovim-project](https://github.com/coffebar/neovim-project) - Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope or fzf-lua..
+- [coffebar/neovim-project](https://github.com/coffebar/neovim-project) - Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope, snacks.nvim or fzf-lua
 - [cryptomilk/nightcity.nvim](https://github.com/cryptomilk/nightcity.nvim) - 🏙 Night City - A dark colorscheme for Neovim with LSP support
 - [judaew/ronny.nvim](https://github.com/judaew/ronny.nvim) - Neovim/Vim color scheme inspired by Monokai theme
 - [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
@@ -8786,6 +8799,7 @@
 
 ## Python 
 
+- [jimahlstrom/quisk](https://github.com/jimahlstrom/quisk) - Quisk Software Defined Radio
 - [db-electronics/kicadlib](https://github.com/db-electronics/kicadlib) - kicad parts libraries
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
 - [antirez/ST77xx-pure-MP](https://github.com/antirez/ST77xx-pure-MP) - Pure MicroPython driver for ST77xx displays. Low memory requirements.
