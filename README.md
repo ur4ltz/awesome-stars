@@ -1581,7 +1581,6 @@
 
 ## C# # 
 
-- [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [Krusen/BencodeNET](https://github.com/Krusen/BencodeNET) - .NET library for encoding/decoding bencode and reading/writing torrent files
 - [Maximus5/conemu-inside](https://github.com/Maximus5/conemu-inside) - An example, how to embed http://conemu.github.io/ into another graphical application
 - [Igor-kor/ArduinoDiagramm](https://github.com/Igor-kor/ArduinoDiagramm) - Построение графика, для данных из порта ардуино
@@ -3316,6 +3315,13 @@
 
 ## Emacs Lisp 
 
+- [jsigman/unison-sync-mode](https://github.com/jsigman/unison-sync-mode) - An emacs mode for syncing directories with Unison
+- [jsigman/emacs-config](https://github.com/jsigman/emacs-config) - For tracking and sharing my emacs configuration
+- [dorneanu/dotfiles](https://github.com/dorneanu/dotfiles) - Dotfiles management using chezmoi
+- [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
+- [aome510/kak.el](https://github.com/aome510/kak.el) - An attempt to port Kakoune's multiple selections into Emacs
+- [anuvyklack/helix.el](https://github.com/anuvyklack/helix.el) - 
 - [garymjr/.emacs.d](https://github.com/garymjr/.emacs.d) - My emacs configuration
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
@@ -3423,7 +3429,7 @@
 - [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [Civitasv/TWE](https://github.com/Civitasv/TWE) - To what end, to what end
-- [lorniu/go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Support multiple engines such as Google, Bing, deepL, StarDict and Youdao, also support LLMs like ChatGPT, DeepSeek and so on.
+- [lorniu/gt.el](https://github.com/lorniu/gt.el) - Translator on Emacs.  Support multiple engines such as Google, Bing, deepL, StarDict and Youdao, also support LLMs like ChatGPT, DeepSeek and so on.
 - [dunn/company-emoji](https://github.com/dunn/company-emoji) - MOVED to codeberg
 - [iqbalansari/emacs-emojify](https://github.com/iqbalansari/emacs-emojify) - Display emojis in Emacs
 - [jcs-elpa/company-emojify](https://github.com/jcs-elpa/company-emojify) - Company completion for Emojify
@@ -4229,7 +4235,7 @@
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - deprecated in favor of leap.nvim
 - [Gavinok/dotneovim](https://github.com/Gavinok/dotneovim) - My attempt at transitioning to neovim and embracing the crazy things people are doing with it.
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
-- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)
+- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, PHP, R, Lua, Rust and more!)
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
@@ -5582,7 +5588,7 @@
 - [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) - Practise typing in Neovim
 - [gsuuon/model.nvim](https://github.com/gsuuon/model.nvim) - Neovim plugin for interacting with LLM's and building editor integrated prompts.
 - [shadyalfred/electric-quotes.nvim](https://github.com/shadyalfred/electric-quotes.nvim) - Neovim plugin that works like electric-quotes emacs mode
-- [piersolenski/telescope-import.nvim](https://github.com/piersolenski/telescope-import.nvim) - Import modules with ease
+- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - Import modules with ease
 - [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon) - Neovim plugin packed with modules  ( battery, wifi, date, time, day  etc) to litter the statusline and winbar
 - [polirritmico/monokai-nightasty.nvim](https://github.com/polirritmico/monokai-nightasty.nvim) - 🫖 A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.
 - [TC72/telescope-tele-tabby.nvim](https://github.com/TC72/telescope-tele-tabby.nvim) - A telescope extension to switch tabs.
@@ -7002,7 +7008,6 @@
 - [amirrezaask/spawn.nvim](https://github.com/amirrezaask/spawn.nvim) - Made luv.spawn easy :))
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
 - [amirrezaask/moonlisp](https://github.com/amirrezaask/moonlisp) - Another lisp that compiles to lua
-- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) - define same behaviour across different file types.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [steelsojka/headwind.nvim](https://github.com/steelsojka/headwind.nvim) - 
@@ -8042,7 +8047,7 @@
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) - Use pandoc to convert markdown files according to options from a yaml block
 - [b3nj5m1n/serverdots](https://github.com/b3nj5m1n/serverdots) - 
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - my nixos config
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
@@ -8063,6 +8068,7 @@
 
 ## OCaml 
 
+- [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [tjdevries/m-lua](https://github.com/tjdevries/m-lua) - o lua m'lua
 - [SquidDev/illuaminate](https://github.com/SquidDev/illuaminate) - Very WIP static analysis for Lua
 - [ygrek/mldonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network p2p daemon (previously at http://mldonkey.sourceforge.net/)
@@ -8099,6 +8105,7 @@
 
 ## Others 
 
+- [eza-community/eza-themes](https://github.com/eza-community/eza-themes) - Themes for eza
 - [johnwinans/riscv-asm-manual](https://github.com/johnwinans/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [db-electronics/petit-jtag-kicad](https://github.com/db-electronics/petit-jtag-kicad) - 
 - [db-electronics/petit-swd-kicad](https://github.com/db-electronics/petit-swd-kicad) - 
@@ -9617,6 +9624,7 @@
 
 ## Ruby 
 
+- [Upcycle-Electronics/LGT8Fx-Datasheet](https://github.com/Upcycle-Electronics/LGT8Fx-Datasheet) - This is an attempt at a better detailed English translation of the Logic Green LGT8Fx Datasheet. This includes all files used to create the document. It's a work in progress.
 - [cho45/NanoVNA-manual](https://github.com/cho45/NanoVNA-manual) - 
 - [maxbrunsfeld/vim-yankstack](https://github.com/maxbrunsfeld/vim-yankstack) - A lightweight implementation of emacs's kill-ring for vim
 - [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
@@ -9921,7 +9929,6 @@
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [joajfreitas/marcador](https://github.com/joajfreitas/marcador) - minimal bookmark manager with rofi front end.
 - [rust-lang-ru/rust_book_2ed](https://github.com/rust-lang-ru/rust_book_2ed) - The Rust Programming Language (на русском)
@@ -9974,6 +9981,7 @@
 
 ## Shell 
 
+- [anuvyklack/dotfiles](https://github.com/anuvyklack/dotfiles) - My chezmoi driven dotfiles
 - [johnwinans/2057-ICE40HX4K-TQ144-breakout](https://github.com/johnwinans/2057-ICE40HX4K-TQ144-breakout) - Minimal Raspberry PI breakout board for ICE40HX4K FPGA
 - [qasimhbti/books](https://github.com/qasimhbti/books) - Some books organised by topic
 - [lenormf/kakmerge](https://github.com/lenormf/kakmerge) - A Kakoune-based mergetool for Git
@@ -10321,6 +10329,7 @@
 - [kipcd/dotfiles](https://github.com/kipcd/dotfiles) - My dotfiles managed with Stow
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
 - [rbenv/rbenv-installer](https://github.com/rbenv/rbenv-installer) - Installer and doctor scripts for rbenv
+- [amirrezaask/dotfiles](https://github.com/amirrezaask/dotfiles) - 
 - [arks22/tmuximum](https://github.com/arks22/tmuximum) - A command support tmux
 - [chitoku-k/fzf-zsh-completions](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for fzf and Zsh (git, kubectl, docker, ...)
 - [yuki-yano/fzf-preview.zsh](https://github.com/yuki-yano/fzf-preview.zsh) - 
@@ -10428,7 +10437,7 @@
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [zzzeyez/dots](https://github.com/zzzeyez/dots) - make macos how i like it
 - [danishprakash/dotfiles](https://github.com/danishprakash/dotfiles) - Configuration files for my setup
-- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, Bash, Vim, tmux, Git and other stuff
+- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, tmux, Git and other stuff
 - [samoshkin/dotfiles](https://github.com/samoshkin/dotfiles) - System settings, configuration files and apps for MacOS. Personal setup
 - [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
 - [danielnehrig/polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
@@ -10761,7 +10770,7 @@
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [niXman/mingw-builds](https://github.com/niXman/mingw-builds) - Scripts for building the 32 and 64-bit MinGW-W64 compilers for Windows
 - [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://git.q3aql.dev/q3aql/aria2-static-builds
-- [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for MSYS2.
+- [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for Cygwin targets to build under MSYS2.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
@@ -10818,6 +10827,7 @@
 
 ## TeX 
 
+- [antonysigma/lgt8f328p-datasheet](https://github.com/antonysigma/lgt8f328p-datasheet) - Logic Green LGT8Fx Datasheet, rewritten in English
 - [kubi48/TransistorTester-documentation](https://github.com/kubi48/TransistorTester-documentation) - Documentation about the TransistorTester
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [jbyuki/notes](https://github.com/jbyuki/notes) - Various notes, experiments (mainly in neovim)
@@ -10841,6 +10851,7 @@
 ## TypeScript 
 
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
+- [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [xuhuanzy/VSCode-EmmyLua-Luals](https://github.com/xuhuanzy/VSCode-EmmyLua-Luals) - Lua IDE Plugin for VSCode
