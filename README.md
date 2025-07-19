@@ -291,6 +291,7 @@
 
 ## C 
 
+- [michalin/Arduino-C64-Emulator](https://github.com/michalin/Arduino-C64-Emulator) - A Commodore 64 emulator running on an Arduino
 - [tree-sitter-grammars/tree-sitter-kdl](https://github.com/tree-sitter-grammars/tree-sitter-kdl) - KDL grammar for tree-sitter
 - [db-electronics/asmx](https://github.com/db-electronics/asmx) - Fork of Bruce Tomlin's ASMX cross-assembler
 - [lynchaj/rhyophyre](https://github.com/lynchaj/rhyophyre) - Single Board Computer featuring Zilog Z180 processor and NEC µPD7220 Graphics Display Controller
@@ -935,7 +936,7 @@
 - [vlang/doom](https://github.com/vlang/doom) - DOOM translated from C to V.
 - [daurnimator/ldbus](https://github.com/daurnimator/ldbus) - Lua Bindings to dbus.
 - [RishabhRD/dwm](https://github.com/RishabhRD/dwm) - 
-- [shaeinst/SuckLess-Packs](https://github.com/shaeinst/SuckLess-Packs) - suckless, suckless.org softwares collection that can be installed with single script...
+- [AlixShahid/SuckLess-Packs](https://github.com/AlixShahid/SuckLess-Packs) - suckless, suckless.org softwares collection that can be installed with single script...
 - [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - a async http server base on libuv for Chez Scheme
 - [wikkyk/statusbar](https://github.com/wikkyk/statusbar) - A configurable status bar for dwm and similar window managers
 - [ripxorip/qmk_firmware](https://github.com/ripxorip/qmk_firmware) - keyboard controller firmware for Atmel AVR and ARM USB families
@@ -1554,6 +1555,7 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [libgit2/luagit2](https://github.com/libgit2/luagit2) - Lua bindings for libgit2
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [nsf/termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [nsf/ccode](https://github.com/nsf/ccode) - An autocompletion daemon for the C programming language (vim, libclang, omnifunc)
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
@@ -3082,7 +3084,6 @@
 - [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
-- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [lsdev/LiteStep](https://github.com/lsdev/LiteStep) - LiteStep Alternative Shell
 - [njh/EtherCard](https://github.com/njh/EtherCard) - EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE
 - [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
@@ -4829,7 +4830,6 @@
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [xdsopl/robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
 - [priyom/Rivet](https://github.com/priyom/Rivet) - A decoder for various HF data modes
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [N0BOY/FT8CN](https://github.com/N0BOY/FT8CN) - Run FT8 on Android
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [woheller69/gptAssist](https://github.com/woheller69/gptAssist) - gptAssist is a simple WebView wrapper for ChatGPT
@@ -5275,6 +5275,19 @@
 
 ## Lua 
 
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
+- [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven
+- [LeonHeidelbach/lua_color_tools](https://github.com/LeonHeidelbach/lua_color_tools) - A simple standalone lua module to work with different color formats and interpolate gradients.
+- [NvChad/starter](https://github.com/NvChad/starter) - Starter config for NvChad
+- [Olivine-Labs/lustache](https://github.com/Olivine-Labs/lustache) - Mustache templates for Lua
+- [przepompownia/feline.nvim](https://github.com/przepompownia/feline.nvim) - A minimal, stylish and customizable statusline, statuscolumn, and winbar for Neovim
+- [EL-MASTOR/bufferlist.nvim](https://github.com/EL-MASTOR/bufferlist.nvim) - The fastest, most lightweight, minimal, extensible and super easy buffer manager for neovim
+- [bydlw98/blink-cmp-env](https://github.com/bydlw98/blink-cmp-env) - Environment variables source for blink.cmp
+- [marcoSven/blink-cmp-yanky](https://github.com/marcoSven/blink-cmp-yanky) - 
+- [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) - Completion source using tmux for blink.cmp
+- [netmute/ctags-lsp.nvim](https://github.com/netmute/ctags-lsp.nvim) - Neovim configuration for ctags-lsp
+- [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
+- [jmbuhr/cmp-pandoc-references](https://github.com/jmbuhr/cmp-pandoc-references) - A source for nvim-cmp, providing completion for bibliography, reference and cross-ref items in Pandoc/Markdown.
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [AstroNvim/astroui](https://github.com/AstroNvim/astroui) - UI Configuration Engine built for AstroNvim
@@ -5891,7 +5904,7 @@
 - [Apeiros-46B/qalc.nvim](https://github.com/Apeiros-46B/qalc.nvim) - A Neovim frontend for Qalculate
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
 - [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) - Neovim task runner: JSON/YAML + toggleterm.nvim + telescope.nvim
-- [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Small aync library for Neovim plugins
+- [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Async library for Neovim plugins
 - [rawnly/gist.nvim](https://github.com/rawnly/gist.nvim) - Neovim plugin that allows you to create a Github Gist from the current file
 - [ray-x/forgit.nvim](https://github.com/ray-x/forgit.nvim) - Interactive fzf+git for Neovim. I remembered the git commands so you wont forget.
 - [strash/everybody-wants-that-line.nvim](https://github.com/strash/everybody-wants-that-line.nvim) - Minimalistic, informative and elegant statusline for neovim.
@@ -6006,7 +6019,6 @@
 - [LeonHeidelbach/trailblazer.nvim](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer enables you to seemlessly move through important project marks as quickly and efficiently as possible to make your workflow blazingly fast ™.
 - [ofirgall/commit-prefix.nvim](https://github.com/ofirgall/commit-prefix.nvim) - Insert prefix to commit message by branch name (JIRA ticket for example)
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
-- [zdcthomas/yakko_wakko](https://github.com/zdcthomas/yakko_wakko) - DotFiles for macOS/Linux
 - [zdcthomas/easy-operator.nvim](https://github.com/zdcthomas/easy-operator.nvim) - 
 - [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) - make you some user operators for great good
 - [JoosepAlviste/palenightfall.nvim](https://github.com/JoosepAlviste/palenightfall.nvim) - 🌑 Neovim theme inspired by material palenight.
@@ -6416,7 +6428,6 @@
 - [EtiamNullam/relative-source.nvim](https://github.com/EtiamNullam/relative-source.nvim) - Use this plugin to keep your neovim config clean and portable!
 - [mlaursen/vim-react-snippets](https://github.com/mlaursen/vim-react-snippets) - Useful snippets for developing in React (Javascript and Typescript)
 - [bushblade/nvim](https://github.com/bushblade/nvim) - My Neovim Config - currently using Version 0.11.2
-- [nvoid-lua/nvoid](https://github.com/nvoid-lua/nvoid) - nvim with lua is cool
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [arnarg/todo-prompt.nvim](https://github.com/arnarg/todo-prompt.nvim) - A work in progress neovim plugin that provides a prompt to add tasks and todos quickly.
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) - A Vim Philosophy Oriented Zettelkasten Note Taking Plugin
@@ -6745,7 +6756,7 @@
 - [tjdevries/lazy-require.nvim](https://github.com/tjdevries/lazy-require.nvim) - Require as little as possible. Do as little work as possible. Spend hours shaving off milliseconds
 - [nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim) - Live grep with args
 - [nekonako/xresources-nvim](https://github.com/nekonako/xresources-nvim) - 🎨 Neovim colorscheme based on your xresources color
-- [shaeinst/neovim-Web-Developemnt](https://github.com/shaeinst/neovim-Web-Developemnt) - modern web development in neovim without any compromisation
+- [AlixShahid/neovim-Web-Developemnt](https://github.com/AlixShahid/neovim-Web-Developemnt) - modern web development in neovim without any compromisation
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [Abstract-IDE/Abstract-cs](https://github.com/Abstract-IDE/Abstract-cs) - Colorscheme for (neo)vim written in lua, specially made for roshnivim with Tree-sitter support.
 - [rktjmp/fwatch.nvim](https://github.com/rktjmp/fwatch.nvim) - fwatch.nvim lets you watch files or directories for changes and then run vim commands or lua functions.
@@ -7513,7 +7524,6 @@
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [mindreframer/ProFi.lua](https://github.com/mindreframer/ProFi.lua) - a non-official git mirror for ProFi, a Lua profiler
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim
-- [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) - Repo to hold a bunch of info & extension callbacks for built-in LSP. Use at your own risk :wink:
 - [jaawerth/fennel-nvim](https://github.com/jaawerth/fennel-nvim) - running fennel-lang natively in neovim
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [prettier/plugin-lua](https://github.com/prettier/plugin-lua) - Prettier Lua Plugin (WIP)
@@ -7565,7 +7575,6 @@
 - [MarkoPaul0/WireBait](https://github.com/MarkoPaul0/WireBait) - Run and test your Lua Wireshark dissector without Wireshark or capture data.
 - [SwissalpS/lite-plugins](https://github.com/SwissalpS/lite-plugins) - Plugins for the lite text editor
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
-- [haorenW1025/config](https://github.com/haorenW1025/config) - My home configs and dotfiles
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [Phrogz/SLAXML](https://github.com/Phrogz/SLAXML) - SAX-like streaming XML parser for Lua
@@ -7689,8 +7698,6 @@
 - [pkulchenko/ZeroBraneEduPack](https://github.com/pkulchenko/ZeroBraneEduPack) - A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 - [shmuz/far_plugins](https://github.com/shmuz/far_plugins) - 
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
-- [haorenW1025/tasknvim](https://github.com/haorenW1025/tasknvim) - A simple task manager plugin of  neovim written in Lua
-- [haorenW1025/term-nvim](https://github.com/haorenW1025/term-nvim) - A simple terminal manager for neovim written in lua
 - [zinovyev/lugate](https://github.com/zinovyev/lugate) - Lua module for building JSON-RPC 2.0 Gateway APIs just inside of your Nginx
 - [endowdly/Grafx2LuaScripts](https://github.com/endowdly/Grafx2LuaScripts) - Just some scripts to use in Grafx2's Brush Factory
 - [marcoonroad/moonforth](https://github.com/marcoonroad/moonforth) - My own Forth dialect on top of the Lua programming language. [Work in Progress]
@@ -7698,7 +7705,6 @@
 - [ignacio/LuaNode](https://github.com/ignacio/LuaNode) - Asynchronous I/O for Lua
 - [stevedonovan/LuaMacro](https://github.com/stevedonovan/LuaMacro) - An extended Lua macro preprocessor
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions, intended as the 'light' version of Penlight
-- [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
 - [jceb/vimrc](https://github.com/jceb/vimrc) - Vim configuration optimized for productive text editing
 - [h-michael/lsp-ext.nvim](https://github.com/h-michael/lsp-ext.nvim) - utility, autocmd and callback functions for nvim built-in lsp
 - [nvim-lua/diagnostic-nvim](https://github.com/nvim-lua/diagnostic-nvim) - A wrapper for neovim built in LSP diagnosis config
@@ -7711,7 +7717,6 @@
 - [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [lutobler/vis-modelines](https://github.com/lutobler/vis-modelines) - Vis plugin that tries to read standard Vim modelines with an LPEG parser
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
-- [haorenW1025/dotfiles](https://github.com/haorenW1025/dotfiles) - My dot files with neovim setting
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, walker, dunst; OS: NixOS, ArchLinux (Ubuntu/Fedora/CentOS)
 - [andriiyaremenko/dotfiles](https://github.com/andriiyaremenko/dotfiles) - 
 - [drewtempelmeyer/dotfiles](https://github.com/drewtempelmeyer/dotfiles) - A place to store config files so I can revert when my entire system crashes from entering the wrong character
@@ -8036,6 +8041,7 @@
 ## Nix 
 
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [zdcthomas/yakko_wakko](https://github.com/zdcthomas/yakko_wakko) - DotFiles for macOS/Linux
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
@@ -8105,6 +8111,8 @@
 
 ## Others 
 
+- [sachinsenal0x64/awesome-yazi](https://github.com/sachinsenal0x64/awesome-yazi) - 🦆 Awesome lists about Yazi file manager
+- [ur4ltz/awesome-stars](https://github.com/ur4ltz/awesome-stars) - 
 - [eza-community/eza-themes](https://github.com/eza-community/eza-themes) - Themes for eza
 - [johnwinans/riscv-asm-manual](https://github.com/johnwinans/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [db-electronics/petit-jtag-kicad](https://github.com/db-electronics/petit-jtag-kicad) - 
@@ -8348,7 +8356,7 @@
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [fnune/base16-nightwalk-scheme](https://github.com/fnune/base16-nightwalk-scheme) - 
-- [shaeinst/birav2-theme](https://github.com/shaeinst/birav2-theme) - birav2, littel modified theme for oh my zsh
+- [AlixShahid/birav2-theme](https://github.com/AlixShahid/birav2-theme) - birav2, littel modified theme for oh my zsh
 - [ripxorip/pinkytyl_v2](https://github.com/ripxorip/pinkytyl_v2) - CAD files for my pinkytyl keyboard
 - [nvim-neorg/example_workspaces](https://github.com/nvim-neorg/example_workspaces) - 
 - [LynnHo/Matrix-Calculus-Tutorial](https://github.com/LynnHo/Matrix-Calculus-Tutorial) - Matrix Calculus via Differentials, Matrix Derivative, 矩阵求导教程
@@ -10286,7 +10294,7 @@
 - [bmalehorn/fish-auto-source](https://github.com/bmalehorn/fish-auto-source) - Never type "source ~/.config/fish/config.fish" again
 - [FotiadisM/dotfiles](https://github.com/FotiadisM/dotfiles) - 
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
-- [shaeinst/Config-PC](https://github.com/shaeinst/Config-PC) - collection of configs to make my PC look cool
+- [AlixShahid/Config-PC](https://github.com/AlixShahid/Config-PC) - collection of configs to make my PC look cool
 - [srsudar/fzf-complete-flags](https://github.com/srsudar/fzf-complete-flags) - 
 - [olimorris/tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - 🍅 Incorporate the Pomodoro technique into your tmux workflow
 - [swaroopch/tmux-pomodoro](https://github.com/swaroopch/tmux-pomodoro) - tmux plugin for pomodoro technique
@@ -10850,6 +10858,9 @@
 
 ## TypeScript 
 
+- [VonHeikemen/learn-nvim](https://github.com/VonHeikemen/learn-nvim) - 
+- [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
+- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
@@ -11061,6 +11072,7 @@
 
 ## Vim Script 
 
+- [mattn/vim-molder](https://github.com/mattn/vim-molder) - 
 - [sqls-server/sqls.vim](https://github.com/sqls-server/sqls.vim) - Vim plugin for sqls
 - [jclsn/vimconfig](https://github.com/jclsn/vimconfig) - My vim configuration files
 - [z0mbix/vim-shfmt](https://github.com/z0mbix/vim-shfmt) - Vim plugin for shfmt (https://github.com/mvdan/sh)
@@ -11330,7 +11342,7 @@
 - [ldelossa/vimdark](https://github.com/ldelossa/vimdark) - A dark theme for vim based on vim-monotonic and chrome's dark reader
 - [josa42/nvim-lightline-lsp](https://github.com/josa42/nvim-lightline-lsp) - 
 - [jesseleite/vim-agriculture](https://github.com/jesseleite/vim-agriculture) - 🚜 Vim plugin to improve project searching with tools like ag and rg
-- [shaeinst/MonoAron](https://github.com/shaeinst/MonoAron) - vim color scheme/theme
+- [AlixShahid/MonoAron](https://github.com/AlixShahid/MonoAron) - vim color scheme/theme
 - [khalidchawtany/fze](https://github.com/khalidchawtany/fze) - Rename/Move files picked from fzf
 - [preservim/vim-litecorrect](https://github.com/preservim/vim-litecorrect) - Lightweight auto-correction for Vim
 - [preservim/vim-wheel](https://github.com/preservim/vim-wheel) - Screen-anchored cursor movement for Vim
@@ -11858,7 +11870,6 @@
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
 - [ptzz/lf.vim](https://github.com/ptzz/lf.vim) - Lf integration in vim and neovim
 - [cc-hng/vimrc](https://github.com/cc-hng/vimrc) - my neovim config
-- [haorenW1025/floatLf-nvim](https://github.com/haorenW1025/floatLf-nvim) - A plugin that makes you use lf(the file manager) easily in floating window in neovim
 - [blobject/cemant](https://github.com/blobject/cemant) - gray terminal color scheme
 - [caksoylar/vim-mysticaltutor](https://github.com/caksoylar/vim-mysticaltutor) - Low-contrast flat colorscheme for Vim and terminals
 - [roxma/vim-tmux-clipboard](https://github.com/roxma/vim-tmux-clipboard) - seamless integration for vim and tmux's clipboard
