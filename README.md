@@ -291,6 +291,8 @@
 
 ## C 
 
+- [GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz](https://github.com/GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz) - STM32 Lib Si5351 8KHz-160MHz
+- [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
 - [michalin/Arduino-C64-Emulator](https://github.com/michalin/Arduino-C64-Emulator) - A Commodore 64 emulator running on an Arduino
 - [tree-sitter-grammars/tree-sitter-kdl](https://github.com/tree-sitter-grammars/tree-sitter-kdl) - KDL grammar for tree-sitter
 - [db-electronics/asmx](https://github.com/db-electronics/asmx) - Fork of Bruce Tomlin's ASMX cross-assembler
@@ -6909,7 +6911,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.12.0-dev-362+g69d04ee99f) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.12.0-dev-855+gf2691199fa) config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
