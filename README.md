@@ -268,6 +268,7 @@
 
 ## Awk 
 
+- [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [aaronNGi/jj](https://github.com/aaronNGi/jj) - An evolution of the suckless ii(1) file-based IRC client
 - [soimort/SciTE-properties](https://github.com/soimort/SciTE-properties) - Mort's SciTE editor configuration files
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
@@ -291,6 +292,37 @@
 
 ## C 
 
+- [STMicroelectronics/STM32CubeWL3](https://github.com/STMicroelectronics/STM32CubeWL3) - Full firmware package for the STM32WL3x product line microcontrollers containing CMSIS, HAL, LL and BSP drivers, MW libraries, and a set of demos, applications, and examples.
+- [STMicroelectronics/STM32CubeU3](https://github.com/STMicroelectronics/STM32CubeU3) - This repository provides the STM32Cube MCU Firmware for the STM32U3 series, including the HAL-LL and the BSP Drivers, the CMSIS Core and the CMSIS Device interfaces, various MW libraries, and a set of
+- [STMicroelectronics/STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0) - STM32Cube MCU Full Package for the STM32U0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)
+- [STMicroelectronics/STM32CubeWB0](https://github.com/STMicroelectronics/STM32CubeWB0) - Full firmware for STM32WB0 series containing CMSIS, HAL-LL, BSP drivers, MW libraries, and a set of projects ready for use on STM32WB0 boards.
+- [STMicroelectronics/STM32CubeWBA](https://github.com/STMicroelectronics/STM32CubeWBA) - Full firmware package for STM32WBA series containing CMSIS, HAL-LL, BSP drivers, MW libraries, and a set of projects ready for use on STM32WBA boards
+- [STMicroelectronics/stm32u5-classic-coremw-apps](https://github.com/STMicroelectronics/stm32u5-classic-coremw-apps) - Provide a set of applications for STM32U5xx series based on the STM32 Classic Core Middleware libraries.
+- [STMicroelectronics/STM32CubeC0](https://github.com/STMicroelectronics/STM32CubeC0) - Full firmware package for STM32C0 series containing CMSIS, HAL-LL, BSP drivers, MW libraries, and a set of projects ready for use on STM32C0 boards
+- [STMicroelectronics/STM32CubeN6](https://github.com/STMicroelectronics/STM32CubeN6) - STM32Cube MCU Full Package for the STM32N6 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)
+- [STMicroelectronics/STM32CubeH7RS](https://github.com/STMicroelectronics/STM32CubeH7RS) - STM32Cube MCU Full Package for the STM32H7RS series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)
+- [STMicroelectronics/STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5) - STM32Cube MCU Full Package for the STM32L5 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeH5](https://github.com/STMicroelectronics/STM32CubeH5) - Full firmware package for STM32H5 series containing CMSIS, HAL-LL, BSP drivers, MW libraries plus a set of projects.
+- [STMicroelectronics/STM32CubeL0](https://github.com/STMicroelectronics/STM32CubeL0) - STM32Cube MCU Full Package for the STM32L0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL) - STM32Cube MCU Full FW Package for the STM32WL series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on boards provided by ST (Nucleo boards)
+- [STMicroelectronics/STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5) - Full Firmware Package for the STM32U5 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
+- [STMicroelectronics/STM32CubeG0](https://github.com/STMicroelectronics/STM32CubeG0) - STM32Cube MCU Full Package for the STM32G0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4) - STM32Cube MCU Full Package for the STM32G4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB) - Full Firmware Package for the STM32WB series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
+- [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4) - STM32Cube MCU Full Package for the STM32L4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7) - STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeF7](https://github.com/STMicroelectronics/STM32CubeF7) - STM32Cube MCU Full Package for the STM32F7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeF4](https://github.com/STMicroelectronics/STM32CubeF4) - STM32Cube MCU Full Package for the STM32F4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeF3](https://github.com/STMicroelectronics/STM32CubeF3) - STM32Cube MCU Full Package for the STM32F3 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeF2](https://github.com/STMicroelectronics/STM32CubeF2) - STM32Cube MCU Full Package for the STM32F2 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeF0](https://github.com/STMicroelectronics/STM32CubeF0) - STM32Cube MCU Full Package for the STM32F0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [evansm7/pico-mac](https://github.com/evansm7/pico-mac) - Run the popular umac emulator right on your Pi Pico!
+- [DnCraptor/pico-mac-](https://github.com/DnCraptor/pico-mac-) - Pico Mac port for Murmulator - Macintosh 128-512K emulator by DnCraptor
+- [andrewjrae/qmk-vim](https://github.com/andrewjrae/qmk-vim) - An attempt to emulate as much of vim as possible in QMK.
+- [stasmarkin/sm_voyager_keymap](https://github.com/stasmarkin/sm_voyager_keymap) - 
+- [Str8Razor/mi_totem](https://github.com/Str8Razor/mi_totem) - Firmware for TOTEM keyboard
+- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
+- [stasmarkin/sm_layouts](https://github.com/stasmarkin/sm_layouts) - Custom QMK for international layouts
 - [GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz](https://github.com/GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz) - STM32 Lib Si5351 8KHz-160MHz
 - [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
 - [michalin/Arduino-C64-Emulator](https://github.com/michalin/Arduino-C64-Emulator) - A Commodore 64 emulator running on an Arduino
@@ -463,7 +495,7 @@
 - [etherkit/si5351-avr-tiny-minimal](https://github.com/etherkit/si5351-avr-tiny-minimal) - A small but functional library for driving the Si5351 with AVR ATtiny microcontrollers with 8 kB of flash memory.
 - [alexf91/WSPR-Beacon](https://github.com/alexf91/WSPR-Beacon) - Si5351 based WSPR beacon
 - [UncleRus/esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) - Component library for ESP32-xx and ESP8266
-- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In-application debugger for ARM Cortex and RISC-V processors.
 - [lujji/blackmagic](https://github.com/lujji/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [STMicroelectronics/stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) - Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.
 - [nr-electronics/DiY](https://github.com/nr-electronics/DiY) - DiY
@@ -1065,7 +1097,7 @@
 - [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
 - [eantcal/mipos](https://github.com/eantcal/mipos) - Multum In Parvo Operating System is a cooperative multitasking RTOS designed for single-chip micro-controllers with severely limited RAM (e.g. less than 256 bytes) and ROM.
-- [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
+- [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs (radios), rotators, and amplifiers.  For daily snapshots see:
 - [pixel/hexedit](https://github.com/pixel/hexedit) - View and edit files in hexadecimal or in ASCII
 - [akiyosi/vim-ergo42](https://github.com/akiyosi/vim-ergo42) - Ergo42 keymap for vim
 - [LukeSmithxyz/dwmblocks](https://github.com/LukeSmithxyz/dwmblocks) - My status bar: my build of the modular dwmblocks
@@ -1585,9 +1617,8 @@
 
 ## C# # 
 
-- [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [Krusen/BencodeNET](https://github.com/Krusen/BencodeNET) - .NET library for encoding/decoding bencode and reading/writing torrent files
-- [Maximus5/conemu-inside](https://github.com/Maximus5/conemu-inside) - An example, how to embed http://conemu.github.io/ into another graphical application
+- [ConEmu/conemu-inside](https://github.com/ConEmu/conemu-inside) - An example, how to embed http://conemu.github.io/ into another graphical application
 - [Igor-kor/ArduinoDiagramm](https://github.com/Igor-kor/ArduinoDiagramm) - Построение графика, для данных из порта ардуино
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [qrp73/K5TOOL](https://github.com/qrp73/K5TOOL) - UV-K5 toolkit utility to read/write EEPROM and flashing firmware for Quansheng UV-K5 and UV-R5 radios
@@ -1614,6 +1645,7 @@
 
 ## C++ 
 
+- [adafruit/Adafruit_Seesaw](https://github.com/adafruit/Adafruit_Seesaw) - Arduino library driver for seesaw multi-use chip
 - [nitanmarcel/isodrive](https://github.com/nitanmarcel/isodrive) - Use your mobile device to boot Linux distributions/ISO files on your PC
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [michalin/Ardumouse](https://github.com/michalin/Ardumouse) - Arduino library for PS/2 and PS/2 compatible USB mice
@@ -1758,7 +1790,7 @@
 - [jacobly0/fasmg-ez80](https://github.com/jacobly0/fasmg-ez80) - fasmg ez80 include files
 - [educ8s/Arduino-ILI9341-Example-Programs](https://github.com/educ8s/Arduino-ILI9341-Example-Programs) - Arduino-ILI9341-Example-Programs
 - [AppImageCommunity/AppImageUpdate](https://github.com/AppImageCommunity/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
-- [Maximus5/FarPlugins](https://github.com/Maximus5/FarPlugins) - Some plugins for Far Manager
+- [ConEmu/FarPlugins](https://github.com/ConEmu/FarPlugins) - Some plugins for Far Manager
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [RobertDB59/bldc-Analyst](https://github.com/RobertDB59/bldc-Analyst) - Brushless motor analyst for small electrical vehicles
 - [frodofski/RC5_Decoder](https://github.com/frodofski/RC5_Decoder) - 
@@ -2665,7 +2697,7 @@
 - [VioletGiraffe/AudioGenerator](https://github.com/VioletGiraffe/AudioGenerator) - Simple Arduino-based audio waveform generator device
 - [VioletGiraffe/AudioWaveformToneGenerator](https://github.com/VioletGiraffe/AudioWaveformToneGenerator) - 
 - [VioletGiraffe/GPS](https://github.com/VioletGiraffe/GPS) - 
-- [gavinlyonsrepo/TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus) - An Arduino library to drive  TM1638 seven segment modules.
+- [gavinlyonsrepo/TM1638plus](https://github.com/gavinlyonsrepo/TM1638plus) - An Arduino library to drive  TM1638,  TM1637 & MAX7219 seven segment modules.
 - [andrey-belokon/NanoVFO_RX2121](https://github.com/andrey-belokon/NanoVFO_RX2121) - NanoVFO for RX2121 receiver
 - [harfang3d/harfang3d](https://github.com/harfang3d/harfang3d) - HARFANG 3D source code public repository
 - [bkaradzic/bimg](https://github.com/bkaradzic/bimg) - Image library.
@@ -3100,7 +3132,7 @@
 - [magist3r/QtWeb](https://github.com/magist3r/QtWeb) - QtWeb Internet Browser
 - [unknownworlds/decoda](https://github.com/unknownworlds/decoda) - Decoda Lua IDE and debugger
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
-- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [mkottman/luaspell](https://github.com/mkottman/luaspell) - Lua binding for Hunspell
 - [ignacio/luaspell](https://github.com/ignacio/luaspell) - Lua binding for Hunspell
 - [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
@@ -3127,6 +3159,8 @@
 
 ## CSS 
 
+- [timkpaine/jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night
+- [johnnybarrels/jupyterlab_onedarkpro](https://github.com/johnnybarrels/jupyterlab_onedarkpro) - One Dark Pro theme for Jupyter Lab
 - [svaarala/duktape-wiki](https://github.com/svaarala/duktape-wiki) - Duktape Wiki
 - [openSUSE/openSUSEway](https://github.com/openSUSE/openSUSEway) - dotfiles for Sway on openSUSE
 - [porkloin/terminus-theme-gruvbox](https://github.com/porkloin/terminus-theme-gruvbox) - A Terminus theme for the gruvbox color theme
@@ -3318,10 +3352,13 @@
 ## Elixir 
 
 - [tjdevries/misery.nvim](https://github.com/tjdevries/misery.nvim) - this won't run on your system, but it might on mine
+- [ThePrimeagen/vim-apm](https://github.com/ThePrimeagen/vim-apm) - Vim APM, Actions per minute, is the greatest plugin since vim-slicedbread
 - [FarmBot/farmbot_os](https://github.com/FarmBot/farmbot_os) - The operating system and all related software that runs on FarmBot's Raspberry Pi.
 
 ## Emacs Lisp 
 
+- [zbelial/lspce](https://github.com/zbelial/lspce) - LSP Client for Emacs implemented as a module using rust.
+- [org-roam/org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Org Roam integration with bibliography management software
 - [jsigman/unison-sync-mode](https://github.com/jsigman/unison-sync-mode) - An emacs mode for syncing directories with Unison
 - [jsigman/emacs-config](https://github.com/jsigman/emacs-config) - For tracking and sharing my emacs configuration
 - [dorneanu/dotfiles](https://github.com/dorneanu/dotfiles) - Dotfiles management using chezmoi
@@ -3344,7 +3381,6 @@
 - [dieggsy/eterm-256color](https://github.com/dieggsy/eterm-256color) - Customizable 256 colors for emacs term and ansi-term
 - [cmccloud/.emacs.d](https://github.com/cmccloud/.emacs.d) - 
 - [cmccloud/project-treemacs](https://github.com/cmccloud/project-treemacs) - 
-- [duckwork/setup.el](https://github.com/duckwork/setup.el) - (mirror) Helpful configuration macro
 - [arkhan/vibrant-ink-theme](https://github.com/arkhan/vibrant-ink-theme) - 
 - [kiennq/treesit-langs](https://github.com/kiennq/treesit-langs) - Language bundle for Emacs's tree-sitter package
 - [jcs-elpa/alt-codes](https://github.com/jcs-elpa/alt-codes) - Insert alt codes using meta key.
@@ -4241,7 +4277,7 @@
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - deprecated in favor of leap.nvim
 - [Gavinok/dotneovim](https://github.com/Gavinok/dotneovim) - My attempt at transitioning to neovim and embracing the crazy things people are doing with it.
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
-- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, PHP, R, Lua, Rust and more!)
+- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
 - [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
@@ -4667,6 +4703,8 @@
 
 ## HTML 
 
+- [STMicroelectronics/STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1) - Full Firmware Package for the STM32L1 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
+- [STMicroelectronics/STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1) - STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [tinyvision-ai-inc/pico-ice](https://github.com/tinyvision-ai-inc/pico-ice) - Raspberry Pi PICO board + Lattice iCE40 FPGA's
 - [bittorrent/go-btfs](https://github.com/bittorrent/go-btfs) - BTFS - The First Scalable Decentralized Storage System - A Foundational Platform for Decentralized Applications
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
@@ -4905,6 +4943,7 @@
 
 ## JavaScript 
 
+- [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [OXY2DEV/tree-sitter-vhs](https://github.com/OXY2DEV/tree-sitter-vhs) - Tree-sitter grammar for the CLI video recorder(.tape files)
 - [OXY2DEV/tree-sitter-qf](https://github.com/OXY2DEV/tree-sitter-qf) - Tree-sitter parser for Vim's quickfix list.
@@ -5181,6 +5220,8 @@
 
 ## Jupyter Notebook 
 
+- [jupyterlab/jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo) - Demonstrations of JupyterLab
+- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [newhouseb/onebitbt](https://github.com/newhouseb/onebitbt) - Bluetooth PHY based on one-bit input and output
 - [mobilinkd/uv-k6-digital-mod](https://github.com/mobilinkd/uv-k6-digital-mod) - UV-K6 Mods for Digital Modulation
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
@@ -5234,10 +5275,12 @@
 
 ## Kotlin 
 
+- [bobrofon/easysshfs](https://github.com/bobrofon/easysshfs) - SSHFS for Android
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
-- [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists. Fork of Quillnote
+- [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [w2sv/WiFi-Widget](https://github.com/w2sv/WiFi-Widget) - Android app providing a fully configurable widget for the monitoring of your WiFi connection details.
@@ -5287,6 +5330,27 @@
 
 ## Lua 
 
+- [ph1losof/ecolog.nvim](https://github.com/ph1losof/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
+- [vu1xan/.config](https://github.com/vu1xan/.config) - 
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
+- [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
+- [MahanRahmati/blink-nerdfont.nvim](https://github.com/MahanRahmati/blink-nerdfont.nvim) - 
+- [moyiz/blink-emoji.nvim](https://github.com/moyiz/blink-emoji.nvim) - Emoji source for blink.cmp.
+- [nvim-orgmode/telescope-orgmode.nvim](https://github.com/nvim-orgmode/telescope-orgmode.nvim) - Neovim plugin. Telescope.nvim extension that adds orgmode.nvim integration.
+- [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
+- [MisanthropicBit/decipher.nvim](https://github.com/MisanthropicBit/decipher.nvim) - A neovim plugin for encoding and decoding text
+- [WizardStark/dotfiles](https://github.com/WizardStark/dotfiles) - dotfiles, currently for NeoVim and Tmux configuration
+- [linrongbin16/lin.nvim](https://github.com/linrongbin16/lin.nvim) - Lin Rongbin's Neovim Distribution
+- [linrongbin16/giturlparser.lua](https://github.com/linrongbin16/giturlparser.lua) - Git url parsing library for lua.
+- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - A large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
+- [linrongbin16/commons.nvim](https://github.com/linrongbin16/commons.nvim) - The commons lua library for Neovim plugin project.
+- [linrongbin16/gentags.nvim](https://github.com/linrongbin16/gentags.nvim) - Tags generator/management for old school vimers in Neovim.
+- [linrongbin16/colorbox.nvim](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into Neovim player!
+- [yuri/luaforge-site](https://github.com/yuri/luaforge-site) - 
+- [yuri/lua-xssfilter](https://github.com/yuri/lua-xssfilter) - An XSS filter written in Lua
+- [yuri/sfoto](https://github.com/yuri/sfoto) - A photo gallery based on Sputnik
+- [yuri/lua-diff](https://github.com/yuri/lua-diff) - A Lua implementation of the Least Common Subsequence and diff
+- [yuri/petrodoc](https://github.com/yuri/petrodoc) - A tool for generating documentation from rockspecs
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion.
 - [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) - Smart and highly customizable insertion of various kinds of log statements.
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
@@ -5426,7 +5490,7 @@
 - [Saghen/blink.tree](https://github.com/Saghen/blink.tree) - 
 - [Saghen/blink.nvim](https://github.com/Saghen/blink.nvim) - Set of simple, performant neovim plugins
 - [Saghen/blink.compat](https://github.com/Saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim) - KEKW
 - [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) - Lua + AI = ???
 - [tjdevries/advent-of-nvim](https://github.com/tjdevries/advent-of-nvim) - 
@@ -5613,7 +5677,7 @@
 - [judaew/ronny.nvim](https://github.com/judaew/ronny.nvim) - Neovim/Vim color scheme inspired by Monokai theme
 - [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
 - [jonboh/nvim-dap-rr](https://github.com/jonboh/nvim-dap-rr) - Dap configuration for the record and replay debugger. Supports Rust, C++ and C.
-- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
 - [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - A lightweight bundle of commands focused on quick and streamlined git operations.
 - [davidmh/cmp-nerdfonts](https://github.com/davidmh/cmp-nerdfonts) - nvim-cmp source for nerd fonts icons
 - [Wansmer/serenity.nvim](https://github.com/Wansmer/serenity.nvim) - Wansmer's colorsheme for Neovim
@@ -5949,7 +6013,7 @@
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) - VSCode-Like Workspace Configuration Manager
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
-- [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim) - For old school code navigation. Adds cscope support to Neovim 0.9+.
+- [dhananjaylatkar/cscope_maps.nvim](https://github.com/dhananjaylatkar/cscope_maps.nvim) - For old school code navigation. Adds cscope support to Neovim.
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) - A Neovim plugin hiding your colorcolumn when unneeded.
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) - Markdown like keymaps for toggling text formatting
@@ -6248,7 +6312,6 @@
 - [adelarsq/image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) - Image Preview for Neovim 🖼
 - [kndndrj/nvim-projector](https://github.com/kndndrj/nvim-projector) - Better project-specific configs for nvim-dap with telescope!
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
-- [hadronized/notisys.nvim](https://github.com/hadronized/notisys.nvim) - System-wide notifications for Neovim
 - [cooperuser/glowbeam.nvim](https://github.com/cooperuser/glowbeam.nvim) - My personal vim colorscheme
 - [LukasPietzschmann/telescope-sessions](https://github.com/LukasPietzschmann/telescope-sessions) - A session-switcher extension for sessions.nvim using telescope.nvim
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - Fly through your tabs in NeoVim ✈️
@@ -6282,7 +6345,6 @@
 - [sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) - A theme for Neovim with support for LSP, Treesitter, Telescope, and more.
 - [sam4llis/telescope-arglist.nvim](https://github.com/sam4llis/telescope-arglist.nvim) - A telescope.nvim picker for the argument list.
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
-- [hadronized/poesie.nvim](https://github.com/hadronized/poesie.nvim) - 
 - [hadronized/config](https://github.com/hadronized/config) - My main configuration files
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
 - [smartpde/neoscopes](https://github.com/smartpde/neoscopes) - 
@@ -6421,7 +6483,7 @@
 - [junnplus/lsp-setup.nvim](https://github.com/junnplus/lsp-setup.nvim) - A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.
 - [oncomouse/lushwal.nvim](https://github.com/oncomouse/lushwal.nvim) - Lush.nvim theme for Pywal colors
 - [notomo/vusted](https://github.com/notomo/vusted) - A busted wrapper for testing neovim plugin
-- [olexsmir/init.lua](https://github.com/olexsmir/init.lua) - i use nvim btw
+- [olexsmir/init.lua](https://github.com/olexsmir/init.lua) - pov: virgin
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Enhance your golang experience
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
@@ -6914,7 +6976,6 @@
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!
 - [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
-- [ThePrimeagen/vim-apm](https://github.com/ThePrimeagen/vim-apm) - Vim APM, Actions per minute, is the greatest plugin since vim-slicedbread
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
 - [ThePrimeagen/neovim-irc-ui](https://github.com/ThePrimeagen/neovim-irc-ui) - 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
@@ -7531,7 +7592,6 @@
 - [sailorproject/remy](https://github.com/sailorproject/remy) - Run Lua-based web applications in different web server environments like Apache, Lighttpd, Nginx and others
 - [exlunaproject/remy](https://github.com/exlunaproject/remy) - Write once, run everywhere. An abstract wrapper to several alternative Lua-powered web server environments. Compatible with Apache, Lighttpd, Nginx and others
 - [sailorproject/valua](https://github.com/sailorproject/valua) - Validation for lua! A module for making chained validations. Create your objects, append your tests, use and reuse it!
-- [yuri/luaforge-site](https://github.com/yuri/luaforge-site) - 
 - [jnwhiteh/snippets_luacode](https://github.com/jnwhiteh/snippets_luacode) - A website for the contribution, tagging, searching and discussing of Lua code recipes.
 - [yuri/lua-colors](https://github.com/yuri/lua-colors) - A Lua library for color theory calculation
 - [luarocks/argparse](https://github.com/luarocks/argparse) - Feature-rich command line parser for Lua
@@ -8143,6 +8203,8 @@
 
 ## Others 
 
+- [WeActStudio/WeActStudio.STM32F4_64Pin_CoreBoard](https://github.com/WeActStudio/WeActStudio.STM32F4_64Pin_CoreBoard) - 
+- [juanmnl/vs-hydra](https://github.com/juanmnl/vs-hydra) - :ticket: A port of Atom's Hydra theme but for vs-code :ticket:
 - [dbohdan/embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [sachinsenal0x64/awesome-yazi](https://github.com/sachinsenal0x64/awesome-yazi) - 🦆 Awesome lists about Yazi file manager
 - [ur4ltz/awesome-stars](https://github.com/ur4ltz/awesome-stars) - 
@@ -8168,7 +8230,6 @@
 - [OwnedByWuigi/sv32](https://github.com/OwnedByWuigi/sv32) - Community effort to make 11 21H2 PE "desktop" experience
 - [selfrender/Windows-Server-2003](https://github.com/selfrender/Windows-Server-2003) - This is the leaked source code of Windows Server 2003
 - [armbian/community](https://github.com/armbian/community) - Armbian operating system community releases provides automated builds of community maintained targets
-- [saccarosium/awesome-vim9](https://github.com/saccarosium/awesome-vim9) - Collection of awesome vim9script plugins.
 - [yegappan/Vim9ScriptForPythonDevelopers](https://github.com/yegappan/Vim9ScriptForPythonDevelopers) - Vim9Script For Python Developers Guide
 - [FreeJoy-Team/FreeJoyWiki](https://github.com/FreeJoy-Team/FreeJoyWiki) - wiki for FreeJoy project
 - [raspberrypi/usb-pid](https://github.com/raspberrypi/usb-pid) - Raspberry Pi Pico PID allocations
@@ -8706,7 +8767,7 @@
 - [buymeasoda/soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text
 - [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
-- [Maximus5/ConEmu-Icons](https://github.com/Maximus5/ConEmu-Icons) - Rebranding ConEmu icon
+- [ConEmu/ConEmu-Icons](https://github.com/ConEmu/ConEmu-Icons) - Rebranding ConEmu icon
 - [jnwhiteh/vim-golang](https://github.com/jnwhiteh/vim-golang) - Github mirror of Go vimscripts, synced with main repository
 - [jelera/vim-hybrid](https://github.com/jelera/vim-hybrid) - A dark colour scheme for Vim & gVim
 - [eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim) - Fixed Consolas font for use with Vim Powerline. Font has all variants: regular, bold, italic, bold-italic.
@@ -8845,6 +8906,14 @@
 
 ## Python 
 
+- [prime31/sublime-zig-language](https://github.com/prime31/sublime-zig-language) - Zig language support for Sublime Text
+- [jupyterlab/language-packs](https://github.com/jupyterlab/language-packs) - Language packs for JupyterLab ecosystem
+- [jupyter-lsp/yaml-lsp](https://github.com/jupyter-lsp/yaml-lsp) - YAML language server wrapper
+- [jupyter-lsp/json-lsp](https://github.com/jupyter-lsp/json-lsp) - JSON language server for JupyterLab
+- [jupyter/jupyter_console](https://github.com/jupyter/jupyter_console) - Jupyter Terminal Console
+- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
+- [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
+- [stasmarkin/sm_td](https://github.com/stasmarkin/sm_td) - SM Tap Dance user library for QMK
 - [jimahlstrom/quisk](https://github.com/jimahlstrom/quisk) - Quisk Software Defined Radio
 - [db-electronics/kicadlib](https://github.com/db-electronics/kicadlib) - kicad parts libraries
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
@@ -8864,6 +8933,7 @@
 - [kannibalox/pyrosimple](https://github.com/kannibalox/pyrosimple) - An overhauled fork of the pyrocore tools for rTorrent
 - [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+- [saccarosium/awesome-vim9](https://github.com/saccarosium/awesome-vim9) - Collection of awesome vim9script plugins.
 - [rizinorg/rz-pipe](https://github.com/rizinorg/rz-pipe) - Access rizin via pipe from any programming language!
 - [raspberrypi/pico-project-generator](https://github.com/raspberrypi/pico-project-generator) - Tool to automatically generate a Pico C SDK Project
 - [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples) - Examples to accompany the "Raspberry Pi Pico Python SDK" book.
@@ -9623,7 +9693,7 @@
 - [randy3k/GitStatusBar](https://github.com/randy3k/GitStatusBar) - A more compact Git StatusBar
 - [kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
 - [rorydriscoll/LuaSublime](https://github.com/rorydriscoll/LuaSublime) - Various support files for making developing Lua using Sublime Text 2 more pleasant.
-- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator (Presently Unmaintained).
+- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator (See https://duct-ui.org from the author).
 - [Valloric/dotfiles](https://github.com/Valloric/dotfiles) - Some of my dotfiles
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
@@ -10009,8 +10079,6 @@
 ## Scheme 
 
 - [tjdevries/templ.nvim](https://github.com/tjdevries/templ.nvim) - go.tmpl support for @ThePrimeagen
-- [bennypowers/webc.nvim](https://github.com/bennypowers/webc.nvim) - WebC Support for NeoVim
-- [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [ibhagwan/ts-vimdoc.nvim](https://github.com/ibhagwan/ts-vimdoc.nvim) - 
 - [MunifTanjim/nvim-treesitter-lua](https://github.com/MunifTanjim/nvim-treesitter-lua) - Tree-sitter Lua parser integration for nvim-treesitter.
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
@@ -10209,7 +10277,7 @@
 - [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery) - Plug and play battery percentage and icon indicator for Tmux.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
-- [kiyoon/treemux](https://github.com/kiyoon/treemux) - A modern file explorer (Nvim-Tree) as a Tmux sidebar, with dynamic updates and bi-directional interaction.
+- [kiyoon/treemux](https://github.com/kiyoon/treemux) - A modern file explorer (Nvim-Tree/Neo-Tree) as a Tmux sidebar, with dynamic updates and bi-directional interaction.
 - [bremme/arduino-project](https://github.com/bremme/arduino-project) - Arduino project skeleton
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [newren/git-filter-branch](https://github.com/newren/git-filter-branch) - Possible new home for git-filter-branch; let's see if anyone else has better ideas where we should stick it
@@ -10514,7 +10582,6 @@
 - [umireon/luaver](https://github.com/umireon/luaver) - Lua Version Manager - Managing and switching between different versions of Lua, LuaJIT and Luarocks made easy
 - [siffiejoe/lua-travis](https://github.com/siffiejoe/lua-travis) - Helper files for using Travis-CI with Lua projects.
 - [balena-io-experimental/audio](https://github.com/balena-io-experimental/audio) - Audio building block for balenaOS, based on pulseaudio.
-- [drrlvn/config-files](https://github.com/drrlvn/config-files) - Configuration files for various programs I use, such as emacs, vim, zsh and git.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [iocanel/kubemenu](https://github.com/iocanel/kubemenu) - Kubernetes tasks via dmenu
 - [caarlos0-graveyard/zsh-git-sync](https://github.com/caarlos0-graveyard/zsh-git-sync) - A zsh plugin to sync git repositories and clean them up.
@@ -10816,7 +10883,7 @@
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [niXman/mingw-builds](https://github.com/niXman/mingw-builds) - Scripts for building the 32 and 64-bit MinGW-W64 compilers for Windows
-- [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - MOVED: https://git.q3aql.dev/q3aql/aria2-static-builds
+- [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for Cygwin targets to build under MSYS2.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -10892,11 +10959,18 @@
 
 ## Tree-sitter Query 
 
+- [bennypowers/webc.nvim](https://github.com/bennypowers/webc.nvim) - WebC Support for NeoVim
+- [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
 
+- [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
+- [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
+- [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
+- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+- [mistweaverco/kulala-ls](https://github.com/mistweaverco/kulala-ls) - A minimal 🤏 language 🔊 server 📡 for HTTP 🐼 syntax 🌈.
 - [VonHeikemen/learn-nvim](https://github.com/VonHeikemen/learn-nvim) - 
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
@@ -12464,6 +12538,7 @@
 
 ## Zig 
 
+- [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems
 - [marler8997/anyzig](https://github.com/marler8997/anyzig) - One zig to rule them all.
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [nvim-neorg/neorg-lsp](https://github.com/nvim-neorg/neorg-lsp) - An LSP for the Neorg file format.
