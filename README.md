@@ -3681,7 +3681,7 @@
 - [rougier/org-outer-indent](https://github.com/rougier/org-outer-indent) - An outer indentation org mode
 - [rougier/emacs-svg-icon](https://github.com/rougier/emacs-svg-icon) - An emacs library to create SVG icons on the fly
 - [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
-- [a-schaefers/spartan-emacs](https://github.com/a-schaefers/spartan-emacs) - Finally, a simple Emacs framework
+- [a-schaefers/grokEmacs](https://github.com/a-schaefers/grokEmacs) - just an Emacs config
 - [bard/emacs-director](https://github.com/bard/emacs-director) - Script Emacs sessions for automated screencasts and end-to-end tests
 - [tarsius/frameshot](https://github.com/tarsius/frameshot) - Take screenshots of a frame
 - [emacsorphanage/company-jedi](https://github.com/emacsorphanage/company-jedi) - Company backend for Python jedi
@@ -4346,7 +4346,7 @@
 - [porla/cli](https://github.com/porla/cli) - A neat CLI for remotely managing Porla.
 - [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli) - MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) - 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
+- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
 - [rakshasa/rtorrent-cli](https://github.com/rakshasa/rtorrent-cli) - Dependency-Free RTorrent CLI Tool
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
