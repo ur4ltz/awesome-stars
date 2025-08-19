@@ -1645,6 +1645,7 @@
 
 ## C++ 
 
+- [AnatolyNevzoroff/KITCHEN_CLOCK-THERMOMETER](https://github.com/AnatolyNevzoroff/KITCHEN_CLOCK-THERMOMETER) - KITCHEN CLOCK WITH THERMOMETER You can buy a ready-made product, but it is better to assemble it yourself!
 - [adafruit/Adafruit_Seesaw](https://github.com/adafruit/Adafruit_Seesaw) - Arduino library driver for seesaw multi-use chip
 - [nitanmarcel/isodrive](https://github.com/nitanmarcel/isodrive) - Use your mobile device to boot Linux distributions/ISO files on your PC
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
@@ -5003,6 +5004,7 @@
 - [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
 - [EvandroLG/luaDoc](https://github.com/EvandroLG/luaDoc) - In development
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [imsky/github-graphql-client](https://github.com/imsky/github-graphql-client) - :octocat: Node.js client for the GitHub GraphQL API with zero dependencies
@@ -5698,7 +5700,7 @@
 - [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) - Practise typing in Neovim
 - [gsuuon/model.nvim](https://github.com/gsuuon/model.nvim) - Neovim plugin for interacting with LLM's and building editor integrated prompts.
 - [shadyalfred/electric-quotes.nvim](https://github.com/shadyalfred/electric-quotes.nvim) - Neovim plugin that works like electric-quotes emacs mode
-- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - Import modules with ease
+- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project
 - [Pheon-Dev/pigeon](https://github.com/Pheon-Dev/pigeon) - Neovim plugin packed with modules  ( battery, wifi, date, time, day  etc) to litter the statusline and winbar
 - [polirritmico/monokai-nightasty.nvim](https://github.com/polirritmico/monokai-nightasty.nvim) - 🫖 A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.
 - [TC72/telescope-tele-tabby.nvim](https://github.com/TC72/telescope-tele-tabby.nvim) - A telescope extension to switch tabs.
@@ -6988,7 +6990,6 @@
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [s1n7ax/nvim-search-and-replace](https://github.com/s1n7ax/nvim-search-and-replace) - Really simple plugin to search and replace multiple files
 - [elianiva/icy.nvim](https://github.com/elianiva/icy.nvim) - いろ
-- [saadparwaiz1/nvimline](https://github.com/saadparwaiz1/nvimline) - custom statusline I use
 - [ray-x/cmp-treesitter](https://github.com/ray-x/cmp-treesitter) - cmp source for treesitter
 - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
 - [hrsh7th/cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua) - nvim-cmp source for nvim lua
@@ -9146,7 +9147,6 @@
 - [rbanffy/3270font](https://github.com/rbanffy/3270font) - A 3270 font in a modern format
 - [notjedi/pyratebay](https://github.com/notjedi/pyratebay) - Python script to download torrents from piratebay.
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [ms-jpq/markdown-live-preview](https://github.com/ms-jpq/markdown-live-preview) - markdown live preview | works with any editor
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [chmouel/mounch](https://github.com/chmouel/mounch) - A simple rofi launcher
@@ -9635,7 +9635,7 @@
 - [xjsender/HaoGist](https://github.com/xjsender/HaoGist) - Sublime Gist Plugin
 - [bgreenlee/sublime-github](https://github.com/bgreenlee/sublime-github) - Sublime Text 2/3 plugin that provides a number of useful commands for GitHub.
 - [titoBouzout/SideBarGit](https://github.com/titoBouzout/SideBarGit) - Provides Git commands for the Side Bar of Sublime Text.
-- [lunixbochs/ActualVim](https://github.com/lunixbochs/ActualVim) - Sublime Text 3 input mode using Neovim. Issues are closed, feel free to submit Pull Requests if you have bug fixes however.
+- [lunixbochs/ActualVim](https://github.com/lunixbochs/ActualVim) - Sublime Text 3 input mode using Neovim. Issues are closed. Feel free to submit Pull Requests if you have bug fixes.
 - [SublimeText/AdvancedNewFile](https://github.com/SublimeText/AdvancedNewFile) - File creation plugin for Sublime Text
 - [condemil/gist](https://github.com/condemil/gist) - Sublime Text plugin for creating new Gists from selected text
 - [spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
@@ -10666,7 +10666,6 @@
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
 - [jeremyf/dotzshrc](https://github.com/jeremyf/dotzshrc) - 
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
-- [krukas/DotFiles](https://github.com/krukas/DotFiles) - 
 - [xServo/dot_files](https://github.com/xServo/dot_files) - All my dotfiles which can be installed on a fresh arch install
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [Conni2461/dotfiles](https://github.com/Conni2461/dotfiles) - Current dotfiles and scripts
