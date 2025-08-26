@@ -4298,7 +4298,6 @@
 - [CharleyShattuck/myforth-arduino](https://github.com/CharleyShattuck/myforth-arduino) - A simple, non-standard, tethered Forth for the Arduino; including several steno keyboard applications, the most recent of which is stenomod16. The same firmware was used by the original TinyMod, but h
 - [forthy42/gforth](https://github.com/forthy42/gforth) - Gforth mirror on GitHub (original is on Savannah)
 - [tabemann/hashforth](https://github.com/tabemann/hashforth) - A #forth proof of concept
-- [tabemann/zeptocomjs](https://github.com/tabemann/zeptocomjs) - A web terminal for Forth
 - [tabemann/tabemann.github.io](https://github.com/tabemann/tabemann.github.io) - tabemann's GitHub Pages
 - [tabemann/zeptoforth-usb-mini-test](https://github.com/tabemann/zeptoforth-usb-mini-test) - Minimal console for lockup and flow control testing
 - [tabemann/zeptoforth-usb-mini-test-v2](https://github.com/tabemann/zeptoforth-usb-mini-test-v2) - zeptoforth usb mini test version 2 - fast buffers and reboot
@@ -4960,6 +4959,7 @@
 - [sublimelsp/LSP-cspell](https://github.com/sublimelsp/LSP-cspell) - Spell check support for Sublime's LSP plugin provided through cspell.
 - [svofski/vector06js](https://github.com/svofski/vector06js) - vector06js Vector-06c Emulator in JavaScript
 - [bajrangCoder/acode-plugin-acodex](https://github.com/bajrangCoder/acode-plugin-acodex) - AcodeX - A Terminal plugin for Acode App
+- [tabemann/zeptocomjs](https://github.com/tabemann/zeptocomjs) - A web terminal for Forth
 - [Freed-Wu/tree-sitter-zathurarc](https://github.com/Freed-Wu/tree-sitter-zathurarc) - 🌲👨 zathurarc grammar for tree-sitter
 - [Freed-Wu/tree-sitter-tmux](https://github.com/Freed-Wu/tree-sitter-tmux) - 🌲👨 tmux grammar for tree-sitter
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
@@ -11644,7 +11644,6 @@
 - [Soneji/dotfiles](https://github.com/Soneji/dotfiles) - My dotfiles - managed by yadm.io
 - [AndrewRadev/gnugo.vim](https://github.com/AndrewRadev/gnugo.vim) - Play a game of Go in your text editor, using GnuGo
 - [axvr/org.vim](https://github.com/axvr/org.vim) - Org mode syntax highlighting and folding for Vim.
-- [AndrewRadev/Vimfiles](https://github.com/AndrewRadev/Vimfiles) - My .vim folder
 - [echel0nn/mlp-ultimate-config](https://github.com/echel0nn/mlp-ultimate-config) - vim, xmonad, xmobar, bashrc, bash profile and inits
 - [yegappan/bufselect](https://github.com/yegappan/bufselect) - Buffer Selector - Vim plugin for selecting a buffer to edit using a popup menu
 - [yegappan/fileselect](https://github.com/yegappan/fileselect) - File Selector Vim Plugin
