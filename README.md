@@ -293,6 +293,8 @@
 
 ## C 
 
+- [anurag3301/my-dwm](https://github.com/anurag3301/my-dwm) - My build of dwm
+- [pi-sigma/dwmstatus](https://github.com/pi-sigma/dwmstatus) - Status bar for dwm
 - [STMicroelectronics/STM32CubeWL3](https://github.com/STMicroelectronics/STM32CubeWL3) - Full firmware package for the STM32WL3x product line microcontrollers containing CMSIS, HAL, LL and BSP drivers, MW libraries, and a set of demos, applications, and examples.
 - [STMicroelectronics/STM32CubeU3](https://github.com/STMicroelectronics/STM32CubeU3) - This repository provides the STM32Cube MCU Firmware for the STM32U3 series, including the HAL-LL and the BSP Drivers, the CMSIS Core and the CMSIS Device interfaces, various MW libraries, and a set of
 - [STMicroelectronics/STM32CubeU0](https://github.com/STMicroelectronics/STM32CubeU0) - STM32Cube MCU Full Package for the STM32U0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)
@@ -865,6 +867,7 @@
 - [jdolinay/avr_debug](https://github.com/jdolinay/avr_debug) - Source level debugger for Arduino - GDB stub for Atmega328 microcontroller used in Arduino Uno.
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
 - [glebzlat/SimpleMenu](https://github.com/glebzlat/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
+- [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
 - [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
 - [jgm/cmark-lua](https://github.com/jgm/cmark-lua) - Lua bindings to libcmark CommonMark parser
@@ -997,7 +1000,6 @@
 - [rtrussell/BBCSDL](https://github.com/rtrussell/BBCSDL) - BBC BASIC for SDL 2.0: for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [loboris/ESP32_TFT_library](https://github.com/loboris/ESP32_TFT_library) - Full featured TFT library for ESP32 with demo application
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
@@ -1648,6 +1650,9 @@
 
 ## C++ 
 
+- [yash-sanghvi/ESP32](https://github.com/yash-sanghvi/ESP32) - 
+- [adam-puleo/Ferrofluid-Speaker](https://github.com/adam-puleo/Ferrofluid-Speaker) - A ferrofluid Bluetooth speaker.
+- [madskjeldgaard/esp32-bluetooth-receiver](https://github.com/madskjeldgaard/esp32-bluetooth-receiver) - Bluetooth audio receiver using ESP32 and PCM5102A board
 - [aldenml/libtorrent4j](https://github.com/aldenml/libtorrent4j) - libtorrent for java, a swig Java interface for libtorrent
 - [AnatolyNevzoroff/KITCHEN_CLOCK-THERMOMETER](https://github.com/AnatolyNevzoroff/KITCHEN_CLOCK-THERMOMETER) - KITCHEN CLOCK WITH THERMOMETER You can buy a ready-made product, but it is better to assemble it yourself!
 - [adafruit/Adafruit_Seesaw](https://github.com/adafruit/Adafruit_Seesaw) - Arduino library driver for seesaw multi-use chip
@@ -2665,8 +2670,8 @@
 - [WerWolv/PatternLanguage](https://github.com/WerWolv/PatternLanguage) - The Pattern Language used by the ImHex Hex Editor
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [uncrustify/uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
-- [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
-- [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - 
+- [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
+- [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - Qalculate! Qt UI
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [MoonFox2006/MegaRFIDRelay](https://github.com/MoonFox2006/MegaRFIDRelay) - Многоканальное (до 48) реле на базе Arduino Mega и Ethernet Shield с поддержкой управления кнопками, расписанием, датчиками температуры DS18x20 и RFID-метками
 - [MoonFox2006/AVR_Optimization](https://github.com/MoonFox2006/AVR_Optimization) - Example of code optimization for Arduino UNO
@@ -2679,7 +2684,6 @@
 - [PaulStoffregen/MsTimer2](https://github.com/PaulStoffregen/MsTimer2) - Run a function using a timer
 - [arduinotech/alarm_clock](https://github.com/arduinotech/alarm_clock) - Simple alarm clock on arduino uno
 - [StrathbogieBrewing/AceMenu](https://github.com/StrathbogieBrewing/AceMenu) - 
-- [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
 - [bremme/arduino-wireless-doorbell](https://github.com/bremme/arduino-wireless-doorbell) - Collection of my Arduino libraries and sketches
 - [bremme/arduino-tm1637](https://github.com/bremme/arduino-tm1637) - Arduino library for using a 4 digit seven segment display with TM1636 or TM1637 driver IC
 - [maxint-rd/TM16xx](https://github.com/maxint-rd/TM16xx) - Arduino TM16xx library for LED & KEY and LED Matrix modules based on TM1638, TM1637, TM1640 and similar chips. Simply use print() on 7-segment and use Adafruit GFX on matrix.
@@ -2927,7 +2931,6 @@
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [andrejlevkovitch/asteroids](https://github.com/andrejlevkovitch/asteroids) - 
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
-- [hilgenberg/amoc](https://github.com/hilgenberg/amoc) - moc branch with ratings
 - [bonaert/torrent](https://github.com/bonaert/torrent) - Clear and simple torrent client written to learn the Bittorrent protocol.
 - [priyendumori/Mini-Bit-torrent](https://github.com/priyendumori/Mini-Bit-torrent) - Peer-to-peer file sharing system implemented using socket programming and multithreading in C++. Peers can upload and download text and multimedia files using custom format for torrent files called .m
 - [romkatv/hcproxy](https://github.com/romkatv/hcproxy) - Fast HTTPS and WebSocket proxy
@@ -3137,7 +3140,7 @@
 - [magist3r/QtWeb](https://github.com/magist3r/QtWeb) - QtWeb Internet Browser
 - [unknownworlds/decoda](https://github.com/unknownworlds/decoda) - Decoda Lua IDE and debugger
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
-- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [mkottman/luaspell](https://github.com/mkottman/luaspell) - Lua binding for Hunspell
 - [ignacio/luaspell](https://github.com/ignacio/luaspell) - Lua binding for Hunspell
 - [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
@@ -4759,6 +4762,7 @@
 - [fabrizioschiavi/pragmatapro-semiotics](https://github.com/fabrizioschiavi/pragmatapro-semiotics) - Semiotics of all the symbols and signs of Pragmata Pro typeface
 - [colorer/Colorer-schemes](https://github.com/colorer/Colorer-schemes) - Syntax and color schemes for colorer library
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
+- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [u03c1/outrun-vim](https://github.com/u03c1/outrun-vim) - 
 - [gdsotirov/slackpack](https://github.com/gdsotirov/slackpack) - SlackPack: Slackware packages
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -5132,7 +5136,6 @@
 - [operasoftware/chrome-webstore-extension](https://github.com/operasoftware/chrome-webstore-extension) - Contains the code of the Download Chrome Extension hosted at https://addons.opera.com which allows users to install extensions from Google Chrome Web Store directly in Opera browser
 - [joshuaavalon/chrome-deluge-remote](https://github.com/joshuaavalon/chrome-deluge-remote) - Provides quick overview of torrent information in Chrome for the torrent client Deluge.
 - [YodaDaCoda/chrome-deluge-remote](https://github.com/YodaDaCoda/chrome-deluge-remote) - Provides quick overview of torrent information in Chrome for the torrent client Deluge.
-- [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome extension to add torrent files to torrent clients
 - [belaviyo/send-to-vlc](https://github.com/belaviyo/send-to-vlc) - A Webextension to send streamble media sources to VLC (VideoLAN) media player
 - [iamcco/sran.nvim](https://github.com/iamcco/sran.nvim) - simple request and notification call for (neo)vim
 - [iamcco/git-p.nvim](https://github.com/iamcco/git-p.nvim) - Git plus for (neo)vim
@@ -5336,6 +5339,16 @@
 
 ## Lua 
 
+- [Ramilito/winbar.nvim](https://github.com/Ramilito/winbar.nvim) - 
+- [xb-bx/editable-term.nvim](https://github.com/xb-bx/editable-term.nvim) - 
+- [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) - A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.
+- [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
+- [ItsTerm1n4l/spice.nvim](https://github.com/ItsTerm1n4l/spice.nvim) - An easily customizable Neovim colourscheme with support for a wide variety of plugins
+- [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim) - Directory browser plugin for Neovim, inspired by Ranger
+- [madskjeldgaard/cppman.nvim](https://github.com/madskjeldgaard/cppman.nvim) - Search cppman (cplusplus.com and cppreference) from within neovim
+- [TimCreasman/neo-tree-tests-source.nvim](https://github.com/TimCreasman/neo-tree-tests-source.nvim) - 
+- [chinise/gruvlessbox.nvim](https://github.com/chinise/gruvlessbox.nvim) - gruvbox version with reduced color amount
+- [pi-sigma/gruvbox.nvim](https://github.com/pi-sigma/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [ph1losof/ecolog.nvim](https://github.com/ph1losof/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [vu1xan/.config](https://github.com/vu1xan/.config) - 
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
@@ -5420,6 +5433,7 @@
 - [Saghen/nvim](https://github.com/Saghen/nvim) - Personal neovim configuration
 - [MattiasMTS/cmp-dbee](https://github.com/MattiasMTS/cmp-dbee) - Autocompletion for nvim-dbee
 - [brianaung/compl.nvim](https://github.com/brianaung/compl.nvim) - A lightweight, native-first completion experience for Neovim.
+- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [garymjr/nvim](https://github.com/garymjr/nvim) - My neovim config
 - [wsdjeg/quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim) - general key bindings for quickfix window
 - [wsdjeg/dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - vim dashboard
@@ -5535,18 +5549,18 @@
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - A hackable & fancy vimdoc/help file viewer for Neovim
 - [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) - Improved UI and workflow for the Neovim quickfix
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
-- [echasnovski/mini-git](https://github.com/echasnovski/mini-git) - Git integration. Part of 'mini.nvim' library.
-- [echasnovski/mini.icons](https://github.com/echasnovski/mini.icons) - Icon provider. Part of 'mini.nvim' library.
-- [echasnovski/mini.splitjoin](https://github.com/echasnovski/mini.splitjoin) - Neovim Lua plugin to split and join arguments. Part of 'mini.nvim' library.
-- [echasnovski/mini.notify](https://github.com/echasnovski/mini.notify) - Show notifications. Part of 'mini.nvim' library.
-- [echasnovski/mini.deps](https://github.com/echasnovski/mini.deps) - Plugin manager. Part of 'mini.nvim' library.
-- [echasnovski/mini.visits](https://github.com/echasnovski/mini.visits) - Track and reuse file system visits. Part of 'mini.nvim' library.
-- [echasnovski/mini.clue](https://github.com/echasnovski/mini.clue) - Show next key clues. Part of 'mini.nvim' library.
-- [echasnovski/mini.operators](https://github.com/echasnovski/mini.operators) - Text edit operators. Part of 'mini.nvim' library.
-- [echasnovski/mini.diff](https://github.com/echasnovski/mini.diff) - Work with diff hunks. Part of 'mini.nvim' library.
-- [echasnovski/mini.hues](https://github.com/echasnovski/mini.hues) - Generate configurable color scheme. Part of 'mini.nvim' library.
-- [echasnovski/mini.extra](https://github.com/echasnovski/mini.extra) - Extra 'mini.nvim' functionality. Part of 'mini.nvim' library.
-- [echasnovski/mini.files](https://github.com/echasnovski/mini.files) - Navigate and manipulate file system. Part of 'mini.nvim' library.
+- [nvim-mini/mini-git](https://github.com/nvim-mini/mini-git) - Git integration. Part of 'mini.nvim' library.
+- [nvim-mini/mini.icons](https://github.com/nvim-mini/mini.icons) - Icon provider. Part of 'mini.nvim' library.
+- [nvim-mini/mini.splitjoin](https://github.com/nvim-mini/mini.splitjoin) - Neovim Lua plugin to split and join arguments. Part of 'mini.nvim' library.
+- [nvim-mini/mini.notify](https://github.com/nvim-mini/mini.notify) - Show notifications. Part of 'mini.nvim' library.
+- [nvim-mini/mini.deps](https://github.com/nvim-mini/mini.deps) - Plugin manager. Part of 'mini.nvim' library.
+- [nvim-mini/mini.visits](https://github.com/nvim-mini/mini.visits) - Track and reuse file system visits. Part of 'mini.nvim' library.
+- [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) - Show next key clues. Part of 'mini.nvim' library.
+- [nvim-mini/mini.operators](https://github.com/nvim-mini/mini.operators) - Text edit operators. Part of 'mini.nvim' library.
+- [nvim-mini/mini.diff](https://github.com/nvim-mini/mini.diff) - Work with diff hunks. Part of 'mini.nvim' library.
+- [nvim-mini/mini.hues](https://github.com/nvim-mini/mini.hues) - Generate configurable color scheme. Part of 'mini.nvim' library.
+- [nvim-mini/mini.extra](https://github.com/nvim-mini/mini.extra) - Extra 'mini.nvim' functionality. Part of 'mini.nvim' library.
+- [nvim-mini/mini.files](https://github.com/nvim-mini/mini.files) - Navigate and manipulate file system. Part of 'mini.nvim' library.
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [f3fora/nvim-texlabconfig](https://github.com/f3fora/nvim-texlabconfig) - nvim-texlabconfig: Forward and Inverse Search for Texlab and neovim
 - [ema2159/nvimconfig](https://github.com/ema2159/nvimconfig) - Personal Neovim configuration
@@ -5660,7 +5674,7 @@
 - [roobert/palette.nvim](https://github.com/roobert/palette.nvim) - 🎨 Palette - A beautiful, versatile, systematic, Neovim theme system
 - [EvWilson/slimux.nvim](https://github.com/EvWilson/slimux.nvim) - Send content from the current Neovim buffer to a configurable tmux pane.
 - [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) - A statefull task manager focused on integration with build systems.
-- [echasnovski/mini.pick](https://github.com/echasnovski/mini.pick) - Pick anything. Part of 'mini.nvim' library.
+- [nvim-mini/mini.pick](https://github.com/nvim-mini/mini.pick) - Pick anything. Part of 'mini.nvim' library.
 - [Gelio/cmp-natdat](https://github.com/Gelio/cmp-natdat) - nvim-cmp source to autocomplete natural dates and turm them into ISO dates
 - [saccarosium/neomarks](https://github.com/saccarosium/neomarks) - A new take on vim marks
 - [iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim) - A port of Gilles Castel's UltiSnip snippets for LuaSnip.
@@ -5682,7 +5696,7 @@
 - [judaew/ronny.nvim](https://github.com/judaew/ronny.nvim) - Neovim/Vim color scheme inspired by Monokai theme
 - [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
 - [jonboh/nvim-dap-rr](https://github.com/jonboh/nvim-dap-rr) - Dap configuration for the record and replay debugger. Supports Rust, C++ and C.
-- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.
 - [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) - A lightweight bundle of commands focused on quick and streamlined git operations.
 - [davidmh/cmp-nerdfonts](https://github.com/davidmh/cmp-nerdfonts) - nvim-cmp source for nerd fonts icons
 - [Wansmer/serenity.nvim](https://github.com/Wansmer/serenity.nvim) - Wansmer's colorsheme for Neovim
@@ -5831,7 +5845,7 @@
 - [ColumPaget/wallpaper_mgr.lua](https://github.com/ColumPaget/wallpaper_mgr.lua) - Download randomly selected wallpapers and display on x11 root window
 - [ColumPaget/gogcat.lua](https://github.com/ColumPaget/gogcat.lua) - search for games on gog.com
 - [ColumPaget/transbt_mgr.lua](https://github.com/ColumPaget/transbt_mgr.lua) - Text mode (menus or command-line) frontend for a transmission bittorrent daemon
-- [echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
+- [nvim-mini/mini.hipatterns](https://github.com/nvim-mini/mini.hipatterns) - Highlight patterns in text. Part of 'mini.nvim' library.
 - [MaximilianLloyd/lazy-reload.nvim](https://github.com/MaximilianLloyd/lazy-reload.nvim) - A small utility for lazy.nvim to reload plugins.
 - [atusy/leap-search.nvim](https://github.com/atusy/leap-search.nvim) - 
 - [ivan386/mag-maker](https://github.com/ivan386/mag-maker) - The script was originally written for use with the RHash program. He translated Sha1 hash from HEX to Base32 and collected a universal magnet from the hash link. Now the script has grown a bit.
@@ -5877,7 +5891,7 @@
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
 - [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
 - [mfussenegger/nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) - Pickers for vim.ui.select
-- [echasnovski/mini.colors](https://github.com/echasnovski/mini.colors) - Tweak and save any color scheme. Part of 'mini.nvim' library.
+- [nvim-mini/mini.colors](https://github.com/nvim-mini/mini.colors) - Tweak and save any color scheme. Part of 'mini.nvim' library.
 - [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) - A companion plugin for null-ls/none-ls, adding support for CSpell diagnostics and code actions.
 - [s1n7ax/youtube-java-debugging](https://github.com/s1n7ax/youtube-java-debugging) - Absolute minimal configuration for Neovim that is just enough to debug Java application
 - [s1n7ax/nvim-lazy-inner-block](https://github.com/s1n7ax/nvim-lazy-inner-block) - Remap inner block operations without letter i
@@ -6035,32 +6049,32 @@
 - [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) - Complete rewrite. Pure Lua.
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) - 
 - [theSafdarAwan/find-extender.nvim](https://github.com/theSafdarAwan/find-extender.nvim) - extend's the capability of neovim find command's
-- [echasnovski/mini.align](https://github.com/echasnovski/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
-- [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
-- [echasnovski/mini.base16](https://github.com/echasnovski/mini.base16) - Neovim Lua plugin for Base16 colorscheme creation. Part of 'mini.nvim' library.
-- [echasnovski/mini.bufremove](https://github.com/echasnovski/mini.bufremove) - Neovim Lua plugin to remove buffers. Part of 'mini.nvim' library.
-- [echasnovski/mini.comment](https://github.com/echasnovski/mini.comment) - Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.
-- [echasnovski/mini.cursorword](https://github.com/echasnovski/mini.cursorword) - Neovim Lua plugin for autohighlighting word under cursor. Part of 'mini.nvim' library.
-- [echasnovski/mini.doc](https://github.com/echasnovski/mini.doc) - Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.
-- [echasnovski/mini.fuzzy](https://github.com/echasnovski/mini.fuzzy) - Neovim Lua plugin with fuzzy matching functionality. Part of 'mini.nvim' library.
-- [echasnovski/mini.jump2d](https://github.com/echasnovski/mini.jump2d) - Neovim Lua plugin to jump within visible lines. Part of 'mini.nvim' library.
-- [echasnovski/mini.map](https://github.com/echasnovski/mini.map) - Neovim Lua plugin to manage window with buffer text overview. Part of 'mini.nvim' library.
-- [echasnovski/mini.misc](https://github.com/echasnovski/mini.misc) - Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.
-- [echasnovski/mini.pairs](https://github.com/echasnovski/mini.pairs) - Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.
-- [echasnovski/mini.sessions](https://github.com/echasnovski/mini.sessions) - Neovim Lua plugin for session management. Part of 'mini.nvim' library.
-- [echasnovski/mini.starter](https://github.com/echasnovski/mini.starter) - Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.
-- [echasnovski/mini.statusline](https://github.com/echasnovski/mini.statusline) - Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.
-- [echasnovski/mini.surround](https://github.com/echasnovski/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
-- [echasnovski/mini.tabline](https://github.com/echasnovski/mini.tabline) - Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.
-- [echasnovski/mini.test](https://github.com/echasnovski/mini.test) - Neovim Lua plugin to test Neovim plugins. Part of 'mini.nvim' library.
-- [echasnovski/mini.trailspace](https://github.com/echasnovski/mini.trailspace) - Neovim Lua plugin to manage trailspace (highlight and remove). Part of 'mini.nvim' library.
-- [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
-- [echasnovski/mini.basics](https://github.com/echasnovski/mini.basics) - Neovim Lua plugin with common configuration presets for options, mappings, and autocommands. Part of 'mini.nvim' library.
-- [echasnovski/mini.completion](https://github.com/echasnovski/mini.completion) - Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.
-- [echasnovski/mini.indentscope](https://github.com/echasnovski/mini.indentscope) - Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.
-- [echasnovski/mini.move](https://github.com/echasnovski/mini.move) - Neovim Lua plugin to move any selection in any direction. Part of 'mini.nvim' library.
-- [echasnovski/mini.jump](https://github.com/echasnovski/mini.jump) - Neovim Lua plugin to jump forward/backward to a single character. Part of 'mini.nvim' library.
-- [echasnovski/mini.bracketed](https://github.com/echasnovski/mini.bracketed) - Neovim Lua plugin to go forward/backward with square brackets. Part of 'mini.nvim' library.
+- [nvim-mini/mini.align](https://github.com/nvim-mini/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
+- [nvim-mini/mini.animate](https://github.com/nvim-mini/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
+- [nvim-mini/mini.base16](https://github.com/nvim-mini/mini.base16) - Neovim Lua plugin for Base16 colorscheme creation. Part of 'mini.nvim' library.
+- [nvim-mini/mini.bufremove](https://github.com/nvim-mini/mini.bufremove) - Neovim Lua plugin to remove buffers. Part of 'mini.nvim' library.
+- [nvim-mini/mini.comment](https://github.com/nvim-mini/mini.comment) - Neovim Lua plugin for fast and familiar per-line commenting. Part of 'mini.nvim' library.
+- [nvim-mini/mini.cursorword](https://github.com/nvim-mini/mini.cursorword) - Neovim Lua plugin for autohighlighting word under cursor. Part of 'mini.nvim' library.
+- [nvim-mini/mini.doc](https://github.com/nvim-mini/mini.doc) - Neovim Lua plugin to generate Neovim help files. Part of 'mini.nvim' library.
+- [nvim-mini/mini.fuzzy](https://github.com/nvim-mini/mini.fuzzy) - Neovim Lua plugin with fuzzy matching functionality. Part of 'mini.nvim' library.
+- [nvim-mini/mini.jump2d](https://github.com/nvim-mini/mini.jump2d) - Neovim Lua plugin to jump within visible lines. Part of 'mini.nvim' library.
+- [nvim-mini/mini.map](https://github.com/nvim-mini/mini.map) - Neovim Lua plugin to manage window with buffer text overview. Part of 'mini.nvim' library.
+- [nvim-mini/mini.misc](https://github.com/nvim-mini/mini.misc) - Neovim Lua plugin with miscellaneous useful functions. Part of 'mini.nvim' library.
+- [nvim-mini/mini.pairs](https://github.com/nvim-mini/mini.pairs) - Neovim Lua plugin to automatically manage character pairs. Part of 'mini.nvim' library.
+- [nvim-mini/mini.sessions](https://github.com/nvim-mini/mini.sessions) - Neovim Lua plugin for session management. Part of 'mini.nvim' library.
+- [nvim-mini/mini.starter](https://github.com/nvim-mini/mini.starter) - Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.
+- [nvim-mini/mini.statusline](https://github.com/nvim-mini/mini.statusline) - Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.
+- [nvim-mini/mini.surround](https://github.com/nvim-mini/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
+- [nvim-mini/mini.tabline](https://github.com/nvim-mini/mini.tabline) - Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.
+- [nvim-mini/mini.test](https://github.com/nvim-mini/mini.test) - Neovim Lua plugin to test Neovim plugins. Part of 'mini.nvim' library.
+- [nvim-mini/mini.trailspace](https://github.com/nvim-mini/mini.trailspace) - Neovim Lua plugin to manage trailspace (highlight and remove). Part of 'mini.nvim' library.
+- [nvim-mini/mini.ai](https://github.com/nvim-mini/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
+- [nvim-mini/mini.basics](https://github.com/nvim-mini/mini.basics) - Neovim Lua plugin with common configuration presets for options, mappings, and autocommands. Part of 'mini.nvim' library.
+- [nvim-mini/mini.completion](https://github.com/nvim-mini/mini.completion) - Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.
+- [nvim-mini/mini.indentscope](https://github.com/nvim-mini/mini.indentscope) - Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.
+- [nvim-mini/mini.move](https://github.com/nvim-mini/mini.move) - Neovim Lua plugin to move any selection in any direction. Part of 'mini.nvim' library.
+- [nvim-mini/mini.jump](https://github.com/nvim-mini/mini.jump) - Neovim Lua plugin to jump forward/backward to a single character. Part of 'mini.nvim' library.
+- [nvim-mini/mini.bracketed](https://github.com/nvim-mini/mini.bracketed) - Neovim Lua plugin to go forward/backward with square brackets. Part of 'mini.nvim' library.
 - [rewhile/colorcache.nvim](https://github.com/rewhile/colorcache.nvim) - Make every colorscheme fast (WIP)
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) - fzf-lua + projections.nvim
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
@@ -6284,7 +6298,6 @@
 - [leafo/sitegen](https://github.com/leafo/sitegen) - static site generator in MoonScript
 - [leafo/magick](https://github.com/leafo/magick) - Lua bindings to ImageMagick for LuaJIT using FFI
 - [leafo/awesome-config](https://github.com/leafo/awesome-config) - My awesome configuration
-- [leafo/cloud_storage](https://github.com/leafo/cloud_storage) - A Lua library for communicating with Google Cloud Storage
 - [bkaradzic/bgfxidl](https://github.com/bkaradzic/bgfxidl) - An IDL for bgfx
 - [cloudwu/bgfxidl](https://github.com/cloudwu/bgfxidl) - An IDL for bgfx
 - [jdryg/dls-schematics](https://github.com/jdryg/dls-schematics) - Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.itch.io/dls
@@ -6969,7 +6982,7 @@
 - [ionnux/dotfiles](https://github.com/ionnux/dotfiles) - 
 - [leoluz/nvim-dap-go](https://github.com/leoluz/nvim-dap-go) - An extension for nvim-dap providing configurations for launching go debugger (delve) and debugging individual tests
 - [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom Neovim setup
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [wqferr/functional](https://github.com/wqferr/functional) - Functional programming utilities implemented in pure Lua.
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
@@ -7624,7 +7637,6 @@
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 - [prettier/plugin-lua](https://github.com/prettier/plugin-lua) - Prettier Lua Plugin (WIP)
 - [jonniek/mpv-menu](https://github.com/jonniek/mpv-menu) - A simple 0-dependency mpv menu to launch commands from
-- [nanotee/dotfiles](https://github.com/nanotee/dotfiles) - 
 - [worron/redflat](https://github.com/worron/redflat) - Extension module for Awesome WM
 - [pallene-lang/pallene](https://github.com/pallene-lang/pallene) - Pallene Compiler
 - [titan-lang/titan](https://github.com/titan-lang/titan) - The Titan programming language
@@ -8097,6 +8109,7 @@
 - [leafo/lua-base58](https://github.com/leafo/lua-base58) - base58 decode and encode for strings in pure lua
 - [leafo/lapis-bayes](https://github.com/leafo/lapis-bayes) - Naive Bayes classifier for use in Lua
 - [leafo/luajit-geoip](https://github.com/leafo/luajit-geoip) - luajit bindings to maxmind geoip
+- [leafo/cloud_storage](https://github.com/leafo/cloud_storage) - A Lua library for communicating with Google Cloud Storage
 - [Imandaneshi/jack-telegram-bot](https://github.com/Imandaneshi/jack-telegram-bot) - A multi purpose telegram bot written in MoonScript
 - [svermeulen/vimpeccable-moonscript-vimrc-example](https://github.com/svermeulen/vimpeccable-moonscript-vimrc-example) - 
 - [svermeulen/vimpeccable-moonscript-vimrc-advanced-example](https://github.com/svermeulen/vimpeccable-moonscript-vimrc-advanced-example) - 
@@ -8137,6 +8150,7 @@
 
 ## Nix 
 
+- [benlubas/neorg-interim-ls](https://github.com/benlubas/neorg-interim-ls) - Temporarily providing a limited set of LSP features to neorg
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [zdcthomas/yakko_wakko](https://github.com/zdcthomas/yakko_wakko) - DotFiles for macOS/Linux
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
@@ -8208,6 +8222,8 @@
 
 ## Others 
 
+- [bottd/neorg-worklog](https://github.com/bottd/neorg-worklog) - 
+- [bottd/neorg-archive](https://github.com/bottd/neorg-archive) - Create and manage an archival workspace for your Neorg notes
 - [0x0FACED/effective-go-ru](https://github.com/0x0FACED/effective-go-ru) - Это НОВЫЙ перевод всего Effective Go на русский язык
 - [WeActStudio/WeActStudio.STM32F4_64Pin_CoreBoard](https://github.com/WeActStudio/WeActStudio.STM32F4_64Pin_CoreBoard) - 
 - [juanmnl/vs-hydra](https://github.com/juanmnl/vs-hydra) - :ticket: A port of Atom's Hydra theme but for vs-code :ticket:
@@ -8461,6 +8477,7 @@
 - [nvim-neorg/example_workspaces](https://github.com/nvim-neorg/example_workspaces) - 
 - [LynnHo/Matrix-Calculus-Tutorial](https://github.com/LynnHo/Matrix-Calculus-Tutorial) - Matrix Calculus via Differentials, Matrix Derivative, 矩阵求导教程
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Moved to Codeberg)
 - [JonasMuehlmann/bntp.nvim](https://github.com/JonasMuehlmann/bntp.nvim) - Neovim integration for my personal all-in-one productivity system including components like bookmarks, notes, todos, projects, etc.
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
 - [nanotee/vimdoc-notes](https://github.com/nanotee/vimdoc-notes) - 
@@ -8912,6 +8929,8 @@
 
 ## Python 
 
+- [ironlungx/nvim-pio](https://github.com/ironlungx/nvim-pio) - Template repo to be used with neovim and platformIO
+- [pi-sigma/snake](https://github.com/pi-sigma/snake) - Recreaction of the classical snake game
 - [prime31/sublime-zig-language](https://github.com/prime31/sublime-zig-language) - Zig language support for Sublime Text
 - [jupyterlab/language-packs](https://github.com/jupyterlab/language-packs) - Language packs for JupyterLab ecosystem
 - [jupyter-lsp/yaml-lsp](https://github.com/jupyter-lsp/yaml-lsp) - YAML language server wrapper
@@ -9088,7 +9107,7 @@
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [blacklight/nvim-http](https://github.com/blacklight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
@@ -9344,7 +9363,7 @@
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
+- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
 - [scrapinghub/splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
 - [windwp/i3-master-stack](https://github.com/windwp/i3-master-stack) - I3wm master and stack layout
 - [Tblue/mkttf](https://github.com/Tblue/mkttf) - Scripts to generate TTF files from BDF source files
@@ -9917,7 +9936,7 @@
 - [KillTheMule/nvim-rs](https://github.com/KillTheMule/nvim-rs) - A rust library for neovim clients
 - [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🏃💨 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
-- [ayosec/alacritty](https://github.com/ayosec/alacritty) - Patch to add graphics support to Alacritty
+- [ayosec/alacritty](https://github.com/ayosec/alacritty) - Patch to add support to Alacritty for graphics (Sixel and iTerm2 protocols)
 - [hadronized/this-week-in-neovim.org](https://github.com/hadronized/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [lukas-reineke/cbfmt](https://github.com/lukas-reineke/cbfmt) - A tool to format codeblocks inside markdown and org documents.
@@ -10095,6 +10114,7 @@
 
 ## Shell 
 
+- [jakobwesthoff/tmux-from-scratch](https://github.com/jakobwesthoff/tmux-from-scratch) - A step by step example repository to get a tmux configuration up and running from scratch
 - [roosta/fif](https://github.com/roosta/fif) - 🔍 Quickly find in files using fuzzy search and context
 - [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) - Search your tmux scrollback buffer using fuzzy matching
 - [roosta/tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
@@ -10103,7 +10123,6 @@
 - [anuvyklack/dotfiles](https://github.com/anuvyklack/dotfiles) - My chezmoi driven dotfiles
 - [johnwinans/2057-ICE40HX4K-TQ144-breakout](https://github.com/johnwinans/2057-ICE40HX4K-TQ144-breakout) - Minimal Raspberry PI breakout board for ICE40HX4K FPGA
 - [qasimhbti/books](https://github.com/qasimhbti/books) - Some books organised by topic
-- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [lenormf/kakmerge](https://github.com/lenormf/kakmerge) - A Kakoune-based mergetool for Git
 - [tpope/rbenv-ctags](https://github.com/tpope/rbenv-ctags) - Automatically generate ctags for rbenv Ruby stdlibs
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
@@ -10214,7 +10233,7 @@
 - [paysonwallach/fish-you-should-use](https://github.com/paysonwallach/fish-you-should-use) - A fish plugin that reminds you to use your aliases.
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [ayufan-rock64/linux-build](https://github.com/ayufan-rock64/linux-build) - Rock64 Linux build scripts, tools and instructions
-- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
+- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf
 - [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [cehoffman/luaenv](https://github.com/cehoffman/luaenv) - Groom your app's Lua environment
 - [DeqingSun/unoDebugTestPackage](https://github.com/DeqingSun/unoDebugTestPackage) - Arduino Board Package to Debug Uno/ATmega328P with CH552 debugger in Arduino IDE 2.0.0
@@ -10401,7 +10420,6 @@
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
 - [AlphaTechnolog/dotfiles-old](https://github.com/AlphaTechnolog/dotfiles-old) - This is my dotfiles for the xmonadwm, xmobar, qtile, polybar, bspwm, sxhkd, spectrwm, dwm, dwmblocks, i3, polybar-for-i3, custom scripts and others programs configs!
-- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [IndianBoy42/fish-auto-source](https://github.com/IndianBoy42/fish-auto-source) - Never type "source ~/.config/fish/config.fish" again
 - [bmalehorn/fish-auto-source](https://github.com/bmalehorn/fish-auto-source) - Never type "source ~/.config/fish/config.fish" again
 - [FotiadisM/dotfiles](https://github.com/FotiadisM/dotfiles) - 
@@ -11120,6 +11138,7 @@
 - [aioutecism/amVim-for-VSCode](https://github.com/aioutecism/amVim-for-VSCode) - The Vim mode for Visual Studio Code(vscode) that works as expected.
 - [bazel-contrib/vscode-bazel](https://github.com/bazel-contrib/vscode-bazel) - Bazel support for Visual Studio Code
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
+- [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome extension to add torrent files to torrent clients
 - [kizza/actionmenu.nvim](https://github.com/kizza/actionmenu.nvim) - A nice context menu for vim
 - [neoclide/vim-node-rpc](https://github.com/neoclide/vim-node-rpc) - Make vim behavior like neovim rpc server by use node server in the middle.
 - [neovim/node-client](https://github.com/neovim/node-client) - Nvim Node.js client and plugin host
@@ -11190,6 +11209,7 @@
 
 ## Vim Script 
 
+- [pi-sigma/dwm.vim](https://github.com/pi-sigma/dwm.vim) - Tiled Window Management for Vim
 - [mattn/vim-molder](https://github.com/mattn/vim-molder) - 
 - [sqls-server/sqls.vim](https://github.com/sqls-server/sqls.vim) - Vim plugin for sqls
 - [jclsn/vimconfig](https://github.com/jclsn/vimconfig) - My vim configuration files
