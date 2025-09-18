@@ -3259,7 +3259,6 @@
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 - [PossiblyAShrub/imgui-docs](https://github.com/PossiblyAShrub/imgui-docs) - Documentation for Dear ImGui
 - [e-cal/dotfiles-old](https://github.com/e-cal/dotfiles-old) - Arch, xmonad, polybar, alacritty, rofi, fish, neovim, useful custom scripts, and more.
-- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [jesseleite/an-old-hope-syntax-atom](https://github.com/jesseleite/an-old-hope-syntax-atom) - ⚛️ Atom theme inspired by a galaxy far far away...
 - [smlombardi/gruvbox-syntax](https://github.com/smlombardi/gruvbox-syntax) - A port of the Sublime Text and vim theme.
 - [caleb/gruvbox-syntax-atom](https://github.com/caleb/gruvbox-syntax-atom) - 
@@ -7416,6 +7415,7 @@
 - [bfredl/nvim-miniluv](https://github.com/bfredl/nvim-miniluv) - 
 - [dhruvmanila/dotfiles](https://github.com/dhruvmanila/dotfiles) - Home is where the heart is
 - [vuki656/nvim-config](https://github.com/vuki656/nvim-config) - ⌨️ My Neovim configuration
+- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [wfxr/awm.config](https://github.com/wfxr/awm.config) - 
 - [ellisonleao/criando-plugins-lua-neovim](https://github.com/ellisonleao/criando-plugins-lua-neovim) - Códigos fonte para a série "Criando plugins Lua para Neovim"
 - [eddyekofo94/nvim-bak](https://github.com/eddyekofo94/nvim-bak) - My attempt to create a decent Nvim config.
@@ -10986,7 +10986,7 @@
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
