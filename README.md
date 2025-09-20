@@ -1035,6 +1035,7 @@
 - [rtrussell/BBCSDL](https://github.com/rtrussell/BBCSDL) - BBC BASIC for SDL 2.0: for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Mirror of https://codeberg.org/Limine/Limine)
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [loboris/ESP32_TFT_library](https://github.com/loboris/ESP32_TFT_library) - Full featured TFT library for ESP32 with demo application
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
@@ -5388,7 +5389,6 @@
 - [Benjamin-Dobell/IntelliJ-Luanalysis](https://github.com/Benjamin-Dobell/IntelliJ-Luanalysis) - Type-safe Lua IDE — IntelliJ IDEA plugin
 - [wewewe718/QrAndBarcodeScanner](https://github.com/wewewe718/QrAndBarcodeScanner) - An Android app for scanning QR codes and barcodes
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [fru1tstand/qbittorrent-exporter](https://github.com/fru1tstand/qbittorrent-exporter) - A kotin-based, prometheus exporter for qbittorrent that relies on qbittorrent's web ui.
 - [EmmyLua/EmmyLua-Unity](https://github.com/EmmyLua/EmmyLua-Unity) - EmmyLua unity3d plugin
 - [barbeau/gpstest](https://github.com/barbeau/gpstest) - The #1 open-source Android GNSS/GPS test program
@@ -7926,7 +7926,6 @@
 - [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [CiaranG/lua-xmlrpc](https://github.com/CiaranG/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
@@ -8564,7 +8563,6 @@
 - [nvim-neorg/example_workspaces](https://github.com/nvim-neorg/example_workspaces) - 
 - [LynnHo/Matrix-Calculus-Tutorial](https://github.com/LynnHo/Matrix-Calculus-Tutorial) - Matrix Calculus via Differentials, Matrix Derivative, 矩阵求导教程
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Moved to Codeberg)
 - [JonasMuehlmann/bntp.nvim](https://github.com/JonasMuehlmann/bntp.nvim) - Neovim integration for my personal all-in-one productivity system including components like bookmarks, notes, todos, projects, etc.
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
 - [nanotee/vimdoc-notes](https://github.com/nanotee/vimdoc-notes) - 
@@ -8788,6 +8786,7 @@
 - [mhinz/vi-editor-history](https://github.com/mhinz/vi-editor-history) - Short history of editors.
 - [widgetii/rusvimnotes](https://github.com/widgetii/rusvimnotes) - 
 - [uhub/awesome-lua](https://github.com/uhub/awesome-lua) - A curated list of awesome Lua frameworks, libraries and software.
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
 - [nonylene/vscode-dark-molokai-theme](https://github.com/nonylene/vscode-dark-molokai-theme) - Dark x Molokai x Monokai theme for VSCode
@@ -10136,6 +10135,7 @@
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [neXromancers/shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [Luz/hexdino](https://github.com/Luz/hexdino) - A hex editor with vim like keybindings written in Rust.
 - [sebastiencs/rustorrent](https://github.com/sebastiencs/rustorrent) - A BitTorrent library implemented in Rust
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -10994,7 +10994,7 @@
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [niXman/mingw-builds](https://github.com/niXman/mingw-builds) - Scripts for building the 32 and 64-bit MinGW-W64 compilers for Windows
-- [q3aql/aria2-static-builds](https://github.com/q3aql/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
+- [asdo92/aria2-static-builds](https://github.com/asdo92/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for Cygwin targets to build under MSYS2.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
