@@ -1631,6 +1631,7 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [libgit2/luagit2](https://github.com/libgit2/luagit2) - Lua bindings for libgit2
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [nsf/termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [nsf/ccode](https://github.com/nsf/ccode) - An autocompletion daemon for the C programming language (vim, libclang, omnifunc)
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
@@ -3201,7 +3202,6 @@
 - [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
-- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [lsdev/LiteStep](https://github.com/lsdev/LiteStep) - LiteStep Alternative Shell
 - [njh/EtherCard](https://github.com/njh/EtherCard) - EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE
 - [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
@@ -4467,7 +4467,7 @@
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [google/periph](https://github.com/google/periph) - Older version of periph, see new version at https://github.com/periph
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -6389,7 +6389,6 @@
 - [cloudwu/bgfxidl](https://github.com/cloudwu/bgfxidl) - An IDL for bgfx
 - [jdryg/dls-schematics](https://github.com/jdryg/dls-schematics) - Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.itch.io/dls
 - [cloudwu/lua-bgfx](https://github.com/cloudwu/lua-bgfx) - Yet another bgfx lua binding
-- [justinmk/lua-client2](https://github.com/justinmk/lua-client2) - Lua client for Neovim
 - [theHamsta/nvim-semantic-tokens](https://github.com/theHamsta/nvim-semantic-tokens) - 
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
 - [Zane-/cder.nvim](https://github.com/Zane-/cder.nvim) - A telescope.nvim extension to quickly change Neovim's working directory.
@@ -9468,7 +9467,7 @@
 - [haideralipunjabi/polybar-qbittorrent](https://github.com/haideralipunjabi/polybar-qbittorrent) - qBittorrent Module for Polybar
 - [v1k45/python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
 - [werwolfby/monitorrent](https://github.com/werwolfby/monitorrent) - Automatic torrents downloader
-- [JJK96/dotfiles](https://github.com/JJK96/dotfiles) - My collection of dotfiles
+- [JJK96/dotfiles](https://github.com/JJK96/dotfiles) - My collection of dotfiles. Contains scripts for red teaming and penetration testing, nice utilities, etc.
 - [editorconfig/editorconfig-gedit](https://github.com/editorconfig/editorconfig-gedit) - EditorConfig plugin for Gedit
 - [searx/searx-checker](https://github.com/searx/searx-checker) - check the engines of any running searx instances
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
