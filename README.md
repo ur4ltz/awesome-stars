@@ -1013,7 +1013,6 @@
 - [daurnimator/ldbus](https://github.com/daurnimator/ldbus) - Lua Bindings to dbus.
 - [RishabhRD/dwm](https://github.com/RishabhRD/dwm) - 
 - [AlixShahid/SuckLess-Packs](https://github.com/AlixShahid/SuckLess-Packs) - suckless, suckless.org softwares collection that can be installed with single script...
-- [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - a async http server base on libuv for Chez Scheme
 - [wikkyk/statusbar](https://github.com/wikkyk/statusbar) - A configurable status bar for dwm and similar window managers
 - [ripxorip/qmk_firmware](https://github.com/ripxorip/qmk_firmware) - keyboard controller firmware for Atmel AVR and ARM USB families
 - [dabisu/sakura](https://github.com/dabisu/sakura) - GTK/VTE based terminal emulator
@@ -1659,6 +1658,7 @@
 
 ## C# # 
 
+- [CppCXY/EmmyLuaAnalyzer](https://github.com/CppCXY/EmmyLuaAnalyzer) - a new EmmyLua Language Server
 - [Krusen/BencodeNET](https://github.com/Krusen/BencodeNET) - .NET library for encoding/decoding bencode and reading/writing torrent files
 - [ConEmu/conemu-inside](https://github.com/ConEmu/conemu-inside) - An example, how to embed http://conemu.github.io/ into another graphical application
 - [Igor-kor/ArduinoDiagramm](https://github.com/Igor-kor/ArduinoDiagramm) - Построение графика, для данных из порта ардуино
@@ -3440,6 +3440,7 @@
 
 ## Emacs Lisp 
 
+- [anuvyklack/emacs.d](https://github.com/anuvyklack/emacs.d) - My Emacs configs on top of minimal-emacs.d
 - [arkhan/flymake-sqlfluff](https://github.com/arkhan/flymake-sqlfluff) - flymake plugin for SQL using sqlfluff
 - [erickgnavar/flymake-sqlfluff](https://github.com/erickgnavar/flymake-sqlfluff) - flymake plugin for SQL using sqlfluff
 - [zbelial/lspce](https://github.com/zbelial/lspce) - LSP Client for Emacs implemented as a module using rust.
@@ -4485,7 +4486,7 @@
 - [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command line tool with fzf-like UI to search Wikipedia articles and open it in your browser quickly
 - [tennashi/reqtest](https://github.com/tennashi/reqtest) - HTTP handlers for testing HTTP requests
 - [tsub/s3-edit](https://github.com/tsub/s3-edit) - Edit directly a file on Amazon S3 in CLI
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [checkmake/checkmake](https://github.com/checkmake/checkmake) - Linter/analyzer for Makefiles
 - [davinche/godown](https://github.com/davinche/godown) - Markdown Previewer written in Go
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
@@ -5077,7 +5078,7 @@
 - [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
 - [piecioshka/encoding-checker](https://github.com/piecioshka/encoding-checker) - 🛠 Tool to investigate files with different encoding than passed
 - [gignupg/Detect-File-Encoding-And-Language](https://github.com/gignupg/Detect-File-Encoding-And-Language) - An NPM Package to detect the encoding and language of text files
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [AndronixApp/andronix-docs-next](https://github.com/AndronixApp/andronix-docs-next) - New and a more descriptive documentation for the @AndronixApp. It's build with the fast VueJS framework, NuxtJS and Tailwind CSS.
 - [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
 - [nvim-neorg/tree-sitter-norg2](https://github.com/nvim-neorg/tree-sitter-norg2) - Attempt at a second generation parser for the Norg format.
@@ -5420,6 +5421,10 @@
 
 ## Lua 
 
+- [kevinhwang91/promise-async](https://github.com/kevinhwang91/promise-async) - Promise & Async in Lua
+- [kikito/md5.lua](https://github.com/kikito/md5.lua) - MD5 sum in pure Lua, with no C and no external dependencies
+- [hoelzro/lua-term](https://github.com/hoelzro/lua-term) - Terminal operations for Lua
+- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A neovim plugin that sets the cwd to the project root, stores projects in history file, includes a telescope picker, and supports fzf-lua
 - [wesleimp/stylua.nvim](https://github.com/wesleimp/stylua.nvim) - Format your lua code by using StyLua inside vim
 - [superzazu/sequence.lua](https://github.com/superzazu/sequence.lua) - A double linked list implementation in Lua
 - [superzazu/bluclass.lua](https://github.com/superzazu/bluclass.lua) - Lua OOP module with simple inheritance
@@ -8115,7 +8120,6 @@
 - [ignacio/StackTracePlus](https://github.com/ignacio/StackTracePlus) - StackTracePlus provides enhanced stack traces for Lua.
 - [geoffleyland/luatrace](https://github.com/geoffleyland/luatrace) - A tool for tracing Lua script execution and analysing time profiles and coverage
 - [malkia/ufo](https://github.com/malkia/ufo) - Portable distribution of LuaJIT with precompiled binaries, libraries and FFI bindings
-- [hoelzro/ansicolors](https://github.com/hoelzro/ansicolors) - ANSI terminal color manipulation for Lua.
 - [Raidar/Rh_Presets](https://github.com/Raidar/Rh_Presets) - Rh_Presets package
 - [dlaurie/lua-ihelp](https://github.com/dlaurie/lua-ihelp) - Interactive help for Lua programs
 - [sacek/Luajit-LPEG](https://github.com/sacek/Luajit-LPEG) - LPeg v.10 virtual machine and capture evaluator implemented in LuaJIT 2.x
@@ -8305,6 +8309,7 @@
 
 ## Others 
 
+- [etherkit/Si5351BCBreakout](https://github.com/etherkit/Si5351BCBreakout) - Si5351B/C Breakout Board
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [nikitinprior/dF80](https://github.com/nikitinprior/dF80) - Restored F80 compiler code for CP/M
 - [bottd/neorg-worklog](https://github.com/bottd/neorg-worklog) - 
@@ -9807,6 +9812,7 @@
 - [kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
 - [rorydriscoll/LuaSublime](https://github.com/rorydriscoll/LuaSublime) - Various support files for making developing Lua using Sublime Text 2 more pleasant.
 - [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator (See https://duct-ui.org from the author).
+- [Valloric/dotfiles](https://github.com/Valloric/dotfiles) - Some of my dotfiles
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [google/vimdoc](https://github.com/google/vimdoc) - Helpfile generation for vim
 - [mkrautz/goimport](https://github.com/mkrautz/goimport) - GoImport is a Sublime Text 2 plugin that handles importing and dropping packages from Go source code
@@ -10196,6 +10202,7 @@
 - [tjdevries/templ.nvim](https://github.com/tjdevries/templ.nvim) - go.tmpl support for @ThePrimeagen
 - [ibhagwan/ts-vimdoc.nvim](https://github.com/ibhagwan/ts-vimdoc.nvim) - 
 - [MunifTanjim/nvim-treesitter-lua](https://github.com/MunifTanjim/nvim-treesitter-lua) - Tree-sitter Lua parser integration for nvim-treesitter.
+- [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - a async http server base on libuv for Chez Scheme
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) - My personal backup of my dotfiles of Debian 10 (Buster) on ThinkPad X230 with Openbox and Aspire A514 with Fluxbox
@@ -10206,6 +10213,7 @@
 
 ## Shell 
 
+- [MrSloth-dev/Zmux](https://github.com/MrSloth-dev/Zmux) - A script for creating and managing sessions in Tmux
 - [jakobwesthoff/tmux-from-scratch](https://github.com/jakobwesthoff/tmux-from-scratch) - A step by step example repository to get a tmux configuration up and running from scratch
 - [roosta/fif](https://github.com/roosta/fif) - 🔍 Quickly find in files using fuzzy search and context
 - [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) - Search your tmux scrollback buffer using fuzzy matching
@@ -11001,7 +11009,6 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
-- [Valloric/dotfiles](https://github.com/Valloric/dotfiles) - Some of my dotfiles
 - [thenigan/git-diffall](https://github.com/thenigan/git-diffall) - Script to perform directory diffs using an external diff tool in Git
 - [sjl/learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
