@@ -273,6 +273,7 @@
 
 ## Awk 
 
+- [fagci/awk_practicing](https://github.com/fagci/awk_practicing) - 
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [aaronNGi/jj](https://github.com/aaronNGi/jj) - An evolution of the suckless ii(1) file-based IRC client
 - [soimort/SciTE-properties](https://github.com/soimort/SciTE-properties) - Mort's SciTE editor configuration files
@@ -298,6 +299,20 @@
 
 ## C 
 
+- [goshante/ats20_ats_ex](https://github.com/goshante/ats20_ats_ex) - Advanced and re-imagined firmware for ATS-20 Receiver based on Si4735 (or Si4732). Прошивка с расширенным функционалом.
+- [ralphxavier/SI4735](https://github.com/ralphxavier/SI4735) - SI4735 / SI4732 Radio
+- [RE3CON/1o11](https://github.com/RE3CON/1o11) - Walki Talkie QuanSheng UV-K5/K6/UV-5R Plus Custom Firmware Merge from: ▪ @OneOfEleven and ▪ @fagci Mod w. Spectrum Analyzer ▪ by @egzumer ▪ Enhanced by @RE3CON: Full freq range of BK4819 for TX and RX
+- [sq5bpf/microwave-powermeter](https://github.com/sq5bpf/microwave-powermeter) - A standalone microwave power meter, based on an AD8317 board. Uses a 20x4 LCD display (HH44780 compatible) and Arduino Nano board (but is written in pure C, and doesn't use the arduino environment for
+- [sq5bpf/findflips](https://github.com/sq5bpf/findflips) - Utility to compare two files of the same size, and show which bytes and bits have changed in a format that is reverse engineer friendly
+- [sq5bpf/k5emulator](https://github.com/sq5bpf/k5emulator) - Quansheng UV-K5 emulator
+- [manujedi/UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools) - 
+- [manujedi/uv-k5-firmware-tests](https://github.com/manujedi/uv-k5-firmware-tests) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
+- [ArtrixTech/OpenUVK5](https://github.com/ArtrixTech/OpenUVK5) - A Better Firmware for Quansheng UV-K5/K6
+- [nica-f/k5prog](https://github.com/nica-f/k5prog) - Quansheng UV-K5 programmer
+- [martin-ger/uMQTTBroker](https://github.com/martin-ger/uMQTTBroker) - MQTT Broker library for ESP8266 Arduino
+- [martin-ger/esp_slip_router](https://github.com/martin-ger/esp_slip_router) - A SLIP to WiFi router
+- [thomasbonr/esp32_nat_router_WPA2](https://github.com/thomasbonr/esp32_nat_router_WPA2) - A simple NAT Router for the ESP32,
+- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [vadrov/stm32-display-spi-dma](https://github.com/vadrov/stm32-display-spi-dma) - Connecting the displays to the stm32 microcontroller via spi with DMA (only CMSIS and LL)
 - [Devilbinder/ATMEGA328P_C](https://github.com/Devilbinder/ATMEGA328P_C) - This is the supporting repository for the ATmega328P Programming video series.
 - [pduke/UNO_TPI](https://github.com/pduke/UNO_TPI) - A TPI programmer that runs on Arduino UNO.
@@ -1687,6 +1702,14 @@
 
 ## C++ 
 
+- [meshtastic/LoRaLayer2](https://github.com/meshtastic/LoRaLayer2) - Layer 2 routing protocol for LoRa connected devices
+- [sudomesh/LoRaLayer2](https://github.com/sudomesh/LoRaLayer2) - Layer 2 routing protocol for LoRa connected devices
+- [meshtastic/indicator_rp2040](https://github.com/meshtastic/indicator_rp2040) - 
+- [meshtastic/esp32_https_server](https://github.com/meshtastic/esp32_https_server) - Alternative ESP32 Webserver implementation for the ESP32 Arduino Core, supporting HTTPS and HTTP.
+- [meshtastic/arduino-fsm](https://github.com/meshtastic/arduino-fsm) - Arduino library for implementing a finite state machine.
+- [ThingPulse/esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306) - Driver for the SSD1306 and SH1106 based 128x64, 128x32, 64x48 pixel OLED display running on ESP8266/ESP32
+- [meshtastic/esp8266-oled-ssd1306](https://github.com/meshtastic/esp8266-oled-ssd1306) - Driver for the SSD1306 and SH1106 based 128x64, 128x32, 64x48 pixel OLED display running on ESP8266/ESP32
+- [martin-ger/ESP8266-WiFi-Socket](https://github.com/martin-ger/ESP8266-WiFi-Socket) - Custom SW for the OBI "Wifi Stecker Schuko"
 - [Eddddddddy/T12-PD-SolderingPen](https://github.com/Eddddddddy/T12-PD-SolderingPen) - A soldering pen with quick charger.
 - [askn37/multix-zinnia-updi4avr-firmware-builder](https://github.com/askn37/multix-zinnia-updi4avr-firmware-builder) - UPDI High-Voltage Programmer
 - [Ho-Ro/nanoSTK_V1](https://github.com/Ho-Ro/nanoSTK_V1) - Arduino Nano board as the fastest in-system programmer (ISP) for classic AVR devices like ATtiny and ATmega
@@ -4794,6 +4817,7 @@
 
 ## HTML 
 
+- [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) - Перевод - Эффективный Go
 - [STMicroelectronics/STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1) - Full Firmware Package for the STM32L1 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
@@ -5052,6 +5076,7 @@
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
+- [farjs/farjs](https://github.com/farjs/farjs) - FAR.js - Cross-platform File and ARchive manager app
 - [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [SuperZombi/HDrezka-Helper](https://github.com/SuperZombi/HDrezka-Helper) - Downloads movies and subtitles. Supports mirrors.
 - [kpn-iot/thingsml-c-library](https://github.com/kpn-iot/thingsml-c-library) - C library for ThingsML on your device
@@ -5367,6 +5392,7 @@
 
 ## Kotlin 
 
+- [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [bobrofon/easysshfs](https://github.com/bobrofon/easysshfs) - SSHFS for Android
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
@@ -5421,10 +5447,14 @@
 
 ## Lua 
 
+- [jedrzejboczar/devcontainers.nvim](https://github.com/jedrzejboczar/devcontainers.nvim) - Run LSP servers inside devcontainers when using Neovim
+- [LZDQ/nvim-autocenter](https://github.com/LZDQ/nvim-autocenter) - Auto zz when editing.
+- [fagci/dotfiles](https://github.com/fagci/dotfiles) - Dotfiles
+- [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
 - [kevinhwang91/promise-async](https://github.com/kevinhwang91/promise-async) - Promise & Async in Lua
 - [kikito/md5.lua](https://github.com/kikito/md5.lua) - MD5 sum in pure Lua, with no C and no external dependencies
 - [hoelzro/lua-term](https://github.com/hoelzro/lua-term) - Terminal operations for Lua
-- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A neovim plugin that sets the cwd to the project root, stores projects in history file, includes a telescope picker, and supports fzf-lua
+- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin that sets the cwd to the project root, stores projects in history file, includes a telescope picker, and supports fzf-lua
 - [wesleimp/stylua.nvim](https://github.com/wesleimp/stylua.nvim) - Format your lua code by using StyLua inside vim
 - [superzazu/sequence.lua](https://github.com/superzazu/sequence.lua) - A double linked list implementation in Lua
 - [superzazu/bluclass.lua](https://github.com/superzazu/bluclass.lua) - Lua OOP module with simple inheritance
@@ -8309,6 +8339,10 @@
 
 ## Others 
 
+- [esp32-si4732/esp32-si4732-oshwhub](https://github.com/esp32-si4732/esp32-si4732-oshwhub) - Original Chinese hardware and source code from oshwhub.com
+- [G8PTN/ATS_MINI](https://github.com/G8PTN/ATS_MINI) - 
+- [armel/uv-k5-firmware-custom-feat-F4HWN](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN) - Quanscheng UV-K5 radio F4HWN firmware
+- [armel/tk11-firmware-custom](https://github.com/armel/tk11-firmware-custom) - Open reimplementation of the Quansheng TK11 Firmware
 - [etherkit/Si5351BCBreakout](https://github.com/etherkit/Si5351BCBreakout) - Si5351B/C Breakout Board
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [nikitinprior/dF80](https://github.com/nikitinprior/dF80) - Restored F80 compiler code for CP/M
@@ -9019,6 +9053,13 @@
 
 ## Python 
 
+- [jedrzejboczar/kicad-coil-generator](https://github.com/jedrzejboczar/kicad-coil-generator) - Simple script for generating coil footprints for KiCad.
+- [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
+- [G1LRO/chirp2cxf](https://github.com/G1LRO/chirp2cxf) - A utility to convert from CHIRP CSV export files to the CXF file format used by the Quansheng UV-K5 radio CPS- now enhanced with GUI and DCS support
+- [0x9900/gist](https://github.com/0x9900/gist) - Update or upload your files into your gist account.
+- [0x9900/RigExpert](https://github.com/0x9900/RigExpert) - 
+- [0x9900/QSL](https://github.com/0x9900/QSL) - Send eQSL
+- [armel/uv-k5-chirp-driver](https://github.com/armel/uv-k5-chirp-driver) - Quanscheng UV-K5 radio CHIRP driver for F4HWN firmware
 - [ningw42/Iosevkata](https://github.com/ningw42/Iosevkata) - A PragmataPro styled (ss08) Iosevka variant with my tweaks.
 - [felias-fogg/PyAvrOCD](https://github.com/felias-fogg/PyAvrOCD) - A platform-agnostic GDB server for AVR MCUs
 - [pamoroso/suite8080](https://github.com/pamoroso/suite8080) - A suite of Intel 8080 Assembly tools
@@ -10190,7 +10231,6 @@
 
 ## Scala 
 
-- [farjs/farjs](https://github.com/farjs/farjs) - FAR.js - Cross-platform File and ARchive manager app
 - [ge0rg/aprsdroid](https://github.com/ge0rg/aprsdroid) - APRSdroid - Geo-Location for Radio Amateurs
 - [hkupty/nero.nvim](https://github.com/hkupty/nero.nvim) - The Neovim REPL.
 - [jonas/example-gitbook-site-with-tut](https://github.com/jonas/example-gitbook-site-with-tut) - Example GitBook sbt-site using tut
@@ -10213,6 +10253,7 @@
 
 ## Shell 
 
+- [cuducos/dirvenv.fish](https://github.com/cuducos/dirvenv.fish) - 🐍 Automagically activated and deactivates virtualenv in Fish
 - [MrSloth-dev/Zmux](https://github.com/MrSloth-dev/Zmux) - A script for creating and managing sessions in Tmux
 - [jakobwesthoff/tmux-from-scratch](https://github.com/jakobwesthoff/tmux-from-scratch) - A step by step example repository to get a tmux configuration up and running from scratch
 - [roosta/fif](https://github.com/roosta/fif) - 🔍 Quickly find in files using fuzzy search and context
