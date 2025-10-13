@@ -547,7 +547,7 @@
 - [eriklins/chip45boot3](https://github.com/eriklins/chip45boot3) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with automatic baudrate adjustment, encryption and Visual Studio GUI.
 - [eriklins/chip45boot2](https://github.com/eriklins/chip45boot2) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with Intel hex file support and automatic baudrate adjustment.
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
-- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
+- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [earlephilhower/BackgroundAudio](https://github.com/earlephilhower/BackgroundAudio) - Arduino library for easy, interrupt driven speech, MP3, AAC, and WAV playback on the Raspberry Pi Pico RP2040, Pico 2 RP2350, and ESP32
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [mlichvar/chrony](https://github.com/mlichvar/chrony) - Mirror of https://gitlab.com/chrony/chrony
@@ -1565,7 +1565,6 @@
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [libcheck/check](https://github.com/libcheck/check) - A unit testing framework for C
-- [willysr/SlackHacks](https://github.com/willysr/SlackHacks) - List of my Hacks on Slackware-Current
 - [joewing/jwm](https://github.com/joewing/jwm) - Joe's Window Manager
 - [EionRobb/skype4pidgin](https://github.com/EionRobb/skype4pidgin) - Skype Plugin for Pidgin, libpurple and more
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -2705,7 +2704,7 @@
 - [jarzebski/Arduino-DS3231](https://github.com/jarzebski/Arduino-DS3231) - DS3231 Real-Time-Clock
 - [majekw/optiboot](https://github.com/majekw/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [hecko/optiboot](https://github.com/hecko/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
-- [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator and disassembler for 8-bit processors. Currently supports Z80 and my Homemade CPU..
+- [Andy4495/emulator-8-bit](https://github.com/Andy4495/emulator-8-bit) - CPU emulator and disassembler for 8-bit processors. Currently supports Z80 and my Homemade CPU.
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [himikat123/Weather-Monitor-BIM](https://github.com/himikat123/Weather-Monitor-BIM) - Weather monitor based on ESP8266
 - [himikat123/Wireless-sensor-on-ESP8266](https://github.com/himikat123/Wireless-sensor-on-ESP8266) - (OUTDATED, UNSUPPORTED) Wireless temperature/humidity/pressure/ambient light sensor based on ESP8266
@@ -5479,6 +5478,9 @@
 
 ## Lua 
 
+- [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
+- [akinsho/clock.nvim](https://github.com/akinsho/clock.nvim) - A neovim plugin to show a timer in a floating window
+- [akinsho/horizon.nvim](https://github.com/akinsho/horizon.nvim) - Horizon Theme  - Neovim Edition :sunrise:
 - [Quitlox/dotfiles](https://github.com/Quitlox/dotfiles) - 
 - [icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim) - LSP textDocument/documentLink support for neovim
 - [SuperBo/lsp-ai.nvim](https://github.com/SuperBo/lsp-ai.nvim) - LSP-AI plugin for Neovim
@@ -5563,7 +5565,6 @@
 - [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) - Completion source using tmux for blink.cmp
 - [netmute/ctags-lsp.nvim](https://github.com/netmute/ctags-lsp.nvim) - Neovim configuration for ctags-lsp
 - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
-- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [jmbuhr/cmp-pandoc-references](https://github.com/jmbuhr/cmp-pandoc-references) - A source for nvim-cmp, providing completion for bibliography, reference and cross-ref items in Pandoc/Markdown.
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
@@ -8010,7 +8011,6 @@
 - [norcalli/nvim-snippets.lua](https://github.com/norcalli/nvim-snippets.lua) - 
 - [norcalli/nvim_utils](https://github.com/norcalli/nvim_utils) - 
 - [norcalli/nvim.lua](https://github.com/norcalli/nvim.lua) - nvim.lua is a lua module which provides an object which contains shortcut/magic methods that are very useful for mappings.
-- [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [lunarmodules/luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and static analysis of Lua code.
 - [pwntester/dotfiles](https://github.com/pwntester/dotfiles) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
@@ -8379,6 +8379,7 @@
 
 ## Others 
 
+- [NataliaLKB/learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - A Beginner's Guide to Git
 - [carlosefr/atmega](https://github.com/carlosefr/atmega) - Bare ATmega 8/168/328 microcontrollers with the Arduino IDE.
 - [marimo-team/awesome-marimo](https://github.com/marimo-team/awesome-marimo) - ⚡️ A curated list of awesome things related to marimo
 - [esp32-si4732/esp32-si4732-oshwhub](https://github.com/esp32-si4732/esp32-si4732-oshwhub) - Original Chinese hardware and source code from oshwhub.com
@@ -9094,9 +9095,11 @@
 
 ## Python 
 
+- [dandavison/tools](https://github.com/dandavison/tools) - Command-line tools
+- [dandavison/open-in-editor](https://github.com/dandavison/open-in-editor) - Open a local file from a URL at a line number in an editor/IDE
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [jedrzejboczar/kicad-coil-generator](https://github.com/jedrzejboczar/kicad-coil-generator) - Simple script for generating coil footprints for KiCad.
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
 - [G1LRO/chirp2cxf](https://github.com/G1LRO/chirp2cxf) - A utility to convert from CHIRP CSV export files to the CXF file format used by the Quansheng UV-K5 radio CPS- now enhanced with GUI and DCS support
@@ -10344,7 +10347,7 @@
 - [zimfw/archive](https://github.com/zimfw/archive) - Provides functions for easy archive manipulation.
 - [zimfw/magic-enter](https://github.com/zimfw/magic-enter) - Shown when there is no command and user presses ENTER.
 - [zimfw/run-help](https://github.com/zimfw/run-help) - Figures out where to get the best help, and gets it.
-- [zimfw/install](https://github.com/zimfw/install) - Zim installer
+- [zimfw/install](https://github.com/zimfw/install) - Zim Framework installer
 - [zimfw/git](https://github.com/zimfw/git) - Provides nice git aliases and functions.
 - [zimfw/exa](https://github.com/zimfw/exa) - Adds aliases and better defaults for eza or exa.
 - [zimfw/utility](https://github.com/zimfw/utility) - Utility aliases and functions. Adds colour to ls, grep and less.
@@ -11020,7 +11023,7 @@
 - [alanchrt/dotfiles](https://github.com/alanchrt/dotfiles) - Fedora, GNOME, Doom Emacs, tmux, Zsh, and so much more
 - [portacle/portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [eed3si9n/git-gone](https://github.com/eed3si9n/git-gone) - 
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [carnager/buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
 - [miroslavvidovic/rofi-scripts](https://github.com/miroslavvidovic/rofi-scripts) - Small scripts for rofi
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
@@ -11175,6 +11178,7 @@
 - [mistweaverco/kulala-ls](https://github.com/mistweaverco/kulala-ls) - A minimal 🤏 language 🔊 server 📡 for HTTP 🐼 syntax 🌈.
 - [VonHeikemen/learn-nvim](https://github.com/VonHeikemen/learn-nvim) - 
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
+- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
@@ -11381,6 +11385,7 @@
 - [rrthomas/enchant](https://github.com/rrthomas/enchant) - enchant spellchecking library
 - [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+- [willysr/SlackHacks](https://github.com/willysr/SlackHacks) - List of my Hacks on Slackware-Current
 
 ## Verilog 
 
