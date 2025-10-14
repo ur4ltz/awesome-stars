@@ -1712,6 +1712,7 @@
 
 ## C++ 
 
+- [dadecoza/PM_TZXDuino_V1.16](https://github.com/dadecoza/PM_TZXDuino_V1.16) - Poor Man's TZXDuino
 - [carlosefr/pcd8544](https://github.com/carlosefr/pcd8544) - Minimal footprint library for Philips PCD8544 LCDs on the Arduino.
 - [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
 - [superogira/ats-mini](https://github.com/superogira/ats-mini) - ATS Mini firmware fork
@@ -4869,7 +4870,6 @@
 - [pricna/Software-Defined-Radio-Receiver](https://github.com/pricna/Software-Defined-Radio-Receiver) - Software Defined Radio receiver created for Engineering Electronics II at Walla Walla University.
 - [kaduhi/pico-WSPRer](https://github.com/kaduhi/pico-WSPRer) - Minimalist WSPR tracker for pico-balloons utilizing Raspberry Pi Pico (or Rp2040) as the RF generator (aka The Cheapest Tracker In The World™). More info: [WIKI](https://github.com/EngineerGuy314/pico
 - [EngineerGuy314/pico-WSPRer](https://github.com/EngineerGuy314/pico-WSPRer) - Minimalist WSPR tracker for pico-balloons utilizing Raspberry Pi Pico (or Rp2040) as the RF generator (aka The Cheapest Tracker In The World™). More info: [WIKI](https://github.com/EngineerGuy314/pico
-- [kholia/DDX](https://github.com/kholia/DDX) - The 'Direct Digital Transceiver' (DDX) project. Some folks call it 'Dhiru's Digital Transceiver' :D
 - [pu2clr/BK108X](https://github.com/pu2clr/BK108X) - BK108X Arduino Library
 - [pu2clr/SI470X](https://github.com/pu2clr/SI470X) - It is an Arduino Library for the SI4702 and SI4703, BROADCAST RECEIVER.
 - [pu2clr/MCP23008](https://github.com/pu2clr/MCP23008) - Control the MCP23008/MCP23S08 8-Bit I/O Expander with Serial Interface with your Arduino
@@ -8379,6 +8379,7 @@
 
 ## Others 
 
+- [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
 - [NataliaLKB/learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - A Beginner's Guide to Git
 - [carlosefr/atmega](https://github.com/carlosefr/atmega) - Bare ATmega 8/168/328 microcontrollers with the Arduino IDE.
 - [marimo-team/awesome-marimo](https://github.com/marimo-team/awesome-marimo) - ⚡️ A curated list of awesome things related to marimo
@@ -8791,7 +8792,6 @@
 - [matteocrippa/awesome-vim](https://github.com/matteocrippa/awesome-vim) - A collaborative list of awesome vim resources. Feel free to contribute!
 - [Brunty/omz-brunty](https://github.com/Brunty/omz-brunty) - Custom oh-my-zsh prompt theme that was adapted from my bash prompt I used to use.
 - [kimyvgy/gitstatus-zsh-theme](https://github.com/kimyvgy/gitstatus-zsh-theme) - 
-- [wuwentao/bj-unicom-iptv](https://github.com/wuwentao/bj-unicom-iptv) - 北京联通IPTV播放列表 Beijing Unicom IPTV playlist bj-unicom-iptv.m3u
 - [Daivasmara/daivasmara.zsh-theme](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill zsh-theme, personal take on smt
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [B00merang-Artwork/Windows-7](https://github.com/B00merang-Artwork/Windows-7) - The original Win2-7 icon theme adjusted to work with GTK 3.18 +
@@ -10832,6 +10832,7 @@
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [imomaliev/tmux-bash-completion](https://github.com/imomaliev/tmux-bash-completion) - Tmux bash completion
+- [wuwentao/bj-unicom-iptv](https://github.com/wuwentao/bj-unicom-iptv) - 北京联通IPTV播放列表 Beijing Unicom IPTV playlist bj-unicom-iptv.m3u
 - [skylerlee/zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme) - Another :star: theme for oh-my-zsh
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
