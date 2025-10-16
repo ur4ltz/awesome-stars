@@ -4484,6 +4484,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [fpbouchard/gameoflife](https://github.com/fpbouchard/gameoflife) - 
@@ -8205,7 +8206,7 @@
 ## MDX 
 
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 
 ## Makefile 
 
@@ -8379,6 +8380,7 @@
 
 ## Others 
 
+- [agkozak/sublime-settings](https://github.com/agkozak/sublime-settings) - @agkozak's Sublime Text 4 Settings
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
 - [NataliaLKB/learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - A Beginner's Guide to Git
 - [carlosefr/atmega](https://github.com/carlosefr/atmega) - Bare ATmega 8/168/328 microcontrollers with the Arduino IDE.
@@ -8386,7 +8388,7 @@
 - [esp32-si4732/esp32-si4732-oshwhub](https://github.com/esp32-si4732/esp32-si4732-oshwhub) - Original Chinese hardware and source code from oshwhub.com
 - [G8PTN/ATS_MINI](https://github.com/G8PTN/ATS_MINI) - 
 - [armel/uv-k5-firmware-custom-feat-F4HWN](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN) - Quanscheng UV-K5 radio F4HWN firmware
-- [armel/tk11-firmware-custom](https://github.com/armel/tk11-firmware-custom) - Open reimplementation of the Quansheng TK11 Firmware
+- [armel/tk11-teardown](https://github.com/armel/tk11-teardown) - Quansheng TK11 teardown and analysis
 - [etherkit/Si5351BCBreakout](https://github.com/etherkit/Si5351BCBreakout) - Si5351B/C Breakout Board
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [nikitinprior/dF80](https://github.com/nikitinprior/dF80) - Restored F80 compiler code for CP/M
@@ -9099,7 +9101,7 @@
 - [dandavison/open-in-editor](https://github.com/dandavison/open-in-editor) - Open a local file from a URL at a line number in an editor/IDE
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [jedrzejboczar/kicad-coil-generator](https://github.com/jedrzejboczar/kicad-coil-generator) - Simple script for generating coil footprints for KiCad.
 - [fagci/audio-modem](https://github.com/fagci/audio-modem) - 
 - [G1LRO/chirp2cxf](https://github.com/G1LRO/chirp2cxf) - A utility to convert from CHIRP CSV export files to the CXF file format used by the Quansheng UV-K5 radio CPS- now enhanced with GUI and DCS support
@@ -10299,6 +10301,15 @@
 
 ## Shell 
 
+- [PatrickF1/dotfiles](https://github.com/PatrickF1/dotfiles) - dotfiles for macOS, fish, VSCode
+- [oh-my-fish/plugin-osx](https://github.com/oh-my-fish/plugin-osx) - Integration with Finder and iTunes.
+- [joshskidmore/zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - A simple zsh plugin that replaces Ctrl+R with an fzf-driven select which includes date/times.
+- [agkozak/dotfiles](https://github.com/agkozak/dotfiles) - Dotfiles for zsh, vim, tmux, and more. Now using zcomet!
+- [zpm-zsh/clipboard](https://github.com/zpm-zsh/clipboard) - Zsh clipboard plugin
+- [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
+- [AndydeCleyre/dotfiles-zsh](https://github.com/AndydeCleyre/dotfiles-zsh) - 
+- [AndydeCleyre/zpy](https://github.com/AndydeCleyre/zpy) - Manage Python environments in Zsh, with uv or pip-tools
+- [AndydeCleyre/archbuilder_iosevka](https://github.com/AndydeCleyre/archbuilder_iosevka) - 
 - [cuducos/dirvenv.fish](https://github.com/cuducos/dirvenv.fish) - 🐍 Automagically activated and deactivates virtualenv in Fish
 - [MrSloth-dev/Zmux](https://github.com/MrSloth-dev/Zmux) - A script for creating and managing sessions in Tmux
 - [jakobwesthoff/tmux-from-scratch](https://github.com/jakobwesthoff/tmux-from-scratch) - A step by step example repository to get a tmux configuration up and running from scratch
@@ -11316,7 +11327,7 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
+- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
@@ -11395,6 +11406,7 @@
 
 ## Vim Script 
 
+- [pseewald/vim-anyfold](https://github.com/pseewald/vim-anyfold) - Language agnostic vim plugin for folding and motion based on indentation.
 - [pi-sigma/dwm.vim](https://github.com/pi-sigma/dwm.vim) - Tiled Window Management for Vim
 - [mattn/vim-molder](https://github.com/mattn/vim-molder) - 
 - [sqls-server/sqls.vim](https://github.com/sqls-server/sqls.vim) - Vim plugin for sqls
