@@ -301,6 +301,8 @@
 
 ## C 
 
+- [Ho-Ro/ComponentTester](https://github.com/Ho-Ro/ComponentTester) - This repo presents Markus' ComponentTester firmware (https://github.com/Mikrocontroller-net/transistortester/tree/master/Software/Markus and https://github.com/madires/Transistortester-Warehouse) in t
+- [pk17r/Ultimate_Tester](https://github.com/pk17r/Ultimate_Tester) - Pocket Sized Component Tester + LiPo Charge Boost Protect / USB-C Power Supply
 - [KS-Presto/Wolf4SDL](https://github.com/KS-Presto/Wolf4SDL) - A cross-platform port of Wolfenstein 3D with a number of changes and additions. Repository migrated to Bitbucket, please visit the link below
 - [wagiminator/C64-Collection](https://github.com/wagiminator/C64-Collection) - Collection of cartridges, adapters, and replacements for the Commodore C64
 - [petrsimi/sauna_thermostat_esp32](https://github.com/petrsimi/sauna_thermostat_esp32) - 
@@ -4398,7 +4400,7 @@
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [hudclark/grpc-nvim](https://github.com/hudclark/grpc-nvim) - Grpc Client for Neovim
 - [aileot/nvim-fnl](https://github.com/aileot/nvim-fnl) - Neovim config under fnl/ from my private dotfiles
-- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of macros for nvim, simpler than in Lua, more flexible than in Vim script
+- [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) - 🌿 A set of Fennel macros cherry-picking the finest syntax from Vim script and Lua, compiled into the native Neovim API functions.
 - [n-shift/lens.nvim](https://github.com/n-shift/lens.nvim) - Git workflow for neovim
 - [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) - 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
@@ -5089,6 +5091,8 @@
 
 ## JavaScript 
 
+- [OXY2DEV/tree-sitter-doctext](https://github.com/OXY2DEV/tree-sitter-doctext) - Tree-sitter parser for conventional comments
+- [OXY2DEV/tree-sitter-kitty](https://github.com/OXY2DEV/tree-sitter-kitty) - Tree-sitter parser for kitty.conf files
 - [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [OXY2DEV/tree-sitter-vhs](https://github.com/OXY2DEV/tree-sitter-vhs) - Tree-sitter grammar for the CLI video recorder(.tape files)
@@ -5479,6 +5483,13 @@
 
 ## Lua 
 
+- [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
+- [Gl00ria/nvim](https://github.com/Gl00ria/nvim) - 
+- [koreader/ffi-cdecl](https://github.com/koreader/ffi-cdecl) - Automated C declaration extraction for FFI interfaces
+- [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
+- [koreader/contrib](https://github.com/koreader/contrib) - Collection of non-official plugins designed for KOReader
+- [OXY2DEV/markdoc.nvim](https://github.com/OXY2DEV/markdoc.nvim) - Tree-sitter based markdown -&gt; vimdoc converter plugin for Neovim
+- [VioletJewel/vimterm.nvim](https://github.com/VioletJewel/vimterm.nvim) - vim :term in neovim
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [akinsho/clock.nvim](https://github.com/akinsho/clock.nvim) - A neovim plugin to show a timer in a floating window
 - [akinsho/horizon.nvim](https://github.com/akinsho/horizon.nvim) - Horizon Theme  - Neovim Edition :sunrise:
@@ -5624,7 +5635,7 @@
 - [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) - simple neovim plugin manager written in Lua
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - MRU(Most Recently Used) Files for Neovim
 - [wsdjeg/job.nvim](https://github.com/wsdjeg/job.nvim) - async job control api for neovim
-- [wsdjeg/music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - 
+- [wsdjeg/music-player.nvim](https://github.com/wsdjeg/music-player.nvim) - A simple music player for Neovim.
 - [wsdjeg/code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - Async Code Runner for Neovim
 - [wsdjeg/ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration for neovim
 - [wsdjeg/git.nvim](https://github.com/wsdjeg/git.nvim) - git.nvim is a plugin to use git command in neovim
@@ -6662,7 +6673,7 @@
 - [junnplus/lsp-setup.nvim](https://github.com/junnplus/lsp-setup.nvim) - A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.
 - [oncomouse/lushwal.nvim](https://github.com/oncomouse/lushwal.nvim) - Lush.nvim theme for Pywal colors
 - [notomo/vusted](https://github.com/notomo/vusted) - A busted wrapper for testing neovim plugin
-- [olexsmir/init.lua](https://github.com/olexsmir/init.lua) - pov: virgin
+- [olexsmir/init.lua](https://github.com/olexsmir/init.lua) - to nvim or not to nvim, that is the question
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Enhance your golang experience
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
@@ -6938,7 +6949,6 @@
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
 - [harrisoncramer/jump-tag](https://github.com/harrisoncramer/jump-tag) - Neovim plugin for jumping between HTML tags.
 - [lvim-tech/lvim-focus](https://github.com/lvim-tech/lvim-focus) - 
-- [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [emiasims/vimfiles](https://github.com/emiasims/vimfiles) - 
@@ -8000,6 +8010,7 @@
 - [przmv/base16-vis](https://github.com/przmv/base16-vis) - Base16 for Vis
 - [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
+- [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
@@ -8206,7 +8217,6 @@
 ## MDX 
 
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
-- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 
 ## Makefile 
 
@@ -8380,6 +8390,9 @@
 
 ## Others 
 
+- [infosecstreams/cheat.sheets](https://github.com/infosecstreams/cheat.sheets) - A directory of cheat sheets to use with TLDR, cheat.sh, or Navi
+- [madires/Transistortester-Warehouse](https://github.com/madires/Transistortester-Warehouse) - The Transistortester's warehouse for firmware, hardware, documentation and more.
+- [OXY2DEV/.dotfiles](https://github.com/OXY2DEV/.dotfiles) - 🏔️ Dotfiles for MacOS & Termux
 - [agkozak/sublime-settings](https://github.com/agkozak/sublime-settings) - @agkozak's Sublime Text 4 Settings
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
 - [NataliaLKB/learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - A Beginner's Guide to Git
@@ -9110,7 +9123,7 @@
 - [0x9900/QSL](https://github.com/0x9900/QSL) - Send eQSL
 - [armel/uv-k5-chirp-driver](https://github.com/armel/uv-k5-chirp-driver) - Quanscheng UV-K5 radio CHIRP driver for F4HWN firmware
 - [ningw42/Iosevkata](https://github.com/ningw42/Iosevkata) - A PragmataPro styled (ss08) Iosevka variant with my tweaks.
-- [felias-fogg/PyAvrOCD](https://github.com/felias-fogg/PyAvrOCD) - A platform-agnostic GDB server for AVR MCUs
+- [felias-fogg/PyAvrOCD](https://github.com/felias-fogg/PyAvrOCD) - A cross-platform GDB server for AVR MCUs
 - [pamoroso/suite8080](https://github.com/pamoroso/suite8080) - A suite of Intel 8080 Assembly tools
 - [afiskon/wireless-explorer](https://github.com/afiskon/wireless-explorer) - Graphical Wi-Fi scanner for Linux
 - [wagiminator/MCU-Flash-Tools](https://github.com/wagiminator/MCU-Flash-Tools) - Simple ISP Flash Tools for various Microcontrollers
@@ -10054,6 +10067,7 @@
 
 ## Rust 
 
+- [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
@@ -10301,6 +10315,7 @@
 
 ## Shell 
 
+- [OXY2DEV/fish](https://github.com/OXY2DEV/fish) - 
 - [PatrickF1/dotfiles](https://github.com/PatrickF1/dotfiles) - dotfiles for macOS, fish, VSCode
 - [oh-my-fish/plugin-osx](https://github.com/oh-my-fish/plugin-osx) - Integration with Finder and iTunes.
 - [joshskidmore/zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - A simple zsh plugin that replaces Ctrl+R with an fzf-driven select which includes date/times.
@@ -10597,6 +10612,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
+- [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
@@ -11183,6 +11199,7 @@
 
 ## TypeScript 
 
+- [wader/vscode-jq](https://github.com/wader/vscode-jq) - jq extension for VSCode and (Neo)vim.
 - [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
@@ -11327,6 +11344,7 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
+- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -12268,7 +12286,6 @@
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap: netrW =&gt; netrL
 - [wincent/vim-docvim](https://github.com/wincent/vim-docvim) - Syntax highlighting for Docvim comments
-- [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) - Vim script parser
 - [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim) - Open URI with your favorite browser from your most favorite editor
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
@@ -12777,6 +12794,7 @@
 
 ## jq 
 
+- [wader/jq-lsp](https://github.com/wader/jq-lsp) - jq language server
 - [vito-c/jq.vim](https://github.com/vito-c/jq.vim) - Syntax highlighting for jq files in vim/neovim
 - [wader/jqjq](https://github.com/wader/jqjq) - jq implementation of jq
 - [Freed-Wu/jq-rename](https://github.com/Freed-Wu/jq-rename) - Rename FILE(s) using JQEXPR on each filename.
