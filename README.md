@@ -275,6 +275,7 @@
 
 ## Awk 
 
+- [katef/logo.awk](https://github.com/katef/logo.awk) - An implementation of logo in awk
 - [fagci/awk_practicing](https://github.com/fagci/awk_practicing) - 
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [aaronNGi/jj](https://github.com/aaronNGi/jj) - An evolution of the suckless ii(1) file-based IRC client
@@ -301,6 +302,12 @@
 
 ## C 
 
+- [alex-courtis/dwm](https://github.com/alex-courtis/dwm) - 
+- [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
+- [katef/libfsm](https://github.com/katef/libfsm) - DFA regular expression library & friends
+- [CodeEditorLand/Oniguruma](https://github.com/CodeEditorLand/Oniguruma) - regular expression library
+- [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
+- [dasm-assembler/dasm](https://github.com/dasm-assembler/dasm) - Macro assembler with support for several 8-bit microprocessors
 - [Ho-Ro/ComponentTester](https://github.com/Ho-Ro/ComponentTester) - This repo presents Markus' ComponentTester firmware (https://github.com/Mikrocontroller-net/transistortester/tree/master/Software/Markus and https://github.com/madires/Transistortester-Warehouse) in t
 - [pk17r/Ultimate_Tester](https://github.com/pk17r/Ultimate_Tester) - Pocket Sized Component Tester + LiPo Charge Boost Protect / USB-C Power Supply
 - [KS-Presto/Wolf4SDL](https://github.com/KS-Presto/Wolf4SDL) - A cross-platform port of Wolfenstein 3D with a number of changes and additions. Repository migrated to Bitbucket, please visit the link below
@@ -1685,6 +1692,7 @@
 
 ## C# # 
 
+- [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [CppCXY/EmmyLuaAnalyzer](https://github.com/CppCXY/EmmyLuaAnalyzer) - a new EmmyLua Language Server
 - [Krusen/BencodeNET](https://github.com/Krusen/BencodeNET) - .NET library for encoding/decoding bencode and reading/writing torrent files
 - [ConEmu/conemu-inside](https://github.com/ConEmu/conemu-inside) - An example, how to embed http://conemu.github.io/ into another graphical application
@@ -1714,6 +1722,8 @@
 
 ## C++ 
 
+- [alexfreud/winamp](https://github.com/alexfreud/winamp) - Iconic media player
+- [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [dadecoza/PM_TZXDuino_V1.16](https://github.com/dadecoza/PM_TZXDuino_V1.16) - Poor Man's TZXDuino
 - [carlosefr/pcd8544](https://github.com/carlosefr/pcd8544) - Minimal footprint library for Philips PCD8544 LCDs on the Arduino.
 - [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
@@ -2934,7 +2944,7 @@
 - [MCUdude/MiniCore](https://github.com/MCUdude/MiniCore) - Arduino hardware package for ATmega8, ATmega48, ATmega88, ATmega168, ATmega328 and ATmega328PB
 - [colorer/Colorer-library](https://github.com/colorer/Colorer-library) - Syntax  highlighting  and text parsing library
 - [colorer/FarColorer](https://github.com/colorer/FarColorer) - Syntax highlighting plugin for FAR Manager.
-- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 - [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
 - [wmww/wmwwStatusline](https://github.com/wmww/wmwwStatusline) - A configurable Linux statusline written in C++ designed for use with sway and i3
 - [electric-sheep-co/arduino-redis](https://github.com/electric-sheep-co/arduino-redis) - A Redis client library for Arduino.
@@ -4486,6 +4496,7 @@
 
 ## Go 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
@@ -4920,7 +4931,6 @@
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet) - Beej's Guide to Network Programming source
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [honze-net/nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - A Nmap XSL implementation with Bootstrap.
-- [cyrealtype/Lora-Cyrillic](https://github.com/cyrealtype/Lora-Cyrillic) - Lora fonts — serif family for text. Variable Open Source Font
 - [alhassy/org-special-block-extras](https://github.com/alhassy/org-special-block-extras) - A number of new custom blocks and link types for Emacs' Org-mode ^_^
 - [spontanurlaub/telegram-bot-api-log](https://github.com/spontanurlaub/telegram-bot-api-log) - Automatically logs all changes to the telegram bot api
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
@@ -5091,6 +5101,7 @@
 
 ## JavaScript 
 
+- [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [OXY2DEV/tree-sitter-doctext](https://github.com/OXY2DEV/tree-sitter-doctext) - Tree-sitter parser for conventional comments
 - [OXY2DEV/tree-sitter-kitty](https://github.com/OXY2DEV/tree-sitter-kitty) - Tree-sitter parser for kitty.conf files
 - [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
@@ -5483,6 +5494,9 @@
 
 ## Lua 
 
+- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
+- [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) - Tabout plugin for Neovim
+- [gregorias/coop.nvim](https://github.com/gregorias/coop.nvim) - A Neovim plugin for readable concurrency with coroutines.
 - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
 - [Gl00ria/nvim](https://github.com/Gl00ria/nvim) - 
 - [koreader/ffi-cdecl](https://github.com/koreader/ffi-cdecl) - Automated C declaration extraction for FFI interfaces
@@ -5606,7 +5620,6 @@
 - [Saghen/nvim](https://github.com/Saghen/nvim) - Personal neovim configuration
 - [MattiasMTS/cmp-dbee](https://github.com/MattiasMTS/cmp-dbee) - Autocompletion for nvim-dbee
 - [brianaung/compl.nvim](https://github.com/brianaung/compl.nvim) - A lightweight, native-first completion experience for Neovim.
-- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [garymjr/nvim](https://github.com/garymjr/nvim) - My neovim config
 - [wsdjeg/quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim) - general key bindings for quickfix window
 - [wsdjeg/dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - vim dashboard
@@ -6481,7 +6494,7 @@
 - [Zane-/cder.nvim](https://github.com/Zane-/cder.nvim) - A telescope.nvim extension to quickly change Neovim's working directory.
 - [mrjones2014/load-all.nvim](https://github.com/mrjones2014/load-all.nvim) - A Neovim plugin that lets you load/execute all Lua files in a directory at once
 - [mrjones2014/lighthaus.nvim](https://github.com/mrjones2014/lighthaus.nvim) - A Lua implementation of lighthaus-theme/vim-lighthaus
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) - 
 - [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) - NeoVim frontend for mongosh
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) - Edit files from S3 directly from Neovim
@@ -8242,6 +8255,7 @@
 - [cornerman/prompt-hjem](https://github.com/cornerman/prompt-hjem) - a zsh prompt
 - [pianocomposer321/project-template-samples](https://github.com/pianocomposer321/project-template-samples) - Sample templates for project-templates.nvim
 - [crystal-lang/crystal-book](https://github.com/crystal-lang/crystal-book) - Crystal reference with language specification, manuals and learning materials
+- [cyrealtype/Lora-Cyrillic](https://github.com/cyrealtype/Lora-Cyrillic) - Lora fonts — serif family for text. Variable Open Source Font
 - [Tieske/resty-test](https://github.com/Tieske/resty-test) - A setup to quickly test OpenResty Lua code
 - [gosquared/flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
 - [brow/jklp](https://github.com/brow/jklp) - A 36-key ergonomic keyboard
@@ -10315,6 +10329,15 @@
 
 ## Shell 
 
+- [z-shell/F-Sy-H](https://github.com/z-shell/F-Sy-H) - ⚙️ Feature-rich Syntax Highlighting for Zsh
+- [z-shell/H-S-MW](https://github.com/z-shell/H-S-MW) - ⚙️ History search for multiple words
+- [zsh-vi-more/evil-registers](https://github.com/zsh-vi-more/evil-registers) - Access external clipboards in vi-mode keymaps
+- [kutsan/zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode. It is similar to what `set clipboard=unnamed` does for vim.
+- [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
+- [Goles/Battery](https://github.com/Goles/Battery) - Battery is a bash script to display your Laptop's battery status on the terminal.
+- [sepen/arradio-player](https://github.com/sepen/arradio-player) - Play audio streams from macOS Terminal or Linux shell
+- [sepen/monitors](https://github.com/sepen/monitors) - Script to manage dual-monitor configurations using  xrandr
+- [sepen/arradio](https://github.com/sepen/arradio) - Fetch and play internet radio stations directly from the command line
 - [OXY2DEV/fish](https://github.com/OXY2DEV/fish) - 
 - [PatrickF1/dotfiles](https://github.com/PatrickF1/dotfiles) - dotfiles for macOS, fish, VSCode
 - [oh-my-fish/plugin-osx](https://github.com/oh-my-fish/plugin-osx) - Integration with Finder and iTunes.
@@ -10336,6 +10359,7 @@
 - [anuvyklack/dotfiles](https://github.com/anuvyklack/dotfiles) - My chezmoi driven dotfiles
 - [johnwinans/2057-ICE40HX4K-TQ144-breakout](https://github.com/johnwinans/2057-ICE40HX4K-TQ144-breakout) - Minimal Raspberry PI breakout board for ICE40HX4K FPGA
 - [qasimhbti/books](https://github.com/qasimhbti/books) - Some books organised by topic
+- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [lenormf/kakmerge](https://github.com/lenormf/kakmerge) - A Kakoune-based mergetool for Git
 - [tpope/rbenv-ctags](https://github.com/tpope/rbenv-ctags) - Automatically generate ctags for rbenv Ruby stdlibs
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
