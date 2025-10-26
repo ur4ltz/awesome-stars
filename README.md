@@ -302,6 +302,8 @@
 
 ## C 
 
+- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [xcb-xwii/lua-tree-sitter](https://github.com/xcb-xwii/lua-tree-sitter) - Lua bindings for Tree-sitter
 - [alex-courtis/dwm](https://github.com/alex-courtis/dwm) - 
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
 - [katef/libfsm](https://github.com/katef/libfsm) - DFA regular expression library & friends
@@ -9124,6 +9126,7 @@
 
 ## Python 
 
+- [kuroko-lang/kuroko](https://github.com/kuroko-lang/kuroko) - Dialect of Python with explicit variable declaration and block scoping, with a lightweight and easy-to-embed bytecode compiler and interpreter.
 - [dandavison/tools](https://github.com/dandavison/tools) - Command-line tools
 - [dandavison/open-in-editor](https://github.com/dandavison/open-in-editor) - Open a local file from a URL at a line number in an editor/IDE
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
@@ -10329,6 +10332,8 @@
 
 ## Shell 
 
+- [magicant/yash](https://github.com/magicant/yash) - Yet another shell
+- [grml/grml-etc-core](https://github.com/grml/grml-etc-core) - Grmls core configuration files for zsh, vim, screen…
 - [z-shell/F-Sy-H](https://github.com/z-shell/F-Sy-H) - ⚙️ Feature-rich Syntax Highlighting for Zsh
 - [z-shell/H-S-MW](https://github.com/z-shell/H-S-MW) - ⚙️ History search for multiple words
 - [zsh-vi-more/evil-registers](https://github.com/zsh-vi-more/evil-registers) - Access external clipboards in vi-mode keymaps
@@ -12802,6 +12807,7 @@
 
 ## Zig 
 
+- [bagggage/bamos](https://github.com/bagggage/bamos) - Open-source operating system
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems
 - [marler8997/anyzig](https://github.com/marler8997/anyzig) - One zig to rule them all.
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
