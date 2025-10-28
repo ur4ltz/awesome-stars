@@ -302,6 +302,8 @@
 
 ## C 
 
+- [klange/cgiserver](https://github.com/klange/cgiserver) - A simple CGI webserver written in C with no dependencies.
+- [klange/ponyos](https://github.com/klange/ponyos) - My Little Unix: Kernels are Magic!
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
 - [xcb-xwii/lua-tree-sitter](https://github.com/xcb-xwii/lua-tree-sitter) - Lua bindings for Tree-sitter
 - [alex-courtis/dwm](https://github.com/alex-courtis/dwm) - 
@@ -1666,7 +1668,6 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [libgit2/luagit2](https://github.com/libgit2/luagit2) - Lua bindings for libgit2
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [nsf/termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [nsf/ccode](https://github.com/nsf/ccode) - An autocompletion daemon for the C programming language (vim, libclang, omnifunc)
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
@@ -3270,6 +3271,7 @@
 - [ycm-core/ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+- [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [lsdev/LiteStep](https://github.com/lsdev/LiteStep) - LiteStep Alternative Shell
 - [njh/EtherCard](https://github.com/njh/EtherCard) - EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE
 - [XRPLF/rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
@@ -3919,6 +3921,7 @@
 - [radian-software/selectrum](https://github.com/radian-software/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
 - [KaratasFurkan/.emacs.d](https://github.com/KaratasFurkan/.emacs.d) - My literate Emacs configuration
 - [syohex/dot_files](https://github.com/syohex/dot_files) - My dot files
+- [jkitchin/ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
 - [jkitchin/ov-highlight](https://github.com/jkitchin/ov-highlight) - A persistent highlighter for Emacs
 - [jkitchin/ox-clip](https://github.com/jkitchin/ox-clip) - Copy formatted content from org-mode
 - [jkitchin/org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
@@ -4498,6 +4501,9 @@
 
 ## Go 
 
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
+- [burmilla/os](https://github.com/burmilla/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [jezek/xgb](https://github.com/jezek/xgb) - The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.
@@ -4528,6 +4534,7 @@
 - [viccon/pulse](https://github.com/viccon/pulse) - Like a fitness tracker for your coding sessions
 - [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [forscht/xd](https://github.com/forscht/xd) - Dynamic dmenu generator from yaml config
 - [pierrec/lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go
 - [iamwavecut/retracker](https://github.com/iamwavecut/retracker) - Simple local http torrent tracker written in Go
@@ -4579,7 +4586,7 @@
 - [Tencent/LuaHelper](https://github.com/Tencent/LuaHelper) - LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua.
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
-- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [itchyny/github-migrator](https://github.com/itchyny/github-migrator) - GitHub repository migrator
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [arsham/blush](https://github.com/arsham/blush) - Grep with colours
@@ -5103,6 +5110,7 @@
 
 ## JavaScript 
 
+- [neomutt/tree-sitter-muttrc](https://github.com/neomutt/tree-sitter-muttrc) - 🌲👨 muttrc grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [OXY2DEV/tree-sitter-doctext](https://github.com/OXY2DEV/tree-sitter-doctext) - Tree-sitter parser for conventional comments
 - [OXY2DEV/tree-sitter-kitty](https://github.com/OXY2DEV/tree-sitter-kitty) - Tree-sitter parser for kitty.conf files
@@ -5394,7 +5402,6 @@
 - [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [fastai/ghtop-demo](https://github.com/fastai/ghtop-demo) - A CLI tool for showing GitHub events, written with Rich
 - [medwatt/Notes](https://github.com/medwatt/Notes) - 
-- [jkitchin/ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
 - [soumith/cvpr2015](https://github.com/soumith/cvpr2015) - 
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode
@@ -5405,6 +5412,10 @@
 
 ## KakouneScript 
 
+- [Anfid/cosy-termcolors.kak](https://github.com/Anfid/cosy-termcolors.kak) - Colorscheme for Kakoune based on terminal colors
+- [niljimeno/yazi.kak](https://github.com/niljimeno/yazi.kak) - yazi support for kakoune
+- [NNBnh/clipb.kak](https://github.com/NNBnh/clipb.kak) - 📋 Clipboard managers warper for Kakoune
+- [sawdust-and-diamonds/scrollbar.kak](https://github.com/sawdust-and-diamonds/scrollbar.kak) - Add a scrollbar to the kakoune text editor (experimental!)
 - [ABuffSeagull/kakoune-settings](https://github.com/ABuffSeagull/kakoune-settings) - My kakoune settings
 - [ABuffSeagull/nord.kak](https://github.com/ABuffSeagull/nord.kak) - A Nord colorscheme for Kakoune
 - [kkga/ui.kak](https://github.com/kkga/ui.kak) - Toggle UI highlighters in Kakoune.
@@ -5593,6 +5604,7 @@
 - [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) - Completion source using tmux for blink.cmp
 - [netmute/ctags-lsp.nvim](https://github.com/netmute/ctags-lsp.nvim) - Neovim configuration for ctags-lsp
 - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
+- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [jmbuhr/cmp-pandoc-references](https://github.com/jmbuhr/cmp-pandoc-references) - A source for nvim-cmp, providing completion for bibliography, reference and cross-ref items in Pandoc/Markdown.
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
@@ -6557,7 +6569,6 @@
 - [smartpde/telescope-recent-files](https://github.com/smartpde/telescope-recent-files) - Telescope extension for Neovim to pick a recent file
 - [woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 - [David-Kunz/markid](https://github.com/David-Kunz/markid) - A Neovim extension to highlight same-name identifiers with the same color.
-- [sopa0/telescope-makefile](https://github.com/sopa0/telescope-makefile) - 
 - [ii14/dotfiles](https://github.com/ii14/dotfiles) - dotfiles
 - [ii14/vimuri.nvim](https://github.com/ii14/vimuri.nvim) - 
 - [ii14/autosplit.nvim](https://github.com/ii14/autosplit.nvim) - 
@@ -8406,6 +8417,8 @@
 
 ## Others 
 
+- [basbebe/pandoc.kak](https://github.com/basbebe/pandoc.kak) - pandoc plugin for kakoune text editor
+- [tony/awesome-tmux-configs](https://github.com/tony/awesome-tmux-configs) - Add your configs for tmux
 - [infosecstreams/cheat.sheets](https://github.com/infosecstreams/cheat.sheets) - A directory of cheat sheets to use with TLDR, cheat.sh, or Navi
 - [madires/Transistortester-Warehouse](https://github.com/madires/Transistortester-Warehouse) - The Transistortester's warehouse for firmware, hardware, documentation and more.
 - [OXY2DEV/.dotfiles](https://github.com/OXY2DEV/.dotfiles) - 🏔️ Dotfiles for MacOS & Termux
@@ -9126,6 +9139,11 @@
 
 ## Python 
 
+- [alberti42/tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - 🚀 Open any kind of link with highly customizable matching patterns
+- [vcs-python/g](https://github.com/vcs-python/g) - g: Sync your current directories VCS (or reach for one via `--cwd`)
+- [vcs-python/libvcs](https://github.com/vcs-python/libvcs) - ⚙️ Lite, typed, pythonic utilities for git, svn, mercurial, etc.
+- [vcs-python/vcspull](https://github.com/vcs-python/vcspull) - 🔄 Synchronize projects via yaml/json manifest. Built using `libvcs`.
+- [tony/tmuxp-config](https://github.com/tony/tmuxp-config) - Configs for tmuxp (https://github.com/tony/tmuxp)
 - [kuroko-lang/kuroko](https://github.com/kuroko-lang/kuroko) - Dialect of Python with explicit variable declaration and block scoping, with a lightweight and easy-to-embed bytecode compiler and interpreter.
 - [dandavison/tools](https://github.com/dandavison/tools) - Command-line tools
 - [dandavison/open-in-editor](https://github.com/dandavison/open-in-editor) - Open a local file from a URL at a line number in an editor/IDE
@@ -10332,6 +10350,23 @@
 
 ## Shell 
 
+- [jaclu/tmux-power-zoom](https://github.com/jaclu/tmux-power-zoom) - Zoom pane to separate window, and unzoom it back into it's original location
+- [rickstaa/tmux-notify](https://github.com/rickstaa/tmux-notify) - Tmux plugin to notify you when processes are finished.
+- [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A plugin for tmux that allows users to select actions from a customizable popup menu 🧰
+- [wfxr/tmux-web-reachable](https://github.com/wfxr/tmux-web-reachable) - 
+- [wfxr/tmux-net-speed](https://github.com/wfxr/tmux-net-speed) - 
+- [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
+- [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
+- [joshmedeski/tmux-fzf-url](https://github.com/joshmedeski/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
+- [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows
+- [AngryMorrocoy/tmux-neolazygit](https://github.com/AngryMorrocoy/tmux-neolazygit) - Better workflow with nvim + tmux + lazygit
+- [tmux-plugins/tmux-fpp](https://github.com/tmux-plugins/tmux-fpp) - Quickly open any path on your terminal window in your $EDITOR of choice!
+- [tmux-plugins/tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy) - Kill hanging processes fast
+- [lloydbond/tmux-floating-terminal](https://github.com/lloydbond/tmux-floating-terminal) - Popup floating terminal pane in tmux
+- [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
+- [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
+- [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+- [tmux-plugins/tmux-sessionist](https://github.com/tmux-plugins/tmux-sessionist) - Lightweight tmux utils for manipulating sessions
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell
 - [grml/grml-etc-core](https://github.com/grml/grml-etc-core) - Grmls core configuration files for zsh, vim, screen…
 - [z-shell/F-Sy-H](https://github.com/z-shell/F-Sy-H) - ⚙️ Feature-rich Syntax Highlighting for Zsh
@@ -11236,7 +11271,6 @@
 - [mistweaverco/kulala-ls](https://github.com/mistweaverco/kulala-ls) - A minimal 🤏 language 🔊 server 📡 for HTTP 🐼 syntax 🌈.
 - [VonHeikemen/learn-nvim](https://github.com/VonHeikemen/learn-nvim) - 
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
-- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
@@ -11263,7 +11297,6 @@
 - [f4exb/sdrangelcli](https://github.com/f4exb/sdrangelcli) - Browser based client application for SDRangel in remote mode
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [wokwi/good-arduino-code](https://github.com/wokwi/good-arduino-code) - Frontend for goodarduinocode.com - A curated collection of Arduino coding examples
-- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [yuki-yano/highlight-undo.nvim](https://github.com/yuki-yano/highlight-undo.nvim) - 
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
