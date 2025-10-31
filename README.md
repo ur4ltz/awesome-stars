@@ -1725,6 +1725,10 @@
 
 ## C++ 
 
+- [jgromes/RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for embedded devices
+- [BugerDread/esp8266-ezTIME-wifi-clock](https://github.com/BugerDread/esp8266-ezTIME-wifi-clock) - Simple arduino clock using ESP8266, ezTIME NTP library and MAX7219 LED display modules
+- [ropg/ezTime](https://github.com/ropg/ezTime) - ezTime — pronounced "Easy Time" — is a very easy to use Arduino time and date library that provides NTP network time lookups, extensive timezone support, formatted time and date strings, user events, 
+- [prt459/XIAO_VFO_Controller](https://github.com/prt459/XIAO_VFO_Controller) - A VFO and controller for a radio transceiver using the XIAO MCUs.
 - [alexfreud/winamp](https://github.com/alexfreud/winamp) - Iconic media player
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [dadecoza/PM_TZXDuino_V1.16](https://github.com/dadecoza/PM_TZXDuino_V1.16) - Poor Man's TZXDuino
@@ -1858,7 +1862,6 @@
 - [kapraran/FreqCountESP](https://github.com/kapraran/FreqCountESP) - A frequency counter library for esp32
 - [dpwe/FreqCountRP2](https://github.com/dpwe/FreqCountRP2) - Frequency Counter library for the RP2040 under the Arduino IDE.
 - [schreibfaul1/ESP8266-LED-Matrix-Clock](https://github.com/schreibfaul1/ESP8266-LED-Matrix-Clock) - Clock with six 8x8 Led-Matrix, watch my video at YouTube: https://www.youtube.com/watch?v=mea5-qX4O54
-- [schreibfaul1/ESP32-IR-Remote-Control](https://github.com/schreibfaul1/ESP32-IR-Remote-Control) - C++ class for the infrared remote control and reciever module
 - [schreibfaul1/ESP32-LED-Matrix-Clock](https://github.com/schreibfaul1/ESP32-LED-Matrix-Clock) - Clock with six 8x8 Led-Matrix, similar to my video at YouTube: https://www.youtube.com/watch?v=mea5-qX4O54
 - [schreibfaul1/ESP32_Arduino_ESPIDF](https://github.com/schreibfaul1/ESP32_Arduino_ESPIDF) - 
 - [Yveaux/AC101](https://github.com/Yveaux/AC101) - AC101 audio codec driver library for Arduino
@@ -4501,6 +4504,8 @@
 
 ## Go 
 
+- [leafo/folio](https://github.com/leafo/folio) - 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [burmilla/os](https://github.com/burmilla/os) - Tiny Linux distro that runs the entire OS as Docker containers
@@ -4873,6 +4878,7 @@
 
 ## HTML 
 
+- [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
 - [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) - Перевод - Эффективный Go
@@ -5000,6 +5006,7 @@
 
 ## Haskell 
 
+- [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [andys8/git-brunch](https://github.com/andys8/git-brunch) - Git branch checkout menu
 - [jgm/doctemplates](https://github.com/jgm/doctemplates) - Pandoc-compatible templating system
@@ -5023,6 +5030,7 @@
 
 ## Java 
 
+- [earlephilhower/arduino-pico-littlefs-plugin](https://github.com/earlephilhower/arduino-pico-littlefs-plugin) - LittleFS Data Uploader for Arduino-Pico
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [TylerWilliamson/BatteryNotification](https://github.com/TylerWilliamson/BatteryNotification) - Creates a persistent notification to see battery information at a glance!
 - [mkeller0815/MEEPROMMER](https://github.com/mkeller0815/MEEPROMMER) - EEPROM / EPROM programmer based on Arduino hardware
@@ -5507,6 +5515,23 @@
 
 ## Lua 
 
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
+- [David-Kunz/cov.nvim](https://github.com/David-Kunz/cov.nvim) - Neovim plugin to show coverage
+- [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
+- [azorng/goose.nvim](https://github.com/azorng/goose.nvim) - seamless neovim integration with goose - work with a powerful AI agent without leaving your editor
+- [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
+- [hishamhm/lutrace](https://github.com/hishamhm/lutrace) - luTrace (Lua Micro Trace) is a tiny stand-alone module that prints a trace of functions executed by a script (like strace, ltrace, etc.)
+- [Deepak123bharat/rocks-fs](https://github.com/Deepak123bharat/rocks-fs) - 
+- [hishamhm/cyan](https://github.com/hishamhm/cyan) - The Teal build system and project manager
+- [hishamhm/restserver](https://github.com/hishamhm/restserver) - A simple server API for writing REST services running over WSAPI
+- [hishamhm/datafile](https://github.com/hishamhm/datafile) - A Lua library for handling paths when loading data files
+- [Andriamanitra/mlsp](https://github.com/Andriamanitra/mlsp) - Language Server Protocol plugin for micro-editor
+- [usfbih8u/micro-diff-preview](https://github.com/usfbih8u/micro-diff-preview) - Display a preview of Git diffs in a tooltip for the [Micro editor](https://github.com/zyedidia/micro).
+- [max397574/care.nvim](https://github.com/max397574/care.nvim) - care.nvim - Completion And Recommendation Engine for Neovim - WIP
+- [gdar463/color-picker.nvim](https://github.com/gdar463/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
+- [ojroques/nvim-scrollbar](https://github.com/ojroques/nvim-scrollbar) - A simple and fast scrollbar for Neovim
+- [ojroques/nvim-bufbar](https://github.com/ojroques/nvim-bufbar) - A simple and very light Neovim bufferline
+- [ojroques/nvim-bookmarks](https://github.com/ojroques/nvim-bookmarks) - A Neovim plugin to quickly navigate files with bookmarks
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) - Tabout plugin for Neovim
 - [gregorias/coop.nvim](https://github.com/gregorias/coop.nvim) - A Neovim plugin for readable concurrency with coroutines.
@@ -5629,9 +5654,9 @@
 - [RealTimeLogic/BAS-Resources](https://github.com/RealTimeLogic/BAS-Resources) - The Barracuda App Server's resource files
 - [hjson/hjson-lua](https://github.com/hjson/hjson-lua) - A lightweight H/JSON library for Lua
 - [tiye/json-lua](https://github.com/tiye/json-lua) - JSON encoder/decoder
-- [Saghen/blink.download](https://github.com/Saghen/blink.download) - Neovim library for downloading shared libraries
-- [Saghen/neovim-lua-rust-template](https://github.com/Saghen/neovim-lua-rust-template) - Template for writing plugins for Neovim in Lua and Rust
-- [Saghen/nvim](https://github.com/Saghen/nvim) - Personal neovim configuration
+- [saghen/blink.download](https://github.com/saghen/blink.download) - Neovim library for downloading shared libraries
+- [saghen/neovim-lua-rust-template](https://github.com/saghen/neovim-lua-rust-template) - Template for writing plugins for Neovim in Lua and Rust
+- [saghen/nvim](https://github.com/saghen/nvim) - Personal neovim configuration
 - [MattiasMTS/cmp-dbee](https://github.com/MattiasMTS/cmp-dbee) - Autocompletion for nvim-dbee
 - [brianaung/compl.nvim](https://github.com/brianaung/compl.nvim) - A lightweight, native-first completion experience for Neovim.
 - [garymjr/nvim](https://github.com/garymjr/nvim) - My neovim config
@@ -5643,7 +5668,7 @@
 - [wsdjeg/todo.nvim](https://github.com/wsdjeg/todo.nvim) - todo manager plugin for Neovim
 - [wsdjeg/cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - Color Converter for neovim
 - [wsdjeg/repl.nvim](https://github.com/wsdjeg/repl.nvim) - 
-- [wsdjeg/nvim-config](https://github.com/wsdjeg/nvim-config) - 
+- [wsdjeg/nvim-config](https://github.com/wsdjeg/nvim-config) - Eric's neovim config
 - [wsdjeg/notify.nvim](https://github.com/wsdjeg/notify.nvim) - notification framework plugin for neovim
 - [wsdjeg/iedit.nvim](https://github.com/wsdjeg/iedit.nvim) - iedit mode for neovim
 - [wsdjeg/format.nvim](https://github.com/wsdjeg/format.nvim) - asynchronous code formatting plugin
@@ -5703,13 +5728,13 @@
 - [AstroNvim/template](https://github.com/AstroNvim/template) - AstroNvim template
 - [MisanthropicBit/neotest-busted](https://github.com/MisanthropicBit/neotest-busted) - Neotest adapter for running busted tests using neovim as a lua interpreter
 - [YaroSpace/lua-console.nvim](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration
-- [Saghen/blink.chartoggle](https://github.com/Saghen/blink.chartoggle) - 
-- [Saghen/blink.clue](https://github.com/Saghen/blink.clue) - 
-- [Saghen/blink.indent](https://github.com/Saghen/blink.indent) - Indent guides with scope on every keystroke
-- [Saghen/blink.select](https://github.com/Saghen/blink.select) - 
-- [Saghen/blink.tree](https://github.com/Saghen/blink.tree) - 
-- [Saghen/blink.nvim](https://github.com/Saghen/blink.nvim) - Set of simple, performant neovim plugins
-- [Saghen/blink.compat](https://github.com/Saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
+- [saghen/blink.chartoggle](https://github.com/saghen/blink.chartoggle) - 
+- [saghen/blink.clue](https://github.com/saghen/blink.clue) - 
+- [saghen/blink.indent](https://github.com/saghen/blink.indent) - Indent guides with scope on every keystroke
+- [saghen/blink.select](https://github.com/saghen/blink.select) - 
+- [saghen/blink.tree](https://github.com/saghen/blink.tree) - 
+- [saghen/blink.nvim](https://github.com/saghen/blink.nvim) - Set of simple, performant neovim plugins
+- [saghen/blink.compat](https://github.com/saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim) - KEKW
 - [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) - Lua + AI = ???
@@ -5774,7 +5799,7 @@
 - [DanWlker/toolbox.nvim](https://github.com/DanWlker/toolbox.nvim) - A toolbox for neovim to put your custom neovim functions, all invokable from vim.ui.select!
 - [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork
 - [yioneko/nvim-cmp](https://github.com/yioneko/nvim-cmp) - A completion plugin for neovim coded in Lua.
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [wassimk/gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) - Navigate from Neovim to GitHub quickly with this plugin
 - [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as the colorcolumn
 - [Fildo7525/reloader.nvim](https://github.com/Fildo7525/reloader.nvim) - Easy setup of C++ projects
@@ -6975,6 +7000,7 @@
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
 - [harrisoncramer/jump-tag](https://github.com/harrisoncramer/jump-tag) - Neovim plugin for jumping between HTML tags.
 - [lvim-tech/lvim-focus](https://github.com/lvim-tech/lvim-focus) - 
+- [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [emiasims/vimfiles](https://github.com/emiasims/vimfiles) - 
@@ -8298,6 +8324,7 @@
 
 ## MoonScript 
 
+- [leafo/streak.club](https://github.com/leafo/streak.club) - a website for running creative streaks
 - [leafo/wallrun-js](https://github.com/leafo/wallrun-js) - Trying to get love2d game working in browser using fengari
 - [leafo/garfield](https://github.com/leafo/garfield) - garfield comic viewer 🐱
 - [leafo/loadkit](https://github.com/leafo/loadkit) - Loadkit allows you to load arbitrary files within the Lua package path
@@ -8417,6 +8444,9 @@
 
 ## Others 
 
+- [ldelossa/litee-gh-testing](https://github.com/ldelossa/litee-gh-testing) - Test repository for working on litee-gh.nvim
+- [yellobyte/USB-Atmel-In-Circuit-Programmer](https://github.com/yellobyte/USB-Atmel-In-Circuit-Programmer) - USB programmer for Atmel AVR controllers (based on USBasp) with extra features
+- [agkozak/dircolors-zenburn](https://github.com/agkozak/dircolors-zenburn) - Zenburn 256 color scheme for the color GNU ls utility.
 - [basbebe/pandoc.kak](https://github.com/basbebe/pandoc.kak) - pandoc plugin for kakoune text editor
 - [tony/awesome-tmux-configs](https://github.com/tony/awesome-tmux-configs) - Add your configs for tmux
 - [infosecstreams/cheat.sheets](https://github.com/infosecstreams/cheat.sheets) - A directory of cheat sheets to use with TLDR, cheat.sh, or Navi
@@ -9013,6 +9043,7 @@
 
 ## PHP 
 
+- [TasmoAdmin/TasmoAdmin](https://github.com/TasmoAdmin/TasmoAdmin) - TasmoAdmin is an administrative platform for devices flashed with Tasmota
 - [guanguans/ai-commit](https://github.com/guanguans/ai-commit) - Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
 - [ph2lb/LoRaWAN_TTN_Env](https://github.com/ph2lb/LoRaWAN_TTN_Env) - Back and frontend for a enviromental beacon system which can be used with the TTNDHT22Beacon, LoRaWAN_TTN_Enschede_LMIC_ABP and LoRaWAN_TTN_Enschede.
 - [chriskempson/base16-builder-php](https://github.com/chriskempson/base16-builder-php) - A PHP implementation of a Base16 Builder
@@ -9078,6 +9109,7 @@
 
 ## Perl 
 
+- [k4rthik/git-cal](https://github.com/k4rthik/git-cal) - github like contributions calendar on terminal
 - [8cH9azbsFifZ/Morse-Code-Ninja](https://github.com/8cH9azbsFifZ/Morse-Code-Ninja) - Software used to generate Morse Code Ninja practice sets as found on https://morsecode.ninja/practice/index.html
 - [hexchat/hexchat-addons](https://github.com/hexchat/hexchat-addons) - Plugins and scripts made for HexChat
 - [Tarrasch/zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
@@ -9139,6 +9171,11 @@
 
 ## Python 
 
+- [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
+- [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
+- [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
+- [Jason2866/ESP_Flasher](https://github.com/Jason2866/ESP_Flasher) - Tasmota Flasher for ESP8266 and ESP32x :alien:
+- [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
 - [alberti42/tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - 🚀 Open any kind of link with highly customizable matching patterns
 - [vcs-python/g](https://github.com/vcs-python/g) - g: Sync your current directories VCS (or reach for one via `--cwd`)
 - [vcs-python/libvcs](https://github.com/vcs-python/libvcs) - ⚙️ Lite, typed, pythonic utilities for git, svn, mercurial, etc.
@@ -10105,7 +10142,7 @@
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
-- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
+- [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
 - [enricozb/popup.kak](https://github.com/enricozb/popup.kak) - Kakoune popup plugin
 - [ul/kak-tree](https://github.com/ul/kak-tree) - Structural selections for Kakoune
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
@@ -10350,6 +10387,35 @@
 
 ## Shell 
 
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+- [imomaliev/tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Tmux per session color
+- [leighmcculloch/tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) - A tmux colour theme that likes yellow and shades of grey.
+- [aaronpowell/tmux-weather](https://github.com/aaronpowell/tmux-weather) - Display weather information in tmux status bar
+- [omerxx/tmux-buffex](https://github.com/omerxx/tmux-buffex) - Dump the current buffer into your text editor
+- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager
+- [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
+- [urbainvaes/fzf-marks](https://github.com/urbainvaes/fzf-marks) - Plugin to manage bookmarks in bash and zsh
+- [niksingh710/fzf-preview](https://github.com/niksingh710/fzf-preview) - A Simple Fzf Preview Script, helps to preview any filetype in fzf preview window.
+- [niksingh710/minimal-tmux-status](https://github.com/niksingh710/minimal-tmux-status) - A simple minimal tmux theme that does shows prefix key press status.
+- [vaaleyard/tmux-dotbar](https://github.com/vaaleyard/tmux-dotbar) - a simple and minimalist status bar theme for tmux ☯︎
+- [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
+- [zpm-zsh/ssh](https://github.com/zpm-zsh/ssh) - Zsh plugin for ssh
+- [peterhellberg/dircolors-jellybeans](https://github.com/peterhellberg/dircolors-jellybeans) - Dircolors suitable for use with jellybeans.vim
+- [zpm-zsh/colors](https://github.com/zpm-zsh/colors) - Enhanced colors for zsh
+- [zpm-zsh/bookmarks](https://github.com/zpm-zsh/bookmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
+- [zpm-zsh/tmux-keys](https://github.com/zpm-zsh/tmux-keys) - Make shortcut toolbar for F1-F12 keys.
+- [zpm-zsh/ls](https://github.com/zpm-zsh/ls) - Zsh plugin for ls
+- [zpm-zsh/zpm-readme](https://github.com/zpm-zsh/zpm-readme) - Plugin for zpm
+- [zpm-zsh/zpm-info](https://github.com/zpm-zsh/zpm-info) - Plugin for zpm, show info about zsh plugin
+- [zpm-zsh/tmux](https://github.com/zpm-zsh/tmux) - zsh plugin for tmux
+- [mollifier/anyframe](https://github.com/mollifier/anyframe) - peco/percol/fzf wrapper plugin for zsh
+- [zdharma-continuum/Zsh-100-Commits-Club](https://github.com/zdharma-continuum/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
+- [agkozak/zhooks](https://github.com/agkozak/zhooks) - Display Zsh hook functions and arrays
+- [agkozak/jumpstart-z](https://github.com/agkozak/jumpstart-z) - Convert autojump database into z database
+- [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
+- [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [jaclu/tmux-power-zoom](https://github.com/jaclu/tmux-power-zoom) - Zoom pane to separate window, and unzoom it back into it's original location
 - [rickstaa/tmux-notify](https://github.com/rickstaa/tmux-notify) - Tmux plugin to notify you when processes are finished.
 - [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A plugin for tmux that allows users to select actions from a customizable popup menu 🧰
@@ -10676,7 +10742,6 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
-- [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
@@ -11263,6 +11328,8 @@
 
 ## TypeScript 
 
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
 - [wader/vscode-jq](https://github.com/wader/vscode-jq) - jq extension for VSCode and (Neo)vim.
 - [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
@@ -11486,6 +11553,8 @@
 
 ## Vim Script 
 
+- [urbainvaes/nvim-i3scratchpad](https://github.com/urbainvaes/nvim-i3scratchpad) - A floating scratchpad for neovim that behaves like the i3 scratchpad
+- [greymd/oscyank.vim](https://github.com/greymd/oscyank.vim) - Yank with OSC52/PASTE64.
 - [pseewald/vim-anyfold](https://github.com/pseewald/vim-anyfold) - Language agnostic vim plugin for folding and motion based on indentation.
 - [pi-sigma/dwm.vim](https://github.com/pi-sigma/dwm.vim) - Tiled Window Management for Vim
 - [mattn/vim-molder](https://github.com/mattn/vim-molder) - 
@@ -12840,6 +12909,7 @@
 
 ## Zig 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [bagggage/bamos](https://github.com/bagggage/bamos) - Open-source operating system
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems
 - [marler8997/anyzig](https://github.com/marler8997/anyzig) - One zig to rule them all.
