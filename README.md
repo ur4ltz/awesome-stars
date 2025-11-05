@@ -302,6 +302,10 @@
 
 ## C 
 
+- [libgit2/xdiff](https://github.com/libgit2/xdiff) - xdiff (from git)
+- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [mah0x211/lua-base64mix](https://github.com/mah0x211/lua-base64mix) - base64 encode/decode module
+- [lunarmodules/luasql](https://github.com/lunarmodules/luasql) - LuaSQL is a simple interface from Lua to a DBMS.
 - [klange/cgiserver](https://github.com/klange/cgiserver) - A simple CGI webserver written in C with no dependencies.
 - [klange/ponyos](https://github.com/klange/ponyos) - My Little Unix: Kernels are Magic!
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
@@ -1138,7 +1142,7 @@
 - [kaievns/halmak](https://github.com/kaievns/halmak) - The final version of the AI designed keyboard layout
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [felias-fogg/avrburn](https://github.com/felias-fogg/avrburn) - AVR programmer on Gamebuino Meta
 - [ghaerr/elks](https://github.com/ghaerr/elks) - Embeddable Linux Kernel Subset - Linux for 8086
@@ -2740,7 +2744,7 @@
 - [cristiancristea00/tic-tac-toe](https://github.com/cristiancristea00/tic-tac-toe) - Tic-Tac-Toe game with AI implemented on a Raspberry Pi Pico board and a 20x4 LED display.
 - [Erriez/ErriezRobotDyn4DigitDisplay](https://github.com/Erriez/ErriezRobotDyn4DigitDisplay) - RobotDyn 4-digit 7-segment TM1637 display library for Arduino
 - [entorb/arduino-sensorics](https://github.com/entorb/arduino-sensorics) - Code for reading various sensors attached to a Arduino ESP32, data is uploaded via WiFi to an InfluxDB or displayed.
-- [neildavis/lib_tm1637_rpi](https://github.com/neildavis/lib_tm1637_rpi) - A library for using the TM1637 LED driver control IC on Raspberry Pi OS (Raspbian)
+- [neildavis/lib_tm1637_rpi](https://github.com/neildavis/lib_tm1637_rpi) - A library and executable util for using the TM1637 LED driver control IC on Raspberry Pi OS (Raspbian)
 - [maarten-pennings/I2Cbus](https://github.com/maarten-pennings/I2Cbus) - Arduino library that implements "bus clear" for an I2C bus
 - [felias-fogg/osccalTune](https://github.com/felias-fogg/osccalTune) - Arduino sketch for calibrating the internal oscillator
 - [nickgammon/arduino_sketches](https://github.com/nickgammon/arduino_sketches) - Publicly-released sketches for the Arduino microprocessor
@@ -3294,6 +3298,7 @@
 
 ## CMake 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [alexf91/gr-nordic](https://github.com/alexf91/gr-nordic) - GNU Radio module and Wireshark dissector for the Nordic Semiconductor nRF24L Enhanced Shockburst protocol.
 - [BastilleResearch/gr-nordic](https://github.com/BastilleResearch/gr-nordic) - GNU Radio module and Wireshark dissector for the Nordic Semiconductor nRF24L Enhanced Shockburst protocol.
 - [ViacheslavMezentsev/avr-cmake](https://github.com/ViacheslavMezentsev/avr-cmake) - This project is used to develop applications for the AVR MCUs. It uses cmake and GCC.
@@ -3946,8 +3951,7 @@
 - [mineo/yatemplate](https://github.com/mineo/yatemplate) - File templates for Emacs with YASnippet
 - [mkcms/compiler-explorer.el](https://github.com/mkcms/compiler-explorer.el) - Compiler-explorer client for Emacs
 - [mkcms/mu4e-overview](https://github.com/mkcms/mu4e-overview) - Show overview of maildir
-- [mkcms/interactive-align](https://github.com/mkcms/interactive-align) - Interactively align by regular expression in emacs
-- [mkcms/ivy-yasnippet](https://github.com/mkcms/ivy-yasnippet) - Preview yasnippet snippets with ivy
+- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
 - [Alexander-Miller/tridactylrc-mode](https://github.com/Alexander-Miller/tridactylrc-mode) - 
 - [Alexander-Miller/company-shell](https://github.com/Alexander-Miller/company-shell) - 
 - [Alexander-Miller/pfuture](https://github.com/Alexander-Miller/pfuture) - 
@@ -4504,6 +4508,7 @@
 
 ## Go 
 
+- [abs-lang/abs](https://github.com/abs-lang/abs) - Home of the ABS programming language: the joy of shell scripting.
 - [leafo/folio](https://github.com/leafo/folio) - 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
@@ -5515,6 +5520,15 @@
 
 ## Lua 
 
+- [akojo/clutch](https://github.com/akojo/clutch) - A simple Lua API for sqlite3
+- [iskolbin/lbase64](https://github.com/iskolbin/lbase64) - Lua base64 decoder/encoder
+- [Neph-Oo/lua-base45](https://github.com/Neph-Oo/lua-base45) - Lua base45 encoder/decoder for lua5.1+ and luajit.
+- [sclu1034/async.lua](https://github.com/sclu1034/async.lua) - Utilities for callback-style asynchronous execution in Lua
+- [S1M0N38/ai.nvim](https://github.com/S1M0N38/ai.nvim) - ✧ Query LLMs following OpenAI API specification
+- [FAUniv/clidebugger](https://github.com/FAUniv/clidebugger) - A simple command line interface debugger for Lua 5.1 written in pure Lua. Its not dependent on anything other than the standard Lua 5.1 libraries. It was inspired by RemDebug but does not have its rem
+- [lindowx/lua-resty-vardump](https://github.com/lindowx/lua-resty-vardump) - A debug tool for the Openresty/ngx_lua that pretty-prints some Lua values.
+- [lua-ulf/ulf.log](https://github.com/lua-ulf/ulf.log) - A logger module for Luajit and Neovim
+- [kokaito-git/lsp-dui](https://github.com/kokaito-git/lsp-dui) - nvim plugin to display LSP issues at the file/line level, copy errors, etc.
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [David-Kunz/cov.nvim](https://github.com/David-Kunz/cov.nvim) - Neovim plugin to show coverage
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
@@ -8272,6 +8286,7 @@
 
 ## Makefile 
 
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [Z80-Retro/Z80-Retro-Manual](https://github.com/Z80-Retro/Z80-Retro-Manual) - 
 - [stm32duino/BoardManagerFiles](https://github.com/stm32duino/BoardManagerFiles) - Storage for Arduino Board Manager JSON and package files etc
@@ -8324,6 +8339,7 @@
 
 ## MoonScript 
 
+- [daelvn/grasp](https://github.com/daelvn/grasp) - Wrapper around the lsqlite3 API with a functional approach
 - [leafo/streak.club](https://github.com/leafo/streak.club) - a website for running creative streaks
 - [leafo/wallrun-js](https://github.com/leafo/wallrun-js) - Trying to get love2d game working in browser using fengari
 - [leafo/garfield](https://github.com/leafo/garfield) - garfield comic viewer 🐱
@@ -9171,6 +9187,7 @@
 
 ## Python 
 
+- [zsh-git-prompt/zsh-git-prompt](https://github.com/zsh-git-prompt/zsh-git-prompt) - Informative git prompt for zsh
 - [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
 - [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
 - [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
@@ -10027,6 +10044,10 @@
 
 ## Ruby 
 
+- [junegunn/heytmux](https://github.com/junegunn/heytmux) - Tmux scripting made easy
+- [junegunn/everything.fzf](https://github.com/junegunn/everything.fzf) - :bagel: fzf all the things!
+- [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - 
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [gitlabhq/omnibus-gitlab](https://github.com/gitlabhq/omnibus-gitlab) - GitLab Omnibus Mirror | Please open new issues in our issue tracker on GitLab.com
 - [pluralsight/git-internals-pdf](https://github.com/pluralsight/git-internals-pdf) - PDF on Git Internals
 - [Upcycle-Electronics/LGT8Fx-Datasheet](https://github.com/Upcycle-Electronics/LGT8Fx-Datasheet) - This is an attempt at a better detailed English translation of the Logic Green LGT8Fx Datasheet. This includes all files used to create the document. It's a work in progress.
@@ -10387,6 +10408,8 @@
 
 ## Shell 
 
+- [junegunn/tmux-fzf-maccy](https://github.com/junegunn/tmux-fzf-maccy) - Tmux plugin for Maccy and fzf integration
+- [woefe/git-prompt.zsh](https://github.com/woefe/git-prompt.zsh) - A fast, customizable, pure-shell, asynchronous Git prompt for Zsh
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [imomaliev/tmux-peacock](https://github.com/imomaliev/tmux-peacock) - Tmux per session color
 - [leighmcculloch/tmux-colours-superhero](https://github.com/leighmcculloch/tmux-colours-superhero) - A tmux colour theme that likes yellow and shades of grey.
@@ -11286,6 +11309,7 @@
 
 ## Tcl 
 
+- [apnadkarni/tcl-libgit2](https://github.com/apnadkarni/tcl-libgit2) - Tcl bindings for the libgit2 library
 - [MichaelMiR01/tsp](https://github.com/MichaelMiR01/tsp) - Tcl Static Prime (A Tcl Transpiler)
 - [tcllab/tsp](https://github.com/tcllab/tsp) - Tcl Static Prime
 - [MichaelMiR01/tccide](https://github.com/MichaelMiR01/tccide) - tccide is a TCL-Starkit to make use of tcc4tcl (TinyC Compiler for TCL) and TSP (Tom Pointdexters Tcl Static Prime TCL Transpiler)
@@ -11553,6 +11577,7 @@
 
 ## Vim Script 
 
+- [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [urbainvaes/nvim-i3scratchpad](https://github.com/urbainvaes/nvim-i3scratchpad) - A floating scratchpad for neovim that behaves like the i3 scratchpad
 - [greymd/oscyank.vim](https://github.com/greymd/oscyank.vim) - Yank with OSC52/PASTE64.
 - [pseewald/vim-anyfold](https://github.com/pseewald/vim-anyfold) - Language agnostic vim plugin for folding and motion based on indentation.
