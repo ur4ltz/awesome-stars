@@ -302,6 +302,7 @@
 
 ## C 
 
+- [hsluv/hsluv-c](https://github.com/hsluv/hsluv-c) - C99 implementation of HSLuv (revision 4)
 - [libgit2/xdiff](https://github.com/libgit2/xdiff) - xdiff (from git)
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [mah0x211/lua-base64mix](https://github.com/mah0x211/lua-base64mix) - base64 encode/decode module
@@ -1599,7 +1600,7 @@
 - [anael-seghezzi/tcc-0.9.26](https://github.com/anael-seghezzi/tcc-0.9.26) - tcc-0.9.26 fork
 - [LuaDist/tcc](https://github.com/LuaDist/tcc) - Small but fast C compiler.  Supports ANSI C, most of the new ISO C99 standard, and many GNUC extensions, including inline assembly.
 - [patthoyts/kitgen](https://github.com/patthoyts/kitgen) - Tclkit build system
-- [farlepet/lambda-kern](https://github.com/farlepet/lambda-kern) - Multi-architecture hobby operating system created in C
+- [farlepet/lambda-kern](https://github.com/farlepet/lambda-kern) - Multi-architecture hobby operating system kernel created in C
 - [chenall/grubutils](https://github.com/chenall/grubutils) - utils for grub4dos
 - [chenall/grub4dos](https://github.com/chenall/grub4dos) - 外部命令和工具源码:https://github.com/chenall/grubutils 下载:
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -3289,7 +3290,6 @@
 - [chronoxor/TrueTemplate](https://github.com/chronoxor/TrueTemplate) - FAR Manager editor plugin for edit and compile source files
 - [magist3r/QtWeb](https://github.com/magist3r/QtWeb) - QtWeb Internet Browser
 - [unknownworlds/decoda](https://github.com/unknownworlds/decoda) - Decoda Lua IDE and debugger
-- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [mkottman/luaspell](https://github.com/mkottman/luaspell) - Lua binding for Hunspell
 - [ignacio/luaspell](https://github.com/ignacio/luaspell) - Lua binding for Hunspell
@@ -4508,6 +4508,9 @@
 
 ## Go 
 
+- [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
+- [hsluv/hsluv-go](https://github.com/hsluv/hsluv-go) - Go implementation of HSLuv (revision 4)
+- [palark/ovpn-admin](https://github.com/palark/ovpn-admin) - Simple web UI to manage OpenVPN users.
 - [abs-lang/abs](https://github.com/abs-lang/abs) - Home of the ABS programming language: the joy of shell scripting.
 - [leafo/folio](https://github.com/leafo/folio) - 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -4740,6 +4743,7 @@
 - [matei-oltean/go-torrent](https://github.com/matei-oltean/go-torrent) - Command line torrent client written in Go
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [MichaelS11/go-tetris](https://github.com/MichaelS11/go-tetris) - Golang Tetris for console window with optional AI
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
@@ -5123,6 +5127,7 @@
 
 ## JavaScript 
 
+- [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
 - [neomutt/tree-sitter-muttrc](https://github.com/neomutt/tree-sitter-muttrc) - 🌲👨 muttrc grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [OXY2DEV/tree-sitter-doctext](https://github.com/OXY2DEV/tree-sitter-doctext) - Tree-sitter parser for conventional comments
@@ -5450,6 +5455,7 @@
 - [NNBnh/bmap.kak](https://github.com/NNBnh/bmap.kak) - :bookmark: Kakoune key-binding that SuperB (WIP)
 - [NNBnh/coderun.kak](https://github.com/NNBnh/coderun.kak) - ⏯️ Kakoune code runner
 - [Delapouite/kakoune-registers](https://github.com/Delapouite/kakoune-registers) - List the current content of registers
+- [enricozb/lean.kak](https://github.com/enricozb/lean.kak) - Minimal Lean syntax highlighting, intermediate evaluation, and LaTeX completions
 - [enricozb/cursors.kak](https://github.com/enricozb/cursors.kak) - Sublime-like multiple cursors behavior for kakoune
 - [enricozb/wiki.kak](https://github.com/enricozb/wiki.kak) - Kakoune markdown file navigation and wiki system
 - [enricozb/dotfiles](https://github.com/enricozb/dotfiles) - 
@@ -5465,6 +5471,7 @@
 
 ## Kotlin 
 
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [bobrofon/easysshfs](https://github.com/bobrofon/easysshfs) - SSHFS for Android
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
@@ -5520,6 +5527,31 @@
 
 ## Lua 
 
+- [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) - 
+- [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with incremental preview, a convenient UI, and modern regex syntax.
+- [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Just an integration of `just` in nvim.
+- [chrisgrieser/nvim-puppeteer](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+- [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+- [chrisgrieser/nvim-early-retirement](https://github.com/chrisgrieser/nvim-early-retirement) - Send buffers into early retirement by automatically closing them after x minutes of inactivity.
+- [chrisgrieser/cmp_yanky](https://github.com/chrisgrieser/cmp_yanky) - cmp-source for clipboard history from yanky.nvim
+- [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - My personal dotfiles
+- [MeanderingProgrammer/treesitter-modules.nvim](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch
+- [Corn207/ts-query-loader.nvim](https://github.com/Corn207/ts-query-loader.nvim) - 
+- [xaaha/dev-env](https://github.com/xaaha/dev-env) - Neovim Config and other dot-files.
+- [jiaoshijie/undotree](https://github.com/jiaoshijie/undotree) - neovim undotree written in lua
+- [blackdaemon/yatline-tab-path.yazi](https://github.com/blackdaemon/yatline-tab-path.yazi) - 
+- [wekauwau/yatline-created-time.yazi](https://github.com/wekauwau/yatline-created-time.yazi) - An addon to display the creation time of file or folder in your yatline.yazi.
+- [PepeRoConde/yatline-page-counter.yazi](https://github.com/PepeRoConde/yatline-page-counter.yazi) - A yatline addon to display page counts for documents in yazi
+- [wekauwau/yatline-modified-time.yazi](https://github.com/wekauwau/yatline-modified-time.yazi) - An addon to display the modification time of file or folder in your yatline.yazi.
+- [jaja360/yatline-hostname-username.yazi](https://github.com/jaja360/yatline-hostname-username.yazi) - An addon to display the current hostname and username in your [yatline.yazi](https://github.com/imsi32/yatline.yazi).
+- [twio142/githead.yazi](https://github.com/twio142/githead.yazi) - Git status header for yazi inspired by powerlevel10k
+- [wekauwau/yatline-tokyo-night.yazi](https://github.com/wekauwau/yatline-tokyo-night.yazi) - Tokyo Night for Yatline
+- [MarcWeber/nvim-cmp-bufnames](https://github.com/MarcWeber/nvim-cmp-bufnames) - buf name completion for neovim
+- [rachartier/dotfiles](https://github.com/rachartier/dotfiles) - 
+- [rachartier/tiny-buffers-switcher.nvim](https://github.com/rachartier/tiny-buffers-switcher.nvim) - 
+- [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) - A Neovim plugin that adds smooth, customizable animations to text operations like yank, paste, search, undo/redo, and more.
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
+- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [akojo/clutch](https://github.com/akojo/clutch) - A simple Lua API for sqlite3
 - [iskolbin/lbase64](https://github.com/iskolbin/lbase64) - Lua base64 decoder/encoder
 - [Neph-Oo/lua-base45](https://github.com/Neph-Oo/lua-base45) - Lua base45 encoder/decoder for lua5.1+ and luajit.
@@ -5668,7 +5700,7 @@
 - [RealTimeLogic/BAS-Resources](https://github.com/RealTimeLogic/BAS-Resources) - The Barracuda App Server's resource files
 - [hjson/hjson-lua](https://github.com/hjson/hjson-lua) - A lightweight H/JSON library for Lua
 - [tiye/json-lua](https://github.com/tiye/json-lua) - JSON encoder/decoder
-- [saghen/blink.download](https://github.com/saghen/blink.download) - Neovim library for downloading shared libraries
+- [saghen/blink.lib](https://github.com/saghen/blink.lib) - Neovim library for downloading shared libraries
 - [saghen/neovim-lua-rust-template](https://github.com/saghen/neovim-lua-rust-template) - Template for writing plugins for Neovim in Lua and Rust
 - [saghen/nvim](https://github.com/saghen/nvim) - Personal neovim configuration
 - [MattiasMTS/cmp-dbee](https://github.com/MattiasMTS/cmp-dbee) - Autocompletion for nvim-dbee
@@ -5744,7 +5776,7 @@
 - [YaroSpace/lua-console.nvim](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration
 - [saghen/blink.chartoggle](https://github.com/saghen/blink.chartoggle) - 
 - [saghen/blink.clue](https://github.com/saghen/blink.clue) - 
-- [saghen/blink.indent](https://github.com/saghen/blink.indent) - Indent guides with scope on every keystroke
+- [saghen/blink.indent](https://github.com/saghen/blink.indent) - Performant indent guides for neovim
 - [saghen/blink.select](https://github.com/saghen/blink.select) - 
 - [saghen/blink.tree](https://github.com/saghen/blink.tree) - 
 - [saghen/blink.nvim](https://github.com/saghen/blink.nvim) - Set of simple, performant neovim plugins
@@ -7930,6 +7962,7 @@
 - [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
 - [Shatur/neovim-cmake](https://github.com/Shatur/neovim-cmake) - CMake integration for Neovim
+- [Conni2461/dotfiles](https://github.com/Conni2461/dotfiles) - Current dotfiles and scripts
 - [Shatur/neovim-config](https://github.com/Shatur/neovim-config) - My Neovim configuration.
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [steelsojka/completion-buffers](https://github.com/steelsojka/completion-buffers) - A buffer completion source for completion-nvim
@@ -8373,6 +8406,7 @@
 
 ## Nim 
 
+- [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [pysan3/minorg](https://github.com/pysan3/minorg) - pandoc -&gt; norg converter written in the Nim language.
 - [zevv/nim-arduino](https://github.com/zevv/nim-arduino) - Trying to get Nim integrated into arduino IDE
@@ -8431,6 +8465,7 @@
 
 ## Objective-C 
 
+- [hsluv/hsluv-objc](https://github.com/hsluv/hsluv-objc) - Objective-C implementation of HSLuv (revision 4)
 - [dzlonline/the_synth](https://github.com/dzlonline/the_synth) - A simple to use 4 polyphonic wavetable synthesizer library for Arduino.
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [vonnieda/AVRFuses](https://github.com/vonnieda/AVRFuses) - A simple, graphical AVR fuse editor front end for avrdude
@@ -8823,7 +8858,6 @@
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [josefadamcik/Lily58](https://github.com/josefadamcik/Lily58) - Fork of Lily58 keyboard as a base for modified version.
 - [hslua/lua-style-guide](https://github.com/hslua/lua-style-guide) - Lua style guide
-- [enricozb/lean.kak](https://github.com/enricozb/lean.kak) - Minimal Lean syntax highlighting, intermediate evaluation, and LaTeX completions
 - [skiselev/micro_8088](https://github.com/skiselev/micro_8088) - Micro 8088 - IBM XT Compatible Processor Board based on Faraday FE2010 chipset
 - [nvim-lua/marks.nvim](https://github.com/nvim-lua/marks.nvim) - Marks related utilties
 - [adelarsq/awesome-make](https://github.com/adelarsq/awesome-make) - A list about Make resources 🛠
@@ -9174,6 +9208,7 @@
 ## PowerShell 
 
 - [Bouni/Arduino-Pinout](https://github.com/Bouni/Arduino-Pinout) - 
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## Processing 
 
@@ -9187,6 +9222,8 @@
 
 ## Python 
 
+- [hsluv/hsluv-python](https://github.com/hsluv/hsluv-python) - Python implementation of HSLuv (revision 4)
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [zsh-git-prompt/zsh-git-prompt](https://github.com/zsh-git-prompt/zsh-git-prompt) - Informative git prompt for zsh
 - [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
 - [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
@@ -9484,7 +9521,6 @@
 - [gleitz/.emacs.d](https://github.com/gleitz/.emacs.d) - My personal emacs settings
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
-- [sagb-dev/Zettelpy](https://github.com/sagb-dev/Zettelpy) - A personal knowledge management system based on Zettelkasten
 - [ripxorip/DebugMacropad](https://github.com/ripxorip/DebugMacropad) - Source code for my debug macro pad
 - [ripxorip/bolt.nvim](https://github.com/ripxorip/bolt.nvim) - ⚡ Ultrafast multi-pane file manager for Neovim with fuzzy matching
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
@@ -10044,6 +10080,7 @@
 
 ## Ruby 
 
+- [hsluv/hsluv-ruby](https://github.com/hsluv/hsluv-ruby) - Ruby implementation of HSLuv (revision 3)
 - [junegunn/heytmux](https://github.com/junegunn/heytmux) - Tmux scripting made easy
 - [junegunn/everything.fzf](https://github.com/junegunn/everything.fzf) - :bagel: fzf all the things!
 - [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - 
@@ -10160,6 +10197,9 @@
 
 ## Rust 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
+- [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
@@ -10533,7 +10573,7 @@
 - [zimfw/k](https://github.com/zimfw/k) - All kubectl aliases in one function.
 - [zimfw/asdf](https://github.com/zimfw/asdf) - Sets up asdf, with auto install and optimized usage of the direnv plugin.
 - [zimfw/fzf](https://github.com/zimfw/fzf) - Configures fzf for faster fetching of files and directories names.
-- [zimfw/direnv](https://github.com/zimfw/direnv) - Sets up the direnv Zsh shell integration
+- [zimfw/direnv](https://github.com/zimfw/direnv) - Sets up the direnv Zsh shell integration.
 - [Ansimorph/oblong](https://github.com/Ansimorph/oblong) - A simple bash-inspired prompt for [ZIM], the ZSH-IMproved shell.
 - [zimfw/steeef](https://github.com/zimfw/steeef) - A customizable version of steeef's prompt theme.
 - [zimfw/sorin](https://github.com/zimfw/sorin) - A fork of sorin's prompt theme.
@@ -10541,7 +10581,7 @@
 - [zimfw/prompt-pwd](https://github.com/zimfw/prompt-pwd) - Formats the current working directory to be used by prompts.
 - [zimfw/magicmace](https://github.com/zimfw/magicmace) - A prompt theme inspired by xero's and eriner's themes.
 - [zimfw/gitster](https://github.com/zimfw/gitster) - A fork of shashankmehta's gitster prompt theme.
-- [zimfw/eriner](https://github.com/zimfw/eriner) - A Zim fork of the Powerline-inspired agnoster prompt theme.
+- [zimfw/eriner](https://github.com/zimfw/eriner) - A Zim Framework fork of the Powerline-inspired agnoster prompt theme.
 - [zimfw/bira](https://github.com/zimfw/bira) - A fork of bira's theme.
 - [zimfw/duration-info](https://github.com/zimfw/duration-info) - Exposes to prompts how long the last command took to execute.
 - [zimfw/git-info](https://github.com/zimfw/git-info) - Exposes git repository status information to prompts.
@@ -11055,7 +11095,6 @@
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
 - [xServo/dot_files](https://github.com/xServo/dot_files) - All my dotfiles which can be installed on a fresh arch install
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
-- [Conni2461/dotfiles](https://github.com/Conni2461/dotfiles) - Current dotfiles and scripts
 - [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
@@ -11497,7 +11536,6 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
-- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -11577,6 +11615,14 @@
 
 ## Vim Script 
 
+- [MarcWeber/vim-addon-mw-utils](https://github.com/MarcWeber/vim-addon-mw-utils) - vim: interpret a file by function and cache file automatically
+- [MarcWeber/vim-addon-goto-thing-at-cursor](https://github.com/MarcWeber/vim-addon-goto-thing-at-cursor) - make gf mapping of Vim more useful
+- [MarcWeber/vim-addon-other](https://github.com/MarcWeber/vim-addon-other) - some small things which are not worth putting into its own repository
+- [MarcWeber/vim-addon-actions](https://github.com/MarcWeber/vim-addon-actions) - map actions such as running compilers to keys fast
+- [MarcWeber/vim-addon-errorformats](https://github.com/MarcWeber/vim-addon-errorformats) - some errorformats for vim
+- [MarcWeber/vim-addon-toggle-buffer](https://github.com/MarcWeber/vim-addon-toggle-buffer) - toggle related buffers. This can be .c &lt;-&gt; .h. It also can mean: show all files having same file extension in curent dir etc. Extend as you wish
+- [MarcWeber/vim-addon-mru](https://github.com/MarcWeber/vim-addon-mru) - open most recently used files fast
+- [MarcWeber/vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager) - manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours
 - [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [urbainvaes/nvim-i3scratchpad](https://github.com/urbainvaes/nvim-i3scratchpad) - A floating scratchpad for neovim that behaves like the i3 scratchpad
 - [greymd/oscyank.vim](https://github.com/greymd/oscyank.vim) - Yank with OSC52/PASTE64.
@@ -12889,6 +12935,7 @@
 
 ## Vim Snippet 
 
+- [MarcWeber/vim-addon-MarcWeber](https://github.com/MarcWeber/vim-addon-MarcWeber) - my personal Vim configuration
 - [itchyny/vim-extra-snippets](https://github.com/itchyny/vim-extra-snippets) - My own snippets
 - [adityastomar67/NvStar](https://github.com/adityastomar67/NvStar) - IDE Layer for Neovim, for simplicity lovers.
 - [SmithWebDev/dotfiles](https://github.com/SmithWebDev/dotfiles) - 
