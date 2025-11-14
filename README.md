@@ -302,6 +302,7 @@
 
 ## C 
 
+- [rkd77/elinks](https://github.com/rkd77/elinks) - Fork of elinks
 - [hsluv/hsluv-c](https://github.com/hsluv/hsluv-c) - C99 implementation of HSLuv (revision 4)
 - [libgit2/xdiff](https://github.com/libgit2/xdiff) - xdiff (from git)
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -468,7 +469,7 @@
 - [schreibfaul1/ESP32-TFT-Library-ST7735](https://github.com/schreibfaul1/ESP32-TFT-Library-ST7735) - 
 - [schreibfaul1/ESP32-TFT-Library-ILI9341-HX8347D](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9341-HX8347D) - TFT Library for controller ILI9341 and HX8347D
 - [schreibfaul1/ESP32-TFT-Library-ILI9486](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9486) - A library for 3.5 inch RPi LCD (A) 320x480 display from Waveshare
-- [schreibfaul1/ESP32-MiniWebRadio](https://github.com/schreibfaul1/ESP32-MiniWebRadio) - Internetradio with ESP32, I2S DAC and SPI TFT Display with Touchpad
+- [schreibfaul1/ESP32-MiniWebRadio](https://github.com/schreibfaul1/ESP32-MiniWebRadio) - Internetradio with ESP32-S3/P4, I2S DAC and SPI/RGB TFT Display with Touchpad
 - [yellobyte/ESP32-DevBoards-Getting-Started](https://github.com/yellobyte/ESP32-DevBoards-Getting-Started) - Getting started with various ESP32 development boards. Lots of examples.
 - [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [gkiefer/home2l](https://github.com/gkiefer/home2l) - The Home2Ls - Smart Tools for a Private Home
@@ -693,7 +694,7 @@
 - [kholia/Si5351-Pi-Pico](https://github.com/kholia/Si5351-Pi-Pico) - Native (C/C++ SDK) Si5351 library for Raspberry Pi Pico
 - [amedes/pico_tnc](https://github.com/amedes/pico_tnc) - TNC for Raspberry  Pi Pico
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-- [Montecri/GNSSTimeServer](https://github.com/Montecri/GNSSTimeServer) - WiFi-enabled GNSS (GPS, BeiDou, GLONASS, Galileo) fed NTP/RDATE server based on ESP8266/ESP32 and Arduino
+- [Montecri/GNSSTimeServer](https://github.com/Montecri/GNSSTimeServer) - Ethernet/WiFi-enabled GNSS (GPS, BeiDou, GLONASS, Galileo) fed NTP/RDATE server based on ESP8266/ESP32 and Arduino
 - [markqvist/MicroDigi](https://github.com/markqvist/MicroDigi) - Standalone digipeater firmware for MicroModem
 - [sleemanj/usbasp](https://github.com/sleemanj/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
 - [PeterVH/usbasp](https://github.com/PeterVH/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
@@ -3305,7 +3306,7 @@
 - [nmeum/android-tools](https://github.com/nmeum/android-tools) - Unoffical CMake-based build system for android command line utilities
 - [ximtech/TM1637](https://github.com/ximtech/TM1637) - TM1637 chip is driver for 4 digit 7-segment display modules
 - [ilyachur/Arduino-CMake-Toolchain](https://github.com/ilyachur/Arduino-CMake-Toolchain) - CMake toolchain for all Arduino compatible boards
-- [bkaradzic/bgfx.cmake](https://github.com/bkaradzic/bgfx.cmake) - CMake build scripts for bgfx. Released under public domain.
+- [bkaradzic/bgfx.cmake-archived](https://github.com/bkaradzic/bgfx.cmake-archived) - CMake build scripts for bgfx. Released under public domain.
 - [brodo/arduino-cmake](https://github.com/brodo/arduino-cmake) - Arduino CMake Build system
 - [tttapa/Arduino-AVR-CMake](https://github.com/tttapa/Arduino-AVR-CMake) - Compile Arduino AVR programs using CMake.
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
@@ -5039,6 +5040,7 @@
 
 ## Java 
 
+- [woheller69/audio-analyzer-for-android](https://github.com/woheller69/audio-analyzer-for-android) - A fork of audio-analyzer-for-android in Google code, with a lot of enhancement.
 - [earlephilhower/arduino-pico-littlefs-plugin](https://github.com/earlephilhower/arduino-pico-littlefs-plugin) - LittleFS Data Uploader for Arduino-Pico
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [TylerWilliamson/BatteryNotification](https://github.com/TylerWilliamson/BatteryNotification) - Creates a persistent notification to see battery information at a glance!
@@ -5221,7 +5223,7 @@
 - [tree-sitter-grammars/tree-sitter-query](https://github.com/tree-sitter-grammars/tree-sitter-query) - TS query grammar for tree-sitter
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
-- [Harry-Ross/vscode-c-snippets](https://github.com/Harry-Ross/vscode-c-snippets) - A simple extension for Visual Studio Code snippets for the C programming language.
+- [Harry-Ross/c-snippets](https://github.com/Harry-Ross/c-snippets) - A simple extension for Visual Studio Code snippets for the C programming language.
 - [kira-krul/estilo](https://github.com/kira-krul/estilo) - Create color schemes for Vim, Airline and Lightline
 - [sturnclaw/ide-c-cpp](https://github.com/sturnclaw/ide-c-cpp) - An Atom IDE integration with CCLS / CQuery.
 - [bash-lsp/ide-bash](https://github.com/bash-lsp/ide-bash) - Bash language support for Atom-IDE
@@ -5527,6 +5529,17 @@
 
 ## Lua 
 
+- [xzbdmw/yazi_config](https://github.com/xzbdmw/yazi_config) - 
+- [xzbdmw/nvimconfig](https://github.com/xzbdmw/nvimconfig) - 
+- [emmanueltouzery/elixir-extras.nvim](https://github.com/emmanueltouzery/elixir-extras.nvim) - neovim plugin with elixir-specific features
+- [emmanueltouzery/code-compass.nvim](https://github.com/emmanueltouzery/code-compass.nvim) - Neovim plugin: set of functions to navigate code without LSP.
+- [emmanueltouzery/nvim_config](https://github.com/emmanueltouzery/nvim_config) - 
+- [emmanueltouzery/key-menu.nvim](https://github.com/emmanueltouzery/key-menu.nvim) - Key mapping hints in a floating window
+- [emmanueltouzery/decisive.nvim](https://github.com/emmanueltouzery/decisive.nvim) - Neovim plugin to assist work with CSV files
+- [emmanueltouzery/apidocs.nvim](https://github.com/emmanueltouzery/apidocs.nvim) - neovim apidocs browser
+- [is0n/tui-nvim](https://github.com/is0n/tui-nvim) - Support for any TUI directly inside of Neovim
+- [is0n/jaq-nvim](https://github.com/is0n/jaq-nvim) - ⚙️ Just Another Quickrun Plugin for Neovim in Lua
+- [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) - Neovim plugin for terminal file manager integration
 - [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) - 
 - [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with incremental preview, a convenient UI, and modern regex syntax.
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Just an integration of `just` in nvim.
@@ -6262,7 +6275,7 @@
 - [KostkaBrukowa/nvim-config](https://github.com/KostkaBrukowa/nvim-config) - My nvim configuration
 - [jmbuhr/nvim-config](https://github.com/jmbuhr/nvim-config) - My personal Neovim configuration, public to show my plugins in action.
 - [Alexis12119/nightly.nvim](https://github.com/Alexis12119/nightly.nvim) - A customized theme for Neovim, based on the Everblush color scheme.
-- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Generalized and Personalized
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Perfect for developers seeking a single, unified environment for web development, backend systems, mobile apps, and competitive programming.
 - [prmaloney/valet.nvim](https://github.com/prmaloney/valet.nvim) - 
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk and zmk keymaps in neovim
 - [andreadev-it/timetrap.nvim](https://github.com/andreadev-it/timetrap.nvim) - Timetrap wrapper for neovim
@@ -7046,7 +7059,6 @@
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
 - [harrisoncramer/jump-tag](https://github.com/harrisoncramer/jump-tag) - Neovim plugin for jumping between HTML tags.
 - [lvim-tech/lvim-focus](https://github.com/lvim-tech/lvim-focus) - 
-- [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [emiasims/vimfiles](https://github.com/emiasims/vimfiles) - 
@@ -8105,7 +8117,6 @@
 - [steino/lua-xmlrpc](https://github.com/steino/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
 - [ningyou/Bunraku](https://github.com/ningyou/Bunraku) - Backend for Ningyou
 - [ningyou/Main](https://github.com/ningyou/Main) - The main ningyou project.
-- [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
 - [przmv/base16-vis](https://github.com/przmv/base16-vis) - Base16 for Vis
 - [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
@@ -8495,6 +8506,7 @@
 
 ## Others 
 
+- [Mellbourn/ls-colors.yazi](https://github.com/Mellbourn/ls-colors.yazi) - yazi theme based converting colors from LS_COLORS by trapd00r
 - [ldelossa/litee-gh-testing](https://github.com/ldelossa/litee-gh-testing) - Test repository for working on litee-gh.nvim
 - [yellobyte/USB-Atmel-In-Circuit-Programmer](https://github.com/yellobyte/USB-Atmel-In-Circuit-Programmer) - USB programmer for Atmel AVR controllers (based on USBasp) with extra features
 - [agkozak/dircolors-zenburn](https://github.com/agkozak/dircolors-zenburn) - Zenburn 256 color scheme for the color GNU ls utility.
@@ -9159,6 +9171,7 @@
 
 ## Perl 
 
+- [takaaki-kasai/git-foresta](https://github.com/takaaki-kasai/git-foresta) - git-foresta: Text-based git log graph viewer
 - [k4rthik/git-cal](https://github.com/k4rthik/git-cal) - github like contributions calendar on terminal
 - [8cH9azbsFifZ/Morse-Code-Ninja](https://github.com/8cH9azbsFifZ/Morse-Code-Ninja) - Software used to generate Morse Code Ninja practice sets as found on https://morsecode.ninja/practice/index.html
 - [hexchat/hexchat-addons](https://github.com/hexchat/hexchat-addons) - Plugins and scripts made for HexChat
@@ -10448,6 +10461,8 @@
 
 ## Shell 
 
+- [alberti42/LS_COLORS_TRUE_COLORS](https://github.com/alberti42/LS_COLORS_TRUE_COLORS) - A fork of the collection of LS_COLORS definitions (with conversion to TRUE COLORS)
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [junegunn/tmux-fzf-maccy](https://github.com/junegunn/tmux-fzf-maccy) - Tmux plugin for Maccy and fzf integration
 - [woefe/git-prompt.zsh](https://github.com/woefe/git-prompt.zsh) - A fast, customizable, pure-shell, asynchronous Git prompt for Zsh
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
@@ -10805,6 +10820,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
+- [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
@@ -11192,6 +11208,7 @@
 - [challenger-deep-theme/gnome-terminal](https://github.com/challenger-deep-theme/gnome-terminal) - Challenger Deep Theme for GNOME Terminal
 - [nginx-le/nginx-le](https://github.com/nginx-le/nginx-le) - Nginx with automatic let's encrypt (docker image)
 - [sorbet/sorbet.run](https://github.com/sorbet/sorbet.run) - The online Sorbet playground
+- [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [nordtheme/gedit](https://github.com/nordtheme/gedit) - An arctic, north-bluish clean and elegant gedit syntax theme.
@@ -11391,6 +11408,7 @@
 
 ## TypeScript 
 
+- [Mellbourn/lsColorsToToml](https://github.com/Mellbourn/lsColorsToToml) - 
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
 - [wader/vscode-jq](https://github.com/wader/vscode-jq) - jq extension for VSCode and (Neo)vim.
