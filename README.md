@@ -4744,7 +4744,6 @@
 - [matei-oltean/go-torrent](https://github.com/matei-oltean/go-torrent) - Command line torrent client written in Go
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [MichaelS11/go-tetris](https://github.com/MichaelS11/go-tetris) - Golang Tetris for console window with optional AI
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
@@ -5129,6 +5128,7 @@
 
 ## JavaScript 
 
+- [soundmonster/samoklava](https://github.com/soundmonster/samoklava) - Generated keyboard
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
 - [neomutt/tree-sitter-muttrc](https://github.com/neomutt/tree-sitter-muttrc) - 🌲👨 muttrc grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
@@ -8417,6 +8417,8 @@
 
 ## Nim 
 
+- [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
+- [SolitudeSF/colorcol](https://github.com/SolitudeSF/colorcol) - Kakoune plugin for color previews.
 - [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [pysan3/minorg](https://github.com/pysan3/minorg) - pandoc -&gt; norg converter written in the Nim language.
@@ -8506,6 +8508,7 @@
 
 ## Others 
 
+- [insipx/kak-crosshairs](https://github.com/insipx/kak-crosshairs) - Highlight the current column/line when editing in Kakoune
 - [Mellbourn/ls-colors.yazi](https://github.com/Mellbourn/ls-colors.yazi) - yazi theme based converting colors from LS_COLORS by trapd00r
 - [ldelossa/litee-gh-testing](https://github.com/ldelossa/litee-gh-testing) - Test repository for working on litee-gh.nvim
 - [yellobyte/USB-Atmel-In-Circuit-Programmer](https://github.com/yellobyte/USB-Atmel-In-Circuit-Programmer) - USB programmer for Atmel AVR controllers (based on USBasp) with extra features
@@ -11554,6 +11557,7 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
+- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
