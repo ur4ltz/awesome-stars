@@ -275,6 +275,8 @@
 
 ## Awk 
 
+- [archan937/jsonv.sh](https://github.com/archan937/jsonv.sh) - A Bash command line tool for converting JSON to CSV
+- [step-/opera-bookmarks.awk](https://github.com/step-/opera-bookmarks.awk) - Export Opera bookmarks and QuickDial thumbnails
 - [katef/logo.awk](https://github.com/katef/logo.awk) - An implementation of logo in awk
 - [fagci/awk_practicing](https://github.com/fagci/awk_practicing) - 
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
@@ -302,6 +304,7 @@
 
 ## C 
 
+- [akkartik/teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming
 - [rkd77/elinks](https://github.com/rkd77/elinks) - Fork of elinks
 - [hsluv/hsluv-c](https://github.com/hsluv/hsluv-c) - C99 implementation of HSLuv (revision 4)
 - [libgit2/xdiff](https://github.com/libgit2/xdiff) - xdiff (from git)
@@ -767,6 +770,7 @@
 - [afiskon/ayn-4b](https://github.com/afiskon/ayn-4b) - Portable QRP CW Transceiver
 - [Phil-f6czv/FT857-Web-browser-CAT-ESP32](https://github.com/Phil-f6czv/FT857-Web-browser-CAT-ESP32) - 
 - [amedes/fx25-kiss-tnc](https://github.com/amedes/fx25-kiss-tnc) - FX.25 KISS TNC project
+- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - ESP32/ESP8285-based High-Performance Radio Link for RC applications
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
 - [LGTMCU/Larduino_HSP](https://github.com/LGTMCU/Larduino_HSP) - Hardware support package for Larduino
 - [MoonFox2006/USBLCD](https://github.com/MoonFox2006/USBLCD) - CH552 LCD 1602 USB CDC display
@@ -1731,6 +1735,7 @@
 
 ## C++ 
 
+- [nst/JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 - [jgromes/RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for embedded devices
 - [BugerDread/esp8266-ezTIME-wifi-clock](https://github.com/BugerDread/esp8266-ezTIME-wifi-clock) - Simple arduino clock using ESP8266, ezTIME NTP library and MAX7219 LED display modules
 - [ropg/ezTime](https://github.com/ropg/ezTime) - ezTime — pronounced "Easy Time" — is a very easy to use Arduino time and date library that provides NTP network time lookups, extensive timezone support, formatted time and date strings, user events, 
@@ -2319,7 +2324,6 @@
 - [danielromila/charlie-morris-corrected-ino](https://github.com/danielromila/charlie-morris-corrected-ino) - 
 - [danielromila/VFO-Si5351-LCD16x2-I2C](https://github.com/danielromila/VFO-Si5351-LCD16x2-I2C) - A VFO between 4 KHz and 225 MHz based on Si5351 and Arduino Nano
 - [danielromila/VFO-10-KHz-160-MHz](https://github.com/danielromila/VFO-10-KHz-160-MHz) - VFO 10 KHz 160 MHz
-- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - ESP32/ESP8285-based High-Performance Radio Link for RC applications
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [MoonFox2006/AVRizer](https://github.com/MoonFox2006/AVRizer) - Atmega 328 offline programmer
 - [kk4das/IC746CAT](https://github.com/kk4das/IC746CAT) - ICOM IC-746 Computer Aided Transceiver (CAT) control emulation for Arduino
@@ -4257,7 +4261,6 @@
 - [jorgenschaefer/pyvenv](https://github.com/jorgenschaefer/pyvenv) - Python virtual environment interface for Emacs
 - [greduan/emacs-theme-gruvbox](https://github.com/greduan/emacs-theme-gruvbox) - Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
 - [srcery-colors/srcery-emacs](https://github.com/srcery-colors/srcery-emacs) - The dark color scheme for Emacs/Spacemacs. GUI and terminal support
-- [liuchengxu/dotfiles](https://github.com/liuchengxu/dotfiles) - :nut_and_bolt: Dotfiles for bash, zsh, tmux, emacs, vim, etc
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [avelino/.emacs](https://github.com/avelino/.emacs) - Distro emacs
 - [caisah/seti-theme](https://github.com/caisah/seti-theme) - Emacs theme inspired by Seti Atom Theme
@@ -5128,6 +5131,8 @@
 
 ## JavaScript 
 
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
+- [erf/vis-plugins](https://github.com/erf/vis-plugins) - A community driven list of plugins for the vis editor
 - [soundmonster/samoklava](https://github.com/soundmonster/samoklava) - Generated keyboard
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
 - [neomutt/tree-sitter-muttrc](https://github.com/neomutt/tree-sitter-muttrc) - 🌲👨 muttrc grammar for tree-sitter
@@ -5529,6 +5534,11 @@
 
 ## Lua 
 
+- [peaceant/vis-fzf-mru](https://github.com/peaceant/vis-fzf-mru) - Open most recently used files in Vis editor
+- [milhnl/vis-format](https://github.com/milhnl/vis-format) - integrate vis with external formatters
+- [Nomarian/vis-command](https://github.com/Nomarian/vis-command) - 
+- [samlwood/vis-gruvbox](https://github.com/samlwood/vis-gruvbox) - Port of the Gruvbox Vim colorscheme to Vis.
+- [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) - Customizable agenda view for orgmode
 - [xzbdmw/yazi_config](https://github.com/xzbdmw/yazi_config) - 
 - [xzbdmw/nvimconfig](https://github.com/xzbdmw/nvimconfig) - 
 - [emmanueltouzery/elixir-extras.nvim](https://github.com/emmanueltouzery/elixir-extras.nvim) - neovim plugin with elixir-specific features
@@ -9218,6 +9228,7 @@
 
 ## PostScript 
 
+- [nst/PSTris](https://github.com/nst/PSTris) - A Tetris implementation in PostScript
 - [etherkit/OpenBeacon](https://github.com/etherkit/OpenBeacon) - QRSS/DFCW/CW/SMT Hell Beacon
 - [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols) - :arrow_forward: Extra glyphs for your powerline separators
 
@@ -10464,6 +10475,10 @@
 
 ## Shell 
 
+- [okapia/zsh-viexchange](https://github.com/okapia/zsh-viexchange) - zsh plugin similar to vim-exchange
+- [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
+- [bashtools/JSONPath.sh](https://github.com/bashtools/JSONPath.sh) - JSONPath implementation in Bash for filtering, merging and modifying JSON
+- [kristopolous/TickTick](https://github.com/kristopolous/TickTick) - JSON in your Bash scripts
 - [alberti42/LS_COLORS_TRUE_COLORS](https://github.com/alberti42/LS_COLORS_TRUE_COLORS) - A fork of the collection of LS_COLORS definitions (with conversion to TRUE COLORS)
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [junegunn/tmux-fzf-maccy](https://github.com/junegunn/tmux-fzf-maccy) - Tmux plugin for Maccy and fzf integration
@@ -11281,6 +11296,7 @@
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux & macOS
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
+- [liuchengxu/dotfiles](https://github.com/liuchengxu/dotfiles) - :nut_and_bolt: Dotfiles for bash, zsh, tmux, emacs, vim, etc
 - [seletskiy/zsh-prompt-lambda17](https://github.com/seletskiy/zsh-prompt-lambda17) - Highly extensible prompt for zsh
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [tatou-tatou/dotfiles](https://github.com/tatou-tatou/dotfiles) - 
@@ -11637,6 +11653,7 @@
 
 ## Vim Script 
 
+- [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
 - [MarcWeber/vim-addon-mw-utils](https://github.com/MarcWeber/vim-addon-mw-utils) - vim: interpret a file by function and cache file automatically
 - [MarcWeber/vim-addon-goto-thing-at-cursor](https://github.com/MarcWeber/vim-addon-goto-thing-at-cursor) - make gf mapping of Vim more useful
 - [MarcWeber/vim-addon-other](https://github.com/MarcWeber/vim-addon-other) - some small things which are not worth putting into its own repository
