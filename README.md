@@ -304,6 +304,8 @@
 
 ## C 
 
+- [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
+- [raptorjit/raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
 - [akkartik/teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming
 - [rkd77/elinks](https://github.com/rkd77/elinks) - Fork of elinks
 - [hsluv/hsluv-c](https://github.com/hsluv/hsluv-c) - C99 implementation of HSLuv (revision 4)
@@ -1735,6 +1737,7 @@
 
 ## C++ 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [nst/JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 - [jgromes/RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for embedded devices
 - [BugerDread/esp8266-ezTIME-wifi-clock](https://github.com/BugerDread/esp8266-ezTIME-wifi-clock) - Simple arduino clock using ESP8266, ezTIME NTP library and MAX7219 LED display modules
@@ -4512,6 +4515,7 @@
 
 ## Go 
 
+- [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [hsluv/hsluv-go](https://github.com/hsluv/hsluv-go) - Go implementation of HSLuv (revision 4)
 - [palark/ovpn-admin](https://github.com/palark/ovpn-admin) - Simple web UI to manage OpenVPN users.
@@ -5085,7 +5089,6 @@
 - [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [mkch/android-wifi-connecter](https://github.com/mkch/android-wifi-connecter) - Automatically exported from code.google.com/p/android-wifi-connecter
-- [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 - [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [greatdeveloping/m3u-Loader-Plugin](https://github.com/greatdeveloping/m3u-Loader-Plugin) - 
@@ -5501,6 +5504,7 @@
 - [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls) - LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [szymonprz/idea-cheatsh-plugin](https://github.com/szymonprz/idea-cheatsh-plugin) - Plugin for loading code snippets from cheat.sh directly to editor without need to switch your mental context
 - [Benjamin-Dobell/IntelliJ-Luanalysis](https://github.com/Benjamin-Dobell/IntelliJ-Luanalysis) - Type-safe Lua IDE — IntelliJ IDEA plugin
+- [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 - [wewewe718/QrAndBarcodeScanner](https://github.com/wewewe718/QrAndBarcodeScanner) - An Android app for scanning QR codes and barcodes
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [fru1tstand/qbittorrent-exporter](https://github.com/fru1tstand/qbittorrent-exporter) - A kotin-based, prometheus exporter for qbittorrent that relies on qbittorrent's web ui.
@@ -5935,7 +5939,7 @@
 - [hedyhli/dotfiles](https://github.com/hedyhli/dotfiles) - $HOME — neovim, literate vanilla emacs and doom emacs, fish, tmux, and others
 - [hedyhli/markdown-toc.nvim](https://github.com/hedyhli/markdown-toc.nvim) - Generate and auto-update table of contents list for markdown
 - [ray-x/telescope-ast-grep.nvim](https://github.com/ray-x/telescope-ast-grep.nvim) - AST grep extension for telescope.nvim
-- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Navigate code with an outline sidebar. Forked from symbols-outline.nvim.
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Fancy code outline sidebar to visualize and navigate code symbols in a tree hierarchy
 - [nvimdev/epo.nvim](https://github.com/nvimdev/epo.nvim) - A blazing fast and minimal neovim autocompletion
 - [boltlessengineer/smart-tab.nvim](https://github.com/boltlessengineer/smart-tab.nvim) - Easily jump to the end of current node.
 - [sharonex/edit-list.nvim](https://github.com/sharonex/edit-list.nvim) - 
@@ -7311,7 +7315,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM v0.12.0-dev-855+gf2691199fa) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.12.0-dev-1627+gd464dffd2f) config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -8427,6 +8431,7 @@
 
 ## Nim 
 
+- [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 - [SolitudeSF/colorcol](https://github.com/SolitudeSF/colorcol) - Kakoune plugin for color previews.
 - [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
@@ -10224,6 +10229,7 @@
 
 ## Rust 
 
+- [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
@@ -11384,6 +11390,7 @@
 
 ## Tcl 
 
+- [antirez/tclircd](https://github.com/antirez/tclircd) - An IRC server I wrote in 2004 for fun, using the Tcl language.
 - [apnadkarni/tcl-libgit2](https://github.com/apnadkarni/tcl-libgit2) - Tcl bindings for the libgit2 library
 - [MichaelMiR01/tsp](https://github.com/MichaelMiR01/tsp) - Tcl Static Prime (A Tcl Transpiler)
 - [tcllab/tsp](https://github.com/tcllab/tsp) - Tcl Static Prime
