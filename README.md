@@ -2065,7 +2065,7 @@
 - [UA6EM/FT857d](https://github.com/UA6EM/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
 - [stdevPavelmc/FT857d](https://github.com/stdevPavelmc/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
 - [g0orx/SDTVer050.0](https://github.com/g0orx/SDTVer050.0) - Latest SDTVer050.0 with G0ORX MCP23017 Front Panel
-- [KI3P/T41-V12-SDT](https://github.com/KI3P/T41-V12-SDT) - Repository for ongoing development of the software for the T41 V12 software-defined transceiver
+- [KI3P/T41-V12-SDT](https://github.com/KI3P/T41-V12-SDT) - This repository has been replaced by https://github.com/KI3P/Phoenix
 - [kaduhi/IC746CAT](https://github.com/kaduhi/IC746CAT) - ICOM IC-746 Computer Aided Transceiver (CAT) control emulation for Arduino
 - [kaduhi/AFSK_to_FSK_VFO](https://github.com/kaduhi/AFSK_to_FSK_VFO) - 
 - [elelel/qluacpp-tutorial](https://github.com/elelel/qluacpp-tutorial) - Tutorial for Qluacpp library (C++ interface for Quik trading terminal)
@@ -3526,6 +3526,38 @@
 
 ## Emacs Lisp 
 
+- [protesilaos/mct](https://github.com/protesilaos/mct) - Enhancements for the default minibuffer completion UI of Emacs.
+- [ahyatt/emacs-dyncloze](https://github.com/ahyatt/emacs-dyncloze) - A program for learning languages on emacs, testing yourself on alternatives in buffers
+- [nobiot/md-roam](https://github.com/nobiot/md-roam) - Use Org-roam with markdown files by adding Md-roam as a plug-in. Mix org and markdown files in a single Org-roam database.
+- [ahyatt/defun-pattern](https://github.com/ahyatt/defun-pattern) - Library to allow the writing of defuns that operate using pattern-matching.
+- [captainflasmr/ollama-buddy](https://github.com/captainflasmr/ollama-buddy) - A friendly Emacs interface for interacting with Ollama models
+- [ahyatt/emacs-websocket](https://github.com/ahyatt/emacs-websocket) - A websocket implementation in elisp, for emacs.
+- [ahyatt/emacs-bluesky](https://github.com/ahyatt/emacs-bluesky) - An emacs client for Bluesky
+- [ahyatt/semext](https://github.com/ahyatt/semext) - Semantic versions of existing Emacs functionality
+- [ahyatt/triples](https://github.com/ahyatt/triples) - An emacs module to manage a generic database of triples: subject, predicate, object data.  This can be used for a variety of applications.
+- [ahyatt/vecdb](https://github.com/ahyatt/vecdb) - A package for Emacs to connect to different embedding databases
+- [ahyatt/emacs-setup](https://github.com/ahyatt/emacs-setup) - My personal emacs setup
+- [ahyatt/ekg](https://github.com/ahyatt/ekg) - The emacs knowledge graph, app for notes and structured data.
+- [ahyatt/llm](https://github.com/ahyatt/llm) - A package abstracting llm capabilities for emacs.
+- [minad/mini-popup](https://github.com/minad/mini-popup) - 
+- [minad/uchronia](https://github.com/minad/uchronia) - uchronia.el - Rewrite the minibuffer history
+- [minad/tab-bookmark](https://github.com/minad/tab-bookmark) - Persist Emacs Tabs as Bookmarks
+- [jdtsmith/ultra-scroll](https://github.com/jdtsmith/ultra-scroll) - scroll Emacs like lightning
+- [tarsius/llama](https://github.com/tarsius/llama) - Compact syntax for short lambda
+- [lmq-10/iso-date](https://github.com/lmq-10/iso-date) - A simple library for working with ISO (YYYY-MM-DD) dates in Emacs
+- [protesilaos/beframe](https://github.com/protesilaos/beframe) - Isolate Emacs buffers per frame
+- [minad/consult-flycheck](https://github.com/minad/consult-flycheck) - Consult integration for Flycheck
+- [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
+- [minad/jinx](https://github.com/minad/jinx) - 🪄 Enchanted Spell Checker
+- [minad/dicom](https://github.com/minad/dicom) - dicom.el - DICOM viewer
+- [minad/osm](https://github.com/minad/osm) - :earth_africa: osm.el - OpenStreetMap viewer for Emacs
+- [minad/tempel](https://github.com/minad/tempel) - :classical_building: Tempel - Simple templates for Emacs
+- [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
+- [suntsov/efar](https://github.com/suntsov/efar) - A FAR-like file manager for Emacs
+- [jackkamm/undo-propose-el](https://github.com/jackkamm/undo-propose-el) - Navigate the emacs undo history by staging undo's in a temporary buffer
+- [emacsorphanage/god-mode](https://github.com/emacsorphanage/god-mode) - Minor mode for God-like command entering
+- [Kungsgeten/ryo-modal](https://github.com/Kungsgeten/ryo-modal) - Roll your own modal mode
+- [jmorag/kakoune.el](https://github.com/jmorag/kakoune.el) - A very simple simulation of the kakoune editor inside of emacs.
 - [anuvyklack/emacs.d](https://github.com/anuvyklack/emacs.d) - My Emacs configs on top of minimal-emacs.d
 - [arkhan/flymake-sqlfluff](https://github.com/arkhan/flymake-sqlfluff) - flymake plugin for SQL using sqlfluff
 - [erickgnavar/flymake-sqlfluff](https://github.com/erickgnavar/flymake-sqlfluff) - flymake plugin for SQL using sqlfluff
@@ -4515,6 +4547,7 @@
 
 ## Go 
 
+- [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [hsluv/hsluv-go](https://github.com/hsluv/hsluv-go) - Go implementation of HSLuv (revision 4)
@@ -4913,6 +4946,7 @@
 - [kholia/G8GYW-QRP-RF-Meter](https://github.com/kholia/G8GYW-QRP-RF-Meter) - QRP RF Power + SWR meter. Fork of https://g8gyw.github.io/ work.
 - [kholia/Simple-TR-Switch](https://github.com/kholia/Simple-TR-Switch) - VU3CER's non-RF-sensing, MCU controlled Simple T/R Switch with RX Grounding!
 - [pricna/Software-Defined-Radio-Receiver](https://github.com/pricna/Software-Defined-Radio-Receiver) - Software Defined Radio receiver created for Engineering Electronics II at Walla Walla University.
+- [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [kaduhi/pico-WSPRer](https://github.com/kaduhi/pico-WSPRer) - Minimalist WSPR tracker for pico-balloons utilizing Raspberry Pi Pico (or Rp2040) as the RF generator (aka The Cheapest Tracker In The World™). More info: [WIKI](https://github.com/EngineerGuy314/pico
 - [EngineerGuy314/pico-WSPRer](https://github.com/EngineerGuy314/pico-WSPRer) - Minimalist WSPR tracker for pico-balloons utilizing Raspberry Pi Pico (or Rp2040) as the RF generator (aka The Cheapest Tracker In The World™). More info: [WIKI](https://github.com/EngineerGuy314/pico
 - [pu2clr/BK108X](https://github.com/pu2clr/BK108X) - BK108X Arduino Library
@@ -5022,6 +5056,7 @@
 
 ## Haskell 
 
+- [Airsequel/SQLiteDAV](https://github.com/Airsequel/SQLiteDAV) - WebDAV server that maps an SQLite database to directories/files
 - [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [andys8/git-brunch](https://github.com/andys8/git-brunch) - Git branch checkout menu
@@ -5134,6 +5169,7 @@
 
 ## JavaScript 
 
+- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [erf/vis-plugins](https://github.com/erf/vis-plugins) - A community driven list of plugins for the vis editor
 - [soundmonster/samoklava](https://github.com/soundmonster/samoklava) - Generated keyboard
@@ -5162,7 +5198,6 @@
 - [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [farjs/farjs](https://github.com/farjs/farjs) - FAR.js - Cross-platform File and ARchive manager app
-- [selevo/WebUsbSerialTerminal](https://github.com/selevo/WebUsbSerialTerminal) - webusb ch340  terminal  work on android brauser
 - [SuperZombi/HDrezka-Helper](https://github.com/SuperZombi/HDrezka-Helper) - Downloads movies and subtitles. Supports mirrors.
 - [kpn-iot/thingsml-c-library](https://github.com/kpn-iot/thingsml-c-library) - C library for ThingsML on your device
 - [latex-lsp/tree-sitter-latex](https://github.com/latex-lsp/tree-sitter-latex) - LaTeX grammar for tree-sitter
@@ -8523,6 +8558,7 @@
 
 ## Others 
 
+- [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
 - [insipx/kak-crosshairs](https://github.com/insipx/kak-crosshairs) - Highlight the current column/line when editing in Kakoune
 - [Mellbourn/ls-colors.yazi](https://github.com/Mellbourn/ls-colors.yazi) - yazi theme based converting colors from LS_COLORS by trapd00r
 - [ldelossa/litee-gh-testing](https://github.com/ldelossa/litee-gh-testing) - Test repository for working on litee-gh.nvim
@@ -9254,6 +9290,7 @@
 
 ## Python 
 
+- [adamobeng/wddbfs](https://github.com/adamobeng/wddbfs) - webdavfs provider which can read the contents of sqlite databases
 - [nmoroze/tclint](https://github.com/nmoroze/tclint) - Modern dev tools for Tcl • includes a linter, formatter, and editor integration.
 - [hsluv/hsluv-python](https://github.com/hsluv/hsluv-python) - Python implementation of HSLuv (revision 4)
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
