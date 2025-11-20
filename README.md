@@ -3526,6 +3526,21 @@
 
 ## Emacs Lisp 
 
+- [jlr/rainbow-delimiters](https://github.com/jlr/rainbow-delimiters) - Emacs rainbow delimiters mode
+- [emacsattic/rainbow-blocks](https://github.com/emacsattic/rainbow-blocks) - Block syntax highlighting for lisp code
+- [KaratasFurkan/org-rainbow-tags](https://github.com/KaratasFurkan/org-rainbow-tags) - Colorize org tags automatically to make them visually distinguishable.
+- [kwrooijen/.emacs.d](https://github.com/kwrooijen/.emacs.d) - My Emacs configurations
+- [radian-software/blackout](https://github.com/radian-software/blackout) - 💡 The easy way to clean up your Emacs mode lighters.
+- [bbatsov/solarized-emacs](https://github.com/bbatsov/solarized-emacs) - The Solarized colour theme, ported to Emacs.
+- [raxod502/org-emacs](https://github.com/raxod502/org-emacs) - Simple configuration of Emacs optimized for Org mode
+- [minad/tack](https://github.com/minad/tack) - 
+- [gongo/emacs-toml](https://github.com/gongo/emacs-toml) - TOML (Tom's Obvious, Minimal Language) parser and generator
+- [kwrooijen/cargo.el](https://github.com/kwrooijen/cargo.el) - Emacs Minor Mode for Cargo, Rust's Package Manager.
+- [alphapapa/ement.el](https://github.com/alphapapa/ement.el) - A Matrix client for GNU Emacs
+- [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
+- [fejfighter/eglot-tempel](https://github.com/fejfighter/eglot-tempel) - bridge for tempel templates with eglot
+- [mattfidler/textmate-to-yas.el](https://github.com/mattfidler/textmate-to-yas.el) - Import Textmate bundles to Yasnippet (0.7+) snippets
+- [svaante/lsp-snippet](https://github.com/svaante/lsp-snippet) - 
 - [protesilaos/mct](https://github.com/protesilaos/mct) - Enhancements for the default minibuffer completion UI of Emacs.
 - [ahyatt/emacs-dyncloze](https://github.com/ahyatt/emacs-dyncloze) - A program for learning languages on emacs, testing yourself on alternatives in buffers
 - [nobiot/md-roam](https://github.com/nobiot/md-roam) - Use Org-roam with markdown files by adding Md-roam as a plug-in. Mix org and markdown files in a single Org-roam database.
@@ -11008,7 +11023,7 @@
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [michaelmrose/vi3](https://github.com/michaelmrose/vi3) - vim like keybindings for i3wm
 - [lcurses/lcurses](https://github.com/lcurses/lcurses) - Lua bindings for Curses
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [staticfloat/docker-nginx-certbot-old](https://github.com/staticfloat/docker-nginx-certbot-old) - Create and renew website certificates using the Letsencrypt free certificate authority.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [Antynea/grub-btrfs](https://github.com/Antynea/grub-btrfs) - Include btrfs snapshots at boot options. (Grub menu)
