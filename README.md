@@ -3526,7 +3526,7 @@
 
 ## Emacs Lisp 
 
-- [jlr/rainbow-delimiters](https://github.com/jlr/rainbow-delimiters) - Emacs rainbow delimiters mode
+- [elp-revive/auto-highlight-symbol](https://github.com/elp-revive/auto-highlight-symbol) - Automatic highlighting current symbol minor mode.
 - [emacsattic/rainbow-blocks](https://github.com/emacsattic/rainbow-blocks) - Block syntax highlighting for lisp code
 - [KaratasFurkan/org-rainbow-tags](https://github.com/KaratasFurkan/org-rainbow-tags) - Colorize org tags automatically to make them visually distinguishable.
 - [kwrooijen/.emacs.d](https://github.com/kwrooijen/.emacs.d) - My Emacs configurations
@@ -5445,7 +5445,6 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -11677,6 +11676,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## UnrealScript 
