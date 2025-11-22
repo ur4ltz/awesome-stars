@@ -3648,7 +3648,7 @@
 - [magnars/change-inner.el](https://github.com/magnars/change-inner.el) - Emacs version of vim's ci and co commands
 - [magnars/string-edit.el](https://github.com/magnars/string-edit.el) - Avoid escape nightmares by editing strings in a separate buffer
 - [magnars/s.el](https://github.com/magnars/s.el) - The long lost Emacs string manipulation library.
-- [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - everforest for emacs!
+- [theorytoe/everforest-emacs](https://github.com/theorytoe/everforest-emacs) - everforest for emacs!
 - [emacs-tree-sitter/ts-fold](https://github.com/emacs-tree-sitter/ts-fold) - Code-folding using tree-sitter
 - [emacs-tree-sitter/tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) - Language bundle for Emacs's tree-sitter package
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
@@ -4006,7 +4006,7 @@
 - [mineo/yatemplate](https://github.com/mineo/yatemplate) - File templates for Emacs with YASnippet
 - [mkcms/compiler-explorer.el](https://github.com/mkcms/compiler-explorer.el) - Compiler-explorer client for Emacs
 - [mkcms/mu4e-overview](https://github.com/mkcms/mu4e-overview) - Show overview of maildir
-- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in emacs
+- [mkcms/ialign](https://github.com/mkcms/ialign) - Interactively align by regular expression in Emacs
 - [Alexander-Miller/tridactylrc-mode](https://github.com/Alexander-Miller/tridactylrc-mode) - 
 - [Alexander-Miller/company-shell](https://github.com/Alexander-Miller/company-shell) - 
 - [Alexander-Miller/pfuture](https://github.com/Alexander-Miller/pfuture) - 
@@ -7266,7 +7266,7 @@
 - [hrsh7th/cmp-nvim-lsp-document-symbol](https://github.com/hrsh7th/cmp-nvim-lsp-document-symbol) - nvim-cmp source for textDocument/documentSymbol via nvim-lsp.
 - [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) - nvim-cmp source for vim's cmdline
 - [kaworu/lua-mpd](https://github.com/kaworu/lua-mpd) - Minimalist MPD client library using luasocket
-- [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
+- [theorytoe/nii-nvim](https://github.com/theorytoe/nii-nvim) - A minimal neovim configuration
 - [xHasKx/luamqtt](https://github.com/xHasKx/luamqtt) - luamqtt - Pure-lua MQTT v3.1.1 and v5.0 client
 - [rsuu/vimpv.nvim](https://github.com/rsuu/vimpv.nvim) - use neovim and mpv to edit ass subtitle
 - [rsuu/tiknot.nvim](https://github.com/rsuu/tiknot.nvim) - A disposable floating window.
@@ -11838,7 +11838,7 @@
 - [habamax/vim-habamax](https://github.com/habamax/vim-habamax) - Vim colorscheme
 - [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) - Tomorrow Theme for Vim
 - [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) - Base16 for Vim
-- [Theory-of-Everything/everglade](https://github.com/Theory-of-Everything/everglade) - 
+- [theorytoe/everglade](https://github.com/theorytoe/everglade) - 
 - [cpiger/NeoDebug](https://github.com/cpiger/NeoDebug) - NeoDebug - Vim plugin for interface to gdb from Vim
 - [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
 - [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
