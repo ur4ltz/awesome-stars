@@ -3526,6 +3526,9 @@
 
 ## Emacs Lisp 
 
+- [LuigiPiucco/nerd-icons-corfu](https://github.com/LuigiPiucco/nerd-icons-corfu) - Icons for corfu via nerd-icons
+- [iyefrat/all-the-icons-completion](https://github.com/iyefrat/all-the-icons-completion) - Add icons to completion candidates in Emacs
+- [jdtsmith/kind-icon](https://github.com/jdtsmith/kind-icon) - Completion kind text/icon prefix labelling for emacs in-region completion
 - [elp-revive/auto-highlight-symbol](https://github.com/elp-revive/auto-highlight-symbol) - Automatic highlighting current symbol minor mode.
 - [emacsattic/rainbow-blocks](https://github.com/emacsattic/rainbow-blocks) - Block syntax highlighting for lisp code
 - [KaratasFurkan/org-rainbow-tags](https://github.com/KaratasFurkan/org-rainbow-tags) - Colorize org tags automatically to make them visually distinguishable.
@@ -5184,6 +5187,7 @@
 
 ## JavaScript 
 
+- [denysdovhan/robbyrussell-node](https://github.com/denysdovhan/robbyrussell-node) - Cross-shell robbyrussell theme written in JavaScript
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [erf/vis-plugins](https://github.com/erf/vis-plugins) - A community driven list of plugins for the vis editor
@@ -5815,7 +5819,7 @@
 - [wsdjeg/git.nvim](https://github.com/wsdjeg/git.nvim) - git.nvim is a plugin to use git command in neovim
 - [wsdjeg/bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - simple bookmarks manager for neovim
 - [wsdjeg/plugin-utils.nvim](https://github.com/wsdjeg/plugin-utils.nvim) - 
-- [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - cd project root automatically
+- [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - Changes Neovim working directory to project root.
 - [AndCake/micro-plugin-lsp](https://github.com/AndCake/micro-plugin-lsp) - An LSP Client implementation for the Micro Editor
 - [konapun/vacuumline.nvim](https://github.com/konapun/vacuumline.nvim) - A prebuilt configuration for galaxyline inspired by airline
 - [leomil72/sort-lua](https://github.com/leomil72/sort-lua) - Sorting algorithms written in pure Lua
