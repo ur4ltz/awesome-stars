@@ -85,6 +85,7 @@
 - [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [PlantUML](#plantuml)
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Processing](#processing)
@@ -304,6 +305,15 @@
 
 ## C 
 
+- [vshymanskyy/Preferences](https://github.com/vshymanskyy/Preferences) - Preferences library for Arduino, ESP8266, RP2040, Particle, Realtek Ameba
+- [mmoskal/uf2-stm32f](https://github.com/mmoskal/uf2-stm32f) - UF2 bootloader  for STM32F4
+- [petrows/esp-32-tm1637-example](https://github.com/petrows/esp-32-tm1637-example) - ESP-32 IDF library for control TM1637 LCD 7-Segment display example
+- [petrows/smarthome-galoped](https://github.com/petrows/smarthome-galoped) - Simple CO2 + temperature + humidity + pressure sensor, Tasmota-ready
+- [petrows/esp-32-tm1637](https://github.com/petrows/esp-32-tm1637) - ESP-32 IDF library for control TM1637 LCD 7-Segment display
+- [WeActStudio/BluePill-Plus](https://github.com/WeActStudio/BluePill-Plus) - STM32F103C8T6/GD32F303CCT6 Core Board Doc
+- [devanlai/dapboot](https://github.com/devanlai/dapboot) - DFU Bootloader for STM32 chips
+- [mmoskal/uf2-stm32f103](https://github.com/mmoskal/uf2-stm32f103) - UF2 bootloader for STM32F103 (Blue Pill etc)
+- [pfalcon/uzlib](https://github.com/pfalcon/uzlib) - Radically unbloated DEFLATE/zlib/gzip compression/decompression library. Can decompress any gzip/zlib data, and offers simplified compressor which produces gzip-compatible output, while requiring much
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [raptorjit/raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
 - [akkartik/teliva](https://github.com/akkartik/teliva) - Fork of Lua 5.1 to encourage end-user programming
@@ -1737,6 +1747,21 @@
 
 ## C++ 
 
+- [darkalchemy/rtorrent-ps-ch](https://github.com/darkalchemy/rtorrent-ps-ch) - :art: Extended rTorrent distribution with UI enhancements, colorization, and some added features.
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
+- [CCExtractor/rtorrent-ws](https://github.com/CCExtractor/rtorrent-ws) - Google Summer of Code 2022: Introduce WebSockets into rTorrent
+- [G6EJD/ESP32-ADC-Accuracy-Improvement-function](https://github.com/G6EJD/ESP32-ADC-Accuracy-Improvement-function) - A function that improves the default ADC reading accuracy to within 1%
+- [SimpleHacks/QDEC](https://github.com/SimpleHacks/QDEC) - MIT-licensed State-machine based quadrature decoder
+- [miaoski/esp8266-co2](https://github.com/miaoski/esp8266-co2) - SenseAir S8 CO2 module on an ESP8266 ESP-12E
+- [petrows/keyboard-led-indicator](https://github.com/petrows/keyboard-led-indicator) - Simple firmware for STM32 / Zephyr RTOS to indicate keyboard LEDs
+- [equeim/tremotesf2](https://github.com/equeim/tremotesf2) - Remote GUI for transmission-daemon
+- [clearwater/SwitecX25](https://github.com/clearwater/SwitecX25) - Arduino library for Switec X25.168 and friends
+- [artkeller/I2CMiniPrefs](https://github.com/artkeller/I2CMiniPrefs) - A lightweight, robust, and wear-leveling preferences library for ESP32 microcontrollers using I2C FRAM or EEPROM chips.
+- [artkeller/OpenLogDriver](https://github.com/artkeller/OpenLogDriver) - Robust Arduino driver for OpenLog: Precise system status detection and reliable ESP32-C3 communication for autonomous loggers driver for OpenLog
+- [artkeller/DynamicAdaptiveFilterV2](https://github.com/artkeller/DynamicAdaptiveFilterV2) - DynamicAdaptiveFilterV2 is an Arduino/C++ library that filters and smooths sensor data in real time. It is ideal for projects that require processing noisy, irregular, or impulsive signals.
+- [artkeller/WS_QMI8658_Matrix](https://github.com/artkeller/WS_QMI8658_Matrix) - The WS_QMI8658 library provides an easy way to use the QMI8658 IMU sensor in Arduino environments. It abstracts complex configuration and calibration procedures and also offers helpful functions such 
+- [artkeller/ESP32C3LEDManager](https://github.com/artkeller/ESP32C3LEDManager) - This library provides a convenient and robust way to control the onboard blue LED and the onboard NeoPixel (WS2812B RGB LED) on the ESP32-C3 SuperMini Plus Development Board (V2.0 Red Board). It abstr
+- [artkeller/RotaryEncoder](https://github.com/artkeller/RotaryEncoder) - Rotary Encoder Arduino Library for measuring quadrature encoded signals
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [nst/JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 - [jgromes/RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for embedded devices
@@ -2377,7 +2402,7 @@
 - [darkbyte-ru/SA818](https://github.com/darkbyte-ru/SA818) - SA818U/SA818V radio library for arduino
 - [Gjorgjevikj/yaLCDProgressBar](https://github.com/Gjorgjevikj/yaLCDProgressBar) - Yet another LCD progress bar
 - [0xPIT/encoder](https://github.com/0xPIT/encoder) - Atmel AVR C++ RotaryEncoder Implementation
-- [KD0RC/Teensy-Maestro-for-Flex-6000-radios](https://github.com/KD0RC/Teensy-Maestro-for-Flex-6000-radios) - TeensyMaestro - a Teensy-based set of controls for Flex 6000 series radios.
+- [KD0RC/Teensy-Maestro-for-Flex-6000-radios](https://github.com/KD0RC/Teensy-Maestro-for-Flex-6000-radios) - TeensyMaestro - a Teensy-based set of controls for Flex 6000, 8000 and Aurora series radios.
 - [prt459/GPSClock](https://github.com/prt459/GPSClock) - Arduino GPS Clock for Uno and Ublox 6m
 - [prt459/WSPR_GPS_Beacon](https://github.com/prt459/WSPR_GPS_Beacon) - This is a single-band WSPR beacon that uses an si5351 for frequency synthesis and a ublox 6M GPS unit for time synchronisation.
 - [prt459/Nano_Beacon](https://github.com/prt459/Nano_Beacon) - A multiband local CW beacon for receiver testing
@@ -3493,6 +3518,7 @@
 
 ## Dockerfile 
 
+- [nelu/rutorrent-dock](https://github.com/nelu/rutorrent-dock) - Rutorrent docker-compose project with filemanager plugins installed
 - [ffeldhaus/docker-xpra-minimal](https://github.com/ffeldhaus/docker-xpra-minimal) - XPRA docker base image
 - [lambdalisue/docker-wireshark](https://github.com/lambdalisue/docker-wireshark) - Docker image which makes Wireshark available via HTML5 using XPRA
 - [ffeldhaus/docker-wireshark](https://github.com/ffeldhaus/docker-wireshark) - Docker image which makes Wireshark available via HTML5 using XPRA
@@ -4541,6 +4567,7 @@
 
 ## G-code 
 
+- [petrows/smarthome-co2-module](https://github.com/petrows/smarthome-co2-module) - Simple CO2 sensor based on ESP8266 and Senseair S8 + MQTT
 - [Fmulder007/Karat-3FM](https://github.com/Fmulder007/Karat-3FM) - Karat-3FM
 - [Fmulder007/Karat-3.5](https://github.com/Fmulder007/Karat-3.5) - Karat-3.5
 - [Fmulder007/Karat2N_synt](https://github.com/Fmulder007/Karat2N_synt) - Проект модернизации радиостанции Карат-2Н от UD0CAJ
@@ -5591,6 +5618,10 @@
 
 ## Lua 
 
+- [OxygeNvim/OxygeNvim](https://github.com/OxygeNvim/OxygeNvim) - Neovim configuration for all kinds of development with rock solid defaults!
+- [OxygeNvim/ui](https://github.com/OxygeNvim/ui) - UI elements for OxygeNvim
+- [OxygeNvim/base46](https://github.com/OxygeNvim/base46) - Theme plugin for OxygeNvim
+- [jayden-chan/base46.nvim](https://github.com/jayden-chan/base46.nvim) - Base46 theme setter for Neovim
 - [peaceant/vis-fzf-mru](https://github.com/peaceant/vis-fzf-mru) - Open most recently used files in Vis editor
 - [milhnl/vis-format](https://github.com/milhnl/vis-format) - integrate vis with external formatters
 - [Nomarian/vis-command](https://github.com/Nomarian/vis-command) - 
@@ -5818,7 +5849,7 @@
 - [wsdjeg/ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - ctags integration for neovim
 - [wsdjeg/git.nvim](https://github.com/wsdjeg/git.nvim) - git.nvim is a plugin to use git command in neovim
 - [wsdjeg/bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) - simple bookmarks manager for neovim
-- [wsdjeg/plugin-utils.nvim](https://github.com/wsdjeg/plugin-utils.nvim) - 
+- [wsdjeg/utils.nvim](https://github.com/wsdjeg/utils.nvim) - A collection of useful utilities for neovim.
 - [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - Changes Neovim working directory to project root.
 - [AndCake/micro-plugin-lsp](https://github.com/AndCake/micro-plugin-lsp) - An LSP Client implementation for the Micro Editor
 - [konapun/vacuumline.nvim](https://github.com/konapun/vacuumline.nvim) - A prebuilt configuration for galaxyline inspired by airline
@@ -8211,6 +8242,7 @@
 - [actboy168/lua-debug](https://github.com/actboy168/lua-debug) - Lua Debug Adapter for Visual Studio Code
 - [starius/harb-lapis](https://github.com/starius/harb-lapis) - dot diagrams for apache, nginx and lapis
 - [evgkul/moonscript-opencomputers](https://github.com/evgkul/moonscript-opencomputers) - Just a port of moonscript for opencomputers
+- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [mattikus/dotfiles](https://github.com/mattikus/dotfiles) - My dotfiles
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles for unix, managed by GNU stow.
 - [moteus/lua-lluv-pegasus](https://github.com/moteus/lua-lluv-pegasus) - Simple server based on pegasus.lua library
@@ -8397,6 +8429,7 @@
 
 ## Makefile 
 
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [Z80-Retro/Z80-Retro-Manual](https://github.com/Z80-Retro/Z80-Retro-Manual) - 
@@ -8576,6 +8609,8 @@
 
 ## Others 
 
+- [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Overview of the current ESP32 models  (ESP32, S2, S3, C3, C2, C5, C6, C61, H2, H4, P4) based on the official data sheets from Espressif (as of September 2025)
+- [rtorrent-community/rtorrent-community.github.io](https://github.com/rtorrent-community/rtorrent-community.github.io) - rTorrent Community Wiki and GH Pages Repository
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
 - [insipx/kak-crosshairs](https://github.com/insipx/kak-crosshairs) - Highlight the current column/line when editing in Kakoune
 - [Mellbourn/ls-colors.yazi](https://github.com/Mellbourn/ls-colors.yazi) - yazi theme based converting colors from LS_COLORS by trapd00r
@@ -9177,6 +9212,7 @@
 
 ## PHP 
 
+- [medariox/scrapeer](https://github.com/medariox/scrapeer) - Essential PHP library that scrapes HTTP(S) and UDP trackers for torrent information.
 - [TasmoAdmin/TasmoAdmin](https://github.com/TasmoAdmin/TasmoAdmin) - TasmoAdmin is an administrative platform for devices flashed with Tasmota
 - [guanguans/ai-commit](https://github.com/guanguans/ai-commit) - Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
 - [ph2lb/LoRaWAN_TTN_Env](https://github.com/ph2lb/LoRaWAN_TTN_Env) - Back and frontend for a enviromental beacon system which can be used with the TTNDHT22Beacon, LoRaWAN_TTN_Enschede_LMIC_ABP and LoRaWAN_TTN_Enschede.
@@ -9285,6 +9321,10 @@
 - [YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme) - [DEPRECATED] A minimal dark Theme for Sublime Text 2 and 3
 - [mindreframer/nginx-lua-stuff](https://github.com/mindreframer/nginx-lua-stuff) - some libs for NginX-Lua integration
 
+## PlantUML 
+
+- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+
 ## PostScript 
 
 - [nst/PSTris](https://github.com/nst/PSTris) - A Tetris implementation in PostScript
@@ -9308,6 +9348,15 @@
 
 ## Python 
 
+- [myxdvz/booktree](https://github.com/myxdvz/booktree) - Goes thru a bunch of media files and builds a tree structure
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) - 
+- [mhadam/clutch](https://github.com/mhadam/clutch) - Transmission RPC for Python
+- [artkeller/ESP32C3MicroHSM-DEV](https://github.com/artkeller/ESP32C3MicroHSM-DEV) - Example of the ESP32-C3 serving as a hardware security module (HSM) device. It implements basic cryptographic functions and a serial control interface.
+- [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
+- [simonc56/rtorrent-disk-checker](https://github.com/simonc56/rtorrent-disk-checker) - Python 2 & 3 Worry Free rTorrenting
+- [JDRIVO/plugin.dbmc](https://github.com/JDRIVO/plugin.dbmc) - Dropbox Add-On for Kodi
+- [JDRIVO/plugin.video.gdrive](https://github.com/JDRIVO/plugin.video.gdrive) - Google Drive Add-On for Kodi
+- [JDRIVO/rTorrent-Disk-Checker](https://github.com/JDRIVO/rTorrent-Disk-Checker) - rTorrent Crash Prevention
 - [adamobeng/wddbfs](https://github.com/adamobeng/wddbfs) - webdavfs provider which can read the contents of sqlite databases
 - [nmoroze/tclint](https://github.com/nmoroze/tclint) - Modern dev tools for Tcl • includes a linter, formatter, and editor integration.
 - [hsluv/hsluv-python](https://github.com/hsluv/hsluv-python) - Python implementation of HSLuv (revision 4)
@@ -9925,7 +9974,6 @@
 - [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
 - [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation for neovim/Vim8
 - [ValdikSS/blockcheck](https://github.com/ValdikSS/blockcheck) - Russian ISP blocking type checker NOTE: NOT WORKING CURRENTLY. ВНИМАНИЕ: НЕ РАБОТАЕТ НА ТЕКУЩИЙ МОМЕНТ
-- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [Haron-Prime/My_config_files](https://github.com/Haron-Prime/My_config_files) - My configs backups
 - [viniarck/rofi-tmux](https://github.com/viniarck/rofi-tmux) - :heavy_check_mark: rft (rofi-tmux). Quickly switches tmux sessions, windows and tmuxinator projects
 - [bitcrazed/24bit-color](https://github.com/bitcrazed/24bit-color) - Selection of Bash/*NIX scripts for generating 24-bit color tests
@@ -11490,6 +11538,7 @@
 
 ## TypeScript 
 
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [nmoroze/tclint-vscode](https://github.com/nmoroze/tclint-vscode) - VS Code extension that lints and formats Tcl and EDA scripts.
 - [Mellbourn/lsColorsToToml](https://github.com/Mellbourn/lsColorsToToml) - 
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
