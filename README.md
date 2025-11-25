@@ -124,6 +124,7 @@
 - [Vue](#vue)
 - [Wren](#wren)
 - [XSLT](#xslt)
+- [YARA](#yara)
 - [YASnippet](#yasnippet)
 - [Yacc](#yacc)
 - [Zig](#zig)
@@ -305,6 +306,15 @@
 
 ## C 
 
+- [Keysight/RHme-2015](https://github.com/Keysight/RHme-2015) - RHme+ 2015 challenge
+- [Keysight/Rhme-2016](https://github.com/Keysight/Rhme-2016) - Rhme2 challenge (2016)
+- [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
+- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
+- [frida/quickjs](https://github.com/frida/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+- [radareorg/r2yara](https://github.com/radareorg/r2yara) - yara and radare2, better together
+- [radareorg/sdb](https://github.com/radareorg/sdb) - Simple and fast string based key-value database with support for arrays and json
+- [gwsw/dm](https://github.com/gwsw/dm) - 
+- [gwsw/less](https://github.com/gwsw/less) - Less - text pager
 - [vshymanskyy/Preferences](https://github.com/vshymanskyy/Preferences) - Preferences library for Arduino, ESP8266, RP2040, Particle, Realtek Ameba
 - [mmoskal/uf2-stm32f](https://github.com/mmoskal/uf2-stm32f) - UF2 bootloader  for STM32F4
 - [petrows/esp-32-tm1637-example](https://github.com/petrows/esp-32-tm1637-example) - ESP-32 IDF library for control TM1637 LCD 7-Segment display example
@@ -1747,6 +1757,9 @@
 
 ## C++ 
 
+- [OneOfEleven/NanoVNA-App](https://github.com/OneOfEleven/NanoVNA-App) - NanoVNA-App
+- [radareorg/ghidra-native](https://github.com/radareorg/ghidra-native) - 
+- [radareorg/r2ghidra](https://github.com/radareorg/r2ghidra) - Native Ghidra Decompiler for r2
 - [darkalchemy/rtorrent-ps-ch](https://github.com/darkalchemy/rtorrent-ps-ch) - :art: Extended rTorrent distribution with UI enhancements, colorization, and some added features.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [CCExtractor/rtorrent-ws](https://github.com/CCExtractor/rtorrent-ws) - Google Summer of Code 2022: Introduce WebSockets into rTorrent
@@ -5126,6 +5139,8 @@
 
 ## Java 
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [radareorg/r4ghidra](https://github.com/radareorg/r4ghidra) - Ghidra plugin to communicate with radare2
 - [woheller69/audio-analyzer-for-android](https://github.com/woheller69/audio-analyzer-for-android) - A fork of audio-analyzer-for-android in Google code, with a lot of enhancement.
 - [earlephilhower/arduino-pico-littlefs-plugin](https://github.com/earlephilhower/arduino-pico-littlefs-plugin) - LittleFS Data Uploader for Arduino-Pico
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
@@ -5214,6 +5229,7 @@
 
 ## JavaScript 
 
+- [wargio/r2dec-js](https://github.com/wargio/r2dec-js) - r2dec-js is a JavaScript-based decompiler that converts assembly code into pseudo-C. It aids users in understanding assembly by providing readable high-level explanations, making low-level programming
 - [denysdovhan/robbyrussell-node](https://github.com/denysdovhan/robbyrussell-node) - Cross-shell robbyrussell theme written in JavaScript
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -5502,6 +5518,7 @@
 
 ## Jupyter Notebook 
 
+- [radareorg/r2ai-model](https://github.com/radareorg/r2ai-model) - Dataset to train or finetune language models with knowledge about radare2
 - [jupyterlab/jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo) - Demonstrations of JupyterLab
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [newhouseb/onebitbt](https://github.com/newhouseb/onebitbt) - Bluetooth PHY based on one-bit input and output
@@ -8429,6 +8446,7 @@
 
 ## Makefile 
 
+- [radareorg/radare2-snap](https://github.com/radareorg/radare2-snap) - Radare2 snap and docker repository
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
@@ -8609,6 +8627,8 @@
 
 ## Others 
 
+- [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
+- [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
 - [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Overview of the current ESP32 models  (ESP32, S2, S3, C3, C2, C5, C6, C61, H2, H4, P4) based on the official data sheets from Espressif (as of September 2025)
 - [rtorrent-community/rtorrent-community.github.io](https://github.com/rtorrent-community/rtorrent-community.github.io) - rTorrent Community Wiki and GH Pages Repository
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
@@ -9348,6 +9368,8 @@
 
 ## Python 
 
+- [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
+- [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
 - [myxdvz/booktree](https://github.com/myxdvz/booktree) - Goes thru a bunch of media files and builds a tree structure
 - [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) - 
 - [mhadam/clutch](https://github.com/mhadam/clutch) - Transmission RPC for Python
@@ -11538,6 +11560,8 @@
 
 ## TypeScript 
 
+- [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
+- [radareorg/radare2-r2papi](https://github.com/radareorg/radare2-r2papi) - High Level API on top of the R2Pipe interface
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [nmoroze/tclint-vscode](https://github.com/nmoroze/tclint-vscode) - VS Code extension that lints and formats Tcl and EDA scripts.
 - [Mellbourn/lsColorsToToml](https://github.com/Mellbourn/lsColorsToToml) - 
@@ -13118,6 +13142,10 @@
 - [ilyaglow/nmap-parse-output](https://github.com/ilyaglow/nmap-parse-output) - Converts/manipulates/extracts data from a Nmap scan output.
 - [ernw/nmap-parse-output](https://github.com/ernw/nmap-parse-output) - Converts/manipulates/extracts data from a Nmap scan output.
 - [schacon/git-scribe](https://github.com/schacon/git-scribe) - basically the best way to write an ebook
+
+## YARA 
+
+- [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
 
 ## YASnippet 
 
