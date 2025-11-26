@@ -2951,7 +2951,7 @@
 - [RobTillaart/avrheap](https://github.com/RobTillaart/avrheap) - Arduino library to investigate the avr heap
 - [RobTillaart/BitArray](https://github.com/RobTillaart/BitArray) - Arduino library for compact array of objects with a size expressed in bits. typically 1..10
 - [RobTillaart/bitHelpers](https://github.com/RobTillaart/bitHelpers) - Arduino library with static functions on bit level (a.k.a. bit hacks)
-- [RobTillaart/BoolArray](https://github.com/RobTillaart/BoolArray) - Arduino library for a compact array of booleans of max size 2000 (UNO)
+- [RobTillaart/BoolArray](https://github.com/RobTillaart/BoolArray) - Arduino library for a compact array of booleans of max size 2000 (UNO R3)
 - [RobTillaart/Complex](https://github.com/RobTillaart/Complex) - Arduino library for Complex math
 - [RobTillaart/CRC](https://github.com/RobTillaart/CRC) - CRC library for Arduino
 - [RobTillaart/Currency](https://github.com/RobTillaart/Currency) - Arduino library to display currency
@@ -4985,6 +4985,7 @@
 
 ## HTML 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
 - [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
@@ -5578,6 +5579,10 @@
 
 ## Kotlin 
 
+- [researchxxl/syncthing-lite](https://github.com/researchxxl/syncthing-lite) - Browse Syncthing shares
+- [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
+- [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
+- [TheLastProject/ShareToInputStick](https://github.com/TheLastProject/ShareToInputStick) - Share directly to an InputStick from Android's Share menu
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [bobrofon/easysshfs](https://github.com/bobrofon/easysshfs) - SSHFS for Android
@@ -5635,6 +5640,17 @@
 
 ## Lua 
 
+- [adibhanna/gruvdark.nvim](https://github.com/adibhanna/gruvdark.nvim) - Gruvdark: Neovim colorscheme
+- [ChristianChiarulli/onedark.nvim](https://github.com/ChristianChiarulli/onedark.nvim) - My take on the iconic Onedark colorscheme
+- [adibhanna/MiniVim](https://github.com/adibhanna/MiniVim) - Minimal Neovim config
+- [adibhanna/minimal-vim](https://github.com/adibhanna/minimal-vim) - 
+- [adibhanna/nvim-notes](https://github.com/adibhanna/nvim-notes) - Minimal Notes App for Neovim
+- [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) - Simple markdown support for Neovim
+- [adibhanna/forest-night.nvim](https://github.com/adibhanna/forest-night.nvim) - Forest Night Theme - Neovim
+- [adibhanna/laravel.nvim](https://github.com/adibhanna/laravel.nvim) - Laravel Development in Neovim
+- [adibhanna/phprefactoring.nvim](https://github.com/adibhanna/phprefactoring.nvim) - PHP Refactoring Tools for Neovim
+- [adibhanna/nvim-newfile.nvim](https://github.com/adibhanna/nvim-newfile.nvim) - Intelligently create new files
+- [adibhanna/yukinord.nvim](https://github.com/adibhanna/yukinord.nvim) - 
 - [OxygeNvim/OxygeNvim](https://github.com/OxygeNvim/OxygeNvim) - Neovim configuration for all kinds of development with rock solid defaults!
 - [OxygeNvim/ui](https://github.com/OxygeNvim/ui) - UI elements for OxygeNvim
 - [OxygeNvim/base46](https://github.com/OxygeNvim/base46) - Theme plugin for OxygeNvim
@@ -8194,7 +8210,6 @@
 - [dm1try/golden_size](https://github.com/dm1try/golden_size) - Golden Size for your active Neovim window
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
 - [kyazdani42/nvim-palenight.lua](https://github.com/kyazdani42/nvim-palenight.lua) - A palenight colorscheme for neovim
-- [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [zhaozg/neospace](https://github.com/zhaozg/neospace) - 
 - [javalikescript/lua-webview](https://github.com/javalikescript/lua-webview) - Webview from Lua
 - [vigoux/templar.nvim](https://github.com/vigoux/templar.nvim) - A dead simple template manager for neovim written in lua
@@ -10356,7 +10371,6 @@
 ## Rust 
 
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
@@ -10607,6 +10621,7 @@
 
 ## Shell 
 
+- [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night.
 - [okapia/zsh-viexchange](https://github.com/okapia/zsh-viexchange) - zsh plugin similar to vim-exchange
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [bashtools/JSONPath.sh](https://github.com/bashtools/JSONPath.sh) - JSONPath implementation in Bash for filtering, merging and modifying JSON
@@ -11210,7 +11225,6 @@
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [seagle0128/bspwm-config](https://github.com/seagle0128/bspwm-config) - Bspwm configuration files.
-- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 - [resloved/bin](https://github.com/resloved/bin) - 🗑️ — Misc. Scripts
 - [Mi-Al/WiFi-autopwner](https://github.com/Mi-Al/WiFi-autopwner) - WiFi-autopwner: script to automate searching and auditing Wi-Fi networks with weak security
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
