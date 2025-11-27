@@ -183,6 +183,7 @@
 
 ## Assembly 
 
+- [fp64lib/fp64lib](https://github.com/fp64lib/fp64lib) - Handcrafted 64-bit floating point routines for AVR/arduino microprocessors
 - [1888games/ArlasoftC64](https://github.com/1888games/ArlasoftC64) - 
 - [apple2abandonware/abandonware](https://github.com/apple2abandonware/abandonware) - Apple II Abandonware
 - [jethomson/Project-Ouroboros](https://github.com/jethomson/Project-Ouroboros) - This repo contains USBaspLoader bootloaders modified to run on an inexpensive USBasp programmer, and a few demo programs.
@@ -1757,6 +1758,8 @@
 
 ## C++ 
 
+- [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
+- [probonopd/MiniDexed](https://github.com/probonopd/MiniDexed) - Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)
 - [OneOfEleven/NanoVNA-App](https://github.com/OneOfEleven/NanoVNA-App) - NanoVNA-App
 - [radareorg/ghidra-native](https://github.com/radareorg/ghidra-native) - 
 - [radareorg/r2ghidra](https://github.com/radareorg/r2ghidra) - Native Ghidra Decompiler for r2
@@ -4296,6 +4299,7 @@
 - [emacsmirror/undo-fu](https://github.com/emacsmirror/undo-fu) - Undo helper with redo
 - [ran9er/init.emacs](https://github.com/ran9er/init.emacs) - move to ======&gt; iff
 - [ran9er/iff](https://github.com/ran9er/iff) - initial framework for emacs
+- [phongnh/zero.vim](https://github.com/phongnh/zero.vim) - My Vim helpers
 - [ROCKTAKEY/lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX, on texlab.
 - [shuxiao9058/emacs.d](https://github.com/shuxiao9058/emacs.d) - My emacs.d
 - [shuxiao9058/dotemacs.d](https://github.com/shuxiao9058/dotemacs.d) - My personal Emacs configuration
@@ -7190,6 +7194,7 @@
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
 - [harrisoncramer/jump-tag](https://github.com/harrisoncramer/jump-tag) - Neovim plugin for jumping between HTML tags.
 - [lvim-tech/lvim-focus](https://github.com/lvim-tech/lvim-focus) - 
+- [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
 - [emiasims/vimfiles](https://github.com/emiasims/vimfiles) - 
@@ -10985,7 +10990,6 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
-- [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
@@ -12584,7 +12588,6 @@
 - [tjdevries/overlength.vim](https://github.com/tjdevries/overlength.vim) - Highlight when lines go over the length that you want them.
 - [phongnh/foldtext.vim](https://github.com/phongnh/foldtext.vim) - Vim Fold Text
 - [phongnh/vim-cursor-settings](https://github.com/phongnh/vim-cursor-settings) - Set cursor settings for iTerm.app, Kitty and Alacritty terminals
-- [phongnh/zero.vim](https://github.com/phongnh/zero.vim) - My Vim helpers
 - [phongnh/fzf-settings.vim](https://github.com/phongnh/fzf-settings.vim) - My fzf settings
 - [phongnh/airline-settings.vim](https://github.com/phongnh/airline-settings.vim) - 
 - [phongnh/filetype-settings.vim](https://github.com/phongnh/filetype-settings.vim) - My default filetype settings
