@@ -307,6 +307,11 @@
 
 ## C 
 
+- [xorg62/wmfs](https://github.com/xorg62/wmfs) - Window Manager From Scratch, Minimal manual tiling window manager.
+- [xorg62/tty-pong](https://github.com/xorg62/tty-pong) - A pong game, using ncurses and multiplayer.
+- [xorg62/tty-tetris](https://github.com/xorg62/tty-tetris) - A simple tetris game wrote in C. (without ncurses)
+- [xorg62/tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses
+- [nginx/njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 - [Keysight/RHme-2015](https://github.com/Keysight/RHme-2015) - RHme+ 2015 challenge
 - [Keysight/Rhme-2016](https://github.com/Keysight/Rhme-2016) - Rhme2 challenge (2016)
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
@@ -3568,6 +3573,7 @@
 
 ## Emacs Lisp 
 
+- [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [LuigiPiucco/nerd-icons-corfu](https://github.com/LuigiPiucco/nerd-icons-corfu) - Icons for corfu via nerd-icons
 - [iyefrat/all-the-icons-completion](https://github.com/iyefrat/all-the-icons-completion) - Add icons to completion candidates in Emacs
 - [jdtsmith/kind-icon](https://github.com/jdtsmith/kind-icon) - Completion kind text/icon prefix labelling for emacs in-region completion
@@ -4814,7 +4820,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [siadat/leges](https://github.com/siadat/leges) - Attribute-based access control (Go pkg + http service)
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [windwp/go-at](https://github.com/windwp/go-at) - cli tool for automatic task
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [klauspost/asmfmt](https://github.com/klauspost/asmfmt) - Go Assembler Formatter
@@ -5234,6 +5240,7 @@
 
 ## JavaScript 
 
+- [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples
 - [wargio/r2dec-js](https://github.com/wargio/r2dec-js) - r2dec-js is a JavaScript-based decompiler that converts assembly code into pseudo-C. It aids users in understanding assembly by providing readable high-level explanations, making low-level programming
 - [denysdovhan/robbyrussell-node](https://github.com/denysdovhan/robbyrussell-node) - Cross-shell robbyrussell theme written in JavaScript
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
@@ -5644,10 +5651,13 @@
 
 ## Lua 
 
+- [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration - entirely in Lua using modern plugins (native LSP, treesitter, telescope, etc.)
+- [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
+- [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) - Reliable Neotest adapter for running Go tests in Neovim.
+- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [adibhanna/gruvdark.nvim](https://github.com/adibhanna/gruvdark.nvim) - Gruvdark: Neovim colorscheme
 - [ChristianChiarulli/onedark.nvim](https://github.com/ChristianChiarulli/onedark.nvim) - My take on the iconic Onedark colorscheme
 - [adibhanna/MiniVim](https://github.com/adibhanna/MiniVim) - Minimal Neovim config
-- [adibhanna/minimal-vim](https://github.com/adibhanna/minimal-vim) - 
 - [adibhanna/nvim-notes](https://github.com/adibhanna/nvim-notes) - Minimal Notes App for Neovim
 - [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) - Simple markdown support for Neovim
 - [adibhanna/forest-night.nvim](https://github.com/adibhanna/forest-night.nvim) - Forest Night Theme - Neovim
@@ -5802,7 +5812,6 @@
 - [mrvon/gruvbox.nvim](https://github.com/mrvon/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [jakobwesthoff/nvim-from-scratch](https://github.com/jakobwesthoff/nvim-from-scratch) - A step by step example repository to get a neovim configuration up and running from scratch
 - [delphinus/artify.nvim](https://github.com/delphinus/artify.nvim) - Yet another implementation of sainnhe/artify.vim
-- [adibhanna/nvim](https://github.com/adibhanna/nvim) - Neovim config
 - [OXY2DEV/colors.nvim](https://github.com/OXY2DEV/colors.nvim) - A simple plugin to handle highlight groups
 - [OXY2DEV/markdoc](https://github.com/OXY2DEV/markdoc) - A very simple "markdown" to "vimdoc" converter.
 - [OXY2DEV/icons.nvim](https://github.com/OXY2DEV/icons.nvim) - Simple abstraction layer for multiple icon providers for Neovim
@@ -8169,7 +8178,7 @@
 - [rxi/lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev
 - [rxi/console](https://github.com/rxi/console) - A console plugin for the lite text editor
 - [rxi/lite-colors](https://github.com/rxi/lite-colors) - Colors themes for the lite text editor
-- [weilbith/vim-blueplanet](https://github.com/weilbith/vim-blueplanet) - My very personal and awesome Vim scripts and configuration.
+- [weilbith/neovim-configuration](https://github.com/weilbith/neovim-configuration) - My very personal and awesome Vim scripts and configuration.
 - [weilbith/nvim-lsp-diamove](https://github.com/weilbith/nvim-lsp-diamove) - Navigation for LSP diagnostics in NeoVim
 - [javalikescript/lha](https://github.com/javalikescript/lha) - light home automation application
 - [archseer/snippets.nvim](https://github.com/archseer/snippets.nvim) - 
@@ -8647,6 +8656,7 @@
 
 ## Others 
 
+- [xorg62/tty-fifteen](https://github.com/xorg62/tty-fifteen) - A fifteen puzzle game in ncurses.
 - [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
 - [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Overview of the current ESP32 models  (ESP32, S2, S3, C3, C2, C5, C6, C61, H2, H4, P4) based on the official data sheets from Espressif (as of September 2025)
@@ -10375,6 +10385,7 @@
 
 ## Rust 
 
+- [nwtnni/tock](https://github.com/nwtnni/tock) - Digital clock for the terminal
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
@@ -11578,6 +11589,8 @@
 
 ## TypeScript 
 
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [radareorg/radare2-r2papi](https://github.com/radareorg/radare2-r2papi) - High Level API on top of the R2Pipe interface
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
@@ -13179,6 +13192,7 @@
 
 ## Zig 
 
+- [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [bagggage/bamos](https://github.com/bagggage/bamos) - Open-source operating system
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems
@@ -13192,7 +13206,7 @@
 - [eira-fransham/octahack-zig](https://github.com/eira-fransham/octahack-zig) - VCV/Max-style modular plug-anything-to-anything system, designed to be embedded free-standing in an Octatrack-style physical instrument
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
 ## jq 
