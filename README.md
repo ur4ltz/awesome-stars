@@ -3573,6 +3573,16 @@
 
 ## Emacs Lisp 
 
+- [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
+- [drcxd/emacs.d](https://github.com/drcxd/emacs.d) - Self-contained emacs configuration
+- [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
+- [protesilaos/doric-themes](https://github.com/protesilaos/doric-themes) - Minimalist themes for GNU Emacs
+- [protesilaos/logos](https://github.com/protesilaos/logos) - A simple "focus mode" which can be applied to any buffer for reading, writing, or even doing a presentation.
+- [protesilaos/spacious-padding](https://github.com/protesilaos/spacious-padding) - Increase the padding/spacing of GNU Emacs frames and windows.
+- [protesilaos/denote-sequence](https://github.com/protesilaos/denote-sequence) - Sequence notes or Folgezettel with Denote
+- [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
+- [protesilaos/standard-themes](https://github.com/protesilaos/standard-themes) - Like the default GNU Emacs theme but more consistent
+- [protesilaos/denote-merge](https://github.com/protesilaos/denote-merge) - Denote extension to merge contents from one note into another
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [LuigiPiucco/nerd-icons-corfu](https://github.com/LuigiPiucco/nerd-icons-corfu) - Icons for corfu via nerd-icons
 - [iyefrat/all-the-icons-completion](https://github.com/iyefrat/all-the-icons-completion) - Add icons to completion candidates in Emacs
@@ -4995,7 +5005,6 @@
 
 ## HTML 
 
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
 - [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
@@ -6249,7 +6258,6 @@
 - [kiran94/maim.nvim](https://github.com/kiran94/maim.nvim) - Take Screenshots from Neovim
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
 - [ColumPaget/prosafe.lua](https://github.com/ColumPaget/prosafe.lua) - command-line management for netgear Prosafe switches
-- [ColumPaget/pocketeer.lua](https://github.com/ColumPaget/pocketeer.lua) - Lua script to list/add/delete items to getpocket.com. Requires libUseful and libUseful-lua
 - [ColumPaget/pwned.lua](https://github.com/ColumPaget/pwned.lua) - NO LONGER WORKING: HaveIBeenPwned API is now pay-to-use
 - [ColumPaget/devart.lua](https://github.com/ColumPaget/devart.lua) - simple lua script to access deviantart API
 - [ColumPaget/sysmon.lua](https://github.com/ColumPaget/sysmon.lua) - Simple lua script that displays system info like cpu frequency and temperature for systems that lack a gui. Requires libUseful and libUseful-lua.
@@ -10387,6 +10395,7 @@
 
 - [nwtnni/tock](https://github.com/nwtnni/tock) - Digital clock for the terminal
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
