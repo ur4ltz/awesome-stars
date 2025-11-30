@@ -3049,7 +3049,7 @@
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [xFA25E/clock-n-temp](https://github.com/xFA25E/clock-n-temp) - Simple arduino clock and termometer
 - [jeremyong/Selene](https://github.com/jeremyong/Selene) - Simple C++11 friendly header-only bindings to Lua
-- [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
+- [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - Next generation of fcitx, cross-platform input method framework.
 - [fcitx/fcitx5-lua](https://github.com/fcitx/fcitx5-lua) - 
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [nCine/nCine](https://github.com/nCine/nCine) - A cross-platform 2D game engine
@@ -3573,6 +3573,7 @@
 
 ## Emacs Lisp 
 
+- [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [drcxd/emacs.d](https://github.com/drcxd/emacs.d) - Self-contained emacs configuration
 - [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
@@ -3645,7 +3646,7 @@
 - [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 - [aome510/kak.el](https://github.com/aome510/kak.el) - An attempt to port Kakoune's multiple selections into Emacs
-- [anuvyklack/helix.el](https://github.com/anuvyklack/helix.el) - 
+- [anuvyklack/hel](https://github.com/anuvyklack/hel) - Helix emulation layer for Emacs
 - [garymjr/.emacs.d](https://github.com/garymjr/.emacs.d) - My emacs configuration
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
@@ -4625,6 +4626,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -5128,6 +5130,7 @@
 
 ## Handlebars 
 
+- [rustic-rs/docs](https://github.com/rustic-rs/docs) - rustic user documentation
 - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
 - [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
 - [srcery-colors/srcery-terminal](https://github.com/srcery-colors/srcery-terminal) - Srcery theme terminal configurations
@@ -5249,6 +5252,17 @@
 
 ## JavaScript 
 
+- [Acode-Foundation/acode-plugin-smali](https://github.com/Acode-Foundation/acode-plugin-smali) - Smali language syntax highlighting for Acode editor
+- [Acode-Foundation/acode-plugin-volumn_cursor](https://github.com/Acode-Foundation/acode-plugin-volumn_cursor) - Control editor cursor.
+- [Acode-Foundation/acode-plugin-sass](https://github.com/Acode-Foundation/acode-plugin-sass) - Live sass compiler for acode
+- [Acode-Foundation/acode-plugin-lorem](https://github.com/Acode-Foundation/acode-plugin-lorem) - 
+- [Acode-Foundation/acode-plugin-snippets](https://github.com/Acode-Foundation/acode-plugin-snippets) - Acode snippets plugin
+- [Acode-Foundation/acode-plugin-lint](https://github.com/Acode-Foundation/acode-plugin-lint) - Acode linter plugin.
+- [Acode-Foundation/acode-plugin-prettier](https://github.com/Acode-Foundation/acode-plugin-prettier) - Code formatter plugin for Acode editor for Android
+- [Acode-Foundation/acode-plugin-github](https://github.com/Acode-Foundation/acode-plugin-github) - 
+- [Acode-Foundation/acode-plugin-python](https://github.com/Acode-Foundation/acode-plugin-python) - Acode plugin to run python code
+- [Acode-Foundation/acode-runner-plugin](https://github.com/Acode-Foundation/acode-runner-plugin) - 
+- [Acode-Foundation/Acode2](https://github.com/Acode-Foundation/Acode2) - Acode - powerful text/code editor for android
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples
 - [wargio/r2dec-js](https://github.com/wargio/r2dec-js) - r2dec-js is a JavaScript-based decompiler that converts assembly code into pseudo-C. It aids users in understanding assembly by providing readable high-level explanations, making low-level programming
 - [denysdovhan/robbyrussell-node](https://github.com/denysdovhan/robbyrussell-node) - Cross-shell robbyrussell theme written in JavaScript
@@ -5727,7 +5741,6 @@
 - [FAUniv/clidebugger](https://github.com/FAUniv/clidebugger) - A simple command line interface debugger for Lua 5.1 written in pure Lua. Its not dependent on anything other than the standard Lua 5.1 libraries. It was inspired by RemDebug but does not have its rem
 - [lindowx/lua-resty-vardump](https://github.com/lindowx/lua-resty-vardump) - A debug tool for the Openresty/ngx_lua that pretty-prints some Lua values.
 - [lua-ulf/ulf.log](https://github.com/lua-ulf/ulf.log) - A logger module for Luajit and Neovim
-- [kokaito-git/lsp-dui](https://github.com/kokaito-git/lsp-dui) - nvim plugin to display LSP issues at the file/line level, copy errors, etc.
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [David-Kunz/cov.nvim](https://github.com/David-Kunz/cov.nvim) - Neovim plugin to show coverage
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
@@ -10393,6 +10406,7 @@
 
 ## Rust 
 
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [nwtnni/tock](https://github.com/nwtnni/tock) - Digital clock for the terminal
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -10646,6 +10660,7 @@
 
 ## Shell 
 
+- [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night.
 - [okapia/zsh-viexchange](https://github.com/okapia/zsh-viexchange) - zsh plugin similar to vim-exchange
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
@@ -11598,6 +11613,8 @@
 
 ## TypeScript 
 
+- [Acode-Foundation/acode-plugin-docs](https://github.com/Acode-Foundation/acode-plugin-docs) - Acode plugin documentation
+- [Acode-Foundation/acode-site-ui](https://github.com/Acode-Foundation/acode-site-ui) - 
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
