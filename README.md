@@ -5813,7 +5813,7 @@
 - [WizardStark/dotfiles](https://github.com/WizardStark/dotfiles) - dotfiles, currently for NeoVim and Tmux configuration
 - [linrongbin16/lin.nvim](https://github.com/linrongbin16/lin.nvim) - Lin Rongbin's Neovim Distribution
 - [linrongbin16/giturlparser.lua](https://github.com/linrongbin16/giturlparser.lua) - Git url parsing library for lua.
-- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - A large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
+- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
 - [linrongbin16/commons.nvim](https://github.com/linrongbin16/commons.nvim) - The commons lua library for Neovim plugin project.
 - [linrongbin16/gentags.nvim](https://github.com/linrongbin16/gentags.nvim) - Tags generator/management for old school vimers in Neovim.
 - [linrongbin16/colorbox.nvim](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into Neovim player!
@@ -6873,7 +6873,7 @@
 - [tiagovla/buffercd.nvim](https://github.com/tiagovla/buffercd.nvim) - 
 - [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
 - [nanozuki/fur.nvim](https://github.com/nanozuki/fur.nvim) - Organize your neovim config and features by fur. Have fun with features opt-in and hot-reload.
-- [nanozuki/crows](https://github.com/nanozuki/crows) - My home directory configs, powered by Home Manager.
+- [nanozuki/crows](https://github.com/nanozuki/crows) - My dotfiles and public nix modules.
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) - 🌈 LSP-based colorizer for neovim
 - [Avimitin/neovim-deus](https://github.com/Avimitin/neovim-deus) - The color scheme for neovim
 - [Avimitin/nerd-galaxyline](https://github.com/Avimitin/nerd-galaxyline) - A modern and great-looking status bar for neovim
