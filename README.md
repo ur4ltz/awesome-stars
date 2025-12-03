@@ -5597,7 +5597,6 @@
 - [NNBnh/bmap.kak](https://github.com/NNBnh/bmap.kak) - :bookmark: Kakoune key-binding that SuperB (WIP)
 - [NNBnh/coderun.kak](https://github.com/NNBnh/coderun.kak) - ⏯️ Kakoune code runner
 - [Delapouite/kakoune-registers](https://github.com/Delapouite/kakoune-registers) - List the current content of registers
-- [enricozb/lean.kak](https://github.com/enricozb/lean.kak) - Minimal Lean syntax highlighting, intermediate evaluation, and LaTeX completions
 - [enricozb/cursors.kak](https://github.com/enricozb/cursors.kak) - Sublime-like multiple cursors behavior for kakoune
 - [enricozb/wiki.kak](https://github.com/enricozb/wiki.kak) - Kakoune markdown file navigation and wiki system
 - [enricozb/dotfiles](https://github.com/enricozb/dotfiles) - 
@@ -5775,7 +5774,7 @@
 - [icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim) - LSP textDocument/documentLink support for neovim
 - [SuperBo/lsp-ai.nvim](https://github.com/SuperBo/lsp-ai.nvim) - LSP-AI plugin for Neovim
 - [jdesgats/ljsonschema](https://github.com/jdesgats/ljsonschema) - Pure Lua JSON schema validator
-- [Tieske/lua-resty-ljsonschema](https://github.com/Tieske/lua-resty-ljsonschema) - Pure Lua JSON schema validator for Lua and OpenResty
+- [Tieske/lua-resty-ljsonschema](https://github.com/Tieske/lua-resty-ljsonschema) - Pure Lua JSON schema (draft 4) validator for Lua and OpenResty
 - [Tieske/date](https://github.com/Tieske/date) - Date & Time module for Lua 5.x
 - [wscherphof/lua-date](https://github.com/wscherphof/lua-date) - Date & Time module for Lua 5.x
 - [jedrzejboczar/devcontainers.nvim](https://github.com/jedrzejboczar/devcontainers.nvim) - Run LSP servers inside devcontainers when using Neovim
@@ -5902,7 +5901,7 @@
 - [wsdjeg/statusline.nvim](https://github.com/wsdjeg/statusline.nvim) - module statusline plugin for neovim
 - [wsdjeg/tasks.nvim](https://github.com/wsdjeg/tasks.nvim) - tasks manager for neovim
 - [wsdjeg/record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) - Neovim screen recording plugin
-- [wsdjeg/keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim) - 
+- [wsdjeg/keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim) - key mapping guide for neovim
 - [wsdjeg/logger.nvim](https://github.com/wsdjeg/logger.nvim) - Neovim runtime logger
 - [wsdjeg/flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) - Neovim plugin to search text in floating window asynchronously
 - [wsdjeg/terminal.nvim](https://github.com/wsdjeg/terminal.nvim) - simple floating terminal plugin for Neovim
@@ -6533,7 +6532,6 @@
 - [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) - a neovim statusline & tabline plug
 - [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline and bufferline plugin for neovim in lua.
 - [declancm/windex.nvim](https://github.com/declancm/windex.nvim) - 🧼 Clean window maximizing, terminal toggling, window/tmux pane movements and more!
-- [SingularisArt/telescope-sessions.nvim](https://github.com/SingularisArt/telescope-sessions.nvim) - A telescope extension to help manage sessions!
 - [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path on the current buffer using Telescope.nvim
 - [kiyoon/dotfiles](https://github.com/kiyoon/dotfiles) - NeoVim Tmux IDE configuration
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
@@ -10555,6 +10553,7 @@
 - [oknozor/illumination](https://github.com/oknozor/illumination) - A mardown renderer for nvim written with gtkrs and neovim-lib
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
+- [enricozb/lean.kak](https://github.com/enricozb/lean.kak) - Minimal Lean syntax highlighting, intermediate evaluation, and LaTeX completions
 - [enricozb/tabs.kak](https://github.com/enricozb/tabs.kak) - Kakoune buffers as tabs in the status line.
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [chipsenkbeil/vimwiki-rs](https://github.com/chipsenkbeil/vimwiki-rs) - Rust library and tooling to parse, render, and modify vimwiki text and files.
