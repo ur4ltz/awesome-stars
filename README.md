@@ -1633,7 +1633,7 @@
 - [anael-seghezzi/tcc-0.9.26](https://github.com/anael-seghezzi/tcc-0.9.26) - tcc-0.9.26 fork
 - [LuaDist/tcc](https://github.com/LuaDist/tcc) - Small but fast C compiler.  Supports ANSI C, most of the new ISO C99 standard, and many GNUC extensions, including inline assembly.
 - [patthoyts/kitgen](https://github.com/patthoyts/kitgen) - Tclkit build system
-- [farlepet/lambda-kern](https://github.com/farlepet/lambda-kern) - Multi-architecture hobby operating system kernel created in C
+- [farlepet/lambda-kern](https://github.com/farlepet/lambda-kern) - Mirror of https://git.pfarley.dev/lambda-os/lambda-kern,  Multi-architecture hobby operating system kernel created in C
 - [chenall/grubutils](https://github.com/chenall/grubutils) - utils for grub4dos
 - [chenall/grub4dos](https://github.com/chenall/grub4dos) - 外部命令和工具源码:https://github.com/chenall/grubutils 下载:
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -3591,7 +3591,7 @@
 - [elp-revive/auto-highlight-symbol](https://github.com/elp-revive/auto-highlight-symbol) - Automatic highlighting current symbol minor mode.
 - [emacsattic/rainbow-blocks](https://github.com/emacsattic/rainbow-blocks) - Block syntax highlighting for lisp code
 - [KaratasFurkan/org-rainbow-tags](https://github.com/KaratasFurkan/org-rainbow-tags) - Colorize org tags automatically to make them visually distinguishable.
-- [kwrooijen/.emacs.d](https://github.com/kwrooijen/.emacs.d) - My Emacs configurations
+- [kwrooijen/emacs.d](https://github.com/kwrooijen/emacs.d) - My Emacs configurations
 - [radian-software/blackout](https://github.com/radian-software/blackout) - 💡 The easy way to clean up your Emacs mode lighters.
 - [bbatsov/solarized-emacs](https://github.com/bbatsov/solarized-emacs) - The Solarized colour theme, ported to Emacs.
 - [raxod502/org-emacs](https://github.com/raxod502/org-emacs) - Simple configuration of Emacs optimized for Org mode
@@ -11766,7 +11766,7 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
