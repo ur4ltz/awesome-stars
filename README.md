@@ -1354,7 +1354,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [begoon/i8080-core](https://github.com/begoon/i8080-core) - Intel 8080 (KR580VM80A) microprocessor core model
 - [klad-me/RK8266](https://github.com/klad-me/RK8266) - Radio-86RK on ESP8266 emulator
-- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB booting code, moved from tools repository
+- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB device provisioning tool (RPIBOOT)
 - [dimkr/b6b](https://github.com/dimkr/b6b) - A lightweight, embeddable scripting language
 - [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
 - [drmargarido/minimize_memory](https://github.com/drmargarido/minimize_memory) - Memory Reduction Presentation and Benchmark
@@ -2151,7 +2151,7 @@
 - [tmr4/T41_SDR](https://github.com/tmr4/T41_SDR) - SDR based on T41-EP
 - [manashmandal/SerialPort](https://github.com/manashmandal/SerialPort) - :large_orange_diamond: C++ Library for Serial Communication with Arduino
 - [F3lda/BP-HistoR](https://github.com/F3lda/BP-HistoR) - Embedded system for receiving audio streams on a historic radio receiver
-- [kp4md/TunaTinS](https://github.com/kp4md/TunaTinS) - Arduino code for Bob Fontana AK3Y's Tuna Tin S QRPp CW Transmitter
+- [kp4md/TunaTinS](https://github.com/kp4md/TunaTinS) - Arduino Si5351 VFO Code with 10 MHz Calibration for Tuna Tin S QRP CW Transmitter
 - [ianm8/HySSB](https://github.com/ianm8/HySSB) - 
 - [ianm8/MBDC](https://github.com/ianm8/MBDC) - Multiband direct conversion reciever
 - [ianm8/iDSB](https://github.com/ianm8/iDSB) - 
@@ -4467,7 +4467,7 @@
 - [milkypostman/powerline](https://github.com/milkypostman/powerline) - emacs powerline
 - [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
 - [emacsattic/helm-ag](https://github.com/emacsattic/helm-ag) - The silver searcher with helm interface
-- [emacsorphanage/ac-etags](https://github.com/emacsorphanage/ac-etags) - etags/ctags completion source for auto-complete
+- [emacsorphanage/ac-etags](https://github.com/emacsorphanage/ac-etags) - Etags/ctags completion source for auto-complete
 - [Wilfred/ag.el](https://github.com/Wilfred/ag.el) - An Emacs frontend to The Silver Searcher
 - [bling/pt.el](https://github.com/bling/pt.el) - An emacs front-end for Pt, the Platinum Searcher
 - [auto-complete/popup-el](https://github.com/auto-complete/popup-el) - Visual Popup Interface Library for Emacs
@@ -4617,6 +4617,7 @@
 
 - [jawatson/voacapl](https://github.com/jawatson/voacapl) - A port of VOACAP for Linux
 - [pynappo/dotfiles](https://github.com/pynappo/dotfiles) - dotfiles for Windows and arch, btw.
+- [lucastrvsn/.dotfiles](https://github.com/lucastrvsn/.dotfiles) - wow such dotfiles
 - [sk0x1234/swaydotfiles](https://github.com/sk0x1234/swaydotfiles) - sway dotfiles
 
 ## Game Maker Language 
@@ -7944,7 +7945,6 @@
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
 - [zdenekkostal/dotfiles](https://github.com/zdenekkostal/dotfiles) - 
-- [lucastrvsn/.dotfiles](https://github.com/lucastrvsn/.dotfiles) - wow such dotfiles
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration
 - [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Bubbly statusline for neovim
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
@@ -9920,7 +9920,7 @@
 - [shwnchpl/mutt-theme-generator](https://github.com/shwnchpl/mutt-theme-generator) - Generates Mutt/Neomutt themes from .Xresources files.
 - [msdavid/i3autofloat](https://github.com/msdavid/i3autofloat) - Hack that makes I3 "remeber" when an application is toggled to floating mode
 - [joegrover/stereoio](https://github.com/joegrover/stereoio) - Controller for web radio that sends commands to mpv running on a raspberry pi based on physical knobs and switches
-- [leo-editor/leo-editor](https://github.com/leo-editor/leo-editor) - Leo is an Outliner, Editor, IDE and PIM written in 100% Python.
+- [leo-editor/leo-editor](https://github.com/leo-editor/leo-editor) - Leo is an outline-oriented editor written in 100% Python.
 - [deadc0de6/i3altlayout](https://github.com/deadc0de6/i3altlayout) - i3wm efficient screen real estate
 - [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -11621,7 +11621,7 @@
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [nmoroze/tclint-vscode](https://github.com/nmoroze/tclint-vscode) - VS Code extension that lints and formats Tcl and EDA scripts.
 - [Mellbourn/lsColorsToToml](https://github.com/Mellbourn/lsColorsToToml) - 
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
 - [wader/vscode-jq](https://github.com/wader/vscode-jq) - jq extension for VSCode and (Neo)vim.
 - [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
@@ -12164,7 +12164,7 @@
 - [pkgstore-old/linux-rpm-neovim](https://github.com/pkgstore-old/linux-rpm-neovim) - 
 - [907th/vim-auto-save](https://github.com/907th/vim-auto-save) - A Vim plugin which saves files to disk automatically.
 - [edkolev/edit-register.vim](https://github.com/edkolev/edit-register.vim) - 
-- [mizlan/vim-and-cp](https://github.com/mizlan/vim-and-cp) - Some helpful bits and pieces for your vimrc
+- [mizlan/vim-and-cp](https://github.com/mizlan/vim-and-cp) - Some helpful bits and pieces for your vimrc, oriented at competitive programmers
 - [mizlan/termbufm](https://github.com/mizlan/termbufm) - Lightweight Terminal Buffer Manager for Neovim.
 - [mizlan/vim-solaire](https://github.com/mizlan/vim-solaire) - Like emacs-solaire-mode but for Vim and Neovim
 - [condy0919/docom.vim](https://github.com/condy0919/docom.vim) - A comment documentation highlighting plugin for c/cpp
