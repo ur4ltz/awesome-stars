@@ -12211,7 +12211,6 @@
 - [AlessandroYorba/Alduin](https://github.com/AlessandroYorba/Alduin) - A Vim Colorscheme
 - [AlessandroYorba/Sierra](https://github.com/AlessandroYorba/Sierra) - A Vim Colorscheme
 - [AlessandroYorba/Despacio](https://github.com/AlessandroYorba/Despacio) - A Vim colorscheme
-- [msaifi03/Snip](https://github.com/msaifi03/Snip) - Archived: plugin for managing vim abbreviations.
 - [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 - [kamykn/spelunker.vim](https://github.com/kamykn/spelunker.vim) - Improved vim spelling plugin (with camel case support)!
 - [kuznetsss/shswitch](https://github.com/kuznetsss/shswitch) - Vim plugin to switch between header and source
@@ -12368,7 +12367,7 @@
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 - [nvimdev/oceanic-material](https://github.com/nvimdev/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
 - [nvimdev/spaceline.vim](https://github.com/nvimdev/spaceline.vim) - vim statusline like spacemacs
-- [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) - Vim configuration in the 21st century
+- [BSCsmartdev/ThinkVim](https://github.com/BSCsmartdev/ThinkVim) - Vim configuration in the 21st century
 - [ahmadie/dotfiles](https://github.com/ahmadie/dotfiles) - 
 - [dosimple/workspace.vim](https://github.com/dosimple/workspace.vim) - Workspace (as in i3wm) for Vim
 - [ahmadie/workspace.vim](https://github.com/ahmadie/workspace.vim) - vim tab management for buffers. use tabs as workspaces of i3. buffers per tab. move buffer between tabs.
