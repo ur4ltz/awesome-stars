@@ -1396,7 +1396,7 @@
 - [andrejlevkovitch/Enigma](https://github.com/andrejlevkovitch/Enigma) - 
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Tomas-M/posixovl](https://github.com/Tomas-M/posixovl) - POSIX-overlay filesystem
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
 - [hiroshiyui/epgrab](https://github.com/hiroshiyui/epgrab) - Grab DVB EPG data.
@@ -7861,7 +7861,6 @@
 - [zenith391/OCEmu](https://github.com/zenith391/OCEmu) - OpenComputers Emulator in Lua
 - [latentflip/game-of-life-lua](https://github.com/latentflip/game-of-life-lua) - Game of life in lua
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
-- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [matze/configs](https://github.com/matze/configs) - Dot files
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Atom one theme
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
@@ -8900,6 +8899,7 @@
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [superjamie/lazyweb](https://github.com/superjamie/lazyweb) - Random scraps of my knowledge
 - [nvim-neorg/library-of-norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - The Library of Alexandria, in .norg
+- [gwenhael-le-moine/TermuxSlack](https://github.com/gwenhael-le-moine/TermuxSlack) - You can use setupTermuxSlack.sh 📲 to install Slackware Linux in Termux on Android and Chrome. This setup script will attempt to set Slackware Linux up in your Termux environment.
 - [GulajavaMinistudio/Mayukai-Theme](https://github.com/GulajavaMinistudio/Mayukai-Theme) - Combination theme for VS Code and VSCodium that inspired from Ayu Theme, Monokai , Andromeda,  Material Color, and Gruvbox Darktooth Color.
 - [kaddkaka/vim_examples](https://github.com/kaddkaka/vim_examples) - Some examples of vim features captured from terminal with asciinema.
 - [yegappan/scratch](https://github.com/yegappan/scratch) - A Vim plugin to use a scratch buffer
@@ -8956,6 +8956,7 @@
 - [AlixShahid/birav2-theme](https://github.com/AlixShahid/birav2-theme) - birav2, littel modified theme for oh my zsh
 - [ripxorip/pinkytyl_v2](https://github.com/ripxorip/pinkytyl_v2) - CAD files for my pinkytyl keyboard
 - [nvim-neorg/example_workspaces](https://github.com/nvim-neorg/example_workspaces) - 
+- [gwenhael-le-moine/gem2tgz](https://github.com/gwenhael-le-moine/gem2tgz) - convert a ruby gem to a slackware package (could also be called gem2tgz)
 - [LynnHo/Matrix-Calculus-Tutorial](https://github.com/LynnHo/Matrix-Calculus-Tutorial) - Matrix Calculus via Differentials, Matrix Derivative, 矩阵求导教程
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
 - [JonasMuehlmann/bntp.nvim](https://github.com/JonasMuehlmann/bntp.nvim) - Neovim integration for my personal all-in-one productivity system including components like bookmarks, notes, todos, projects, etc.
@@ -10889,7 +10890,7 @@
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Show beautiful keystrokes  & generate chat bubble widgets while typing on Linux
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [lvim-tech/lvim-fm](https://github.com/lvim-tech/lvim-fm) - 
-- [fabioluciano/tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) - 
+- [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - 
 - [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
@@ -10915,7 +10916,6 @@
 - [termux/termux-api-package](https://github.com/termux/termux-api-package) - Termux package containing scripts to call functionality in Termux:API.
 - [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
 - [sp4rkie/debian-on-termux](https://github.com/sp4rkie/debian-on-termux) - HOWTO install plain Debian 10 (buster) on your non-rooted Android smartphone
-- [gwenhael-le-moine/TermuxSlack](https://github.com/gwenhael-le-moine/TermuxSlack) - You can use setupTermuxSlack.sh 📲 to install Slackware Linux in Termux on Android and Chrome. This setup script will attempt to set Slackware Linux up in your Termux environment.
 - [4679/oh-my-termux](https://github.com/4679/oh-my-termux) - oh-my-termux
 - [eth-p/fish-securenv](https://github.com/eth-p/fish-securenv) - A fish function for on-demand retrieval of sensitive environment variables.
 - [eth-p/fish-promptfessional](https://github.com/eth-p/fish-promptfessional) - Your flexible and highly-customizable Fish shell prompt.
@@ -11057,7 +11057,6 @@
 - [idlemoor/lintpkg](https://github.com/idlemoor/lintpkg) - Slackware package linter, in the style of rpmlint
 - [idlemoor/heresy](https://github.com/idlemoor/heresy) - Heresy Plugins for slackpkg: simplify maintenance of your Slackware system
 - [idlemoor/distcc-tools](https://github.com/idlemoor/distcc-tools) - distcc client and multiarch cross-compiling distcc server for Slackware
-- [gwenhael-le-moine/gem2tgz](https://github.com/gwenhael-le-moine/gem2tgz) - convert a ruby gem to a slackware package (could also be called gem2tgz)
 - [pprkut/lintpkg](https://github.com/pprkut/lintpkg) - Slackware package linter, in the style of rpmlint
 - [idlemoor/slackrepo-hints](https://github.com/idlemoor/slackrepo-hints) - Default hintfiles for slackrepo
 - [idlemoor/slackrepo](https://github.com/idlemoor/slackrepo) - Automated SlackBuild package builder
@@ -11108,7 +11107,7 @@
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
-- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - 🗃️ Sensible Defaults of My Computer
+- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - ❄️ configuration of my systems
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
@@ -11172,6 +11171,7 @@
 - [mrossinek/dotfiles](https://github.com/mrossinek/dotfiles) - My dotfiles
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
+- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
 - [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My dotfiles
 - [anott03/nvim-lspinstall-scripts](https://github.com/anott03/nvim-lspinstall-scripts) - The scripts used by anott03/nvim-lspinstall
