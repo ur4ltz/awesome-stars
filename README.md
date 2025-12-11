@@ -234,7 +234,7 @@
 - [nerdralph/usbasp](https://github.com/nerdralph/usbasp) - usbasp improved firmware
 - [DeqingSun/vnproch551](https://github.com/DeqingSun/vnproch551) - CH551 Programming software
 - [avrdudes/avr-libc](https://github.com/avrdudes/avr-libc) - The AVR-LibC package provides a subset of the standard C library for AVR 8-bit RISC microcontrollers.
-- [Megatokio/zasm](https://github.com/Megatokio/zasm) - Z80 / 8080 / Z180 assembler (for unix-style OS)
+- [Megatokio/zasm](https://github.com/Megatokio/zasm) - Z80 / 8080 / Z180 / Z80next assembler (for unix-style OS)
 - [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-based debugWIRE hardware-debugger
 - [zoosmand/SAMD21G18A_SPI](https://github.com/zoosmand/SAMD21G18A_SPI) - Microchip (Atmel) SAMD21 SPI example. MAX7219 as a ticker and BMP280 as a data source for ticker, are used on the same SPI bus.
 - [zoosmand/SAMD21G18A_delay](https://github.com/zoosmand/SAMD21G18A_delay) - In this example a delay don't make an empty job, but passing handle into a main cycle
@@ -803,7 +803,6 @@
 - [LGTMCU/Larduino_HSP](https://github.com/LGTMCU/Larduino_HSP) - Hardware support package for Larduino
 - [MoonFox2006/USBLCD](https://github.com/MoonFox2006/USBLCD) - CH552 LCD 1602 USB CDC display
 - [piotr022/k5prog](https://github.com/piotr022/k5prog) - Quansheng UV-K5 EEPROM programmer
-- [joaquimorg/uv-k5-firmware-custom](https://github.com/joaquimorg/uv-k5-firmware-custom) - Open implementation of the Quansheng UV-K5/K6/5R firmware
 - [projecthorus/horusdemodlib](https://github.com/projecthorus/horusdemodlib) - High Altitude Balloon Telemetry Library
 - [kgoba/ft8_lib](https://github.com/kgoba/ft8_lib) - FT8 library
 - [drowe67/codec2](https://github.com/drowe67/codec2) - Open source speech codec designed for communications quality speech between 700 and 3200 bit/s. The main application is low bandwidth HF/VHF digital radio.
@@ -7813,7 +7812,7 @@
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [philanc/plterm](https://github.com/philanc/plterm) - Pure Lua ANSI Terminal functions
 - [Openarl/PathOfBuilding](https://github.com/Openarl/PathOfBuilding) - Offline build planner for Path of Exile.
-- [exlunaproject/teal-pages](https://github.com/exlunaproject/teal-pages) - Teal Pages Template Preprocessor, enables &lt;?teal tag that executes typed Lua (Teal language)
+- [felipedaragon/teal-pages](https://github.com/felipedaragon/teal-pages) - Teal Pages Template Preprocessor, enables &lt;?teal tag that executes typed Lua (Teal language)
 - [Bowuigi/TED](https://github.com/Bowuigi/TED) - TED is a simple CLI Text EDitor made in pure Lua
 - [danielrempel/ladle](https://github.com/danielrempel/ladle) - Formerly known as lua-web-server, forked from Google Code repository and compatible with lua 5.2
 - [daurnimator/mmdblua](https://github.com/daurnimator/mmdblua) - Maxmind database parser for lua
@@ -7887,6 +7886,7 @@
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [ojroques/nvim-buildme](https://github.com/ojroques/nvim-buildme) - A Neovim plugin to run a script using the built-in terminal
+- [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My dotfiles
 - [anott03/termight.nvim](https://github.com/anott03/termight.nvim) - A simple neovim extension to make managing terminal buffers easier.
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 
 - [guillaumecherel/vis-fzf-open](https://github.com/guillaumecherel/vis-fzf-open) - Open files in vis with fzf
@@ -8049,10 +8049,10 @@
 - [javalikescript/luajls](https://github.com/javalikescript/luajls) - luajls is a set of Lua modules for developing stand-alone Lua applications
 - [zhaozg/lpeg_patterns](https://github.com/zhaozg/lpeg_patterns) - A collection of LPEG patterns
 - [luarocks/luarocks-gui](https://github.com/luarocks/luarocks-gui) - GUI module for LuaRocks 3.x
-- [exlunaproject/lua_at_client](https://github.com/exlunaproject/lua_at_client) - Lua Pages Template Preprocessor Extension, enables &lt;?lua@client tag that executes Lua scripts in the browser
+- [felipedaragon/lua_at_client](https://github.com/felipedaragon/lua_at_client) - Lua Pages Template Preprocessor Extension, enables &lt;?lua@client tag that executes Lua scripts in the browser
 - [sailorproject/lua_at_client](https://github.com/sailorproject/lua_at_client) - Lua@Client is a modification and extension of Lua Pages to enable client-side Lua scripts (works with a variety of web server environments). It also facilitates running Lua scripts from static HTML pa
 - [sailorproject/remy](https://github.com/sailorproject/remy) - Run Lua-based web applications in different web server environments like Apache, Lighttpd, Nginx and others
-- [exlunaproject/remy](https://github.com/exlunaproject/remy) - Write once, run everywhere. An abstract wrapper to several alternative Lua-powered web server environments. Compatible with Apache, Lighttpd, Nginx and others
+- [felipedaragon/remy](https://github.com/felipedaragon/remy) - Write once, run everywhere. An abstract wrapper to several alternative Lua-powered web server environments. Compatible with Apache, Lighttpd, Nginx and others
 - [sailorproject/valua](https://github.com/sailorproject/valua) - Validation for lua! A module for making chained validations. Create your objects, append your tests, use and reuse it!
 - [jnwhiteh/snippets_luacode](https://github.com/jnwhiteh/snippets_luacode) - A website for the contribution, tagging, searching and discussing of Lua code recipes.
 - [yuri/lua-colors](https://github.com/yuri/lua-colors) - A Lua library for color theory calculation
@@ -11173,7 +11173,6 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
-- [ojroques/dotfiles](https://github.com/ojroques/dotfiles) - My dotfiles
 - [anott03/nvim-lspinstall-scripts](https://github.com/anott03/nvim-lspinstall-scripts) - The scripts used by anott03/nvim-lspinstall
 - [erictleung/dotfiles](https://github.com/erictleung/dotfiles) - :wrench: A repository of my dotfiles to setup my development environments
 - [kevinhwang91/zsh-tmux-capture](https://github.com/kevinhwang91/zsh-tmux-capture) - Tmux capture content for zsh quickly.
@@ -13231,7 +13230,7 @@
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - Zig language support for Sublime Text
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A non-monolithic Wayland compositor
 
 ## jq 
 
