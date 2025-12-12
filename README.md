@@ -5311,7 +5311,6 @@
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [takahirox/nes-js](https://github.com/takahirox/nes-js) - JavaScript NES(Famicom) emulator
 - [Mshakir-Git/Quantumjs](https://github.com/Mshakir-Git/Quantumjs) - Terminal game engine
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [cncjs/cncjs](https://github.com/cncjs/cncjs) - A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.
 - [tedor/weather-station-frontend](https://github.com/tedor/weather-station-frontend) - Frontend for arduion-weather-station
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder (React Project)
@@ -10240,8 +10239,8 @@
 - [wuub/SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)
 - [ken48/LuaProjectHelper](https://github.com/ken48/LuaProjectHelper) - Lua Project Helper sublime plugin
 - [timonwong/SublimeAStyleFormatter](https://github.com/timonwong/SublimeAStyleFormatter) - SublimeAStyleFormatter is a code formatter/beautifier for Sublime Text 2 & 3. It provides ability to format C/C++/C#/Java files.
-- [wbond/package_control](https://github.com/wbond/package_control) - The Sublime Text package manager
-- [wbond/package_control_channel](https://github.com/wbond/package_control_channel) - Default channel file for Package Control. Follow the directions at:
+- [sublimehq/package_control](https://github.com/sublimehq/package_control) - The Sublime Text package manager
+- [sublimehq/package_control_channel](https://github.com/sublimehq/package_control_channel) - Default channel file for Package Control. Follow the directions at:
 - [Robot-Will/Stino](https://github.com/Robot-Will/Stino) - A Sublime Text Plugin for Arduino
 - [titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Side Bar Tools and Enhancements for Sublime Text. Files and folders.
 - [randy3k/GitStatusBar](https://github.com/randy3k/GitStatusBar) - A more compact Git StatusBar
@@ -11661,6 +11660,7 @@
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
 - [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
@@ -11745,6 +11745,7 @@
 - [iamcco/coc-leetcode](https://github.com/iamcco/coc-leetcode) - leetcode 扩展
 - [iamcco/coc-angular](https://github.com/iamcco/coc-angular) - Angular Language Service coc extension for (neo)vim
 - [iamcco/coc-actions](https://github.com/iamcco/coc-actions) - Actions menu for Neovim
+- [BSCsmartdev/Fourmeme-Sniper-Trading-Bot](https://github.com/BSCsmartdev/Fourmeme-Sniper-Trading-Bot) - BSC Fourmeme Trading Bot-A FourMeme Sniper Bot automatically detects new FourMeme BSC token launches | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmem
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [atishay/vscode-allautocomplete](https://github.com/atishay/vscode-allautocomplete) - Autocomplete from open files for VSCode
 - [microsoft/vscode-arduino](https://github.com/microsoft/vscode-arduino) - Visual Studio Code extension for Arduino
@@ -12366,7 +12367,6 @@
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
 - [nvimdev/oceanic-material](https://github.com/nvimdev/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
 - [nvimdev/spaceline.vim](https://github.com/nvimdev/spaceline.vim) - vim statusline like spacemacs
-- [BSCsmartdev/ThinkVim](https://github.com/BSCsmartdev/ThinkVim) - Vim configuration in the 21st century
 - [ahmadie/dotfiles](https://github.com/ahmadie/dotfiles) - 
 - [dosimple/workspace.vim](https://github.com/dosimple/workspace.vim) - Workspace (as in i3wm) for Vim
 - [ahmadie/workspace.vim](https://github.com/ahmadie/workspace.vim) - vim tab management for buffers. use tabs as workspaces of i3. buffers per tab. move buffer between tabs.
