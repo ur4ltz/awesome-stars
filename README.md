@@ -5801,7 +5801,6 @@
 - [pi-sigma/gruvbox.nvim](https://github.com/pi-sigma/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [ph1losof/ecolog.nvim](https://github.com/ph1losof/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [vu1xan/.config](https://github.com/vu1xan/.config) - 
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
 - [MahanRahmati/blink-nerdfont.nvim](https://github.com/MahanRahmati/blink-nerdfont.nvim) - 
 - [moyiz/blink-emoji.nvim](https://github.com/moyiz/blink-emoji.nvim) - Emoji source for blink.cmp.
@@ -8813,7 +8812,7 @@
 - [Nobcha/R80-Air-Band-Receiver](https://github.com/Nobcha/R80-Air-Band-Receiver) - documentation for kit
 - [francostellari/NppPlugins](https://github.com/francostellari/NppPlugins) - 
 - [eendroroy/mercurial-cli-templates](https://github.com/eendroroy/mercurial-cli-templates) - 
-- [mdSlash/iconic-fonts](https://github.com/mdSlash/iconic-fonts) - Over 50 patched fonts with 60,000+ icons. ⭐️ to support us!
+- [hai-tham/iconic-fonts](https://github.com/hai-tham/iconic-fonts) - Over 50 patched fonts with 60,000+ icons. ⭐️ to support us!
 - [s1n7ax/home-server-ollama](https://github.com/s1n7ax/home-server-ollama) - 
 - [shreyaschavhan/linux-commands-cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet) - All Useful Linux Commands (For OSCP & daily pen-testing usage)
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
@@ -10411,6 +10410,7 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
@@ -11660,7 +11660,7 @@
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
 - [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
