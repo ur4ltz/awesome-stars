@@ -4776,6 +4776,7 @@
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [abenz1267/neoconf](https://github.com/abenz1267/neoconf) - Cli-Tool to handle Neovim configuration.
 - [psampaz/gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars Go's official repository and your go.mod github dependencies, providing a simple way  to say thanks to the maintainers of the modules you use and the contributors of Go it
+- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [nwg-piotr/nwg-dock](https://github.com/nwg-piotr/nwg-dock) - GTK3-based dock for sway
 - [ThePrimeagen/vim-with-me](https://github.com/ThePrimeagen/vim-with-me) - 
 - [chirpstack/chirpstack-gateway-bridge](https://github.com/chirpstack/chirpstack-gateway-bridge) - ChirpStack Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT.
@@ -12247,7 +12248,6 @@
 - [m00qek/nvim-contabs](https://github.com/m00qek/nvim-contabs) - contextual tabs for vim/neovim
 - [vigoux/oak](https://github.com/vigoux/oak) - A calming vim/neovim colorscheme
 - [tyrannicaltoucan/vim-quantum](https://github.com/tyrannicaltoucan/vim-quantum) - A Material color scheme for Vim.
-- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [hrsh7th/compe-lamp](https://github.com/hrsh7th/compe-lamp) - vim-lamp source for compe for my personal use.
 - [benwainwright/fzf-project](https://github.com/benwainwright/fzf-project) - A vim plugin to make project switching easier using fzf.vim
 - [amadeus/vim-xml](https://github.com/amadeus/vim-xml) - A fork of Vim's built in xml.vim file
