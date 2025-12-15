@@ -4765,7 +4765,7 @@
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [RRethy/hexokinase](https://github.com/RRethy/hexokinase) - Fast text scraper to find and convert colours (hex, rgb, rgb, hsl, web colours, custom patterns, etc.) into hex values
 - [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [gennaro-tedesco/zathuraconf](https://github.com/gennaro-tedesco/zathuraconf) - Change zathura colour schemes
@@ -4776,7 +4776,6 @@
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [abenz1267/neoconf](https://github.com/abenz1267/neoconf) - Cli-Tool to handle Neovim configuration.
 - [psampaz/gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars Go's official repository and your go.mod github dependencies, providing a simple way  to say thanks to the maintainers of the modules you use and the contributors of Go it
-- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [nwg-piotr/nwg-dock](https://github.com/nwg-piotr/nwg-dock) - GTK3-based dock for sway
 - [ThePrimeagen/vim-with-me](https://github.com/ThePrimeagen/vim-with-me) - 
 - [chirpstack/chirpstack-gateway-bridge](https://github.com/chirpstack/chirpstack-gateway-bridge) - ChirpStack Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT.
@@ -4845,7 +4844,7 @@
 - [dpb587/gget](https://github.com/dpb587/gget) - An easier way to find and automate file downloads from GitHub and GitLab repositories.
 - [joshuarli/srv](https://github.com/joshuarli/srv) - minimalist http(s) server and file browser
 - [d-tsuji/gosdlisp](https://github.com/d-tsuji/gosdlisp) - Mini lisp interpreter written in Go.
-- [fuskovic/networker](https://github.com/fuskovic/networker) - :wrench:  CLI utility for various networking operations
+- [fuskovic/nw](https://github.com/fuskovic/nw) - :wrench:  CLI utility for various networking operations
 - [dplavcic/gtorrent](https://github.com/dplavcic/gtorrent) - Implementation of BitTorrent Protocol Specification
 - [pieterkockx/bittorrent](https://github.com/pieterkockx/bittorrent) - simple bittorrent client written in go
 - [akshay1713/gotorrent](https://github.com/akshay1713/gotorrent) - A simple command line bittorrent client.
@@ -12248,6 +12247,7 @@
 - [m00qek/nvim-contabs](https://github.com/m00qek/nvim-contabs) - contextual tabs for vim/neovim
 - [vigoux/oak](https://github.com/vigoux/oak) - A calming vim/neovim colorscheme
 - [tyrannicaltoucan/vim-quantum](https://github.com/tyrannicaltoucan/vim-quantum) - A Material color scheme for Vim.
+- [nikvdp/neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 - [hrsh7th/compe-lamp](https://github.com/hrsh7th/compe-lamp) - vim-lamp source for compe for my personal use.
 - [benwainwright/fzf-project](https://github.com/benwainwright/fzf-project) - A vim plugin to make project switching easier using fzf.vim
 - [amadeus/vim-xml](https://github.com/amadeus/vim-xml) - A fork of Vim's built in xml.vim file
