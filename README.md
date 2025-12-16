@@ -2150,7 +2150,7 @@
 - [tmr4/T41_SDR](https://github.com/tmr4/T41_SDR) - SDR based on T41-EP
 - [manashmandal/SerialPort](https://github.com/manashmandal/SerialPort) - :large_orange_diamond: C++ Library for Serial Communication with Arduino
 - [F3lda/BP-HistoR](https://github.com/F3lda/BP-HistoR) - Embedded system for receiving audio streams on a historic radio receiver
-- [kp4md/TunaTinS](https://github.com/kp4md/TunaTinS) - Arduino Si5351 VFO Code with 10 MHz Calibration for Tuna Tin S QRP CW Transmitter
+- [kp4md/TunaTinS](https://github.com/kp4md/TunaTinS) - Arduino Si5351 VFO Code with 10 MHz Calibration and Iambic Keyer for Tuna Tin S QRP CW Transmitter
 - [ianm8/HySSB](https://github.com/ianm8/HySSB) - 
 - [ianm8/MBDC](https://github.com/ianm8/MBDC) - Multiband direct conversion reciever
 - [ianm8/iDSB](https://github.com/ianm8/iDSB) - 
@@ -3772,7 +3772,6 @@
 - [chmouel/emacs-swivb](https://github.com/chmouel/emacs-swivb) - 
 - [emacs-grammarly/lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
 - [anuvyklack/emacs](https://github.com/anuvyklack/emacs) - 
-- [CantoroMC/dot-emacs](https://github.com/CantoroMC/dot-emacs) - 
 - [fnune/emacs.d](https://github.com/fnune/emacs.d) - My Emacs configuration directory
 - [jdhao/emacs-conf](https://github.com/jdhao/emacs-conf) - My Emacs config repository
 - [ag91/moldable-emacs](https://github.com/ag91/moldable-emacs) - Adapting Emacs for moldable development
