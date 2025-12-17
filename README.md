@@ -5800,6 +5800,7 @@
 - [pi-sigma/gruvbox.nvim](https://github.com/pi-sigma/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [ph1losof/ecolog.nvim](https://github.com/ph1losof/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [vu1xan/.config](https://github.com/vu1xan/.config) - 
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
 - [MahanRahmati/blink-nerdfont.nvim](https://github.com/MahanRahmati/blink-nerdfont.nvim) - 
 - [moyiz/blink-emoji.nvim](https://github.com/moyiz/blink-emoji.nvim) - Emoji source for blink.cmp.
@@ -10402,6 +10403,7 @@
 
 ## Rust 
 
+- [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [nwtnni/tock](https://github.com/nwtnni/tock) - Digital clock for the terminal
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
@@ -10409,7 +10411,6 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
@@ -11744,7 +11745,7 @@
 - [iamcco/coc-leetcode](https://github.com/iamcco/coc-leetcode) - leetcode 扩展
 - [iamcco/coc-angular](https://github.com/iamcco/coc-angular) - Angular Language Service coc extension for (neo)vim
 - [iamcco/coc-actions](https://github.com/iamcco/coc-actions) - Actions menu for Neovim
-- [BSCsmartdev/Fourmeme-Sniper-Trading-Bot](https://github.com/BSCsmartdev/Fourmeme-Sniper-Trading-Bot) - BSC Fourmeme Trading Bot-A FourMeme Sniper Bot automatically detects new FourMeme BSC token launches | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmem
+- [BSCsmartdev/Fourmeme-Sniper-Trading-Bot](https://github.com/BSCsmartdev/Fourmeme-Sniper-Trading-Bot) - BSC Fourmeme Trading Bot-A FourMeme Sniper Bot https://t.me/BSCsmartdev | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmeme Sniper Bot | Fourmeme Tradi
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [atishay/vscode-allautocomplete](https://github.com/atishay/vscode-allautocomplete) - Autocomplete from open files for VSCode
 - [microsoft/vscode-arduino](https://github.com/microsoft/vscode-arduino) - Visual Studio Code extension for Arduino
