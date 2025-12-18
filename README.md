@@ -235,7 +235,6 @@
 - [DeqingSun/vnproch551](https://github.com/DeqingSun/vnproch551) - CH551 Programming software
 - [avrdudes/avr-libc](https://github.com/avrdudes/avr-libc) - The AVR-LibC package provides a subset of the standard C library for AVR 8-bit RISC microcontrollers.
 - [Megatokio/zasm](https://github.com/Megatokio/zasm) - Z80 / 8080 / Z180 / Z80next assembler (for unix-style OS)
-- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-based debugWIRE hardware-debugger
 - [zoosmand/SAMD21G18A_SPI](https://github.com/zoosmand/SAMD21G18A_SPI) - Microchip (Atmel) SAMD21 SPI example. MAX7219 as a ticker and BMP280 as a data source for ticker, are used on the same SPI bus.
 - [zoosmand/SAMD21G18A_delay](https://github.com/zoosmand/SAMD21G18A_delay) - In this example a delay don't make an empty job, but passing handle into a main cycle
 - [zoosmand/SAMD21G18A_eic](https://github.com/zoosmand/SAMD21G18A_eic) - EIC controller on SAMD device
@@ -2828,6 +2827,7 @@
 - [felias-fogg/RTC_I2C](https://github.com/felias-fogg/RTC_I2C) - This is an Ardunio library implementing a unified, minimalistic interface to many I2C RTCs
 - [felias-fogg/RTCEval](https://github.com/felias-fogg/RTCEval) - A long-term experiment with thirteen different RTCs
 - [felias-fogg/SingleWireSerial](https://github.com/felias-fogg/SingleWireSerial) - Software serial library using a single line in half-duplex mode. In addition, it uses the input capture feature of timer 1 for improved accuracy.
+- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-based debugWIRE hardware-debugger
 - [smaffer/vgax](https://github.com/smaffer/vgax) - VGA library for Arduino UNO
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ariskyr/Billiards_Firmware](https://github.com/ariskyr/Billiards_Firmware) - Automatic Billiards Table
@@ -10380,7 +10380,7 @@
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [winfred/wunderground](https://github.com/winfred/wunderground) - The ruby wrapper for the Wunderground.com API
 - [alexbel/conky](https://github.com/alexbel/conky) - My conky configuration
-- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+- [minitest/minitest](https://github.com/minitest/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, and benchmarking.
 - [ruby-debug/ruby-debug-ide](https://github.com/ruby-debug/ruby-debug-ide) - An interface which glues ruby-debug to IDEs like Eclipse (RDT), NetBeans and RubyMine.
 - [cburnette/boxr](https://github.com/cburnette/boxr) - A Ruby client library for the Box Content API.
 - [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
