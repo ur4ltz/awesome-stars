@@ -732,7 +732,7 @@
 - [jgauchia/ESP32-SDR](https://github.com/jgauchia/ESP32-SDR) - ESP32 SDR Based radio receiver
 - [mcpcpc/xbar](https://github.com/mcpcpc/xbar) - An tiny XCB information bar.
 - [mcpcpc/xwm](https://github.com/mcpcpc/xwm) - A tiny XCB floating window manager.
-- [mcpcpc/kirc](https://github.com/mcpcpc/kirc) - A tiny IRC client written in POSIX C99.
+- [mcpcpc/kirc](https://github.com/mcpcpc/kirc) - Lightweight terminal IRC client
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
 - [mintty/mintty](https://github.com/mintty/mintty) - The Cygwin Terminal – terminal emulator for Cygwin, MSYS, and WSL
 - [transmission-remote-gtk/transmission-remote-gtk](https://github.com/transmission-remote-gtk/transmission-remote-gtk) - transmission-remote-gtk is a GTK client for remote management of the Transmission BitTorrent client, using its HTTP RPC protocol.
@@ -11194,7 +11194,7 @@
 - [sainnhe/tmux-translator](https://github.com/sainnhe/tmux-translator) - Tmux translation plugin powered by popup window.
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [zzzeyez/dots](https://github.com/zzzeyez/dots) - make macos how i like it
-- [danishprakash/dotfiles](https://github.com/danishprakash/dotfiles) - Configuration files for my setup
+- [danishprakash/dotfiles](https://github.com/danishprakash/dotfiles) - 
 - [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, tmux, Git and other stuff
 - [samoshkin/dotfiles](https://github.com/samoshkin/dotfiles) - System settings, configuration files and apps for MacOS. Personal setup
 - [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
@@ -12230,9 +12230,9 @@
 - [i3d/vim-jimbothemes](https://github.com/i3d/vim-jimbothemes) - Self developed morden vim themes (mainly for neovim)
 - [katawful/kat.vim](https://github.com/katawful/kat.vim) - Blue based Vim theme with warm hues
 - [JRasmusBm/vim-peculiar](https://github.com/JRasmusBm/vim-peculiar) - 
-- [Jorenar/vim-MvVis](https://github.com/Jorenar/vim-MvVis) - Move visually selected text
-- [Jorenar/miniSnip](https://github.com/Jorenar/miniSnip) - Lightweight snippet plugin for Vim
-- [Jorenar/fauxClip](https://github.com/Jorenar/fauxClip) - Custom registers, and clipboard support for Vim without +clipboard
+- [Jorenar/vim-MvVis](https://github.com/Jorenar/vim-MvVis) - 
+- [Jorenar/miniSnip](https://github.com/Jorenar/miniSnip) - 
+- [Jorenar/fauxClip](https://github.com/Jorenar/fauxClip) - 
 - [sayanarijit/xplr.vim](https://github.com/sayanarijit/xplr.vim) - Fork of https://github.com/mcchrish/nnn.vim modified to work with xplr. Until xplr has its own plugin.
 - [DoeringChristian/VimIT](https://github.com/DoeringChristian/VimIT) - Vim Interactive Template
 - [laggardkernel/vim-one](https://github.com/laggardkernel/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
@@ -12477,7 +12477,7 @@
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
 - [yegappan/taglist](https://github.com/yegappan/taglist) - Source code browser plugin for Vim
 - [lervag/wiki.vim](https://github.com/lervag/wiki.vim) - A wiki plugin for Vim
-- [Jorenar/dotfiles](https://github.com/Jorenar/dotfiles) - My personal configuration files
+- [Jorenar/dotfiles](https://github.com/Jorenar/dotfiles) - 
 - [hrsh7th/diagnostics.nvim](https://github.com/hrsh7th/diagnostics.nvim) - Experimental diagnostics service for neovim.
 - [hrsh7th/vim-unmatchparen](https://github.com/hrsh7th/vim-unmatchparen) - highlight unmatch parens.
 - [hrsh7th/vim-versions](https://github.com/hrsh7th/vim-versions) - useful interface for version control.
