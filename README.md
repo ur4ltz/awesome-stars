@@ -9329,7 +9329,7 @@
 - [VE3NEA/OmniRig](https://github.com/VE3NEA/OmniRig) - 
 - [wp-xyz/Hex](https://github.com/wp-xyz/Hex) - Hex editor designed for analyzing binary files.
 - [ccrause/fpc-avr](https://github.com/ccrause/fpc-avr) - Free pascal AVR microcontroller projects
-- [arjanadriaanse/pascal-language-server](https://github.com/arjanadriaanse/pascal-language-server) - LSP server implementation for Pascal
+- [arjanadriaanse/pascal-language-server](https://github.com/arjanadriaanse/pascal-language-server) - LSP server implementation for Pascal (abandoned, these are active forks: https://github.com/genericptr/pascal-language-server and https://github.com/castle-engine/pascal-language-server)
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) - Double Commander is a free cross platform open source file manager with two panels side by side.
 - [OleksiyPenkov/MyHomeLib](https://github.com/OleksiyPenkov/MyHomeLib) - MyHomeLib – комп'ютерна програма для керування домашньою бібліотекою електронних книг. MyHomeLib може використовуватися не тільки для каталогізації колекції файлів з електронними книгами, але і як клі
 - [nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash) - Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.
