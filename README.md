@@ -5811,7 +5811,7 @@
 - [linrongbin16/lin.nvim](https://github.com/linrongbin16/lin.nvim) - Lin Rongbin's Neovim Distribution
 - [linrongbin16/giturlparser.lua](https://github.com/linrongbin16/giturlparser.lua) - Git url parsing library for lua.
 - [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
-- [linrongbin16/commons.nvim](https://github.com/linrongbin16/commons.nvim) - The commons lua library for Neovim plugin project.
+- [linrongbin16/commons.nvim](https://github.com/linrongbin16/commons.nvim) - 
 - [linrongbin16/gentags.nvim](https://github.com/linrongbin16/gentags.nvim) - Tags generator/management for old school vimers in Neovim.
 - [linrongbin16/colorbox.nvim](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into Neovim player!
 - [yuri/luaforge-site](https://github.com/yuri/luaforge-site) - 
@@ -12777,7 +12777,7 @@
 - [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 - [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - My personal dotfiles (how do these have so many stars?)
 - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
-- [Yamagi/vimrc](https://github.com/Yamagi/vimrc) - My (way too complex) vim configuration
+- [Yamagi/vimrc](https://github.com/Yamagi/vimrc) - Github mirror of my (way too complex) vim configuration.
 - [overcache/NeoSolarized](https://github.com/overcache/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) - FlatColor vim colorscheme
