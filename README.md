@@ -2138,7 +2138,7 @@
 - [RobTillaart/AD523X](https://github.com/RobTillaart/AD523X) - Arduino library for SPI AD5231 and AD5235 10 bit digital potentiometers.
 - [joaoaugustocz/LidarArray](https://github.com/joaoaugustocz/LidarArray) - 
 - [WK-Software56/AdvKeyPad](https://github.com/WK-Software56/AdvKeyPad) - Arduino advanced Keypad-Library for 4x4 Keypads with PCF8574 I2C Interface
-- [IgrikXD/WSPR-beacon](https://github.com/IgrikXD/WSPR-beacon) - A small hardware device for transmitting WSPR messages based on the SI5351 IC which uses GPS for transmission time synchronization and automatic QTH locator calculation.
+- [IgrikXD/WSPR-beacon](https://github.com/IgrikXD/WSPR-beacon) - A compact hardware device for transmitting WSPR messages based on the SI5351 clock generator, using GPS for transmission timing synchronization and automatic QTH locator calculation.
 - [josevcm/nfc-laboratory](https://github.com/josevcm/nfc-laboratory) - NFC signal and protocol analyzer using SDR receiver
 - [adecarolis/K1FM-WSPR-TX](https://github.com/adecarolis/K1FM-WSPR-TX) - A Si5351a WSPR Transmitter.
 - [paddatrapper/Arduino_si5351_VFO_Controller_Keyer](https://github.com/paddatrapper/Arduino_si5351_VFO_Controller_Keyer) - A controller for a multi-band homebrew SSB/CW transceiver, targeting Arduino Nano and si5351 PLL.
@@ -6531,7 +6531,7 @@
 - [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline and bufferline plugin for neovim in lua.
 - [declancm/windex.nvim](https://github.com/declancm/windex.nvim) - 🧼 Clean window maximizing, terminal toggling, window/tmux pane movements and more!
 - [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path on the current buffer using Telescope.nvim
-- [kiyoon/dotfiles](https://github.com/kiyoon/dotfiles) - NeoVim Tmux IDE configuration
+- [kiyoon/dotfiles](https://github.com/kiyoon/dotfiles) - Neovim Tmux IDE configuration
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
 - [jtroo/telescope-buffer-extract](https://github.com/jtroo/telescope-buffer-extract) - 
 - [molecule-man/telescope-menufacture](https://github.com/molecule-man/telescope-menufacture) - 
