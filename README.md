@@ -2335,7 +2335,7 @@
 - [k3ng/k3ng_antenna_tuner](https://github.com/k3ng/k3ng_antenna_tuner) - Arduino-based Automatic Amateur Radio Antenna Tuner
 - [FaBoPlatform/FaBoLCD-PCF8574-Library](https://github.com/FaBoPlatform/FaBoLCD-PCF8574-Library) - 
 - [FaBoPlatform/FaBo](https://github.com/FaBoPlatform/FaBo) - 
-- [PU2REO/Si5351ArduinoLite](https://github.com/PU2REO/Si5351ArduinoLite) - Library for the Si5351A (10 MSOP - 3 Clocks Only) clock generator IC in the Arduino environment , based on NT7S library.
+- [PU2REO/PU2REO_Si5351Lite](https://github.com/PU2REO/PU2REO_Si5351Lite) - Library for the Si5351A (10 MSOP - 3 Clocks Only) clock generator IC in the Arduino environment , based on NT7S library.
 - [gmtii/teensySDR](https://github.com/gmtii/teensySDR) - Teensy SDR Convolution fronm DD4WH with msi001 support added
 - [gcrcien/Radio-de-conversion-directa](https://github.com/gcrcien/Radio-de-conversion-directa) - Proyecto sencillo de un radio de conversion directa con arduino y Si5351
 - [gcrcien/ardu_IQ](https://github.com/gcrcien/ardu_IQ) - IQ Receiver for sdr
@@ -3400,7 +3400,6 @@
 - [doopath/doodots](https://github.com/doopath/doodots) - My dotfiles
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
-- [oknozor/dotfiles](https://github.com/oknozor/dotfiles) - my dotfiles
 - [n1flh31mur/DotFiles](https://github.com/n1flh31mur/DotFiles) - Just a save place for my dotfiles
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [editor-bootstrap/emacs-bootstrap](https://github.com/editor-bootstrap/emacs-bootstrap) - Your on-the-fly Emacs development environment.
@@ -6133,7 +6132,7 @@
 - [orhnk/vimacs](https://github.com/orhnk/vimacs) - Feature-full Neovim Experience - With Emacs, JetBrains features OOTB
 - [MeanderingProgrammer/harpoon-core.nvim](https://github.com/MeanderingProgrammer/harpoon-core.nvim) - Neovim harpoon like plugin, but only the core bits
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-- [SalOrak/whaler.nvim](https://github.com/SalOrak/whaler.nvim) - Telescope extension to change between directories blazingly fast
+- [SalOrak/whaler.nvim](https://github.com/SalOrak/whaler.nvim) - Minimalistic & highly extensible project manager for NeoVim.
 - [mangelozzi/rgflow.nvim](https://github.com/mangelozzi/rgflow.nvim) - Help you get in the flow with ripgrep in Neovim
 - [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) - Predictable LSP code actions
 - [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) - A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.
@@ -10750,7 +10749,7 @@
 - [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [lenormf/kakmerge](https://github.com/lenormf/kakmerge) - A Kakoune-based mergetool for Git
 - [tpope/rbenv-ctags](https://github.com/tpope/rbenv-ctags) - Automatically generate ctags for rbenv Ruby stdlibs
-- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
+- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) - Set up a developer friendly Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [kubi48/TransistorTester-Linux-install](https://github.com/kubi48/TransistorTester-Linux-install) - Scripts to install transistor tester sources and documentation
 - [ncb85/SmallC-85](https://github.com/ncb85/SmallC-85) - Ron Cain's Small C public domain compiler revived after 30 years.
 - [serge-404/HI-TECH-C-V3.09](https://github.com/serge-404/HI-TECH-C-V3.09) - HI-TECH C V3.09 CP/M freeware C-compiler - the best Z80 native CP/M ANSII C compiler.
@@ -11106,7 +11105,7 @@
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
-- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - ❄️ configuration of my systems
+- [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
@@ -11184,6 +11183,7 @@
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
 - [DanCardin/dotfiles](https://github.com/DanCardin/dotfiles) - 
 - [66RING/dotfiles](https://github.com/66RING/dotfiles) - My dotfiles
+- [oknozor/dotfiles](https://github.com/oknozor/dotfiles) - my dotfiles
 - [metalelf0/gnome-terminal-colors](https://github.com/metalelf0/gnome-terminal-colors) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [mcmire/dotfiles](https://github.com/mcmire/dotfiles) - My personal dotfiles
 - [sainnhe/zsh-completions](https://github.com/sainnhe/zsh-completions) - Personal collection of zsh completion definitions.
