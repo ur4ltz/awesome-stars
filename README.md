@@ -562,6 +562,7 @@
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [WeActStudio/WeAct_HID_Bootloader_F4x1](https://github.com/WeActStudio/WeAct_HID_Bootloader_F4x1) - WeAct_HID_Bootloader_F4x1 base on STM32_HID_Bootloader
 - [dawsonjon/speedometer](https://github.com/dawsonjon/speedometer) - AVR based GPS speedometer with retro LED display
+- [dzlonline/the_synth](https://github.com/dzlonline/the_synth) - A simple to use 4 polyphonic wavetable synthesizer library for Arduino.
 - [dawsonjon/PicoSSTV](https://github.com/dawsonjon/PicoSSTV) - Slow Scan Television (SSTV) decoder using Raspberry Pi Pico
 - [tabemann/escom](https://github.com/tabemann/escom) - Communication for small Forth devices
 - [Edzelf/escom](https://github.com/Edzelf/escom) - Communication for small Forth devices
@@ -3384,6 +3385,7 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [AndronixApp/docs](https://github.com/AndronixApp/docs) - 
 - [davinche/godown-vim](https://github.com/davinche/godown-vim) - Vim plugin for Godown Markdown Previewer
+- [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
@@ -5584,7 +5586,7 @@
 - [anhsirk0/kakoune-themes](https://github.com/anhsirk0/kakoune-themes) - Beautiful Color schemes for kakoune.
 - [occivink/kakoune-phantom-selection](https://github.com/occivink/kakoune-phantom-selection) - Work on multiple selections, one at a time
 - [chambln/kakoune-kit](https://github.com/chambln/kakoune-kit) - A Git porcelain inside Kakoune
-- [raiguard/kak-one](https://github.com/raiguard/kak-one) - Atom "One" color schemes for Kakoune.
+- [raiguard/kak-one](https://github.com/raiguard/kak-one) - This project has migrated to Codeberg.
 - [occivink/kakoune-find](https://github.com/occivink/kakoune-find) - Find and replace on open buffers
 - [lePerdu/kakboard](https://github.com/lePerdu/kakboard) - Clipboard integration for Kakoune
 - [Delapouite/kakoune-buffers](https://github.com/Delapouite/kakoune-buffers) - Ease navigation between opened buffers
@@ -7671,7 +7673,7 @@
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
-- [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - There's lots of configurations out there, but this one is mine.
+- [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - These are my dotfiles. There are many like them, but these are mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
@@ -8642,7 +8644,6 @@
 ## Objective-C 
 
 - [hsluv/hsluv-objc](https://github.com/hsluv/hsluv-objc) - Objective-C implementation of HSLuv (revision 4)
-- [dzlonline/the_synth](https://github.com/dzlonline/the_synth) - A simple to use 4 polyphonic wavetable synthesizer library for Arduino.
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [vonnieda/AVRFuses](https://github.com/vonnieda/AVRFuses) - A simple, graphical AVR fuse editor front end for avrdude
 - [VioletGiraffe/ArduinoClock](https://github.com/VioletGiraffe/ArduinoClock) - 
@@ -8961,6 +8962,7 @@
 - [nanotee/vimdoc-notes](https://github.com/nanotee/vimdoc-notes) - 
 - [gustavo-hms/enluarada](https://github.com/gustavo-hms/enluarada) - A collection of Lua scripts for Kakoune
 - [pohka/Lua-Beginners-Guide](https://github.com/pohka/Lua-Beginners-Guide) - Lua Beginners Guide
+- [m15a/vim-fennel-syntax](https://github.com/m15a/vim-fennel-syntax) - Yet another Vim syntax highlighting plugin for Fennel
 - [mitranim/sublime-gomod](https://github.com/mitranim/sublime-gomod) - Syntax definitions for "go.mod" and "go.sum" for Sublime Text
 - [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
 - [romainl/idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
@@ -9371,7 +9373,7 @@
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [beanaroo/dotfiles](https://github.com/beanaroo/dotfiles) - My personal desktop configuration
 - [eldy/AWStats](https://github.com/eldy/AWStats) - AWStats Log Analyzer project (official sources)
-- [majutsushi/urxvt-font-size](https://github.com/majutsushi/urxvt-font-size) - Change the urxvt font size on the fly
+- [janlarres/urxvt-font-size](https://github.com/janlarres/urxvt-font-size) - Change the urxvt font size on the fly
 - [simmel/urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) - URxvt Perl extension for resizing the font
 - [electro7/dot_debian](https://github.com/electro7/dot_debian) - Config files for linux (debian based)
 - [xyb3rt/urxvt-perls](https://github.com/xyb3rt/urxvt-perls) - Perl extensions for the rxvt-unicode terminal emulator
@@ -10958,7 +10960,6 @@
 - [Mte90/gitapper](https://github.com/Mte90/gitapper) - Remap Git with your custom scripts or new commands
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [nguyenvukhang/ags](https://github.com/nguyenvukhang/ags) - ags scans your local git repositories for unstaged files and unpushed commits
-- [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
@@ -11311,7 +11312,7 @@
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
 - [xServo/dot_files](https://github.com/xServo/dot_files) - All my dotfiles which can be installed on a fresh arch install
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
-- [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
+- [makccr/dot](https://github.com/makccr/dot) - Dotfiles & repo for any and all application configs.
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
 - [Liupold/OLD-dotfiles](https://github.com/Liupold/OLD-dotfiles) - This is collection of dotfiles by liupold.
@@ -12153,7 +12154,6 @@
 - [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
 - [elianiva/gitgud.nvim](https://github.com/elianiva/gitgud.nvim) - github dark colorscheme for neovim made with lush
 - [numToStr/gruvbox-material](https://github.com/numToStr/gruvbox-material) - Fork of gruvbox-material
-- [m15a/vim-fennel-syntax](https://github.com/m15a/vim-fennel-syntax) - Yet another Vim syntax highlighting plugin for Fennel
 - [othree/vim-autocomplpop](https://github.com/othree/vim-autocomplpop) - Automatic trigger complete popup menu
 - [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu) - :sunglasses: Display the Completion Menu Automantically (next AutoComplPop) !!
 - [fcying/gen_clang_conf.vim](https://github.com/fcying/gen_clang_conf.vim) - gen clang config for vim
@@ -13150,7 +13150,7 @@
 - [int3/nicer-vim-regexps](https://github.com/int3/nicer-vim-regexps) - 
 - [tsukkee/vundle](https://github.com/tsukkee/vundle) - Vundle, the plug-in manager for Vim
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
-- [majutsushi/etc](https://github.com/majutsushi/etc) - Collection of configuration files
+- [janlarres/etc](https://github.com/janlarres/etc) - Collection of configuration files
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - A git mirror of gundo.vim
 - [dimasg/vim](https://github.com/dimasg/vim) - vim configuration e.t.c. ...
