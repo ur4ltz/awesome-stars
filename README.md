@@ -9089,6 +9089,7 @@
 - [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
+- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [Bodhizafa/kak-rainbow](https://github.com/Bodhizafa/kak-rainbow) - Cursor-centered rainbow highlighter for kakoune
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
@@ -10890,7 +10891,7 @@
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Show beautiful keystrokes  & generate chat bubble widgets while typing on Linux
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [lvim-tech/lvim-fm](https://github.com/lvim-tech/lvim-fm) - 
-- [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - 
+- [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - The Ultimate tmux Status Bar Framework
 - [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
@@ -11233,7 +11234,6 @@
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [jessiehildebrandt/dot-fish](https://github.com/jessiehildebrandt/dot-fish) - My personal Fish configuration (GitLab mirror)
-- [innng/dotfiles](https://github.com/innng/dotfiles) - My Unix configuration
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [beanaroo/display-visor](https://github.com/beanaroo/display-visor) - Bash script for applying a pre-defined Xorg monitor layout. Useful for tiling window manager users.
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
