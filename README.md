@@ -1762,6 +1762,8 @@
 
 ## C++ 
 
+- [SofaPirate/Chrono](https://github.com/SofaPirate/Chrono) - Chrono library for Arduino and Wiring
+- [thomasfredericks/Metro-Arduino-Wiring](https://github.com/thomasfredericks/Metro-Arduino-Wiring) - Metro library for Arduino or Wiring
 - [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
 - [probonopd/MiniDexed](https://github.com/probonopd/MiniDexed) - Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)
 - [OneOfEleven/NanoVNA-App](https://github.com/OneOfEleven/NanoVNA-App) - NanoVNA-App
@@ -8619,6 +8621,7 @@
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [teto/home](https://github.com/teto/home) - Configurations
+- [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 
 ## Nu 
@@ -9456,7 +9459,7 @@
 - [0x9900/gist](https://github.com/0x9900/gist) - Update or upload your files into your gist account.
 - [0x9900/RigExpert](https://github.com/0x9900/RigExpert) - 
 - [0x9900/QSL](https://github.com/0x9900/QSL) - Send eQSL
-- [armel/uv-k5-chirp-driver](https://github.com/armel/uv-k5-chirp-driver) - Quanscheng UV-K5 radio CHIRP driver for F4HWN firmware
+- [armel/uv-k5-chirp-driver](https://github.com/armel/uv-k5-chirp-driver) - Quansheng UV-K5 radio CHIRP driver for F4HWN firmware
 - [ningw42/Iosevkata](https://github.com/ningw42/Iosevkata) - A PragmataPro styled (ss08) Iosevka variant with my tweaks.
 - [felias-fogg/PyAvrOCD](https://github.com/felias-fogg/PyAvrOCD) - A cross-platform GDB server for AVR MCUs
 - [pamoroso/suite8080](https://github.com/pamoroso/suite8080) - A suite of Intel 8080 Assembly tools
@@ -11409,7 +11412,6 @@
 - [challenger-deep-theme/gnome-terminal](https://github.com/challenger-deep-theme/gnome-terminal) - Challenger Deep Theme for GNOME Terminal
 - [nginx-le/nginx-le](https://github.com/nginx-le/nginx-le) - Nginx with automatic let's encrypt (docker image)
 - [sorbet/sorbet.run](https://github.com/sorbet/sorbet.run) - The online Sorbet playground
-- [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [nordtheme/gedit](https://github.com/nordtheme/gedit) - An arctic, north-bluish clean and elegant gedit syntax theme.
