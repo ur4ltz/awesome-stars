@@ -752,7 +752,6 @@
 - [armel/uv-k5-firmware-custom](https://github.com/armel/uv-k5-firmware-custom) - This is a fork of Egzumer https://github.com/egzumer/uv-k5-firmware-custom
 - [fagci/uvk5-fagci-reborn](https://github.com/fagci/uvk5-fagci-reborn) - Rewritten uv-k5 firmware, except drivers
 - [losehu/uv-k5-bootloader-custom](https://github.com/losehu/uv-k5-bootloader-custom) - a custom bootloader for uv-k5
-- [vedang/pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 - [RobTillaart/Student](https://github.com/RobTillaart/Student) - Arduino library for Student or T-distribution math.
 - [DK7IH/simple_frequ_counter](https://github.com/DK7IH/simple_frequ_counter) - A simple frequency counter for amateur radio projects
 - [tjlab-jf3hzb/Digital_VFO_with_analog_dial_V2](https://github.com/tjlab-jf3hzb/Digital_VFO_with_analog_dial_V2) - 
@@ -3654,6 +3653,7 @@
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
 - [armindarvish/consult-gh](https://github.com/armindarvish/consult-gh) - An Interactive interface for "GitHub CLI" client inside GNU Emacs using Consult
 - [justinlime/dired-sidetree.el](https://github.com/justinlime/dired-sidetree.el) - Nerdtree like sideview, in raw dired.
+- [vedang/pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 - [laishulu/emacs-vterm-manager](https://github.com/laishulu/emacs-vterm-manager) - Manages vterm buffers with configuration files.
 - [justinlime/dired-actions.el](https://github.com/justinlime/dired-actions.el) - Paste, move, symlink, hardlink files/dirs in dired buffers
 - [justinlime/toggle-term.el](https://github.com/justinlime/toggle-term.el) - Toggle-term for emacs!
@@ -5275,7 +5275,7 @@
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
 - [neomutt/tree-sitter-muttrc](https://github.com/neomutt/tree-sitter-muttrc) - 🌲👨 muttrc grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
-- [OXY2DEV/tree-sitter-doctext](https://github.com/OXY2DEV/tree-sitter-doctext) - Tree-sitter parser for conventional comments
+- [OXY2DEV/tree-sitter-comment](https://github.com/OXY2DEV/tree-sitter-comment) - Tree-sitter parser for conventional comments
 - [OXY2DEV/tree-sitter-kitty](https://github.com/OXY2DEV/tree-sitter-kitty) - Tree-sitter parser for kitty.conf files
 - [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
@@ -6903,7 +6903,7 @@
 - [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management for Neovim.
-- [talha-akram/anvil](https://github.com/talha-akram/anvil) - A highly adaptable Neovim configuration focused on providing a great development experience while being easy to extend and maintain.
+- [talha-akram/anvil](https://github.com/talha-akram/anvil) - My Neovim PDE focused on providing a great development experience with minimal dependence on plugins.
 - [LunarVim/onedarker.nvim](https://github.com/LunarVim/onedarker.nvim) - Onedark inspired colorscheme written in lua.
 - [LunarVim/Colorschemes](https://github.com/LunarVim/Colorschemes) - 🌈 Collection of colorschemes made to be compatible with LunarVim
 - [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim) - 
