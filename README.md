@@ -5943,7 +5943,6 @@
 - [ray-x/cmp-sql](https://github.com/ray-x/cmp-sql) - SQL keywords for cmp
 - [wincent/base16-nvim](https://github.com/wincent/base16-nvim) - base16 color schemes in Lua for Neovim
 - [wemos/D1_mini_Examples_lua](https://github.com/wemos/D1_mini_Examples_lua) - D1 & D1 mini examples for nodemcu
-- [m15a/nvim-srcerite](https://github.com/m15a/nvim-srcerite) - Neovim colorscheme inspired by Srcery
 - [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
@@ -8770,6 +8769,7 @@
 - [RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge](https://github.com/RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge) - Arduino nano and a ST7735 128 x 160 full color tft screen. This gauge is using the resistance of the excisting coolant temperature sensor in the car to monitor the coolant temperature. The minimum tem
 - [Krakenw/Stlink-Bootloaders](https://github.com/Krakenw/Stlink-Bootloaders) - Stlink Bootloaders
 - [wemos/docs](https://github.com/wemos/docs) - 
+- [m15a/nvim-srcerite](https://github.com/m15a/nvim-srcerite) - Neovim colorscheme inspired by Srcery
 - [rbong/flog-symbols](https://github.com/rbong/flog-symbols) - Glyphs for rendering Git branches.
 - [ViacheslavMezentsev/smath-cookbook](https://github.com/ViacheslavMezentsev/smath-cookbook) - Примеры, демонстрирующие работу в математической программе SMath Studio
 - [esp8266/at-command-set](https://github.com/esp8266/at-command-set) - ESP8266 AT+ Command Set
@@ -11615,14 +11615,14 @@
 
 - [Acode-Foundation/acode-plugin-docs](https://github.com/Acode-Foundation/acode-plugin-docs) - Acode plugin documentation
 - [Acode-Foundation/acode-site-ui](https://github.com/Acode-Foundation/acode-site-ui) - 
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [radareorg/radare2-r2papi](https://github.com/radareorg/radare2-r2papi) - High Level API on top of the R2Pipe interface
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [nmoroze/tclint-vscode](https://github.com/nmoroze/tclint-vscode) - VS Code extension that lints and formats Tcl and EDA scripts.
 - [Mellbourn/lsColorsToToml](https://github.com/Mellbourn/lsColorsToToml) - 
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
 - [wader/vscode-jq](https://github.com/wader/vscode-jq) - jq extension for VSCode and (Neo)vim.
 - [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
