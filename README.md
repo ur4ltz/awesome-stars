@@ -1631,7 +1631,6 @@
 - [anael-seghezzi/tcc-0.9.26](https://github.com/anael-seghezzi/tcc-0.9.26) - tcc-0.9.26 fork
 - [LuaDist/tcc](https://github.com/LuaDist/tcc) - Small but fast C compiler.  Supports ANSI C, most of the new ISO C99 standard, and many GNUC extensions, including inline assembly.
 - [patthoyts/kitgen](https://github.com/patthoyts/kitgen) - Tclkit build system
-- [farlepet/lambda-kern](https://github.com/farlepet/lambda-kern) - Mirror of https://git.pfarley.dev/lambda-os/lambda-kern,  Multi-architecture hobby operating system kernel created in C
 - [chenall/grubutils](https://github.com/chenall/grubutils) - utils for grub4dos
 - [chenall/grub4dos](https://github.com/chenall/grub4dos) - 外部命令和工具源码:https://github.com/chenall/grubutils 下载:
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -3133,7 +3132,6 @@
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [mharjac/bad_ducky](https://github.com/mharjac/bad_ducky) - Rubber Ducky compatible clone based on CJMCU BadUSB HW.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [andrejlevkovitch/asteroids](https://github.com/andrejlevkovitch/asteroids) - 
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [bonaert/torrent](https://github.com/bonaert/torrent) - Clear and simple torrent client written to learn the Bittorrent protocol.
@@ -8674,6 +8672,8 @@
 
 ## Others 
 
+- [skuep/Quansheng-Charger-USB-Mod](https://github.com/skuep/Quansheng-Charger-USB-Mod) - 
+- [skuep/Mobile-Whip](https://github.com/skuep/Mobile-Whip) - A Mini-Whip clone capable of lower supply voltages or battery powered
 - [xorg62/tty-fifteen](https://github.com/xorg62/tty-fifteen) - A fifteen puzzle game in ncurses.
 - [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
@@ -9242,6 +9242,7 @@
 - [swaroopch/byte-of-vim](https://github.com/swaroopch/byte-of-vim) - "A Byte of Vim" is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard.
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [purcell/mobdebug-mode](https://github.com/purcell/mobdebug-mode) - MobDebug Mode for Emacs
+- [farlepet/lambda-kern](https://github.com/farlepet/lambda-kern) - Mirror of https://git.pfarley.dev/lambda-os/lambda-kern,  Multi-architecture hobby operating system kernel created in C
 - [Briles/gruvbox-cudatext](https://github.com/Briles/gruvbox-cudatext) - CudaText themes & color schemes with pastel 'retro groove' colors
 - [dear-github/dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
 - [Lenchik/Akelpad-syntax-highlighting](https://github.com/Lenchik/Akelpad-syntax-highlighting) - Syntax themes for AkelPad text editor with Coder plugin (AutoHotkey, AviSynth, bash, BibTeX, Grub4Dos, KiXtart, LaTeX, Makefile, nnCron, R, Smarty, plain text and many more other syntax highlighting)
@@ -10587,6 +10588,7 @@
 - [vv9k/rkd](https://github.com/vv9k/rkd) - Rusty keybinding daemon
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
