@@ -5299,7 +5299,7 @@
 - [kpn-iot/thingsml-c-library](https://github.com/kpn-iot/thingsml-c-library) - C library for ThingsML on your device
 - [latex-lsp/tree-sitter-latex](https://github.com/latex-lsp/tree-sitter-latex) - LaTeX grammar for tree-sitter
 - [nayanio/RTorrent](https://github.com/nayanio/RTorrent) - Remote torrent client
-- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ classic, reliable, trusted JavaScript test framework for Node.js & the browser
 - [remarkjs/remark-language-server](https://github.com/remarkjs/remark-language-server) - A language server to lint and format markdown files with remark
 - [pu2clr/VFO_BFO_OLED_ARDUINO](https://github.com/pu2clr/VFO_BFO_OLED_ARDUINO) - VFO e BFO com Si5351 e OLED,  controlado por Arduino (Micro)
 - [noopkat/avrgirl-arduino](https://github.com/noopkat/avrgirl-arduino) - :girl: :pager: A NodeJS library for flashing compiled sketch files to Arduino microcontroller boards.
@@ -8815,7 +8815,7 @@
 - [Nobcha/R80-Air-Band-Receiver](https://github.com/Nobcha/R80-Air-Band-Receiver) - documentation for kit
 - [francostellari/NppPlugins](https://github.com/francostellari/NppPlugins) - 
 - [eendroroy/mercurial-cli-templates](https://github.com/eendroroy/mercurial-cli-templates) - 
-- [hai-tham/iconic-fonts](https://github.com/hai-tham/iconic-fonts) - Over 50 patched fonts with 60,000+ icons. ⭐️ to support us!
+- [haithium/iconic-fonts](https://github.com/haithium/iconic-fonts) - Over 50 patched fonts with 60,000+ icons. ⭐️ to support us!
 - [s1n7ax/home-server-ollama](https://github.com/s1n7ax/home-server-ollama) - 
 - [shreyaschavhan/linux-commands-cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet) - All Useful Linux Commands (For OSCP & daily pen-testing usage)
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
