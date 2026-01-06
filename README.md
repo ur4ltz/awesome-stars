@@ -8672,6 +8672,7 @@
 
 ## Others 
 
+- [vhyrro/awesome-neorg](https://github.com/vhyrro/awesome-neorg) - A collection of Neorg (org-mode-like for Neovim) awesomeness, including config examples and inspo
 - [skuep/Quansheng-Charger-USB-Mod](https://github.com/skuep/Quansheng-Charger-USB-Mod) - 
 - [skuep/Mobile-Whip](https://github.com/skuep/Mobile-Whip) - A Mini-Whip clone capable of lower supply voltages or battery powered
 - [xorg62/tty-fifteen](https://github.com/xorg62/tty-fifteen) - A fifteen puzzle game in ncurses.
@@ -10754,7 +10755,6 @@
 - [anuvyklack/dotfiles](https://github.com/anuvyklack/dotfiles) - My chezmoi driven dotfiles
 - [johnwinans/2057-ICE40HX4K-TQ144-breakout](https://github.com/johnwinans/2057-ICE40HX4K-TQ144-breakout) - Minimal Raspberry PI breakout board for ICE40HX4K FPGA
 - [qasimhbti/books](https://github.com/qasimhbti/books) - Some books organised by topic
-- [garymjr/dotfiles](https://github.com/garymjr/dotfiles) - dotfiles, etc...
 - [lenormf/kakmerge](https://github.com/lenormf/kakmerge) - A Kakoune-based mergetool for Git
 - [tpope/rbenv-ctags](https://github.com/tpope/rbenv-ctags) - Automatically generate ctags for rbenv Ruby stdlibs
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) - Set up a developer friendly Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
@@ -12186,7 +12186,7 @@
 - [shivamashtikar/tmuxjump.vim](https://github.com/shivamashtikar/tmuxjump.vim) - A plugin to open file from file paths printed in sibling tmux pane
 - [balanceiskey/vim-framer-syntax](https://github.com/balanceiskey/vim-framer-syntax) - Framer X Playground's colors, but in Vim (but especially MacVim)
 - [albertorestifo/github.vim](https://github.com/albertorestifo/github.vim) - A GitHub colors scheme for neovim/gvim/vim
-- [junegunn/vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - :octocat: Browse GitHub events in Vim
+- [junegunn/vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard) - (UNMAINTAINED) :octocat: Browse GitHub events in Vim
 - [junegunn/vim-emoji](https://github.com/junegunn/vim-emoji) - :smiley: Emoji in Vim
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
