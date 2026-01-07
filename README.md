@@ -359,7 +359,6 @@
 - [whirleyes/mighty-1284p](https://github.com/whirleyes/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [maniacbug/mighty-1284p](https://github.com/maniacbug/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [osiweb/unified_retro_keyboard](https://github.com/osiweb/unified_retro_keyboard) - Project to provide keyboard replacements for various classic computers, as well as classic ASCII keyboard
-- [bozimmerman/Zimodem](https://github.com/bozimmerman/Zimodem) - ESP8266/ESP32/Arduino custom modem&lt;-&gt;internet simulator with lots of features
 - [goshante/ats20_ats_ex](https://github.com/goshante/ats20_ats_ex) - Advanced and re-imagined firmware for ATS-20 Receiver based on Si4735 (or Si4732). Прошивка с расширенным функционалом.
 - [ralphxavier/SI4735](https://github.com/ralphxavier/SI4735) - SI4735 / SI4732 Radio
 - [RE3CON/1o11](https://github.com/RE3CON/1o11) - Walki Talkie QuanSheng UV-K5/K6/UV-5R Plus Custom Firmware Merge from: ▪ @OneOfEleven and ▪ @fagci Mod w. Spectrum Analyzer ▪ by @egzumer ▪ Enhanced by @RE3CON: Full freq range of BK4819 for TX and RX
@@ -1803,6 +1802,7 @@
 - [TaeronKW/Arduino-TPI-Programmer](https://github.com/TaeronKW/Arduino-TPI-Programmer) - A programmer for the ATTiny TPI interface with support for ATTiny102 and ATTiny104.
 - [Lauszus/Arduino-PID-Library](https://github.com/Lauszus/Arduino-PID-Library) - 
 - [mafrmt00/Apple_II_Keyboard](https://github.com/mafrmt00/Apple_II_Keyboard) - Arduino Sketch to use a USB keyboard with an Apple II as ASCII keyboard.
+- [bozimmerman/Zimodem](https://github.com/bozimmerman/Zimodem) - ESP8266/ESP32/Arduino custom modem&lt;-&gt;internet simulator with lots of features
 - [hzeller/txtempus](https://github.com/hzeller/txtempus) - A DCF77, WWVB, JJY and MSF clock LF-band signal transmitter using the Raspberry Pi
 - [cloudree/MSX_Virtual_Printer](https://github.com/cloudree/MSX_Virtual_Printer) - 
 - [cloudree/X2Kbd](https://github.com/cloudree/X2Kbd) - Use the Daewoo MSX2 X-2 (CPC-400) Keyboard with Modern PC (via arduino pro micro USB Port)
@@ -4544,7 +4544,7 @@
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - MOVED TO CODEBERG - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~p00f/godbolt.nvim instead
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
@@ -4759,7 +4759,6 @@
 - [Uvacoder/knowledge-nikita](https://github.com/Uvacoder/knowledge-nikita) - 
 - [migueleliasweb/go-github-mock](https://github.com/migueleliasweb/go-github-mock) - A library to aid unittesting code that uses Golang's Github SDK
 - [solidiquis/alacpretty_v2](https://github.com/solidiquis/alacpretty_v2) - Work-in-progress redo of Alacpretty
-- [JonasMuehlmann/bntp.go](https://github.com/JonasMuehlmann/bntp.go) - CLI and library for my personal all-in-one productivity system including components like bookmarks, notes, todos, projects, etc.
 - [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -8961,7 +8960,6 @@
 - [gwenhael-le-moine/gem2tgz](https://github.com/gwenhael-le-moine/gem2tgz) - convert a ruby gem to a slackware package (could also be called gem2tgz)
 - [LynnHo/Matrix-Calculus-Tutorial](https://github.com/LynnHo/Matrix-Calculus-Tutorial) - Matrix Calculus via Differentials, Matrix Derivative, 矩阵求导教程
 - [bakkeby/patches](https://github.com/bakkeby/patches) - Collection of patches for dwm, st and dmenu
-- [JonasMuehlmann/bntp.nvim](https://github.com/JonasMuehlmann/bntp.nvim) - Neovim integration for my personal all-in-one productivity system including components like bookmarks, notes, todos, projects, etc.
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
 - [nanotee/vimdoc-notes](https://github.com/nanotee/vimdoc-notes) - 
 - [gustavo-hms/enluarada](https://github.com/gustavo-hms/enluarada) - A collection of Lua scripts for Kakoune
@@ -11749,7 +11747,7 @@
 - [iamcco/coc-leetcode](https://github.com/iamcco/coc-leetcode) - leetcode 扩展
 - [iamcco/coc-angular](https://github.com/iamcco/coc-angular) - Angular Language Service coc extension for (neo)vim
 - [iamcco/coc-actions](https://github.com/iamcco/coc-actions) - Actions menu for Neovim
-- [BSCsmartdev/Fourmeme-Sniper-Trading-Bot](https://github.com/BSCsmartdev/Fourmeme-Sniper-Trading-Bot) - BSC Fourmeme Trading Bot-A FourMeme Sniper Bot https://t.me/BSCsmartdev | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmeme Sniper Bot | Fourmeme Trading Bot | Fourmeme Sniper Bot | Fourmeme Tradi
+- [BSCsmartdev/Polymarket-Copy-Trading-Bot](https://github.com/BSCsmartdev/Polymarket-Copy-Trading-Bot) - Polymarket Copy Trading Bot https://t.me/SmartLead007 Polymarket Trading Bot Polymarket Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot  Polymarket Copy
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [atishay/vscode-allautocomplete](https://github.com/atishay/vscode-allautocomplete) - Autocomplete from open files for VSCode
 - [microsoft/vscode-arduino](https://github.com/microsoft/vscode-arduino) - Visual Studio Code extension for Arduino
