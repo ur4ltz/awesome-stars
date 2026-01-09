@@ -2073,7 +2073,7 @@
 - [LZ1DPN/LZ7DP-CW1-LCD](https://github.com/LZ1DPN/LZ7DP-CW1-LCD) - LZ7DP-CW1-LCD
 - [karawin/karadio-addons](https://github.com/karawin/karadio-addons) - Collection of addons for the KaraDio project.
 - [MrBuddyCasino/ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
-- [Naguissa/uRTCLib](https://github.com/Naguissa/uRTCLib) - Really tiny library to basic RTC functionality on Arduino. DS1307, DS3231 and DS3232 RTCs are supported.
+- [Naguissa/uRTCLib](https://github.com/Naguissa/uRTCLib) - Really tiny library to control RTCs on Arduino. DS1307, DS3231 and DS3232 RTCs are supported.
 - [Naguissa/uEEPROMLib](https://github.com/Naguissa/uEEPROMLib) - I2C EEPROM library. Split from uRTCLib. This library controls any I2C EEPROM, independent ones or incorporated on DS1307 or DS3231 RTCs.
 - [NT7S/MAX2681Transceiver](https://github.com/NT7S/MAX2681Transceiver) - Homebrew MAX2681 Superhet Transceiver
 - [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
@@ -3204,6 +3204,7 @@
 - [andrey-belokon/NanoVFO](https://github.com/andrey-belokon/NanoVFO) - Simple VFO for portable/micro transceiver based on Si5351 with CW-key
 - [andrey-belokon/UR5FFR_Si5351](https://github.com/andrey-belokon/UR5FFR_Si5351) - Si5351 for Arduino
 - [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [czwinzscher/tetris](https://github.com/czwinzscher/tetris) - Tetris for the terminal.
 - [falconindy/auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -5531,7 +5532,6 @@
 - [jberger/Galileo](https://github.com/jberger/Galileo) - A Simple Modern Perl CMS
 - [luvit/luvit.io](https://github.com/luvit/luvit.io) - Source to luvit.io
 - [Colorsublime/Colorsublime-Themes](https://github.com/Colorsublime/Colorsublime-Themes) - Colorsublime themes collection
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
@@ -8193,7 +8193,7 @@
 - [rxi/lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev
 - [rxi/console](https://github.com/rxi/console) - A console plugin for the lite text editor
 - [rxi/lite-colors](https://github.com/rxi/lite-colors) - Colors themes for the lite text editor
-- [weilbith/neovim-configuration](https://github.com/weilbith/neovim-configuration) - My very personal and awesome Vim scripts and configuration.
+- [weilbith/neovim-configuration](https://github.com/weilbith/neovim-configuration) - 
 - [weilbith/nvim-lsp-diamove](https://github.com/weilbith/nvim-lsp-diamove) - Navigation for LSP diagnostics in NeoVim
 - [javalikescript/lha](https://github.com/javalikescript/lha) - light home automation application
 - [archseer/snippets.nvim](https://github.com/archseer/snippets.nvim) - 
@@ -10344,7 +10344,6 @@
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [apjanke/ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mtsmfm/language_server-ruby](https://github.com/mtsmfm/language_server-ruby) - A Ruby Language Server implementation
 - [openSUSE/obs-tools](https://github.com/openSUSE/obs-tools) - Set of tools used to help us on OBS development
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
@@ -10542,7 +10541,6 @@
 - [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) - It's my honor to drive you fucking fire faster, to have more time with your Family and Sunshine.This tool is for those who often want to search for a string Deeply into a directory in Recursive mode, 
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [ThePrimeagen/vim-royale](https://github.com/ThePrimeagen/vim-royale) - Because Nano sucks
 - [FredeHoey/penrose](https://github.com/FredeHoey/penrose) - my penrose configuration
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -13200,6 +13198,7 @@
 ## YARA 
 
 - [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## YASnippet 
 
