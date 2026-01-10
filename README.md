@@ -5299,7 +5299,7 @@
 - [kpn-iot/thingsml-c-library](https://github.com/kpn-iot/thingsml-c-library) - C library for ThingsML on your device
 - [latex-lsp/tree-sitter-latex](https://github.com/latex-lsp/tree-sitter-latex) - LaTeX grammar for tree-sitter
 - [nayanio/RTorrent](https://github.com/nayanio/RTorrent) - Remote torrent client
-- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ classic, reliable, trusted JavaScript test framework for Node.js & the browser
+- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 - [remarkjs/remark-language-server](https://github.com/remarkjs/remark-language-server) - A language server to lint and format markdown files with remark
 - [pu2clr/VFO_BFO_OLED_ARDUINO](https://github.com/pu2clr/VFO_BFO_OLED_ARDUINO) - VFO e BFO com Si5351 e OLED,  controlado por Arduino (Micro)
 - [noopkat/avrgirl-arduino](https://github.com/noopkat/avrgirl-arduino) - :girl: :pager: A NodeJS library for flashing compiled sketch files to Arduino microcontroller boards.
