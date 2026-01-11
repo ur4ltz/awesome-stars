@@ -1759,6 +1759,9 @@
 
 ## C++ 
 
+- [felias-fogg/avr-xminis-debug-enabled](https://github.com/felias-fogg/avr-xminis-debug-enabled) - A (debugging enabled) Arduino hardware package for ATmega328P Xplained Mini, ATmega168PB Xplained Mini, and ATmega328PB Xplained Mini
+- [G1OJS/ATTiny85-Scanner-Radio](https://github.com/G1OJS/ATTiny85-Scanner-Radio) - Airband Scanner on an ATTiny85 using Si5351 and not much else!
+- [G1OJS/G1OJS_Tiny_Si5351_CLK0](https://github.com/G1OJS/G1OJS_Tiny_Si5351_CLK0) - Sets Si5351 CLK0 frequency from 100 MHz to 150 MHz using just 1446 bytes of program storage space on an ATTiny85. I made an effort to provide explicit references to the Si5351 Data Sheet and Applicati
 - [SofaPirate/Chrono](https://github.com/SofaPirate/Chrono) - Chrono library for Arduino and Wiring
 - [thomasfredericks/Metro-Arduino-Wiring](https://github.com/thomasfredericks/Metro-Arduino-Wiring) - Metro library for Arduino or Wiring
 - [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
@@ -7504,7 +7507,7 @@
 - [alexghergh/nvim-tmux-navigation](https://github.com/alexghergh/nvim-tmux-navigation) - Easy Neovim-Tmux navigation, completely written in Lua
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) - Neovim plugin for lspcontainers.
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Nushell, Ghostty, tmux etc.
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [luissimas/eval.nvim](https://github.com/luissimas/eval.nvim) - A simple code evaluator for neovim.
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
