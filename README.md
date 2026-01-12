@@ -6968,7 +6968,6 @@
 - [molleweide/LuaSnip-snippets.nvim](https://github.com/molleweide/LuaSnip-snippets.nvim) - Neovim plugin that provides snippets for the LuaSnip plugin.
 - [Djancyp/outline](https://github.com/Djancyp/outline) - Nvim buffer & winbar plugin
 - [Djancyp/cheat-sheet](https://github.com/Djancyp/cheat-sheet) - Nvim cheat sheet implementation
-- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
 - [Vonr/align.nvim](https://github.com/Vonr/align.nvim) - A minimal plugin for NeoVim for aligning lines
@@ -8604,6 +8603,7 @@
 
 - [benlubas/neorg-interim-ls](https://github.com/benlubas/neorg-interim-ls) - Temporarily providing a limited set of LSP features to neorg
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [maaslalani/_](https://github.com/maaslalani/_) - dotfiles
@@ -11309,7 +11309,6 @@
 - [dusnm/dotfiles](https://github.com/dusnm/dotfiles) - Various configuration files
 - [vuciv/.dotfiles](https://github.com/vuciv/.dotfiles) - My workflow setup
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
-- [polaroidkidd/services](https://github.com/polaroidkidd/services) - services running at dle.dev
 - [rachpt/auto-dl](https://github.com/rachpt/auto-dl) - 刷下载量提升用户等级
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
 - [jeremyf/dotzshrc](https://github.com/jeremyf/dotzshrc) - 
