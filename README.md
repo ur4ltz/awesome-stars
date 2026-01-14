@@ -426,7 +426,6 @@
 - [STMicroelectronics/STM32CubeF7](https://github.com/STMicroelectronics/STM32CubeF7) - STM32Cube MCU Full Package for the STM32F7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeF4](https://github.com/STMicroelectronics/STM32CubeF4) - STM32Cube MCU Full Package for the STM32F4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeF3](https://github.com/STMicroelectronics/STM32CubeF3) - STM32Cube MCU Full Package for the STM32F3 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
-- [STMicroelectronics/STM32CubeF2](https://github.com/STMicroelectronics/STM32CubeF2) - STM32Cube MCU Full Package for the STM32F2 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeF0](https://github.com/STMicroelectronics/STM32CubeF0) - STM32Cube MCU Full Package for the STM32F0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [evansm7/pico-mac](https://github.com/evansm7/pico-mac) - Run the popular umac emulator right on your Pi Pico!
 - [DnCraptor/pico-mac-](https://github.com/DnCraptor/pico-mac-) - Pico Mac port for Murmulator - Macintosh 128-512K emulator by DnCraptor
@@ -5015,6 +5014,7 @@
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) - Перевод - Эффективный Go
 - [STMicroelectronics/STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1) - Full Firmware Package for the STM32L1 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
+- [STMicroelectronics/STM32CubeF2](https://github.com/STMicroelectronics/STM32CubeF2) - STM32Cube MCU Full Package for the STM32F2 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1) - STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [tinyvision-ai-inc/pico-ice](https://github.com/tinyvision-ai-inc/pico-ice) - Raspberry Pi PICO board + Lattice iCE40 FPGA's
 - [bittorrent/go-btfs](https://github.com/bittorrent/go-btfs) - BTFS - The First Scalable Decentralized Storage System - A Foundational Platform for Decentralized Applications
@@ -9515,7 +9515,7 @@
 - [Freed-Wu/translate-shell](https://github.com/Freed-Wu/translate-shell) - Translate text by google, bing, youdaozhiyun, haici, stardict, openai, large language model of local machine, etc at same time from CLI, GUI (GNU/Linux, Android, macOS and Windows), REPL, python, shel
 - [Freed-Wu/zathura-language-server](https://github.com/Freed-Wu/zathura-language-server) - 🛠️ language server for zathura.
 - [termux/termux-language-server](https://github.com/termux/termux-language-server) - 🛠️ A language server for some specific bash scripts
-- [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - A library to create language servers.
+- [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - ⚙️ A library to create language servers
 - [nicechao/ISP4LGT8F328P](https://github.com/nicechao/ISP4LGT8F328P) - 
 - [platformio/platform-espressif32](https://github.com/platformio/platform-espressif32) - Espressif 32: development platform for PlatformIO
 - [mlichvar/ntp2chrony](https://github.com/mlichvar/ntp2chrony) - Script for converting ntp configuration to chrony
@@ -10468,7 +10468,7 @@
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) - Use github code search within neovim
 - [w1png/tm1637-avr-hal](https://github.com/w1png/tm1637-avr-hal) - A simple library for interfacing with the tm1637 using avr-hal.
-- [nomad/crop](https://github.com/nomad/crop) - 🌾 A pretty fast text rope
+- [noib3/crop](https://github.com/noib3/crop) - 🌾 A pretty fast text rope
 - [crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator) - Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
@@ -10796,7 +10796,7 @@
 - [zimfw/exa](https://github.com/zimfw/exa) - Adds aliases and better defaults for eza or exa.
 - [zimfw/utility](https://github.com/zimfw/utility) - Utility aliases and functions. Adds colour to ls, grep and less.
 - [zimfw/k](https://github.com/zimfw/k) - All kubectl aliases in one function.
-- [zimfw/asdf](https://github.com/zimfw/asdf) - Sets up asdf, with auto install and optimized usage of the direnv plugin.
+- [zimfw/asdf](https://github.com/zimfw/asdf) - Initializes asdf.
 - [zimfw/fzf](https://github.com/zimfw/fzf) - Configures fzf for faster fetching of files and directories names.
 - [zimfw/direnv](https://github.com/zimfw/direnv) - Sets up the direnv Zsh shell integration.
 - [Ansimorph/oblong](https://github.com/Ansimorph/oblong) - A simple bash-inspired prompt for [ZIM], the ZSH-IMproved shell.
@@ -10838,7 +10838,7 @@
 - [icyleaf/fish-pkg-git](https://github.com/icyleaf/fish-pkg-git) - This plugin adds many useful git aliases and functions for fish shell
 - [kpbaks/zellij.fish](https://github.com/kpbaks/zellij.fish) - Integrate fish with zellij for a nicer experience.
 - [Molyuu/x](https://github.com/Molyuu/x) - Extract plugin for fish.
-- [aohorodnyk/fish-autovenv](https://github.com/aohorodnyk/fish-autovenv) - Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
+- [safetigo/fish-autovenv](https://github.com/safetigo/fish-autovenv) - Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
 - [wawa19933/fish-systemd](https://github.com/wawa19933/fish-systemd) - Comfortable aliases for `systemctl` command to include `sudo` when needed
 - [EHfive/fish-bash2env](https://github.com/EHfive/fish-bash2env) - A lightweight fish plugin to import environment variables set by given bash command/script.
 - [adamchristiansen/vertical-fish](https://github.com/adamchristiansen/vertical-fish) - A git-aware prompt for the fish shell
@@ -11747,7 +11747,7 @@
 - [iamcco/coc-leetcode](https://github.com/iamcco/coc-leetcode) - leetcode 扩展
 - [iamcco/coc-angular](https://github.com/iamcco/coc-angular) - Angular Language Service coc extension for (neo)vim
 - [iamcco/coc-actions](https://github.com/iamcco/coc-actions) - Actions menu for Neovim
-- [BSCsmartdev/Polymarket-Copy-Trading-Bot](https://github.com/BSCsmartdev/Polymarket-Copy-Trading-Bot) - Polymarket Copy Trading Bot https://t.me/SmartLead007 Polymarket Trading Bot Polymarket Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot  Polymarket Copy
+- [BSCsmartdev/Polymarket-Copy-Trading-Bot](https://github.com/BSCsmartdev/Polymarket-Copy-Trading-Bot) - Polymarket Copy Trading Bot https://t.me/SmartLead007 Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polyma
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [atishay/vscode-allautocomplete](https://github.com/atishay/vscode-allautocomplete) - Autocomplete from open files for VSCode
 - [microsoft/vscode-arduino](https://github.com/microsoft/vscode-arduino) - Visual Studio Code extension for Arduino
