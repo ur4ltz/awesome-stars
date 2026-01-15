@@ -306,6 +306,9 @@
 
 ## C 
 
+- [eanema/graph89](https://github.com/eanema/graph89) - A fork of Graph89 with UI and UX tweaks and fixes for modern Android versions. Graph89 is an emulator targeting the Android platform for TI89, TI89T, TI92, TI92+, V200, TI84+, TI84+SE, TI83, TI83+ and
+- [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+- [NicoHood/HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
 - [xorg62/wmfs](https://github.com/xorg62/wmfs) - Window Manager From Scratch, Minimal manual tiling window manager.
 - [xorg62/tty-pong](https://github.com/xorg62/tty-pong) - A pong game, using ncurses and multiplayer.
 - [xorg62/tty-tetris](https://github.com/xorg62/tty-tetris) - A simple tetris game wrote in C. (without ncurses)
@@ -1758,6 +1761,7 @@
 
 ## C++ 
 
+- [NicoHood/IRLremote](https://github.com/NicoHood/IRLremote) - Lightweight Infrared library for Arduino
 - [felias-fogg/avr-xminis-debug-enabled](https://github.com/felias-fogg/avr-xminis-debug-enabled) - A (debugging enabled) Arduino hardware package for ATmega328P Xplained Mini, ATmega168PB Xplained Mini, and ATmega328PB Xplained Mini
 - [G1OJS/ATTiny85-Scanner-Radio](https://github.com/G1OJS/ATTiny85-Scanner-Radio) - Airband Scanner on an ATTiny85 using Si5351 and not much else!
 - [G1OJS/G1OJS_Tiny_Si5351_CLK0](https://github.com/G1OJS/G1OJS_Tiny_Si5351_CLK0) - Sets Si5351 CLK0 frequency from 100 MHz to 150 MHz using just 1446 bytes of program storage space on an ATTiny85. I made an effort to provide explicit references to the Si5351 Data Sheet and Applicati
@@ -3529,6 +3533,7 @@
 
 ## Dart 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [nacro90/Groen](https://github.com/nacro90/Groen) - Neorg mobile app inspired by Obsidian
@@ -4549,7 +4554,7 @@
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
-- [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~p00f/godbolt.nvim instead
+- [p00f/godbolt.nvim](https://github.com/p00f/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~chinmay/godbolt.nvim instead
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [rafaeldelboni/cajus-nvim](https://github.com/rafaeldelboni/cajus-nvim) - Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure.
 - [Sharparam/dotfiles](https://github.com/Sharparam/dotfiles) - Collection of my dotfiles
@@ -5613,6 +5618,10 @@
 
 ## Kotlin 
 
+- [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
+- [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
+- [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
+- [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [researchxxl/syncthing-lite](https://github.com/researchxxl/syncthing-lite) - Browse Syncthing shares
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
@@ -7067,7 +7076,7 @@
 - [notjedi/nvim-rooter.lua](https://github.com/notjedi/nvim-rooter.lua) - minimal implementation of vim-rooter in lua.
 - [seblyng/nvim-echo-diagnostics](https://github.com/seblyng/nvim-echo-diagnostics) - Echo diagnostics from nvim-lspconfig
 - [seblyng/nvim-tabline](https://github.com/seblyng/nvim-tabline) - Tabline for neovim written in lua
-- [p00f/clangd_extensions.nvim](https://github.com/p00f/clangd_extensions.nvim) - Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead
+- [p00f/clangd_extensions.nvim](https://github.com/p00f/clangd_extensions.nvim) - Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~chinmay/clangd_extensions.nvim instead
 - [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
 - [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
@@ -7157,7 +7166,7 @@
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim) - Neovim hooks for abbreviation events
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminder plugin for Neovim 0.5+
-- [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming. Use https://sr.ht/~p00f/cphelper.nvim instead
+- [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming. Use https://sr.ht/~chinmay/cphelper.nvim instead
 - [p00f/alabaster.nvim](https://github.com/p00f/alabaster.nvim) - Neovim port of tonsky's alabaster for Sublime Text.
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) - Prettier plugin for Neovim's built-in LSP client.
 - [gpanders/nvim-moonwalk](https://github.com/gpanders/nvim-moonwalk) - Use any language that compiles to Lua in your Neovim configuration
@@ -10281,6 +10290,7 @@
 
 ## Rich Text Format 
 
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
 
 ## Roff 
