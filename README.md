@@ -458,7 +458,7 @@
 - [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
-- [dschp/uvllhttpd](https://github.com/dschp/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
+- [xeeqs/uvllhttpd](https://github.com/xeeqs/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -1255,7 +1255,7 @@
 - [jkitchin/emacs-modules](https://github.com/jkitchin/emacs-modules) - Dynamic modules for emacs
 - [dyama/mruby-lua](https://github.com/dyama/mruby-lua) - mruby-lua calls Lua script engine from mruby.
 - [syohex/emacs-lua](https://github.com/syohex/emacs-lua) - Lua engine from Emacs Lisp
-- [the-chenergy/grid88_qmk_firmware](https://github.com/the-chenergy/grid88_qmk_firmware) - Designed, crafted, and wired from scratch, a mechanical keyboard meticulously built for the rhythm of keystroke and code.
+- [the-chenergy/grid88_qmk_firmware](https://github.com/the-chenergy/grid88_qmk_firmware) - A mechanical keyboard designed and wired from scratch
 - [ibhagwan/picom](https://github.com/ibhagwan/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [starwing/luautf8](https://github.com/starwing/luautf8) - a utf-8 support module for Lua and LuaJIT.
@@ -1761,6 +1761,7 @@
 
 ## C++ 
 
+- [adafruit/TinyWireM](https://github.com/adafruit/TinyWireM) - I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground
 - [NicoHood/IRLremote](https://github.com/NicoHood/IRLremote) - Lightweight Infrared library for Arduino
 - [felias-fogg/avr-xminis-debug-enabled](https://github.com/felias-fogg/avr-xminis-debug-enabled) - A (debugging enabled) Arduino hardware package for ATmega328P Xplained Mini, ATmega168PB Xplained Mini, and ATmega328PB Xplained Mini
 - [G1OJS/ATTiny85-Scanner-Radio](https://github.com/G1OJS/ATTiny85-Scanner-Radio) - Airband Scanner on an ATTiny85 using Si5351 and not much else!
@@ -12441,7 +12442,6 @@
 - [kovetskiy/vim-list-mappings](https://github.com/kovetskiy/vim-list-mappings) - 
 - [kovetskiy/sxhkd-vim](https://github.com/kovetskiy/sxhkd-vim) - Vim plugin for sxhkd (Simple X hotkey daemon)
 - [baskerville/vim-sxhkdrc](https://github.com/baskerville/vim-sxhkdrc) - Vim syntax for sxhkd's configuration files
-- [brooth/dotfiles](https://github.com/brooth/dotfiles) - 
 - [bilalq/lite-dfm](https://github.com/bilalq/lite-dfm) - Vim plugin to remove distractions
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [somnam/vim-simple-complete](https://github.com/somnam/vim-simple-complete) - 
