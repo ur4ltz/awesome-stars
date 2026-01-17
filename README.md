@@ -306,6 +306,7 @@
 
 ## C 
 
+- [spyren/Mecrisp-Cube](https://github.com/spyren/Mecrisp-Cube) - Mecrisp-Stellaris Forth for the STM32 Cube ecosystem.
 - [eanema/graph89](https://github.com/eanema/graph89) - A fork of Graph89 with UI and UX tweaks and fixes for modern Android versions. Graph89 is an emulator targeting the Android platform for TI89, TI89T, TI92, TI92+, V200, TI84+, TI84+SE, TI83, TI83+ and
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [NicoHood/HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
@@ -5261,6 +5262,7 @@
 
 ## JavaScript 
 
+- [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [Acode-Foundation/acode-plugin-smali](https://github.com/Acode-Foundation/acode-plugin-smali) - Smali language syntax highlighting for Acode editor
 - [Acode-Foundation/acode-plugin-volumn_cursor](https://github.com/Acode-Foundation/acode-plugin-volumn_cursor) - Control editor cursor.
 - [Acode-Foundation/acode-plugin-sass](https://github.com/Acode-Foundation/acode-plugin-sass) - Live sass compiler for acode
@@ -5570,8 +5572,8 @@
 - [fastai/ghtop-demo](https://github.com/fastai/ghtop-demo) - A CLI tool for showing GitHub events, written with Rich
 - [medwatt/Notes](https://github.com/medwatt/Notes) - 
 - [soumith/cvpr2015](https://github.com/soumith/cvpr2015) - 
-- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
-- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode
+- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern, bright color theme for Sublime Text
+- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - 🎨🖌 Modern, bright color theme for VS Code
 
 ## Just 
 
@@ -5684,6 +5686,7 @@
 
 ## Lua 
 
+- [becknik/blink-cmp-luasnip-choice](https://github.com/becknik/blink-cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp
 - [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration - entirely in Lua using modern plugins (native LSP, treesitter, telescope, etc.)
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
 - [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) - Reliable Neotest adapter for running Go tests in Neovim.
@@ -8873,7 +8876,7 @@
 - [JChristensen/ac-timer-hw](https://github.com/JChristensen/ac-timer-hw) - Arduino-based daily timer for AC appliances.
 - [JChristensen/ac-timer-panel](https://github.com/JChristensen/ac-timer-panel) - Small PCB to support switch and LEDs for AC timer project.
 - [JChristensen/tinyLarson](https://github.com/JChristensen/tinyLarson) - Larson scanner powered by an ATtiny84a
-- [arduino/library-registry](https://github.com/arduino/library-registry) - The Arduino Library Manager Registry
+- [arduino/library-registry](https://github.com/arduino/library-registry) - The Arduino Library Registry
 - [GyverLibs/GyverHub-projects](https://github.com/GyverLibs/GyverHub-projects) - База проектов на GyverHub
 - [GyverLibs/GyverLibs](https://github.com/GyverLibs/GyverLibs) - 
 - [yegappan/VimScriptForPythonDevelopers](https://github.com/yegappan/VimScriptForPythonDevelopers) - Vim Script For Python Developers
