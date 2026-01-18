@@ -183,6 +183,7 @@
 
 ## Assembly 
 
+- [UN7FGO/ATTINY2313_FREQMETER](https://github.com/UN7FGO/ATTINY2313_FREQMETER) - Simple freqmeter
 - [fp64lib/fp64lib](https://github.com/fp64lib/fp64lib) - Handcrafted 64-bit floating point routines for AVR/arduino microprocessors
 - [1888games/ArlasoftC64](https://github.com/1888games/ArlasoftC64) - 
 - [apple2abandonware/abandonware](https://github.com/apple2abandonware/abandonware) - Apple II Abandonware
@@ -306,6 +307,7 @@
 
 ## C 
 
+- [taburyak/LCD1602_I2C_OR_4BIT_STM32](https://github.com/taburyak/LCD1602_I2C_OR_4BIT_STM32) - Driver HD44780 LCD1602 for STM32 with HAL drivers I2C bus or 4-bit bus
 - [spyren/Mecrisp-Cube](https://github.com/spyren/Mecrisp-Cube) - Mecrisp-Stellaris Forth for the STM32 Cube ecosystem.
 - [eanema/graph89](https://github.com/eanema/graph89) - A fork of Graph89 with UI and UX tweaks and fixes for modern Android versions. Graph89 is an emulator targeting the Android platform for TI89, TI89T, TI92, TI92+, V200, TI84+, TI84+SE, TI83, TI83+ and
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
@@ -438,7 +440,6 @@
 - [Str8Razor/mi_totem](https://github.com/Str8Razor/mi_totem) - Firmware for TOTEM keyboard
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [stasmarkin/sm_layouts](https://github.com/stasmarkin/sm_layouts) - Custom QMK for international layouts
-- [stasmarkin/sm_td](https://github.com/stasmarkin/sm_td) - SM Tap Dance user library for QMK
 - [GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz](https://github.com/GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz) - STM32 Lib Si5351 8KHz-160MHz
 - [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
 - [michalin/Arduino-C64-Emulator](https://github.com/michalin/Arduino-C64-Emulator) - A Commodore 64 emulator running on an Arduino
@@ -1762,6 +1763,14 @@
 
 ## C++ 
 
+- [UN7FGO/SWR_Ant_Sw](https://github.com/UN7FGO/SWR_Ant_Sw) - Simple SWR-meter with antenna switch
+- [UN7FGO/Ethernet_Beacon](https://github.com/UN7FGO/Ethernet_Beacon) - This is a project of a HAM beacon controlled over a network.
+- [UN7FGO/PIXIE_Arduino](https://github.com/UN7FGO/PIXIE_Arduino) - Various VFO in Arduino for PIXIE transceiver
+- [UN7FGO/SIMPLE_CW_TX_VFO](https://github.com/UN7FGO/SIMPLE_CW_TX_VFO) - Вариант простого синтезатора для телеграфного передатчика
+- [UN7FGO/USB_CW_KEY](https://github.com/UN7FGO/USB_CW_KEY) - Small USB CW KEY on ATTINY13
+- [UN7FGO/SWR_Meter_LCD_I2C](https://github.com/UN7FGO/SWR_Meter_LCD_I2C) - Simple SWR meter with I2C LCD screen.
+- [UN7FGO/MK61S_MINI](https://github.com/UN7FGO/MK61S_MINI) - Развитие проекта эмулятора МК-61s
+- [fixelsan/emu145](https://github.com/fixelsan/emu145) - Official EMU145 repository. Emulator of soviet 145ik13.
 - [adafruit/TinyWireM](https://github.com/adafruit/TinyWireM) - I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground
 - [NicoHood/IRLremote](https://github.com/NicoHood/IRLremote) - Lightweight Infrared library for Arduino
 - [felias-fogg/avr-xminis-debug-enabled](https://github.com/felias-fogg/avr-xminis-debug-enabled) - A (debugging enabled) Arduino hardware package for ATmega328P Xplained Mini, ATmega168PB Xplained Mini, and ATmega328PB Xplained Mini
@@ -4873,6 +4882,7 @@
 - [matei-oltean/go-torrent](https://github.com/matei-oltean/go-torrent) - Command line torrent client written in Go
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [MichaelS11/go-tetris](https://github.com/MichaelS11/go-tetris) - Golang Tetris for console window with optional AI
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
@@ -5687,7 +5697,7 @@
 ## Lua 
 
 - [becknik/blink-cmp-luasnip-choice](https://github.com/becknik/blink-cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp
-- [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration - entirely in Lua using modern plugins (native LSP, treesitter, telescope, etc.)
+- [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
 - [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) - Reliable Neotest adapter for running Go tests in Neovim.
 - [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
@@ -8182,7 +8192,7 @@
 - [wsdjeg/vim-lua](https://github.com/wsdjeg/vim-lua) - lua development plugin for Vim
 - [extrowerk/lite](https://github.com/extrowerk/lite) - A lightweight text editor written in Lua
 - [EvandroLG/array.lua](https://github.com/EvandroLG/array.lua) - A small library with useful methods to handle Lua's table when it's working like an Array
-- [RealTimeLogic/LSP-Examples](https://github.com/RealTimeLogic/LSP-Examples) - Lua and LSP examples, including IoT/Cloud connectivity
+- [RealTimeLogic/LSP-Examples](https://github.com/RealTimeLogic/LSP-Examples) - Lua modules and examples, including IoT/Cloud connectivity
 - [jmars/photon](https://github.com/jmars/photon) - A lightweight app boilerplate written in Lua and C
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [ur4ltz/lite](https://github.com/ur4ltz/lite) - A lightweight text editor written in Lua
@@ -8687,6 +8697,7 @@
 
 ## Others 
 
+- [UN7FGO/MK-61s-Classic](https://github.com/UN7FGO/MK-61s-Classic) - Развитие проекта эмулятора МК-61s-Mini
 - [vhyrro/awesome-neorg](https://github.com/vhyrro/awesome-neorg) - A collection of Neorg (org-mode-like for Neovim) awesomeness, including config examples and inspo
 - [skuep/Quansheng-Charger-USB-Mod](https://github.com/skuep/Quansheng-Charger-USB-Mod) - 
 - [skuep/Mobile-Whip](https://github.com/skuep/Mobile-Whip) - A Mini-Whip clone capable of lower supply voltages or battery powered
@@ -9490,6 +9501,7 @@
 - [jupyter/jupyter_console](https://github.com/jupyter/jupyter_console) - Jupyter Terminal Console
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
+- [stasmarkin/sm_td](https://github.com/stasmarkin/sm_td) - SM Tap Dance user library for QMK
 - [db-electronics/kicadlib](https://github.com/db-electronics/kicadlib) - kicad parts libraries
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
 - [antirez/ST77xx-pure-MP](https://github.com/antirez/ST77xx-pure-MP) - Pure MicroPython driver for ST77xx displays. Low memory requirements.
@@ -11782,7 +11794,6 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
-- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
