@@ -365,6 +365,7 @@
 - [whirleyes/mighty-1284p](https://github.com/whirleyes/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [maniacbug/mighty-1284p](https://github.com/maniacbug/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [osiweb/unified_retro_keyboard](https://github.com/osiweb/unified_retro_keyboard) - Project to provide keyboard replacements for various classic computers, as well as classic ASCII keyboard
+- [bozimmerman/Zimodem](https://github.com/bozimmerman/Zimodem) - ESP8266/ESP32/Arduino custom modem&lt;-&gt;internet simulator with lots of features
 - [goshante/ats20_ats_ex](https://github.com/goshante/ats20_ats_ex) - Advanced and re-imagined firmware for ATS-20 Receiver based on Si4735 (or Si4732). Прошивка с расширенным функционалом.
 - [ralphxavier/SI4735](https://github.com/ralphxavier/SI4735) - SI4735 / SI4732 Radio
 - [RE3CON/1o11](https://github.com/RE3CON/1o11) - Walki Talkie QuanSheng UV-K5/K6/UV-5R Plus Custom Firmware Merge from: ▪ @OneOfEleven and ▪ @fagci Mod w. Spectrum Analyzer ▪ by @egzumer ▪ Enhanced by @RE3CON: Full freq range of BK4819 for TX and RX
@@ -1763,6 +1764,7 @@
 
 ## C++ 
 
+- [trevor-makes/avr-eeprom-programmer](https://github.com/trevor-makes/avr-eeprom-programmer) - EEPROM programmer using Arduino
 - [UN7FGO/SWR_Ant_Sw](https://github.com/UN7FGO/SWR_Ant_Sw) - Simple SWR-meter with antenna switch
 - [UN7FGO/Ethernet_Beacon](https://github.com/UN7FGO/Ethernet_Beacon) - This is a project of a HAM beacon controlled over a network.
 - [UN7FGO/PIXIE_Arduino](https://github.com/UN7FGO/PIXIE_Arduino) - Various VFO in Arduino for PIXIE transceiver
@@ -1819,7 +1821,6 @@
 - [TaeronKW/Arduino-TPI-Programmer](https://github.com/TaeronKW/Arduino-TPI-Programmer) - A programmer for the ATTiny TPI interface with support for ATTiny102 and ATTiny104.
 - [Lauszus/Arduino-PID-Library](https://github.com/Lauszus/Arduino-PID-Library) - 
 - [mafrmt00/Apple_II_Keyboard](https://github.com/mafrmt00/Apple_II_Keyboard) - Arduino Sketch to use a USB keyboard with an Apple II as ASCII keyboard.
-- [bozimmerman/Zimodem](https://github.com/bozimmerman/Zimodem) - ESP8266/ESP32/Arduino custom modem&lt;-&gt;internet simulator with lots of features
 - [hzeller/txtempus](https://github.com/hzeller/txtempus) - A DCF77, WWVB, JJY and MSF clock LF-band signal transmitter using the Raspberry Pi
 - [cloudree/MSX_Virtual_Printer](https://github.com/cloudree/MSX_Virtual_Printer) - 
 - [cloudree/X2Kbd](https://github.com/cloudree/X2Kbd) - Use the Daewoo MSX2 X-2 (CPC-400) Keyboard with Modern PC (via arduino pro micro USB Port)
@@ -3544,7 +3545,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [nacro90/Groen](https://github.com/nacro90/Groen) - Neorg mobile app inspired by Obsidian
@@ -4946,7 +4947,7 @@
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
 - [google/blueprint](https://github.com/google/blueprint) - 
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [golang-cjr/xep](https://github.com/golang-cjr/xep) - golang chat bot
 - [yasuyk/gocdnjs](https://github.com/yasuyk/gocdnjs) - Command line interface for http://cdnjs.com
 - [lostisland/go-sawyer](https://github.com/lostisland/go-sawyer) - 
@@ -8306,7 +8307,7 @@
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [C0nw0nk/Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your
 - [CiaranG/lua-xmlrpc](https://github.com/CiaranG/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
@@ -10864,7 +10865,7 @@
 - [icyleaf/fish-pkg-git](https://github.com/icyleaf/fish-pkg-git) - This plugin adds many useful git aliases and functions for fish shell
 - [kpbaks/zellij.fish](https://github.com/kpbaks/zellij.fish) - Integrate fish with zellij for a nicer experience.
 - [Molyuu/x](https://github.com/Molyuu/x) - Extract plugin for fish.
-- [safetigo/fish-autovenv](https://github.com/safetigo/fish-autovenv) - Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
+- [aohorodnyk/fish-autovenv](https://github.com/aohorodnyk/fish-autovenv) - Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
 - [wawa19933/fish-systemd](https://github.com/wawa19933/fish-systemd) - Comfortable aliases for `systemctl` command to include `sudo` when needed
 - [EHfive/fish-bash2env](https://github.com/EHfive/fish-bash2env) - A lightweight fish plugin to import environment variables set by given bash command/script.
 - [adamchristiansen/vertical-fish](https://github.com/adamchristiansen/vertical-fish) - A git-aware prompt for the fish shell
@@ -11690,7 +11691,7 @@
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
-- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
+- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
@@ -11773,7 +11774,7 @@
 - [iamcco/coc-leetcode](https://github.com/iamcco/coc-leetcode) - leetcode 扩展
 - [iamcco/coc-angular](https://github.com/iamcco/coc-angular) - Angular Language Service coc extension for (neo)vim
 - [iamcco/coc-actions](https://github.com/iamcco/coc-actions) - Actions menu for Neovim
-- [BSCsmartdev/Polymarket-Copy-Trading-Bot](https://github.com/BSCsmartdev/Polymarket-Copy-Trading-Bot) - Polymarket Copy Trading Bot https://t.me/SmartLead007 Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polymarket Copy Trading Bot Polyma
+- [BSCsmartdev/polymarket-copy-trading-bot](https://github.com/BSCsmartdev/polymarket-copy-trading-bot) - polymarket bot https://t.me/smartlead007 polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy tra
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [atishay/vscode-allautocomplete](https://github.com/atishay/vscode-allautocomplete) - Autocomplete from open files for VSCode
 - [microsoft/vscode-arduino](https://github.com/microsoft/vscode-arduino) - Visual Studio Code extension for Arduino
