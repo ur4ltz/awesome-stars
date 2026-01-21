@@ -1764,6 +1764,8 @@
 
 ## C++ 
 
+- [avdwebLibraries/avdweb_CodeDebugScope](https://github.com/avdwebLibraries/avdweb_CodeDebugScope) - Fast Code Debug Oscilloscope Library for Arduino
+- [avdwebLibraries/avdweb_Switch](https://github.com/avdwebLibraries/avdweb_Switch) - Switch library with longPress and doubleClick
 - [trevor-makes/avr-eeprom-programmer](https://github.com/trevor-makes/avr-eeprom-programmer) - EEPROM programmer using Arduino
 - [UN7FGO/SWR_Ant_Sw](https://github.com/UN7FGO/SWR_Ant_Sw) - Simple SWR-meter with antenna switch
 - [UN7FGO/Ethernet_Beacon](https://github.com/UN7FGO/Ethernet_Beacon) - This is a project of a HAM beacon controlled over a network.
@@ -3769,7 +3771,7 @@
 - [Malabarba/beacon](https://github.com/Malabarba/beacon) - A light that follows your cursor around so you don't lose it!
 - [Malabarba/speed-of-thought-lisp](https://github.com/Malabarba/speed-of-thought-lisp) - Write elisp at the speed of thought. Emacs minor mode with abbrevs and keybinds.
 - [peterwvj/eshell-up](https://github.com/peterwvj/eshell-up) - Quickly go to a specific parent directory in eshell
-- [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
+- [protesilaos/denote](https://github.com/protesilaos/denote) - Efficient file-naming scheme to organise files and write notes with Emacs
 - [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
 - [noctuid/link-hint.el](https://github.com/noctuid/link-hint.el) - Pentadactyl-like Link Hinting in Emacs with Avy
 - [Civitasv/TWE](https://github.com/Civitasv/TWE) - To what end, to what end
@@ -5554,6 +5556,7 @@
 - [jberger/Galileo](https://github.com/jberger/Galileo) - A Simple Modern Perl CMS
 - [luvit/luvit.io](https://github.com/luvit/luvit.io) - Source to luvit.io
 - [Colorsublime/Colorsublime-Themes](https://github.com/Colorsublime/Colorsublime-Themes) - Colorsublime themes collection
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
@@ -11774,7 +11777,6 @@
 - [iamcco/coc-leetcode](https://github.com/iamcco/coc-leetcode) - leetcode 扩展
 - [iamcco/coc-angular](https://github.com/iamcco/coc-angular) - Angular Language Service coc extension for (neo)vim
 - [iamcco/coc-actions](https://github.com/iamcco/coc-actions) - Actions menu for Neovim
-- [BSCsmartdev/polymarket-copy-trading-bot](https://github.com/BSCsmartdev/polymarket-copy-trading-bot) - polymarket bot https://t.me/smartlead007 polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy tra
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [atishay/vscode-allautocomplete](https://github.com/atishay/vscode-allautocomplete) - Autocomplete from open files for VSCode
 - [microsoft/vscode-arduino](https://github.com/microsoft/vscode-arduino) - Visual Studio Code extension for Arduino
@@ -13225,7 +13227,6 @@
 ## YARA 
 
 - [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## YASnippet 
 
