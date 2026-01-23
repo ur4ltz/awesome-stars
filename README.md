@@ -1743,7 +1743,7 @@
 - [qrp73/K5TOOL](https://github.com/qrp73/K5TOOL) - UV-K5 toolkit utility to read/write EEPROM and flashing firmware for Quansheng UV-K5 and UV-R5 radios
 - [nicsure/QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
 - [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
-- [LONELY-WOLF/WatchDoge](https://github.com/LONELY-WOLF/WatchDoge) - Very simple Arduino watch project
+- [w-0x1f/WatchDoge](https://github.com/w-0x1f/WatchDoge) - Very simple Arduino watch project
 - [ZakKemble/AVRDUDESS](https://github.com/ZakKemble/AVRDUDESS) - A GUI for AVRDUDE
 - [afrantzis/bless](https://github.com/afrantzis/bless) - Bless - Gtk# Hex Editor
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
@@ -1764,6 +1764,8 @@
 
 ## C++ 
 
+- [dejwk/roo_display](https://github.com/dejwk/roo_display) - Arduino-compliant library, targeted at ESP32 and related boards, for driving display devices and touch panels, e.g. ILI9486, ILI9341, or ST7789. Powerful and fast.
+- [dejwk/roo_onewire](https://github.com/dejwk/roo_onewire) - Library for OneWire thermometers. Supports asynchronous conversion with event notification.
 - [avdwebLibraries/avdweb_CodeDebugScope](https://github.com/avdwebLibraries/avdweb_CodeDebugScope) - Fast Code Debug Oscilloscope Library for Arduino
 - [avdwebLibraries/avdweb_Switch](https://github.com/avdwebLibraries/avdweb_Switch) - Switch library with longPress and doubleClick
 - [trevor-makes/avr-eeprom-programmer](https://github.com/trevor-makes/avr-eeprom-programmer) - EEPROM programmer using Arduino
@@ -2686,7 +2688,7 @@
 - [RobTillaart/printHelpers](https://github.com/RobTillaart/printHelpers) - Arduino library to help formatting data for printing
 - [RobTillaart/SHT31_SW](https://github.com/RobTillaart/SHT31_SW) - Arduino library for the SHT31 temperature and humidity sensor - using SoftWire
 - [RobTillaart/SHT31_SWW](https://github.com/RobTillaart/SHT31_SWW) - Arduino library for the SHT31 temperature and humidity sensor - using SoftWareWire
-- [RobTillaart/XMLWriter](https://github.com/RobTillaart/XMLWriter) - Arduino Library to create simple XML (messages, files, print, ...)
+- [RobTillaart/XMLWriter](https://github.com/RobTillaart/XMLWriter) - Arduino Library to create simple XML (messages, files, print, ...) for a stream.
 - [RobTillaart/ADG725](https://github.com/RobTillaart/ADG725) - Arduino library for ADG725 - 16 to 1 channel (2x) multiplexer
 - [RobTillaart/ADG731](https://github.com/RobTillaart/ADG731) - Arduino library for ADG731 - 32 to 1 channel multiplexer.
 - [RobTillaart/ADG726](https://github.com/RobTillaart/ADG726) - Arduino library for ADG726 - 16 to 1 channel (2x) multiplexer
@@ -2714,7 +2716,7 @@
 - [RobTillaart/A1301](https://github.com/RobTillaart/A1301) - Arduino library for the A1301, A1302 and compatible magnetometers.
 - [RobTillaart/ACS712](https://github.com/RobTillaart/ACS712) - Arduino library for ACS Current Sensor - 5A, 20A, 30A
 - [RobTillaart/AD56X8](https://github.com/RobTillaart/AD56X8) - Arduino library for AD56X8, 8 channel Digital Analog Convertor.
-- [RobTillaart/SHT2x](https://github.com/RobTillaart/SHT2x) - Arduino library for the SHT2x series temperature and humidity sensors including SHT20, 21, 25.
+- [RobTillaart/SHT2x](https://github.com/RobTillaart/SHT2x) - Arduino library for the SHT2x series temperature and humidity sensors including SHT20, 21, 25, HTU21, Si7021.
 - [RobTillaart/SHT31](https://github.com/RobTillaart/SHT31) - Arduino library for the SHT31 temperature and humidity sensor
 - [RobTillaart/SHT85](https://github.com/RobTillaart/SHT85) - Arduino library for the SHT85 temperature and humidity sensor
 - [RobTillaart/AD5245](https://github.com/RobTillaart/AD5245) - Arduino library for I2C digital potentiometer AD5245
@@ -5077,7 +5079,6 @@
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
-- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [ys/forked](https://github.com/ys/forked) - Find maintained forks of your favorite repositories
 - [krikun98/Skean](https://github.com/krikun98/Skean) - Wireless-first 44-key split keyboard with the Jian's stagger and the Corne's thumb cluster
@@ -7823,8 +7824,8 @@
 - [ya2s/mackup](https://github.com/ya2s/mackup) - 
 - [ya2s/nvim-cursorline](https://github.com/ya2s/nvim-cursorline) - A plugin for neovim that highlights cursor words and lines
 - [ya2s/nvim-nonicons](https://github.com/ya2s/nvim-nonicons) - Icon set using nonicons for neovim plugins and settings
-- [kabouzeid/dotfiles](https://github.com/kabouzeid/dotfiles) - Home for my dotfiles
-- [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
+- [karimknaebel/dotfiles](https://github.com/karimknaebel/dotfiles) - Home for my dotfiles
+- [karimknaebel/nvim-lspinstall](https://github.com/karimknaebel/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
 - [s1n7ax/neovim-lua-plugin-boilerplate](https://github.com/s1n7ax/neovim-lua-plugin-boilerplate) - Starter template for creating Neovim Lua plugins
 - [s1n7ax/archived-dotnvim](https://github.com/s1n7ax/archived-dotnvim) - Neovim Lua configuration pre-configured for Java, JavaScript, Typescript etc...
 - [terrortylor/nvim-httpclient](https://github.com/terrortylor/nvim-httpclient) - An async HTTP client for NeoVim
@@ -10980,6 +10981,7 @@
 - [bjesus/muxile](https://github.com/bjesus/muxile) - Putting tmux on your mobile - Muxile is a tmux plugin that lets you control a running tmux session with your phone, no app needed.
 - [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser) - Web browser sessions attached to tmux sessions
 - [crivotz/dot_files](https://github.com/crivotz/dot_files) - My dot_files for linux - i3, zinit, tmux, tmuxinator, urxvt and Co
+- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [neovim/neovim-snap](https://github.com/neovim/neovim-snap) - Snap package for Nvim
 - [vigneshwaranr/bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory in linux instead of typing "cd ../../.." repeatedly
 - [mawkler/zsh-bd](https://github.com/mawkler/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`
@@ -12807,7 +12809,7 @@
 - [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - My personal dotfiles (how do these have so many stars?)
 - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 - [Yamagi/vimrc](https://github.com/Yamagi/vimrc) - Github mirror of my (way too complex) vim configuration.
-- [overcache/NeoSolarized](https://github.com/overcache/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
+- [Lanxox/NeoSolarized](https://github.com/Lanxox/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) - FlatColor vim colorscheme
 - [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
