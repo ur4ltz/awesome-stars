@@ -5869,7 +5869,7 @@
 - [OXY2DEV/patterns.nvim](https://github.com/OXY2DEV/patterns.nvim) - A simple pattern viewer for Neovim with support for Lua patterns & regex.
 - [OXY2DEV/foldtext.nvim](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext for Neovim
 - [OXY2DEV/bars.nvim](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar for Neovim.
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven
 - [LeonHeidelbach/lua_color_tools](https://github.com/LeonHeidelbach/lua_color_tools) - A simple standalone lua module to work with different color formats and interpolate gradients.
