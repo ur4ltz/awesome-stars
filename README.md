@@ -307,6 +307,7 @@
 
 ## C 
 
+- [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [taburyak/LCD1602_I2C_OR_4BIT_STM32](https://github.com/taburyak/LCD1602_I2C_OR_4BIT_STM32) - Driver HD44780 LCD1602 for STM32 with HAL drivers I2C bus or 4-bit bus
 - [spyren/Mecrisp-Cube](https://github.com/spyren/Mecrisp-Cube) - Mecrisp-Stellaris Forth for the STM32 Cube ecosystem.
 - [eanema/graph89](https://github.com/eanema/graph89) - A fork of Graph89 with UI and UX tweaks and fixes for modern Android versions. Graph89 is an emulator targeting the Android platform for TI89, TI89T, TI92, TI92+, V200, TI84+, TI84+SE, TI83, TI83+ and
@@ -1764,6 +1765,7 @@
 
 ## C++ 
 
+- [pstolarz/Arduino-Temperature-Control-Library](https://github.com/pstolarz/Arduino-Temperature-Control-Library) - Fork of DallasTemperature Arduino library with OneWireNg as 1-wire service.
 - [dejwk/roo_display](https://github.com/dejwk/roo_display) - Arduino-compliant library, targeted at ESP32 and related boards, for driving display devices and touch panels, e.g. ILI9486, ILI9341, or ST7789. Powerful and fast.
 - [dejwk/roo_onewire](https://github.com/dejwk/roo_onewire) - Library for OneWire thermometers. Supports asynchronous conversion with event notification.
 - [avdwebLibraries/avdweb_CodeDebugScope](https://github.com/avdwebLibraries/avdweb_CodeDebugScope) - Fast Code Debug Oscilloscope Library for Arduino
@@ -8797,7 +8799,6 @@
 - [IgrikXD/rpitx-coax-pcb](https://github.com/IgrikXD/rpitx-coax-pcb) - Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment when working with the rpitx package.
 - [IgrikXD/Easy-SDR](https://github.com/IgrikXD/Easy-SDR) - This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on RTL2832U chip.
 - [GolinskiyKonstantin/ST-Link-V2-1](https://github.com/GolinskiyKonstantin/ST-Link-V2-1) - ST-Link V2-1
-- [User420t/V2_1](https://github.com/User420t/V2_1) - 
 - [RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge](https://github.com/RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge) - Arduino nano and a ST7735 128 x 160 full color tft screen. This gauge is using the resistance of the excisting coolant temperature sensor in the car to monitor the coolant temperature. The minimum tem
 - [Krakenw/Stlink-Bootloaders](https://github.com/Krakenw/Stlink-Bootloaders) - Stlink Bootloaders
 - [wemos/docs](https://github.com/wemos/docs) - 
