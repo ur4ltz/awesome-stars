@@ -1765,6 +1765,8 @@
 
 ## C++ 
 
+- [AndrejChoo/Cross-platform-avrdude-GUI](https://github.com/AndrejChoo/Cross-platform-avrdude-GUI) - Простая кроссплатформенная графическая оболочка для avrdude, написанная на Qt.
+- [TeknoTrek/Si5351-Clock-Generator-for-Arduino-Projects](https://github.com/TeknoTrek/Si5351-Clock-Generator-for-Arduino-Projects) - Si5351 Clock Generator for Arduino Projects Generate precise clock signals using the Si5351 module and Arduino Nano. Features: Stable clock outputs with Si5351. Rotary encoder for easy frequency adjus
 - [pstolarz/Arduino-Temperature-Control-Library](https://github.com/pstolarz/Arduino-Temperature-Control-Library) - Fork of DallasTemperature Arduino library with OneWireNg as 1-wire service.
 - [dejwk/roo_display](https://github.com/dejwk/roo_display) - Arduino-compliant library, targeted at ESP32 and related boards, for driving display devices and touch panels, e.g. ILI9486, ILI9341, or ST7789. Powerful and fast.
 - [dejwk/roo_onewire](https://github.com/dejwk/roo_onewire) - Library for OneWire thermometers. Supports asynchronous conversion with event notification.
@@ -4592,7 +4594,7 @@
 
 ## Forth 
 
-- [nineties/planck](https://github.com/nineties/planck) - This project aims to develop a Compiler Infrastructure which have advanced memory safety and concurrency features.
+- [nineties/planck-old](https://github.com/nineties/planck-old) - This project aims to develop a Compiler Infrastructure which have advanced memory safety and concurrency features.
 - [nineties/planckforth](https://github.com/nineties/planckforth) - Bootstrapping a Forth interpreter from hand-written tiny ELF binary. Just for fun.
 - [johnwinans/nabu-figforth](https://github.com/johnwinans/nabu-figforth) - fig-FORTH implementation for the NABU PC
 - [hanshuebner/nabu-figforth](https://github.com/hanshuebner/nabu-figforth) - fig-FORTH implementation for the NABU PC
@@ -5559,7 +5561,6 @@
 - [jberger/Galileo](https://github.com/jberger/Galileo) - A Simple Modern Perl CMS
 - [luvit/luvit.io](https://github.com/luvit/luvit.io) - Source to luvit.io
 - [Colorsublime/Colorsublime-Themes](https://github.com/Colorsublime/Colorsublime-Themes) - Colorsublime themes collection
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
@@ -11482,6 +11483,7 @@
 - [cgoodrich/byzanz](https://github.com/cgoodrich/byzanz) - unix gif screencasts
 - [porras/i3-keyboard-layout](https://github.com/porras/i3-keyboard-layout) - Change keyboard layout with a keystroke + show it in the status bar
 - [okraits/boosta](https://github.com/okraits/boosta) - Easy bookmark management with rofi
+- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
 - [cytopia/i3-utils-bin](https://github.com/cytopia/i3-utils-bin) - 
 - [cytopia/autorunner](https://github.com/cytopia/autorunner) - Configurable and notification aware autostart helper for minimalistic window managers like i3, openbox and others
@@ -12801,7 +12803,6 @@
 - [liuchengxu/space-vim-theme](https://github.com/liuchengxu/space-vim-theme) - :blossom: A dark and light colorscheme for space-vim that supports GUI & terminal
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
 - [preservim/vimux](https://github.com/preservim/vimux) - easily interact with tmux from vim
-- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [delucks/dotfiles](https://github.com/delucks/dotfiles) - ~/.*
 - [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
 - [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - ⚠️ Deprecated! I’ve moved all my config to Nix+NixOS+Home Manager, and that repo is not currently public.
@@ -13230,6 +13231,7 @@
 ## YARA 
 
 - [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## YASnippet 
 
