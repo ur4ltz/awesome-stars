@@ -2943,7 +2943,6 @@
 - [bkaradzic/bnet](https://github.com/bkaradzic/bnet) - Message oriented networking library using TCP transport.
 - [bkaradzic/bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-- [IppClub/YueScript](https://github.com/IppClub/YueScript) - A MoonScript dialect compiles to Lua.
 - [BleuLlama/TM1637](https://github.com/BleuLlama/TM1637) - Arduino library for TM1637 (LED Driver)
 - [SindormirNet/SindormirSevenSegments](https://github.com/SindormirNet/SindormirSevenSegments) - Simple Seven Segments library for Arduino
 - [TinyTronics/TM1637_6D](https://github.com/TinyTronics/TM1637_6D) - Arduino library for the 6 digit TM1637 based segment displays
@@ -6781,6 +6780,7 @@
 - [cloudwu/bgfxidl](https://github.com/cloudwu/bgfxidl) - An IDL for bgfx
 - [jdryg/dls-schematics](https://github.com/jdryg/dls-schematics) - Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.itch.io/dls
 - [cloudwu/lua-bgfx](https://github.com/cloudwu/lua-bgfx) - Yet another bgfx lua binding
+- [IppClub/YueScript](https://github.com/IppClub/YueScript) - A MoonScript dialect compiles to Lua.
 - [theHamsta/nvim-semantic-tokens](https://github.com/theHamsta/nvim-semantic-tokens) - 
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - 
 - [Zane-/cder.nvim](https://github.com/Zane-/cder.nvim) - A telescope.nvim extension to quickly change Neovim's working directory.
@@ -10856,7 +10856,7 @@
 - [eendroroy/zed-zsh](https://github.com/eendroroy/zed-zsh) - A simple wrapper for z to install as zsh plugin.
 - [eendroroy/awesome-git](https://github.com/eendroroy/awesome-git) - some usefull git shortcats
 - [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
-- [eendroroy/dotfiles](https://github.com/eendroroy/dotfiles) - 
+- [eendroroy/dotfiles](https://github.com/eendroroy/dotfiles) - Dotfiles
 - [eendroroy/nothing](https://github.com/eendroroy/nothing) - Nothing ZSH theme
 - [eendroroy/autoenv-templates](https://github.com/eendroroy/autoenv-templates) - My autoenv templates
 - [eendroroy/zsh-autoenv-templates-installer](https://github.com/eendroroy/zsh-autoenv-templates-installer) - 
@@ -10998,7 +10998,6 @@
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [Mte90/gitapper](https://github.com/Mte90/gitapper) - Remap Git with your custom scripts or new commands
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
-- [nguyenvukhang/ags](https://github.com/nguyenvukhang/ags) - ags scans your local git repositories for unstaged files and unpushed commits
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
