@@ -1280,7 +1280,7 @@
 - [tcsh-org/tcsh](https://github.com/tcsh-org/tcsh) - This is a read-only mirror of the tcsh code repository.
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) - SCReenshOT - command line screen capture utility
-- [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
+- [ubuntu/lightdm](https://github.com/ubuntu/lightdm) - Display Manager
 - [salman-abedin/tide](https://github.com/salman-abedin/tide) - Minimal Transmission CLI client
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [jcorporation/myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
@@ -3229,7 +3229,6 @@
 - [andrey-belokon/NanoVFO](https://github.com/andrey-belokon/NanoVFO) - Simple VFO for portable/micro transceiver based on Si5351 with CW-key
 - [andrey-belokon/UR5FFR_Si5351](https://github.com/andrey-belokon/UR5FFR_Si5351) - Si5351 for Arduino
 - [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [czwinzscher/tetris](https://github.com/czwinzscher/tetris) - Tetris for the terminal.
 - [falconindy/auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -5739,7 +5738,7 @@
 - [is0n/jaq-nvim](https://github.com/is0n/jaq-nvim) - ⚙️ Just Another Quickrun Plugin for Neovim in Lua
 - [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) - Neovim plugin for terminal file manager integration
 - [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) - 
-- [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with incremental preview, a convenient UI, and modern regex syntax.
+- [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) - Search & replace in the current buffer or workspace with incremental preview, a convenient UI, and modern regex syntax.
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Just an integration of `just` in nvim.
 - [chrisgrieser/nvim-puppeteer](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
@@ -6011,7 +6010,7 @@
 - [imsi32/yatline-gruvbox-material.yazi](https://github.com/imsi32/yatline-gruvbox-material.yazi) - Gruvbox Material theme for Yatline plugin.
 - [imsi32/yatline-catppuccin.yazi](https://github.com/imsi32/yatline-catppuccin.yazi) - 🛤️ Soothing pastel theme for Yatline
 - [imsi32/yatline-gruvbox.yazi](https://github.com/imsi32/yatline-gruvbox.yazi) - Gruvbox theme for Yatline plugin.
-- [KKV9/command.yazi](https://github.com/KKV9/command.yazi) - A Yazi plugin that displays a command prompt for yazi commands.
+- [KKV9/command.yazi](https://github.com/KKV9/command.yazi) - A plugin for Yazi that provides a command palette for executing commands interactively.
 - [AnirudhG07/custom-shell.yazi](https://github.com/AnirudhG07/custom-shell.yazi) - Set your custom-shell as default shell in yazi!
 - [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
 - [Zeioth/colorschemes.nvim](https://github.com/Zeioth/colorschemes.nvim) - Shell command to preview the top 50 neovim colorschemes.
@@ -10379,6 +10378,7 @@
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [apjanke/ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mtsmfm/language_server-ruby](https://github.com/mtsmfm/language_server-ruby) - A Ruby Language Server implementation
 - [openSUSE/obs-tools](https://github.com/openSUSE/obs-tools) - Set of tools used to help us on OBS development
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
@@ -11426,6 +11426,7 @@
 - [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [dm1try/git_fastfix](https://github.com/dm1try/git_fastfix) - fast git fixups using neovim UI
+- [jubnzv/dotfiles](https://github.com/jubnzv/dotfiles) - Personal configuration files, scripts, etc.
 - [kyazdani42/dotfiles](https://github.com/kyazdani42/dotfiles) - my dotfiles for a wayland and x11 based linux system
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -11554,7 +11555,7 @@
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
@@ -12672,7 +12673,6 @@
 - [tyru/open-browser-unicode.vim](https://github.com/tyru/open-browser-unicode.vim) - Open fileformat.info page about character on current cursor / given character
 - [tyru/open-browser-github.vim](https://github.com/tyru/open-browser-github.vim) - Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)
 - [roman/golden-ratio](https://github.com/roman/golden-ratio) - Automatic resizing of Vim windows to the golden ratio
-- [jubnzv/dotfiles](https://github.com/jubnzv/dotfiles) - Personal configuration files, scripts, etc.
 - [nvim-zh/minimal_vim](https://github.com/nvim-zh/minimal_vim) - A minimal Vim/Nvim configuration in just one file without external dependencies.
 - [jwilm/dotfiles](https://github.com/jwilm/dotfiles) - .files
 - [akrawchyk/dotfiles](https://github.com/akrawchyk/dotfiles) - Everyone needs a ⌂
