@@ -1765,6 +1765,7 @@
 
 ## C++ 
 
+- [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra) - Deep ghidra decompiler and sleigh disassembler integration for rizin
 - [AndrejChoo/Cross-platform-avrdude-GUI](https://github.com/AndrejChoo/Cross-platform-avrdude-GUI) - Простая кроссплатформенная графическая оболочка для avrdude, написанная на Qt.
 - [TeknoTrek/Si5351-Clock-Generator-for-Arduino-Projects](https://github.com/TeknoTrek/Si5351-Clock-Generator-for-Arduino-Projects) - Si5351 Clock Generator for Arduino Projects Generate precise clock signals using the Si5351 module and Arduino Nano. Features: Stable clock outputs with Si5351. Rotary encoder for easy frequency adjus
 - [pstolarz/Arduino-Temperature-Control-Library](https://github.com/pstolarz/Arduino-Temperature-Control-Library) - Fork of DallasTemperature Arduino library with OneWireNg as 1-wire service.
@@ -2129,7 +2130,7 @@
 - [w1hkj/flmsg](https://github.com/w1hkj/flmsg) - Ham standard message generator [SF mirror]
 - [w1hkj/flrig](https://github.com/w1hkj/flrig) - amateur radio transceiver control application [SF mirror]
 - [aschermann/FT857d](https://github.com/aschermann/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
-- [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
+- [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - SDR transceiver using GNU Radio
 - [miek/inspectrum](https://github.com/miek/inspectrum) - Radio signal analyser
 - [coolacid/FT857d](https://github.com/coolacid/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
 - [aa2mz/FT857d](https://github.com/aa2mz/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
@@ -4184,6 +4185,7 @@
 - [The-Compiler/dotfiles](https://github.com/The-Compiler/dotfiles) - New config file repo
 - [xuchunyang/describe-symbol](https://github.com/xuchunyang/describe-symbol) - 
 - [sriramkswamy/dotemacs](https://github.com/sriramkswamy/dotemacs) - My Emacs config. Here be dragons.
+- [socketwiz/dotfiles](https://github.com/socketwiz/dotfiles) - A place to store my configuration files
 - [aaronbieber/periodic-commit-minor-mode](https://github.com/aaronbieber/periodic-commit-minor-mode) - Periodically commit all changes to a repository when saving a member file.
 - [aaronbieber/dotfiles](https://github.com/aaronbieber/dotfiles) - The skeleton of my wonderful *NIX home folders and scripts.
 - [Fanael/init.el](https://github.com/Fanael/init.el) - My Emacs configuration
@@ -4652,6 +4654,7 @@
 
 ## Go 
 
+- [rizinorg/rz-pm](https://github.com/rizinorg/rz-pm) - An official Rizin package manager
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
@@ -11243,7 +11246,6 @@
 - [FlyingBBQ/dotfiles](https://github.com/FlyingBBQ/dotfiles) - Central repository for all my dotfiles
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
 - [kakounedotcom/connect.kak](https://github.com/kakounedotcom/connect.kak) - Connect a program to Kakoune clients
-- [socketwiz/dotfiles](https://github.com/socketwiz/dotfiles) - A place to store my configuration files
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [Gskartwii/wsl-setup](https://github.com/Gskartwii/wsl-setup) - Scripts for setting up a WSL development environment with oh-my-zsh, Kakoune, Rust, etc.
