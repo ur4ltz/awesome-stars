@@ -4185,7 +4185,6 @@
 - [The-Compiler/dotfiles](https://github.com/The-Compiler/dotfiles) - New config file repo
 - [xuchunyang/describe-symbol](https://github.com/xuchunyang/describe-symbol) - 
 - [sriramkswamy/dotemacs](https://github.com/sriramkswamy/dotemacs) - My Emacs config. Here be dragons.
-- [socketwiz/dotfiles](https://github.com/socketwiz/dotfiles) - A place to store my configuration files
 - [aaronbieber/periodic-commit-minor-mode](https://github.com/aaronbieber/periodic-commit-minor-mode) - Periodically commit all changes to a repository when saving a member file.
 - [aaronbieber/dotfiles](https://github.com/aaronbieber/dotfiles) - The skeleton of my wonderful *NIX home folders and scripts.
 - [Fanael/init.el](https://github.com/Fanael/init.el) - My Emacs configuration
@@ -8068,6 +8067,7 @@
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [rafcamlet/coc-nvim-lua](https://github.com/rafcamlet/coc-nvim-lua) - Simple neovim lua completion source for coc.nvim
 - [vhakulinen/dots](https://github.com/vhakulinen/dots) - dots
+- [socketwiz/dotfiles](https://github.com/socketwiz/dotfiles) - A place to store my configuration files
 - [actboy168/findlocal](https://github.com/actboy168/findlocal) - 
 - [j0rtiz/lua-dojo](https://github.com/j0rtiz/lua-dojo) - 
 - [yumafuu/wezterm](https://github.com/yumafuu/wezterm) - 
@@ -11699,7 +11699,7 @@
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
 - [Pictogrammers/pictogrammers.com](https://github.com/Pictogrammers/pictogrammers.com) - Code for Pictogrammers.com
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
@@ -11884,6 +11884,7 @@
 
 ## Vim Script 
 
+- [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) - The undo history visualizer for VIM
 - [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
 - [MarcWeber/vim-addon-mw-utils](https://github.com/MarcWeber/vim-addon-mw-utils) - vim: interpret a file by function and cache file automatically
 - [MarcWeber/vim-addon-goto-thing-at-cursor](https://github.com/MarcWeber/vim-addon-goto-thing-at-cursor) - make gf mapping of Vim more useful
