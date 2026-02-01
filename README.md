@@ -576,7 +576,7 @@
 - [Crest/swdcom](https://github.com/Crest/swdcom) - Mecrisp Stellaris console via ST/LINK V2
 - [arthurfprecht/STM32_HID_Bootloader](https://github.com/arthurfprecht/STM32_HID_Bootloader) - Driverless USB HID bootloader and flashing tool for STM32 WeAct Black Pill
 - [samveen/STM32_HID_Bootloader](https://github.com/samveen/STM32_HID_Bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
-- [xromansx/STM32F4x1_HID_Bootloader](https://github.com/xromansx/STM32F4x1_HID_Bootloader) - STM32F4x1_HID_Bootloader
+- [sandmix/STM32F4x1_HID_Bootloader](https://github.com/sandmix/STM32F4x1_HID_Bootloader) - STM32F4x1_HID_Bootloader
 - [bootsector/stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X devices
 - [dilshan/usb-morse-keyer](https://github.com/dilshan/usb-morse-keyer) - PIC16F886 based CW auto key controller with USB support
 - [dilshan/qn8035-rpi-fm-radio](https://github.com/dilshan/qn8035-rpi-fm-radio) - QN8035 based Raspberry Pi FM radio receiver
