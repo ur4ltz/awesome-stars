@@ -307,6 +307,7 @@
 
 ## C 
 
+- [dawsonjon/HamFist](https://github.com/dawsonjon/HamFist) - Bayesian CW Decoder for Pi Pico
 - [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [taburyak/LCD1602_I2C_OR_4BIT_STM32](https://github.com/taburyak/LCD1602_I2C_OR_4BIT_STM32) - Driver HD44780 LCD1602 for STM32 with HAL drivers I2C bus or 4-bit bus
 - [spyren/Mecrisp-Cube](https://github.com/spyren/Mecrisp-Cube) - Mecrisp-Stellaris Forth for the STM32 Cube ecosystem.
@@ -1233,7 +1234,7 @@
 - [mackstann/tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) - Neovim Tree Sitter Lua Grammar & Library
 - [javalikescript/webview-c](https://github.com/javalikescript/webview-c) - A tiny cross-platform webview C library to build modern cross-platform GUIs
-- [luarocks/cluacov](https://github.com/luarocks/cluacov) - C extensions for LuaCov
+- [lunarmodules/cluacov](https://github.com/lunarmodules/cluacov) - C extensions for LuaCov
 - [siffiejoe/lua-tinylthread](https://github.com/siffiejoe/lua-tinylthread) - Tiny threading module for Lua
 - [siffiejoe/lua-rotable](https://github.com/siffiejoe/lua-rotable) - Save memory with custom module "tables"
 - [siffiejoe/lua-luaipc](https://github.com/siffiejoe/lua-luaipc) - Portable inter-process communication for Lua
@@ -5919,7 +5920,7 @@
 - [wsdjeg/quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim) - general key bindings for quickfix window
 - [wsdjeg/dashboard-nvim](https://github.com/wsdjeg/dashboard-nvim) - vim dashboard
 - [wsdjeg/winbar.nvim](https://github.com/wsdjeg/winbar.nvim) - 
-- [wsdjeg/ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - More beautiful ctrl-g output
+- [wsdjeg/ctrlg.nvim](https://github.com/wsdjeg/ctrlg.nvim) - enhanced Ctrl-G status information
 - [wsdjeg/nvim-completion](https://github.com/wsdjeg/nvim-completion) - 
 - [wsdjeg/todo.nvim](https://github.com/wsdjeg/todo.nvim) - todo manager plugin for Neovim
 - [wsdjeg/cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) - Color Converter for neovim
