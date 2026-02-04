@@ -1084,7 +1084,7 @@
 - [nimaipatel/st](https://github.com/nimaipatel/st) - My build of the simple terminal
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [karlc1/dwm-karlc](https://github.com/karlc1/dwm-karlc) - 
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [hollystandring/nmenu](https://github.com/hollystandring/nmenu) - A 'plug and play' menu system for ncurses with automatic sizing and centering
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [optozorax/moonlander](https://github.com/optozorax/moonlander) - My keymap for moonlander keyboard
@@ -8844,7 +8844,6 @@
 - [BennyOe/tokyo-night.yazi](https://github.com/BennyOe/tokyo-night.yazi) - Yazi flavor with the Tokyo Night colors
 - [dangooddd/kanagawa.yazi](https://github.com/dangooddd/kanagawa.yazi) - Yazi flavor with the Kanagawa colors
 - [sachinsenal0x64/crystal.yazi](https://github.com/sachinsenal0x64/crystal.yazi) - 🦄 Crystal theme for yazi
-- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [owenduffy/xl](https://github.com/owenduffy/xl) - 
 - [tinygo-org/awesome-tinygo](https://github.com/tinygo-org/awesome-tinygo) - A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.
 - [nanovna-v2/NanoVNA2](https://github.com/nanovna-v2/NanoVNA2) - NanoVNA V2 (S-A-A-2)
@@ -9583,7 +9582,7 @@
 - [veusz/veusz](https://github.com/veusz/veusz) - Veusz scientific plotting application
 - [bmo/py-wsjtx](https://github.com/bmo/py-wsjtx) - Python library to interpret and generate UDP packets to communicate with WSJT-X
 - [kholia/py-wsjtx](https://github.com/kholia/py-wsjtx) - Python library to interpret and generate UDP packets to communicate with WSJT-X
-- [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR.org textbook source material, feel free to post issues/PRs
+- [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
 - [DreamSourceLab/DSView](https://github.com/DreamSourceLab/DSView) - An open source multi-function instrument for everyone
 - [Hagtronics/SDRpp-FrequencyManager-Spreadsheet-Tool](https://github.com/Hagtronics/SDRpp-FrequencyManager-Spreadsheet-Tool) - Python script to convert Spreadsheet Frequency Lists into a Frequency Manager JSON file for SDR++
 - [HollowHunter/Arduino-Control-System](https://github.com/HollowHunter/Arduino-Control-System) - Программа на pyton, позволяющая управлять ардуиной при помощи созданного интерфейса
@@ -10108,6 +10107,7 @@
 - [SublimeLinter/SublimeLinter-luacheck](https://github.com/SublimeLinter/SublimeLinter-luacheck) - SublimeLinter 3 plugin for lua, using luacheck
 - [Vimjas/vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
+- [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux & macOS
 - [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [fgrsnau/ncm2-aspell](https://github.com/fgrsnau/ncm2-aspell) - ncm2 source that completes words from aspell dictionary
 - [fgrsnau/ncm2-otherbuf](https://github.com/fgrsnau/ncm2-otherbuf) - ncm2 plugin for completing words in other buffers
@@ -10448,6 +10448,7 @@
 
 ## Rust 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
@@ -10854,6 +10855,7 @@
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [michaeldaranto/Termux-Slackware](https://github.com/michaeldaranto/Termux-Slackware) - Run Slackware ARM Linux on Termux Android
 - [mcpcpc/kinode](https://github.com/mcpcpc/kinode) - Scripts for Linode VPS unattended KISS Linux installation
+- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) - Matrix client / Element Web/Desktop fork
 - [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
@@ -11519,7 +11521,6 @@
 - [moon-musick/i3](https://github.com/moon-musick/i3) - i3 window manager configuration
 - [rafi/.config](https://github.com/rafi/.config) - Rafi's workstations (Archlinux, osx) ~/.config.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux & macOS
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [liuchengxu/dotfiles](https://github.com/liuchengxu/dotfiles) - :nut_and_bolt: Dotfiles for bash, zsh, tmux, emacs, vim, etc
 - [seletskiy/zsh-prompt-lambda17](https://github.com/seletskiy/zsh-prompt-lambda17) - Highly extensible prompt for zsh
@@ -12815,7 +12816,7 @@
 - [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - My personal dotfiles (how do these have so many stars?)
 - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 - [Yamagi/vimrc](https://github.com/Yamagi/vimrc) - Github mirror of my (way too complex) vim configuration.
-- [Lanxox/NeoSolarized](https://github.com/Lanxox/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
+- [lanx-x/NeoSolarized](https://github.com/lanx-x/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) - FlatColor vim colorscheme
 - [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
