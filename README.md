@@ -307,6 +307,7 @@
 
 ## C 
 
+- [OneOfEleven/M181-LCR-Meter-Firmware](https://github.com/OneOfEleven/M181-LCR-Meter-Firmware) - Re-worked M181 LCR meter firmware, original by Jaishankar M
 - [dawsonjon/HamFist](https://github.com/dawsonjon/HamFist) - Bayesian CW Decoder for Pi Pico
 - [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [taburyak/LCD1602_I2C_OR_4BIT_STM32](https://github.com/taburyak/LCD1602_I2C_OR_4BIT_STM32) - Driver HD44780 LCD1602 for STM32 with HAL drivers I2C bus or 4-bit bus
@@ -463,7 +464,7 @@
 - [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
-- [xeeqs/uvllhttpd](https://github.com/xeeqs/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
+- [ooweyy/uvllhttpd](https://github.com/ooweyy/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -5705,6 +5706,7 @@
 
 ## Lua 
 
+- [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - 
 - [becknik/blink-cmp-luasnip-choice](https://github.com/becknik/blink-cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp
 - [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
@@ -8469,6 +8471,7 @@
 - [Neopallium/LuaNativeObjects](https://github.com/Neopallium/LuaNativeObjects) - A Lua bindings generator written in Lua.
 - [salviati/go-qt5](https://github.com/salviati/go-qt5) - qt5 bindings for go
 - [premake/premake-4.x](https://github.com/premake/premake-4.x) - Premake 4
+- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [EvandroLG/pegasus.lua](https://github.com/EvandroLG/pegasus.lua) - :rocket: Pegasus.lua is an http server to work with web applications written in Lua language.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [atercattus/luaghetti](https://github.com/atercattus/luaghetti) - Spaghetti html+lua code templater inside nginx
@@ -8709,6 +8712,7 @@
 
 ## Others 
 
+- [NanoVHF/Meshtastic-DIY](https://github.com/NanoVHF/Meshtastic-DIY) - 
 - [UN7FGO/MK-61s-Classic](https://github.com/UN7FGO/MK-61s-Classic) - Развитие проекта эмулятора МК-61s-Mini
 - [vhyrro/awesome-neorg](https://github.com/vhyrro/awesome-neorg) - A collection of Neorg (org-mode-like for Neovim) awesomeness, including config examples and inspo
 - [skuep/Quansheng-Charger-USB-Mod](https://github.com/skuep/Quansheng-Charger-USB-Mod) - 
@@ -11573,7 +11577,6 @@
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for Cygwin targets to build under MSYS2.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
