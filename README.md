@@ -307,6 +307,8 @@
 
 ## C 
 
+- [muzkr/moto](https://github.com/muzkr/moto) - Modern Bootloader for Quansheng UV-K5 (V3) and Variants
+- [muzkr/KISS](https://github.com/muzkr/KISS) - Brain-Friendly Firmware for the Quansheng UV-K5 (V3) and Variants
 - [OneOfEleven/M181-LCR-Meter-Firmware](https://github.com/OneOfEleven/M181-LCR-Meter-Firmware) - Re-worked M181 LCR meter firmware, original by Jaishankar M
 - [dawsonjon/HamFist](https://github.com/dawsonjon/HamFist) - Bayesian CW Decoder for Pi Pico
 - [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
@@ -506,7 +508,7 @@
 - [schreibfaul1/ESP32-TFT-Library-ST7735](https://github.com/schreibfaul1/ESP32-TFT-Library-ST7735) - 
 - [schreibfaul1/ESP32-TFT-Library-ILI9341-HX8347D](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9341-HX8347D) - TFT Library for controller ILI9341 and HX8347D
 - [schreibfaul1/ESP32-TFT-Library-ILI9486](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9486) - A library for 3.5 inch RPi LCD (A) 320x480 display from Waveshare
-- [schreibfaul1/ESP32-MiniWebRadio](https://github.com/schreibfaul1/ESP32-MiniWebRadio) - Internetradio with ESP32-S3/P4, I2S DAC and SPI/RGB TFT Display with Touchpad
+- [schreibfaul1/ESP32-MiniWebRadio](https://github.com/schreibfaul1/ESP32-MiniWebRadio) - Internetradio with ESP32-S3/P4, I2S DAC and SPI/RGB/DSI TFT Display with Touchpad
 - [yellobyte/ESP32-DevBoards-Getting-Started](https://github.com/yellobyte/ESP32-DevBoards-Getting-Started) - Getting started with various ESP32 development boards. Lots of examples.
 - [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [gkiefer/home2l](https://github.com/gkiefer/home2l) - The Home2Ls - Smart Tools for a Private Home
@@ -1435,8 +1437,6 @@
 - [sparkfun/LilyPad_Arduino_USB](https://github.com/sparkfun/LilyPad_Arduino_USB) - Design and firmware files for the LilyPad Arduino USB.
 - [austinthresher/dangerboy](https://github.com/austinthresher/dangerboy) - Game Boy emulator written in C. Aiming for cycle accurate DMG emulation.
 - [hide27k/haribote-os](https://github.com/hide27k/haribote-os) - 30日でできる！OS自作入門
-- [flatinum97/haribote-os](https://github.com/flatinum97/haribote-os) - 30日でできる！OS自作入門
-- [flatinum97/hariboteos](https://github.com/flatinum97/hariboteos) - Haribote OS
 - [ibara/mg](https://github.com/ibara/mg) - OpenBSD Mg editor. Portable Public Domain Micro Emacs for *BSD, Cygwin, Linux, Mac OS X.
 - [felias-fogg/SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster) - Software I2C Arduino library
 - [wereHamster/transmission](https://github.com/wereHamster/transmission) - Inofficial mirror of the Transmission BitTorrent client
@@ -1709,7 +1709,7 @@
 - [damellis/attiny](https://github.com/damellis/attiny) - ATtiny microcontroller support for the Arduino IDE
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [libgit2/luagit2](https://github.com/libgit2/luagit2) - Lua bindings for libgit2
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [nsf/termbox](https://github.com/nsf/termbox) - Library for writing text-based user interfaces
 - [nsf/ccode](https://github.com/nsf/ccode) - An autocompletion daemon for the C programming language (vim, libclang, omnifunc)
 - [vinniefalco/LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++
@@ -1914,7 +1914,7 @@
 - [Edzelf/ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
 - [nicoverduin/ST7735_TFT_PICO](https://github.com/nicoverduin/ST7735_TFT_PICO) - TFT SPI LCD, ST7735 Driver, Raspberry pi PICO RP2040 display  library. C++ SDK
 - [tansiret/Super-Mario-Pico](https://github.com/tansiret/Super-Mario-Pico) - A basic Super Mario demo written in C/C++ for Raspberry Pi Pico/Pico 2
-- [gavinlyonsrepo/displaylib_16bit_PICO](https://github.com/gavinlyonsrepo/displaylib_16bit_PICO) - Display Library for 16-bit color graphic displays for Raspberry PI PICO. C++ SDK, supports ssd1331, st7735, ili9341, st7789 and GC9A01.
+- [gavinlyonsrepo/displaylib_16bit_PICO](https://github.com/gavinlyonsrepo/displaylib_16bit_PICO) - Display Library for 16-bit color graphic displays for Raspberry PI PICO. C++ SDK, supports ssd1331, st7735, ili9341, st7789, GC9D01 and GC9A01.
 - [manzarehassin/AT24C16](https://github.com/manzarehassin/AT24C16) - Library for Interfacing with AT24C16 EEPROM chip in the Arduino environment.
 - [mitra42/webForth](https://github.com/mitra42/webForth) - Forth for the web - implemented in JS and other web technologies
 - [MichaelMiR01/ziptcc_dev](https://github.com/MichaelMiR01/ziptcc_dev) - A self containing, zipenabled version of the TinyCC Compiler
@@ -4903,7 +4903,6 @@
 - [veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [hypnoglow/dotbro](https://github.com/hypnoglow/dotbro) - Dotbro - simple yet effective dotfiles manager.
 - [kyoh86/gogh](https://github.com/kyoh86/gogh) - Gogh is a tool to manage GitHub repositories efficiently, inspired by `ghq`
-- [flatinum97/hummingbird](https://github.com/flatinum97/hummingbird) - Tiny HTTP server written in Go
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [storozhukBM/verifier](https://github.com/storozhukBM/verifier) - Package verifier provides simple defensive programing primitives.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -8611,7 +8610,7 @@
 
 ## Mustache 
 
-- [tinted-theming/tinted-xresources](https://github.com/tinted-theming/tinted-xresources) - Base16 for Xresources
+- [tinted-theming/tinted-xresources](https://github.com/tinted-theming/tinted-xresources) - Base16 and Base24 for Xresources
 - [chriskempson/base16-textmate](https://github.com/chriskempson/base16-textmate) - Base16 for TextMate & Sublime
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [tinted-theming/base16-i3](https://github.com/tinted-theming/base16-i3) - 
@@ -8712,6 +8711,8 @@
 
 ## Others 
 
+- [arm8686/FT2232HL-Board](https://github.com/arm8686/FT2232HL-Board) - USB to dual UART / SPI / I2C / JTAG / FIFO / Bit-Bang...
+- [gargomoma/fakeTec_pcb](https://github.com/gargomoma/fakeTec_pcb) - A low-cost nrf52 device.
 - [NanoVHF/Meshtastic-DIY](https://github.com/NanoVHF/Meshtastic-DIY) - 
 - [UN7FGO/MK-61s-Classic](https://github.com/UN7FGO/MK-61s-Classic) - Развитие проекта эмулятора МК-61s-Mini
 - [vhyrro/awesome-neorg](https://github.com/vhyrro/awesome-neorg) - A collection of Neorg (org-mode-like for Neovim) awesomeness, including config examples and inspo
@@ -9874,7 +9875,6 @@
 - [MakotoKurauchi/helix](https://github.com/MakotoKurauchi/helix) - A compact split ortholinear keyboard.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
-- [jim-at-jibba/my-dots](https://github.com/jim-at-jibba/my-dots) - 
 - [n1flh31mur/i3-simple-weather](https://github.com/n1flh31mur/i3-simple-weather) - Python script for i3bar/polybar and other bars that supports python scripts.
 - [Abstract-IDE/lazy-builder](https://github.com/Abstract-IDE/lazy-builder) - python script for running or compiling program (of programming language) in vim/neo-vim
 - [rabbitvcs/rabbitvcs](https://github.com/rabbitvcs/rabbitvcs) - The new home of rabbitvcs
@@ -10884,7 +10884,7 @@
 - [icyleaf/fish-pkg-git](https://github.com/icyleaf/fish-pkg-git) - This plugin adds many useful git aliases and functions for fish shell
 - [kpbaks/zellij.fish](https://github.com/kpbaks/zellij.fish) - Integrate fish with zellij for a nicer experience.
 - [Molyuu/x](https://github.com/Molyuu/x) - Extract plugin for fish.
-- [aohorodnyk/fish-autovenv](https://github.com/aohorodnyk/fish-autovenv) - Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
+- [safigo/fish-autovenv](https://github.com/safigo/fish-autovenv) - Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
 - [wawa19933/fish-systemd](https://github.com/wawa19933/fish-systemd) - Comfortable aliases for `systemctl` command to include `sudo` when needed
 - [EHfive/fish-bash2env](https://github.com/EHfive/fish-bash2env) - A lightweight fish plugin to import environment variables set by given bash command/script.
 - [adamchristiansen/vertical-fish](https://github.com/adamchristiansen/vertical-fish) - A git-aware prompt for the fish shell
@@ -12712,7 +12712,6 @@
 - [bakpakin/fennel.vim](https://github.com/bakpakin/fennel.vim) - Syntax highlighting for Fennel
 - [makovich/dotfiles](https://github.com/makovich/dotfiles) - Just dotfiles
 - [orokasan/dotfiles](https://github.com/orokasan/dotfiles) - 
-- [flatinum97/dotfiles](https://github.com/flatinum97/dotfiles) - Dot is a dot of a dot
 - [leafgarland/typescript-vim](https://github.com/leafgarland/typescript-vim) - Typescript syntax files for Vim
 - [christoomey/vim-system-copy](https://github.com/christoomey/vim-system-copy) - Vim plugin for copying to the system clipboard with text-objects and motions
 - [williamjameshandley/vimteractive](https://github.com/williamjameshandley/vimteractive) - Send commands from text to interactive programs
