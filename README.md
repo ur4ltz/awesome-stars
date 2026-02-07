@@ -5082,6 +5082,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
@@ -7892,7 +7893,7 @@
 - [zenith391/OCEmu](https://github.com/zenith391/OCEmu) - OpenComputers Emulator in Lua
 - [latentflip/game-of-life-lua](https://github.com/latentflip/game-of-life-lua) - Game of life in lua
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
-- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
+- [benbrastmckie/nvim](https://github.com/benbrastmckie/nvim) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [matze/configs](https://github.com/matze/configs) - Dot files
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Atom one theme
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
@@ -8524,7 +8525,6 @@
 
 ## MDX 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
 
 ## Makefile 
@@ -9484,6 +9484,7 @@
 - [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
 - [Jason2866/ESP_Flasher](https://github.com/Jason2866/ESP_Flasher) - Tasmota Flasher for ESP8266 and ESP32x :alien:
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
+- [zpm-zsh/tmux-keys](https://github.com/zpm-zsh/tmux-keys) - Make shortcut toolbar for F1-F12 keys.
 - [alberti42/tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - 🚀 Open any kind of link with highly customizable matching patterns
 - [vcs-python/g](https://github.com/vcs-python/g) - g: Sync your current directories VCS (or reach for one via `--cwd`)
 - [vcs-python/libvcs](https://github.com/vcs-python/libvcs) - ⚙️ Lite, typed, pythonic utilities for git, svn, mercurial, etc.
@@ -10711,6 +10712,7 @@
 
 ## Shell 
 
+- [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds) - FFmpeg Builds for yt-dlp
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night.
 - [okapia/zsh-viexchange](https://github.com/okapia/zsh-viexchange) - zsh plugin similar to vim-exchange
@@ -10737,7 +10739,6 @@
 - [peterhellberg/dircolors-jellybeans](https://github.com/peterhellberg/dircolors-jellybeans) - Dircolors suitable for use with jellybeans.vim
 - [zpm-zsh/colors](https://github.com/zpm-zsh/colors) - Enhanced colors for zsh
 - [zpm-zsh/bookmarks](https://github.com/zpm-zsh/bookmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
-- [zpm-zsh/tmux-keys](https://github.com/zpm-zsh/tmux-keys) - Make shortcut toolbar for F1-F12 keys.
 - [zpm-zsh/ls](https://github.com/zpm-zsh/ls) - Zsh plugin for ls
 - [zpm-zsh/zpm-readme](https://github.com/zpm-zsh/zpm-readme) - Plugin for zpm
 - [zpm-zsh/zpm-info](https://github.com/zpm-zsh/zpm-info) - Plugin for zpm, show info about zsh plugin
