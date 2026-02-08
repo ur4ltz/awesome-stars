@@ -3257,7 +3257,6 @@
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [AlexGyver/LEDcube](https://github.com/AlexGyver/LEDcube) - 8x8x8 LED cube on Arduino
-- [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [fluxbox/fluxbox](https://github.com/fluxbox/fluxbox) - Fluxbox Window Manager
 - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
@@ -4696,6 +4695,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [elliot40404/ssm](https://github.com/elliot40404/ssm) - Simple SSH Manager
 - [viccon/pulse](https://github.com/viccon/pulse) - Like a fitness tracker for your coding sessions
+- [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) - sort json objects plugin for neovim
 - [3rd/syslang](https://github.com/3rd/syslang) - Syslang is an opinionated document syntax inspired by Org, Markdown, and HyperLists.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
@@ -4817,6 +4817,7 @@
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [chayward1/users](https://github.com/chayward1/users) - User accounts and persistent sessions for peons
 - [johejo/lsm](https://github.com/johejo/lsm) - Language Server Manager
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [stamblerre/gocode](https://github.com/stamblerre/gocode) - An autocompletion daemon for the Go programming language
 - [mdempsky/gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
@@ -5563,6 +5564,7 @@
 - [jberger/Galileo](https://github.com/jberger/Galileo) - A Simple Modern Perl CMS
 - [luvit/luvit.io](https://github.com/luvit/luvit.io) - Source to luvit.io
 - [Colorsublime/Colorsublime-Themes](https://github.com/Colorsublime/Colorsublime-Themes) - Colorsublime themes collection
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
@@ -5837,7 +5839,6 @@
 - [pi-sigma/gruvbox.nvim](https://github.com/pi-sigma/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [ph1losof/ecolog.nvim](https://github.com/ph1losof/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [vu1xan/.config](https://github.com/vu1xan/.config) - 
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
 - [MahanRahmati/blink-nerdfont.nvim](https://github.com/MahanRahmati/blink-nerdfont.nvim) - 
 - [moyiz/blink-emoji.nvim](https://github.com/moyiz/blink-emoji.nvim) - Emoji source for blink.cmp.
@@ -6264,7 +6265,6 @@
 - [tomiis4/hypersonic.nvim](https://github.com/tomiis4/hypersonic.nvim) - A Neovim plugin that provides an explanation for regular expressions.
 - [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) - A multi cursor plugin for Neovim.
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
-- [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) - sort json objects plugin for neovim
 - [thibthib18/glab.nvim](https://github.com/thibthib18/glab.nvim) - 
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) - A neovim plugin to navigate and execute code cells
@@ -9066,7 +9066,6 @@
 - [jsravn/iosevka-emacs](https://github.com/jsravn/iosevka-emacs) - iosevka fonts modified to support emacs ligatures
 - [dominikh/yasnippet-go](https://github.com/dominikh/yasnippet-go) - 
 - [h3xx/newsbeuter-colors-neonwolf](https://github.com/h3xx/newsbeuter-colors-neonwolf) - Newsbeuter news reader color scheme based on badwolf
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [dibyendumajumdar/ravi-vscode-debugger](https://github.com/dibyendumajumdar/ravi-vscode-debugger) - VSCode Debug Adapter for Ravi / Lua 5.3
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [pedh/emacs.d](https://github.com/pedh/emacs.d) - My Emacs config
@@ -10463,6 +10462,7 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
@@ -10661,6 +10661,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
+- [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [joajfreitas/marcador](https://github.com/joajfreitas/marcador) - minimal bookmark manager with rofi front end.
@@ -13239,7 +13240,6 @@
 ## YARA 
 
 - [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## YASnippet 
 
