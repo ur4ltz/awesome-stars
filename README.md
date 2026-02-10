@@ -307,6 +307,7 @@
 
 ## C 
 
+- [geoff1111/jim-ncurses](https://github.com/geoff1111/jim-ncurses) - wtui is a draft jimtcl extension. It binds ncurses.
 - [muzkr/moto](https://github.com/muzkr/moto) - Modern Bootloader for Quansheng UV-K5 (V3) and Variants
 - [muzkr/KISS](https://github.com/muzkr/KISS) - Brain-Friendly Firmware for the Quansheng UV-K5 (V3) and Variants
 - [OneOfEleven/M181-LCR-Meter-Firmware](https://github.com/OneOfEleven/M181-LCR-Meter-Firmware) - Re-worked M181 LCR meter firmware, original by Jaishankar M
@@ -1767,6 +1768,10 @@
 
 ## C++ 
 
+- [Gnaddl/GameOfLife](https://github.com/Gnaddl/GameOfLife) - John Conway's Game of Life on an Arduino with a graphic display
+- [Gnaddl/CANView](https://github.com/Gnaddl/CANView) - Arduino sketch to display messages on a CAN bus
+- [Gnaddl/Morsesender](https://github.com/Gnaddl/Morsesender) - Arduino sketch for sending Morse code.
+- [Gnaddl/ArduSDR](https://github.com/Gnaddl/ArduSDR) - Software Defined Radio for Arduino Uno with Elektor SDR Shield.
 - [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra) - Deep ghidra decompiler and sleigh disassembler integration for rizin
 - [AndrejChoo/Cross-platform-avrdude-GUI](https://github.com/AndrejChoo/Cross-platform-avrdude-GUI) - Простая кроссплатформенная графическая оболочка для avrdude, написанная на Qt.
 - [TeknoTrek/Si5351-Clock-Generator-for-Arduino-Projects](https://github.com/TeknoTrek/Si5351-Clock-Generator-for-Arduino-Projects) - Si5351 Clock Generator for Arduino Projects Generate precise clock signals using the Si5351 module and Arduino Nano. Features: Stable clock outputs with Si5351. Rotary encoder for easy frequency adjus
@@ -5887,7 +5892,6 @@
 - [bydlw98/blink-cmp-env](https://github.com/bydlw98/blink-cmp-env) - Environment variables source for blink.cmp
 - [marcoSven/blink-cmp-yanky](https://github.com/marcoSven/blink-cmp-yanky) - 
 - [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) - Completion source using tmux for blink.cmp
-- [netmute/ctags-lsp.nvim](https://github.com/netmute/ctags-lsp.nvim) - Neovim configuration for ctags-lsp
 - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
 - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [jmbuhr/cmp-pandoc-references](https://github.com/jmbuhr/cmp-pandoc-references) - A source for nvim-cmp, providing completion for bibliography, reference and cross-ref items in Pandoc/Markdown.
@@ -6660,7 +6664,7 @@
 - [EricDriussi/remember-me.nvim](https://github.com/EricDriussi/remember-me.nvim) - Super simple and non-intrusive session management for your projects
 - [trmckay/based.nvim](https://github.com/trmckay/based.nvim) - Neovim plugin to convert numberical base of selection or current word
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
-- [uloco/bluloco.nvim](https://github.com/uloco/bluloco.nvim) - bluloco theme port for neovim
+- [uloco/bluloco.nvim](https://github.com/uloco/bluloco.nvim) - bluloco theme for neovim
 - [cvigilv/esqueleto.nvim](https://github.com/cvigilv/esqueleto.nvim) - Reduce your boilerplate code the lazy-bones way
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation
 - [jgm/lcmark](https://github.com/jgm/lcmark) - Flexible CommonMark converter
@@ -8711,6 +8715,7 @@
 
 ## Others 
 
+- [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and transmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR or SDRplay and signal processing using GNU Radio on Raspberry PI. GUI on a web b
 - [arm8686/FT2232HL-Board](https://github.com/arm8686/FT2232HL-Board) - USB to dual UART / SPI / I2C / JTAG / FIFO / Bit-Bang...
 - [gargomoma/fakeTec_pcb](https://github.com/gargomoma/fakeTec_pcb) - A low-cost nrf52 device.
 - [NanoVHF/Meshtastic-DIY](https://github.com/NanoVHF/Meshtastic-DIY) - 
@@ -9462,6 +9467,8 @@
 
 ## Python 
 
+- [AngainorDev/Picoth](https://github.com/AngainorDev/Picoth) - An OTP enabled macro keyboard based upon a Rapberry Pico and RGB keypad base from Pimoroni.
+- [darksidelemm/supersdr](https://github.com/darksidelemm/supersdr) - SuperSDR: an advanced KiwiSDR client with CAT transceiver integration
 - [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
 - [myxdvz/booktree](https://github.com/myxdvz/booktree) - Goes thru a bunch of media files and builds a tree structure
