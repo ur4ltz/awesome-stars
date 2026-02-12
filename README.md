@@ -1407,7 +1407,6 @@
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Tomas-M/posixovl](https://github.com/Tomas-M/posixovl) - POSIX-overlay filesystem
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
-- [hiroshiyui/epgrab](https://github.com/hiroshiyui/epgrab) - Grab DVB EPG data.
 - [da-nie/SimplyVGAVideoCard](https://github.com/da-nie/SimplyVGAVideoCard) - Простейшая VGA-видеокарта на Atmega168-20.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [j2969719/doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander (third-party)
@@ -9490,7 +9489,6 @@
 - [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
 - [Jason2866/ESP_Flasher](https://github.com/Jason2866/ESP_Flasher) - Tasmota Flasher for ESP8266 and ESP32x :alien:
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
-- [zpm-zsh/tmux-keys](https://github.com/zpm-zsh/tmux-keys) - Make shortcut toolbar for F1-F12 keys.
 - [alberti42/tmux-fzf-links](https://github.com/alberti42/tmux-fzf-links) - 🚀 Open any kind of link with highly customizable matching patterns
 - [vcs-python/g](https://github.com/vcs-python/g) - g: Sync your current directories VCS (or reach for one via `--cwd`)
 - [vcs-python/libvcs](https://github.com/vcs-python/libvcs) - ⚙️ Lite, typed, pythonic utilities for git, svn, mercurial, etc.
@@ -10651,6 +10649,7 @@
 - [Luz/hexdino](https://github.com/Luz/hexdino) - A hex editor with vim like keybindings written in Rust.
 - [sebastiencs/rustorrent](https://github.com/sebastiencs/rustorrent) - A BitTorrent library implemented in Rust
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [hiroshiyui/epgrab](https://github.com/hiroshiyui/epgrab) - Grab DVB EPG data.
 - [jwilm/i3-vim-focus](https://github.com/jwilm/i3-vim-focus) - Vim plugin for seamless navigation between i3 and vim
 - [shuhei/colortty](https://github.com/shuhei/colortty) - 🎨 A utility to generate color schemes for alacritty
 - [sashaweiss/itree](https://github.com/sashaweiss/itree) - Interactively navigable version of `tree`, built in Rust
@@ -10747,6 +10746,7 @@
 - [peterhellberg/dircolors-jellybeans](https://github.com/peterhellberg/dircolors-jellybeans) - Dircolors suitable for use with jellybeans.vim
 - [zpm-zsh/colors](https://github.com/zpm-zsh/colors) - Enhanced colors for zsh
 - [zpm-zsh/bookmarks](https://github.com/zpm-zsh/bookmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
+- [zpm-zsh/tmux-keys](https://github.com/zpm-zsh/tmux-keys) - Make shortcut toolbar for F1-F12 keys.
 - [zpm-zsh/ls](https://github.com/zpm-zsh/ls) - Zsh plugin for ls
 - [zpm-zsh/zpm-readme](https://github.com/zpm-zsh/zpm-readme) - Plugin for zpm
 - [zpm-zsh/zpm-info](https://github.com/zpm-zsh/zpm-info) - Plugin for zpm, show info about zsh plugin
