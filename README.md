@@ -10649,7 +10649,7 @@
 - [Luz/hexdino](https://github.com/Luz/hexdino) - A hex editor with vim like keybindings written in Rust.
 - [sebastiencs/rustorrent](https://github.com/sebastiencs/rustorrent) - A BitTorrent library implemented in Rust
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [hiroshiyui/epgrab](https://github.com/hiroshiyui/epgrab) - Grab DVB EPG data.
+- [hiroshiyui/epgrab](https://github.com/hiroshiyui/epgrab) - Grab DVB EPG data from Linux DVB-T devices. EPGrab tunes to each frequency in your channel list, reads EIT (Event Information Table) sections from the transport stream, and displays programme schedule
 - [jwilm/i3-vim-focus](https://github.com/jwilm/i3-vim-focus) - Vim plugin for seamless navigation between i3 and vim
 - [shuhei/colortty](https://github.com/shuhei/colortty) - 🎨 A utility to generate color schemes for alacritty
 - [sashaweiss/itree](https://github.com/sashaweiss/itree) - Interactively navigable version of `tree`, built in Rust
@@ -11284,6 +11284,7 @@
 - [umireon/luaver](https://github.com/umireon/luaver) - Lua Version Manager - Managing and switching between different versions of Lua, LuaJIT and Luarocks made easy
 - [siffiejoe/lua-travis](https://github.com/siffiejoe/lua-travis) - Helper files for using Travis-CI with Lua projects.
 - [balena-io-experimental/audio](https://github.com/balena-io-experimental/audio) - Audio building block for balenaOS, based on pulseaudio.
+- [TheBB/dotfiles](https://github.com/TheBB/dotfiles) - Configuration files
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [iocanel/kubemenu](https://github.com/iocanel/kubemenu) - Kubernetes tasks via dmenu
 - [caarlos0-graveyard/zsh-git-sync](https://github.com/caarlos0-graveyard/zsh-git-sync) - A zsh plugin to sync git repositories and clean them up.
@@ -12455,7 +12456,6 @@
 - [sroccaserra/dotfiles](https://github.com/sroccaserra/dotfiles) - 
 - [conweller/brace-yourself](https://github.com/conweller/brace-yourself) - Vim Bracket Matching
 - [conweller/muted.vim](https://github.com/conweller/muted.vim) - A low contrast colorscheme for vim
-- [TheBB/dotfiles](https://github.com/TheBB/dotfiles) - Configuration files
 - [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 - [tjdevries/cyclist.vim](https://github.com/tjdevries/cyclist.vim) - cycle + listchars
 - [UncleBill/prism.vim](https://github.com/UncleBill/prism.vim) - Set different but certain colorschemes for different working directories (mostly)
@@ -13265,7 +13265,7 @@
 
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [bagggage/bamos](https://github.com/bagggage/bamos) - Open-source operating system
+- [bagggage/bamos](https://github.com/bagggage/bamos) - An open-source operating system with its own kernel
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems
 - [marler8997/anyzig](https://github.com/marler8997/anyzig) - One zig to rule them all.
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
