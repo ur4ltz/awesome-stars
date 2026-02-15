@@ -183,6 +183,8 @@
 
 ## Assembly 
 
+- [ve3wwg/avr](https://github.com/ve3wwg/avr) - AVR code
+- [ve3wwg/risc-v](https://github.com/ve3wwg/risc-v) - RISC-V Assembly Language Programming: Using ESP32-C3 and QEMU
 - [UN7FGO/ATTINY2313_FREQMETER](https://github.com/UN7FGO/ATTINY2313_FREQMETER) - Simple freqmeter
 - [fp64lib/fp64lib](https://github.com/fp64lib/fp64lib) - Handcrafted 64-bit floating point routines for AVR/arduino microprocessors
 - [1888games/ArlasoftC64](https://github.com/1888games/ArlasoftC64) - 
@@ -307,6 +309,9 @@
 
 ## C 
 
+- [ve3wwg/stm32f4](https://github.com/ve3wwg/stm32f4) - STM32F4 Repository
+- [ve3wwg/stm32f103c8t6](https://github.com/ve3wwg/stm32f103c8t6) - libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU
+- [Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC](https://github.com/Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC) - Source code for 'Beginning STM32: Developing with FreeRTOS, libopencm3 and GCC' by Warren Gay
 - [geoff1111/jim-ncurses](https://github.com/geoff1111/jim-ncurses) - wtui is a draft jimtcl extension. It binds ncurses.
 - [muzkr/moto](https://github.com/muzkr/moto) - Modern Bootloader for Quansheng UV-K5 (V3) and Variants
 - [muzkr/KISS](https://github.com/muzkr/KISS) - Brain-Friendly Firmware for the Quansheng UV-K5 (V3) and Variants
@@ -385,7 +390,7 @@
 - [martin-ger/uMQTTBroker](https://github.com/martin-ger/uMQTTBroker) - MQTT Broker library for ESP8266 Arduino
 - [martin-ger/esp_slip_router](https://github.com/martin-ger/esp_slip_router) - A SLIP to WiFi router
 - [thomasbonr/esp32_nat_router_WPA2](https://github.com/thomasbonr/esp32_nat_router_WPA2) - A simple NAT Router for the ESP32,
-- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
+- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - An AI-enabled NAT Router/Firewall for the ESP32
 - [vadrov/stm32-display-spi-dma](https://github.com/vadrov/stm32-display-spi-dma) - Connecting the displays to the stm32 microcontroller via spi with DMA (only CMSIS and LL)
 - [Devilbinder/ATMEGA328P_C](https://github.com/Devilbinder/ATMEGA328P_C) - This is the supporting repository for the ATmega328P Programming video series.
 - [pduke/UNO_TPI](https://github.com/pduke/UNO_TPI) - A TPI programmer that runs on Arduino UNO.
@@ -1767,6 +1772,8 @@
 
 ## C++ 
 
+- [ve3wwg/esp32_freertos](https://github.com/ve3wwg/esp32_freertos) - ESP32 FreeRTOS Demonstrations
+- [ve3wwg/FreeRTOS_for_ESP32](https://github.com/ve3wwg/FreeRTOS_for_ESP32) - FreeRTOS for ESP32-Arduino: ISBN 978-1-907920-93-6
 - [Gnaddl/GameOfLife](https://github.com/Gnaddl/GameOfLife) - John Conway's Game of Life on an Arduino with a graphic display
 - [Gnaddl/CANView](https://github.com/Gnaddl/CANView) - Arduino sketch to display messages on a CAN bus
 - [Gnaddl/Morsesender](https://github.com/Gnaddl/Morsesender) - Arduino sketch for sending Morse code.
@@ -5549,7 +5556,7 @@
 - [candy-chat/candy](https://github.com/candy-chat/candy) - JavaScript-based multi-user chat client for XMPP.
 - [oxpa/www.jabber.ru](https://github.com/oxpa/www.jabber.ru) - Jabber.ru website
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [zhovner/zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
 - [sergioramos/jsctags](https://github.com/sergioramos/jsctags) - jsctags generator using tern
@@ -5867,7 +5874,7 @@
 - [roosta/telescope-folds.nvim](https://github.com/roosta/telescope-folds.nvim) - Neovim plugin that lets you fuzzy search for folds in a file using Telescope.
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
 - [broomer/gruvbox.nvim](https://github.com/broomer/gruvbox.nvim) - Lua port of the most famous vim colorscheme
-- [vargasd/enhansi](https://github.com/vargasd/enhansi) - Enhanced 16-color ANSI colorscheme for Neovim
+- [vargasd/enhansi](https://github.com/vargasd/enhansi) - Color schemes that work with your terminal palette
 - [michaelrommel/gruvbox.nvim](https://github.com/michaelrommel/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [minhtrinh06/gruvbox.nvim](https://github.com/minhtrinh06/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [mrvon/gruvbox.nvim](https://github.com/mrvon/gruvbox.nvim) - Lua port of the most famous vim colorscheme
