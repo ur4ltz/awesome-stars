@@ -309,6 +309,10 @@
 
 ## C 
 
+- [prtzl/stm32](https://github.com/prtzl/stm32) - Base project for STM32 with a bunch of ways to build on all platforms
+- [devttys0/libmpsse](https://github.com/devttys0/libmpsse) - Open source library for SPI/I2C control via FTDI chips
+- [prtzl/Embedded_videos](https://github.com/prtzl/Embedded_videos) - Contents for my videos on embedded programming on Linux with STM32
+- [lowbyteproductions/bare-metal-series](https://github.com/lowbyteproductions/bare-metal-series) - Code for the "Bare Metal Series" videos
 - [ve3wwg/stm32f4](https://github.com/ve3wwg/stm32f4) - STM32F4 Repository
 - [ve3wwg/stm32f103c8t6](https://github.com/ve3wwg/stm32f103c8t6) - libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU
 - [Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC](https://github.com/Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC) - Source code for 'Beginning STM32: Developing with FreeRTOS, libopencm3 and GCC' by Warren Gay
@@ -5179,6 +5183,7 @@
 
 ## Haskell 
 
+- [ners/trilby](https://github.com/ners/trilby) - 👒 Trilby is a NixOS-based operating system that is modeled after Fedora Linux. It provides new users with sensible defaults and a great out-of-the-box experience.
 - [Airsequel/SQLiteDAV](https://github.com/Airsequel/SQLiteDAV) - WebDAV server that maps an SQLite database to directories/files
 - [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -8539,6 +8544,9 @@
 
 ## Makefile 
 
+- [libopencm3/libopencm3-template](https://github.com/libopencm3/libopencm3-template) - Simple empty template to base your poject on
+- [libopencm3/libopencm3-miniblink](https://github.com/libopencm3/libopencm3-miniblink) - blinkies for _any_ board supported. Useful for testing your toolchain and build environment
+- [libopencm3/libopencm3-examples](https://github.com/libopencm3/libopencm3-examples) - Simple example projects showing how to use libopencm3.
 - [radareorg/radare2-snap](https://github.com/radareorg/radare2-snap) - Radare2 snap and docker repository
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
@@ -9473,6 +9481,8 @@
 
 ## Python 
 
+- [xyproto/cxx](https://github.com/xyproto/cxx) - :electric_plug: Configuration-free utility for building, testing and packaging executables written in C++. Can auto-detect compilation flags based on includes, via the package system and pkg-config.
+- [ussserrr/stm32pio](https://github.com/ussserrr/stm32pio) - Automate managing of STM32CubeMX + PlatformIO projects
 - [AngainorDev/Picoth](https://github.com/AngainorDev/Picoth) - An OTP enabled macro keyboard based upon a Rapberry Pico and RGB keypad base from Pimoroni.
 - [darksidelemm/supersdr](https://github.com/darksidelemm/supersdr) - SuperSDR: an advanced KiwiSDR client with CAT transceiver integration
 - [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
@@ -11674,6 +11684,10 @@
 
 ## TypeScript 
 
+- [Marus/cortex-debug-dp-stm32f1](https://github.com/Marus/cortex-debug-dp-stm32f1) - Device Support Pack for Cortex-Debug for the STM32F1 family of microcontrollers.
+- [Marus/cortex-debug-db-stm32f4](https://github.com/Marus/cortex-debug-db-stm32f4) - Device Support Pack for STM32F4 Family
+- [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
+- [7bnx/Cortex-Builder](https://github.com/7bnx/Cortex-Builder) - Write, Build, Debug for ARM cortex in Visual Studio Code
 - [Acode-Foundation/acode-plugin-docs](https://github.com/Acode-Foundation/acode-plugin-docs) - Acode plugin documentation
 - [Acode-Foundation/acode-site-ui](https://github.com/Acode-Foundation/acode-site-ui) - 
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
