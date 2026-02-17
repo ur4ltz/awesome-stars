@@ -309,6 +309,7 @@
 
 ## C 
 
+- [NicksonYap/digitalWriteFast](https://github.com/NicksonYap/digitalWriteFast) - Arduino library for faster digitalWrite using port manipulation and macro for ease in pin assignments.
 - [prtzl/stm32](https://github.com/prtzl/stm32) - Base project for STM32 with a bunch of ways to build on all platforms
 - [devttys0/libmpsse](https://github.com/devttys0/libmpsse) - Open source library for SPI/I2C control via FTDI chips
 - [prtzl/Embedded_videos](https://github.com/prtzl/Embedded_videos) - Contents for my videos on embedded programming on Linux with STM32
@@ -666,7 +667,6 @@
 - [espressif/esp-insights](https://github.com/espressif/esp-insights) - ESP Insights: A remote diagnostics/observability framework for connected devices
 - [vadrov/stm32-i2s-audio-dac-pcm5102a](https://github.com/vadrov/stm32-i2s-audio-dac-pcm5102a) - Connecting the PCM5102A audio DAC to the STM32 microcontroller via I2S with DMA. Without HAL (only CMSIS and LL)
 - [espressif/esp-rainmaker](https://github.com/espressif/esp-rainmaker) - ESP RainMaker Agent for firmware development
-- [daddel80/notepadpp-multireplace](https://github.com/daddel80/notepadpp-multireplace) - MultiReplace is a Notepad++ plugin for advanced multi-string replacements. It supports reusable lists, CSV column targeting, highlighting, and external data lookups. All replacements can be enhanced w
 - [PaulStoffregen/ILI9341_t3](https://github.com/PaulStoffregen/ILI9341_t3) - Optimized ILI9341 TFT Library
 - [lexus2k/ssd1306](https://github.com/lexus2k/ssd1306) - Driver for SSD1306, SSD1331, SSD1351, IL9163, ILI9341, ST7735, PCD8544, Nokia 5110 displays running on Arduino/ESP32/Linux (Rasperry) platforms
 - [01Space/ESP32-C3-0.42LCD](https://github.com/01Space/ESP32-C3-0.42LCD) - 
@@ -2065,6 +2065,7 @@
 - [jake-is-ESD-protected/ESP32debugging_guide](https://github.com/jake-is-ESD-protected/ESP32debugging_guide) - A very comprehensive ESP32 Debugging Guide.
 - [fdivitto/FabGL](https://github.com/fdivitto/FabGL) - ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal
 - [adafruit/Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341) - Library for Adafruit ILI9341 displays
+- [daddel80/notepadpp-multireplace](https://github.com/daddel80/notepadpp-multireplace) - MultiReplace is a Notepad++ plugin for advanced multi-string replacements. It supports reusable lists, CSV column targeting, highlighting, and external data lookups. All replacements can be enhanced w
 - [vinsworldcom/nppGitSCM](https://github.com/vinsworldcom/nppGitSCM) - Notepad++ Git SCM
 - [Ebiroll/DSRemote](https://github.com/Ebiroll/DSRemote) - Rigol oscilloscope remote control, mainly for use with https://github.com/Ebiroll/esp32_sigrok
 - [lexus2k/tinyproto](https://github.com/lexus2k/tinyproto) - Tiny Software Protocol for communication over UART, SPI, etc
@@ -4003,7 +4004,7 @@
 - [arjanadriaanse/lsp-pascal](https://github.com/arjanadriaanse/lsp-pascal) - Emacs LSP client for Pascal
 - [rougier/org-outer-indent](https://github.com/rougier/org-outer-indent) - An outer indentation org mode
 - [rougier/emacs-svg-icon](https://github.com/rougier/emacs-svg-icon) - An emacs library to create SVG icons on the fly
-- [a-schaefers/systemE](https://github.com/a-schaefers/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
+- [cypherpunk2001/systemE](https://github.com/cypherpunk2001/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [a-schaefers/grokEmacs](https://github.com/a-schaefers/grokEmacs) - just an Emacs config
 - [bard/emacs-director](https://github.com/bard/emacs-director) - Script Emacs sessions for automated screencasts and end-to-end tests
 - [tarsius/frameshot](https://github.com/tarsius/frameshot) - Take screenshots of a frame
@@ -6415,6 +6416,7 @@
 - [smjonas/duplicate.nvim](https://github.com/smjonas/duplicate.nvim) - Neovim plugin to duplicate a textobject.
 - [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
 - [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) - Neovim plugin that simplifies macros, enhancing productivity with harmony.
+- [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) - Use github code search within neovim
 - [nazo6/nvim](https://github.com/nazo6/nvim) - 
 - [vsedov/PoloVim](https://github.com/vsedov/PoloVim) - Some really weird setup, am I a plugin Hoe  ? im not sure ?
 - [ten3roberts/qf.nvim](https://github.com/ten3roberts/qf.nvim) - Extends the default quickfix and location lists for neovim
@@ -8544,6 +8546,8 @@
 
 ## Makefile 
 
+- [lowleveltv/rp2040-freertos](https://github.com/lowleveltv/rp2040-freertos) - FreeRTOS on the RP2040
+- [lowleveltv/stm32-bluepill-blink](https://github.com/lowleveltv/stm32-bluepill-blink) - 
 - [libopencm3/libopencm3-template](https://github.com/libopencm3/libopencm3-template) - Simple empty template to base your poject on
 - [libopencm3/libopencm3-miniblink](https://github.com/libopencm3/libopencm3-miniblink) - blinkies for _any_ board supported. Useful for testing your toolchain and build environment
 - [libopencm3/libopencm3-examples](https://github.com/libopencm3/libopencm3-examples) - Simple example projects showing how to use libopencm3.
@@ -10492,7 +10496,7 @@
 - [ul/kak-tree](https://github.com/ul/kak-tree) - Structural selections for Kakoune
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
 - [AE9RB/basic-lang](https://github.com/AE9RB/basic-lang) - BASIC: Microcomputer Edition
-- [Strophox/tetrs](https://github.com/Strophox/tetrs) - Tetromino Game Engine + Terminal Application in Rust
+- [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - A cross-platform terminal game where tetrominos fall and stack.
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -10534,7 +10538,6 @@
 - [naryand/mainline-dht](https://github.com/naryand/mainline-dht) - BitTorrent DHT protocol implementation (WIP)
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
-- [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) - Use github code search within neovim
 - [w1png/tm1637-avr-hal](https://github.com/w1png/tm1637-avr-hal) - A simple library for interfacing with the tm1637 using avr-hal.
 - [noib3/crop](https://github.com/noib3/crop) - 🌾 A pretty fast text rope
 - [crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator) - Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition
