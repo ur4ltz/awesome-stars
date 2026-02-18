@@ -191,6 +191,7 @@
 - [apple2abandonware/abandonware](https://github.com/apple2abandonware/abandonware) - Apple II Abandonware
 - [jethomson/Project-Ouroboros](https://github.com/jethomson/Project-Ouroboros) - This repo contains USBaspLoader bootloaders modified to run on an inexpensive USBasp programmer, and a few demo programs.
 - [afiskon/retro-computers](https://github.com/afiskon/retro-computers) - Projects, related to retro-computers
+- [STMicroelectronics/STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4) - STM32Cube MCU Full Package for the STM32G4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [michalin/ZX2020](https://github.com/michalin/ZX2020) - A super-simple Z80 based computer that runs CP/M
 - [michalin/ZX2022](https://github.com/michalin/ZX2022) - Another DIY Z80 Computer With CP/M
 - [skx/z80-playground-cpm-fat](https://github.com/skx/z80-playground-cpm-fat) - CP/M for the Z80 Playground that runs on the FAT disk format
@@ -442,7 +443,6 @@
 - [STMicroelectronics/STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL) - STM32Cube MCU Full FW Package for the STM32WL series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on boards provided by ST (Nucleo boards)
 - [STMicroelectronics/STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5) - Full Firmware Package for the STM32U5 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
 - [STMicroelectronics/STM32CubeG0](https://github.com/STMicroelectronics/STM32CubeG0) - STM32Cube MCU Full Package for the STM32G0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
-- [STMicroelectronics/STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4) - STM32Cube MCU Full Package for the STM32G4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB) - Full Firmware Package for the STM32WB series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
 - [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4) - STM32Cube MCU Full Package for the STM32L4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7) - STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
@@ -885,6 +885,7 @@
 - [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
 - [RobTillaart/dateTimeHelpers](https://github.com/RobTillaart/dateTimeHelpers) - Arduino library with date and time helper functions.
 - [RobTillaart/IEEE754tools](https://github.com/RobTillaart/IEEE754tools) - Arduino library to manipulate IEEE754 float numbers fast. (experimental)
+- [RobTillaart/AtomicWeight](https://github.com/RobTillaart/AtomicWeight) - Arduino library for atomic weights from the periodic table of elements.
 - [Ebiroll/esp32_sigrok](https://github.com/Ebiroll/esp32_sigrok) - Simple sigrok sump implementation
 - [jpbarraca/LogicAlNucleo](https://github.com/jpbarraca/LogicAlNucleo) - A SUMP compatible Logical Analyser for the STM32F4
 - [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - Firmware source and binaries for the RP2040-based Debug Probe accessory
@@ -2696,7 +2697,6 @@
 - [RobTillaart/statHelpers](https://github.com/RobTillaart/statHelpers) - Arduino library with a number of statistic helper functions.
 - [RobTillaart/SRF05](https://github.com/RobTillaart/SRF05) - Arduino library for SRF05 distance sensor with temperature and humidity compensation.
 - [RobTillaart/MCP_DAC](https://github.com/RobTillaart/MCP_DAC) - Arduino library for MCP_DAC MCP48xx and MCP49xx series SPI-DAC
-- [RobTillaart/AtomicWeight](https://github.com/RobTillaart/AtomicWeight) - Arduino library for atomic weights from the periodic table of elements.
 - [RobTillaart/map2colour](https://github.com/RobTillaart/map2colour) - Arduino library for mapping a float to RGB colour spectrum
 - [RobTillaart/LUHN](https://github.com/RobTillaart/LUHN) - Arduino Library for calculating LUHN checksum
 - [RobTillaart/RS485](https://github.com/RobTillaart/RS485) - Arduino library for RS485, half duplex communication
@@ -5493,7 +5493,6 @@
 - [belaviyo/edit-as-html](https://github.com/belaviyo/edit-as-html) - browser extension to integrate external editor to edit HTML node elements
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
-- [silverwind/updates](https://github.com/silverwind/updates) - Flexible dependency update tool
 - [despin/qbittorrent-webui-react](https://github.com/despin/qbittorrent-webui-react) - A custom WebUI to qBitTorrent torrent client. Written in JS and React. (Intended) Material Design compliant
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -8589,7 +8588,6 @@
 - [javalikescript/luaclibs](https://github.com/javalikescript/luaclibs) - Lua and modules for developing stand-alone applications
 - [i3-gnome/i3-gnome](https://github.com/i3-gnome/i3-gnome) - Use i3wm/i3-gaps with GNOME Session infrastructure.
 - [RedHatOfficial/Overpass](https://github.com/RedHatOfficial/Overpass) - Overpass open source web font family — Sponsored by Red Hat
-- [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
 - [openresty/openresty-packaging](https://github.com/openresty/openresty-packaging) - Official OpenResty packaging source and scripts for various Linux distributions and other systems
 - [SPORE/api-description](https://github.com/SPORE/api-description) - SPORE description for API
 - [httpwg/http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
@@ -8733,6 +8731,7 @@
 
 ## Others 
 
+- [jeff-hykin/better-syntax-vsce](https://github.com/jeff-hykin/better-syntax-vsce) - 📦 A VS Code extension-bundle with all the best syntax highlighting
 - [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and transmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR or SDRplay and signal processing using GNU Radio on Raspberry PI. GUI on a web b
 - [arm8686/FT2232HL-Board](https://github.com/arm8686/FT2232HL-Board) - USB to dual UART / SPI / I2C / JTAG / FIFO / Bit-Bang...
 - [gargomoma/fakeTec_pcb](https://github.com/gargomoma/fakeTec_pcb) - A low-cost nrf52 device.
@@ -9155,7 +9154,6 @@
 - [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
-- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [Bodhizafa/kak-rainbow](https://github.com/Bodhizafa/kak-rainbow) - Cursor-centered rainbow highlighter for kakoune
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
@@ -10696,6 +10694,7 @@
 - [maralla/pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager.
 - [daa84/neovim-gtk](https://github.com/daa84/neovim-gtk) - gtk ui for neovim
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
 - [Tobbe/losi](https://github.com/Tobbe/losi) - LiteStep OpenSource Installer
 
 ## SCSS 
@@ -11312,6 +11311,7 @@
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [jessiehildebrandt/dot-fish](https://github.com/jessiehildebrandt/dot-fish) - My personal Fish configuration (GitLab mirror)
+- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [beanaroo/display-visor](https://github.com/beanaroo/display-visor) - Bash script for applying a pre-defined Xorg monitor layout. Useful for tiling window manager users.
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
@@ -11843,6 +11843,7 @@
 - [Koihik/vscode-lua-format](https://github.com/Koihik/vscode-lua-format) - Reformats your Lua source code
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
+- [silverwind/updates](https://github.com/silverwind/updates) - Flexible dependency update tool
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
