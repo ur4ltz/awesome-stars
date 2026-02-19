@@ -310,6 +310,7 @@
 
 ## C 
 
+- [MuratovAS/VScode_Docker_Stm32](https://github.com/MuratovAS/VScode_Docker_Stm32) - VScode и Docker, мощный набор для разработки под embedded system или VSCode + Docker (GCC-ARM + CMake + OpenOCD) = STM32 IDE
 - [NicksonYap/digitalWriteFast](https://github.com/NicksonYap/digitalWriteFast) - Arduino library for faster digitalWrite using port manipulation and macro for ease in pin assignments.
 - [prtzl/stm32](https://github.com/prtzl/stm32) - Base project for STM32 with a bunch of ways to build on all platforms
 - [devttys0/libmpsse](https://github.com/devttys0/libmpsse) - Open source library for SPI/I2C control via FTDI chips
@@ -477,7 +478,7 @@
 - [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
-- [ooweyy/uvllhttpd](https://github.com/ooweyy/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
+- [dschp/uvllhttpd](https://github.com/dschp/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -1777,6 +1778,8 @@
 
 ## C++ 
 
+- [GyverLibs/GyverDS18](https://github.com/GyverLibs/GyverDS18) - Лёгкая библиотека для термометров Dallas DS18b20, обновлённая и более удобная версия библиотеки microDS18B20
+- [esmil/gd32vf103inator](https://github.com/esmil/gd32vf103inator) - Program the GD32VF103 using C, your favourite editor and make
 - [ve3wwg/esp32_freertos](https://github.com/ve3wwg/esp32_freertos) - ESP32 FreeRTOS Demonstrations
 - [ve3wwg/FreeRTOS_for_ESP32](https://github.com/ve3wwg/FreeRTOS_for_ESP32) - FreeRTOS for ESP32-Arduino: ISBN 978-1-907920-93-6
 - [Gnaddl/GameOfLife](https://github.com/Gnaddl/GameOfLife) - John Conway's Game of Life on an Arduino with a graphic display
@@ -3043,7 +3046,6 @@
 - [GyverLibs/GyverUART](https://github.com/GyverLibs/GyverUART) - Лёгкая библиотека для работы с последовательным портом
 - [GyverLibs/GyverTimers](https://github.com/GyverLibs/GyverTimers) - Настройка и контроль прерываний по аппаратным таймерам ATmega328p, ATmega2560
 - [GyverLibs/directTimers](https://github.com/GyverLibs/directTimers) - Библиотека для расширенного ручного управления таймерами ATMega2560, ATMega328, ATMega32u4
-- [GyverLibs/microDS18B20](https://github.com/GyverLibs/microDS18B20) - Легкая и удобная в обращении библиотека для работы с 1-Wire термометрами DS18B20
 - [GyverLibs/GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - Бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
 - [Stan1806/AquaController_2014](https://github.com/Stan1806/AquaController_2014) - Based on ATmega32
 - [luisllamasbinaburo/taller-refactorizacion](https://github.com/luisllamasbinaburo/taller-refactorizacion) - 
@@ -3290,7 +3292,7 @@
 - [andrey-belokon/SyntezSi5351](https://github.com/andrey-belokon/SyntezSi5351) - Simple VFO on Si5351
 - [andrey-belokon/Syntez_Si5351_Si570](https://github.com/andrey-belokon/Syntez_Si5351_Si570) - Universal VFO with Si5351 or/and Si570
 - [JeffersGlass/DDS_VFO](https://github.com/JeffersGlass/DDS_VFO) - Code for the arduino-controlled VFO based on the Si5351 chip
-- [vpyk/emu80v4](https://github.com/vpyk/emu80v4) - Emu80 emulator v.4 source code
+- [vpyk/emu80v4](https://github.com/vpyk/emu80v4) - Emu80 emulator v.4
 - [buggins/coolreader](https://github.com/buggins/coolreader) - Official site of CoolReader project. Sourceforge repository is obsolete.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [chros73/rtorrent-ps-ch](https://github.com/chros73/rtorrent-ps-ch) - :art: Extended rTorrent distribution with UI enhancements, colorization, and some added features.
@@ -4004,7 +4006,7 @@
 - [arjanadriaanse/lsp-pascal](https://github.com/arjanadriaanse/lsp-pascal) - Emacs LSP client for Pascal
 - [rougier/org-outer-indent](https://github.com/rougier/org-outer-indent) - An outer indentation org mode
 - [rougier/emacs-svg-icon](https://github.com/rougier/emacs-svg-icon) - An emacs library to create SVG icons on the fly
-- [cypherpunk2001/systemE](https://github.com/cypherpunk2001/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
+- [emacs-os/systemE](https://github.com/emacs-os/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 - [a-schaefers/grokEmacs](https://github.com/a-schaefers/grokEmacs) - just an Emacs config
 - [bard/emacs-director](https://github.com/bard/emacs-director) - Script Emacs sessions for automated screencasts and end-to-end tests
 - [tarsius/frameshot](https://github.com/tarsius/frameshot) - Take screenshots of a frame
@@ -5724,6 +5726,7 @@
 
 ## Lua 
 
+- [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - 
 - [becknik/blink-cmp-luasnip-choice](https://github.com/becknik/blink-cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp
 - [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration
@@ -11843,7 +11846,7 @@
 - [Koihik/vscode-lua-format](https://github.com/Koihik/vscode-lua-format) - Reformats your Lua source code
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [silverwind/updates](https://github.com/silverwind/updates) - Flexible dependency update tool
+- [silverwind/updates](https://github.com/silverwind/updates) - Dependency update tool for npm, uv and golang
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
