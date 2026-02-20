@@ -310,6 +310,10 @@
 
 ## C 
 
+- [microtechnics-main/stm32-st7735-library](https://github.com/microtechnics-main/stm32-st7735-library) - STM32 library for displays with ST7735 controller.
+- [taburyak/ST7789_SPI_STM32_HAL](https://github.com/taburyak/ST7789_SPI_STM32_HAL) - 
+- [Bodmer/TFT_ST7735](https://github.com/Bodmer/TFT_ST7735) - Arduino graphics library for ST7735 displays with propotional fonts
+- [taburyak/ST7735_SPI_STM32_HAL](https://github.com/taburyak/ST7735_SPI_STM32_HAL) - Driver ST7735 for STM32 on SPI with HAL drivers
 - [MuratovAS/VScode_Docker_Stm32](https://github.com/MuratovAS/VScode_Docker_Stm32) - VScode и Docker, мощный набор для разработки под embedded system или VSCode + Docker (GCC-ARM + CMake + OpenOCD) = STM32 IDE
 - [NicksonYap/digitalWriteFast](https://github.com/NicksonYap/digitalWriteFast) - Arduino library for faster digitalWrite using port manipulation and macro for ease in pin assignments.
 - [prtzl/stm32](https://github.com/prtzl/stm32) - Base project for STM32 with a bunch of ways to build on all platforms
@@ -3416,6 +3420,7 @@
 
 ## CSS 
 
+- [STMicroelectronics/stm32-st7735](https://github.com/STMicroelectronics/stm32-st7735) - Provides the st7735 driver, part of the STM32Cube BSP Component for all STM32xx series.
 - [timkpaine/jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night
 - [johnnybarrels/jupyterlab_onedarkpro](https://github.com/johnnybarrels/jupyterlab_onedarkpro) - One Dark Pro theme for Jupyter Lab
 - [svaarala/duktape-wiki](https://github.com/svaarala/duktape-wiki) - Duktape Wiki
@@ -6546,6 +6551,7 @@
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
 - [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [loctvl842/nvim](https://github.com/loctvl842/nvim) - neovim config using lazy
+- [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) - Complete rewrite. Pure Lua.
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) - 
 - [theSafdarAwan/find-extender.nvim](https://github.com/theSafdarAwan/find-extender.nvim) - extend's the capability of neovim find command's
@@ -8963,7 +8969,6 @@
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [danymat/norg_notes](https://github.com/danymat/norg_notes) - 
 - [AndronixApp/andronix-external-app](https://github.com/AndronixApp/andronix-external-app) - Collection of all the external/third-party softwares for easier processing. We don't own any rights to the files included
-- [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [superjamie/lazyweb](https://github.com/superjamie/lazyweb) - Random scraps of my knowledge
 - [nvim-neorg/library-of-norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - The Library of Alexandria, in .norg
@@ -11690,6 +11695,7 @@
 
 ## TypeScript 
 
+- [GopeedLab/browser-extension](https://github.com/GopeedLab/browser-extension) - A browser extension for Gopeed.
 - [Marus/cortex-debug-dp-stm32f1](https://github.com/Marus/cortex-debug-dp-stm32f1) - Device Support Pack for Cortex-Debug for the STM32F1 family of microcontrollers.
 - [Marus/cortex-debug-db-stm32f4](https://github.com/Marus/cortex-debug-db-stm32f4) - Device Support Pack for STM32F4 Family
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
