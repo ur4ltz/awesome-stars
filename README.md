@@ -4179,7 +4179,7 @@
 - [mjohanning99/dot](https://github.com/mjohanning99/dot) - Config file backup
 - [ZachMassia/.emacs.d](https://github.com/ZachMassia/.emacs.d) - My Emacs Config.
 - [emacs-lsp/lsp-pyright](https://github.com/emacs-lsp/lsp-pyright) - lsp-mode :heart: pyright
-- [minad/consult](https://github.com/minad/consult) - :mag: consult.el - Consulting completing-read
+- [minad/consult](https://github.com/minad/consult) - :mag: consult.el - Search and navigate via completing-read
 - [RyanMillerC/poke-line](https://github.com/RyanMillerC/poke-line) - Minor Emacs mode to show buffer position using a Pokémon!
 - [purcell/flycheck-package](https://github.com/purcell/flycheck-package) - Flycheck checker for elisp package metadata
 - [purcell/flycheck-relint](https://github.com/purcell/flycheck-relint) - Flycheck integration for `relint`, which checks regexps in emacs lisp
@@ -11281,7 +11281,7 @@
 - [sainnhe/tmux-translator](https://github.com/sainnhe/tmux-translator) - Tmux translation plugin powered by popup window.
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [zzzeyez/dots](https://github.com/zzzeyez/dots) - make macos how i like it
-- [danishprakash/dotfiles](https://github.com/danishprakash/dotfiles) - 
+- [danishprakash/dotfiles](https://github.com/danishprakash/dotfiles) - less is more
 - [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, tmux, Git and other stuff
 - [samoshkin/dotfiles](https://github.com/samoshkin/dotfiles) - System settings, configuration files and apps for MacOS. Personal setup
 - [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
