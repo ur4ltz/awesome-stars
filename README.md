@@ -310,6 +310,8 @@
 
 ## C 
 
+- [LonelyWolf/stm32](https://github.com/LonelyWolf/stm32) - STM32 stuff
+- [cropinghigh/sdrpp-tetra-demodulator](https://github.com/cropinghigh/sdrpp-tetra-demodulator) - Tetra demodulator plugin for SDR++ (output can be fed to tetra-rx from osmo-tetra)
 - [microtechnics-main/stm32-st7735-library](https://github.com/microtechnics-main/stm32-st7735-library) - STM32 library for displays with ST7735 controller.
 - [taburyak/ST7789_SPI_STM32_HAL](https://github.com/taburyak/ST7789_SPI_STM32_HAL) - 
 - [Bodmer/TFT_ST7735](https://github.com/Bodmer/TFT_ST7735) - Arduino graphics library for ST7735 displays with propotional fonts
@@ -1782,6 +1784,12 @@
 
 ## C++ 
 
+- [cropinghigh/sdrpp-mirisdr-source](https://github.com/cropinghigh/sdrpp-mirisdr-source) - 
+- [cropinghigh/sdrpp-inmarsatc-demodulator](https://github.com/cropinghigh/sdrpp-inmarsatc-demodulator) - Inmarsat-C TDM demodulator plugin for SDR++
+- [cropinghigh/sdrpp-dvbs-demodulator](https://github.com/cropinghigh/sdrpp-dvbs-demodulator) - DVB-S/DVB-S2 demodulator module for SDR++
+- [cropinghigh/sdrpp-vhfvoiceradio](https://github.com/cropinghigh/sdrpp-vhfvoiceradio) - NFM demod with CTCSS/DCS and DSD
+- [Akceptor/esp32](https://github.com/Akceptor/esp32) - Всяка муть на мікро
+- [Stanislav-developer/Light_Watcher](https://github.com/Stanislav-developer/Light_Watcher) - Телеграм бот який сповіщає про зникнення та появу електромережі з точністю до хвилини, вміє синхронізуватись з реальним часом та збирає мінімальну статистику.
 - [GyverLibs/GyverDS18](https://github.com/GyverLibs/GyverDS18) - Лёгкая библиотека для термометров Dallas DS18b20, обновлённая и более удобная версия библиотеки microDS18B20
 - [esmil/gd32vf103inator](https://github.com/esmil/gd32vf103inator) - Program the GD32VF103 using C, your favourite editor and make
 - [ve3wwg/esp32_freertos](https://github.com/ve3wwg/esp32_freertos) - ESP32 FreeRTOS Demonstrations
@@ -5060,6 +5068,7 @@
 
 ## HTML 
 
+- [cropinghigh/sdrpp-moduledb](https://github.com/cropinghigh/sdrpp-moduledb) - SDR++ Public Community Module DB
 - [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
 - [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
@@ -5436,7 +5445,7 @@
 - [gr2m/octokit-rest-plugin-add-endpoints](https://github.com/gr2m/octokit-rest-plugin-add-endpoints) - @octokit/rest plugin to add endpoint methods based on a routes.json file
 - [gr2m/octokit-rest-plugin-example](https://github.com/gr2m/octokit-rest-plugin-example) - @octokit/rest plugin example
 - [gr2m/before-after-hook](https://github.com/gr2m/before-after-hook) - wrap methods with before/after hooks
-- [zachhardesty7/tamper-monkey-scripts-collection](https://github.com/zachhardesty7/tamper-monkey-scripts-collection) - A collection of scripts to improve user experience and make life just a little bit easier on various websites
+- [zachhardesty7/tamper-monkey-scripts-collection](https://github.com/zachhardesty7/tamper-monkey-scripts-collection) - A collection of userscripts to improve user experience and make life just a little bit easier on various websites
 - [abadc0de/moonwalk](https://github.com/abadc0de/moonwalk) - Zero-friction REST APIs for Lua
 - [nodeca/nntp-server](https://github.com/nodeca/nntp-server) - NNTP server for readers
 - [bkeepers/github-app-example](https://github.com/bkeepers/github-app-example) - 
@@ -8432,7 +8441,7 @@
 - [rkowal/Lua-Omni-Vim-Completion](https://github.com/rkowal/Lua-Omni-Vim-Completion) - omni completion functionality for Vim editor
 - [rgieseke/textredux](https://github.com/rgieseke/textredux) - Text-based interfaces for Textadept
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
-- [jesseleite/dotfiles](https://github.com/jesseleite/dotfiles) - 💾  My dotfiles
+- [jesseleite/dotfiles](https://github.com/jesseleite/dotfiles) - My dotfiles 💾
 - [meric/leftry](https://github.com/meric/leftry) - Leftry - A left-recursion enabled recursive-descent parser combinator library for Lua.
 - [meric/l2l](https://github.com/meric/l2l) - Lisp is Lisp. Lua is Lua. Lisp and Lua as One.
 - [LuaDevelopmentTools/luaformatter](https://github.com/LuaDevelopmentTools/luaformatter) - Beautifies Lua code
@@ -9491,6 +9500,7 @@
 
 ## Python 
 
+- [JPaulMora/Pyrit](https://github.com/JPaulMora/Pyrit) - The famous WPA precomputed cracker, Migrated from Google.
 - [xyproto/cxx](https://github.com/xyproto/cxx) - :electric_plug: Configuration-free utility for building, testing and packaging executables written in C++. Can auto-detect compilation flags based on includes, via the package system and pkg-config.
 - [ussserrr/stm32pio](https://github.com/ussserrr/stm32pio) - Automate managing of STM32CubeMX + PlatformIO projects
 - [AngainorDev/Picoth](https://github.com/AngainorDev/Picoth) - An OTP enabled macro keyboard based upon a Rapberry Pico and RGB keypad base from Pimoroni.
@@ -11695,6 +11705,7 @@
 
 ## TypeScript 
 
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [GopeedLab/browser-extension](https://github.com/GopeedLab/browser-extension) - A browser extension for Gopeed.
 - [Marus/cortex-debug-dp-stm32f1](https://github.com/Marus/cortex-debug-dp-stm32f1) - Device Support Pack for Cortex-Debug for the STM32F1 family of microcontrollers.
 - [Marus/cortex-debug-db-stm32f4](https://github.com/Marus/cortex-debug-db-stm32f4) - Device Support Pack for STM32F4 Family
@@ -11934,6 +11945,7 @@
 
 ## Vim Script 
 
+- [kennypete/vim9-winswap](https://github.com/kennypete/vim9-winswap) - A Vim9 script plugin enabling easy swapping and putting of windows
 - [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) - The undo history visualizer for VIM
 - [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
 - [MarcWeber/vim-addon-mw-utils](https://github.com/MarcWeber/vim-addon-mw-utils) - vim: interpret a file by function and cache file automatically
