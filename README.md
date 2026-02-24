@@ -3262,6 +3262,7 @@
 - [andrey-belokon/NanoVFO](https://github.com/andrey-belokon/NanoVFO) - Simple VFO for portable/micro transceiver based on Si5351 with CW-key
 - [andrey-belokon/UR5FFR_Si5351](https://github.com/andrey-belokon/UR5FFR_Si5351) - Si5351 for Arduino
 - [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [czwinzscher/tetris](https://github.com/czwinzscher/tetris) - Tetris for the terminal.
 - [falconindy/auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -3474,6 +3475,7 @@
 - [davatorium/rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
 - [cyrinux/arc-gruvbox-theme](https://github.com/cyrinux/arc-gruvbox-theme) - Arc grey based theme with some gruvboxed color
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
+- [Murzchnvok/dotfiles](https://github.com/Murzchnvok/dotfiles) - My bspwm dotfiles.
 - [davay/dotfiles_archive](https://github.com/davay/dotfiles_archive) - A collection of dotfiles from my i3 setup
 - [xsisec/openbox_themes](https://github.com/xsisec/openbox_themes) - 
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
@@ -5558,7 +5560,6 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [simonthechipmunk/arduinocontrol](https://github.com/simonthechipmunk/arduinocontrol) - "Arduino Control" Gnome-Shell Extension
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
-- [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [Micdu70/rutorrent-ratiocolor](https://github.com/Micdu70/rutorrent-ratiocolor) - 
 - [id-Software/wolf3d-browser](https://github.com/id-Software/wolf3d-browser) - WOLF3D Browser Version GPL source release
 - [icculus/wolf3d-altright](https://github.com/icculus/wolf3d-altright) - Wolfenstein 3-D: Alt-Right Edition.
@@ -7868,7 +7869,7 @@
 - [s1n7ax/neovim-lua-plugin-boilerplate](https://github.com/s1n7ax/neovim-lua-plugin-boilerplate) - Starter template for creating Neovim Lua plugins
 - [s1n7ax/archived-dotnvim](https://github.com/s1n7ax/archived-dotnvim) - Neovim Lua configuration pre-configured for Java, JavaScript, Typescript etc...
 - [terrortylor/nvim-httpclient](https://github.com/terrortylor/nvim-httpclient) - An async HTTP client for NeoVim
-- [folknor/luash](https://github.com/folknor/luash) - Tiny lua module to write shell scripts with lua (inspired by Python's sh module)
+- [folknor/luash](https://github.com/folknor/luash) - Fork of luash that removes global namespace pollution and improves argument parsing for safer shell scripting with Lua
 - [zserge/luash](https://github.com/zserge/luash) - Tiny lua module to write shell scripts with lua (inspired by Python's sh module)
 - [mkarneim/lua-stream-api](https://github.com/mkarneim/lua-stream-api) - Lua Stream API
 - [Facepunch/garrysmod](https://github.com/Facepunch/garrysmod) - Sandbox mod for the Source Engine
@@ -8573,7 +8574,6 @@
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [Z80-Retro/Z80-Retro-Manual](https://github.com/Z80-Retro/Z80-Retro-Manual) - 
 - [stm32duino/BoardManagerFiles](https://github.com/stm32duino/BoardManagerFiles) - Storage for Arduino Board Manager JSON and package files etc
-- [blackmagic-debug/blackmagic-hardware](https://github.com/blackmagic-debug/blackmagic-hardware) - Hardware design files for the Black Magic Probe
 - [lujji/st-link-dumper](https://github.com/lujji/st-link-dumper) - ST-Link dumper firmware
 - [Sonic-Amiga/logic_analyzer](https://github.com/Sonic-Amiga/logic_analyzer) - Implementation of a SUMP compatible logic analyzer for the Arduino
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
@@ -8844,6 +8844,7 @@
 - [dizcza/rv3032-kicad](https://github.com/dizcza/rv3032-kicad) - RV-3032 Kicad PCB Replacement of DS3231
 - [JohnWSatterfield/Circuit.pdf](https://github.com/JohnWSatterfield/Circuit.pdf) - 
 - [yast/yast-docker](https://github.com/yast/yast-docker) - YaST2 module for docker
+- [blackmagic-debug/blackmagic-hardware](https://github.com/blackmagic-debug/blackmagic-hardware) - Hardware design files for the Black Magic Probe
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [IgrikXD/rpitx-coax-pcb](https://github.com/IgrikXD/rpitx-coax-pcb) - Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment when working with the rpitx package.
 - [IgrikXD/Easy-SDR](https://github.com/IgrikXD/Easy-SDR) - This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on RTL2832U chip.
@@ -10429,7 +10430,6 @@
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [apjanke/ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mtsmfm/language_server-ruby](https://github.com/mtsmfm/language_server-ruby) - A Ruby Language Server implementation
 - [openSUSE/obs-tools](https://github.com/openSUSE/obs-tools) - Set of tools used to help us on OBS development
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
@@ -11389,7 +11389,6 @@
 - [jbomanson/config](https://github.com/jbomanson/config) - Some configuration files that I use
 - [jbomanson/search-doc.kak](https://github.com/jbomanson/search-doc.kak) - Ease browsing of kakoune documentation
 - [fubarhouse/dotfiles-linux](https://github.com/fubarhouse/dotfiles-linux) - My Linux configuration.
-- [Murzchnvok/dotfiles](https://github.com/Murzchnvok/dotfiles) - My bspwm dotfiles.
 - [tom-on-the-internet/sticky-notes](https://github.com/tom-on-the-internet/sticky-notes) - Sticky Notes on your tiling window manager
 - [tom-on-the-internet/fuzzy-clock](https://github.com/tom-on-the-internet/fuzzy-clock) - A bash script that prints the current(ish) time
 - [mradigen/forester](https://github.com/mradigen/forester) - Dotfiles for my i3-gaps rice 'Forester'.
@@ -11903,6 +11902,7 @@
 - [EmmyLua/VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode
 - [trixnz/vscode-lua](https://github.com/trixnz/vscode-lua) - Intellisense and Linting for Lua in VSCode
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [ASDAlexander77/TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) - The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for LUA bytecode
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
