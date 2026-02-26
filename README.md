@@ -3635,6 +3635,8 @@
 
 ## Emacs Lisp 
 
+- [josegpt/display-wttr](https://github.com/josegpt/display-wttr) - Display wttr(weather) in the mode line 🌧️.
+- [ISouthRain/ewth.el](https://github.com/ISouthRain/ewth.el) - Emacs weather for Wttr.in(OpenSource) in modeline.
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [drcxd/emacs.d](https://github.com/drcxd/emacs.d) - Self-contained emacs configuration
@@ -4689,6 +4691,7 @@
 
 ## Go 
 
+- [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply commit suggestions locally
 - [rizinorg/rz-pm](https://github.com/rizinorg/rz-pm) - An official Rizin package manager
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
@@ -5742,6 +5745,7 @@
 
 ## Lua 
 
+- [L3MON4D3/luals-mdgen](https://github.com/L3MON4D3/luals-mdgen) - Generate documentation in markdown from LuaCATS-annotations
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - 
 - [becknik/blink-cmp-luasnip-choice](https://github.com/becknik/blink-cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp
@@ -9154,7 +9158,6 @@
 - [probil/Monaco-IDE-font](https://github.com/probil/Monaco-IDE-font) - :part_alternation_mark: Patched Monaco font for use in popular IDEs and editors
 - [taodongl/monaco.ttf](https://github.com/taodongl/monaco.ttf) - the monaco font improved: add special characters in monaco.ttf
 - [denysdovhan/ukrainian-typographic-keyboard](https://github.com/denysdovhan/ukrainian-typographic-keyboard) - Combined Ukrainian keyboard layout with typographic symbols
-- [yarisgutierrez/classyTouch_oh-my-zsh](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) - Custom oh-my-zsh theme inspired by a bash prompt of the same name.
 - [skuridin/oh-my-zsh-node-theme](https://github.com/skuridin/oh-my-zsh-node-theme) - Node.js theme for ZSH users
 - [chrisdone-archive/elisp-guide](https://github.com/chrisdone-archive/elisp-guide) - A quick guide to Emacs Lisp programming
 - [sailorproject/design](https://github.com/sailorproject/design) - Documents and discussions about the design of Sailor
@@ -10494,6 +10497,7 @@
 
 ## Rust 
 
+- [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
