@@ -191,7 +191,6 @@
 - [apple2abandonware/abandonware](https://github.com/apple2abandonware/abandonware) - Apple II Abandonware
 - [jethomson/Project-Ouroboros](https://github.com/jethomson/Project-Ouroboros) - This repo contains USBaspLoader bootloaders modified to run on an inexpensive USBasp programmer, and a few demo programs.
 - [afiskon/retro-computers](https://github.com/afiskon/retro-computers) - Projects, related to retro-computers
-- [STMicroelectronics/STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4) - STM32Cube MCU Full Package for the STM32G4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [michalin/ZX2020](https://github.com/michalin/ZX2020) - A super-simple Z80 based computer that runs CP/M
 - [michalin/ZX2022](https://github.com/michalin/ZX2022) - Another DIY Z80 Computer With CP/M
 - [skx/z80-playground-cpm-fat](https://github.com/skx/z80-playground-cpm-fat) - CP/M for the Z80 Playground that runs on the FAT disk format
@@ -310,6 +309,10 @@
 
 ## C 
 
+- [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
+- [leaflabs/maple-bootloader](https://github.com/leaflabs/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
+- [WeActStudio/STM32duino-bootloader](https://github.com/WeActStudio/STM32duino-bootloader) - Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE
+- [WeActStudio/STM32_HID_Bootloader](https://github.com/WeActStudio/STM32_HID_Bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X && STM32F4 devices
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [LonelyWolf/stm32](https://github.com/LonelyWolf/stm32) - STM32 stuff
 - [cropinghigh/sdrpp-tetra-demodulator](https://github.com/cropinghigh/sdrpp-tetra-demodulator) - Tetra demodulator plugin for SDR++ (output can be fed to tetra-rx from osmo-tetra)
@@ -451,6 +454,7 @@
 - [STMicroelectronics/STM32CubeWL](https://github.com/STMicroelectronics/STM32CubeWL) - STM32Cube MCU Full FW Package for the STM32WL series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on boards provided by ST (Nucleo boards)
 - [STMicroelectronics/STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5) - Full Firmware Package for the STM32U5 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
 - [STMicroelectronics/STM32CubeG0](https://github.com/STMicroelectronics/STM32CubeG0) - STM32Cube MCU Full Package for the STM32G0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
+- [STMicroelectronics/STM32CubeG4](https://github.com/STMicroelectronics/STM32CubeG4) - STM32Cube MCU Full Package for the STM32G4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeWB](https://github.com/STMicroelectronics/STM32CubeWB) - Full Firmware Package for the STM32WB series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
 - [STMicroelectronics/STM32CubeL4](https://github.com/STMicroelectronics/STM32CubeL4) - STM32Cube MCU Full Package for the STM32L4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeH7](https://github.com/STMicroelectronics/STM32CubeH7) - STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
@@ -6242,7 +6246,6 @@
 - [polirritmico/monokai-nightasty.nvim](https://github.com/polirritmico/monokai-nightasty.nvim) - 🫖 A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.
 - [TC72/telescope-tele-tabby.nvim](https://github.com/TC72/telescope-tele-tabby.nvim) - A telescope extension to switch tabs.
 - [Weyaaron/nvim-training](https://github.com/Weyaaron/nvim-training) - A plugin to practice neovim movements
-- [roobert/dotfiles](https://github.com/roobert/dotfiles) - 
 - [roobert/activate.nvim](https://github.com/roobert/activate.nvim) - 🚀 Activate is a plugin installation system for Neovim
 - [roobert/tldr-lang.nvim](https://github.com/roobert/tldr-lang.nvim) - 🏃 A Neovim plugin to give tldr-style docs for various language features
 - [roobert/tabtree.nvim](https://github.com/roobert/tabtree.nvim) - 🌲 A Neovim plugin for jumping between significant code elements, such as brackets, quotes, etc.
@@ -8110,7 +8113,6 @@
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal theme for modern Neovim & classic Vim
 - [rafcamlet/coc-nvim-lua](https://github.com/rafcamlet/coc-nvim-lua) - Simple neovim lua completion source for coc.nvim
 - [vhakulinen/dots](https://github.com/vhakulinen/dots) - dots
-- [socketwiz/dotfiles](https://github.com/socketwiz/dotfiles) - A place to store my configuration files
 - [actboy168/findlocal](https://github.com/actboy168/findlocal) - 
 - [j0rtiz/lua-dojo](https://github.com/j0rtiz/lua-dojo) - 
 - [yumafuu/wezterm](https://github.com/yumafuu/wezterm) - 
@@ -8753,6 +8755,7 @@
 
 ## Others 
 
+- [jonatanolofsson/maple-bootloader](https://github.com/jonatanolofsson/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
 - [jeff-hykin/better-syntax-vsce](https://github.com/jeff-hykin/better-syntax-vsce) - 📦 A VS Code extension-bundle with all the best syntax highlighting
 - [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and transmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR or SDRplay and signal processing using GNU Radio on Raspberry PI. GUI on a web b
 - [arm8686/FT2232HL-Board](https://github.com/arm8686/FT2232HL-Board) - USB to dual UART / SPI / I2C / JTAG / FIFO / Bit-Bang...
@@ -9175,6 +9178,7 @@
 - [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
+- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [Bodhizafa/kak-rainbow](https://github.com/Bodhizafa/kak-rainbow) - Cursor-centered rainbow highlighter for kakoune
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
@@ -10973,6 +10977,7 @@
 - [JChristensen/Trace](https://github.com/JChristensen/Trace) - Bash script to run traceroute for a given IP and log the results to a file.
 - [RoryNesbitt/dotfyle-cli](https://github.com/RoryNesbitt/dotfyle-cli) - Command line tool for Neovim multi-config management
 - [GlitchYou/termux-launch](https://github.com/GlitchYou/termux-launch) - Launch apps on Termux
+- [roobert/dotfiles](https://github.com/roobert/dotfiles) - 
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [psprint/Zinit-4](https://github.com/psprint/Zinit-4) - NG Flexible and fast Zsh plugin manager
 - [Mizumo-prjkt/proot-distro-tui](https://github.com/Mizumo-prjkt/proot-distro-tui) - A TUI for Termux's Proot-Distro
@@ -11305,6 +11310,7 @@
 - [FlyingBBQ/dotfiles](https://github.com/FlyingBBQ/dotfiles) - Central repository for all my dotfiles
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
 - [kakounedotcom/connect.kak](https://github.com/kakounedotcom/connect.kak) - Connect a program to Kakoune clients
+- [socketwiz/dotfiles](https://github.com/socketwiz/dotfiles) - A place to store my configuration files
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [Gskartwii/wsl-setup](https://github.com/Gskartwii/wsl-setup) - Scripts for setting up a WSL development environment with oh-my-zsh, Kakoune, Rust, etc.
@@ -11333,7 +11339,6 @@
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [jessiehildebrandt/dot-fish](https://github.com/jessiehildebrandt/dot-fish) - My personal Fish configuration (GitLab mirror)
-- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [beanaroo/display-visor](https://github.com/beanaroo/display-visor) - Bash script for applying a pre-defined Xorg monitor layout. Useful for tiling window manager users.
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
