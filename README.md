@@ -86,6 +86,7 @@
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PlantUML](#plantuml)
+- [Pony](#pony)
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Processing](#processing)
@@ -448,6 +449,7 @@
 - [STMicroelectronics/STM32CubeC0](https://github.com/STMicroelectronics/STM32CubeC0) - Full firmware package for STM32C0 series containing CMSIS, HAL-LL, BSP drivers, MW libraries, and a set of projects ready for use on STM32C0 boards
 - [STMicroelectronics/STM32CubeN6](https://github.com/STMicroelectronics/STM32CubeN6) - STM32Cube MCU Full Package for the STM32N6 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)
 - [STMicroelectronics/STM32CubeH7RS](https://github.com/STMicroelectronics/STM32CubeH7RS) - STM32Cube MCU Full Package for the STM32H7RS series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)
+- [STMicroelectronics/STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1) - Full Firmware Package for the STM32L1 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
 - [STMicroelectronics/STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5) - STM32Cube MCU Full Package for the STM32L5 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeH5](https://github.com/STMicroelectronics/STM32CubeH5) - Full firmware package for STM32H5 series containing CMSIS, HAL-LL, BSP drivers, MW libraries plus a set of projects.
 - [STMicroelectronics/STM32CubeL0](https://github.com/STMicroelectronics/STM32CubeL0) - STM32Cube MCU Full Package for the STM32L0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
@@ -5084,7 +5086,6 @@
 - [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) - Перевод - Эффективный Go
-- [STMicroelectronics/STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1) - Full Firmware Package for the STM32L1 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
 - [STMicroelectronics/STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1) - STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [tinyvision-ai-inc/pico-ice](https://github.com/tinyvision-ai-inc/pico-ice) - Raspberry Pi PICO board + Lattice iCE40 FPGA's
 - [bittorrent/go-btfs](https://github.com/bittorrent/go-btfs) - BTFS - The First Scalable Decentralized Storage System - A Foundational Platform for Decentralized Applications
@@ -7988,7 +7989,6 @@
 - [hkupty/classifier.nvim](https://github.com/hkupty/classifier.nvim) - Filetype to/from extension mapping
 - [hkupty/pointer.nvim](https://github.com/hkupty/pointer.nvim) - Quickly share the reference to a point in your file
 - [huyvohcmc/dotfiles](https://github.com/huyvohcmc/dotfiles) - ...
-- [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [alex-popov-tech/.dotfiles](https://github.com/alex-popov-tech/.dotfiles) - 💻 My settings for macOS, wezterm, zsh, nvim, and more 🛠
 - [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme for neovim
 - [RishabhRD/nvim-finder](https://github.com/RishabhRD/nvim-finder) - A highly extensible fuzzy finder neovim extension based on popfix fuzzy engine.
@@ -9485,6 +9485,10 @@
 
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 
+## Pony 
+
+- [ponylang/ponyc](https://github.com/ponylang/ponyc) - Pony is an open-source, actor-model, capabilities-secure, high performance programming language
+
 ## PostScript 
 
 - [nst/PSTris](https://github.com/nst/PSTris) - A Tetris implementation in PostScript
@@ -9845,6 +9849,7 @@
 - [luarocks/hererocks](https://github.com/luarocks/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [getpatchwork/pwclient](https://github.com/getpatchwork/pwclient) - The command-line client for the patchwork patch tracking tool
 - [sublimelsp/LSP-gopls](https://github.com/sublimelsp/LSP-gopls) - Golang support for Sublime's LSP plugin
+- [sublimelsp/LSP-pylsp](https://github.com/sublimelsp/LSP-pylsp) - Convenience package for the Python Language Server
 - [emanspeaks/pyls-flake8](https://github.com/emanspeaks/pyls-flake8) - Python Language Server plugin for Flake8
 - [python-lsp/python-lsp-black](https://github.com/python-lsp/python-lsp-black) - python-lsp-server plugin that adds support to black autoformatter, forked from https://github.com/rupert/pyls-black/
 - [python-lsp/pylsp-mypy](https://github.com/python-lsp/pylsp-mypy) - Mypy plugin for the Python LSP Server.
@@ -11186,7 +11191,6 @@
 - [SleepyBag/fuzzy-fs](https://github.com/SleepyBag/fuzzy-fs) - a File System Navigator powered by fzf
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) - A versatile (cross-)toolchain generator.
 - [cehoffman/lua-build](https://github.com/cehoffman/lua-build) - Compile and install Lua
-- [sublimelsp/LSP-pylsp](https://github.com/sublimelsp/LSP-pylsp) - Convenience package for the Python Language Server
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [katawful/dotfiles](https://github.com/katawful/dotfiles) - My dotfiles for non-personal stuff
 - [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
@@ -11327,6 +11331,7 @@
 - [dersam/zotfiles](https://github.com/dersam/zotfiles) - Custom dotfiles for zsh with autoinstall/autoupdate
 - [dannynimmo/punctual-zsh-theme](https://github.com/dannynimmo/punctual-zsh-theme) - Punctual, a Zsh prompt theme
 - [zakaziko99/agnosterzak-ohmyzsh-theme](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme) - An oh-my-zsh theme based on Powerline Vim & Agnoster theme
+- [yarisgutierrez/classyTouch_oh-my-zsh](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) - Custom oh-my-zsh theme inspired by a bash prompt of the same name.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [umireon/luaver](https://github.com/umireon/luaver) - Lua Version Manager - Managing and switching between different versions of Lua, LuaJIT and Luarocks made easy
 - [siffiejoe/lua-travis](https://github.com/siffiejoe/lua-travis) - Helper files for using Travis-CI with Lua projects.
@@ -11842,6 +11847,7 @@
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [kyazdani42/red_tetris](https://github.com/kyazdani42/red_tetris) - school project - online tetris multiplayer game
 - [bmalehorn/vscode-vimspired](https://github.com/bmalehorn/vscode-vimspired) - Vimspired - personal VSCode keybindings
+- [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
