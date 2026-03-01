@@ -1216,12 +1216,12 @@
 - [cnlohr/channel3](https://github.com/cnlohr/channel3) - ESP8266 Analog Broadcast Television Interface
 - [snaptoken/kilo-src](https://github.com/snaptoken/kilo-src) - 
 - [RyanMillerC/kilo](https://github.com/RyanMillerC/kilo) - Rebuilding the Kilo Text Editor from Scratch
-- [22mahmoud/slstatus](https://github.com/22mahmoud/slstatus) - 
-- [22mahmoud/tabbed](https://github.com/22mahmoud/tabbed) - 
-- [22mahmoud/slock](https://github.com/22mahmoud/slock) - 
-- [22mahmoud/dmenu](https://github.com/22mahmoud/dmenu) - 
-- [22mahmoud/st](https://github.com/22mahmoud/st) - 
-- [22mahmoud/dwm](https://github.com/22mahmoud/dwm) - Mahmoud Ashraf's clone of dwm
+- [mashrafdev/slstatus](https://github.com/mashrafdev/slstatus) - 
+- [mashrafdev/tabbed](https://github.com/mashrafdev/tabbed) - 
+- [mashrafdev/slock](https://github.com/mashrafdev/slock) - 
+- [mashrafdev/dmenu](https://github.com/mashrafdev/dmenu) - 
+- [mashrafdev/st](https://github.com/mashrafdev/st) - 
+- [mashrafdev/dwm](https://github.com/mashrafdev/dwm) - Mahmoud Ashraf's clone of dwm
 - [janet-lang/juv](https://github.com/janet-lang/juv) - Janet bindings to libuv
 - [manna-harbour/qmk_firmware](https://github.com/manna-harbour/qmk_firmware) - See the "forkreadme" branch or the following link for a description of branches maintained in this fork.
 - [manna-harbour/crkbd](https://github.com/manna-harbour/crkbd) - Crkbd Keymap by Manna Harbour (Extras).  This keymap includes crkbd-specific hardware feature support.  This repository provides additional content outside QMK.
@@ -4300,7 +4300,7 @@
 - [purcell/page-break-lines](https://github.com/purcell/page-break-lines) - Emacs: display ugly ^L page breaks as tidy horizontal lines
 - [jtbm37/all-the-icons-dired](https://github.com/jtbm37/all-the-icons-dired) - Adds dired support to all-the-icons
 - [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
-- [emacs-dashboard/emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
+- [emacs-dashboard/dashboard](https://github.com/emacs-dashboard/dashboard) - An extensible emacs dashboard
 - [roman/golden-ratio.el](https://github.com/roman/golden-ratio.el) - Automatic resizing of Emacs windows to the golden ratio
 - [oneKelvinSmith/monokai-emacs](https://github.com/oneKelvinSmith/monokai-emacs) - Monokai for Emacs is a port of the popular TextMate theme Monokai by Wimer Hazenberg.
 - [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
@@ -7677,7 +7677,7 @@
 - [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) - Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code
 - [kishikaisei/telescope-js-package-scripts.nvim](https://github.com/kishikaisei/telescope-js-package-scripts.nvim) - Integration for vimspector with telescope.nvim
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
-- [22mahmoud/nvim_rest](https://github.com/22mahmoud/nvim_rest) - [WIP] http client plugin for neovim
+- [mashrafdev/nvim_rest](https://github.com/mashrafdev/nvim_rest) - [WIP] http client plugin for neovim
 - [nanotee/nvim-lua-annotations](https://github.com/nanotee/nvim-lua-annotations) - Generate EmmyLua annotations for Neovim functions
 - [nanotee/nvim-lsp-basics](https://github.com/nanotee/nvim-lsp-basics) - Basic wrappers for LSP features
 - [to268/telescope-doc.nvim](https://github.com/to268/telescope-doc.nvim) - A telescope powered neovim plugin to search in your pdf/html documents
@@ -8003,7 +8003,7 @@
 - [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) - 
 - [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
-- [22mahmoud/nvim](https://github.com/22mahmoud/nvim) - 
+- [mashrafdev/nvim](https://github.com/mashrafdev/nvim) - Personal Neovim config
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - A Neovim plugin that displays interactive vertical scrollbars and signs.
@@ -11288,8 +11288,8 @@
 - [kevinhwang91/dotfiles](https://github.com/kevinhwang91/dotfiles) - This is my personal ArchLinux dotfiles.
 - [kevinhwang91/adb-sync-wrap](https://github.com/kevinhwang91/adb-sync-wrap) - Wrap adb-sync.
 - [purcell/setup-emacs](https://github.com/purcell/setup-emacs) - Github action which installs a given Emacs version
-- [22mahmoud/dotfiles](https://github.com/22mahmoud/dotfiles) - 
-- [22mahmoud/vim-curl-demo](https://github.com/22mahmoud/vim-curl-demo) - 
+- [mashrafdev/dotfiles](https://github.com/mashrafdev/dotfiles) - 
+- [mashrafdev/vim-curl-demo](https://github.com/mashrafdev/vim-curl-demo) - 
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
 - [DanCardin/dotfiles](https://github.com/DanCardin/dotfiles) - 
 - [66RING/dotfiles](https://github.com/66RING/dotfiles) - My dotfiles
@@ -11310,7 +11310,7 @@
 - [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
 - [danielnehrig/polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
 - [chipsenkbeil/zsh-notes](https://github.com/chipsenkbeil/zsh-notes) - Plugin extracted from my zshrc to provide a quick notes editing experience in zsh.
-- [fmind/dotfiles](https://github.com/fmind/dotfiles) - Configuration of my favorite command-line editors, shells, and tools
+- [fmind/dotfiles](https://github.com/fmind/dotfiles) - Automated configuration and dotfiles for a personal development environment, featuring CLI tools and Ansible roles.
 - [FlyingBBQ/dotfiles](https://github.com/FlyingBBQ/dotfiles) - Central repository for all my dotfiles
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
 - [kakounedotcom/connect.kak](https://github.com/kakounedotcom/connect.kak) - Connect a program to Kakoune clients
@@ -11718,6 +11718,7 @@
 
 ## TypeScript 
 
+- [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [GopeedLab/browser-extension](https://github.com/GopeedLab/browser-extension) - A browser extension for Gopeed.
 - [Marus/cortex-debug-dp-stm32f1](https://github.com/Marus/cortex-debug-dp-stm32f1) - Device Support Pack for Cortex-Debug for the STM32F1 family of microcontrollers.
