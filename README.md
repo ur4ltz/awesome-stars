@@ -4916,7 +4916,6 @@
 - [Edholm/qbit-service](https://github.com/Edholm/qbit-service) - Service/client lib for accessing the qBittorrent API
 - [mhewedy/vermin](https://github.com/mhewedy/vermin) - The smart virtual machines manager.  A modern CLI for Vagrant Boxes.
 - [dpb587/gget](https://github.com/dpb587/gget) - An easier way to find and automate file downloads from GitHub and GitLab repositories.
-- [joshuarli/srv](https://github.com/joshuarli/srv) - minimalist http(s) server and file browser
 - [d-tsuji/gosdlisp](https://github.com/d-tsuji/gosdlisp) - Mini lisp interpreter written in Go.
 - [fuskovic/nw](https://github.com/fuskovic/nw) - :wrench:  CLI utility for various networking operations
 - [dplavcic/gtorrent](https://github.com/dplavcic/gtorrent) - Implementation of BitTorrent Protocol Specification
@@ -7024,7 +7023,7 @@
 - [oncomouse/lushwal.nvim](https://github.com/oncomouse/lushwal.nvim) - Lush.nvim theme for Pywal colors
 - [notomo/vusted](https://github.com/notomo/vusted) - A busted wrapper for testing neovim plugin
 - [olexsmir/init.lua](https://github.com/olexsmir/init.lua) - to nvim or not to nvim, that is the question
-- [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Enhance your golang experience
+- [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) - Minimalistic plugin for Go development
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) - 
 - [nvim-neotest/neotest-plenary](https://github.com/nvim-neotest/neotest-plenary) - 
 - [rcarriga/cmp-dap](https://github.com/rcarriga/cmp-dap) - nvim-cmp source for nvim-dap REPL and nvim-dap-ui buffers
@@ -9797,7 +9796,7 @@
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes
 - [wagiminator/ATtiny814-AquaTimer](https://github.com/wagiminator/ATtiny814-AquaTimer) - Programmable Timer for Aquariums
 - [seleznevae/fort](https://github.com/seleznevae/fort) - CLI (command line utility) to create formatted tables in console
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [evanhempel/python-flamegraph](https://github.com/evanhempel/python-flamegraph) - Statistical profiler which outputs in format suitable for FlameGraph (http://www.brendangregg.com/flamegraphs.html)
 - [rbanffy/3270font](https://github.com/rbanffy/3270font) - A 3270 font in a modern format
 - [notjedi/pyratebay](https://github.com/notjedi/pyratebay) - Python script to download torrents from piratebay.
@@ -10683,6 +10682,7 @@
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [ubolonton/emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) - Rust binding and tools for Emacs's dynamic modules
+- [joshuarli/srv](https://github.com/joshuarli/srv) - minimalist http(s) server and file browser
 - [xi-frontend/xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [Peltoche/vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend
 - [vv9k/rkd](https://github.com/vv9k/rkd) - Rusty keybinding daemon
