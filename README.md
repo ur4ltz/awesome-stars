@@ -1465,6 +1465,7 @@
 - [ibara/mg](https://github.com/ibara/mg) - OpenBSD Mg editor. Portable Public Domain Micro Emacs for *BSD, Cygwin, Linux, Mac OS X.
 - [felias-fogg/SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster) - Software I2C Arduino library
 - [wereHamster/transmission](https://github.com/wereHamster/transmission) - Inofficial mirror of the Transmission BitTorrent client
+- [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [scmrtos/openocd-scmrtos](https://github.com/scmrtos/openocd-scmrtos) - 
 - [trol73/avr-ic-tester](https://github.com/trol73/avr-ic-tester) - 
 - [vsergeev/vpicdisasm](https://github.com/vsergeev/vpicdisasm) - vPICdisasm is a Microchip PIC disassembler for Baseline, Mid-Range, and Mid-Range Enhanced 8-bit PIC cores.
@@ -3238,7 +3239,6 @@
 - [Testato/SoftwareWire](https://github.com/Testato/SoftwareWire) - Creates a software I2C/TWI bus on every pins
 - [felias-fogg/SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) - 
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user inte
-- [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [etherkit/MenuArduino](https://github.com/etherkit/MenuArduino) - A generic menu system to be used with a display on an Arduino
 - [scmrtos/scmrtos](https://github.com/scmrtos/scmrtos) - scmRTOS embedded operating system
 - [hasepompase/Adafruit_Si5351_Library](https://github.com/hasepompase/Adafruit_Si5351_Library) - Driver for Adafruit's Si5351 Clockgen Breakout
@@ -3363,6 +3363,7 @@
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [qtproject/qt-solutions](https://github.com/qtproject/qt-solutions) - 
 - [excelsior-oss/far-git-autocomplete](https://github.com/excelsior-oss/far-git-autocomplete) - Git Autocomplete is a Far Manager plugin
+- [bruderstein/PythonScript](https://github.com/bruderstein/PythonScript) - Python Script plugin for Notepad++
 - [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
 - [Andersbakken/rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang.
 - [Traumflug/simulavr](https://github.com/Traumflug/simulavr) - A fork of SimulAVR (http://www.nongnu.org/simulavr/) for handling contributions. The practical SIMINFO mechanism implemented here wasn't accepted upstream, but is crucial for Teacup Firmware simulatio
@@ -7233,7 +7234,7 @@
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
 - [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim) - Neovim hooks for abbreviation events
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminder plugin for Neovim 0.5+
-- [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming. Use https://sr.ht/~chinmay/cphelper.nvim instead
+- [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming. Use https://git.sr.ht/~chinmay/cphelper.nvim instead
 - [p00f/alabaster.nvim](https://github.com/p00f/alabaster.nvim) - Neovim port of tonsky's alabaster for Sublime Text.
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) - Prettier plugin for Neovim's built-in LSP client.
 - [gpanders/nvim-moonwalk](https://github.com/gpanders/nvim-moonwalk) - Use any language that compiles to Lua in your Neovim configuration
@@ -10243,7 +10244,6 @@
 - [ivanov/vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [lambdalisue/nvim-lista](https://github.com/lambdalisue/nvim-lista) - Neovim/Vim buffer filtering plugin
-- [bruderstein/PythonScript](https://github.com/bruderstein/PythonScript) - Python Script plugin for Notepad++
 - [vmuriart/Gist](https://github.com/vmuriart/Gist) - Sublime Text plugin for creating new Gists from selected text
 - [tbfisher/sublimetext-Pandoc](https://github.com/tbfisher/sublimetext-Pandoc) - A Sublime Text plugin that uses Pandoc to convert text from one markup format into another. Pandoc can convert documents in markdown, reStructuredText, textile, HTML, DocBook, LaTeX, MediaWiki markup,
 - [naokazuterada/MarkdownTOC](https://github.com/naokazuterada/MarkdownTOC) - SublimeText3 plugin which generate a table of contents (TOC) in a markdown document.
