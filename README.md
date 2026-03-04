@@ -492,7 +492,7 @@
 - [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
-- [dschp/uvllhttpd](https://github.com/dschp/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
+- [hrymo/uvllhttpd](https://github.com/hrymo/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -6569,7 +6569,6 @@
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
 - [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [loctvl842/nvim](https://github.com/loctvl842/nvim) - neovim config using lazy
-- [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) - Complete rewrite. Pure Lua.
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) - 
 - [theSafdarAwan/find-extender.nvim](https://github.com/theSafdarAwan/find-extender.nvim) - extend's the capability of neovim find command's
@@ -8986,6 +8985,7 @@
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [danymat/norg_notes](https://github.com/danymat/norg_notes) - 
 - [AndronixApp/andronix-external-app](https://github.com/AndronixApp/andronix-external-app) - Collection of all the external/third-party softwares for easier processing. We don't own any rights to the files included
+- [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [superjamie/lazyweb](https://github.com/superjamie/lazyweb) - Random scraps of my knowledge
 - [nvim-neorg/library-of-norgxandria](https://github.com/nvim-neorg/library-of-norgxandria) - The Library of Alexandria, in .norg
