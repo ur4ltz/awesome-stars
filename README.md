@@ -2337,7 +2337,7 @@
 - [pu2clr/QN800X](https://github.com/pu2clr/QN800X) - Arduino Library for QN8006 and QN8007 FM TRANSMITERS AND RECEIVERS devices
 - [W3PM/GPS-Si5351-VFO-QEX-JUL-AUG-2015](https://github.com/W3PM/GPS-Si5351-VFO-QEX-JUL-AUG-2015) - Si5351 Arduino Controlled GPS Corrected VFO (QEX July/August 2015)
 - [Nobcha/R909-VFO_try2](https://github.com/Nobcha/R909-VFO_try2) - I will remodel the Chinese airband receiver wih R909-VFO to incorpolate the digital local oscillator.
-- [Nobcha/ArduinoLCM](https://github.com/Nobcha/ArduinoLCM) - Franclin oscillator method LC meter
+- [Nobcha/ArduinoLCM](https://github.com/Nobcha/ArduinoLCM) - Franklin oscillator method LC meter
 - [Nobcha/R909-SDR](https://github.com/Nobcha/R909-SDR) - R909-SDR
 - [Nobcha/R909-VFO-GPS](https://github.com/Nobcha/R909-VFO-GPS) - GPS corrected Si5351a VFO
 - [Nobcha/R909-VFO](https://github.com/Nobcha/R909-VFO) - 
@@ -3136,7 +3136,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs (you need a bit of HW on a breadboard or some special Arduino shields as well)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -3918,7 +3918,6 @@
 - [pythonic-emacs/blacken](https://github.com/pythonic-emacs/blacken) - Python Black for Emacs
 - [shackra/emacs](https://github.com/shackra/emacs) - Mi configuración de GNU Emacs, usando org-mode y org-babel :)
 - [novoid/dot-emacs](https://github.com/novoid/dot-emacs) - My GNU/Emacs configuration
-- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [twlz0ne/nerd-fonts.el](https://github.com/twlz0ne/nerd-fonts.el) - Emacs nerd-fonts (https://github.com/ryanoasis/nerd-fonts) utilities.
 - [chrisbarrett/skeletor.el](https://github.com/chrisbarrett/skeletor.el) - Powerful project skeletons for Emacs
 - [mohkale/an-old-hope-emacs](https://github.com/mohkale/an-old-hope-emacs) - a syntax theme from a galaxy far far away...
@@ -5697,7 +5696,6 @@
 - [bobrofon/easysshfs](https://github.com/bobrofon/easysshfs) - SSHFS for Android
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
-- [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
@@ -9092,6 +9090,7 @@
 - [habamax/iosevka-habamax](https://github.com/habamax/iosevka-habamax) - Semi-extended almost default iosevka
 - [novoid/org-mode-demodata](https://github.com/novoid/org-mode-demodata) - An Org mode file that contains data that should mimic normal day-to-day data
 - [novoid/org-mode-workshop](https://github.com/novoid/org-mode-workshop) - Workshop for Org-mode with focus on todo-, project- and workflow-management
+- [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [mohkale/an-old-hope-theme](https://github.com/mohkale/an-old-hope-theme) - centralised reference list for a syntax theme from a galaxy far far away...
 - [mohkale/an-old-hope-sublime](https://github.com/mohkale/an-old-hope-sublime) - A syntax theme from a galaxy far away...
 - [kurkale6ka/kakoune-extra](https://github.com/kurkale6ka/kakoune-extra) - 
@@ -9738,7 +9737,7 @@
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [blacklight/nvim-http](https://github.com/blacklight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
@@ -11745,6 +11744,7 @@
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
 - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
+- [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [xuhuanzy/VSCode-EmmyLua-Luals](https://github.com/xuhuanzy/VSCode-EmmyLua-Luals) - Lua IDE Plugin for VSCode
