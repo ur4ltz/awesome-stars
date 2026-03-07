@@ -647,7 +647,6 @@
 - [etherkit/si5351-avr-tiny-minimal](https://github.com/etherkit/si5351-avr-tiny-minimal) - A small but functional library for driving the Si5351 with AVR ATtiny microcontrollers with 8 kB of flash memory.
 - [alexf91/WSPR-Beacon](https://github.com/alexf91/WSPR-Beacon) - Si5351 based WSPR beacon
 - [UncleRus/esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) - Component library for ESP32-xx and ESP8266
-- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In-application debugger for ARM Cortex and RISC-V processors.
 - [lujji/blackmagic](https://github.com/lujji/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [STMicroelectronics/stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) - Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.
 - [nr-electronics/DiY](https://github.com/nr-electronics/DiY) - DiY
@@ -5862,7 +5861,7 @@
 - [kevinhwang91/promise-async](https://github.com/kevinhwang91/promise-async) - Promise & Async in Lua
 - [kikito/md5.lua](https://github.com/kikito/md5.lua) - MD5 sum in pure Lua, with no C and no external dependencies
 - [hoelzro/lua-term](https://github.com/hoelzro/lua-term) - Terminal operations for Lua
-- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin to detect and chdir to the project root, with its own UI. Iincludes pickers for telescope.nvim, snacks.nvim, fzf-lua and picker.nvim.
+- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin to detect and chdir to the project root, with its own UI. Supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.
 - [wesleimp/stylua.nvim](https://github.com/wesleimp/stylua.nvim) - Format your lua code by using StyLua inside vim
 - [superzazu/sequence.lua](https://github.com/superzazu/sequence.lua) - A double linked list implementation in Lua
 - [superzazu/bluclass.lua](https://github.com/superzazu/bluclass.lua) - Lua OOP module with simple inheritance
@@ -8849,6 +8848,7 @@
 - [JohnWSatterfield/Circuit.pdf](https://github.com/JohnWSatterfield/Circuit.pdf) - 
 - [yast/yast-docker](https://github.com/yast/yast-docker) - YaST2 module for docker
 - [blackmagic-debug/blackmagic-hardware](https://github.com/blackmagic-debug/blackmagic-hardware) - Hardware design files for the Black Magic Probe
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In-application debugger for ARM Cortex and RISC-V processors.
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [IgrikXD/rpitx-coax-pcb](https://github.com/IgrikXD/rpitx-coax-pcb) - Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment when working with the rpitx package.
 - [IgrikXD/Easy-SDR](https://github.com/IgrikXD/Easy-SDR) - This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on RTL2832U chip.
@@ -10125,7 +10125,7 @@
 - [djcode/Kodi-rTorrent-Plugin](https://github.com/djcode/Kodi-rTorrent-Plugin) - A XBMC plugin to view and control a rTorrent client.
 - [elgatito/context.elementum](https://github.com/elgatito/context.elementum) - 
 - [elgatito/script.elementum.burst](https://github.com/elgatito/script.elementum.burst) - Development of this addon has been stopped!
-- [elgatito/plugin.video.elementum](https://github.com/elgatito/plugin.video.elementum) - Elementum add-on for Kodi. Development of this addon has been stopped!
+- [elgatito/plugin.video.elementum](https://github.com/elgatito/plugin.video.elementum) - Elementum add-on for Kodi.
 - [vitvly/neovimiscellany](https://github.com/vitvly/neovimiscellany) - 
 - [sleduc/weechat-xmpp](https://github.com/sleduc/weechat-xmpp) - A fork of the jabber plugin for weechat
 - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
