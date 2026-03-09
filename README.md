@@ -4696,7 +4696,7 @@
 
 ## Go 
 
-- [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply commit suggestions locally
+- [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply suggestions locally
 - [rizinorg/rz-pm](https://github.com/rizinorg/rz-pm) - An official Rizin package manager
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
@@ -8507,7 +8507,6 @@
 - [Neopallium/LuaNativeObjects](https://github.com/Neopallium/LuaNativeObjects) - A Lua bindings generator written in Lua.
 - [salviati/go-qt5](https://github.com/salviati/go-qt5) - qt5 bindings for go
 - [premake/premake-4.x](https://github.com/premake/premake-4.x) - Premake 4
-- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [EvandroLG/pegasus.lua](https://github.com/EvandroLG/pegasus.lua) - :rocket: Pegasus.lua is an http server to work with web applications written in Lua language.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [atercattus/luaghetti](https://github.com/atercattus/luaghetti) - Spaghetti html+lua code templater inside nginx
@@ -11636,6 +11635,7 @@
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for Cygwin targets to build under MSYS2.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
+- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
