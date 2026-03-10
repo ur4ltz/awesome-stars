@@ -310,6 +310,7 @@
 
 ## C 
 
+- [MKme/240x240_IPS_ST7789](https://github.com/MKme/240x240_IPS_ST7789) - ST7789 240x240 IPS Display for Electronics Projects
 - [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [leaflabs/maple-bootloader](https://github.com/leaflabs/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
 - [WeActStudio/STM32duino-bootloader](https://github.com/WeActStudio/STM32duino-bootloader) - Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE
@@ -1457,7 +1458,7 @@
 - [Qyon/STM32_RTTY](https://github.com/Qyon/STM32_RTTY) - STM32 & SI4032 rtty test
 - [NT7S/Si5351](https://github.com/NT7S/Si5351) - Library for the Si5351 clock generator IC in the avr-gcc environment
 - [ultimate-pms/fake-video-detector](https://github.com/ultimate-pms/fake-video-detector) - Automatically detect fake videos in your library based upon a 'database' of blacklisted videos
-- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 - [sparkfun/LilyPad_Arduino_USB](https://github.com/sparkfun/LilyPad_Arduino_USB) - Design and firmware files for the LilyPad Arduino USB.
 - [austinthresher/dangerboy](https://github.com/austinthresher/dangerboy) - Game Boy emulator written in C. Aiming for cycle accurate DMG emulation.
 - [hide27k/haribote-os](https://github.com/hide27k/haribote-os) - 30日でできる！OS自作入門
@@ -1792,6 +1793,9 @@
 
 ## C++ 
 
+- [MKme/ST7735-Color-TFT-Display](https://github.com/MKme/ST7735-Color-TFT-Display) - ST7735 128X128 SPI Display Code & Projects
+- [jarzebski/Arduino-INA219](https://github.com/jarzebski/Arduino-INA219) - INA219 Zero-Drift, Bi-directional Current/Power Monitor Arduino Library
+- [jarzebski/Arduino-INA226](https://github.com/jarzebski/Arduino-INA226) - INA226 Bi-directional Current/Power Monitor Arduino Librar
 - [cropinghigh/sdrpp-mirisdr-source](https://github.com/cropinghigh/sdrpp-mirisdr-source) - 
 - [cropinghigh/sdrpp-inmarsatc-demodulator](https://github.com/cropinghigh/sdrpp-inmarsatc-demodulator) - Inmarsat-C TDM demodulator plugin for SDR++
 - [cropinghigh/sdrpp-dvbs-demodulator](https://github.com/cropinghigh/sdrpp-dvbs-demodulator) - DVB-S/DVB-S2 demodulator module for SDR++
@@ -4904,7 +4908,7 @@
 - [altdesktop/playerbm](https://github.com/altdesktop/playerbm) - 📚 🎧 Bookmark CLI for media players to resume where you left off in audiobooks and podcasts
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [siadat/leges](https://github.com/siadat/leges) - Attribute-based access control (Go pkg + http service)
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [windwp/go-at](https://github.com/windwp/go-at) - cli tool for automatic task
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
@@ -5325,6 +5329,7 @@
 
 ## JavaScript 
 
+- [MKme/XCOM](https://github.com/MKme/XCOM) - 
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [Acode-Foundation/acode-plugin-smali](https://github.com/Acode-Foundation/acode-plugin-smali) - Smali language syntax highlighting for Acode editor
 - [Acode-Foundation/acode-plugin-volumn_cursor](https://github.com/Acode-Foundation/acode-plugin-volumn_cursor) - Control editor cursor.
