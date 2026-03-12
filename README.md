@@ -493,7 +493,7 @@
 - [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
-- [hrymo/uvllhttpd](https://github.com/hrymo/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
+- [monteory/uvllhttpd](https://github.com/monteory/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -4641,6 +4641,10 @@
 
 ## Forth 
 
+- [lowfatcomputing/amforth](https://github.com/lowfatcomputing/amforth) - amforth forth interpreter running on AVR ATmegas. Being ported to GNU avr-as from Atmel AVR Studio. Check the "port_to_avr-as" branch.
+- [lowfatcomputing/BIG-INTEGER-ANS-FORTH](https://github.com/lowfatcomputing/BIG-INTEGER-ANS-FORTH) - Calculating with dynamic integers in Forth
+- [lowfatcomputing/ffl](https://github.com/lowfatcomputing/ffl) - A general purpose Forth library
+- [lowfatcomputing/forth-psoc-utils](https://github.com/lowfatcomputing/forth-psoc-utils) - utils for PSoC RE
 - [nineties/planck-old](https://github.com/nineties/planck-old) - This project aims to develop a Compiler Infrastructure which have advanced memory safety and concurrency features.
 - [nineties/planckforth](https://github.com/nineties/planckforth) - Bootstrapping a Forth interpreter from hand-written tiny ELF binary. Just for fun.
 - [johnwinans/nabu-figforth](https://github.com/johnwinans/nabu-figforth) - fig-FORTH implementation for the NABU PC
@@ -11492,7 +11496,6 @@
 - [NHDaly/tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - A tmux plugin to better manage and configure the mouse.
 - [andrejlevkovitch/basic_oauth](https://github.com/andrejlevkovitch/basic_oauth) - 
 - [EllaTheCat/i3-parkinson](https://github.com/EllaTheCat/i3-parkinson) - An article by /u/EllaTheCat about using i3 with and because of Parkinsons's Disease (PD)
-- [lifepillar/dotfiles](https://github.com/lifepillar/dotfiles) - 🏡 My dotfiles… finally!
 - [netlify/build-image](https://github.com/netlify/build-image) - This is the build image used for running automated builds
 - [MikaelElkiaer/dotfiles](https://github.com/MikaelElkiaer/dotfiles) - 
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
@@ -12722,7 +12725,6 @@
 - [dylanaraps/fff.vim](https://github.com/dylanaraps/fff.vim) - A plugin for vim/neovim which allows you to use fff as a file opener.
 - [dylanaraps/dotfiles](https://github.com/dylanaraps/dotfiles) - 🍙 dotfiles
 - [dylanaraps/wal.vim](https://github.com/dylanaraps/wal.vim) - 🎨 A vim colorscheme for use with wal
-- [lifepillar/vimrc](https://github.com/lifepillar/vimrc) - My personal Vim configuration.
 - [RRethy/vim-impiared](https://github.com/RRethy/vim-impiared) - impiared.vim - a pair to match plugins of square, round, and curly brackets
 - [habamax/vim-do-outline](https://github.com/habamax/vim-do-outline) - Outline asciidoc(tor) or markdown documents.
 - [andrejlevkovitch/MySettings](https://github.com/andrejlevkovitch/MySettings) - 
@@ -12731,7 +12733,6 @@
 - [andrejlevkovitch/vim-lua-format](https://github.com/andrejlevkovitch/vim-lua-format) - 
 - [lifepillar/vim-ucf](https://github.com/lifepillar/vim-ucf) - User completion functions for Vim
 - [lifepillar/vim-wwdc17-theme](https://github.com/lifepillar/vim-wwdc17-theme) - Colorful light color scheme for Vim inspired by Apple's WWDC17 page
-- [lifepillar/vim8-colorschemes](https://github.com/lifepillar/vim8-colorschemes) - Temporary repository for reworked Vim color schemes
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [lifepillar/vim-wwdc16-theme](https://github.com/lifepillar/vim-wwdc16-theme) - Colorful dark color scheme for Vim inspired by Apple's WWDC16 page
 - [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
