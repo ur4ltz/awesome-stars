@@ -310,6 +310,15 @@
 
 ## C 
 
+- [STM32-base/STM32-base-F1-template](https://github.com/STM32-base/STM32-base-F1-template) - A template for using STM32F1 series devices with the STM32-base project.
+- [STM32-base/STM32-base-STM32Cube](https://github.com/STM32-base/STM32-base-STM32Cube) - All CMSIS and HAL code for the STM32 microcontrollers bundled together in one repository.
+- [STMicroelectronics/cmsis-core](https://github.com/STMicroelectronics/cmsis-core) - CMSIS Core module, fully aligned with ARM versions.
+- [STMicroelectronics/cmsis-device-f4](https://github.com/STMicroelectronics/cmsis-device-f4) - Provides the STM32Cube MCU Component "cmsis_device_f4" of the STM32F4 series.
+- [STMicroelectronics/cmsis-device-f1](https://github.com/STMicroelectronics/cmsis-device-f1) - Provides the STM32Cube MCU Component "cmsis_device_f1" of the STM32F1 series.
+- [STMicroelectronics/stm32-mw-fatfs](https://github.com/STMicroelectronics/stm32-mw-fatfs) - Provides the FatFS library part of the STM32Cube MCU Component "middleware" for all STM32xx series.
+- [STMicroelectronics/stm32-mw-lwip](https://github.com/STMicroelectronics/stm32-mw-lwip) - Provides the LwIP library part of the STM32Cube MCU Component "middleware" for all STM32xx series.
+- [STMicroelectronics/stm32-mw-freertos](https://github.com/STMicroelectronics/stm32-mw-freertos) - Provides the FreeRTOS library part of the STM32Cube MCU Component "middleware" for all STM32xx series.
+- [Arm-Examples/Hello_World](https://github.com/Arm-Examples/Hello_World) - Simple "Hello, World!" example to get you started.
 - [MKme/240x240_IPS_ST7789](https://github.com/MKme/240x240_IPS_ST7789) - ST7789 240x240 IPS Display for Electronics Projects
 - [ARMmbed/DAPLink](https://github.com/ARMmbed/DAPLink) - 
 - [leaflabs/maple-bootloader](https://github.com/leaflabs/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
@@ -12405,8 +12414,8 @@
 - [j-tom/vim-old-hope](https://github.com/j-tom/vim-old-hope) - Vim port of "An Old Hope" theme
 - [kurkale6ka/vim](https://github.com/kurkale6ka/vim) - 
 - [kurkale6ka/vim-swap](https://github.com/kurkale6ka/vim-swap) - Easy swapping of text in Vim
-- [tveskag/buffer-tabline](https://github.com/tveskag/buffer-tabline) - Displays buffer names in tabline
-- [tveskag/nvim-blame-line](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+- [asgerviggo/buffer-tabline](https://github.com/asgerviggo/buffer-tabline) - Displays buffer names in tabline
+- [asgerviggo/nvim-blame-line](https://github.com/asgerviggo/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 - [knubie/vim-kitty-navigator](https://github.com/knubie/vim-kitty-navigator) - Seamless navigation between kitty panes and vim splits
 - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) - Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 - [rstacruz/vim-closer](https://github.com/rstacruz/vim-closer) - Closes brackets
