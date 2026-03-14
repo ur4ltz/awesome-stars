@@ -3727,7 +3727,7 @@
 - [jsigman/emacs-config](https://github.com/jsigman/emacs-config) - For tracking and sharing my emacs configuration
 - [dorneanu/dotfiles](https://github.com/dorneanu/dotfiles) - Dotfiles management using chezmoi
 - [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter
 - [aome510/kak.el](https://github.com/aome510/kak.el) - An attempt to port Kakoune's multiple selections into Emacs
 - [anuvyklack/hel](https://github.com/anuvyklack/hel) - Helix emulation layer for Emacs
 - [garymjr/.emacs.d](https://github.com/garymjr/.emacs.d) - My emacs configuration
@@ -5097,6 +5097,7 @@
 
 ## HTML 
 
+- [MKme/XCOM](https://github.com/MKme/XCOM) - 
 - [cropinghigh/sdrpp-moduledb](https://github.com/cropinghigh/sdrpp-moduledb) - SDR++ Public Community Module DB
 - [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
 - [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
@@ -5343,7 +5344,6 @@
 
 ## JavaScript 
 
-- [MKme/XCOM](https://github.com/MKme/XCOM) - 
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [Acode-Foundation/acode-plugin-smali](https://github.com/Acode-Foundation/acode-plugin-smali) - Smali language syntax highlighting for Acode editor
 - [Acode-Foundation/acode-plugin-volumn_cursor](https://github.com/Acode-Foundation/acode-plugin-volumn_cursor) - Control editor cursor.
@@ -7242,7 +7242,6 @@
 - [dmitmel/cmp-cmdline-history](https://github.com/dmitmel/cmp-cmdline-history) - Source for nvim-cmp which reads results from command-line or search histories
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) - Incremental fuzzy search motion plugin for Neovim
-- [GustavoKatel/dotfiles](https://github.com/GustavoKatel/dotfiles) - Personal configurations. vim, tmux etc
 - [sidebar-nvim/sections-dap](https://github.com/sidebar-nvim/sections-dap) - Dap sections for sidebar.nvim
 - [anuvyklack/help-vsplit.nvim](https://github.com/anuvyklack/help-vsplit.nvim) - Open Neovim help in vertical split if there is enough space
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
