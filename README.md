@@ -310,6 +310,8 @@
 
 ## C 
 
+- [elmot/clion-2026.1-stm32l5-trustzone](https://github.com/elmot/clion-2026.1-stm32l5-trustzone) - CLion2026.1 TrustZone project example.
+- [max-moser/network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - NetworkManager VPN Plugin: Wireguard
 - [STM32-base/STM32-base-F1-template](https://github.com/STM32-base/STM32-base-F1-template) - A template for using STM32F1 series devices with the STM32-base project.
 - [STM32-base/STM32-base-STM32Cube](https://github.com/STM32-base/STM32-base-STM32Cube) - All CMSIS and HAL code for the STM32 microcontrollers bundled together in one repository.
 - [STMicroelectronics/cmsis-core](https://github.com/STMicroelectronics/cmsis-core) - CMSIS Core module, fully aligned with ARM versions.
@@ -1802,6 +1804,7 @@
 
 ## C++ 
 
+- [elmot/esp32_weatherstation](https://github.com/elmot/esp32_weatherstation) - ESP32 + Inky Impression weather station
 - [MKme/ST7735-Color-TFT-Display](https://github.com/MKme/ST7735-Color-TFT-Display) - ST7735 128X128 SPI Display Code & Projects
 - [jarzebski/Arduino-INA219](https://github.com/jarzebski/Arduino-INA219) - INA219 Zero-Drift, Bi-directional Current/Power Monitor Arduino Library
 - [jarzebski/Arduino-INA226](https://github.com/jarzebski/Arduino-INA226) - INA226 Bi-directional Current/Power Monitor Arduino Librar
@@ -5100,7 +5103,6 @@
 - [MKme/XCOM](https://github.com/MKme/XCOM) - 
 - [cropinghigh/sdrpp-moduledb](https://github.com/cropinghigh/sdrpp-moduledb) - SDR++ Public Community Module DB
 - [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
-- [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) - Перевод - Эффективный Go
 - [STMicroelectronics/STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1) - STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
@@ -5254,10 +5256,12 @@
 
 ## Java 
 
+- [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [radareorg/r4ghidra](https://github.com/radareorg/r4ghidra) - Ghidra plugin to communicate with radare2
 - [woheller69/audio-analyzer-for-android](https://github.com/woheller69/audio-analyzer-for-android) - A fork of audio-analyzer-for-android in Google code, with a lot of enhancement.
 - [earlephilhower/arduino-pico-littlefs-plugin](https://github.com/earlephilhower/arduino-pico-littlefs-plugin) - LittleFS Data Uploader for Arduino-Pico
+- [danleetw/FT8TW](https://github.com/danleetw/FT8TW) - Run FT8 on Android
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [TylerWilliamson/BatteryNotification](https://github.com/TylerWilliamson/BatteryNotification) - Creates a persistent notification to see battery information at a glance!
 - [mkeller0815/MEEPROMMER](https://github.com/mkeller0815/MEEPROMMER) - EEPROM / EPROM programmer based on Arduino hardware
@@ -5701,6 +5705,7 @@
 
 ## Kotlin 
 
+- [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 - [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
@@ -5880,7 +5885,7 @@
 - [kevinhwang91/promise-async](https://github.com/kevinhwang91/promise-async) - Promise & Async in Lua
 - [kikito/md5.lua](https://github.com/kikito/md5.lua) - MD5 sum in pure Lua, with no C and no external dependencies
 - [hoelzro/lua-term](https://github.com/hoelzro/lua-term) - Terminal operations for Lua
-- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin to detect and chdir to the project root, with its own UI. Supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.
+- [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) - A Neovim plugin to detect and chdir to the project root, with its own UI. Provides lualine component, supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.
 - [wesleimp/stylua.nvim](https://github.com/wesleimp/stylua.nvim) - Format your lua code by using StyLua inside vim
 - [superzazu/sequence.lua](https://github.com/superzazu/sequence.lua) - A double linked list implementation in Lua
 - [superzazu/bluclass.lua](https://github.com/superzazu/bluclass.lua) - Lua OOP module with simple inheritance
@@ -8397,6 +8402,7 @@
 - [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [mattikus/dotfiles](https://github.com/mattikus/dotfiles) - My dotfiles
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles of my last wm, managed by GNU stow.
+- [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
 - [moteus/lua-lluv-pegasus](https://github.com/moteus/lua-lluv-pegasus) - Simple server based on pegasus.lua library
 - [devplayer0/esp-remote](https://github.com/devplayer0/esp-remote) - Spotify remote on an ESP8266 with OLED display
 - [devplayer0/lua-xmlrpc](https://github.com/devplayer0/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
@@ -8610,7 +8616,6 @@
 - [cornerman/prompt-hjem](https://github.com/cornerman/prompt-hjem) - a zsh prompt
 - [pianocomposer321/project-template-samples](https://github.com/pianocomposer321/project-template-samples) - Sample templates for project-templates.nvim
 - [crystal-lang/crystal-book](https://github.com/crystal-lang/crystal-book) - Crystal reference with language specification, manuals and learning materials
-- [cyrealtype/Lora-Cyrillic](https://github.com/cyrealtype/Lora-Cyrillic) - Lora fonts — serif family for text. Variable Open Source Font
 - [Tieske/resty-test](https://github.com/Tieske/resty-test) - A setup to quickly test OpenResty Lua code
 - [gosquared/flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
 - [brow/jklp](https://github.com/brow/jklp) - A 36-key ergonomic keyboard
@@ -9919,6 +9924,7 @@
 - [sigmavirus24/github-cli](https://github.com/sigmavirus24/github-cli) - Command-line access to GitHub via the API (v3)
 - [sublimelsp/LSP-lua](https://github.com/sublimelsp/LSP-lua) - Convenience package with a lua language server bundled
 - [gillescastel/university-setup](https://github.com/gillescastel/university-setup) - My note taking setup scripts.
+- [cyrealtype/Lora-Cyrillic](https://github.com/cyrealtype/Lora-Cyrillic) - Lora – opensource Variable text typeface
 - [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
 - [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
@@ -11569,7 +11575,6 @@
 - [porras/i3-keyboard-layout](https://github.com/porras/i3-keyboard-layout) - Change keyboard layout with a keystroke + show it in the status bar
 - [okraits/boosta](https://github.com/okraits/boosta) - Easy bookmark management with rofi
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
-- [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
 - [cytopia/i3-utils-bin](https://github.com/cytopia/i3-utils-bin) - 
 - [cytopia/autorunner](https://github.com/cytopia/autorunner) - Configurable and notification aware autostart helper for minimalistic window managers like i3, openbox and others
 - [cytopia/i3blocks-modules](https://github.com/cytopia/i3blocks-modules) - Custom modules for i3blocks status bar
