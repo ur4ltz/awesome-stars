@@ -344,7 +344,6 @@
 - [Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC](https://github.com/Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC) - Source code for 'Beginning STM32: Developing with FreeRTOS, libopencm3 and GCC' by Warren Gay
 - [geoff1111/jim-ncurses](https://github.com/geoff1111/jim-ncurses) - wtui is a draft jimtcl extension. It binds ncurses.
 - [muzkr/moto](https://github.com/muzkr/moto) - Modern Bootloader for Quansheng UV-K5 (V3) and Variants
-- [muzkr/KISS](https://github.com/muzkr/KISS) - Brain-Friendly Firmware for the Quansheng UV-K5 (V3) and Variants
 - [OneOfEleven/M181-LCR-Meter-Firmware](https://github.com/OneOfEleven/M181-LCR-Meter-Firmware) - Re-worked M181 LCR meter firmware, original by Jaishankar M
 - [dawsonjon/HamFist](https://github.com/dawsonjon/HamFist) - Bayesian CW Decoder for Pi Pico
 - [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
@@ -5976,7 +5975,7 @@
 - [RealTimeLogic/BAS-Resources](https://github.com/RealTimeLogic/BAS-Resources) - The Barracuda App Server's resource files
 - [hjson/hjson-lua](https://github.com/hjson/hjson-lua) - A lightweight H/JSON library for Lua
 - [tiye/json-lua](https://github.com/tiye/json-lua) - JSON encoder/decoder
-- [saghen/blink.lib](https://github.com/saghen/blink.lib) - Neovim library for downloading shared libraries
+- [saghen/blink.lib](https://github.com/saghen/blink.lib) - Shared library for blink.* neovim plugins
 - [saghen/neovim-lua-rust-template](https://github.com/saghen/neovim-lua-rust-template) - Template for writing plugins for Neovim in Lua and Rust
 - [saghen/nvim](https://github.com/saghen/nvim) - Personal neovim configuration
 - [MattiasMTS/cmp-dbee](https://github.com/MattiasMTS/cmp-dbee) - Autocompletion for nvim-dbee
@@ -6677,7 +6676,6 @@
 - [LeonHeidelbach/trailblazer.nvim](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer enables you to seemlessly move through important project marks as quickly and efficiently as possible to make your workflow blazingly fast ™.
 - [ofirgall/commit-prefix.nvim](https://github.com/ofirgall/commit-prefix.nvim) - Insert prefix to commit message by branch name (JIRA ticket for example)
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
-- [zdcthomas/yakko_wakko](https://github.com/zdcthomas/yakko_wakko) - DotFiles for macOS/Linux
 - [zdcthomas/easy-operator.nvim](https://github.com/zdcthomas/easy-operator.nvim) - 
 - [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) - make you some user operators for great good
 - [JoosepAlviste/palenightfall.nvim](https://github.com/JoosepAlviste/palenightfall.nvim) - 🌑 Neovim theme inspired by material palenight.
@@ -8700,6 +8698,7 @@
 
 - [benlubas/neorg-interim-ls](https://github.com/benlubas/neorg-interim-ls) - Temporarily providing a limited set of LSP features to neorg
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [zdcthomas/yakko_wakko](https://github.com/zdcthomas/yakko_wakko) - DotFiles for macOS/Linux
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
@@ -9475,7 +9474,7 @@
 - [C-Radius/.dotfiles](https://github.com/C-Radius/.dotfiles) - My linux dotfiles... that's about it all folks.
 - [addy-dclxvi/void-bspwm-dotfiles](https://github.com/addy-dclxvi/void-bspwm-dotfiles) - My personal backup of my dotfiles (Void Linux).
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [metakirby5/.dots](https://github.com/metakirby5/.dots) - :computer: All of my dotfiles.
 - [trizen/trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
