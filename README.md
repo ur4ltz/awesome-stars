@@ -4822,7 +4822,7 @@
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
 - [imsky/github-fresh](https://github.com/imsky/github-fresh) - :octocat: Keep your GitHub repo fresh.
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [rootVIII/queryFS](https://github.com/rootVIII/queryFS) - Recursively query a Linux file system - similar to find cmd
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [arduino/arduino-builder](https://github.com/arduino/arduino-builder) - A command line tool for compiling Arduino sketches
@@ -5738,6 +5738,7 @@
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 - [wewewe718/QrAndBarcodeScanner](https://github.com/wewewe718/QrAndBarcodeScanner) - An Android app for scanning QR codes and barcodes
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [fru1tstand/qbittorrent-exporter](https://github.com/fru1tstand/qbittorrent-exporter) - A kotin-based, prometheus exporter for qbittorrent that relies on qbittorrent's web ui.
 - [EmmyLua/EmmyLua-Unity](https://github.com/EmmyLua/EmmyLua-Unity) - EmmyLua unity3d plugin
 - [barbeau/gpstest](https://github.com/barbeau/gpstest) - The #1 open-source Android GNSS/GPS test program
@@ -10711,7 +10712,6 @@
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [neXromancers/shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [Luz/hexdino](https://github.com/Luz/hexdino) - A hex editor with vim like keybindings written in Rust.
 - [sebastiencs/rustorrent](https://github.com/sebastiencs/rustorrent) - A BitTorrent library implemented in Rust
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -11898,7 +11898,7 @@
 - [Koihik/vscode-lua-format](https://github.com/Koihik/vscode-lua-format) - Reformats your Lua source code
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [silverwind/updates](https://github.com/silverwind/updates) - Dependency update tool for npm, uv, golang and actions
+- [silverwind/updates](https://github.com/silverwind/updates) - CLI dependency update tool for npm, uv, cargo, go and actions
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
