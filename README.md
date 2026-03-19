@@ -310,6 +310,9 @@
 
 ## C 
 
+- [N7SIX/uv-k1-k5v3-firmware-custom](https://github.com/N7SIX/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
+- [muzkr/ass](https://github.com/muzkr/ass) - A Simple Scheduler
+- [muzkr/ichi](https://github.com/muzkr/ichi) - Bootloader Updater for Quansheng UV-K5 (V3) and Variants
 - [elmot/clion-2026.1-stm32l5-trustzone](https://github.com/elmot/clion-2026.1-stm32l5-trustzone) - CLion2026.1 TrustZone project example.
 - [max-moser/network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - NetworkManager VPN Plugin: Wireguard
 - [STM32-base/STM32-base-F1-template](https://github.com/STM32-base/STM32-base-F1-template) - A template for using STM32F1 series devices with the STM32-base project.
@@ -5347,6 +5350,7 @@
 
 ## JavaScript 
 
+- [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [Acode-Foundation/acode-plugin-smali](https://github.com/Acode-Foundation/acode-plugin-smali) - Smali language syntax highlighting for Acode editor
 - [Acode-Foundation/acode-plugin-volumn_cursor](https://github.com/Acode-Foundation/acode-plugin-volumn_cursor) - Control editor cursor.
@@ -10700,7 +10704,7 @@
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [ubolonton/emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) - Rust binding and tools for Emacs's dynamic modules
-- [joshuarli/srv](https://github.com/joshuarli/srv) - minimalist http(s) server and file browser
+- [joshuarli/srv](https://github.com/joshuarli/srv) - minimalist http server and file browser
 - [xi-frontend/xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [Peltoche/vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend
 - [vv9k/rkd](https://github.com/vv9k/rkd) - Rusty keybinding daemon
