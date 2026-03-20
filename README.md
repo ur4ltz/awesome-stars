@@ -310,6 +310,8 @@
 
 ## C 
 
+- [kd0oss/OpenRTX](https://github.com/kd0oss/OpenRTX) - Modular Open Source Radio Firmware
+- [superogira/uv-k1-k5v3-firmware-custom](https://github.com/superogira/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [N7SIX/uv-k1-k5v3-firmware-custom](https://github.com/N7SIX/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [muzkr/ass](https://github.com/muzkr/ass) - A Simple Scheduler
 - [muzkr/ichi](https://github.com/muzkr/ichi) - Bootloader Updater for Quansheng UV-K5 (V3) and Variants
@@ -1806,6 +1808,11 @@
 
 ## C++ 
 
+- [marshmadnesss/ESPHamClock](https://github.com/marshmadnesss/ESPHamClock) - ESP-based HamClock client (community-maintained mirror)
+- [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
+- [N7SIX/ESPHamClock](https://github.com/N7SIX/ESPHamClock) - A full archive of HamClock front-end releases
+- [N7SIX/ESPHamClock-v4.22](https://github.com/N7SIX/ESPHamClock-v4.22) - 
+- [tardate/ESPHamClock](https://github.com/tardate/ESPHamClock) - A full archive of HamClock front-end releases
 - [elmot/esp32_weatherstation](https://github.com/elmot/esp32_weatherstation) - ESP32 + Inky Impression weather station
 - [MKme/ST7735-Color-TFT-Display](https://github.com/MKme/ST7735-Color-TFT-Display) - ST7735 128X128 SPI Display Code & Projects
 - [jarzebski/Arduino-INA219](https://github.com/jarzebski/Arduino-INA219) - INA219 Zero-Drift, Bi-directional Current/Power Monitor Arduino Library
@@ -5350,6 +5357,8 @@
 
 ## JavaScript 
 
+- [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
+- [earldouglas/openhamclock](https://github.com/earldouglas/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [Acode-Foundation/acode-plugin-smali](https://github.com/Acode-Foundation/acode-plugin-smali) - Smali language syntax highlighting for Acode editor
@@ -8375,6 +8384,7 @@
 - [steino/lua-xmlrpc](https://github.com/steino/lua-xmlrpc) - Lua XML-RPC is a Lua package to access and provide XML-RPC services
 - [ningyou/Bunraku](https://github.com/ningyou/Bunraku) - Backend for Ningyou
 - [ningyou/Main](https://github.com/ningyou/Main) - The main ningyou project.
+- [jamestthompson3/vimConfig](https://github.com/jamestthompson3/vimConfig) - My vim configuration
 - [przmv/base16-vis](https://github.com/przmv/base16-vis) - Base16 for Vis
 - [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for Neovim and Vim
@@ -8775,6 +8785,8 @@
 
 ## Others 
 
+- [dmahony/LoRa-AX25-IP-Network](https://github.com/dmahony/LoRa-AX25-IP-Network) - Utilising inexpensive wireless modules and open source software to form networks over long distances using AX25 and IP networking in the unlicensed ISM bands, without reliance on a centralised service
+- [armel/k1-teardown](https://github.com/armel/k1-teardown) - Quansheng K1 teardown and analysis
 - [jonatanolofsson/maple-bootloader](https://github.com/jonatanolofsson/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
 - [jeff-hykin/better-syntax-vsce](https://github.com/jeff-hykin/better-syntax-vsce) - 📦 A VS Code extension-bundle with all the best syntax highlighting
 - [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and transmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR or SDRplay and signal processing using GNU Radio on Raspberry PI. GUI on a web b
@@ -12824,7 +12836,6 @@
 - [vheon/vim-cursormode](https://github.com/vheon/vim-cursormode) - guicursor for terminal user
 - [bazelbuild/vim-bazel](https://github.com/bazelbuild/vim-bazel) - Vim support for Bazel
 - [IliaOzhmegov/dotfiles](https://github.com/IliaOzhmegov/dotfiles) - 
-- [jamestthompson3/vimConfig](https://github.com/jamestthompson3/vimConfig) - My vim configuration
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [haya14busa/is.vim](https://github.com/haya14busa/is.vim) - incremental search improved - successor of incsearch.vim
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
@@ -12910,7 +12921,7 @@
 - [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 - [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - My personal dotfiles (how do these have so many stars?)
 - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
-- [Yamagi/vimrc](https://github.com/Yamagi/vimrc) - Github mirror of my (way too complex) vim configuration.
+- [Yamagi/vimrc](https://github.com/Yamagi/vimrc) - This repository has moved to https://codeberg.org/yamagi/vimrc
 - [lanx-x/NeoSolarized](https://github.com/lanx-x/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) - FlatColor vim colorscheme
