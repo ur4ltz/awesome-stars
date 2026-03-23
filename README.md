@@ -310,6 +310,8 @@
 
 ## C 
 
+- [currentmakers/blackmagic](https://github.com/currentmakers/blackmagic) - In-application debugger for ARM Cortex and RISC-V processors.
+- [STM32World/stm32fun](https://github.com/STM32World/stm32fun) - STM32 Beginners Fun
 - [kd0oss/OpenRTX](https://github.com/kd0oss/OpenRTX) - Modular Open Source Radio Firmware
 - [superogira/uv-k1-k5v3-firmware-custom](https://github.com/superogira/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [N7SIX/uv-k1-k5v3-firmware-custom](https://github.com/N7SIX/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
@@ -4662,6 +4664,7 @@
 
 ## Forth 
 
+- [currentmakers/foundation-forth](https://github.com/currentmakers/foundation-forth) - Forth constants for STM32 MCUs, auto-generated from SVD files.
 - [lowfatcomputing/amforth](https://github.com/lowfatcomputing/amforth) - amforth forth interpreter running on AVR ATmegas. Being ported to GNU avr-as from Atmel AVR Studio. Check the "port_to_avr-as" branch.
 - [lowfatcomputing/BIG-INTEGER-ANS-FORTH](https://github.com/lowfatcomputing/BIG-INTEGER-ANS-FORTH) - Calculating with dynamic integers in Forth
 - [lowfatcomputing/ffl](https://github.com/lowfatcomputing/ffl) - A general purpose Forth library
@@ -8786,6 +8789,9 @@
 
 ## Others 
 
+- [STM32World/hardware](https://github.com/STM32World/hardware) - STM32World Development Modules
+- [currentmakers/streamline_kicad_libraries](https://github.com/currentmakers/streamline_kicad_libraries) - Streamline KiCAD Library
+- [STM32World/stm32fun_bare-metal](https://github.com/STM32World/stm32fun_bare-metal) - STM32 Bare Metal fun
 - [dmahony/LoRa-AX25-IP-Network](https://github.com/dmahony/LoRa-AX25-IP-Network) - Utilising inexpensive wireless modules and open source software to form networks over long distances using AX25 and IP networking in the unlicensed ISM bands, without reliance on a centralised service
 - [armel/k1-teardown](https://github.com/armel/k1-teardown) - Quansheng K1 teardown and analysis
 - [jonatanolofsson/maple-bootloader](https://github.com/jonatanolofsson/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
@@ -10541,7 +10547,7 @@
 ## Rust 
 
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
@@ -10551,7 +10557,7 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Fast File Finder for your AI and neovim, with memory built-in
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
