@@ -467,7 +467,6 @@
 - [STMicroelectronics/STM32CubeC0](https://github.com/STMicroelectronics/STM32CubeC0) - Full firmware package for STM32C0 series containing CMSIS, HAL-LL, BSP drivers, MW libraries, and a set of projects ready for use on STM32C0 boards
 - [STMicroelectronics/STM32CubeN6](https://github.com/STMicroelectronics/STM32CubeN6) - STM32Cube MCU Full Package for the STM32N6 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)
 - [STMicroelectronics/STM32CubeH7RS](https://github.com/STMicroelectronics/STM32CubeH7RS) - STM32Cube MCU Full Package for the STM32H7RS series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST)
-- [STMicroelectronics/STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1) - Full Firmware Package for the STM32L1 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
 - [STMicroelectronics/STM32CubeL5](https://github.com/STMicroelectronics/STM32CubeL5) - STM32Cube MCU Full Package for the STM32L5 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [STMicroelectronics/STM32CubeH5](https://github.com/STMicroelectronics/STM32CubeH5) - Full firmware package for STM32H5 series containing CMSIS, HAL-LL, BSP drivers, MW libraries plus a set of projects.
 - [STMicroelectronics/STM32CubeL0](https://github.com/STMicroelectronics/STM32CubeL0) - STM32Cube MCU Full Package for the STM32L0 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
@@ -1557,7 +1556,7 @@
 - [nullgemm/termbox_next](https://github.com/nullgemm/termbox_next) - Library for writing text-based user interfaces
 - [tomas/termbox](https://github.com/tomas/termbox) - A fork of termbox that aims to handle input and keybindings correctly.
 - [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
-- [fletcher/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6) - (MultiMarkdown-7 is now in pre-release development here on GitHub
+- [fletcher/MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6) - This project is now deprecated.  Please use MultiMarkdown-7 instead!
 - [kevclark/cgit](https://github.com/kevclark/cgit) - a web frontend for git repositories - Updates for building and installing on Windows with msysGit
 - [m-schmoock/lcpp](https://github.com/m-schmoock/lcpp) - A Lua C PreProcessor
 - [drhsqlite/fossil-mirror](https://github.com/drhsqlite/fossil-mirror) - A test of the ability of the Fossil DVCS to mirror to GitHub
@@ -1675,7 +1674,7 @@
 - [msteveb/autosetup](https://github.com/msteveb/autosetup) - A better, faster autoconf replacement
 - [mwoz/Hildim.Source](https://github.com/mwoz/Hildim.Source) - 
 - [mcabber/loudmouth](https://github.com/mcabber/loudmouth) - An asynchronous XMPP library
-- [fletcher/MultiMarkdown-5](https://github.com/fletcher/MultiMarkdown-5) - Reference implementation of MultiMarkdown; replaces MultiMarkdown v4 (deprecated -- see MMD-6 instead)
+- [fletcher/MultiMarkdown-5](https://github.com/fletcher/MultiMarkdown-5) - This project is now deprecated.  Please use MultiMarkdown-7 instead!
 - [huangguiyang/tcc](https://github.com/huangguiyang/tcc) - Tiny C Compier v0.9.26
 - [johnhw/luajitpi](https://github.com/johnhw/luajitpi) - LuaJIT + TCC on RPi bare metal
 - [anael-seghezzi/tcc-0.9.26](https://github.com/anael-seghezzi/tcc-0.9.26) - tcc-0.9.26 fork
@@ -1690,7 +1689,7 @@
 - [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [edbrowse/edbrowse](https://github.com/edbrowse/edbrowse) - A command-line editor and web browser.
-- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
+- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [wahern/luaossl](https://github.com/wahern/luaossl) - Most comprehensive OpenSSL module in the Lua universe.
 - [pixeljetstream/luxinia1](https://github.com/pixeljetstream/luxinia1) - engine source code for the luxinia game engine
@@ -3445,7 +3444,6 @@
 ## CMake 
 
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [alexf91/gr-nordic](https://github.com/alexf91/gr-nordic) - GNU Radio module and Wireshark dissector for the Nordic Semiconductor nRF24L Enhanced Shockburst protocol.
 - [BastilleResearch/gr-nordic](https://github.com/BastilleResearch/gr-nordic) - GNU Radio module and Wireshark dissector for the Nordic Semiconductor nRF24L Enhanced Shockburst protocol.
 - [ViacheslavMezentsev/avr-cmake](https://github.com/ViacheslavMezentsev/avr-cmake) - This project is used to develop applications for the AVR MCUs. It uses cmake and GCC.
 - [nmeum/android-tools](https://github.com/nmeum/android-tools) - Unoffical CMake-based build system for android command line utilities
@@ -5117,6 +5115,7 @@
 - [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
 - [Konstantin8105/Effective_Go_RU](https://github.com/Konstantin8105/Effective_Go_RU) - Перевод - Эффективный Go
+- [STMicroelectronics/STM32CubeL1](https://github.com/STMicroelectronics/STM32CubeL1) - Full Firmware Package for the STM32L1 series: HAL+LL drivers, CMSIS, BSP, MW, plus a set of Projects (examples and demos) running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits).
 - [STMicroelectronics/STM32CubeF1](https://github.com/STMicroelectronics/STM32CubeF1) - STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discov
 - [tinyvision-ai-inc/pico-ice](https://github.com/tinyvision-ai-inc/pico-ice) - Raspberry Pi PICO board + Lattice iCE40 FPGA's
 - [bittorrent/go-btfs](https://github.com/bittorrent/go-btfs) - BTFS - The First Scalable Decentralized Storage System - A Foundational Platform for Decentralized Applications
@@ -9351,7 +9350,7 @@
 - [drakulavich/russian-sublime-cheatsheet](https://github.com/drakulavich/russian-sublime-cheatsheet) - PDF-шпаргалка по клавиатурным сочетаниям Sublime Text
 - [noct/sublime-cpp11](https://github.com/noct/sublime-cpp11) - Replacement self-contained C++11 syntax definition for Sublime Text
 - [luarocks/lua-style-guide](https://github.com/luarocks/lua-style-guide) - Lua Style Guide, as used by LuaRocks
-- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [arvind-naidu/rutorrent-installer](https://github.com/arvind-naidu/rutorrent-installer) - Eaziest rutorrent & rtorrent installer + Web server, FTP, Webmin (Ubuntu/Debian/Fedora/More)
 - [jaap-karssenberg/zim-wiki](https://github.com/jaap-karssenberg/zim-wiki) - This repository is a placeholder so we can use the asociated wiki for community documentation.
 - [abcminiuser/sublimetext-gnu-map](https://github.com/abcminiuser/sublimetext-gnu-map) - SublimeText 3 syntax definition for GCC MAP files.
@@ -11826,7 +11825,6 @@
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
 - [lambdalisue/vim-guise](https://github.com/lambdalisue/vim-guise) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
-- [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [bscan/PerlNavigator](https://github.com/bscan/PerlNavigator) - Perl Language Server that includes syntax checking, perl critic, and code navigation
@@ -13330,6 +13328,7 @@
 
 - [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
 - [6c65726f79/Transmissionic](https://github.com/6c65726f79/Transmissionic) - Remote for Transmission Daemon
+- [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
