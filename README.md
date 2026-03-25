@@ -310,9 +310,13 @@
 
 ## C 
 
+- [Robby69400/Robzyl_K1](https://github.com/Robby69400/Robzyl_K1) - 
+- [Robby69400/Robzyl_K5V1](https://github.com/Robby69400/Robzyl_K5V1) - Support for extended EEPROM
+- [ivang78/si5351-tiny-vfo](https://github.com/ivang78/si5351-tiny-vfo) - VFO build around Si5351, Attiny85, ssd1306
 - [currentmakers/blackmagic](https://github.com/currentmakers/blackmagic) - In-application debugger for ARM Cortex and RISC-V processors.
 - [STM32World/stm32fun](https://github.com/STM32World/stm32fun) - STM32 Beginners Fun
 - [kd0oss/OpenRTX](https://github.com/kd0oss/OpenRTX) - Modular Open Source Radio Firmware
+- [armel/k1-teardown](https://github.com/armel/k1-teardown) - Quansheng K1 teardown and analysis
 - [superogira/uv-k1-k5v3-firmware-custom](https://github.com/superogira/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [N7SIX/uv-k1-k5v3-firmware-custom](https://github.com/N7SIX/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [muzkr/ass](https://github.com/muzkr/ass) - A Simple Scheduler
@@ -667,7 +671,7 @@
 - [lujji/blackmagic](https://github.com/lujji/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [STMicroelectronics/stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) - Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.
 - [nr-electronics/DiY](https://github.com/nr-electronics/DiY) - DiY
-- [IgrikXD/rpitx-ui](https://github.com/IgrikXD/rpitx-ui) - RF transmitter for Raspberry Pi with improved UI functionality.
+- [IgrikXD/rpitx-ui](https://github.com/IgrikXD/rpitx-ui) - RF transmitter for Raspberry Pi with improved UI functionality, built with CMake.
 - [PTDreamer/stm32_soldering_iron_controller](https://github.com/PTDreamer/stm32_soldering_iron_controller) - Custom firmware for the chinese ksger soldering iron controller
 - [deividAlfa/stm32_soldering_iron_controller](https://github.com/deividAlfa/stm32_soldering_iron_controller) - Custom firmware for Quicko and KSGER T12 soldering stations
 - [well-techn/Aquila](https://github.com/well-techn/Aquila) - 
@@ -1809,10 +1813,9 @@
 
 ## C++ 
 
+- [Robby69400/k5prog-win](https://github.com/Robby69400/k5prog-win) - A windows GUI version of k5prog
 - [marshmadnesss/ESPHamClock](https://github.com/marshmadnesss/ESPHamClock) - ESP-based HamClock client (community-maintained mirror)
 - [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
-- [N7SIX/ESPHamClock](https://github.com/N7SIX/ESPHamClock) - A full archive of HamClock front-end releases
-- [N7SIX/ESPHamClock-v4.22](https://github.com/N7SIX/ESPHamClock-v4.22) - 
 - [tardate/ESPHamClock](https://github.com/tardate/ESPHamClock) - A full archive of HamClock front-end releases
 - [elmot/esp32_weatherstation](https://github.com/elmot/esp32_weatherstation) - ESP32 + Inky Impression weather station
 - [MKme/ST7735-Color-TFT-Display](https://github.com/MKme/ST7735-Color-TFT-Display) - ST7735 128X128 SPI Display Code & Projects
@@ -4842,7 +4845,7 @@
 - [WhoIsSethDaniel/nvim-go-client-examples](https://github.com/WhoIsSethDaniel/nvim-go-client-examples) - Examples of using the nvim go client and documentation for the client
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [darmiel/365-days-notifier](https://github.com/darmiel/365-days-notifier) - 365 days of code
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -8792,7 +8795,6 @@
 - [currentmakers/streamline_kicad_libraries](https://github.com/currentmakers/streamline_kicad_libraries) - Streamline KiCAD Library
 - [STM32World/stm32fun_bare-metal](https://github.com/STM32World/stm32fun_bare-metal) - STM32 Bare Metal fun
 - [dmahony/LoRa-AX25-IP-Network](https://github.com/dmahony/LoRa-AX25-IP-Network) - Utilising inexpensive wireless modules and open source software to form networks over long distances using AX25 and IP networking in the unlicensed ISM bands, without reliance on a centralised service
-- [armel/k1-teardown](https://github.com/armel/k1-teardown) - Quansheng K1 teardown and analysis
 - [jonatanolofsson/maple-bootloader](https://github.com/jonatanolofsson/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
 - [jeff-hykin/better-syntax-vsce](https://github.com/jeff-hykin/better-syntax-vsce) - 📦 A VS Code extension-bundle with all the best syntax highlighting
 - [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and transmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR or SDRplay and signal processing using GNU Radio on Raspberry PI. GUI on a web b
@@ -9536,6 +9538,7 @@
 
 ## PowerShell 
 
+- [openhab/openhab-distro](https://github.com/openhab/openhab-distro) - The binary distribution of openHAB
 - [Bouni/Arduino-Pinout](https://github.com/Bouni/Arduino-Pinout) - 
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
@@ -10559,7 +10562,7 @@
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
-- [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Rainbow highlighting and intelligent auto-pairs for Neovim
+- [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
 - [enricozb/popup.kak](https://github.com/enricozb/popup.kak) - Kakoune popup plugin
 - [ul/kak-tree](https://github.com/ul/kak-tree) - Structural selections for Kakoune
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
@@ -11604,7 +11607,7 @@
 - [Mange/rofi-lpass](https://github.com/Mange/rofi-lpass) - Lastpass integration with Rofi
 - [srcery-colors/srcery-tmux](https://github.com/srcery-colors/srcery-tmux) - tmux theme for srcery
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-- [alanchrt/dotfiles](https://github.com/alanchrt/dotfiles) - Fedora, GNOME, Doom Emacs, tmux, Zsh, and so much more
+- [alanchrt/dotfiles](https://github.com/alanchrt/dotfiles) - Fedora, GNOME, Doom Emacs, Claude Code, tmux, Zsh, and so much more
 - [portacle/portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [eed3si9n/git-gone](https://github.com/eed3si9n/git-gone) - 
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
