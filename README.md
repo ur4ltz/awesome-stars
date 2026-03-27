@@ -92,6 +92,7 @@
 - [Processing](#processing)
 - [Prolog](#prolog)
 - [Python](#python)
+- [QML](#qml)
 - [QMake](#qmake)
 - [ReScript](#rescript)
 - [Reason](#reason)
@@ -310,6 +311,15 @@
 
 ## C 
 
+- [lbthomsen/i2c_led](https://github.com/lbthomsen/i2c_led) - Creating a I2C RGB LED Board From Scratch
+- [lbthomsen/blackpill](https://github.com/lbthomsen/blackpill) - STM32 Black Pill board play (stm32f411)
+- [lbthomsen/stm32-ws2812](https://github.com/lbthomsen/stm32-ws2812) - STM32 Library for WS2812B using DMA+PWM
+- [lbthomsen/STM32_Bare_Metal](https://github.com/lbthomsen/STM32_Bare_Metal) - STM32 Bare Metal experiments
+- [lbthomsen/DAPLink-stlink](https://github.com/lbthomsen/DAPLink-stlink) - 
+- [lbthomsen/stm32-st7789](https://github.com/lbthomsen/stm32-st7789) - STM32 HAL ST7789 Driver
+- [lbthomsen/st-link](https://github.com/lbthomsen/st-link) - ST-Link Research
+- [Floyd-Fish/ST7789-STM32](https://github.com/Floyd-Fish/ST7789-STM32) - using STM32's Hardware SPI to drive a ST7789 based IPS displayer
+- [lbthomsen/stm32-w25qxx](https://github.com/lbthomsen/stm32-w25qxx) - STM32 W25Qxx Driver
 - [Robby69400/Robzyl_K1](https://github.com/Robby69400/Robzyl_K1) - 
 - [Robby69400/Robzyl_K5V1](https://github.com/Robby69400/Robzyl_K5V1) - Support for extended EEPROM
 - [ivang78/si5351-tiny-vfo](https://github.com/ivang78/si5351-tiny-vfo) - VFO build around Si5351, Attiny85, ssd1306
@@ -669,7 +679,7 @@
 - [alexf91/WSPR-Beacon](https://github.com/alexf91/WSPR-Beacon) - Si5351 based WSPR beacon
 - [UncleRus/esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) - Component library for ESP32-xx and ESP8266
 - [lujji/blackmagic](https://github.com/lujji/blackmagic) - In application debugger for ARM Cortex microcontrollers.
-- [STMicroelectronics/stm32-external-loader](https://github.com/STMicroelectronics/stm32-external-loader) - Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.
+- [STMicroelectronics/stm32-memory-loaders](https://github.com/STMicroelectronics/stm32-memory-loaders) - Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.
 - [nr-electronics/DiY](https://github.com/nr-electronics/DiY) - DiY
 - [IgrikXD/rpitx-ui](https://github.com/IgrikXD/rpitx-ui) - RF transmitter for Raspberry Pi with improved UI functionality, built with CMake.
 - [PTDreamer/stm32_soldering_iron_controller](https://github.com/PTDreamer/stm32_soldering_iron_controller) - Custom firmware for the chinese ksger soldering iron controller
@@ -3480,7 +3490,6 @@
 - [AndronixApp/docs](https://github.com/AndronixApp/docs) - 
 - [davinche/godown-vim](https://github.com/davinche/godown-vim) - Vim plugin for Godown Markdown Previewer
 - [RoryNesbitt/DotFiles](https://github.com/RoryNesbitt/DotFiles) - My config files and aliases
-- [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
@@ -4610,7 +4619,7 @@
 - [alexott/emacs-configs](https://github.com/alexott/emacs-configs) - My personal Emacs configuration
 - [arthurnn/minitest-emacs](https://github.com/arthurnn/minitest-emacs) - A minitest mode for emacs
 - [bbatsov/projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
-- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [dimitri/el-get](https://github.com/dimitri/el-get) - Manage the external elisp bits and pieces upon which you depend!
 - [leahneukirchen/gitsum](https://github.com/leahneukirchen/gitsum) - basic darcsum feelalike for Git
 - [tsgates/git-emacs](https://github.com/tsgates/git-emacs) - Yet another git mode on emacs for newbies
@@ -9192,7 +9201,6 @@
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [folixg/kinda-fishy-theme](https://github.com/folixg/kinda-fishy-theme) - oh-my-zsh theme based on fishy theme
 - [w33tmaricich/enlightenment](https://github.com/w33tmaricich/enlightenment) - Another zshell theme.
-- [thornjad/vero](https://github.com/thornjad/vero) - Vero theme for zsh
 - [dpdornseifer/docker-zsh-theme](https://github.com/dpdornseifer/docker-zsh-theme) - Zsh theme (based on the Bureau theme) that shows the DOCKER_HOST configuration in a terminal session.
 - [mil/suckless-patches](https://github.com/mil/suckless-patches) - Miles' patches for suckless software
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
@@ -10403,6 +10411,10 @@
 - [xiaket/better-header](https://github.com/xiaket/better-header) - Better header management for vim
 - [skibyte/gdblib](https://github.com/skibyte/gdblib) - A module to interact with GDB debugger
 
+## QML 
+
+- [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
+
 ## QMake 
 
 - [VioletGiraffe/GPS-Server](https://github.com/VioletGiraffe/GPS-Server) - A TCP server that listens to the locally connected GPS receiver and translates its incoming data over the network.
@@ -11363,6 +11375,7 @@
 - [hoop33/dotfiles](https://github.com/hoop33/dotfiles) - My configuration files
 - [Saleh7/igeek-zsh-theme](https://github.com/Saleh7/igeek-zsh-theme) - ZSH theme
 - [eendroroy/theta](https://github.com/eendroroy/theta) - A fast and verbose zsh prompt
+- [thornjad/vero](https://github.com/thornjad/vero) - Vero theme for zsh
 - [kristijanhusak/tmux-simple-git-status](https://github.com/kristijanhusak/tmux-simple-git-status) - Add simple git status to your tmux statusline.
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [gpakosz/.newsboat](https://github.com/gpakosz/.newsboat) - My newsboat configuration
