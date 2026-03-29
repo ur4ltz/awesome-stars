@@ -311,6 +311,8 @@
 
 ## C 
 
+- [stDstm/Example_STM32F103](https://github.com/stDstm/Example_STM32F103) - 
+- [controllerstech/STM32-HAL](https://github.com/controllerstech/STM32-HAL) - STM32 Projects
 - [lbthomsen/i2c_led](https://github.com/lbthomsen/i2c_led) - Creating a I2C RGB LED Board From Scratch
 - [lbthomsen/blackpill](https://github.com/lbthomsen/blackpill) - STM32 Black Pill board play (stm32f411)
 - [lbthomsen/stm32-ws2812](https://github.com/lbthomsen/stm32-ws2812) - STM32 Library for WS2812B using DMA+PWM
@@ -2423,7 +2425,7 @@
 - [sq9nje/si5351](https://github.com/sq9nje/si5351) - SI5351 Arduino Library
 - [dl5dla/T1-Interface-for-IC-705](https://github.com/dl5dla/T1-Interface-for-IC-705) - Control the Elecraft tuner T1 with an ESP32, which connects to the ICOM IC-705 via bluetooth
 - [ok1cdj/IC705-BT-CIV](https://github.com/ok1cdj/IC705-BT-CIV) - Comunication with IC-705 over bluetooth on ESP32
-- [per1234/ThemeTest](https://github.com/per1234/ThemeTest) - Documentation and a testing sketch for modifying Arduino IDE themes
+- [per1234/ThemeTest](https://github.com/per1234/ThemeTest) - Documentation and a testing sketch for modifying Arduino IDE 1.x themes
 - [Narwhalsss360/NRotary](https://github.com/Narwhalsss360/NRotary) - Narwhalsss360's NRotary library for arduino projects using rotary encoders.
 - [alexitoo00/NewEncoder](https://github.com/alexitoo00/NewEncoder) - A library that makes coding a rotary encoder a breeze with useful functions
 - [Chris--A/Keypad](https://github.com/Chris--A/Keypad) - A version of the keypad library found in Wiring. This is just a copy made compatible with the Arduino IDE library manager.
@@ -8800,6 +8802,10 @@
 
 ## Others 
 
+- [RusikOk/-BluePill-to-J-Link-OB-v1.0](https://github.com/RusikOk/-BluePill-to-J-Link-OB-v1.0) - успешная попытка создать программатор J-Link OB v1.0 на чипе CS32F103
+- [skrimix/stlinkreflash](https://github.com/skrimix/stlinkreflash) - ST-Link V2 clone to J-Link
+- [Zelmoghazy/st-link-v2-clone](https://github.com/Zelmoghazy/st-link-v2-clone) - How to Program and Recover Chinese Clone of the st-link v2 and reflash it to segger j-link
+- [k1zmt/PhilsLibraries](https://github.com/k1zmt/PhilsLibraries) - KiCAD symbols, footprints and packages for ham-radio. SWR bridge, T50 toroids, BN-baluns, Si5351, OLED etc.
 - [STM32World/hardware](https://github.com/STM32World/hardware) - STM32World Development Modules
 - [currentmakers/streamline_kicad_libraries](https://github.com/currentmakers/streamline_kicad_libraries) - Streamline KiCAD Library
 - [STM32World/stm32fun_bare-metal](https://github.com/STM32World/stm32fun_bare-metal) - STM32 Bare Metal fun
@@ -9350,7 +9356,7 @@
 - [martin-eden/contents](https://github.com/martin-eden/contents) - Links to repositories
 - [beagleboard/beaglebone-black](https://github.com/beagleboard/beaglebone-black) - Design and Document files for the BeagleBone Black from BeagleBoard.org
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
-- [FreeCAD/FreeCAD-addons](https://github.com/FreeCAD/FreeCAD-addons) - A convenient gathering of useful and well-developed FreeCAD plugins made by the community.
+- [FreeCAD/FreeCAD-addons](https://github.com/FreeCAD/FreeCAD-addons) - Legacy index for FreeCAD &lt; 1.0.0
 - [stan-kondrat/vim8-jspack](https://github.com/stan-kondrat/vim8-jspack) - Vim 8 Javascript development  package 🚀
 - [vifm/vifm-colors](https://github.com/vifm/vifm-colors) - Various colorschemes for vifm file explorer.
 - [dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) - Sublime Text essential plugins and resources
@@ -9562,6 +9568,7 @@
 
 ## Python 
 
+- [Zelmoghazy/clangd-compilation-database-generator](https://github.com/Zelmoghazy/clangd-compilation-database-generator) - Manually generate Clang's compile_commands.json file.
 - [JPaulMora/Pyrit](https://github.com/JPaulMora/Pyrit) - The famous WPA precomputed cracker, Migrated from Google.
 - [xyproto/cxx](https://github.com/xyproto/cxx) - :electric_plug: Configuration-free utility for building, testing and packaging executables written in C++. Can auto-detect compilation flags based on includes, via the package system and pkg-config.
 - [ussserrr/stm32pio](https://github.com/ussserrr/stm32pio) - Automate managing of STM32CubeMX + PlatformIO projects
