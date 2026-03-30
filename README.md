@@ -23,6 +23,7 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
+- [Coq](#coq)
 - [Crystal](#crystal)
 - [Cython](#cython)
 - [D](#d)
@@ -101,6 +102,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SWIG](#swig)
 - [SaltStack](#saltstack)
 - [Scala](#scala)
 - [Scheme](#scheme)
@@ -311,6 +313,14 @@
 
 ## C 
 
+- [XGudron/rtl_hpsdr](https://github.com/XGudron/rtl_hpsdr) - An RTL to HPSDR sdr software translation server.
+- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) - FreeRTOS adaptation for CMSIS-RTOS Version 2
+- [ARM-software/CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
+- [XGudron/UA3REO-Beacon](https://github.com/XGudron/UA3REO-Beacon) - HF\VHF\UHF\SHF CW beacon based on MAX2870
+- [XGudron/librtlsdr](https://github.com/XGudron/librtlsdr) - Software to turn the RTL2832U into an SDR and also an HPSDR
+- [steve-m/librtlsdr](https://github.com/steve-m/librtlsdr) - Software to turn the RTL2832U into an SDR
+- [n1gp/librtlsdr](https://github.com/n1gp/librtlsdr) - Software to turn the RTL2832U into an SDR and also an HPSDR
+- [lishirong66/WOLF-DDC-Transceiver](https://github.com/lishirong66/WOLF-DDC-Transceiver) - DDC/DUC SDR Tranceiver project
 - [stDstm/Example_STM32F103](https://github.com/stDstm/Example_STM32F103) - 
 - [controllerstech/STM32-HAL](https://github.com/controllerstech/STM32-HAL) - STM32 Projects
 - [lbthomsen/i2c_led](https://github.com/lbthomsen/i2c_led) - Creating a I2C RGB LED Board From Scratch
@@ -1825,6 +1835,16 @@
 
 ## C++ 
 
+- [williamyang98/FM-Radio](https://github.com/williamyang98/FM-Radio) - Demodulator for broadcast FM which includes stereo audio and RDS (radio data system) decoding
+- [williamyang98/SDRPlusPlus-DAB-Radio-Plugin](https://github.com/williamyang98/SDRPlusPlus-DAB-Radio-Plugin) - DAB radio plugin for SDR++
+- [Sultan-papagani/sdrpp_rtlsdr_source](https://github.com/Sultan-papagani/sdrpp_rtlsdr_source) - a newer rtl-sdr source for sdr++ with old-dab/rtlsdr
+- [d3cker/mmsstv-sp6xd](https://github.com/d3cker/mmsstv-sp6xd) - MMSSTV LGPL source repository
+- [n5ac/mmsstv](https://github.com/n5ac/mmsstv) - MMSSTV LGPL source repository
+- [d3cker/wsjtx-regex-filter](https://github.com/d3cker/wsjtx-regex-filter) - WSJT-X Regex filter - ignore calls from stations matching regex filter
+- [d3cker/wsjtx-ignoreru](https://github.com/d3cker/wsjtx-ignoreru) - WSJT-X patch to ignore calls from RU
+- [n8ohu/DMRRepeater](https://github.com/n8ohu/DMRRepeater) - Open Source DMR Repeater software for Linux and Windows
+- [d3cker/sdrppcontroller](https://github.com/d3cker/sdrppcontroller) - Arduino SDR++ Controller
+- [XGudron/UA3REO-Sweep-Analyzer](https://github.com/XGudron/UA3REO-Sweep-Analyzer) - 
 - [Robby69400/k5prog-win](https://github.com/Robby69400/k5prog-win) - A windows GUI version of k5prog
 - [marshmadnesss/ESPHamClock](https://github.com/marshmadnesss/ESPHamClock) - ESP-based HamClock client (community-maintained mirror)
 - [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
@@ -3604,6 +3624,10 @@
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
 - [slime/slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
 
+## Coq 
+
+- [arktur04/1801VM1_docs](https://github.com/arktur04/1801VM1_docs) - Documentation and the Verilog model of the Soviet microprocessor 1801VM1 (also VM2 and VM3)
+
 ## Crystal 
 
 - [TravonteD/peridot](https://github.com/TravonteD/peridot) - A MPD (Music Player Daemon) Client written in Crystal
@@ -4752,7 +4776,7 @@
 - [abs-lang/abs](https://github.com/abs-lang/abs) - Home of the ABS programming language: the joy of shell scripting.
 - [leafo/folio](https://github.com/leafo/folio) - 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [posener/complete](https://github.com/posener/complete) - bash completion written in go + bash completion for go command
 - [burmilla/os](https://github.com/burmilla/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -4981,7 +5005,7 @@
 - [matei-oltean/go-torrent](https://github.com/matei-oltean/go-torrent) - Command line torrent client written in Go
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [MichaelS11/go-tetris](https://github.com/MichaelS11/go-tetris) - Golang Tetris for console window with optional AI
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
@@ -5124,6 +5148,8 @@
 
 ## HTML 
 
+- [XGudron/url-to-pdf-api](https://github.com/XGudron/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
+- [XGudron/UA3REO-DDC-Transceiver](https://github.com/XGudron/UA3REO-DDC-Transceiver) - 
 - [MKme/XCOM](https://github.com/MKme/XCOM) - 
 - [cropinghigh/sdrpp-moduledb](https://github.com/cropinghigh/sdrpp-moduledb) - SDR++ Public Community Module DB
 - [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
@@ -7367,7 +7393,7 @@
 - [jeetsukumaran/telescope-grab-lines.nvim](https://github.com/jeetsukumaran/telescope-grab-lines.nvim) - 
 - [jeetsukumaran/telescope-buffer-lines.nvim](https://github.com/jeetsukumaran/telescope-buffer-lines.nvim) - Find lines from across all open buffers and insert selected into current buffer.
 - [doums/espresso.nvim](https://github.com/doums/espresso.nvim) - Espresso :coffee: a nvim colorscheme
-- [doums/oterm.nvim](https://github.com/doums/oterm.nvim) - A neovim plugin to open terminal quickly and nicely.
+- [doums/oterm.nvim](https://github.com/doums/oterm.nvim) - nvim plugin to spawn terminals
 - [yatli/gui-widgets.nvim](https://github.com/yatli/gui-widgets.nvim) - 
 - [rmagatti/igs.nvim](https://github.com/rmagatti/igs.nvim) - A minimalist Neovim plugin that enhances the usage of git status inside Neovim.
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
@@ -8802,6 +8828,9 @@
 
 ## Others 
 
+- [d3cker/gsoc-puhumod](https://github.com/d3cker/gsoc-puhumod) - Xiegu GSOC software mod a.k.a "путін хуй".
+- [handiko/VHF-LNA](https://github.com/handiko/VHF-LNA) - VHF Low Noise Amplifier Circuit & PCB using common MMIC
+- [XGudron/VHF-LNA](https://github.com/XGudron/VHF-LNA) - VHF Low Noise Amplifier Circuit & PCB using common MMIC
 - [RusikOk/-BluePill-to-J-Link-OB-v1.0](https://github.com/RusikOk/-BluePill-to-J-Link-OB-v1.0) - успешная попытка создать программатор J-Link OB v1.0 на чипе CS32F103
 - [skrimix/stlinkreflash](https://github.com/skrimix/stlinkreflash) - ST-Link V2 clone to J-Link
 - [Zelmoghazy/st-link-v2-clone](https://github.com/Zelmoghazy/st-link-v2-clone) - How to Program and Recover Chinese Clone of the st-link v2 and reflash it to segger j-link
@@ -9568,6 +9597,9 @@
 
 ## Python 
 
+- [d3cker/GhosttyConfigGUI](https://github.com/d3cker/GhosttyConfigGUI) - Unofficial GUI configurator for Ghostty. Fully vibecoded - it was easier to use Claude Code than read the documentation and write the configuration file ;)
+- [zeroping/xiegu-g90-headprotocol](https://github.com/zeroping/xiegu-g90-headprotocol) - Work to reverse engineer the protocol for the Xiegu G90's head unit.
+- [d3cker/g90puhuApp](https://github.com/d3cker/g90puhuApp) - Xiegu G90 App for "путін хуй" Xiegu GSOC mod.
 - [Zelmoghazy/clangd-compilation-database-generator](https://github.com/Zelmoghazy/clangd-compilation-database-generator) - Manually generate Clang's compile_commands.json file.
 - [JPaulMora/Pyrit](https://github.com/JPaulMora/Pyrit) - The famous WPA precomputed cracker, Migrated from Google.
 - [xyproto/cxx](https://github.com/xyproto/cxx) - :electric_plug: Configuration-free utility for building, testing and packaging executables written in C++. Can auto-detect compilation flags based on includes, via the package system and pkg-config.
@@ -10802,6 +10834,10 @@
 - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - vimways.org
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
 
+## SWIG 
+
+- [Sultan-papagani/BismuthSDR](https://github.com/Sultan-papagani/BismuthSDR) - Source files for BismuthSDR
+
 ## SaltStack 
 
 - [skbolton/titan](https://github.com/skbolton/titan) - Orlando's one call install
@@ -11944,7 +11980,7 @@
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [silverwind/updates](https://github.com/silverwind/updates) - CLI dependency update tool for npm, uv, cargo, go and actions
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
-- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
+- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
@@ -12019,6 +12055,7 @@
 
 ## Verilog 
 
+- [rejunity/z80-open-silicon](https://github.com/rejunity/z80-open-silicon) - Z80 open-source silicon clone. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.
 - [johnwinans/2067-Z8S180](https://github.com/johnwinans/2067-Z8S180) - Z8S180 Breakout Board
 - [alangarf/tm1638-verilog](https://github.com/alangarf/tm1638-verilog) - A basic verilog driver for the TM1638 LED and key matrix chip
 
