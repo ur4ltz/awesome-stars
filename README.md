@@ -313,6 +313,8 @@
 
 ## C 
 
+- [manaskamal/XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
+- [maxdev1/ghost](https://github.com/maxdev1/ghost) - Ghost, a micro-kernel based hobby operating system.
 - [XGudron/rtl_hpsdr](https://github.com/XGudron/rtl_hpsdr) - An RTL to HPSDR sdr software translation server.
 - [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) - FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
@@ -1835,6 +1837,7 @@
 
 ## C++ 
 
+- [maxdev1/fenster](https://github.com/maxdev1/fenster) - A small, lightweight window server and UI toolkit designed for easy embedding and minimal dependencies.
 - [williamyang98/FM-Radio](https://github.com/williamyang98/FM-Radio) - Demodulator for broadcast FM which includes stereo audio and RDS (radio data system) decoding
 - [williamyang98/SDRPlusPlus-DAB-Radio-Plugin](https://github.com/williamyang98/SDRPlusPlus-DAB-Radio-Plugin) - DAB radio plugin for SDR++
 - [Sultan-papagani/sdrpp_rtlsdr_source](https://github.com/Sultan-papagani/sdrpp_rtlsdr_source) - a newer rtl-sdr source for sdr++ with old-dab/rtlsdr
@@ -5826,6 +5829,10 @@
 
 ## Lua 
 
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
+- [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
+- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - Tmux command completion source for blink.cmp
+- [dynamotn/blink-cmp-zellij](https://github.com/dynamotn/blink-cmp-zellij) - Completion source from zellij for blink.cmp
 - [L3MON4D3/luals-mdgen](https://github.com/L3MON4D3/luals-mdgen) - Generate documentation in markdown from LuaCATS-annotations
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - 
@@ -11816,6 +11823,7 @@
 
 ## TypeScript 
 
+- [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [GopeedLab/browser-extension](https://github.com/GopeedLab/browser-extension) - A browser extension for Gopeed.
