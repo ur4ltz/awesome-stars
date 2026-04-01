@@ -313,6 +313,15 @@
 
 ## C 
 
+- [afiskon/stm32-multi-channel-adc](https://github.com/afiskon/stm32-multi-channel-adc) - STM32: Multi-channel ADC usage example
+- [GolinskiyKonstantin/STM32_Lib_TFT_ST7735](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ST7735) - STM32 Display ST7735 160x128 128x128 160x80 EN UA RUS
+- [GolinskiyKonstantin/STM32_Lib_TFT_ili9341](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ili9341) - STM32_Lib_TFT_ili9341 320x240 EN UA RUS
+- [Solderingironspb/STM32F411CEU6_CMSIS_notes](https://github.com/Solderingironspb/STM32F411CEU6_CMSIS_notes) - Практика по CMSIS на STM32F411CEU6
+- [Solderingironspb/STM32F103C8T6_CMSIS_Examples](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_Examples) - Примеры проектов на CMSIS
+- [Solderingironspb/thermocouple_calculator](https://github.com/Solderingironspb/thermocouple_calculator) - 
+- [Solderingironspb/CMSIS_PROJECT_CREATOR](https://github.com/Solderingironspb/CMSIS_PROJECT_CREATOR) - Скрипты для создания нового проекта под CMSIS без CubeMX
+- [Solderingironspb/STM32F103C8T6_CMSIS_notes](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes) - Изучаем CMSIS на STM32F103C8T6
+- [drewpo28/pico-spec](https://github.com/drewpo28/pico-spec) - ESPectrum port for ZX Murmulator (Raspberry Pi Pico)
 - [manaskamal/XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
 - [maxdev1/ghost](https://github.com/maxdev1/ghost) - Ghost, a micro-kernel based hobby operating system.
 - [XGudron/rtl_hpsdr](https://github.com/XGudron/rtl_hpsdr) - An RTL to HPSDR sdr software translation server.
@@ -8835,6 +8844,7 @@
 
 ## Others 
 
+- [GolinskiyKonstantin/STLINKV3-MODS](https://github.com/GolinskiyKonstantin/STLINKV3-MODS) - ST-Link V3 MINI ( V3MODS ) Adapter ( STLINKV3-MODS )
 - [d3cker/gsoc-puhumod](https://github.com/d3cker/gsoc-puhumod) - Xiegu GSOC software mod a.k.a "путін хуй".
 - [handiko/VHF-LNA](https://github.com/handiko/VHF-LNA) - VHF Low Noise Amplifier Circuit & PCB using common MMIC
 - [XGudron/VHF-LNA](https://github.com/XGudron/VHF-LNA) - VHF Low Noise Amplifier Circuit & PCB using common MMIC
@@ -9604,6 +9614,7 @@
 
 ## Python 
 
+- [Solderingironspb/KiCad-footprints-and-symbols](https://github.com/Solderingironspb/KiCad-footprints-and-symbols) - Модифицированные символы и посадочные места. KiCad 8.0
 - [d3cker/GhosttyConfigGUI](https://github.com/d3cker/GhosttyConfigGUI) - Unofficial GUI configurator for Ghostty. Fully vibecoded - it was easier to use Claude Code than read the documentation and write the configuration file ;)
 - [zeroping/xiegu-g90-headprotocol](https://github.com/zeroping/xiegu-g90-headprotocol) - Work to reverse engineer the protocol for the Xiegu G90's head unit.
 - [d3cker/g90puhuApp](https://github.com/d3cker/g90puhuApp) - Xiegu G90 App for "путін хуй" Xiegu GSOC mod.
@@ -10873,6 +10884,7 @@
 
 ## Shell 
 
+- [txurtxil/termux-ia-local](https://github.com/txurtxil/termux-ia-local) - 
 - [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds) - FFmpeg Builds for yt-dlp
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night.
