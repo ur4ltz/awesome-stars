@@ -69,6 +69,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Max](#max)
+- [Meson](#meson)
 - [MoonScript](#moonscript)
 - [Mustache](#mustache)
 - [Nim](#nim)
@@ -187,6 +188,7 @@
 
 ## Assembly 
 
+- [slviajero/basicdocs](https://github.com/slviajero/basicdocs) - The documents about BASIC I collected and use for my BASIC project
 - [ve3wwg/avr](https://github.com/ve3wwg/avr) - AVR code
 - [ve3wwg/risc-v](https://github.com/ve3wwg/risc-v) - RISC-V Assembly Language Programming: Using ESP32-C3 and QEMU
 - [UN7FGO/ATTINY2313_FREQMETER](https://github.com/UN7FGO/ATTINY2313_FREQMETER) - Simple freqmeter
@@ -313,6 +315,22 @@
 
 ## C 
 
+- [ZPilot/kakave](https://github.com/ZPilot/kakave) - 
+- [1801BM1/remul](https://github.com/1801BM1/remul) - ROM 1801PE2 in-circuit emulator
+- [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
+- [joaquimorg/tinybasic](https://github.com/joaquimorg/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040 and POSIX with IoT and microcontroller features.
+- [joaquimorg/si4732-radio](https://github.com/joaquimorg/si4732-radio) - SI4732 Radio is a custom firmware project designed to power my home-built radio receiver.
+- [joaquimorg/zx80](https://github.com/joaquimorg/zx80) - This project is a small ZX80-style BASIC interpreter that runs on ESP32
+- [joaquimorg/UV-KX-firmware](https://github.com/joaquimorg/UV-KX-firmware) - This is a fork of Egzumer https://github.com/egzumer/uv-k5-firmware-custom
+- [muzkr/uv-k1-k5v3-firmware-custom](https://github.com/muzkr/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
+- [muzkr/uv-k5-firmware-custom](https://github.com/muzkr/uv-k5-firmware-custom) - This is a fork of F4HWN https://github.com/armel/uv-k5-firmware-custom targeting V2 hardware
+- [gdyuldin/ft8_lib](https://github.com/gdyuldin/ft8_lib) - FT8 library
+- [bg7nzl/ft8_lib](https://github.com/bg7nzl/ft8_lib) - FT8 library
+- [bg7nzl/uv-k1-k5v3-firmware-custom](https://github.com/bg7nzl/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
+- [bg7nzl/uv-k5-v1-firmware](https://github.com/bg7nzl/uv-k5-v1-firmware) - 
+- [fagci/k1-fw](https://github.com/fagci/k1-fw) - Firmware for K1 and K5/v3
+- [embeddedartistry/libmemory](https://github.com/embeddedartistry/libmemory) - Embedded systems memory management library. Implementations for malloc(), free(), and other useful memory management functions
+- [embeddedartistry/libc](https://github.com/embeddedartistry/libc) - libc targeted for embedded systems usage.  Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
 - [afiskon/stm32-multi-channel-adc](https://github.com/afiskon/stm32-multi-channel-adc) - STM32: Multi-channel ADC usage example
 - [GolinskiyKonstantin/STM32_Lib_TFT_ST7735](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ST7735) - STM32 Display ST7735 160x128 128x128 160x80 EN UA RUS
 - [GolinskiyKonstantin/STM32_Lib_TFT_ili9341](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ili9341) - STM32_Lib_TFT_ili9341 320x240 EN UA RUS
@@ -760,7 +778,7 @@
 - [lu7did/PicoRX](https://github.com/lu7did/PicoRX) - Build a SDR SW/MW/LW Receiver with a Raspberry Pi Pico
 - [Guenael/rtlsdr-ft8d](https://github.com/Guenael/rtlsdr-ft8d) - FT8 decoder of RTL devices
 - [pavel-demin/wsprd](https://github.com/pavel-demin/wsprd) - Minimal set of files required to build the WSPR decoder by Joe Taylor, K1JT and Steve Franke, K9AN.
-- [kholia/wsprd](https://github.com/kholia/wsprd) - A portable WSPR decoder for microcontrollers!
+- [kholia/wsprd](https://github.com/kholia/wsprd) - A portable WSPR decoder for microcontrollers and other machines! From Pavel Demin. Please see 'master' and 'main' branches, both.
 - [kholia/picoAMSine](https://github.com/kholia/picoAMSine) - Fork of https://github.com/TudbuT/picoAM. Transmit AM signal with sine tone / voice / melody / morse with RPi Pico! For educational purposes only!
 - [LZ1DPN/DDS-si5351](https://github.com/LZ1DPN/DDS-si5351) - DDS-si5351
 - [LZ1DPN/DDS-RFT-0-30MHz-v1](https://github.com/LZ1DPN/DDS-RFT-0-30MHz-v1) - RFT DDS
@@ -884,7 +902,7 @@
 - [afiskon/ayn-4b](https://github.com/afiskon/ayn-4b) - Portable QRP CW Transceiver
 - [Phil-f6czv/FT857-Web-browser-CAT-ESP32](https://github.com/Phil-f6czv/FT857-Web-browser-CAT-ESP32) - 
 - [amedes/fx25-kiss-tnc](https://github.com/amedes/fx25-kiss-tnc) - FX.25 KISS TNC project
-- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - ESP32/ESP8285-based High-Performance Radio Link for RC applications
+- [ExpressLRS/ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - High Performance Open Source Radio Control Link
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
 - [LGTMCU/Larduino_HSP](https://github.com/LGTMCU/Larduino_HSP) - Hardware support package for Larduino
 - [MoonFox2006/USBLCD](https://github.com/MoonFox2006/USBLCD) - CH552 LCD 1602 USB CDC display
@@ -1846,6 +1864,12 @@
 
 ## C++ 
 
+- [slviajero/EepromFS](https://github.com/slviajero/EepromFS) - Use EEPROM modules as file storage. A very simple file system for EEPROMs on Arduino, ESP, RP2040.
+- [joaquimorg/TinyBasicPlus](https://github.com/joaquimorg/TinyBasicPlus) - A C implementation of Tiny Basic, with a focus on support for Arduino
+- [BleuLlama/TinyBasicPlus](https://github.com/BleuLlama/TinyBasicPlus) - A C implementation of Tiny Basic, with a focus on support for Arduino
+- [joaquimorg/esp8266_wifi_scan](https://github.com/joaquimorg/esp8266_wifi_scan) - 
+- [bg7nzl/uv-k5-firmware-custom](https://github.com/bg7nzl/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
+- [embeddedartistry/arduino-logger](https://github.com/embeddedartistry/arduino-logger) - Flexible logging library for the Arduino SDK, allowing the same logging interface to be used with multiple outputs.
 - [maxdev1/fenster](https://github.com/maxdev1/fenster) - A small, lightweight window server and UI toolkit designed for easy embedding and minimal dependencies.
 - [williamyang98/FM-Radio](https://github.com/williamyang98/FM-Radio) - Demodulator for broadcast FM which includes stereo audio and RDS (radio data system) decoding
 - [williamyang98/SDRPlusPlus-DAB-Radio-Plugin](https://github.com/williamyang98/SDRPlusPlus-DAB-Radio-Plugin) - DAB radio plugin for SDR++
@@ -3490,6 +3514,7 @@
 
 ## CMake 
 
+- [embeddedartistry/cmake-buildsystem](https://github.com/embeddedartistry/cmake-buildsystem) - Helper scripts, cross-compilation-files, makefile shims, and other helpful tools for working with CMake
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [BastilleResearch/gr-nordic](https://github.com/BastilleResearch/gr-nordic) - GNU Radio module and Wireshark dissector for the Nordic Semiconductor nRF24L Enhanced Shockburst protocol.
 - [ViacheslavMezentsev/avr-cmake](https://github.com/ViacheslavMezentsev/avr-cmake) - This project is used to develop applications for the AVR MCUs. It uses cmake and GCC.
@@ -5160,6 +5185,7 @@
 
 ## HTML 
 
+- [PCKorvet/LInTech-network](https://github.com/PCKorvet/LInTech-network) - Reconstructing USSR school retro PC network by LInTech
 - [XGudron/url-to-pdf-api](https://github.com/XGudron/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [XGudron/UA3REO-DDC-Transceiver](https://github.com/XGudron/UA3REO-DDC-Transceiver) - 
 - [MKme/XCOM](https://github.com/MKme/XCOM) - 
@@ -7127,7 +7153,6 @@
 - [moevis/base64.nvim](https://github.com/moevis/base64.nvim) - base64 encoding/decoding plugin for neovim implemented in pure lua
 - [moevis/json.nvim](https://github.com/moevis/json.nvim) - extract json string from cursor line
 - [moevis/smartjump.nvim](https://github.com/moevis/smartjump.nvim) - Advanced 'gf' command for neovim
-- [paulalden/dotfiles](https://github.com/paulalden/dotfiles) - 
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) - A plugin for Neovim that helps you surf through your document and move elements around using the nvim-treesitter API.
 - [ziontee113/luasnip-tutorial](https://github.com/ziontee113/luasnip-tutorial) - This is a repository to host example snippet files for my LuaSnip tutorials
@@ -8659,6 +8684,7 @@
 
 ## Makefile 
 
+- [embeddedartistry/embedded-resources](https://github.com/embeddedartistry/embedded-resources) - Embedded Artistry Templates, Documents, and Source Code
 - [lowleveltv/rp2040-freertos](https://github.com/lowleveltv/rp2040-freertos) - FreeRTOS on the RP2040
 - [lowleveltv/stm32-bluepill-blink](https://github.com/lowleveltv/stm32-bluepill-blink) - 
 - [libopencm3/libopencm3-template](https://github.com/libopencm3/libopencm3-template) - Simple empty template to base your poject on
@@ -8713,6 +8739,12 @@
 ## Max 
 
 - [ThomasDickey/diffstat-snapshots](https://github.com/ThomasDickey/diffstat-snapshots) - snapshots of releases and interim labels for "diffstat" https://invisible-island.net/personal/git-exports.html
+
+## Meson 
+
+- [embeddedartistry/project-skeleton](https://github.com/embeddedartistry/project-skeleton) - A C & C++ project skeleton for new Embedded Artistry projects
+- [embeddedartistry/compiler-rt](https://github.com/embeddedartistry/compiler-rt) - Wrapper project for llvm compiler-rt, using meson to build and use with the embedded framework
+- [embeddedartistry/meson-buildsystem](https://github.com/embeddedartistry/meson-buildsystem) - Helper scripts, cross-compilation-files, makefile shims, and other helpful tools for working with Meson
 
 ## MoonScript 
 
@@ -10625,7 +10657,7 @@
 - [nwtnni/tock](https://github.com/nwtnni/tock) - Digital clock for the terminal
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
+- [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another CMake LSP
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -10884,6 +10916,7 @@
 
 ## Shell 
 
+- [embeddedartistry/cmake-project-skeleton](https://github.com/embeddedartistry/cmake-project-skeleton) - Reusable project skeleton for embedded C & C++ projects using CMake.
 - [txurtxil/termux-ia-local](https://github.com/txurtxil/termux-ia-local) - 
 - [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds) - FFmpeg Builds for yt-dlp
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
@@ -11781,6 +11814,7 @@
 - [mfikes/impedance-converter](https://github.com/mfikes/impedance-converter) - Impedance Converter
 - [espressif/book-esp32c3-iot-projects](https://github.com/espressif/book-esp32c3-iot-projects) - 《ESP32-C3 物联网工程开发实战》配套代码
 - [SwiftyLinkerKit/SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
+- [paulalden/dotfiles](https://github.com/paulalden/dotfiles) - 
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
@@ -12075,6 +12109,7 @@
 
 ## Verilog 
 
+- [1801BM1/k1801](https://github.com/1801BM1/k1801) - 1801 series ULA reverse engineering
 - [rejunity/z80-open-silicon](https://github.com/rejunity/z80-open-silicon) - Z80 open-source silicon clone. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.
 - [johnwinans/2067-Z8S180](https://github.com/johnwinans/2067-Z8S180) - Z8S180 Breakout Board
 - [alangarf/tm1638-verilog](https://github.com/alangarf/tm1638-verilog) - A basic verilog driver for the TM1638 LED and key matrix chip
