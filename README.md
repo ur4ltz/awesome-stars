@@ -315,6 +315,8 @@
 
 ## C 
 
+- [N7SIX/uv-k5-firmware-custom](https://github.com/N7SIX/uv-k5-firmware-custom) - This is a fork of Egzumer https://github.com/egzumer/uv-k5-firmware-custom
+- [joaquimorg/MY-Time](https://github.com/joaquimorg/MY-Time) - MY-Time is a firmware for Pinetime that is lightweight.
 - [ZPilot/kakave](https://github.com/ZPilot/kakave) - 
 - [1801BM1/remul](https://github.com/1801BM1/remul) - ROM 1801PE2 in-circuit emulator
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
@@ -5956,7 +5958,7 @@
 - [ojroques/nvim-scrollbar](https://github.com/ojroques/nvim-scrollbar) - A simple and fast scrollbar for Neovim
 - [ojroques/nvim-bufbar](https://github.com/ojroques/nvim-bufbar) - A simple and very light Neovim bufferline
 - [ojroques/nvim-bookmarks](https://github.com/ojroques/nvim-bookmarks) - A Neovim plugin to quickly navigate files with bookmarks
-- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
+- [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 6200+ neovim plugins database with automatic installation! 🚀
 - [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) - Tabout plugin for Neovim
 - [gregorias/coop.nvim](https://github.com/gregorias/coop.nvim) - A Neovim plugin for readable concurrency with coroutines.
 - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
@@ -7656,7 +7658,7 @@
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
 - [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.12.0-dev-1627+gd464dffd2f) config
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
 - [Sharparam/luaenv-luarocks](https://github.com/Sharparam/luaenv-luarocks) - Install luarocks for luaenv.
@@ -13441,6 +13443,7 @@
 
 ## Vue 
 
+- [joaquimorg/uv-kx-tools](https://github.com/joaquimorg/uv-kx-tools) - Web application to connect Quansheng UV-K5/K6/5R radios via Web Serial and perform maintenance and configuration tasks. Includes EEPROM backup/restore, firmware programming, settings editing, and SMR.
 - [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
 - [6c65726f79/Transmissionic](https://github.com/6c65726f79/Transmissionic) - Remote for Transmission Daemon
 - [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
