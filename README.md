@@ -112,6 +112,7 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [SystemVerilog](#systemverilog)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -126,6 +127,7 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Visual Basic](#visual-basic)
+- [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [Wren](#wren)
 - [XSLT](#xslt)
@@ -315,6 +317,24 @@
 
 ## C 
 
+- [hackpascal/ufprog](https://github.com/hackpascal/ufprog) - Universal Flash Programmer
+- [setarcos/ch341prog](https://github.com/setarcos/ch341prog) - A simple SPI/IIC programer based on ch341A.
+- [vadrov/stm32-button-nobounce-autorepeat-buffer](https://github.com/vadrov/stm32-button-nobounce-autorepeat-buffer) - Connecting buttons to the microcontroller stm32 with the elimination of contact bounce, with auto-repeat and input buffer. Without HAL (only CMSIS and LL)
+- [vadrov/AT32F403ACGU7_display_spi_dma_st7789_ili9341](https://github.com/vadrov/AT32F403ACGU7_display_spi_dma_st7789_ili9341) - Connecting the displays to the AT32F403A (AT32F403ACGU7) MCU via spi with DMA (AT32F403A high-performance microcontrollers, powered by 32-bit ARM® Cortex®-M4 core, utilize advanced process to achieve 
+- [vadrov/stm32g0-display-driver-spi-dma-ili9341-st7789](https://github.com/vadrov/stm32g0-display-driver-spi-dma-ili9341-st7789) - stm32g0 series display driver (spi, dma). Supports ili9341, st7789
+- [vadrov/stm32f103c8t6_display_spi_dma_st7789_ili9341](https://github.com/vadrov/stm32f103c8t6_display_spi_dma_st7789_ili9341) - STM32F103x display driver. Supports displays with controllers st7789, ili9341 and compatible with them, working on the spi interface. DMA support.
+- [vadrov/stm32-filemanager-sd-fatfs-display-buttons](https://github.com/vadrov/stm32-filemanager-sd-fatfs-display-buttons) - An example of a quick file manager (viewing the directories of the contents of the sd disk, selecting files). The fatfs library is used.
+- [vadrov/LVGL_and_display_spi_driver_example](https://github.com/vadrov/LVGL_and_display_spi_driver_example) - An example of integrating a display driver for stm32f4x (spi, dma) series microcontrollers into the popular LVGL library.
+- [wabulutian/uv-k5-firmware-cpeval](https://github.com/wabulutian/uv-k5-firmware-cpeval) - A modified Fagci Firmware for evaluating the coprocessor module
+- [lexus2k/canvas](https://github.com/lexus2k/canvas) - Canvas graphics library
+- [cbm80amiga/STM32_TFT22_terminal_RRE](https://github.com/cbm80amiga/STM32_TFT22_terminal_RRE) - Minimalistic terminal based on STM32 and ILI9341 2.2" LCD
+- [cbm80amiga/N5110_STM32_RTC](https://github.com/cbm80amiga/N5110_STM32_RTC) - STM32 RTC example
+- [cbm80amiga/ST7735_3d_filled_vector](https://github.com/cbm80amiga/ST7735_3d_filled_vector) - 3D Filled Vector Graphics implementation for STM32
+- [cbm80amiga/ST7789_3D_Filled_Vector_Ext](https://github.com/cbm80amiga/ST7789_3D_Filled_Vector_Ext) - ST7789/ST7735 and STM32 3D Filled Vector Graphics
+- [cbm80amiga/ST7789_Watch_2bit](https://github.com/cbm80amiga/ST7789_Watch_2bit) - Analog Watch/Clock with Arduino and and ST7789 IPS
+- [cbm80amiga/ST7789_Watch_stm](https://github.com/cbm80amiga/ST7789_Watch_stm) - Analog Watch/Clock with STM32 RTC and ST7789 IPS
+- [cbm80amiga/PropFonts](https://github.com/cbm80amiga/PropFonts) - Proportional fonts used in my gfx libraries
+- [cbm80amiga/ST7735_antialiased_rre_fonts](https://github.com/cbm80amiga/ST7735_antialiased_rre_fonts) - Antialiased fonts for Arduino example
 - [N7SIX/uv-k5-firmware-custom](https://github.com/N7SIX/uv-k5-firmware-custom) - This is a fork of Egzumer https://github.com/egzumer/uv-k5-firmware-custom
 - [joaquimorg/MY-Time](https://github.com/joaquimorg/MY-Time) - MY-Time is a firmware for Pinetime that is lightweight.
 - [ZPilot/kakave](https://github.com/ZPilot/kakave) - 
@@ -1866,6 +1886,24 @@
 
 ## C++ 
 
+- [bigbigmdm/CH341a_spi_programmer](https://github.com/bigbigmdm/CH341a_spi_programmer) - QT5 programmer software for the readind/writing SPI NOR FLASH use the CH341a device.
+- [bigbigmdm/QT-CH341A-LINUX-PROGRAMMER](https://github.com/bigbigmdm/QT-CH341A-LINUX-PROGRAMMER) - Programmer tools use CH341A EEPROM programmer for 24C01 ... 24C1024 chip.
+- [bigbigmdm/Binary_file_comparator](https://github.com/bigbigmdm/Binary_file_comparator) - QT GUI binary file comparator
+- [Simsys/qhexedit2](https://github.com/Simsys/qhexedit2) - Binary Editor for Qt
+- [gavinlyonsrepo/SSD1331_LTSM](https://github.com/gavinlyonsrepo/SSD1331_LTSM) - Arduino C++  library for SSD1331  OLED displays — supports hardware/software SPI, rotation, scroll, brightness modes, graphics, bitmaps, and fonts.
+- [gavinlyonsrepo/ILI9341_LTSM](https://github.com/gavinlyonsrepo/ILI9341_LTSM) - C++ Arduino library for ILI9341 TFT SPI LCDs—supports hardware/software SPI, graphics, rotation, scroll, bitmaps, fonts, diagnostics, and frame buffer.
+- [gavinlyonsrepo/ST7735_LTSM](https://github.com/gavinlyonsrepo/ST7735_LTSM) - C++ Library for a ST7735 TFT SPI LCD for the Arduino Eco-system. Depends on display16_LTSM graphic library
+- [gavinlyonsrepo/display16_LTSM](https://github.com/gavinlyonsrepo/display16_LTSM) - 16-bit graphics library for Arduino. Features fonts, bitmaps (1/8/16-bit), hardware/software SPI, advanced graphics and optional framebuffer mode.
+- [gavinlyonsrepo/ST7789_LTSM](https://github.com/gavinlyonsrepo/ST7789_LTSM) - C++ Library for a ST7789 TFT SPI LCD for the Arduino Eco-system. Depends on display16_LTSM graphic library
+- [cbm80amiga/BLE_beacon](https://github.com/cbm80amiga/BLE_beacon) - Simple BLE temperature beacon emulated by nRF24L01
+- [cbm80amiga/ST7789_BMPviaSerial](https://github.com/cbm80amiga/ST7789_BMPviaSerial) - Photo slideshow via serial interface on Arduino and ST7789 240x240 IPS
+- [cbm80amiga/ST7789_terminal](https://github.com/cbm80amiga/ST7789_terminal) - Serial Terminal Display emulator
+- [cbm80amiga/ST7789_HWMonitor](https://github.com/cbm80amiga/ST7789_HWMonitor) - PC Hardware Monitor with Arduino and ST7789 240x240 IPS display
+- [cbm80amiga/ST7735_SDVideoPlayback](https://github.com/cbm80amiga/ST7735_SDVideoPlayback) - Smooth video playback from SD on STM32 and ST7735
+- [cbm80amiga/ST7735_SDinfo_stm](https://github.com/cbm80amiga/ST7735_SDinfo_stm) - Portable  SD card tester and CID analyzer with STM32 and ST7735 LCD
+- [cbm80amiga/ST7789_BME280_DHT11](https://github.com/cbm80amiga/ST7789_BME280_DHT11) - BME280 and DHT11 comparison with Arduino and ST7789 IPS
+- [cbm80amiga/ST7789_BME280_weather_station](https://github.com/cbm80amiga/ST7789_BME280_weather_station) - Mini weather station
+- [cbm80amiga/Arduino_ST7735_STM](https://github.com/cbm80amiga/Arduino_ST7735_STM) - Fast STM32 SPI-DMA library for ST7735 128x160 display
 - [slviajero/EepromFS](https://github.com/slviajero/EepromFS) - Use EEPROM modules as file storage. A very simple file system for EEPROMs on Arduino, ESP, RP2040.
 - [joaquimorg/TinyBasicPlus](https://github.com/joaquimorg/TinyBasicPlus) - A C implementation of Tiny Basic, with a focus on support for Arduino
 - [BleuLlama/TinyBasicPlus](https://github.com/BleuLlama/TinyBasicPlus) - A C implementation of Tiny Basic, with a focus on support for Arduino
@@ -5187,6 +5225,7 @@
 
 ## HTML 
 
+- [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips
 - [PCKorvet/LInTech-network](https://github.com/PCKorvet/LInTech-network) - Reconstructing USSR school retro PC network by LInTech
 - [XGudron/url-to-pdf-api](https://github.com/XGudron/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [XGudron/UA3REO-DDC-Transceiver](https://github.com/XGudron/UA3REO-DDC-Transceiver) - 
@@ -5866,6 +5905,8 @@
 
 ## Lua 
 
+- [luadch/scripts](https://github.com/luadch/scripts) - Collection of additional Luadch scripts
+- [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
 - [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - Tmux command completion source for blink.cmp
@@ -7048,7 +7089,6 @@
 - [RoryNesbitt/RNvim](https://github.com/RoryNesbitt/RNvim) - My .config/nvim
 - [miversen33/import.nvim](https://github.com/miversen33/import.nvim) - A safe require override with niceties
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column
-- [RoryNesbitt/pvim](https://github.com/RoryNesbitt/pvim) - Portable Neovim. Contain it all to just one directory
 - [jgollenz/nvim-toggler](https://github.com/jgollenz/nvim-toggler) - invert text in vim, purely with lua.
 - [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) - Neovim plugin for ccls language server. Leverages off-spec extensions to  LSP client with AST browser
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) - Simple but effective quick substitute for neovim
@@ -8878,6 +8918,7 @@
 
 ## Others 
 
+- [bigbigmdm/SPEC-IMSProg](https://github.com/bigbigmdm/SPEC-IMSProg) - SPEC file for IMSProg programmer
 - [GolinskiyKonstantin/STLINKV3-MODS](https://github.com/GolinskiyKonstantin/STLINKV3-MODS) - ST-Link V3 MINI ( V3MODS ) Adapter ( STLINKV3-MODS )
 - [d3cker/gsoc-puhumod](https://github.com/d3cker/gsoc-puhumod) - Xiegu GSOC software mod a.k.a "путін хуй".
 - [handiko/VHF-LNA](https://github.com/handiko/VHF-LNA) - VHF Low Noise Amplifier Circuit & PCB using common MMIC
@@ -11222,6 +11263,7 @@
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [Mte90/gitapper](https://github.com/Mte90/gitapper) - Remap Git with your custom scripts or new commands
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
+- [RoryNesbitt/pvim](https://github.com/RoryNesbitt/pvim) - Portable Neovim. Contain it all to just one directory
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
@@ -11820,6 +11862,10 @@
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
+
+## SystemVerilog 
+
+- [luadch/translations](https://github.com/luadch/translations) - Additional Translations for Luadch
 
 ## TSQL 
 
@@ -13440,6 +13486,10 @@
 ## Visual Basic 
 
 - [chrisbra/histwin.vim](https://github.com/chrisbra/histwin.vim) - A Vim Plugin for browsing the undo tree
+
+## Visual Basic 6.0 
+
+- [mmoskal/blackmagic-bluepill](https://github.com/mmoskal/blackmagic-bluepill) - 
 
 ## Vue 
 
