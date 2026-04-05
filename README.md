@@ -317,6 +317,8 @@
 
 ## C 
 
+- [rogerclarkmelbourne/pico-WSPR-tx-enhanced](https://github.com/rogerclarkmelbourne/pico-WSPR-tx-enhanced) - WSPR beacon for Raspberry Pi Pico, based on pico-hf-oscillator library. It doesn't require any hardware - Pico board itself only.
+- [R9OFG/WSPR-Beacon-on-STM32F103C8T6](https://github.com/R9OFG/WSPR-Beacon-on-STM32F103C8T6) - WSPR Beacon on STM32F103C8T6
 - [hackpascal/ufprog](https://github.com/hackpascal/ufprog) - Universal Flash Programmer
 - [setarcos/ch341prog](https://github.com/setarcos/ch341prog) - A simple SPI/IIC programer based on ch341A.
 - [vadrov/stm32-button-nobounce-autorepeat-buffer](https://github.com/vadrov/stm32-button-nobounce-autorepeat-buffer) - Connecting buttons to the microcontroller stm32 with the elimination of contact bounce, with auto-repeat and input buffer. Without HAL (only CMSIS and LL)
@@ -1886,6 +1888,8 @@
 
 ## C++ 
 
+- [koendv/SerialWireOutput](https://github.com/koendv/SerialWireOutput) - Serial Wire Output (SWO) library for STM32duino arm Arduinos
+- [orbcode/orbuculum](https://github.com/orbcode/orbuculum) - Cortex M SWO SWV Demux and Postprocess (Software)
 - [bigbigmdm/CH341a_spi_programmer](https://github.com/bigbigmdm/CH341a_spi_programmer) - QT5 programmer software for the readind/writing SPI NOR FLASH use the CH341a device.
 - [bigbigmdm/QT-CH341A-LINUX-PROGRAMMER](https://github.com/bigbigmdm/QT-CH341A-LINUX-PROGRAMMER) - Programmer tools use CH341A EEPROM programmer for 24C01 ... 24C1024 chip.
 - [bigbigmdm/Binary_file_comparator](https://github.com/bigbigmdm/Binary_file_comparator) - QT GUI binary file comparator
@@ -8538,7 +8542,6 @@
 - [actboy168/lua-debug](https://github.com/actboy168/lua-debug) - Lua Debug Adapter for Visual Studio Code
 - [starius/harb-lapis](https://github.com/starius/harb-lapis) - dot diagrams for apache, nginx and lapis
 - [evgkul/moonscript-opencomputers](https://github.com/evgkul/moonscript-opencomputers) - Just a port of moonscript for opencomputers
-- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [mattikus/dotfiles](https://github.com/mattikus/dotfiles) - My dotfiles
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles of my last wm, managed by GNU stow.
 - [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
@@ -8918,6 +8921,8 @@
 
 ## Others 
 
+- [Am0k-GIT/ST-LINK_V2.1](https://github.com/Am0k-GIT/ST-LINK_V2.1) - A clone of the ST-Link V2.1 with the VCP+MSD+SWO features available.
+- [R9OFG/ST7789-lib-STM32](https://github.com/R9OFG/ST7789-lib-STM32) - ST7789 170*320 lib SPI DMA or non DMA + DEMO
 - [bigbigmdm/SPEC-IMSProg](https://github.com/bigbigmdm/SPEC-IMSProg) - SPEC file for IMSProg programmer
 - [GolinskiyKonstantin/STLINKV3-MODS](https://github.com/GolinskiyKonstantin/STLINKV3-MODS) - ST-Link V3 MINI ( V3MODS ) Adapter ( STLINKV3-MODS )
 - [d3cker/gsoc-puhumod](https://github.com/d3cker/gsoc-puhumod) - Xiegu GSOC software mod a.k.a "путін хуй".
@@ -11747,6 +11752,7 @@
 - [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) - Auto install script for rTorrent with ruTorrent
 - [edouard-lopez/record-gif.sh](https://github.com/edouard-lopez/record-gif.sh) - Based on `byzanz-record-region` from http://askubuntu.com/a/201018/22343
 - [cgoodrich/byzanz](https://github.com/cgoodrich/byzanz) - unix gif screencasts
+- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [porras/i3-keyboard-layout](https://github.com/porras/i3-keyboard-layout) - Change keyboard layout with a keystroke + show it in the status bar
 - [okraits/boosta](https://github.com/okraits/boosta) - Easy bookmark management with rofi
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
