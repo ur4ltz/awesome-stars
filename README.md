@@ -317,6 +317,13 @@
 
 ## C 
 
+- [dwelch67/stm32_samples](https://github.com/dwelch67/stm32_samples) - 
+- [trebisky/stm32f103](https://github.com/trebisky/stm32f103) - Bare metal programming on a generic STM32F103c8 board
+- [trebisky/stm32f411](https://github.com/trebisky/stm32f411) - Bare metal STM32F411 (black pill) programming
+- [Am0k-GIT/ADCconverter_lib](https://github.com/Am0k-GIT/ADCconverter_lib) - Library for converting ADC data to real values
+- [Am0k-GIT/RingBuffer_lib](https://github.com/Am0k-GIT/RingBuffer_lib) - 
+- [Am0k-GIT/Halcyon](https://github.com/Am0k-GIT/Halcyon) - CNC 5-axis mainboard based on STM32F401RCT6
+- [Am0k-GIT/Soldering_station](https://github.com/Am0k-GIT/Soldering_station) - Two-channel soldering station
 - [rogerclarkmelbourne/pico-WSPR-tx-enhanced](https://github.com/rogerclarkmelbourne/pico-WSPR-tx-enhanced) - WSPR beacon for Raspberry Pi Pico, based on pico-hf-oscillator library. It doesn't require any hardware - Pico board itself only.
 - [R9OFG/WSPR-Beacon-on-STM32F103C8T6](https://github.com/R9OFG/WSPR-Beacon-on-STM32F103C8T6) - WSPR Beacon on STM32F103C8T6
 - [hackpascal/ufprog](https://github.com/hackpascal/ufprog) - Universal Flash Programmer
@@ -3238,7 +3245,7 @@
 - [UN7FGO/SI5351_OLED_SHIELD](https://github.com/UN7FGO/SI5351_OLED_SHIELD) - A simple shield for a two-channel generator with an OLED display.
 - [AlexGyver/MeteoClock](https://github.com/AlexGyver/MeteoClock) - Домашняя метеостанция на Arduino
 - [Norovl/meteoClock](https://github.com/Norovl/meteoClock) - Update Alex Gayer's meteoClock
-- [milesburton/Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - 🌡️ Arduino library for interfacing with Maxim temperature sensors like DS18B20, DS18S20, and MAX31850. 🔌 Supports multiple sensors, ⚡ asynchronous operation, and 🎯 configurable resolution for precise 
+- [milesburton/Arduino-Temperature-Control-Library](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Arduino library for interfacing with Maxim temperature sensors
 - [ivankravets/PCF8574](https://github.com/ivankravets/PCF8574) - Arduino library for PCF8574 - I2C IO expander
 - [RobTillaart/PCF8574](https://github.com/RobTillaart/PCF8574) - Arduino library for PCF8574 - I2C IO expander
 - [edebill/PCF8583](https://github.com/edebill/PCF8583) - Arduino library for interfacing with the PCF8583 real-time clock chip
@@ -5233,7 +5240,6 @@
 - [PCKorvet/LInTech-network](https://github.com/PCKorvet/LInTech-network) - Reconstructing USSR school retro PC network by LInTech
 - [XGudron/url-to-pdf-api](https://github.com/XGudron/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [XGudron/UA3REO-DDC-Transceiver](https://github.com/XGudron/UA3REO-DDC-Transceiver) - 
-- [MKme/XCOM](https://github.com/MKme/XCOM) - 
 - [cropinghigh/sdrpp-moduledb](https://github.com/cropinghigh/sdrpp-moduledb) - SDR++ Public Community Module DB
 - [zpm-zsh/terminal-colorscheme-neutral](https://github.com/zpm-zsh/terminal-colorscheme-neutral) - Colorscheme for terminal emulators with neutral, readable colors
 - [greiman/DigitalIO](https://github.com/greiman/DigitalIO) - Fast Digital I/O, Software I2C, and Software SPI for AVR Arduino
@@ -8265,6 +8271,7 @@
 - [pierreglaser/folding-nvim](https://github.com/pierreglaser/folding-nvim) - 
 - [wbthomason/vim-nazgul](https://github.com/wbthomason/vim-nazgul) - Very gray theme for Vim
 - [norcalli/lua-stream](https://github.com/norcalli/lua-stream) - A Lua module inspired by Monix for processing elements in a Stream using reactive style and coroutines.
+- [fmind/dotfiles-ansible](https://github.com/fmind/dotfiles-ansible) - Automated configuration and dotfiles for a personal development environment, featuring CLI tools and Ansible roles.
 - [ColumPaget/githuber](https://github.com/ColumPaget/githuber) - Tool for managing a users github repos. Can list notifications and repo information, create and delete repos and releases, etc. Requires libUseful and libUseful-lua.
 - [ColumPaget/github-search](https://github.com/ColumPaget/github-search) - Simple command-line github repo search written in lua with libUseful-lua
 - [nvim-treesitter/nvim-tree-docs](https://github.com/nvim-treesitter/nvim-tree-docs) - Code documentation built with treesitter
@@ -8921,6 +8928,8 @@
 
 ## Others 
 
+- [Am0k-GIT/STM32F4_DEV_BOARD](https://github.com/Am0k-GIT/STM32F4_DEV_BOARD) - 
+- [koendv/blackmagic-firmware](https://github.com/koendv/blackmagic-firmware) - Black Magic Probe firmware.
 - [Am0k-GIT/ST-LINK_V2.1](https://github.com/Am0k-GIT/ST-LINK_V2.1) - A clone of the ST-Link V2.1 with the VCP+MSD+SWO features available.
 - [R9OFG/ST7789-lib-STM32](https://github.com/R9OFG/ST7789-lib-STM32) - ST7789 170*320 lib SPI DMA or non DMA + DEMO
 - [bigbigmdm/SPEC-IMSProg](https://github.com/bigbigmdm/SPEC-IMSProg) - SPEC file for IMSProg programmer
@@ -9694,6 +9703,7 @@
 
 ## Python 
 
+- [translate/translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
 - [Solderingironspb/KiCad-footprints-and-symbols](https://github.com/Solderingironspb/KiCad-footprints-and-symbols) - Модифицированные символы и посадочные места. KiCad 8.0
 - [d3cker/GhosttyConfigGUI](https://github.com/d3cker/GhosttyConfigGUI) - Unofficial GUI configurator for Ghostty. Fully vibecoded - it was easier to use Claude Code than read the documentation and write the configuration file ;)
 - [zeroping/xiegu-g90-headprotocol](https://github.com/zeroping/xiegu-g90-headprotocol) - Work to reverse engineer the protocol for the Xiegu G90's head unit.
@@ -11508,7 +11518,6 @@
 - [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
 - [danielnehrig/polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
 - [chipsenkbeil/zsh-notes](https://github.com/chipsenkbeil/zsh-notes) - Plugin extracted from my zshrc to provide a quick notes editing experience in zsh.
-- [fmind/dotfiles](https://github.com/fmind/dotfiles) - Automated configuration and dotfiles for a personal development environment, featuring CLI tools and Ansible roles.
 - [FlyingBBQ/dotfiles](https://github.com/FlyingBBQ/dotfiles) - Central repository for all my dotfiles
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
 - [kakounedotcom/connect.kak](https://github.com/kakounedotcom/connect.kak) - Connect a program to Kakoune clients
