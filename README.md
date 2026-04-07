@@ -317,6 +317,10 @@
 
 ## C 
 
+- [cesanta/skeletons](https://github.com/cesanta/skeletons) - Baremetal project templates
+- [cesanta/stm32-bluepill](https://github.com/cesanta/stm32-bluepill) - STM32 BluePill baremetal firmware for remote control via a CCM module
+- [cesanta/mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated.
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [dwelch67/stm32_samples](https://github.com/dwelch67/stm32_samples) - 
 - [trebisky/stm32f103](https://github.com/trebisky/stm32f103) - Bare metal programming on a generic STM32F103c8 board
 - [trebisky/stm32f411](https://github.com/trebisky/stm32f411) - Bare metal STM32F411 (black pill) programming
@@ -1246,7 +1250,7 @@
 - [rtrussell/BBCSDL](https://github.com/rtrussell/BBCSDL) - BBC BASIC for SDL 2.0: for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
-- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
+- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [loboris/ESP32_TFT_library](https://github.com/loboris/ESP32_TFT_library) - Full featured TFT library for ESP32 with demo application
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
@@ -1895,6 +1899,10 @@
 
 ## C++ 
 
+- [exclipy/clang_indexer](https://github.com/exclipy/clang_indexer) - 
+- [LucHermitte/clang_indexer](https://github.com/LucHermitte/clang_indexer) - 
+- [neu-rah/Fielduino](https://github.com/neu-rah/Fielduino) - AVR PWM generator with user interface
+- [neu-rah/ArduinoMenu](https://github.com/neu-rah/ArduinoMenu) - Arduino generic menu/interactivity system
 - [koendv/SerialWireOutput](https://github.com/koendv/SerialWireOutput) - Serial Wire Output (SWO) library for STM32duino arm Arduinos
 - [orbcode/orbuculum](https://github.com/orbcode/orbuculum) - Cortex M SWO SWV Demux and Postprocess (Software)
 - [bigbigmdm/CH341a_spi_programmer](https://github.com/bigbigmdm/CH341a_spi_programmer) - QT5 programmer software for the readind/writing SPI NOR FLASH use the CH341a device.
@@ -3565,6 +3573,7 @@
 
 ## CMake 
 
+- [cesanta/mongoose-esp-idf](https://github.com/cesanta/mongoose-esp-idf) - Mongoose Library component for ESP-IDF
 - [embeddedartistry/cmake-buildsystem](https://github.com/embeddedartistry/cmake-buildsystem) - Helper scripts, cross-compilation-files, makefile shims, and other helpful tools for working with CMake
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [BastilleResearch/gr-nordic](https://github.com/BastilleResearch/gr-nordic) - GNU Radio module and Wireshark dissector for the Nordic Semiconductor nRF24L Enhanced Shockburst protocol.
@@ -5236,6 +5245,7 @@
 
 ## HTML 
 
+- [cesanta/mongoose-os-docs](https://github.com/cesanta/mongoose-os-docs) - Mongoose OS Documentation
 - [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips
 - [PCKorvet/LInTech-network](https://github.com/PCKorvet/LInTech-network) - Reconstructing USSR school retro PC network by LInTech
 - [XGudron/url-to-pdf-api](https://github.com/XGudron/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
@@ -5915,6 +5925,7 @@
 
 ## Lua 
 
+- [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) - A semi-useful, pseudo-pedagogical neovim plugin using treesitter for C++ actions
 - [luadch/scripts](https://github.com/luadch/scripts) - Collection of additional Luadch scripts
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
@@ -8928,6 +8939,7 @@
 
 ## Others 
 
+- [flipperdevices/flipperzero-devboard-stlinkv3](https://github.com/flipperdevices/flipperzero-devboard-stlinkv3) - Devboard for Flipper Zero based on ST-Link V3
 - [Am0k-GIT/STM32F4_DEV_BOARD](https://github.com/Am0k-GIT/STM32F4_DEV_BOARD) - 
 - [koendv/blackmagic-firmware](https://github.com/koendv/blackmagic-firmware) - Black Magic Probe firmware.
 - [Am0k-GIT/ST-LINK_V2.1](https://github.com/Am0k-GIT/ST-LINK_V2.1) - A clone of the ST-Link V2.1 with the VCP+MSD+SWO features available.
@@ -9703,6 +9715,7 @@
 
 ## Python 
 
+- [armel/k5_tinkering](https://github.com/armel/k5_tinkering) - Tinkering with the Quansheng UV-K5 HT
 - [translate/translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
 - [Solderingironspb/KiCad-footprints-and-symbols](https://github.com/Solderingironspb/KiCad-footprints-and-symbols) - Модифицированные символы и посадочные места. KiCad 8.0
 - [d3cker/GhosttyConfigGUI](https://github.com/d3cker/GhosttyConfigGUI) - Unofficial GUI configurator for Ghostty. Fully vibecoded - it was easier to use Claude Code than read the documentation and write the configuration file ;)
@@ -10707,6 +10720,7 @@
 
 ## Rust 
 
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -10755,7 +10769,7 @@
 - [leakec/multitask](https://github.com/leakec/multitask) - A mini-CI as a Zellij plugin
 - [imsnif/monocle](https://github.com/imsnif/monocle) - A Zellij plugin to fuzzy find file names and contents in style 🧐
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [nim65s/jbz](https://github.com/nim65s/jbz) - 
+- [nim65s/jbz](https://github.com/nim65s/jbz) - Just Bacon Zellij
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [enricozb/tree-sitter.kak](https://github.com/enricozb/tree-sitter.kak) - tree-sitter server for kakoune
