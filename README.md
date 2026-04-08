@@ -317,6 +317,7 @@
 
 ## C 
 
+- [compuphase/Black-Magic-Probe-Book](https://github.com/compuphase/Black-Magic-Probe-Book) - A guide plus associated utilities for the Black Magic Probe (project moved to Codeberg)
 - [cesanta/skeletons](https://github.com/cesanta/skeletons) - Baremetal project templates
 - [cesanta/stm32-bluepill](https://github.com/cesanta/stm32-bluepill) - STM32 BluePill baremetal firmware for remote control via a CCM module
 - [cesanta/mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated.
@@ -1118,7 +1119,7 @@
 - [jdolinay/avr_debug](https://github.com/jdolinay/avr_debug) - Source level debugger for Arduino - GDB stub for Atmega328 microcontroller used in Arduino Uno.
 - [libmpack/libmpack](https://github.com/libmpack/libmpack) - Simple implementation of msgpack in C
 - [glebzlat/SimpleMenu](https://github.com/glebzlat/SimpleMenu) - This is a simple menu library v 2.2 on LCD 1602
-- [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
+- [tinygs/tinyGS](https://github.com/tinygs/tinyGS) - 📡 Open Ground Station Network  🛰
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
 - [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
 - [jgm/cmark-lua](https://github.com/jgm/cmark-lua) - Lua bindings to libcmark CommonMark parser
@@ -1869,6 +1870,7 @@
 
 ## C# # 
 
+- [GMMan/st-link-hack](https://github.com/GMMan/st-link-hack) - An exploration into unsafely written code
 - [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [CppCXY/EmmyLuaAnalyzer](https://github.com/CppCXY/EmmyLuaAnalyzer) - a new EmmyLua Language Server
 - [Krusen/BencodeNET](https://github.com/Krusen/BencodeNET) - .NET library for encoding/decoding bencode and reading/writing torrent files
@@ -7718,7 +7720,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.12.0-dev-1627+gd464dffd2f) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-108+g5d66ef188f) config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -8479,7 +8481,6 @@
 - [rokf/howl-libc](https://github.com/rokf/howl-libc) - 
 - [rokf/tinyserv](https://github.com/rokf/tinyserv) - Really simple static HTTP server
 - [rafcamlet/dotfiles](https://github.com/rafcamlet/dotfiles) - 
-- [rafcamlet/nvim-sf](https://github.com/rafcamlet/nvim-sf) - ripgrep wrapper - during development
 - [rafcamlet/nvim-whid](https://github.com/rafcamlet/nvim-whid) - Simple plugin for showing files in commit history
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [nvim-treesitter/completion-treesitter](https://github.com/nvim-treesitter/completion-treesitter) - Treesitter source for completion-nvim and more
