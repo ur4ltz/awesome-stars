@@ -6402,7 +6402,7 @@
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) - Minimal plugin allow you to open url under cursor in neovim without netrw with default browser of your system and highlight url
 - [coffebar/neovim-project](https://github.com/coffebar/neovim-project) - Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope, snacks.nvim or fzf-lua
 - [cryptomilk/nightcity.nvim](https://github.com/cryptomilk/nightcity.nvim) - 🏙 Night City - A dark colorscheme for Neovim with LSP support
-- [judaew/ronny.nvim](https://github.com/judaew/ronny.nvim) - Neovim/Vim color scheme inspired by Monokai theme
+- [judaew/ronny.nvim](https://github.com/judaew/ronny.nvim) - A dark Neovim colorscheme inspired by Monokai
 - [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
 - [jonboh/nvim-dap-rr](https://github.com/jonboh/nvim-dap-rr) - Dap configuration for the record and replay debugger. Supports Rust, C++ and C.
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.
@@ -12643,7 +12643,7 @@
 - [chimay/configuration](https://github.com/chimay/configuration) - Config files
 - [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
 - [atticusmatticus/nvim](https://github.com/atticusmatticus/nvim) - Neovim Dotfiles
-- [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - calendar vimscript
+- [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - A calendar window for Vim
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [dstein64/dotfiles](https://github.com/dstein64/dotfiles) - My personal dotfiles.
 - [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts) - A better Vimdiff Git mergetool
