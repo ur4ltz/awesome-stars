@@ -5941,7 +5941,7 @@
 - [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
 - [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) - Reliable Neotest adapter for running Go tests in Neovim.
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [adibhanna/gruvdark.nvim](https://github.com/adibhanna/gruvdark.nvim) - Gruvdark: Neovim colorscheme
 - [ChristianChiarulli/onedark.nvim](https://github.com/ChristianChiarulli/onedark.nvim) - My take on the iconic Onedark colorscheme
 - [adibhanna/MiniVim](https://github.com/adibhanna/MiniVim) - Minimal Neovim config
