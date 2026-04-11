@@ -317,6 +317,7 @@
 
 ## C 
 
+- [orbcode/libtrace](https://github.com/orbcode/libtrace) - Orbcode support library for ARM Cortex-M trace components
 - [compuphase/Black-Magic-Probe-Book](https://github.com/compuphase/Black-Magic-Probe-Book) - A guide plus associated utilities for the Black Magic Probe (project moved to Codeberg)
 - [cesanta/skeletons](https://github.com/cesanta/skeletons) - Baremetal project templates
 - [cesanta/stm32-bluepill](https://github.com/cesanta/stm32-bluepill) - STM32 BluePill baremetal firmware for remote control via a CCM module
@@ -8748,6 +8749,7 @@
 
 ## Makefile 
 
+- [lujji/AVR-Terminal-Bootloader](https://github.com/lujji/AVR-Terminal-Bootloader) - Bootloader for ATmega88/168/328, which allows uploading hex firmware directly from terminal.
 - [embeddedartistry/embedded-resources](https://github.com/embeddedartistry/embedded-resources) - Embedded Artistry Templates, Documents, and Source Code
 - [lowleveltv/rp2040-freertos](https://github.com/lowleveltv/rp2040-freertos) - FreeRTOS on the RP2040
 - [lowleveltv/stm32-bluepill-blink](https://github.com/lowleveltv/stm32-bluepill-blink) - 
@@ -8925,6 +8927,7 @@
 
 ## OpenSCAD 
 
+- [orbcode/orbtrace_hw](https://github.com/orbcode/orbtrace_hw) - Orbtrace & supporting hardware circuit diagrams etc.
 - [olgierd/portable-yagi-clamps](https://github.com/olgierd/portable-yagi-clamps) - 3d printable clamps for DIY yagi antennas.
 - [mtu-most/colorimeter](https://github.com/mtu-most/colorimeter) - Firmware for open source colorimeter
 - [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard
@@ -8940,6 +8943,8 @@
 
 ## Others 
 
+- [orbcode/orbmule](https://github.com/orbcode/orbmule) - Mule boards and examples for Orb
+- [esden/bitmagic](https://github.com/esden/bitmagic) - Open Source Logic Analyzers and data Syphons
 - [flipperdevices/flipperzero-devboard-stlinkv3](https://github.com/flipperdevices/flipperzero-devboard-stlinkv3) - Devboard for Flipper Zero based on ST-Link V3
 - [Am0k-GIT/STM32F4_DEV_BOARD](https://github.com/Am0k-GIT/STM32F4_DEV_BOARD) - 
 - [koendv/blackmagic-firmware](https://github.com/koendv/blackmagic-firmware) - Black Magic Probe firmware.
@@ -9716,6 +9721,8 @@
 
 ## Python 
 
+- [orbcode/pyorb](https://github.com/orbcode/pyorb) - Python interface to liborb
+- [orbcode/orbtrace](https://github.com/orbcode/orbtrace) - Debug and parallel trace hardware for CORTEX-M (FPGA + support code)
 - [armel/k5_tinkering](https://github.com/armel/k5_tinkering) - Tinkering with the Quansheng UV-K5 HT
 - [translate/translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
 - [Solderingironspb/KiCad-footprints-and-symbols](https://github.com/Solderingironspb/KiCad-footprints-and-symbols) - Модифицированные символы и посадочные места. KiCad 8.0
@@ -10904,7 +10911,7 @@
 - [Peltoche/vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend
 - [vv9k/rkd](https://github.com/vv9k/rkd) - Rusty keybinding daemon
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
