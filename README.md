@@ -1946,7 +1946,7 @@
 - [Robby69400/k5prog-win](https://github.com/Robby69400/k5prog-win) - A windows GUI version of k5prog
 - [marshmadnesss/ESPHamClock](https://github.com/marshmadnesss/ESPHamClock) - ESP-based HamClock client (community-maintained mirror)
 - [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
-- [tardate/ESPHamClock](https://github.com/tardate/ESPHamClock) - A full archive of HamClock front-end releases
+- [tardate/ESPHamClock](https://github.com/tardate/ESPHamClock) - Obsolete, see instead: https://github.com/tardate/hamclock-client-archive
 - [elmot/esp32_weatherstation](https://github.com/elmot/esp32_weatherstation) - ESP32 + Inky Impression weather station
 - [MKme/ST7735-Color-TFT-Display](https://github.com/MKme/ST7735-Color-TFT-Display) - ST7735 128X128 SPI Display Code & Projects
 - [jarzebski/Arduino-INA219](https://github.com/jarzebski/Arduino-INA219) - INA219 Zero-Drift, Bi-directional Current/Power Monitor Arduino Library
@@ -1984,7 +1984,7 @@
 - [fixelsan/emu145](https://github.com/fixelsan/emu145) - Official EMU145 repository. Emulator of soviet 145ik13.
 - [adafruit/TinyWireM](https://github.com/adafruit/TinyWireM) - I2C library for Trinket and Gemma, adapted from BroHogan's code on Arduino Playground
 - [NicoHood/IRLremote](https://github.com/NicoHood/IRLremote) - Lightweight Infrared library for Arduino
-- [felias-fogg/avr-xminis-debug-enabled](https://github.com/felias-fogg/avr-xminis-debug-enabled) - A (debugging enabled) Arduino hardware package for ATmega328P Xplained Mini, ATmega168PB Xplained Mini, and ATmega328PB Xplained Mini
+- [felias-fogg/XMiniCore](https://github.com/felias-fogg/XMiniCore) - A (debugging enabled) Arduino hardware package for ATmega328P Xplained Mini, ATmega168PB Xplained Mini, and ATmega328PB Xplained Mini
 - [G1OJS/ATTiny85-Scanner-Radio](https://github.com/G1OJS/ATTiny85-Scanner-Radio) - Airband Scanner on an ATTiny85 using Si5351 and not much else!
 - [G1OJS/G1OJS_Tiny_Si5351_CLK0](https://github.com/G1OJS/G1OJS_Tiny_Si5351_CLK0) - Sets Si5351 CLK0 frequency from 100 MHz to 150 MHz using just 1446 bytes of program storage space on an ATTiny85. I made an effort to provide explicit references to the Si5351 Data Sheet and Applicati
 - [SofaPirate/Chrono](https://github.com/SofaPirate/Chrono) - Chrono library for Arduino and Wiring
@@ -10005,7 +10005,6 @@
 - [argosopentech/LibreTranslate-py](https://github.com/argosopentech/LibreTranslate-py) - Python bindings to connect to a LibreTranslate API
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
-- [jelmer/janitor](https://github.com/jelmer/janitor) - Platform for making incremental changes to code in VCSes
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [xavierd/clang_complete](https://github.com/xavierd/clang_complete) - Vim plugin that use clang for completing C/C++ code.
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
@@ -10821,6 +10820,7 @@
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [jelmer/disperse](https://github.com/jelmer/disperse) - Automatic repository releasing
+- [jelmer/janitor](https://github.com/jelmer/janitor) - Platform for making incremental changes to code in VCSes
 - [jelmer/silver-platter](https://github.com/jelmer/silver-platter) - Automate the creation of merge proposals for scriptable changes
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
@@ -11830,6 +11830,7 @@
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [seagle0128/dotfiles](https://github.com/seagle0128/dotfiles) - Centaur Dotfiles - Full and clean configurations for development environment on GNU Linux, macOS and Cygwin
 - [chros73/rtorrent-ps-ch_setup](https://github.com/chros73/rtorrent-ps-ch_setup) - Advanced rTorrent-PS-CH setup
+- [galczo5/dotfiles](https://github.com/galczo5/dotfiles) - 
 - [huntie/dotfiles](https://github.com/huntie/dotfiles) - Personal OS and Unix tool configuration
 - [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [whatyouhide/gotham-contrib](https://github.com/whatyouhide/gotham-contrib) - Ports of the Gotham colorscheme for common editors and terminal emulators 🌃
@@ -13263,7 +13264,6 @@
 - [bling/vim-bufferline](https://github.com/bling/vim-bufferline) - super simple vim plugin to show the list of buffers in the command bar
 - [novadev94/vim-bufferline](https://github.com/novadev94/vim-bufferline) - super simple vim plugin to show the list of buffers in the command bar
 - [novadev94/lightline-onedark](https://github.com/novadev94/lightline-onedark) - A lightline.vim theme for onedark.vim colorscheme
-- [galczo5/dotfiles](https://github.com/galczo5/dotfiles) - 
 - [josuegaleas/jay](https://github.com/josuegaleas/jay) - Yet another Vim colorscheme on GitHub. Inspired by Molokai.
 - [jsit/disco.vim](https://github.com/jsit/disco.vim) - A full set of 2-, 8-, 16-, 88-, 256-, and GUI-color-compatible Vim colors.
 - [skielbasa/vim-material-monokai](https://github.com/skielbasa/vim-material-monokai) - A dark Material Design version of Monokai for Vim
