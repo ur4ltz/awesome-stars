@@ -317,6 +317,7 @@
 
 ## C 
 
+- [GMMan/stm32l4_usart_test](https://github.com/GMMan/stm32l4_usart_test) - Triple USB-to-serial adapter firmware for flashing onto an STM32F103C8T6 "blue pill" minimum development board ⛺
 - [orbcode/libtrace](https://github.com/orbcode/libtrace) - Orbcode support library for ARM Cortex-M trace components
 - [compuphase/Black-Magic-Probe-Book](https://github.com/compuphase/Black-Magic-Probe-Book) - A guide plus associated utilities for the Black Magic Probe (project moved to Codeberg)
 - [cesanta/skeletons](https://github.com/cesanta/skeletons) - Baremetal project templates
@@ -1902,6 +1903,8 @@
 
 ## C++ 
 
+- [Charsi82/SciTERU](https://github.com/Charsi82/SciTERU) - Transfering of features SciTE Ru-Board to the current version of the vanilla SciTE.
+- [neu-rah/Dump](https://github.com/neu-rah/Dump) - Simple memory dump for AVR RAM and Flash
 - [exclipy/clang_indexer](https://github.com/exclipy/clang_indexer) - 
 - [LucHermitte/clang_indexer](https://github.com/LucHermitte/clang_indexer) - 
 - [neu-rah/Fielduino](https://github.com/neu-rah/Fielduino) - AVR PWM generator with user interface
@@ -1946,7 +1949,7 @@
 - [Robby69400/k5prog-win](https://github.com/Robby69400/k5prog-win) - A windows GUI version of k5prog
 - [marshmadnesss/ESPHamClock](https://github.com/marshmadnesss/ESPHamClock) - ESP-based HamClock client (community-maintained mirror)
 - [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
-- [tardate/ESPHamClock](https://github.com/tardate/ESPHamClock) - Obsolete, see instead: https://github.com/tardate/hamclock-client-archive
+- [tardate/ESPHamClock](https://github.com/tardate/ESPHamClock) - Obsolete, see instead: https://github.com/openhamclock/hamclock-client-archive
 - [elmot/esp32_weatherstation](https://github.com/elmot/esp32_weatherstation) - ESP32 + Inky Impression weather station
 - [MKme/ST7735-Color-TFT-Display](https://github.com/MKme/ST7735-Color-TFT-Display) - ST7735 128X128 SPI Display Code & Projects
 - [jarzebski/Arduino-INA219](https://github.com/jarzebski/Arduino-INA219) - INA219 Zero-Drift, Bi-directional Current/Power Monitor Arduino Library
@@ -3396,7 +3399,7 @@
 - [Alcaro/GitBSLR](https://github.com/Alcaro/GitBSLR) - Make Git follow symlinks
 - [Testato/SoftwareWire](https://github.com/Testato/SoftwareWire) - Creates a software I2C/TWI bus on every pins
 - [felias-fogg/SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) - 
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user inte
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The
 - [etherkit/MenuArduino](https://github.com/etherkit/MenuArduino) - A generic menu system to be used with a display on an Arduino
 - [scmrtos/scmrtos](https://github.com/scmrtos/scmrtos) - scmRTOS embedded operating system
 - [hasepompase/Adafruit_Si5351_Library](https://github.com/hasepompase/Adafruit_Si5351_Library) - Driver for Adafruit's Si5351 Clockgen Breakout
@@ -8943,6 +8946,7 @@
 
 ## Others 
 
+- [sidprice/blackpill_carrier](https://github.com/sidprice/blackpill_carrier) - Carrier for Blackpill F411 when used as Blackmagic Probe
 - [orbcode/orbmule](https://github.com/orbcode/orbmule) - Mule boards and examples for Orb
 - [esden/bitmagic](https://github.com/esden/bitmagic) - Open Source Logic Analyzers and data Syphons
 - [flipperdevices/flipperzero-devboard-stlinkv3](https://github.com/flipperdevices/flipperzero-devboard-stlinkv3) - Devboard for Flipper Zero based on ST-Link V3
@@ -9721,6 +9725,8 @@
 
 ## Python 
 
+- [sidprice/swo_viewer](https://github.com/sidprice/swo_viewer) - 
+- [pioarduino/platform-espressif32](https://github.com/pioarduino/platform-espressif32) - Espressif 32: pioarduino community platform compatible with PlatformIO
 - [orbcode/pyorb](https://github.com/orbcode/pyorb) - Python interface to liborb
 - [orbcode/orbtrace](https://github.com/orbcode/orbtrace) - Debug and parallel trace hardware for CORTEX-M (FPGA + support code)
 - [armel/k5_tinkering](https://github.com/armel/k5_tinkering) - Tinkering with the Quansheng UV-K5 HT
