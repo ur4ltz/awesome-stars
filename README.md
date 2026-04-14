@@ -4556,7 +4556,7 @@
 - [ROCKTAKEY/lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX, on texlab.
 - [shuxiao9058/emacs.d](https://github.com/shuxiao9058/emacs.d) - My emacs.d
 - [shuxiao9058/dotemacs.d](https://github.com/shuxiao9058/dotemacs.d) - My personal Emacs configuration
-- [APZelos/dotfiles](https://github.com/APZelos/dotfiles) - 
+- [z4p5a9/dotfiles](https://github.com/z4p5a9/dotfiles) - 
 - [dracula/emacs](https://github.com/dracula/emacs) - 🧛🏻‍♂️ Dark theme for Emacs
 - [emacscollective/auto-compile](https://github.com/emacscollective/auto-compile) - Automatically compile Emacs Lisp libraries
 - [emacscollective/emacs.g](https://github.com/emacscollective/emacs.g) - The Emacs Collective
@@ -5251,6 +5251,7 @@
 
 ## HTML 
 
+- [ravitemer/mcp-registry](https://github.com/ravitemer/mcp-registry) - A community-maintained registry of Model Context Protocol (MCP) servers with structured installation configurations for easy integration.
 - [cesanta/mongoose-os-docs](https://github.com/cesanta/mongoose-os-docs) - Mongoose OS Documentation
 - [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips
 - [PCKorvet/LInTech-network](https://github.com/PCKorvet/LInTech-network) - Reconstructing USSR school retro PC network by LInTech
@@ -5412,6 +5413,7 @@
 
 ## Java 
 
+- [woheller69/browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [radareorg/r4ghidra](https://github.com/radareorg/r4ghidra) - Ghidra plugin to communicate with radare2
@@ -5931,6 +5933,9 @@
 
 ## Lua 
 
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.
+- [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly.
+- [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) - Populate diagnostics for all projects files across the workspace
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) - A semi-useful, pseudo-pedagogical neovim plugin using treesitter for C++ actions
 - [luadch/scripts](https://github.com/luadch/scripts) - Collection of additional Luadch scripts
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
@@ -9963,7 +9968,7 @@
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [mcauser/micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - MicroPython driver for TM1638 dual quad 7-segment LED modules with switches
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 - [blacklight/nvim-http](https://github.com/blacklight/nvim-http) - An HTTP client for neovim inspired by vscode-restclient and the IntelliJ HTTP client
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [baskerville/diana](https://github.com/baskerville/diana) - A command line interface to the aria2 daemon
@@ -11002,6 +11007,8 @@
 
 ## Shell 
 
+- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - Neovim, ZSH, WezTerm, and everything else I can’t live without
+- [sidprice/EBlink](https://github.com/sidprice/EBlink) - ARM Cortex-M GDB server with device squirrel scripting  support
 - [embeddedartistry/cmake-project-skeleton](https://github.com/embeddedartistry/cmake-project-skeleton) - Reusable project skeleton for embedded C & C++ projects using CMake.
 - [txurtxil/termux-ia-local](https://github.com/txurtxil/termux-ia-local) - 
 - [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds) - FFmpeg Builds for yt-dlp
@@ -11023,8 +11030,8 @@
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [urbainvaes/fzf-marks](https://github.com/urbainvaes/fzf-marks) - Plugin to manage bookmarks in bash and zsh
-- [niksingh710/fzf-preview](https://github.com/niksingh710/fzf-preview) - A Simple Fzf Preview Script, helps to preview any filetype in fzf preview window.
-- [niksingh710/minimal-tmux-status](https://github.com/niksingh710/minimal-tmux-status) - A simple minimal tmux theme that does shows prefix key press status.
+- [semi710/fzf-preview](https://github.com/semi710/fzf-preview) - A Simple Fzf Preview Script, helps to preview any filetype in fzf preview window.
+- [semi710/minimal-tmux-status](https://github.com/semi710/minimal-tmux-status) - A simple minimal tmux theme that does shows prefix key press status.
 - [vaaleyard/tmux-dotbar](https://github.com/vaaleyard/tmux-dotbar) - a simple and minimalist status bar theme for tmux ☯︎
 - [zpm-zsh/colorize](https://github.com/zpm-zsh/colorize) - Colorize the output of various programs
 - [zpm-zsh/ssh](https://github.com/zpm-zsh/ssh) - Zsh plugin for ssh
@@ -13052,8 +13059,8 @@
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
-- [APZelos/gitline.vim](https://github.com/APZelos/gitline.vim) - A collection of functions that provide git related information for displaying on your favorite line
-- [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
+- [z4p5a9/gitline.vim](https://github.com/z4p5a9/gitline.vim) - A collection of functions that provide git related information for displaying on your favorite line
+- [z4p5a9/blamer.nvim](https://github.com/z4p5a9/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 - [kikito/nvim](https://github.com/kikito/nvim) - nvim custom config
 - [markonm/traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim
 - [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
