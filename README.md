@@ -190,6 +190,7 @@
 
 ## Assembly 
 
+- [STM32-base/STM32-base](https://github.com/STM32-base/STM32-base) - A simple start for any STM32 based project.
 - [slviajero/basicdocs](https://github.com/slviajero/basicdocs) - The documents about BASIC I collected and use for my BASIC project
 - [ve3wwg/avr](https://github.com/ve3wwg/avr) - AVR code
 - [ve3wwg/risc-v](https://github.com/ve3wwg/risc-v) - RISC-V Assembly Language Programming: Using ESP32-C3 and QEMU
@@ -317,6 +318,7 @@
 
 ## C 
 
+- [STM32-base/STM32-base-F4-template](https://github.com/STM32-base/STM32-base-F4-template) - A template for using STM32F4 series devices with the STM32-base project.
 - [GMMan/stm32l4_usart_test](https://github.com/GMMan/stm32l4_usart_test) - Triple USB-to-serial adapter firmware for flashing onto an STM32F103C8T6 "blue pill" minimum development board ⛺
 - [orbcode/libtrace](https://github.com/orbcode/libtrace) - Orbcode support library for ARM Cortex-M trace components
 - [compuphase/Black-Magic-Probe-Book](https://github.com/compuphase/Black-Magic-Probe-Book) - A guide plus associated utilities for the Black Magic Probe (project moved to Codeberg)
@@ -1903,6 +1905,7 @@
 
 ## C++ 
 
+- [CppCon/CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
 - [Charsi82/SciTERU](https://github.com/Charsi82/SciTERU) - Transfering of features SciTE Ru-Board to the current version of the vanilla SciTE.
 - [neu-rah/Dump](https://github.com/neu-rah/Dump) - Simple memory dump for AVR RAM and Flash
 - [exclipy/clang_indexer](https://github.com/exclipy/clang_indexer) - 
@@ -8226,7 +8229,7 @@
 - [RishabhRD/nvim-rdark](https://github.com/RishabhRD/nvim-rdark) - A dark colorscheme for neovim written in lua
 - [ishan9299/modus-theme-vim](https://github.com/ishan9299/modus-theme-vim) - Port of modus-themes in neovim
 - [pyrho/rc](https://github.com/pyrho/rc) - 
-- [semanser/dotfiles](https://github.com/semanser/dotfiles) - Alacritty + Tmux + Oh My Zsh + Neovim = ❤️
+- [semanser/dotfiles](https://github.com/semanser/dotfiles) - Ghostty + Tmux + Oh My Zsh + Neovim = ❤️
 - [solidiquis/dotfiles](https://github.com/solidiquis/dotfiles) - Me confeegs.. me precious confeegs.
 - [Yonaba/Moses](https://github.com/Yonaba/Moses) - Utility library for functional programming  in Lua
 - [kavotaman/dotfiles_old](https://github.com/kavotaman/dotfiles_old) - 
