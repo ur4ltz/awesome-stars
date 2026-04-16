@@ -318,6 +318,8 @@
 
 ## C 
 
+- [markadev/AppleII-VGA](https://github.com/markadev/AppleII-VGA) - VGA card for Apple II+/IIe computer
+- [erichelgeson/AppleII-VGA](https://github.com/erichelgeson/AppleII-VGA) - VGA card for Apple II+/IIe computer
 - [STM32-base/STM32-base-F4-template](https://github.com/STM32-base/STM32-base-F4-template) - A template for using STM32F4 series devices with the STM32-base project.
 - [GMMan/stm32l4_usart_test](https://github.com/GMMan/stm32l4_usart_test) - Triple USB-to-serial adapter firmware for flashing onto an STM32F103C8T6 "blue pill" minimum development board ⛺
 - [orbcode/libtrace](https://github.com/orbcode/libtrace) - Orbcode support library for ARM Cortex-M trace components
@@ -705,7 +707,7 @@
 - [tsripramong/VGA256_USB-host](https://github.com/tsripramong/VGA256_USB-host) - An example for 8-bit color VGA display for STM32F411CEU6 (Black Pill) with a simple USB-host functionality
 - [nr-electronics/Mastering-STM32-on-your-own](https://github.com/nr-electronics/Mastering-STM32-on-your-own) - Sources for studying STM32 microcontrollers.
 - [wegi1/W25Q16-STM32F407VE-BLACK-SPI-EXTERNAL-LOADER](https://github.com/wegi1/W25Q16-STM32F407VE-BLACK-SPI-EXTERNAL-LOADER) - W25Q16 SPI external loader for black board STM32F407VET6
-- [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok
+- [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico/pico2 (rp2040/rp2350) as a logic analyzer and oscilloscope with sigrok
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [WeActStudio/WeAct_HID_Bootloader_F4x1](https://github.com/WeActStudio/WeAct_HID_Bootloader_F4x1) - WeAct_HID_Bootloader_F4x1 base on STM32_HID_Bootloader
 - [dawsonjon/speedometer](https://github.com/dawsonjon/speedometer) - AVR based GPS speedometer with retro LED display
@@ -1905,6 +1907,8 @@
 
 ## C++ 
 
+- [erichelgeson/BlueSCSI-v1](https://github.com/erichelgeson/BlueSCSI-v1) - A small SCSI device based on stm32
+- [ztto/ArdSCSino-stm32](https://github.com/ztto/ArdSCSino-stm32) - 
 - [CppCon/CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
 - [Charsi82/SciTERU](https://github.com/Charsi82/SciTERU) - Transfering of features SciTE Ru-Board to the current version of the vanilla SciTE.
 - [neu-rah/Dump](https://github.com/neu-rah/Dump) - Simple memory dump for AVR RAM and Flash
@@ -8017,7 +8021,6 @@
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
 - [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
-- [mthnglac/dotfiles](https://github.com/mthnglac/dotfiles) - This is what I use to get things done!
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [LoricAndre/OneTerm.nvim](https://github.com/LoricAndre/OneTerm.nvim) - One terminal plugin to rule them all ! (eventually)
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
@@ -8954,6 +8957,8 @@
 
 ## Others 
 
+- [erichelgeson/Kicad-STM32](https://github.com/erichelgeson/Kicad-STM32) - STM 32 library for KiCad
+- [nikolai2111/STM32G474_Black-Pill_v3.0](https://github.com/nikolai2111/STM32G474_Black-Pill_v3.0) - The compact and convenient STM32-Pills are intriguing tools for prototyping, but their current digital focus leaves room for exploration. In contrast, the STM32G474's integration of analog and digital
 - [sidprice/blackpill_carrier](https://github.com/sidprice/blackpill_carrier) - Carrier for Blackpill F411 when used as Blackmagic Probe
 - [orbcode/orbmule](https://github.com/orbcode/orbmule) - Mule boards and examples for Orb
 - [esden/bitmagic](https://github.com/esden/bitmagic) - Open Source Logic Analyzers and data Syphons
