@@ -134,8 +134,10 @@
 - [YARA](#yara)
 - [YASnippet](#yasnippet)
 - [Yacc](#yacc)
+- [ZenScript](#zenscript)
 - [Zig](#zig)
 - [jq](#jq)
+- [nesC](#nesc)
 
 ## AGS Script 
 
@@ -190,6 +192,7 @@
 
 ## Assembly 
 
+- [piit79/USBasp](https://github.com/piit79/USBasp) - USBasp is a USB in-circuit programmer for Atmel AVR controllers by Thomas Fischl
 - [STM32-base/STM32-base](https://github.com/STM32-base/STM32-base) - A simple start for any STM32 based project.
 - [slviajero/basicdocs](https://github.com/slviajero/basicdocs) - The documents about BASIC I collected and use for my BASIC project
 - [ve3wwg/avr](https://github.com/ve3wwg/avr) - AVR code
@@ -318,6 +321,15 @@
 
 ## C 
 
+- [lyso1/LCK75](https://github.com/lyso1/LCK75) - a 75% through-hole keyboard designed by myself with inspiration from the CFTKB Discipline and Yiancar Gingham
+- [itsnoteasy/misc](https://github.com/itsnoteasy/misc) - 
+- [kelvinhall05/Southpaw75](https://github.com/kelvinhall05/Southpaw75) - Design files and assembly guide for the Southpaw75 keyboard.
+- [piit79/Southpaw75](https://github.com/piit79/Southpaw75) - Design files and assembly guide for the Southpaw75 keyboard.
+- [coseyfannitutti/USBaspLoader](https://github.com/coseyfannitutti/USBaspLoader) - An (V)USB bootloader firmware for AVR-MCUs emulating the popular USBasp for programming itself
+- [pierrechevalier83/dwm](https://github.com/pierrechevalier83/dwm) - My clone of dwm with config changes
+- [pierrechevalier83/midimini](https://github.com/pierrechevalier83/midimini) - 
+- [ToxicFrog/Enceladus](https://github.com/ToxicFrog/Enceladus) - A program to 'freeze' a lua script and its supporting (lua) libraries into a self-contained executable.
+- [adafruit/circuitpython](https://github.com/adafruit/circuitpython) - CircuitPython - a Python implementation for teaching coding with microcontrollers
 - [markadev/AppleII-VGA](https://github.com/markadev/AppleII-VGA) - VGA card for Apple II+/IIe computer
 - [erichelgeson/AppleII-VGA](https://github.com/erichelgeson/AppleII-VGA) - VGA card for Apple II+/IIe computer
 - [STM32-base/STM32-base-F4-template](https://github.com/STM32-base/STM32-base-F4-template) - A template for using STM32F4 series devices with the STM32-base project.
@@ -1907,6 +1919,10 @@
 
 ## C++ 
 
+- [ZDoom/Raze](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
+- [ZDoom/gzdoom](https://github.com/ZDoom/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
+- [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
+- [tksuoran/erhe](https://github.com/tksuoran/erhe) - C++ library for modern OpenGL experiments
 - [erichelgeson/BlueSCSI-v1](https://github.com/erichelgeson/BlueSCSI-v1) - A small SCSI device based on stm32
 - [ztto/ArdSCSino-stm32](https://github.com/ztto/ArdSCSino-stm32) - 
 - [CppCon/CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
@@ -4875,6 +4891,7 @@
 
 ## Go 
 
+- [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
 - [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply suggestions locally
 - [rizinorg/rz-pm](https://github.com/rizinorg/rz-pm) - An official Rizin package manager
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -5258,6 +5275,11 @@
 
 ## HTML 
 
+- [yiancar/barleycorn_pcb](https://github.com/yiancar/barleycorn_pcb) - A 1800 f-row less throughole keyboard with USBC. Inspired by the Plaid
+- [megamind4089/STeMCell](https://github.com/megamind4089/STeMCell) - STM32F4 breakout board in pro micro pinout. Designed mainly for ergo split keyboards.
+- [jpconstantineau/EncoderPad_RP2040](https://github.com/jpconstantineau/EncoderPad_RP2040) - 
+- [itsnoteasy/gingerham](https://github.com/itsnoteasy/gingerham) - a fork of the gingham keyboard pcb which keeps the iso 60% layout but drops the i/o expander.
+- [piit79/donegal-c](https://github.com/piit79/donegal-c) - a fork of the gingham keyboard pcb which keeps the iso 60% layout but drops the i/o expander.
 - [ravitemer/mcp-registry](https://github.com/ravitemer/mcp-registry) - A community-maintained registry of Model Context Protocol (MCP) servers with structured installation configurations for easy integration.
 - [cesanta/mongoose-os-docs](https://github.com/cesanta/mongoose-os-docs) - Mongoose OS Documentation
 - [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips
@@ -5940,6 +5962,10 @@
 
 ## Lua 
 
+- [ToxicFrog/vstruct](https://github.com/ToxicFrog/vstruct) - A Lua library for packing and unpacking binary data, supporting arbitrary (byte-aligned) widths, named fields, and repetition.
+- [ToxicFrog/luautil](https://github.com/ToxicFrog/luautil) - A convenient utility library for Lua used by some of my other projects.
+- [ToxicFrog/misc](https://github.com/ToxicFrog/misc) - Miscellaneous small tools not worth their own repository.
+- [S1ngS1ng/HammerSpoon](https://github.com/S1ngS1ng/HammerSpoon) - 😌HammerSpoon config file, 💻Window Management, 🎵VOX, VIM-binding #KillThe🐁
 - [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly.
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) - Populate diagnostics for all projects files across the workspace
@@ -8763,6 +8789,9 @@
 
 ## Makefile 
 
+- [piit79/crkbd](https://github.com/piit79/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
+- [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
+- [pierrechevalier83/kbd](https://github.com/pierrechevalier83/kbd) - for building keyboard libraries
 - [lujji/AVR-Terminal-Bootloader](https://github.com/lujji/AVR-Terminal-Bootloader) - Bootloader for ATmega88/168/328, which allows uploading hex firmware directly from terminal.
 - [embeddedartistry/embedded-resources](https://github.com/embeddedartistry/embedded-resources) - Embedded Artistry Templates, Documents, and Source Code
 - [lowleveltv/rp2040-freertos](https://github.com/lowleveltv/rp2040-freertos) - FreeRTOS on the RP2040
@@ -8957,6 +8986,34 @@
 
 ## Others 
 
+- [ai03-2725/Contra](https://github.com/ai03-2725/Contra) - Contra - Lowest cost ortholinear keyboard kit possible
+- [piit79/Unix60](https://github.com/piit79/Unix60) - HHKB Layouted and QMK compatible keyboard built from FR4
+- [piit79/USBaspDualZif](https://github.com/piit79/USBaspDualZif) - USBasp-compatible programmer with dual ZIF sockets for ATMega32A-PU and ATMega328p-PU
+- [piit79/mysteripad](https://github.com/piit79/mysteripad) - A through-hole mechanical numpad with an extra row to match the Mysterium keyboard
+- [piit79/Sub-Etha-Pad](https://github.com/piit79/Sub-Etha-Pad) - Mechanical macropad with a large "CNC" rotary encoder
+- [piit79/mysterium](https://github.com/piit79/mysterium) - TKL keyboard that can be entirely assembled using only through hole components, including usb type-c
+- [coseyfannitutti/mysterium](https://github.com/coseyfannitutti/mysterium) - TKL keyboard that can be entirely assembled using only through hole components, including usb type-c
+- [piit79/omega-iso-keyboard](https://github.com/piit79/omega-iso-keyboard) - "WKL" TKL keyboard consisting entirely of ISO Enter keys. In a shape of an ISO Enter key. Because why not :)
+- [piit79/plaid-c](https://github.com/piit79/plaid-c) - 12x4 ortholinear usb keyboard made by Through Hole components ONLY.
+- [piit79/discipad](https://github.com/piit79/discipad) - 17-key numpad assembled with only through hole components, including usb type-c
+- [pierrechevalier83/arch_my_way](https://github.com/pierrechevalier83/arch_my_way) - arch linux documentation installation guide
+- [ToxicFrog/avr-bits](https://github.com/ToxicFrog/avr-bits) - A small stack-based language for ATMega MCUs
+- [Kriechi/kicad-library-WeAct-RP2040-Pico](https://github.com/Kriechi/kicad-library-WeAct-RP2040-Pico) - KiCad 6 footprint and symbol library for the WeAct RP2040 Pico module
+- [pierrechevalier83/ferris_pcb_art](https://github.com/pierrechevalier83/ferris_pcb_art) - PCB Art (copper pads and silkscreens) for the Ferris keyboard
+- [pierrechevalier83/keyboard_footprints](https://github.com/pierrechevalier83/keyboard_footprints) - Footprints used in the keyboards I'm designing
+- [ihatechoosingusernames/RP2040-Zero-Kicad-Footprint](https://github.com/ihatechoosingusernames/RP2040-Zero-Kicad-Footprint) - Footprint for the RP2040 Zero dev board.
+- [davidphilipbarr/Sweep](https://github.com/davidphilipbarr/Sweep) - Sweep - a small promicro based keyboard inspired by the Ferris.
+- [diepala/cantor](https://github.com/diepala/cantor) - Cantor keyboard, a 42 key diodeless split keyboard.
+- [piit79/cantor](https://github.com/piit79/cantor) - Cantor keyboard, a 42 key diodeless split keyboard.
+- [piit79/lumberjack-pro-keyboard](https://github.com/piit79/lumberjack-pro-keyboard) - 5x12 ortholinear through-hole component keyboard PCB for standard 60% cases
+- [piit79/esphome-configs](https://github.com/piit79/esphome-configs) - Config files for ESPHome devices
+- [piit79/basketweave-s](https://github.com/piit79/basketweave-s) - Through-hole Alice-style keyboard with arrow keys and a rotary encoder
+- [null-ll/basketweave](https://github.com/null-ll/basketweave) - Through-hole Alice-style keyboard with arrow keys and a rotary encoder
+- [piit79/rev57lp](https://github.com/piit79/rev57lp) - Ergonomic low-profile keyboard using Choc switches inspired by Reviung41 with added number row
+- [piit79/42keebs-kicad](https://github.com/piit79/42keebs-kicad) - KiCad symbols/footprints used in 42. Keebs (42keebs.eu) projects
+- [mzltn/Kicad-STM32](https://github.com/mzltn/Kicad-STM32) - STM 32 library for KiCad
+- [minamonra/Kicad-STM32](https://github.com/minamonra/Kicad-STM32) - STM 32 library for KiCad
+- [piit79/Kicad-STM32](https://github.com/piit79/Kicad-STM32) - STM 32 library for KiCad
 - [erichelgeson/Kicad-STM32](https://github.com/erichelgeson/Kicad-STM32) - STM 32 library for KiCad
 - [nikolai2111/STM32G474_Black-Pill_v3.0](https://github.com/nikolai2111/STM32G474_Black-Pill_v3.0) - The compact and convenient STM32-Pills are intriguing tools for prototyping, but their current digital focus leaves room for exploration. In contrast, the STM32G474's integration of analog and digital
 - [sidprice/blackpill_carrier](https://github.com/sidprice/blackpill_carrier) - Carrier for Blackpill F411 when used as Blackmagic Probe
@@ -9738,6 +9795,13 @@
 
 ## Python 
 
+- [ToxicFrog/mo](https://github.com/ToxicFrog/mo) - A command line Music Organizer for bulk tagging and renaming of music files.
+- [gitpitch/what-is-gitpitch](https://github.com/gitpitch/what-is-gitpitch) - The GitPitch Elevator Pitch
+- [gitpitch/kitchen-sink](https://github.com/gitpitch/kitchen-sink) - GitPitch Live Slideshow Presentation Feature Demo
+- [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
+- [gitpitch/in-60-seconds](https://github.com/gitpitch/in-60-seconds) - GitPitch In 60 Seconds - A Very Short Tutorial
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
+- [pierrechevalier83/ferris](https://github.com/pierrechevalier83/ferris) - A low profile split keyboard designed to satisfy one single use case elegantly
 - [sidprice/swo_viewer](https://github.com/sidprice/swo_viewer) - 
 - [pioarduino/platform-espressif32](https://github.com/pioarduino/platform-espressif32) - Espressif 32: pioarduino community platform compatible with PlatformIO
 - [orbcode/pyorb](https://github.com/orbcode/pyorb) - Python interface to liborb
@@ -10746,6 +10810,13 @@
 
 ## Rust 
 
+- [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
+- [pierrechevalier83/rust-dwm-status](https://github.com/pierrechevalier83/rust-dwm-status) - A status bar for dwm written in rust
+- [pierrechevalier83/rwm](https://github.com/pierrechevalier83/rwm) - rwm - rustic window manager
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [pierrechevalier83/kicad_cli](https://github.com/pierrechevalier83/kicad_cli) - Run some useful kicad functionality from the command line
+- [bschwind/opencascade-rs](https://github.com/bschwind/opencascade-rs) - Rust bindings to the OpenCascade CAD Kernel
+- [pierrechevalier83/effortless](https://github.com/pierrechevalier83/effortless) - A 3d printed split keyboard (3x5+2) that feels really good and takes minimal effort to print/assemble
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
@@ -11015,6 +11086,9 @@
 
 ## Shell 
 
+- [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
+- [ToxicFrog/mkrescue](https://github.com/ToxicFrog/mkrescue) - Script to build bootable rescue USB sticks
+- [ToxicFrog/hypatian-prompt](https://github.com/ToxicFrog/hypatian-prompt) - ZSH for prompt using asynchronous subprocesses to fetch DVCS data.
 - [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - Neovim, ZSH, WezTerm, and everything else I can’t live without
 - [sidprice/EBlink](https://github.com/sidprice/EBlink) - ARM Cortex-M GDB server with device squirrel scripting  support
 - [embeddedartistry/cmake-project-skeleton](https://github.com/embeddedartistry/cmake-project-skeleton) - Reusable project skeleton for embedded C & C++ projects using CMake.
@@ -11479,7 +11553,7 @@
 - [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
 - [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - A clean and fast Bash prompt
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
-- [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [ecosse3/dotfiles](https://github.com/ecosse3/dotfiles) - Dotfiles for my awesomewm/i3 Arch setup & neovim
 - [sonph/dotfiles](https://github.com/sonph/dotfiles) - My .files
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
@@ -12139,7 +12213,7 @@
 - [Koihik/vscode-lua-format](https://github.com/Koihik/vscode-lua-format) - Reformats your Lua source code
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [silverwind/updates](https://github.com/silverwind/updates) - CLI dependency update tool for npm, uv, cargo, go and actions
+- [silverwind/updates](https://github.com/silverwind/updates) - CLI tool to update npm, uv, cargo, go and actions dependencies
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
@@ -12223,6 +12297,7 @@
 
 ## Vim Script 
 
+- [S1ngS1ng/dotFiles](https://github.com/S1ngS1ng/dotFiles) - 🤔Config files, Webstorm and Vim dark theme🌚
 - [kennypete/vim9-winswap](https://github.com/kennypete/vim9-winswap) - A Vim9 script plugin enabling easy swapping and putting of windows
 - [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) - The undo history visualizer for VIM
 - [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
@@ -13501,7 +13576,7 @@
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [wenlongche/SrcExpl](https://github.com/wenlongche/SrcExpl) - A (G)Vim plugin for exploring the source code definition(s) and contextual lines with a split window.
 - [wenlongche/Trinity](https://github.com/wenlongche/Trinity) - A (G)Vim plugin which build the trinity of Source Explorer, TagList and NERD tree to be an IDE for software development.
-- [mrjohannchang/color-scheme-holokai.vim](https://github.com/mrjohannchang/color-scheme-holokai.vim) - 
+- [johannjhang/color-scheme-holokai.vim](https://github.com/johannjhang/color-scheme-holokai.vim) - 
 - [tomasr/molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [xuhdev/SingleCompile](https://github.com/xuhdev/SingleCompile) - A Vim plugin making it more convenient to compile or run a single source file.
 - [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
@@ -13587,6 +13662,10 @@
 - [MattDMo/Neon-color-scheme](https://github.com/MattDMo/Neon-color-scheme) - A colorful bright-on-black color scheme for Sublime Text. Its aim is to make as many languages as possible look as good as possible. Includes extended support for Python, Ruby, Clojure, JavaScript/JSO
 - [whitequark/parser](https://github.com/whitequark/parser) - A Ruby parser.
 
+## ZenScript 
+
+- [ToxicFrog/doom-mods](https://github.com/ToxicFrog/doom-mods) - An assortment of gzDoom mods and modding libraries
+
 ## Zig 
 
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
@@ -13614,6 +13693,10 @@
 - [Freed-Wu/jq-rename](https://github.com/Freed-Wu/jq-rename) - Rename FILE(s) using JQEXPR on each filename.
 - [Freed-Wu/jq-emojify](https://github.com/Freed-Wu/jq-emojify) - A jq implementation for emojify :smile:
 - [zogwarg/SublimeJQ](https://github.com/zogwarg/SublimeJQ) - Sublime Text JQ Language Syntax
+
+## nesC 
+
+- [k1zmt/SSB85MultiPCB](https://github.com/k1zmt/SSB85MultiPCB) - WIP! Don't try repeating!
 
 
 ## License
