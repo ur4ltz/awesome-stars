@@ -192,6 +192,7 @@
 
 ## Assembly 
 
+- [profdc9/Z80SBC](https://github.com/profdc9/Z80SBC) - 
 - [piit79/USBasp](https://github.com/piit79/USBasp) - USBasp is a USB in-circuit programmer for Atmel AVR controllers by Thomas Fischl
 - [STM32-base/STM32-base](https://github.com/STM32-base/STM32-base) - A simple start for any STM32 based project.
 - [slviajero/basicdocs](https://github.com/slviajero/basicdocs) - The documents about BASIC I collected and use for my BASIC project
@@ -321,6 +322,7 @@
 
 ## C 
 
+- [profdc9/VNA](https://github.com/profdc9/VNA) - Vector Network Analyzer based on the STM32F103C8T6 bluepill
 - [lyso1/LCK75](https://github.com/lyso1/LCK75) - a 75% through-hole keyboard designed by myself with inspiration from the CFTKB Discipline and Yiancar Gingham
 - [itsnoteasy/misc](https://github.com/itsnoteasy/misc) - 
 - [kelvinhall05/Southpaw75](https://github.com/kelvinhall05/Southpaw75) - Design files and assembly guide for the Southpaw75 keyboard.
@@ -1156,6 +1158,7 @@
 - [leafo/lua-enet](https://github.com/leafo/lua-enet) - Bindings to ENet for Lua
 - [jdryg/vg-renderer](https://github.com/jdryg/vg-renderer) - A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
 - [tronkko/dirent](https://github.com/tronkko/dirent) - C/C++ library for retrieving information on files and directories
+- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [mauke/unibilium](https://github.com/mauke/unibilium) - a terminfo parsing library
 - [neovim/unibilium](https://github.com/neovim/unibilium) - https://github.com/neovim/neovim/blob/master/MAINTAIN.md#third-party-dependencies
 - [tree-sitter-grammars/tree-sitter-hlsl](https://github.com/tree-sitter-grammars/tree-sitter-hlsl) - HLSL grammar for tree-sitter
@@ -1919,6 +1922,9 @@
 
 ## C++ 
 
+- [profdc9/ModularTuner](https://github.com/profdc9/ModularTuner) - A Modular Antenna Tuner for a Phased Array Antenna System
+- [Tamakichi/ArduinoSTM32_TNTSC](https://github.com/Tamakichi/ArduinoSTM32_TNTSC) - Arduino STM32用 NTSCビデオ出力ラブラリ
+- [Tamakichi/ArduinoSTM32_TVout](https://github.com/Tamakichi/ArduinoSTM32_TVout) - Arduino STM32 TVoutライブラリ
 - [ZDoom/Raze](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
 - [ZDoom/gzdoom](https://github.com/ZDoom/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
 - [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
@@ -2331,6 +2337,7 @@
 - [Naguissa/uEEPROMLib](https://github.com/Naguissa/uEEPROMLib) - I2C EEPROM library. Split from uRTCLib. This library controls any I2C EEPROM, independent ones or incorporated on DS1307 or DS3231 RTCs.
 - [NT7S/MAX2681Transceiver](https://github.com/NT7S/MAX2681Transceiver) - Homebrew MAX2681 Superhet Transceiver
 - [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
+- [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
 - [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
 - [NovoselovMilk/Arduino-ELRS-Controller](https://github.com/NovoselovMilk/Arduino-ELRS-Controller) - 
@@ -3169,7 +3176,6 @@
 - [bkaradzic/bimg](https://github.com/bkaradzic/bimg) - Image library.
 - [bkaradzic/bnet](https://github.com/bkaradzic/bnet) - Message oriented networking library using TCP transport.
 - [bkaradzic/bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
-- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [BleuLlama/TM1637](https://github.com/BleuLlama/TM1637) - Arduino library for TM1637 (LED Driver)
 - [SindormirNet/SindormirSevenSegments](https://github.com/SindormirNet/SindormirSevenSegments) - Simple Seven Segments library for Arduino
 - [TinyTronics/TM1637_6D](https://github.com/TinyTronics/TM1637_6D) - Arduino library for the 6 digit TM1637 based segment displays
@@ -3662,7 +3668,7 @@
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [3l0w/Glasscord-Vision](https://github.com/3l0w/Glasscord-Vision) - 
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
+- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [enindu/dotfiles](https://github.com/enindu/dotfiles) - My personal configuration files
 - [afraidofmusic/dwmrice](https://github.com/afraidofmusic/dwmrice) - My config files for my dwm setup.
 - [davatorium/rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
@@ -3682,7 +3688,6 @@
 - [timnew/AndroidInfrared](https://github.com/timnew/AndroidInfrared) - 
 - [Briles/gruvbox-atom](https://github.com/Briles/gruvbox-atom) - Atom syntax themes with pastel 'retro groove' colors
 - [WnP/vimwiki_markdown](https://github.com/WnP/vimwiki_markdown) - vimwiki markdown file to html with syntax highlighting.
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 - [ku1ik/coloration-web](https://github.com/ku1ik/coloration-web) - Web frontend for Coloration
 - [caddyserver/examples](https://github.com/caddyserver/examples) - OBSOLETE. This repo was for Caddy v1. For v2 and newer, see our forum's wiki category.
 - [gerardroche/sublime-molokai](https://github.com/gerardroche/sublime-molokai) - Molokai color scheme.
@@ -4891,6 +4896,7 @@
 
 ## Go 
 
+- [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
 - [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply suggestions locally
 - [rizinorg/rz-pm](https://github.com/rizinorg/rz-pm) - An official Rizin package manager
@@ -8807,7 +8813,6 @@
 - [stm32duino/BoardManagerFiles](https://github.com/stm32duino/BoardManagerFiles) - Storage for Arduino Board Manager JSON and package files etc
 - [lujji/st-link-dumper](https://github.com/lujji/st-link-dumper) - ST-Link dumper firmware
 - [Sonic-Amiga/logic_analyzer](https://github.com/Sonic-Amiga/logic_analyzer) - Implementation of a SUMP compatible logic analyzer for the Arduino
-- [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
 - [garyexplains/piccolo_os_v1](https://github.com/garyexplains/piccolo_os_v1) - Piccolo OS is a small multitasking OS for the Raspberry Pi Pico. It is designed primarily as a teaching tool. It demonstrates the fundamentals of a co-operative multitasking OS and the Arm Cortex-M0+.
 - [DK7IH/AD9951_VFO_module](https://github.com/DK7IH/AD9951_VFO_module) - The software for my AD9951 variable frequency oscillator module
 - [pu2clr/PIC16F](https://github.com/pu2clr/PIC16F) - PIC10F200, PIC12F675, PIC16F, 1-wire protocol, 74hc595, lm35, ds18b20, pwm and more
@@ -8891,6 +8896,7 @@
 
 ## Nim 
 
+- [nosuz/svd2nim](https://github.com/nosuz/svd2nim) - Convert CMSIS ARM SVD files to nim register memory mappings
 - [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 - [SolitudeSF/colorcol](https://github.com/SolitudeSF/colorcol) - Kakoune plugin for color previews.
@@ -8986,6 +8992,13 @@
 
 ## Others 
 
+- [nosuz/kicad-symbols-footprints](https://github.com/nosuz/kicad-symbols-footprints) - KiCad symbols and footprints created by myself or modified from KiCad library for my projects.
+- [yet-another-average-joe/KiCad-Arduino](https://github.com/yet-another-average-joe/KiCad-Arduino) - 
+- [yet-another-average-joe/KiCad-Chinese_Modules](https://github.com/yet-another-average-joe/KiCad-Chinese_Modules) - 
+- [profdc9/NanoDIP](https://github.com/profdc9/NanoDIP) - A PCB with the Arduino Nano pinout but uses the ATMEGA328P
+- [profdc9/STM32F4surface](https://github.com/profdc9/STM32F4surface) - A STM32F4/STM32F1 LQFP64 surface mount PCB
+- [profdc9/STM32F411surface](https://github.com/profdc9/STM32F411surface) - 
+- [profdc9/STM32surface](https://github.com/profdc9/STM32surface) - STM32F103C8T6 bluepill like board with 0805 size and easily sourceable parts
 - [ai03-2725/Contra](https://github.com/ai03-2725/Contra) - Contra - Lowest cost ortholinear keyboard kit possible
 - [piit79/Unix60](https://github.com/piit79/Unix60) - HHKB Layouted and QMK compatible keyboard built from FR4
 - [piit79/USBaspDualZif](https://github.com/piit79/USBaspDualZif) - USBasp-compatible programmer with dual ZIF sockets for ATMega32A-PU and ATMega328p-PU
@@ -9573,6 +9586,7 @@
 - [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
+- [rootfont/rootfont](https://github.com/rootfont/rootfont) - Next-generation font management system.
 - [Apress/def-guide-to-sqlite](https://github.com/Apress/def-guide-to-sqlite) - Source code for 'The Definitive Guide to SQLite' by Mike Owens
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [h3xx/dotfiles](https://github.com/h3xx/dotfiles) - configuration files (Slackware-centric)
@@ -9795,6 +9809,8 @@
 
 ## Python 
 
+- [devbisme/KiPart](https://github.com/devbisme/KiPart) - Python package for generating multi-unit schematic symbols for KiCad from a CSV file.
+- [adamws/kicad-git](https://github.com/adamws/kicad-git) - Git actions directly from KiCad's PCB editor window
 - [ToxicFrog/mo](https://github.com/ToxicFrog/mo) - A command line Music Organizer for bulk tagging and renaming of music files.
 - [gitpitch/what-is-gitpitch](https://github.com/gitpitch/what-is-gitpitch) - The GitPitch Elevator Pitch
 - [gitpitch/kitchen-sink](https://github.com/gitpitch/kitchen-sink) - GitPitch Live Slideshow Presentation Feature Demo
