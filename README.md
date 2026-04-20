@@ -778,7 +778,7 @@
 - [lujji/blackmagic](https://github.com/lujji/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [STMicroelectronics/stm32-memory-loaders](https://github.com/STMicroelectronics/stm32-memory-loaders) - Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.
 - [nr-electronics/DiY](https://github.com/nr-electronics/DiY) - DiY
-- [IgrikXD/rpitx-ui](https://github.com/IgrikXD/rpitx-ui) - RF transmitter for Raspberry Pi with improved UI functionality, built with CMake.
+- [IgrikXD/rpitx-ui](https://github.com/IgrikXD/rpitx-ui) - RF transmitter toolkit for Raspberry Pi with improved UI and enhanced core functionality, built with CMake.
 - [PTDreamer/stm32_soldering_iron_controller](https://github.com/PTDreamer/stm32_soldering_iron_controller) - Custom firmware for the chinese ksger soldering iron controller
 - [deividAlfa/stm32_soldering_iron_controller](https://github.com/deividAlfa/stm32_soldering_iron_controller) - Custom firmware for Quicko and KSGER T12 soldering stations
 - [well-techn/Aquila](https://github.com/well-techn/Aquila) - 
@@ -3668,7 +3668,6 @@
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [3l0w/Glasscord-Vision](https://github.com/3l0w/Glasscord-Vision) - 
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [enindu/dotfiles](https://github.com/enindu/dotfiles) - My personal configuration files
 - [afraidofmusic/dwmrice](https://github.com/afraidofmusic/dwmrice) - My config files for my dwm setup.
 - [davatorium/rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
@@ -8792,6 +8791,7 @@
 ## MDX 
 
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
+- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 
 ## Makefile 
 
@@ -9586,7 +9586,6 @@
 - [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
-- [rootfont/rootfont](https://github.com/rootfont/rootfont) - Next-generation font management system.
 - [Apress/def-guide-to-sqlite](https://github.com/Apress/def-guide-to-sqlite) - Source code for 'The Definitive Guide to SQLite' by Mike Owens
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [h3xx/dotfiles](https://github.com/h3xx/dotfiles) - configuration files (Slackware-centric)
@@ -10826,6 +10825,8 @@
 
 ## Rust 
 
+- [embassy-rs/stm32-data](https://github.com/embassy-rs/stm32-data) - 
+- [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
 - [pierrechevalier83/rust-dwm-status](https://github.com/pierrechevalier83/rust-dwm-status) - A status bar for dwm written in rust
 - [pierrechevalier83/rwm](https://github.com/pierrechevalier83/rwm) - rwm - rustic window manager
@@ -12011,6 +12012,7 @@
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
+- [rootfont/rootfont](https://github.com/rootfont/rootfont) - The native font manager for designers and programmers on macOS.
 
 ## SystemVerilog 
 
