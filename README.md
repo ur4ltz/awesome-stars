@@ -46,6 +46,7 @@
 - [GLSL](#glsl)
 - [Game Maker Language](#game-maker-language)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groff](#groff)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -65,6 +66,7 @@
 - [Limbo](#limbo)
 - [Logos](#logos)
 - [Lua](#lua)
+- [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -478,6 +480,7 @@
 - [Keysight/RHme-2015](https://github.com/Keysight/RHme-2015) - RHme+ 2015 challenge
 - [Keysight/Rhme-2016](https://github.com/Keysight/Rhme-2016) - Rhme2 challenge (2016)
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
+- [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [frida/quickjs](https://github.com/frida/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [radareorg/r2yara](https://github.com/radareorg/r2yara) - yara and radare2, better together
@@ -5269,6 +5272,10 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [motemen/github-list-starred](https://github.com/motemen/github-list-starred) - List GitHub repositories starred by a user
 
+## Go Template 
+
+- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
+
 ## Groff 
 
 - [idlemoor/raspi-slackbuild](https://github.com/idlemoor/raspi-slackbuild) - Slackware ARM kernel, boot firmware, devices and hacks for Raspberry Pi
@@ -5762,7 +5769,6 @@
 - [Azganoth/tree-sitter-lua](https://github.com/Azganoth/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [rozhuk-im/rutorrent-hostname](https://github.com/rozhuk-im/rutorrent-hostname) - 
 - [Micdu70/ruTorrent](https://github.com/Micdu70/ruTorrent) - Yet another web front-end for rTorrent
-- [Micdu70/rutorrent-hostname](https://github.com/Micdu70/rutorrent-hostname) - 
 - [Micdu70/plugin-chat-ruTorrent](https://github.com/Micdu70/plugin-chat-ruTorrent) - 
 - [Micdu70/rutorrent-addzip](https://github.com/Micdu70/rutorrent-addzip) - rutorrent AddZip plugin
 - [Micdu70/rutorrent-all-seeders](https://github.com/Micdu70/rutorrent-all-seeders) - This ruTorrent plugin adds the columns 'All Seeders' the torrents list.
@@ -8788,6 +8794,10 @@
 - [xolox/vim-lua-inspect](https://github.com/xolox/vim-lua-inspect) - Semantic highlighting for Lua in Vim
 - [davidm/lua-inspect](https://github.com/davidm/lua-inspect) - Lua code analysis, with plugins for HTML and SciTE
 
+## MATLAB 
+
+- [probe-rs/rusty-probe](https://github.com/probe-rs/rusty-probe) - 
+
 ## MDX 
 
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
@@ -9474,7 +9484,6 @@
 - [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
-- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [Bodhizafa/kak-rainbow](https://github.com/Bodhizafa/kak-rainbow) - Cursor-centered rainbow highlighter for kakoune
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
@@ -9808,6 +9817,7 @@
 
 ## Python 
 
+- [korken89/kicad_libs](https://github.com/korken89/kicad_libs) - 
 - [devbisme/KiPart](https://github.com/devbisme/KiPart) - Python package for generating multi-unit schematic symbols for KiCad from a CSV file.
 - [adamws/kicad-git](https://github.com/adamws/kicad-git) - Git actions directly from KiCad's PCB editor window
 - [ToxicFrog/mo](https://github.com/ToxicFrog/mo) - A command line Music Organizer for bulk tagging and renaming of music files.
@@ -9833,7 +9843,6 @@
 - [ussserrr/stm32pio](https://github.com/ussserrr/stm32pio) - Automate managing of STM32CubeMX + PlatformIO projects
 - [AngainorDev/Picoth](https://github.com/AngainorDev/Picoth) - An OTP enabled macro keyboard based upon a Rapberry Pico and RGB keypad base from Pimoroni.
 - [darksidelemm/supersdr](https://github.com/darksidelemm/supersdr) - SuperSDR: an advanced KiwiSDR client with CAT transceiver integration
-- [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
 - [myxdvz/booktree](https://github.com/myxdvz/booktree) - Goes thru a bunch of media files and builds a tree structure
 - [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) - 
@@ -10825,6 +10834,8 @@
 
 ## Rust 
 
+- [probe-rs/rusty-probe-firmware](https://github.com/probe-rs/rusty-probe-firmware) - 
+- [probe-rs/rtt-target](https://github.com/probe-rs/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol
 - [embassy-rs/stm32-data](https://github.com/embassy-rs/stm32-data) - 
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
@@ -12068,6 +12079,7 @@
 
 ## TypeScript 
 
+- [mcu-debug/rtos-views](https://github.com/mcu-debug/rtos-views) - RTOS views for microcontrollers
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
