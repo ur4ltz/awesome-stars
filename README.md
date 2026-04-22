@@ -1931,7 +1931,7 @@
 - [ZDoom/Raze](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
 - [ZDoom/gzdoom](https://github.com/ZDoom/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
 - [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
-- [tksuoran/erhe](https://github.com/tksuoran/erhe) - C++ library for modern OpenGL experiments
+- [tksuoran/erhe](https://github.com/tksuoran/erhe) - erhe is a C++ library and editor for 3D graphics with a graphics API abstraction loosely modeled after Vulkan and Metal, with backends for OpenGL, Metal and Vulkan
 - [erichelgeson/BlueSCSI-v1](https://github.com/erichelgeson/BlueSCSI-v1) - A small SCSI device based on stm32
 - [ztto/ArdSCSino-stm32](https://github.com/ztto/ArdSCSino-stm32) - 
 - [CppCon/CppCon2015](https://github.com/CppCon/CppCon2015) - Presentation Materials from CppCon 2015
@@ -3329,7 +3329,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs (you need a bit of HW on a breadboard or some special Arduino shields as well)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
@@ -4582,7 +4582,6 @@
 - [emacsmirror/undo-fu](https://github.com/emacsmirror/undo-fu) - Undo helper with redo
 - [ran9er/init.emacs](https://github.com/ran9er/init.emacs) - move to ======&gt; iff
 - [ran9er/iff](https://github.com/ran9er/iff) - initial framework for emacs
-- [phongnh/zero.vim](https://github.com/phongnh/zero.vim) - My Vim helpers
 - [ROCKTAKEY/lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX, on texlab.
 - [shuxiao9058/emacs.d](https://github.com/shuxiao9058/emacs.d) - My emacs.d
 - [shuxiao9058/dotemacs.d](https://github.com/shuxiao9058/dotemacs.d) - My personal Emacs configuration
@@ -8613,6 +8612,7 @@
 - [actboy168/lua-debug](https://github.com/actboy168/lua-debug) - Lua Debug Adapter for Visual Studio Code
 - [starius/harb-lapis](https://github.com/starius/harb-lapis) - dot diagrams for apache, nginx and lapis
 - [evgkul/moonscript-opencomputers](https://github.com/evgkul/moonscript-opencomputers) - Just a port of moonscript for opencomputers
+- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Personal configuration files
 - [mattikus/dotfiles](https://github.com/mattikus/dotfiles) - My dotfiles
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles of my last wm, managed by GNU stow.
 - [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
@@ -11906,7 +11906,6 @@
 - [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) - Auto install script for rTorrent with ruTorrent
 - [edouard-lopez/record-gif.sh](https://github.com/edouard-lopez/record-gif.sh) - Based on `byzanz-record-region` from http://askubuntu.com/a/201018/22343
 - [cgoodrich/byzanz](https://github.com/cgoodrich/byzanz) - unix gif screencasts
-- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Arch Linux configuration dotfiles.
 - [porras/i3-keyboard-layout](https://github.com/porras/i3-keyboard-layout) - Change keyboard layout with a keystroke + show it in the status bar
 - [okraits/boosta](https://github.com/okraits/boosta) - Easy bookmark management with rofi
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
@@ -13102,6 +13101,7 @@
 - [tjdevries/overlength.vim](https://github.com/tjdevries/overlength.vim) - Highlight when lines go over the length that you want them.
 - [phongnh/foldtext.vim](https://github.com/phongnh/foldtext.vim) - Vim Fold Text
 - [phongnh/vim-cursor-settings](https://github.com/phongnh/vim-cursor-settings) - Set cursor settings for iTerm.app, Kitty and Alacritty terminals
+- [phongnh/zero.vim](https://github.com/phongnh/zero.vim) - My Vim helpers
 - [phongnh/fzf-settings.vim](https://github.com/phongnh/fzf-settings.vim) - My fzf settings
 - [phongnh/airline-settings.vim](https://github.com/phongnh/airline-settings.vim) - 
 - [phongnh/filetype-settings.vim](https://github.com/phongnh/filetype-settings.vim) - My default filetype settings
