@@ -155,6 +155,7 @@
 
 ## Arduino 
 
+- [br3ttb/arduino-pid-library-tester](https://github.com/br3ttb/arduino-pid-library-tester) - A simple throw-away program to test the Arduino PID Library
 - [james-tate/Arduino-TPI-Programmer](https://github.com/james-tate/Arduino-TPI-Programmer) - A programmer for the ATTiny TPI interface with support for ATTiny102 and ATTiny104.
 - [rsbohn/ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips.
 - [f4goh/VnArduino](https://github.com/f4goh/VnArduino) - VNA software with an Arduino
@@ -324,6 +325,12 @@
 
 ## C 
 
+- [AxxAxx/AxxLoad](https://github.com/AxxAxx/AxxLoad) - This is an electronic load
+- [Majid-Derhambakhsh/menu-manager](https://github.com/Majid-Derhambakhsh/menu-manager) - Menu Manager library for manage the menu & items with support click event
+- [Majid-Derhambakhsh/spi-unit](https://github.com/Majid-Derhambakhsh/spi-unit) - SPI driver for AVR microcontroller
+- [Majid-Derhambakhsh/ST7789](https://github.com/Majid-Derhambakhsh/ST7789) - ST7789 LCD Library for ARM Cortex M (STM32) and AVR microcontrollers
+- [AxxAxx/PID-Library](https://github.com/AxxAxx/PID-Library) - C/C++ PID Controller library for ARM Cortex M (STM32)
+- [AxxAxx/AxxSolder](https://github.com/AxxAxx/AxxSolder) - STM32 Based soldering station for JBC cartridges, 9-24 VDC and USB-PD power
 - [profdc9/VNA](https://github.com/profdc9/VNA) - Vector Network Analyzer based on the STM32F103C8T6 bluepill
 - [lyso1/LCK75](https://github.com/lyso1/LCK75) - a 75% through-hole keyboard designed by myself with inspiration from the CFTKB Discipline and Yiancar Gingham
 - [itsnoteasy/misc](https://github.com/itsnoteasy/misc) - 
@@ -1925,6 +1932,9 @@
 
 ## C++ 
 
+- [br3ttb/Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library) - 
+- [Majid-Derhambakhsh/PID-Library](https://github.com/Majid-Derhambakhsh/PID-Library) - C/C++ PID Controller library for ARM Cortex M (STM32)
+- [AlexGyver/DrillPID](https://github.com/AlexGyver/DrillPID) - 
 - [profdc9/ModularTuner](https://github.com/profdc9/ModularTuner) - A Modular Antenna Tuner for a Phased Array Antenna System
 - [Tamakichi/ArduinoSTM32_TNTSC](https://github.com/Tamakichi/ArduinoSTM32_TNTSC) - Arduino STM32用 NTSCビデオ出力ラブラリ
 - [Tamakichi/ArduinoSTM32_TVout](https://github.com/Tamakichi/ArduinoSTM32_TVout) - Arduino STM32 TVoutライブラリ
@@ -5972,6 +5982,7 @@
 
 ## Lua 
 
+- [mnabila/nvimrc](https://github.com/mnabila/nvimrc) - Neovim Configuration
 - [ToxicFrog/vstruct](https://github.com/ToxicFrog/vstruct) - A Lua library for packing and unpacking binary data, supporting arbitrary (byte-aligned) widths, named fields, and repetition.
 - [ToxicFrog/luautil](https://github.com/ToxicFrog/luautil) - A convenient utility library for Lua used by some of my other projects.
 - [ToxicFrog/misc](https://github.com/ToxicFrog/misc) - Miscellaneous small tools not worth their own repository.
@@ -9002,6 +9013,7 @@
 
 ## Others 
 
+- [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [nosuz/kicad-symbols-footprints](https://github.com/nosuz/kicad-symbols-footprints) - KiCad symbols and footprints created by myself or modified from KiCad library for my projects.
 - [yet-another-average-joe/KiCad-Arduino](https://github.com/yet-another-average-joe/KiCad-Arduino) - 
 - [yet-another-average-joe/KiCad-Chinese_Modules](https://github.com/yet-another-average-joe/KiCad-Chinese_Modules) - 
@@ -9817,6 +9829,7 @@
 
 ## Python 
 
+- [AxxAxx/AxxTerm](https://github.com/AxxAxx/AxxTerm) - Serial Terminal Software with plotting capability
 - [korken89/kicad_libs](https://github.com/korken89/kicad_libs) - 
 - [devbisme/KiPart](https://github.com/devbisme/KiPart) - Python package for generating multi-unit schematic symbols for KiCad from a CSV file.
 - [adamws/kicad-git](https://github.com/adamws/kicad-git) - Git actions directly from KiCad's PCB editor window
@@ -11393,7 +11406,6 @@
 - [newren/git-filter-branch](https://github.com/newren/git-filter-branch) - Possible new home for git-filter-branch; let's see if anyone else has better ideas where we should stick it
 - [dracula/tmux](https://github.com/dracula/tmux) - 🧛🏻‍♂️ Dark theme for tmux
 - [o0th/tmux-nova](https://github.com/o0th/tmux-nova) - tmux theme
-- [the-moonwitch/foxfish](https://github.com/the-moonwitch/foxfish) - :fox_face::fish: Comfy Fish shell theme
 - [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [simnalamburt/tmux-pane](https://github.com/simnalamburt/tmux-pane) - :desktop_computer: Key-bindings for tmux pane control
 - [simnalamburt/cgitc](https://github.com/simnalamburt/cgitc) - :shipit: Close Git Combat
