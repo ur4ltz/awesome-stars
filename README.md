@@ -1932,6 +1932,7 @@
 
 ## C++ 
 
+- [Frazix12/SolderingStation](https://github.com/Frazix12/SolderingStation) - 
 - [br3ttb/Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library) - 
 - [Majid-Derhambakhsh/PID-Library](https://github.com/Majid-Derhambakhsh/PID-Library) - C/C++ PID Controller library for ARM Cortex M (STM32)
 - [AlexGyver/DrillPID](https://github.com/AlexGyver/DrillPID) - 
@@ -5740,7 +5741,6 @@
 - [shime/livedown](https://github.com/shime/livedown) - Live Markdown previews for your favorite editor.
 - [radareorg/radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language!
 - [begoon/i8080-js](https://github.com/begoon/i8080-js) - Intel 8080 (KR580VM80A) core model in JavaScript
-- [begoon/rk86-js](https://github.com/begoon/rk86-js) - Эмулятор компьютера Радио-86РК на компьютере на JavaScript
 - [ChristianChiarulli/github-finder](https://github.com/ChristianChiarulli/github-finder) - 
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -9829,6 +9829,7 @@
 
 ## Python 
 
+- [frida/frida-tools](https://github.com/frida/frida-tools) - Frida CLI tools
 - [AxxAxx/AxxTerm](https://github.com/AxxAxx/AxxTerm) - Serial Terminal Software with plotting capability
 - [korken89/kicad_libs](https://github.com/korken89/kicad_libs) - 
 - [devbisme/KiPart](https://github.com/devbisme/KiPart) - Python package for generating multi-unit schematic symbols for KiCad from a CSV file.
@@ -11981,7 +11982,6 @@
 - [jimeh/dotfiles](https://github.com/jimeh/dotfiles) - My personals dotfiles with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.
 - [pyroscope/pimp-my-box](https://github.com/pyroscope/pimp-my-box) - :seedling: Automated seedbox install of rTorrent-PS and PyroScope CLI etc. via Ansible.
 - [elentok/dotfiles](https://github.com/elentok/dotfiles) - My dotfiles
-- [aziz/dotfiles](https://github.com/aziz/dotfiles) - My Unix environment
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [KiCad/kicad-i18n](https://github.com/KiCad/kicad-i18n) - Translations for KiCad source code [moved to https://gitlab.com/kicad]
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
@@ -12090,6 +12090,7 @@
 
 ## TypeScript 
 
+- [WebFreak001/code-debug](https://github.com/WebFreak001/code-debug) - Native debugging for VSCode
 - [mcu-debug/rtos-views](https://github.com/mcu-debug/rtos-views) - RTOS views for microcontrollers
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
@@ -12247,6 +12248,7 @@
 - [LuaLS/vscode-lua](https://github.com/LuaLS/vscode-lua) - Release lua-language-server for VSCode
 - [scttcper/qbittorrent](https://github.com/scttcper/qbittorrent) - qBittorrent api wrapper
 - [rafaelmaiolla/remote-vscode](https://github.com/rafaelmaiolla/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
+- [begoon/rk86-js](https://github.com/begoon/rk86-js) - Эмулятор компьютера Радио-86РК на компьютере на JavaScript
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [notomo/ctrlb.nvim](https://github.com/notomo/ctrlb.nvim) - Control web browsers with neovim
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
