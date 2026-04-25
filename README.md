@@ -46,7 +46,6 @@
 - [GLSL](#glsl)
 - [Game Maker Language](#game-maker-language)
 - [Go](#go)
-- [Go Template](#go-template)
 - [Groff](#groff)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -1307,7 +1306,7 @@
 - [SerenityPorts/SerenityQuake](https://github.com/SerenityPorts/SerenityQuake) - Port of Tyr-Quake compatible with SerenityOS
 - [cloudwu/skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
 - [cloudwu/ltask](https://github.com/cloudwu/ltask) - Yet another lua task library, n:m scheduler
-- [ocornut/imgui_club](https://github.com/ocornut/imgui_club) - Nice things to use along dear imgui
+- [ocornut/imgui_club](https://github.com/ocornut/imgui_club) - Small extensions for Dear ImGui
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [nvim-treesitter/tree-sitter-lua](https://github.com/nvim-treesitter/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [vanhoefm/fragattacks](https://github.com/vanhoefm/fragattacks) - 
@@ -1632,7 +1631,7 @@
 - [mbert/elvis](https://github.com/mbert/elvis) - The elvis vi-clone (written by Steve Kirkendall)
 - [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
-- [martin-ger/esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
+- [martin-ger/esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi NAT Router (and now also a WiFi Repeater)
 - [cloudwu/lua-cjson](https://github.com/cloudwu/lua-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
 - [AlexGyver/GyverCore](https://github.com/AlexGyver/GyverCore) - Быстрое ядро для Arduino IDE
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
@@ -2158,7 +2157,7 @@
 - [Edzelf/ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen.
 - [nicoverduin/ST7735_TFT_PICO](https://github.com/nicoverduin/ST7735_TFT_PICO) - TFT SPI LCD, ST7735 Driver, Raspberry pi PICO RP2040 display  library. C++ SDK
 - [tansiret/Super-Mario-Pico](https://github.com/tansiret/Super-Mario-Pico) - A basic Super Mario demo written in C/C++ for Raspberry Pi Pico/Pico 2
-- [gavinlyonsrepo/displaylib_16bit_PICO](https://github.com/gavinlyonsrepo/displaylib_16bit_PICO) - Display Library for 16-bit color graphic displays for Raspberry PI PICO. C++ SDK, supports ssd1331, st7735, ili9341, st7789, GC9D01 and GC9A01.
+- [gavinlyonsrepo/displaylib_16bit_PICO](https://github.com/gavinlyonsrepo/displaylib_16bit_PICO) - Display Library for 16-bit color graphic displays for Raspberry PI PICO. C++ SDK, supports ssd1331, st7735, ili9341, st7789, GC9D01, GC9107 and GC9A01.
 - [manzarehassin/AT24C16](https://github.com/manzarehassin/AT24C16) - Library for Interfacing with AT24C16 EEPROM chip in the Arduino environment.
 - [mitra42/webForth](https://github.com/mitra42/webForth) - Forth for the web - implemented in JS and other web technologies
 - [MichaelMiR01/ziptcc_dev](https://github.com/MichaelMiR01/ziptcc_dev) - A self containing, zipenabled version of the TinyCC Compiler
@@ -2350,7 +2349,7 @@
 - [Naguissa/uRTCLib](https://github.com/Naguissa/uRTCLib) - Really tiny library to control RTCs on Arduino. DS1307, DS3231 and DS3232 RTCs are supported.
 - [Naguissa/uEEPROMLib](https://github.com/Naguissa/uEEPROMLib) - I2C EEPROM library. Split from uRTCLib. This library controls any I2C EEPROM, independent ones or incorporated on DS1307 or DS3231 RTCs.
 - [NT7S/MAX2681Transceiver](https://github.com/NT7S/MAX2681Transceiver) - Homebrew MAX2681 Superhet Transceiver
-- [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
+- [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The OpenSource Disassembler
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
 - [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
@@ -3546,7 +3545,7 @@
 - [LowPowerLab/RFM69](https://github.com/LowPowerLab/RFM69) - RFM69 library for RFM69W, RFM69HW, RFM69CW, RFM69HCW (semtech SX1231, SX1231H)
 - [jrowberg/i2cdevlib](https://github.com/jrowberg/i2cdevlib) - I2C device library collection for AVR/Arduino or other C++-based MCUs
 - [hills/xosview](https://github.com/hills/xosview) - 
-- [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+- [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) - static analysis of C/C++ code
 - [vdudouyt/codeblocks-fast-tabswitch](https://github.com/vdudouyt/codeblocks-fast-tabswitch) - Chrome/Firefox-like tab switching
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [elfmz/far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
@@ -5281,10 +5280,6 @@
 - [nsf/gocode](https://github.com/nsf/gocode) - An autocompletion daemon for the Go programming language
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [motemen/github-list-starred](https://github.com/motemen/github-list-starred) - List GitHub repositories starred by a user
-
-## Go Template 
-
-- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 
 ## Groff 
 
@@ -7992,6 +7987,7 @@
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
+- [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
 - [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - These are my dotfiles. There are many like them, but these are mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
@@ -11582,7 +11578,6 @@
 - [fast-ide/toolbox](https://github.com/fast-ide/toolbox) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [guidanoli/luav](https://github.com/guidanoli/luav) - Lua Version Selector
-- [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
 - [zpm-zsh/dircolors-neutral](https://github.com/zpm-zsh/dircolors-neutral) - Material colorscheme
 - [larkery/i3](https://github.com/larkery/i3) - 
 - [larkery/zsh](https://github.com/larkery/zsh) - 
@@ -11710,6 +11705,7 @@
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [jessiehildebrandt/dot-fish](https://github.com/jessiehildebrandt/dot-fish) - My personal Fish configuration (GitLab mirror)
+- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [beanaroo/display-visor](https://github.com/beanaroo/display-visor) - Bash script for applying a pre-defined Xorg monitor layout. Useful for tiling window manager users.
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
