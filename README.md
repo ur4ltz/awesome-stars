@@ -787,7 +787,6 @@
 - [lujji/blackmagic](https://github.com/lujji/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [STMicroelectronics/stm32-memory-loaders](https://github.com/STMicroelectronics/stm32-memory-loaders) - Provides drivers, examples, loader files and testing routines for external loaders for STM32 series of microcontrollers.
 - [nr-electronics/DiY](https://github.com/nr-electronics/DiY) - DiY
-- [IgrikXD/rpitx-ui](https://github.com/IgrikXD/rpitx-ui) - RF transmitter toolkit for Raspberry Pi with improved UI and enhanced core functionality, built with CMake.
 - [PTDreamer/stm32_soldering_iron_controller](https://github.com/PTDreamer/stm32_soldering_iron_controller) - Custom firmware for the chinese ksger soldering iron controller
 - [deividAlfa/stm32_soldering_iron_controller](https://github.com/deividAlfa/stm32_soldering_iron_controller) - Custom firmware for Quicko and KSGER T12 soldering stations
 - [well-techn/Aquila](https://github.com/well-techn/Aquila) - 
@@ -2272,6 +2271,7 @@
 - [JohnWSatterfield/Atlas_210X_Digital_VFO](https://github.com/JohnWSatterfield/Atlas_210X_Digital_VFO) - Config files for my GitHub profile.
 - [JohnWSatterfield/VFO4.1](https://github.com/JohnWSatterfield/VFO4.1) - VFO program for Atlas 210x Ham Radio
 - [JohnWSatterfield/Signal-Generator](https://github.com/JohnWSatterfield/Signal-Generator) - Signal Generator using si5351 by Clint Chron & John Satterfield
+- [IgrikXD/rpitx-ui](https://github.com/IgrikXD/rpitx-ui) - RF transmitter toolkit for Raspberry Pi with improved UI and enhanced core functionality, built with CMake.
 - [jacobly0/fasmg-ez80](https://github.com/jacobly0/fasmg-ez80) - fasmg ez80 include files
 - [educ8s/Arduino-ILI9341-Example-Programs](https://github.com/educ8s/Arduino-ILI9341-Example-Programs) - Arduino-ILI9341-Example-Programs
 - [AppImageCommunity/AppImageUpdate](https://github.com/AppImageCommunity/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
@@ -3678,6 +3678,7 @@
 - [Etiene/lua.space](https://github.com/Etiene/lua.space) - The Lua Community Blog
 - [Th3Whit3Wolf/Space-Gitea](https://github.com/Th3Whit3Wolf/Space-Gitea) - Spacemacs theme for gitea
 - [TylerByte666/gitea-matrix-template](https://github.com/TylerByte666/gitea-matrix-template) - Would you take the blue or the red pill? Either way welcome to the Matrix. This is a custom theme for Gitea and it is super easy to use :)
+- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [3l0w/Glasscord-Vision](https://github.com/3l0w/Glasscord-Vision) - 
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
@@ -6174,6 +6175,7 @@
 - [marcoSven/blink-cmp-yanky](https://github.com/marcoSven/blink-cmp-yanky) - 
 - [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) - Completion source using tmux for blink.cmp
 - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) - Ripgrep source for blink.nvim
+- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [jmbuhr/cmp-pandoc-references](https://github.com/jmbuhr/cmp-pandoc-references) - A source for nvim-cmp, providing completion for bibliography, reference and cross-ref items in Pandoc/Markdown.
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
@@ -7987,7 +7989,6 @@
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
 - [codervijo/luascope](https://github.com/codervijo/luascope) - 
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
-- [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
 - [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - These are my dotfiles. There are many like them, but these are mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
@@ -8948,6 +8949,7 @@
 - [aserowy/dots](https://github.com/aserowy/dots) - dotfiles
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) - Use pandoc to convert markdown files according to options from a yaml block
 - [b3nj5m1n/serverdots](https://github.com/b3nj5m1n/serverdots) - 
+- [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - my nixos config
@@ -11705,7 +11707,6 @@
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [SlackBuildsOrg/slackbuilds](https://github.com/SlackBuildsOrg/slackbuilds) - Mirror of SlackBuilds.org Repository.
 - [jessiehildebrandt/dot-fish](https://github.com/jessiehildebrandt/dot-fish) - My personal Fish configuration (GitLab mirror)
-- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [beanaroo/display-visor](https://github.com/beanaroo/display-visor) - Bash script for applying a pre-defined Xorg monitor layout. Useful for tiling window manager users.
 - [turquoise-hexagon/dots](https://github.com/turquoise-hexagon/dots) - another dotfiles repo
@@ -12115,7 +12116,6 @@
 - [mistweaverco/kulala-ls](https://github.com/mistweaverco/kulala-ls) - A minimal 🤏 language 🔊 server 📡 for HTTP 🐼 syntax 🌈.
 - [VonHeikemen/learn-nvim](https://github.com/VonHeikemen/learn-nvim) - 
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
-- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) - Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
