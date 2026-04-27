@@ -3678,7 +3678,7 @@
 - [Etiene/lua.space](https://github.com/Etiene/lua.space) - The Lua Community Blog
 - [Th3Whit3Wolf/Space-Gitea](https://github.com/Th3Whit3Wolf/Space-Gitea) - Spacemacs theme for gitea
 - [TylerByte666/gitea-matrix-template](https://github.com/TylerByte666/gitea-matrix-template) - Would you take the blue or the red pill? Either way welcome to the Matrix. This is a custom theme for Gitea and it is super easy to use :)
-- [innng/dotfiles](https://github.com/innng/dotfiles) - My [hopefully] dotfiles
+- [innng/dotfiles](https://github.com/innng/dotfiles) - My dotfiles
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [3l0w/Glasscord-Vision](https://github.com/3l0w/Glasscord-Vision) - 
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
@@ -6003,7 +6003,6 @@
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [adibhanna/gruvdark.nvim](https://github.com/adibhanna/gruvdark.nvim) - Gruvdark: Neovim colorscheme
 - [ChristianChiarulli/onedark.nvim](https://github.com/ChristianChiarulli/onedark.nvim) - My take on the iconic Onedark colorscheme
-- [adibhanna/MiniVim](https://github.com/adibhanna/MiniVim) - Minimal Neovim config
 - [adibhanna/nvim-notes](https://github.com/adibhanna/nvim-notes) - Minimal Notes App for Neovim
 - [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) - Simple markdown support for Neovim
 - [adibhanna/forest-night.nvim](https://github.com/adibhanna/forest-night.nvim) - Forest Night Theme - Neovim
@@ -11175,7 +11174,7 @@
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [jaclu/tmux-power-zoom](https://github.com/jaclu/tmux-power-zoom) - Zoom pane to separate window, and unzoom it back into it's original location
 - [rickstaa/tmux-notify](https://github.com/rickstaa/tmux-notify) - Tmux plugin to notify you when processes are finished.
-- [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A plugin for tmux that allows users to select actions from a customizable popup menu 🧰
+- [alexwforsythe/tmux-which-key](https://github.com/alexwforsythe/tmux-which-key) - A tmux plugin that allows users to select actions from a customizable popup menu 🧰
 - [wfxr/tmux-web-reachable](https://github.com/wfxr/tmux-web-reachable) - 
 - [wfxr/tmux-net-speed](https://github.com/wfxr/tmux-net-speed) - 
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
@@ -11753,7 +11752,7 @@
 - [AN3223/sakra](https://github.com/AN3223/sakra) - The Swiss Army Knife RSS Aggregator
 - [AN3223/fzfhub](https://github.com/AN3223/fzfhub) - GitHub TUI browser
 - [AN3223/scripts](https://github.com/AN3223/scripts) - My collection of scripts
-- [gusbemacbe/suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
+- [tolga9009/suru-plus](https://github.com/tolga9009/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [geerlingguy/dotfiles](https://github.com/geerlingguy/dotfiles) - My configuration. Minimalist, but helps save a few thousand keystrokes a day.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [littleboycoding/emoji-dmenu](https://github.com/littleboycoding/emoji-dmenu) - 💻 Select emoji via dmenu or rofi easily, 🚧 with automatic update which provided by https://emoji-api.com/ ❤️
