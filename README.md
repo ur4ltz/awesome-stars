@@ -324,6 +324,12 @@
 
 ## C 
 
+- [createskyblue/Ch554-AVR-ISP](https://github.com/createskyblue/Ch554-AVR-ISP) - Usb-cdc avr-isp download tool based on ch554 chip. The default baud rate is 19200
+- [createskyblue/OpenT12](https://github.com/createskyblue/OpenT12) - T12 Soldering Station using ESP32
+- [createskyblue/Air001_I2C_TwoBoard_CommunicationMaster_DMA_u8g2](https://github.com/createskyblue/Air001_I2C_TwoBoard_CommunicationMaster_DMA_u8g2) - 
+- [createskyblue/STM32_HAL_SPI_WS2812](https://github.com/createskyblue/STM32_HAL_SPI_WS2812) - 
+- [createskyblue/TinyFrame](https://github.com/createskyblue/TinyFrame) - A simple library for building and parsing data frames for serial interfaces (like UART / RS232)
+- [createskyblue/Easy-u8g2-font-generate-tools](https://github.com/createskyblue/Easy-u8g2-font-generate-tools) - U8g2字库生成工具，只需要配置JSON，即可自动扫描并生成代码中非注释外的中文字库
 - [AxxAxx/AxxLoad](https://github.com/AxxAxx/AxxLoad) - This is an electronic load
 - [Majid-Derhambakhsh/menu-manager](https://github.com/Majid-Derhambakhsh/menu-manager) - Menu Manager library for manage the menu & items with support click event
 - [Majid-Derhambakhsh/spi-unit](https://github.com/Majid-Derhambakhsh/spi-unit) - SPI driver for AVR microcontroller
@@ -1184,7 +1190,7 @@
 - [bakkeby/dwm-commented](https://github.com/bakkeby/dwm-commented) - A fork of dwm with comments explaining in detail how the window manager works
 - [bakkeby/dmenu](https://github.com/bakkeby/dmenu) - Just another fork of dmenu
 - [amarz45/dwm](https://github.com/amarz45/dwm) - My build of dwm
-- [kmarius/jsregexp](https://github.com/kmarius/jsregexp) - JavaScript regular expressions for Lua
+- [kmarius/jsregexp](https://github.com/kmarius/jsregexp) - JavaScript regular expressions for Lua; mirror of https://codeberg.org/kmarius/jsregexp
 - [icedman/nvim-textmate](https://github.com/icedman/nvim-textmate) - A textmate-based syntax highlighter for neovim - compatible with VScode
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) - 
@@ -1930,6 +1936,7 @@
 
 ## C++ 
 
+- [createskyblue/ArduinoDigitalFrequencyModulation](https://github.com/createskyblue/ArduinoDigitalFrequencyModulation) - 
 - [Frazix12/SolderingStation](https://github.com/Frazix12/SolderingStation) - 
 - [br3ttb/Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library) - 
 - [Majid-Derhambakhsh/PID-Library](https://github.com/Majid-Derhambakhsh/PID-Library) - C/C++ PID Controller library for ARM Cortex M (STM32)
@@ -5553,6 +5560,7 @@
 
 ## JavaScript 
 
+- [sometimesdigital/screenduino](https://github.com/sometimesdigital/screenduino) - 📟 make LCD custom characters using the createChar() function from the LiquidCrystal library
 - [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [earldouglas/openhamclock](https://github.com/earldouglas/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
@@ -5986,6 +5994,7 @@
 - [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly.
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) - Populate diagnostics for all projects files across the workspace
+- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - Neovim, ZSH, WezTerm, and everything else I can’t live without
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) - A semi-useful, pseudo-pedagogical neovim plugin using treesitter for C++ actions
 - [luadch/scripts](https://github.com/luadch/scripts) - Collection of additional Luadch scripts
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
@@ -8302,7 +8311,6 @@
 - [nvim-telescope/telescope-vimspector.nvim](https://github.com/nvim-telescope/telescope-vimspector.nvim) - Integration for vimspector with telescope.nvim
 - [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) - Integration for nvim-dap with telescope.nvim
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅💙💛🤍💚
-- [nathanmsmith/.config](https://github.com/nathanmsmith/.config) - How I like things.
 - [nathanmsmith/nvim-ale-diagnostic](https://github.com/nathanmsmith/nvim-ale-diagnostic) - Display Neovim LSP diagnostics in ALE.
 - [akinsho/dependency-assist.nvim](https://github.com/akinsho/dependency-assist.nvim) - A neovim plugin to help find/search for dependency information/versions
 - [akinsho/dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
@@ -10868,7 +10876,7 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another CMake LSP
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
@@ -11128,7 +11136,6 @@
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [ToxicFrog/mkrescue](https://github.com/ToxicFrog/mkrescue) - Script to build bootable rescue USB sticks
 - [ToxicFrog/hypatian-prompt](https://github.com/ToxicFrog/hypatian-prompt) - ZSH for prompt using asynchronous subprocesses to fetch DVCS data.
-- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - Neovim, ZSH, WezTerm, and everything else I can’t live without
 - [sidprice/EBlink](https://github.com/sidprice/EBlink) - ARM Cortex-M GDB server with device squirrel scripting  support
 - [embeddedartistry/cmake-project-skeleton](https://github.com/embeddedartistry/cmake-project-skeleton) - Reusable project skeleton for embedded C & C++ projects using CMake.
 - [txurtxil/termux-ia-local](https://github.com/txurtxil/termux-ia-local) - 
@@ -11762,6 +11769,7 @@
 - [porras/dmenu-emoji](https://github.com/porras/dmenu-emoji) - Search an emoji by name and copy it to the clipboard [i3, dmenu, rofi]
 - [nkoehring/rofiemoji](https://github.com/nkoehring/rofiemoji) - emoji shell extension for rofi
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
+- [rhovelz/rhovelz_dotfiles](https://github.com/rhovelz/rhovelz_dotfiles) - Rhovelionz-Dotfiles
 - [ltsp/ltsp](https://github.com/ltsp/ltsp) - LTSP code, issues and discussions
 - [jbomanson/config](https://github.com/jbomanson/config) - Some configuration files that I use
 - [jbomanson/search-doc.kak](https://github.com/jbomanson/search-doc.kak) - Ease browsing of kakoune documentation
@@ -12951,7 +12959,6 @@
 - [ZSaberLv0/nerdtree_fs_menu](https://github.com/ZSaberLv0/nerdtree_fs_menu) - replacement for original nerdtree fs menu
 - [ZSaberLv0/ZFVimBackup](https://github.com/ZSaberLv0/ZFVimBackup) - more convenient file backup util for vim
 - [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
-- [rhovelz/rhovelz_dotfiles](https://github.com/rhovelz/rhovelz_dotfiles) - Rhovelionz-Dotfiles
 - [el-iot/vim-wikipedia-browser](https://github.com/el-iot/vim-wikipedia-browser) - A vim plugin for navigating between wikiedia articles
 - [ellysaurus/DOTFILES](https://github.com/ellysaurus/DOTFILES) - my linux dotfiles / configs
 - [pradyungn/vim.orion](https://github.com/pradyungn/vim.orion) - An endgame neovim configuration.
