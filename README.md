@@ -534,7 +534,7 @@
 - [petrsimi/sauna_thermostat_esp32](https://github.com/petrsimi/sauna_thermostat_esp32) - 
 - [petrsimi/sauna_thermostat](https://github.com/petrsimi/sauna_thermostat) - Thermostat based on Arduino
 - [akshaybaweja/Smart-IC-Tester](https://github.com/akshaybaweja/Smart-IC-Tester) - 
-- [gioblu/BIPLAN](https://github.com/gioblu/BIPLAN) - Byte coded Interpreted Programming language
+- [gioblu/BIPLAN](https://github.com/gioblu/BIPLAN) - BIPLAN (Byte coded Interpreted Programming LANguage) is an experimental, very compact programming language
 - [whirleyes/mighty-1284p](https://github.com/whirleyes/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [maniacbug/mighty-1284p](https://github.com/maniacbug/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [osiweb/unified_retro_keyboard](https://github.com/osiweb/unified_retro_keyboard) - Project to provide keyboard replacements for various classic computers, as well as classic ASCII keyboard
@@ -927,7 +927,6 @@
 - [armel/uv-k5-firmware-custom](https://github.com/armel/uv-k5-firmware-custom) - This is a fork of Egzumer https://github.com/egzumer/uv-k5-firmware-custom
 - [fagci/uvk5-fagci-reborn](https://github.com/fagci/uvk5-fagci-reborn) - Rewritten uv-k5 firmware, except drivers
 - [losehu/uv-k5-bootloader-custom](https://github.com/losehu/uv-k5-bootloader-custom) - a custom bootloader for uv-k5
-- [RobTillaart/Student](https://github.com/RobTillaart/Student) - Arduino library for Student or T-distribution math.
 - [DK7IH/simple_frequ_counter](https://github.com/DK7IH/simple_frequ_counter) - A simple frequency counter for amateur radio projects
 - [tjlab-jf3hzb/Digital_VFO_with_analog_dial_V2](https://github.com/tjlab-jf3hzb/Digital_VFO_with_analog_dial_V2) - 
 - [k3ng/acorn](https://github.com/k3ng/acorn) - 
@@ -1640,7 +1639,6 @@
 - [cloudwu/lua-cjson](https://github.com/cloudwu/lua-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
 - [AlexGyver/GyverCore](https://github.com/AlexGyver/GyverCore) - Быстрое ядро для Arduino IDE
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
-- [groleo/mini_httpd](https://github.com/groleo/mini_httpd) - 
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [winsiderss/phnt](https://github.com/winsiderss/phnt) - Native API header files for the System Informer project.
 - [processhacker/plugins-extra](https://github.com/processhacker/plugins-extra) - These are highly unstable, buggy, incomplete plugins that are not included with Process Hacker by default.
@@ -2519,6 +2517,7 @@
 - [RobTillaart/Kurtosis](https://github.com/RobTillaart/Kurtosis) - Arduino library for calculating skewness and kurtosis of a dataset (statistics).
 - [RobTillaart/MCP_POT](https://github.com/RobTillaart/MCP_POT) - Arduino library for MCP41xxx and MCP42xxx SPI based digital potentiometers.
 - [RobTillaart/MCP4261](https://github.com/RobTillaart/MCP4261) - Arduino library for MCP4261 SPI based digital potentiometers and compatibles.
+- [RobTillaart/Student](https://github.com/RobTillaart/Student) - Arduino library for Student or T-distribution math.
 - [RobTillaart/RunAvgWeight](https://github.com/RobTillaart/RunAvgWeight) - Arduino library to calculate the running average with weights.
 - [RobTillaart/LTR390_DFR](https://github.com/RobTillaart/LTR390_DFR) - Arduino library for the I2C LTR390 UV sensor (DF Robotics edition).
 - [RobTillaart/DS3232](https://github.com/RobTillaart/DS3232) - Arduino library for DS3232 RTC (minimalistic)
@@ -3346,7 +3345,7 @@
 - [spontanurlaub/tdlight-telegram-bot-api](https://github.com/spontanurlaub/tdlight-telegram-bot-api) - The Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [djcb/mu](https://github.com/djcb/mu) - maildir indexer/searcher + emacs mail client + guile bindings
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.8 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [felias-fogg/RescueAVR](https://github.com/felias-fogg/RescueAVR) - An Arduino sketch that is able to do high-voltage programming in order to resurrect bricked AVR MCUs (you need a bit of HW on a breadboard or some special Arduino shields as well)
 - [felias-fogg/OneWire](https://github.com/felias-fogg/OneWire) - Modification of original Arduino library to make it runnable under 1MHz
