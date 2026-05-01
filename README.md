@@ -3854,6 +3854,7 @@
 
 ## Emacs Lisp 
 
+- [atilaneves/cmake-ide](https://github.com/atilaneves/cmake-ide) - Use Emacs as a C/C++ IDE
 - [josegpt/display-wttr](https://github.com/josegpt/display-wttr) - Display wttr(weather) in the mode line 🌧️.
 - [ISouthRain/ewth.el](https://github.com/ISouthRain/ewth.el) - Emacs weather for Wttr.in(OpenSource) in modeline.
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
@@ -7998,7 +7999,6 @@
 - [shoumodip/ido.nvim](https://github.com/shoumodip/ido.nvim) - Simple fuzzy searcher for Neovim
 - [rafamadriz/dotfiles](https://github.com/rafamadriz/dotfiles) - These are my dotfiles. There are many like them, but these are mine.
 - [frandsoh/neuron-v2.nvim](https://github.com/frandsoh/neuron-v2.nvim) - [WIP] Manage your Zettelkasten and notes with the help of neuron in nvim.
-- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [ishchow/nvim-deardiary](https://github.com/ishchow/nvim-deardiary) - Journaling plugin for NeoVim
@@ -9869,7 +9869,7 @@
 - [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
 - [simonc56/rtorrent-disk-checker](https://github.com/simonc56/rtorrent-disk-checker) - Python 2 & 3 Worry Free rTorrenting
 - [JDRIVO/plugin.dbmc](https://github.com/JDRIVO/plugin.dbmc) - Dropbox Add-On for Kodi
-- [JDRIVO/plugin.video.gdrive](https://github.com/JDRIVO/plugin.video.gdrive) - Google Drive Add-On for Kodi
+- [JDRIVO/plugin.video.gdrive](https://github.com/JDRIVO/plugin.video.gdrive) - Google Drive Kodi Add-On
 - [JDRIVO/rTorrent-Disk-Checker](https://github.com/JDRIVO/rTorrent-Disk-Checker) - rTorrent Crash Prevention
 - [adamobeng/wddbfs](https://github.com/adamobeng/wddbfs) - webdavfs provider which can read the contents of sqlite databases
 - [nmoroze/tclint](https://github.com/nmoroze/tclint) - Modern dev tools for Tcl • includes a linter, formatter, and editor integration.
