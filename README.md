@@ -2988,7 +2988,7 @@
 - [RobTillaart/TCA9555](https://github.com/RobTillaart/TCA9555) - Arduino library for I2C TCA9555 16 channel port expander
 - [RobTillaart/PCF8591](https://github.com/RobTillaart/PCF8591) - Arduino Library for PCF8591 I2C 4 channel 8 bit ADC + 1 channel 8 bit DAC
 - [RobTillaart/MSP300](https://github.com/RobTillaart/MSP300) - Arduino library for I2C MSP300 pressure transducer.
-- [RobTillaart/MAX14661](https://github.com/RobTillaart/MAX14661) - Arduino library for MAX14661 16 channel I2C multiplexer
+- [RobTillaart/MAX14661](https://github.com/RobTillaart/MAX14661) - Arduino library for MAX14661 16 x 2 channel I2C multiplexer
 - [RobTillaart/LTC2991](https://github.com/RobTillaart/LTC2991) - Arduino library for the Octal I2C Voltage, Current, and Temperature Monitor
 - [RobTillaart/MCP23008](https://github.com/RobTillaart/MCP23008) - Arduino library for I2C MCP23008 8 channel port expander
 - [RobTillaart/M5ROTATE8](https://github.com/RobTillaart/M5ROTATE8) - Arduino library for M5 8ROTATE 8x rotary encoders
@@ -3447,7 +3447,7 @@
 - [Alcaro/GitBSLR](https://github.com/Alcaro/GitBSLR) - Make Git follow symlinks
 - [Testato/SoftwareWire](https://github.com/Testato/SoftwareWire) - Creates a software I2C/TWI bus on every pins
 - [felias-fogg/SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) - 
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with initial support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitiv
 - [etherkit/MenuArduino](https://github.com/etherkit/MenuArduino) - A generic menu system to be used with a display on an Arduino
 - [scmrtos/scmrtos](https://github.com/scmrtos/scmrtos) - scmRTOS embedded operating system
 - [hasepompase/Adafruit_Si5351_Library](https://github.com/hasepompase/Adafruit_Si5351_Library) - Driver for Adafruit's Si5351 Clockgen Breakout
@@ -4121,7 +4121,7 @@
 - [rajcspsg/emacs.d](https://github.com/rajcspsg/emacs.d) - 
 - [habamax/habamax-theme](https://github.com/habamax/habamax-theme) - Emacs theme with boring white background color that gets the job done.
 - [AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures](https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures) - Master Emacs
-- [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
+- [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [magit/emacsql](https://github.com/magit/emacsql) - A high-level Emacs Lisp front-end for SQLite
 - [undx/emacs.d](https://github.com/undx/emacs.d) - my emacs bare config
 - [neckoPecker/.emacs.d](https://github.com/neckoPecker/.emacs.d) - 
@@ -5073,7 +5073,7 @@
 - [ThePrimeagen/vim-with-me](https://github.com/ThePrimeagen/vim-with-me) - 
 - [chirpstack/chirpstack-gateway-bridge](https://github.com/chirpstack/chirpstack-gateway-bridge) - ChirpStack Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT.
 - [mohkale/dotty](https://github.com/mohkale/dotty) - A delightfully lispy dotfile manager :house:
-- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [variadico/noti](https://github.com/variadico/noti) - Moved to Codeberg
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
 - [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
@@ -6000,7 +6000,7 @@
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
-- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - Tmux command completion source for blink.cmp
+- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - [mirror of git.barrettruth.com/barrettruth/blink-cmp-tmux] Tmux command completion source for blink.cmp
 - [dynamotn/blink-cmp-zellij](https://github.com/dynamotn/blink-cmp-zellij) - Completion source from zellij for blink.cmp
 - [L3MON4D3/luals-mdgen](https://github.com/L3MON4D3/luals-mdgen) - Generate documentation in markdown from LuaCATS-annotations
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
@@ -9326,7 +9326,6 @@
 - [VonHeikemen/nvim-starter](https://github.com/VonHeikemen/nvim-starter) - Neovim example configuration. To help you start in your journey
 - [arsenal007/TTG](https://github.com/arsenal007/TTG) - 
 - [cchitsiang/awesome-stars](https://github.com/cchitsiang/awesome-stars) - A curated list of my GitHub stars by stargazed
-- [hadronized/this-week-in-neovim-contents](https://github.com/hadronized/this-week-in-neovim-contents) - Contents of weekly news delivered by this-week-in-neovim.org.
 - [famiclone/monokai-pro.nvim](https://github.com/famiclone/monokai-pro.nvim) - 
 - [famiclone/nvim-lua-guide-ua](https://github.com/famiclone/nvim-lua-guide-ua) - 
 - [Songmu/ghq-handbook](https://github.com/Songmu/ghq-handbook) - 
@@ -10945,7 +10944,6 @@
 - [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🏃💨 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 - [ayosec/alacritty](https://github.com/ayosec/alacritty) - Patch to add support to Alacritty for graphics (Sixel and iTerm2 protocols)
-- [hadronized/this-week-in-neovim.org](https://github.com/hadronized/this-week-in-neovim.org) - this-week-in-neovim.org official webapp repository
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [lukas-reineke/cbfmt](https://github.com/lukas-reineke/cbfmt) - A tool to format codeblocks inside markdown and org documents.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
