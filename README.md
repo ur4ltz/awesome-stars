@@ -383,7 +383,6 @@
 - [cbm80amiga/ST7789_Watch_stm](https://github.com/cbm80amiga/ST7789_Watch_stm) - Analog Watch/Clock with STM32 RTC and ST7789 IPS
 - [cbm80amiga/PropFonts](https://github.com/cbm80amiga/PropFonts) - Proportional fonts used in my gfx libraries
 - [cbm80amiga/ST7735_antialiased_rre_fonts](https://github.com/cbm80amiga/ST7735_antialiased_rre_fonts) - Antialiased fonts for Arduino example
-- [N7SIX/uv-k5-firmware-custom](https://github.com/N7SIX/uv-k5-firmware-custom) - This is a fork of Egzumer https://github.com/egzumer/uv-k5-firmware-custom
 - [joaquimorg/MY-Time](https://github.com/joaquimorg/MY-Time) - MY-Time is a firmware for Pinetime that is lightweight.
 - [ZPilot/kakave](https://github.com/ZPilot/kakave) - 
 - [1801BM1/remul](https://github.com/1801BM1/remul) - ROM 1801PE2 in-circuit emulator
@@ -439,7 +438,6 @@
 - [kd0oss/OpenRTX](https://github.com/kd0oss/OpenRTX) - Modular Open Source Radio Firmware
 - [armel/k1-teardown](https://github.com/armel/k1-teardown) - Quansheng K1 teardown and analysis
 - [superogira/uv-k1-k5v3-firmware-custom](https://github.com/superogira/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
-- [N7SIX/uv-k1-k5v3-firmware-custom](https://github.com/N7SIX/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [muzkr/ass](https://github.com/muzkr/ass) - A Simple Scheduler
 - [muzkr/ichi](https://github.com/muzkr/ichi) - Bootloader Updater for Quansheng UV-K5 (V3) and Variants
 - [elmot/clion-2026.1-stm32l5-trustzone](https://github.com/elmot/clion-2026.1-stm32l5-trustzone) - CLion2026.1 TrustZone project example.
@@ -1224,9 +1222,6 @@
 - [fitrh/st](https://github.com/fitrh/st) - Suckless terminal
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [fitrh/dwm](https://github.com/fitrh/dwm) - Downstream build of the suckless window manager, dwm
-- [PlankCipher/dwmblocks](https://github.com/PlankCipher/dwmblocks) - My build of dwmblocks
-- [PlankCipher/st](https://github.com/PlankCipher/st) - My build of st
-- [PlankCipher/dwm](https://github.com/PlankCipher/dwm) - My build of dwm
 - [orbitalquark/textadept-modules](https://github.com/orbitalquark/textadept-modules) - Formerly a set of modules that provide extra features and functionality for Textadept. This repository has been replaced by individual module repositories at https://github.com/orbitalquark?tab=reposi
 - [orbitalquark/lua-quick-reference](https://github.com/orbitalquark/lua-quick-reference) - Lua Quick Reference Book
 - [orbitalquark/gtdialog](https://github.com/orbitalquark/gtdialog) - gtDialog is a cross-platform application for creating interactive dialogs from either the command line or from an application.
@@ -1934,6 +1929,7 @@
 
 ## C++ 
 
+- [prt459/si5351_Signal_Source](https://github.com/prt459/si5351_Signal_Source) - A very simple tool that generates a pulsing RF signal with pushbuttons to place it where you need it. Intended to test receivers, RF mixers, and drive exciters.
 - [createskyblue/ArduinoDigitalFrequencyModulation](https://github.com/createskyblue/ArduinoDigitalFrequencyModulation) - 
 - [Frazix12/SolderingStation](https://github.com/Frazix12/SolderingStation) - 
 - [br3ttb/Arduino-PID-AutoTune-Library](https://github.com/br3ttb/Arduino-PID-AutoTune-Library) - 
@@ -6257,7 +6253,7 @@
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim) - 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
-- [Freed-Wu/git2.nvim](https://github.com/Freed-Wu/git2.nvim) - [WIP!!!] Use luagit2 to realize a :Git in neovim
+- [Freed-Wu/git2.nvim](https://github.com/Freed-Wu/git2.nvim) - Use luagit2 to realize a :Git in neovim
 - [Freed-Wu/luarocks-build-autotools](https://github.com/Freed-Wu/luarocks-build-autotools) - A luarocks build module for autotools
 - [ustctug/texrocks](https://github.com/ustctug/texrocks) - A minimal (La)TeX distribution powered by lux/luarocks and luaTeX.
 - [FantomeBeignet/ghostly.nvim](https://github.com/FantomeBeignet/ghostly.nvim) - My personal color theme for Neovim
@@ -8671,7 +8667,7 @@
 - [lipp/ludent](https://github.com/lipp/ludent) - A primitive Lua indenter / formatter / beautfier
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [metaleap/textadept-stuff](https://github.com/metaleap/textadept-stuff) - Scripts and customizations for the lean+mean+clean `foicica.com/textadept` editor
-- [martin-eden/workshop](https://github.com/martin-eden/workshop) - 
+- [martin-eden/workshop](https://github.com/martin-eden/workshop) - Personal Lua framework
 - [andremm/lua-parser](https://github.com/andremm/lua-parser) - A Lua 5.3 parser written with LPegLabel
 - [jirutka/luasrcdiet](https://github.com/jirutka/luasrcdiet) - Compresses Lua source code by removing unnecessary characters (updated fork of http://luasrcdiet.luaforge.net/)
 - [lunarmodules/ldoc](https://github.com/lunarmodules/ldoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty
@@ -8956,7 +8952,6 @@
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - my nixos config
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [teto/home](https://github.com/teto/home) - Configurations
 - [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
@@ -9555,7 +9550,7 @@
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [CyanogenMod/android](https://github.com/CyanogenMod/android) - Misc Android stuff
 - [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [thimc/vifm_devicons](https://github.com/thimc/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [callbag/callbag](https://github.com/callbag/callbag) - 👜 A standard for JS callbacks that enables lightweight observables and iterables
 - [TeddyDD/kakoune-wiki](https://github.com/TeddyDD/kakoune-wiki) - Personal wiki plugin for Kakoune
@@ -11749,6 +11744,7 @@
 - [salman-abedin/magpie](https://github.com/salman-abedin/magpie) - Dotfiles of my minimal Unix system geared for media, programming & writing
 - [salman-abedin/bolt](https://github.com/salman-abedin/bolt) - Launcher wrapper for a lightning fast Unix workflow
 - [salman-abedin/uniblocks](https://github.com/salman-abedin/uniblocks) - Status bar agnostic module generator
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [AN3223/sakra](https://github.com/AN3223/sakra) - The Swiss Army Knife RSS Aggregator
 - [AN3223/fzfhub](https://github.com/AN3223/fzfhub) - GitHub TUI browser
