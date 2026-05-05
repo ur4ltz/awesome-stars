@@ -1036,7 +1036,6 @@
 - [DeqingSun/ch55xduino](https://github.com/DeqingSun/ch55xduino) - An Arduino-like programming API for the CH55X
 - [nulllaborg/arduino_nulllab](https://github.com/nulllaborg/arduino_nulllab) - Hardware support package for LGT AVR Compatible Chips
 - [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
-- [RobTillaart/dateTimeHelpers](https://github.com/RobTillaart/dateTimeHelpers) - Arduino library with date and time helper functions.
 - [RobTillaart/IEEE754tools](https://github.com/RobTillaart/IEEE754tools) - Arduino library to manipulate IEEE754 float numbers fast. (experimental)
 - [RobTillaart/AtomicWeight](https://github.com/RobTillaart/AtomicWeight) - Arduino library for atomic weights from the periodic table of elements.
 - [Ebiroll/esp32_sigrok](https://github.com/Ebiroll/esp32_sigrok) - Simple sigrok sump implementation
@@ -2320,7 +2319,7 @@
 - [vshymanskyy/TinyGSM](https://github.com/vshymanskyy/TinyGSM) - A small Arduino library for GSM modules, that just works
 - [skathir38/Rotary](https://github.com/skathir38/Rotary) - ESP8266/Arduino Library for reading rotary encoder values.
 - [HomeDing/HomeDing](https://github.com/HomeDing/HomeDing) - Sourcecode of the Arduino library to build the firmware.
-- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 family of SoCs
 - [pschatzmann/logic-analyzer](https://github.com/pschatzmann/logic-analyzer) - Arduino Logic Analyzer API supporting the SUMP protocol (for sigrok, pulseview)
 - [EUA/ESP32_LogicAnalyzer](https://github.com/EUA/ESP32_LogicAnalyzer) - ESP32 Logic Analyzer
 - [8cH9azbsFifZ/docker-cwskimmer](https://github.com/8cH9azbsFifZ/docker-cwskimmer) - 
@@ -2844,6 +2843,7 @@
 - [RobTillaart/AM232X](https://github.com/RobTillaart/AM232X) - Arduino library for AM2320 AM2321 and AM2323 I2C temperature and humidity sensor
 - [RobTillaart/Adler](https://github.com/RobTillaart/Adler) - Arduino library for calculating the Adler-32 and Adler-16 checksum.
 - [RobTillaart/Fletcher](https://github.com/RobTillaart/Fletcher) - Arduino Library for calculating Fletcher's checksum
+- [RobTillaart/dateTimeHelpers](https://github.com/RobTillaart/dateTimeHelpers) - Arduino library with date and time helper functions.
 - [RobTillaart/RAIN](https://github.com/RobTillaart/RAIN) - Arduino library for rain sensor (analog)
 - [RobTillaart/Correlation](https://github.com/RobTillaart/Correlation) - Arduino library to determine the correlation between X and Y datasets.
 - [RobTillaart/ellipse](https://github.com/RobTillaart/ellipse) - Arduino library with ellipse math
@@ -5684,7 +5684,6 @@
 - [gr2m/octokit.rest](https://github.com/gr2m/octokit.rest) - Sourcode for the octokit.rest website
 - [gr2m/octokit-app-example](https://github.com/gr2m/octokit-app-example) - An example GitHub app implemented using Octokit libraries
 - [gr2m/octokit-oauth-app-begin-example](https://github.com/gr2m/octokit-oauth-app-begin-example) - serverless example using begin.com
-- [gr2m/octokit-pagination-test](https://github.com/gr2m/octokit-pagination-test) - experimenting with async iterators for pagination
 - [gr2m/octokit-pinned-issues](https://github.com/gr2m/octokit-pinned-issues) - Octokit plugin to manage pinned issues for a repository
 - [gr2m/octokit-rest-plugin-add-endpoints](https://github.com/gr2m/octokit-rest-plugin-add-endpoints) - @octokit/rest plugin to add endpoint methods based on a routes.json file
 - [gr2m/octokit-rest-plugin-example](https://github.com/gr2m/octokit-rest-plugin-example) - @octokit/rest plugin example
@@ -5982,6 +5981,7 @@
 
 ## Lua 
 
+- [phanen/blink-cmp-register](https://github.com/phanen/blink-cmp-register) - Register source for blink.cmp
 - [mnabila/nvimrc](https://github.com/mnabila/nvimrc) - Neovim Configuration
 - [ToxicFrog/vstruct](https://github.com/ToxicFrog/vstruct) - A Lua library for packing and unpacking binary data, supporting arbitrary (byte-aligned) widths, named fields, and repetition.
 - [ToxicFrog/luautil](https://github.com/ToxicFrog/luautil) - A convenient utility library for Lua used by some of my other projects.
@@ -11219,7 +11219,7 @@
 - [qasimhbti/books](https://github.com/qasimhbti/books) - Some books organised by topic
 - [lenormf/kakmerge](https://github.com/lenormf/kakmerge) - A Kakoune-based mergetool for Git
 - [tpope/rbenv-ctags](https://github.com/tpope/rbenv-ctags) - Automatically generate ctags for rbenv Ruby stdlibs
-- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) - Set up a developer friendly Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
+- [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice) - Set up a developer friendly Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu and macOS for CLI tools!
 - [kubi48/TransistorTester-Linux-install](https://github.com/kubi48/TransistorTester-Linux-install) - Scripts to install transistor tester sources and documentation
 - [ncb85/SmallC-85](https://github.com/ncb85/SmallC-85) - Ron Cain's Small C public domain compiler revived after 30 years.
 - [serge-404/HI-TECH-C-V3.09](https://github.com/serge-404/HI-TECH-C-V3.09) - HI-TECH C V3.09 CP/M freeware C-compiler - the best Z80 native CP/M ANSII C compiler.
