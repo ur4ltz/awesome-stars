@@ -10226,7 +10226,7 @@
 - [AckslD/manven](https://github.com/AckslD/manven) - Small CLI for managing virtual python environment
 - [s1n7ax/dwm-status](https://github.com/s1n7ax/dwm-status) - simple and flexible dwm status bar application
 - [erietz/ultisnips-vscode](https://github.com/erietz/ultisnips-vscode) - :scissors: Mass convert ultisnips snippets to json for vscode
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [Roger/escrotum](https://github.com/Roger/escrotum) - Linux screen capture using pygtk, inspired by scrot
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [lastship/lastship-common](https://github.com/lastship/lastship-common) - German Team
