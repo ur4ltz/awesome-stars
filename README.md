@@ -6262,7 +6262,7 @@
 - [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) - A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator created with the lualine.nvim configuration format
 - [WTFox/jellybeans.nvim](https://github.com/WTFox/jellybeans.nvim) - Lua port of Jellybeans.vim
 - [aschrab/feline.nvim](https://github.com/aschrab/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
-- [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, kitty, lf, sketchybar, etc
+- [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, Fzf, Ghostty, Kitty, lf, Sketchybar, etc
 - [scottmckendry/pick-resession.nvim](https://github.com/scottmckendry/pick-resession.nvim) - ⏪ Telescope & Snacks pickers for resession.nvim
 - [ray-x/mkdn.nvim](https://github.com/ray-x/mkdn.nvim) - Essential markdown note-taking tools with LSP support.
 - [ray-x/cmp-sql](https://github.com/ray-x/cmp-sql) - SQL keywords for cmp
@@ -7525,7 +7525,7 @@
 - [ldelossa/litee-filetree.nvim](https://github.com/ldelossa/litee-filetree.nvim) - A file explorer implemented with the litee.nvim library.
 - [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization in Neovim
 - [lucasvianav/nvim](https://github.com/lucasvianav/nvim) - My Neovim config.
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles - utilising a sick Ruby Rakefile
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [nyngwang/NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - A simple usecase of floating window to help you focus.
 - [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - Pandoc Markdown Lecture Template: This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (https://pandoc.org/MANUAL.html) using a 
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
@@ -11999,7 +11999,7 @@
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
 - [thenigan/git-diffall](https://github.com/thenigan/git-diffall) - Script to perform directory diffs using an external diff tool in Git
 - [sjl/learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
