@@ -324,6 +324,8 @@
 
 ## C 
 
+- [Tokeloshe/vuurwerk-firmware](https://github.com/Tokeloshe/vuurwerk-firmware) - Custom firmware for the Quansheng UV-K5. Adaptive squelch, TX compressor, voice-seeking spectrum analyzer, and 27 original features built on Egzumer.
+- [qshosfw/deltafw-k1-k5v3](https://github.com/qshosfw/deltafw-k1-k5v3) - Custom firmware for Quansheng UVK5v3/UVK1 radios
 - [createskyblue/Ch554-AVR-ISP](https://github.com/createskyblue/Ch554-AVR-ISP) - Usb-cdc avr-isp download tool based on ch554 chip. The default baud rate is 19200
 - [createskyblue/OpenT12](https://github.com/createskyblue/OpenT12) - T12 Soldering Station using ESP32
 - [createskyblue/Air001_I2C_TwoBoard_CommunicationMaster_DMA_u8g2](https://github.com/createskyblue/Air001_I2C_TwoBoard_CommunicationMaster_DMA_u8g2) - 
@@ -1246,7 +1248,7 @@
 - [nimaipatel/st](https://github.com/nimaipatel/st) - My build of the simple terminal
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [karlc1/dwm-karlc](https://github.com/karlc1/dwm-karlc) - 
-- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [hollystandring/nmenu](https://github.com/hollystandring/nmenu) - A 'plug and play' menu system for ncurses with automatic sizing and centering
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [optozorax/moonlander](https://github.com/optozorax/moonlander) - My keymap for moonlander keyboard
@@ -3208,7 +3210,7 @@
 - [little-brother/attiny13-clock](https://github.com/little-brother/attiny13-clock) - ATtiny13 DS1302 TM1637 clock
 - [mibli/i3-termdialogs](https://github.com/mibli/i3-termdialogs) - Terminal based dialog utils for minimalistic setups
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [orbitalquark/scinterm](https://github.com/orbitalquark/scinterm) - Scinterm is a curses platform for Scintilla that supports ncurses, PDCurses, and X/Open Curses.
 - [RobTillaart/MultiMap](https://github.com/RobTillaart/MultiMap) - Arduino library for fast non-linear mapping or interpolation of values
@@ -5199,6 +5201,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [metaleap/zentient](https://github.com/metaleap/zentient) - [2017-2019, maintained, stable; great for Go, meagre for others] multi-language, multi-editor IDE backend (frontends in separate repos) ➜ first iteration: language support for Go (fully) & Haskell (mi
 - [rafi/gits](https://github.com/rafi/gits) - A Fast CLI Git manager for multiple repositories
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [dufferzafar/cheat](https://github.com/dufferzafar/cheat) - Cheatsheets for command line, because, you know, life is too short to read manpages.
 - [zchee/nvim-go](https://github.com/zchee/nvim-go) - Go development plugin for Neovim written in pure Go
@@ -6543,9 +6546,9 @@
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
 - [Norlock/nvim-traveller](https://github.com/Norlock/nvim-traveller) - File manager inside Neovim
 - [yorickpeterse/nvim-pqf](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows for NeoVim
-- [KaitlynEthylia/Evalua](https://github.com/KaitlynEthylia/Evalua) - A tiny neovim plugin for evaluating Lua code on-the-fly.
+- [KaityyUwU/Evalua](https://github.com/KaityyUwU/Evalua) - A tiny neovim plugin for evaluating Lua code on-the-fly.
 - [kevinhwang91/nvim-fFHighlight](https://github.com/kevinhwang91/nvim-fFHighlight) - Highlight f and F in Neovim
-- [KaitlynEthylia/TreePin](https://github.com/KaitlynEthylia/TreePin) - A lightweight neovim plugin for pinning fragments of code to the screen.
+- [KaityyUwU/TreePin](https://github.com/KaityyUwU/TreePin) - A lightweight neovim plugin for pinning fragments of code to the screen.
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) - 
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
@@ -10509,7 +10512,6 @@
 - [ncm2/ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
 - [fsmMLK/inkscapeCircuitSymbols](https://github.com/fsmMLK/inkscapeCircuitSymbols) - Inkscape extension to assist creating circuit symbols.
 - [leechwort/knob-scale-generator](https://github.com/leechwort/knob-scale-generator) - Inkscape extension for generation of knob scales
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [airspy/airspyone_firmware](https://github.com/airspy/airspyone_firmware) - AirSpy Firmware
 - [enkore/i3pystatus](https://github.com/enkore/i3pystatus) - A complete replacement for i3status
 - [hyiltiz/vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize (n)vim startup time
