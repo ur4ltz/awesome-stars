@@ -1496,6 +1496,7 @@
 - [whitecatboard/Lua-RTOS-ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Lua RTOS for ESP32
 - [luaposix/luaposix](https://github.com/luaposix/luaposix) - Lua bindings for POSIX APIs
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
+- [makccr/dot](https://github.com/makccr/dot) - A repository to contain any and all of my personal application configuration files.
 - [YaN-3k/dots](https://github.com/YaN-3k/dots) - just dotfiles ¯\_(ツ)_/¯﻿
 - [linux-pam/linux-pam](https://github.com/linux-pam/linux-pam) - Linux PAM (Pluggable Authentication Modules for Linux) project
 - [hishamhm/dit](https://github.com/hishamhm/dit) - A console text editor for Unix systems that you already know how to use
@@ -3816,6 +3817,7 @@
 
 ## Dockerfile 
 
+- [radareorg/radare2-snap](https://github.com/radareorg/radare2-snap) - Radare2 snap and docker repository
 - [nelu/rutorrent-dock](https://github.com/nelu/rutorrent-dock) - Rutorrent docker-compose project with filemanager plugins installed
 - [ffeldhaus/docker-xpra-minimal](https://github.com/ffeldhaus/docker-xpra-minimal) - XPRA docker base image
 - [lambdalisue/docker-wireshark](https://github.com/lambdalisue/docker-wireshark) - Docker image which makes Wireshark available via HTML5 using XPRA
@@ -8564,6 +8566,7 @@
 - [pkulchenko/ZeroBraneEduPack](https://github.com/pkulchenko/ZeroBraneEduPack) - A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 - [shmuz/far_plugins](https://github.com/shmuz/far_plugins) - 
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [zinovyev/lugate](https://github.com/zinovyev/lugate) - Lua module for building JSON-RPC 2.0 Gateway APIs just inside of your Nginx
 - [endowdly/Grafx2LuaScripts](https://github.com/endowdly/Grafx2LuaScripts) - Just some scripts to use in Grafx2's Brush Factory
 - [marcoonroad/moonforth](https://github.com/marcoonroad/moonforth) - My own Forth dialect on top of the Lua programming language. [Work in Progress]
@@ -8823,7 +8826,6 @@
 - [libopencm3/libopencm3-template](https://github.com/libopencm3/libopencm3-template) - Simple empty template to base your poject on
 - [libopencm3/libopencm3-miniblink](https://github.com/libopencm3/libopencm3-miniblink) - blinkies for _any_ board supported. Useful for testing your toolchain and build environment
 - [libopencm3/libopencm3-examples](https://github.com/libopencm3/libopencm3-examples) - Simple example projects showing how to use libopencm3.
-- [radareorg/radare2-snap](https://github.com/radareorg/radare2-snap) - Radare2 snap and docker repository
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
@@ -11782,7 +11784,6 @@
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
 - [ServoDev/dot_files](https://github.com/ServoDev/dot_files) - All my dotfiles which can be installed on a fresh arch install
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
-- [makccr/dot](https://github.com/makccr/dot) - Dotfiles & repo for any and all application configs.
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
 - [Liupold/OLD-dotfiles](https://github.com/Liupold/OLD-dotfiles) - This is collection of dotfiles by liupold.
@@ -11868,7 +11869,6 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My ultimate *NIX dotfiles: a finely-tuned setup for a minimal yet powerful desktop experience. It's been designed around i3wm and URxvt for a cohesive and efficient workflow.
 - [rickysaurav/dotfiles](https://github.com/rickysaurav/dotfiles) - 
-- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Vim & Tmux dotfiles
 - [tkabber/Tkabber-pack](https://github.com/tkabber/Tkabber-pack) - Tkabber distribution for Windows
 - [andreyorst/plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune
