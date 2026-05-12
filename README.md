@@ -2352,7 +2352,7 @@
 - [NT7S/MAX2681Transceiver](https://github.com/NT7S/MAX2681Transceiver) - Homebrew MAX2681 Superhet Transceiver
 - [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The OpenSource Disassembler
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
-- [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
+- [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY/ARDUINO module (PWM or optionally AD8933 signal generator) with audio amplifier or H-bridge+MOSFETs  driving piezo ultrasonic transdu
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
 - [NovoselovMilk/Arduino-ELRS-Controller](https://github.com/NovoselovMilk/Arduino-ELRS-Controller) - 
 - [kkbin505/Arduino-Transmitter-for-ELRS](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Arduino based RC transmitter for ELRS external TX Module
@@ -10066,6 +10066,7 @@
 - [altdesktop/python-dbus-next](https://github.com/altdesktop/python-dbus-next) - 🚌 The next great DBus library for Python with asyncio support
 - [altdesktop/i3-dstatus](https://github.com/altdesktop/i3-dstatus) - Another great statusline generator for i3wm
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [platformio/platform-ststm32](https://github.com/platformio/platform-ststm32) - ST STM32: development platform for PlatformIO
 - [platformio/platform-espressif8266](https://github.com/platformio/platform-espressif8266) - Espressif 8266: development platform for PlatformIO
 - [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
@@ -11367,7 +11368,6 @@
 - [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - The Ultimate tmux Status Bar Framework
 - [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [pavelmc/amake](https://github.com/pavelmc/amake) - A very simple Arduino command line interface for linux
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [catgoose/kanagawa-tmux](https://github.com/catgoose/kanagawa-tmux) - 
@@ -13405,7 +13405,7 @@
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [rakr/vim-one](https://github.com/rakr/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
-- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
+- [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) - A solid language pack for Vim.
 - [KeitaNakamura/neodark.vim](https://github.com/KeitaNakamura/neodark.vim) - A dark color scheme for vim
 - [itchyny/landscape.vim](https://github.com/itchyny/landscape.vim) - A colorscheme for Vim
 - [noahfrederick/vim-noctu](https://github.com/noahfrederick/vim-noctu) - A Vim color scheme for 16-color terminals
