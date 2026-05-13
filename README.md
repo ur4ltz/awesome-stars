@@ -1956,6 +1956,7 @@
 - [bigbigmdm/CH341a_spi_programmer](https://github.com/bigbigmdm/CH341a_spi_programmer) - QT5 programmer software for the readind/writing SPI NOR FLASH use the CH341a device.
 - [bigbigmdm/QT-CH341A-LINUX-PROGRAMMER](https://github.com/bigbigmdm/QT-CH341A-LINUX-PROGRAMMER) - Programmer tools use CH341A EEPROM programmer for 24C01 ... 24C1024 chip.
 - [bigbigmdm/Binary_file_comparator](https://github.com/bigbigmdm/Binary_file_comparator) - QT GUI binary file comparator
+- [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips
 - [Simsys/qhexedit2](https://github.com/Simsys/qhexedit2) - Binary Editor for Qt
 - [gavinlyonsrepo/SSD1331_LTSM](https://github.com/gavinlyonsrepo/SSD1331_LTSM) - Arduino C++  library for SSD1331  OLED displays — supports hardware/software SPI, rotation, scroll, brightness modes, graphics, bitmaps, and fonts.
 - [gavinlyonsrepo/ILI9341_LTSM](https://github.com/gavinlyonsrepo/ILI9341_LTSM) - C++ Arduino library for ILI9341 TFT SPI LCDs—supports hardware/software SPI, graphics, rotation, scroll, bitmaps, fonts, diagnostics, and frame buffer.
@@ -2928,7 +2929,7 @@
 - [RobTillaart/statHelpers](https://github.com/RobTillaart/statHelpers) - Arduino library with a number of statistic helper functions.
 - [RobTillaart/SRF05](https://github.com/RobTillaart/SRF05) - Arduino library for SRF05 distance sensor with temperature and humidity compensation.
 - [RobTillaart/MCP_DAC](https://github.com/RobTillaart/MCP_DAC) - Arduino library for MCP_DAC MCP48xx and MCP49xx series SPI-DAC
-- [RobTillaart/map2colour](https://github.com/RobTillaart/map2colour) - Arduino library for mapping a float to RGB colour spectrum
+- [RobTillaart/map2colour](https://github.com/RobTillaart/map2colour) - Arduino library for mapping a float to the RGB colour spectrum
 - [RobTillaart/LUHN](https://github.com/RobTillaart/LUHN) - Arduino Library for calculating LUHN checksum
 - [RobTillaart/RS485](https://github.com/RobTillaart/RS485) - Arduino library for RS485, half duplex communication
 - [RobTillaart/GY521](https://github.com/RobTillaart/GY521) - Arduino library for GY521  accelerometer- gyroscope a.k.a. MCU-6050
@@ -5030,7 +5031,7 @@
 - [WhoIsSethDaniel/nvim-go-client-examples](https://github.com/WhoIsSethDaniel/nvim-go-client-examples) - Examples of using the nvim go client and documentation for the client
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
-- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [darmiel/365-days-notifier](https://github.com/darmiel/365-days-notifier) - 365 days of code
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -5306,7 +5307,6 @@
 - [piit79/donegal-c](https://github.com/piit79/donegal-c) - a fork of the gingham keyboard pcb which keeps the iso 60% layout but drops the i/o expander.
 - [ravitemer/mcp-registry](https://github.com/ravitemer/mcp-registry) - A community-maintained registry of Model Context Protocol (MCP) servers with structured installation configurations for easy integration.
 - [cesanta/mongoose-os-docs](https://github.com/cesanta/mongoose-os-docs) - Mongoose OS Documentation
-- [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips
 - [PCKorvet/LInTech-network](https://github.com/PCKorvet/LInTech-network) - Reconstructing USSR school retro PC network by LInTech
 - [XGudron/url-to-pdf-api](https://github.com/XGudron/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [XGudron/UA3REO-DDC-Transceiver](https://github.com/XGudron/UA3REO-DDC-Transceiver) - 
@@ -7787,7 +7787,7 @@
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
 - [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-108+g5d66ef188f) config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
-- [ashincoder/StarVim](https://github.com/ashincoder/StarVim) - A neovim IDE which is beyond the moon 🌚
+- [ashin-15/StarVim](https://github.com/ashin-15/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
 - [Sharparam/luaenv-luarocks](https://github.com/Sharparam/luaenv-luarocks) - Install luarocks for luaenv.
 - [erf/vis-seti](https://github.com/erf/vis-seti) - A seti theme for the vis editor
@@ -10742,7 +10742,6 @@
 - [Upcycle-Electronics/LGT8Fx-Datasheet](https://github.com/Upcycle-Electronics/LGT8Fx-Datasheet) - This is an attempt at a better detailed English translation of the Logic Green LGT8Fx Datasheet. This includes all files used to create the document. It's a work in progress.
 - [cho45/NanoVNA-manual](https://github.com/cho45/NanoVNA-manual) - 
 - [maxbrunsfeld/vim-yankstack](https://github.com/maxbrunsfeld/vim-yankstack) - A lightweight implementation of emacs's kill-ring for vim
-- [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 - [ruby/syntax_suggest](https://github.com/ruby/syntax_suggest) - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
 - [CKolkey/solargraph-syntax-suggest](https://github.com/CKolkey/solargraph-syntax-suggest) - 
@@ -11364,6 +11363,7 @@
 - [quadpixels/classic95](https://github.com/quadpixels/classic95) - Modified Classic95 Icon Theme
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Show beautiful keystrokes  & generate chat bubble widgets while typing on Linux
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
+- [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
 - [lvim-tech/lvim-fm](https://github.com/lvim-tech/lvim-fm) - 
 - [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - The Ultimate tmux Status Bar Framework
 - [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
@@ -12752,7 +12752,7 @@
 - [pwntester/cobange](https://github.com/pwntester/cobange) - Neovim color scheme
 - [ingram1107/vim-monokai](https://github.com/ingram1107/vim-monokai) - Monokai color scheme for Vim converted from Textmate theme
 - [lifepillar/vim-formal-package](https://github.com/lifepillar/vim-formal-package) - Vim package supporting various formal languages.
-- [charlax/dotfiles](https://github.com/charlax/dotfiles) - My configuration files
+- [charlax/dotfiles-archive](https://github.com/charlax/dotfiles-archive) - My configuration files
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [Rigellute/shades-of-purple.vim](https://github.com/Rigellute/shades-of-purple.vim) - Dark theme for vim
 - [crivotz/v-ide](https://github.com/crivotz/v-ide) - Vim custom configuration, oriented for full stack developers (rails, ruby, php, html, css, SCSS, javascript)
