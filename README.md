@@ -324,7 +324,7 @@
 
 ## C 
 
-- [Tokeloshe/vuurwerk-firmware](https://github.com/Tokeloshe/vuurwerk-firmware) - Custom firmware for the Quansheng UV-K5. Adaptive squelch, TX compressor, voice-seeking spectrum analyzer, and 27 original features built on Egzumer.
+- [Tokeloshe/vuurwerk-firmware](https://github.com/Tokeloshe/vuurwerk-firmware) - Custom firmware for the Quansheng UV-K5. Voice-seeking spectrum, adaptive squelch, TX compressor, bandscope, and 41 features built on Egzumer.
 - [qshosfw/deltafw-k1-k5v3](https://github.com/qshosfw/deltafw-k1-k5v3) - Custom firmware for Quansheng UVK5v3/UVK1 radios
 - [createskyblue/Ch554-AVR-ISP](https://github.com/createskyblue/Ch554-AVR-ISP) - Usb-cdc avr-isp download tool based on ch554 chip. The default baud rate is 19200
 - [createskyblue/OpenT12](https://github.com/createskyblue/OpenT12) - T12 Soldering Station using ESP32
@@ -3712,7 +3712,7 @@
 - [progit/progit2-ru](https://github.com/progit/progit2-ru) - 
 - [progit/progit2-uk](https://github.com/progit/progit2-uk) - Ukrainian translation
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
-- [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
+- [mozilla/Fira](https://github.com/mozilla/Fira) - DEPRECATED - Mozilla's new typeface, used in Firefox OS
 - [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 - [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) - Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -9389,7 +9389,6 @@
 - [dracula/sublime](https://github.com/dracula/sublime) - 🧛🏻‍♂️ Dark theme for Sublime Text
 - [karimlevallois/gruvbox-material-sublime-text](https://github.com/karimlevallois/gruvbox-material-sublime-text) - Gruvbox Material Theme for Sublime Text
 - [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - 
-- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation
 - [alexherbo2/snippet.kak](https://github.com/alexherbo2/snippet.kak) - Snippets integration for Kakoune
 - [danr/kakoune-easymotion](https://github.com/danr/kakoune-easymotion) - kakoune plugin for navigating like the easymotion vim mode
 - [robertmeta/plug.kak](https://github.com/robertmeta/plug.kak) - Plugin manager for Kakoune
@@ -10212,6 +10211,7 @@
 - [sublimelsp/lsp_utils](https://github.com/sublimelsp/lsp_utils) - Module with LSP-related utilities for Sublime Text
 - [sublimelsp/LSP-bash](https://github.com/sublimelsp/LSP-bash) - Bash support for Sublime's LSP plugin provided through bash-language-server.
 - [sublimelsp/LSP-json](https://github.com/sublimelsp/LSP-json) - Schema validation/completions for your JSON and Sublime files
+- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation
 - [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [tom-anders/easy-i3-neovim-nav.py](https://github.com/tom-anders/easy-i3-neovim-nav.py) - Quickly navigate and resize i3wm windows and Neovim splits with the same keybindings
 - [blurstudio/sublime_debugger-plugin](https://github.com/blurstudio/sublime_debugger-plugin) - A template that can be used to make debug adapters compatible with the Debugger plugin in Sublime Text 3 and 4
@@ -13174,7 +13174,6 @@
 - [ThomasFaivre/vim-cursormode](https://github.com/ThomasFaivre/vim-cursormode) - guicursor for terminal user
 - [vheon/vim-cursormode](https://github.com/vheon/vim-cursormode) - guicursor for terminal user
 - [bazelbuild/vim-bazel](https://github.com/bazelbuild/vim-bazel) - Vim support for Bazel
-- [IliaOzhmegov/dotfiles](https://github.com/IliaOzhmegov/dotfiles) - 
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [haya14busa/is.vim](https://github.com/haya14busa/is.vim) - incremental search improved - successor of incsearch.vim
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
