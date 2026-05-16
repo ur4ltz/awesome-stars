@@ -324,6 +324,7 @@
 
 ## C 
 
+- [tree-sitter-grammars/tree-sitter-yaml](https://github.com/tree-sitter-grammars/tree-sitter-yaml) - YAML grammar for tree-sitter
 - [Tokeloshe/vuurwerk-firmware](https://github.com/Tokeloshe/vuurwerk-firmware) - Custom firmware for the Quansheng UV-K5. Voice-seeking spectrum, adaptive squelch, TX compressor, bandscope, and 41 features built on Egzumer.
 - [qshosfw/deltafw-k1-k5v3](https://github.com/qshosfw/deltafw-k1-k5v3) - Custom firmware for Quansheng UVK5v3/UVK1 radios
 - [createskyblue/Ch554-AVR-ISP](https://github.com/createskyblue/Ch554-AVR-ISP) - Usb-cdc avr-isp download tool based on ch554 chip. The default baud rate is 19200
@@ -5560,6 +5561,7 @@
 
 ## JavaScript 
 
+- [MeanderingProgrammer/tree-sitter-srt](https://github.com/MeanderingProgrammer/tree-sitter-srt) - SubRip Subtitle grammar for tree-sitter
 - [sometimesdigital/screenduino](https://github.com/sometimesdigital/screenduino) - 📟 make LCD custom characters using the createChar() function from the LiquidCrystal library
 - [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [earldouglas/openhamclock](https://github.com/earldouglas/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
@@ -5985,6 +5987,12 @@
 
 ## Lua 
 
+- [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Embed images into any markup language, like LaTeX, Markdown or Typst
+- [yujinyuz/gitpad.nvim](https://github.com/yujinyuz/gitpad.nvim) - minimal neovim plugin for taking down notes for git projects, branch, etc.
+- [MeanderingProgrammer/stashpad.nvim](https://github.com/MeanderingProgrammer/stashpad.nvim) - Plugin for storing scratch notes based on git info
+- [MeanderingProgrammer/dashboard.nvim](https://github.com/MeanderingProgrammer/dashboard.nvim) - Neovim dashboard plugin
+- [MeanderingProgrammer/py-requirements.nvim](https://github.com/MeanderingProgrammer/py-requirements.nvim) - Neovim plugin that helps manage python requirements.
+- [MeanderingProgrammer/dotfiles](https://github.com/MeanderingProgrammer/dotfiles) - Using yadm to store all my dotfiles.
 - [phanen/blink-cmp-register](https://github.com/phanen/blink-cmp-register) - Register source for blink.cmp
 - [mnabila/nvimrc](https://github.com/mnabila/nvimrc) - Neovim Configuration
 - [ToxicFrog/vstruct](https://github.com/ToxicFrog/vstruct) - A Lua library for packing and unpacking binary data, supporting arbitrary (byte-aligned) widths, named fields, and repetition.
@@ -9828,6 +9836,7 @@
 
 ## Python 
 
+- [MeanderingProgrammer/pass-yank](https://github.com/MeanderingProgrammer/pass-yank) - A pass extension that lets you copy metadata associated with passwords
 - [hansec/fortran-language-server](https://github.com/hansec/fortran-language-server) - Fortran Language Server for the Language Server Protocol
 - [frida/frida-tools](https://github.com/frida/frida-tools) - Frida CLI tools
 - [AxxAxx/AxxTerm](https://github.com/AxxAxx/AxxTerm) - Serial Terminal Software with plotting capability
@@ -10847,6 +10856,7 @@
 
 ## Rust 
 
+- [MeanderingProgrammer/yadm-rs](https://github.com/MeanderingProgrammer/yadm-rs) - Yet Another Dotfiles Manager in Rust
 - [probe-rs/rusty-probe-firmware](https://github.com/probe-rs/rusty-probe-firmware) - 
 - [probe-rs/rtt-target](https://github.com/probe-rs/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol
 - [embassy-rs/stm32-data](https://github.com/embassy-rs/stm32-data) - 
@@ -11126,6 +11136,7 @@
 
 ## Shell 
 
+- [elcorto/pass-cl](https://github.com/elcorto/pass-cl) - password-store extension to copy metadata from multi-line entries. Based on https://gitlab.com/lbischof/pass-extension-pclip.
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [ToxicFrog/mkrescue](https://github.com/ToxicFrog/mkrescue) - Script to build bootable rescue USB sticks
 - [ToxicFrog/hypatian-prompt](https://github.com/ToxicFrog/hypatian-prompt) - ZSH for prompt using asynchronous subprocesses to fetch DVCS data.
