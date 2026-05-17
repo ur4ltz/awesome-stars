@@ -9772,7 +9772,6 @@
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [pink-mist/sbotools](https://github.com/pink-mist/sbotools) - provides a ports-like interface to slackbuilds.org
 - [kurkale6ka/help](https://github.com/kurkale6ka/help) - Help summaries on Linux commands, programming topics and other
-- [kurkale6ka/config](https://github.com/kurkale6ka/config) - 
 - [xi/dejavu-slashed](https://github.com/xi/dejavu-slashed) - 
 - [openSUSE/obs-service-format_spec_file](https://github.com/openSUSE/obs-service-format_spec_file) - An OBS source service: reformats a spec file to SUSE standard
 - [rtomayko/shocco](https://github.com/rtomayko/shocco) - shocco is  a quick-and-dirty, literate-programming-style documentation generator for / in POSIX shell
@@ -10196,7 +10195,6 @@
 - [luarocks/hererocks](https://github.com/luarocks/hererocks) - Python script for installing Lua/LuaJIT and LuaRocks into a local directory
 - [getpatchwork/pwclient](https://github.com/getpatchwork/pwclient) - The command-line client for the patchwork patch tracking tool
 - [sublimelsp/LSP-gopls](https://github.com/sublimelsp/LSP-gopls) - Golang support for Sublime's LSP plugin
-- [sublimelsp/LSP-pylsp](https://github.com/sublimelsp/LSP-pylsp) - Convenience package for the Python Language Server
 - [emanspeaks/pyls-flake8](https://github.com/emanspeaks/pyls-flake8) - Python Language Server plugin for Flake8
 - [python-lsp/python-lsp-black](https://github.com/python-lsp/python-lsp-black) - python-lsp-server plugin that adds support to black autoformatter, forked from https://github.com/rupert/pyls-black/
 - [python-lsp/pylsp-mypy](https://github.com/python-lsp/pylsp-mypy) - Mypy plugin for the Python LSP Server.
@@ -11565,6 +11563,7 @@
 - [SleepyBag/fuzzy-fs](https://github.com/SleepyBag/fuzzy-fs) - a File System Navigator powered by fzf
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) - A versatile (cross-)toolchain generator.
 - [cehoffman/lua-build](https://github.com/cehoffman/lua-build) - Compile and install Lua
+- [sublimelsp/LSP-pylsp](https://github.com/sublimelsp/LSP-pylsp) - Convenience package for the Python Language Server
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [katawful/dotfiles](https://github.com/katawful/dotfiles) - My dotfiles for non-personal stuff
 - [ibhagwan/dots](https://github.com/ibhagwan/dots) - dots
@@ -11613,6 +11612,7 @@
 - [drewbrokke/git-fuzzy-checkout](https://github.com/drewbrokke/git-fuzzy-checkout) - Check out and manage git branches painlessly with the power of fzf
 - [qmacro/dotfiles](https://github.com/qmacro/dotfiles) - 
 - [mohkale/dotfiles](https://github.com/mohkale/dotfiles) - :house: is where the :heart: is :tada:
+- [kurkale6ka/config](https://github.com/kurkale6ka/config) - 
 - [kurkale6ka/zsh](https://github.com/kurkale6ka/zsh) - 
 - [kurkale6ka/bash](https://github.com/kurkale6ka/bash) - Bash configuration and help files
 - [spitlo/dotfiles](https://github.com/spitlo/dotfiles) - For safekeeping
