@@ -1280,7 +1280,7 @@
 - [rtrussell/BBCSDL](https://github.com/rtrussell/BBCSDL) - BBC BASIC for SDL 2.0: for Windows, Linux (86), MacOS, Raspberry Pi, Android and iOS.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
 - [Stichting-MINIX-Research-Foundation/minix](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Official MINIX sources - Automatically replicated from gerrit.minix3.org
-- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
+- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, secure, portable, multiprotocol bootloader and boot manager.
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [loboris/ESP32_TFT_library](https://github.com/loboris/ESP32_TFT_library) - Full featured TFT library for ESP32 with demo application
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
@@ -3447,7 +3447,7 @@
 - [Alcaro/GitBSLR](https://github.com/Alcaro/GitBSLR) - Make Git follow symlinks
 - [Testato/SoftwareWire](https://github.com/Testato/SoftwareWire) - Creates a software I2C/TWI bus on every pins
 - [felias-fogg/SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) - 
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with basic support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and read/write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly cu
 - [etherkit/MenuArduino](https://github.com/etherkit/MenuArduino) - A generic menu system to be used with a display on an Arduino
 - [scmrtos/scmrtos](https://github.com/scmrtos/scmrtos) - scmRTOS embedded operating system
 - [hasepompase/Adafruit_Si5351_Library](https://github.com/hasepompase/Adafruit_Si5351_Library) - Driver for Adafruit's Si5351 Clockgen Breakout
@@ -10886,7 +10886,7 @@
 - [ul/kak-tree](https://github.com/ul/kak-tree) - Structural selections for Kakoune
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
 - [AE9RB/basic-lang](https://github.com/AE9RB/basic-lang) - BASIC: Microcomputer Edition
-- [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - A terminal-based but modern tetromino-stacking game that is very customizable and cross-platform.
+- [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - A terminal-based but modern tetromino-stacking game that is customizable and cross-platform.
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
