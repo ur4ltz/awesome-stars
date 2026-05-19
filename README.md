@@ -5564,7 +5564,6 @@
 - [MeanderingProgrammer/tree-sitter-srt](https://github.com/MeanderingProgrammer/tree-sitter-srt) - SubRip Subtitle grammar for tree-sitter
 - [sometimesdigital/screenduino](https://github.com/sometimesdigital/screenduino) - 📟 make LCD custom characters using the createChar() function from the LiquidCrystal library
 - [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
-- [earldouglas/openhamclock](https://github.com/earldouglas/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [Acode-Foundation/acode-plugin-smali](https://github.com/Acode-Foundation/acode-plugin-smali) - Smali language syntax highlighting for Acode editor
