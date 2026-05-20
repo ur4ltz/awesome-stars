@@ -3447,7 +3447,7 @@
 - [Alcaro/GitBSLR](https://github.com/Alcaro/GitBSLR) - Make Git follow symlinks
 - [Testato/SoftwareWire](https://github.com/Testato/SoftwareWire) - Creates a software I2C/TWI bus on every pins
 - [felias-fogg/SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) - 
-- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and read/write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly cu
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customi
 - [etherkit/MenuArduino](https://github.com/etherkit/MenuArduino) - A generic menu system to be used with a display on an Arduino
 - [scmrtos/scmrtos](https://github.com/scmrtos/scmrtos) - scmRTOS embedded operating system
 - [hasepompase/Adafruit_Si5351_Library](https://github.com/hasepompase/Adafruit_Si5351_Library) - Driver for Adafruit's Si5351 Clockgen Breakout
@@ -5086,7 +5086,7 @@
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [stamblerre/gocode](https://github.com/stamblerre/gocode) - An autocompletion daemon for the Go programming language
 - [mdempsky/gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
-- [liguangsheng/govisual](https://github.com/liguangsheng/govisual) - Visualize golang project dependencies.
+- [liguangsheng/go-modviz](https://github.com/liguangsheng/go-modviz) - Visualize golang project dependencies.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [FooSoft/md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
@@ -12246,7 +12246,7 @@
 - [kapecp/vscode-lrdb](https://github.com/kapecp/vscode-lrdb) - Lua debugger for vscode
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
 - [funktechno/git-kanban-enhanced-extension](https://github.com/funktechno/git-kanban-enhanced-extension) - chrome extension to add additional kanban project planning to git hosting: github.com, gitlab.com, gitea.io, bitbucket.org
-- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
+- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find your next vim colorcheme.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
 - [Novage/wt-tracker](https://github.com/Novage/wt-tracker) - High-performance WebTorrent tracker
