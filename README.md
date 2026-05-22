@@ -475,7 +475,6 @@
 - [ve3wwg/stm32f4](https://github.com/ve3wwg/stm32f4) - STM32F4 Repository
 - [ve3wwg/stm32f103c8t6](https://github.com/ve3wwg/stm32f103c8t6) - libopencm3 and FreeRTOS projects using the STM32F103C8T6 MCU
 - [Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC](https://github.com/Apress/Beg-STM32-Devel-FreeRTOS-libopencm3-GCC) - Source code for 'Beginning STM32: Developing with FreeRTOS, libopencm3 and GCC' by Warren Gay
-- [geoff1111/jim-ncurses](https://github.com/geoff1111/jim-ncurses) - wtui is a draft jimtcl extension. It binds ncurses.
 - [muzkr/moto](https://github.com/muzkr/moto) - Modern Bootloader for Quansheng UV-K5 (V3) and Variants
 - [OneOfEleven/M181-LCR-Meter-Firmware](https://github.com/OneOfEleven/M181-LCR-Meter-Firmware) - Re-worked M181 LCR meter firmware, original by Jaishankar M
 - [dawsonjon/HamFist](https://github.com/dawsonjon/HamFist) - Bayesian CW Decoder for Pi Pico
@@ -5087,7 +5086,7 @@
 - [stamblerre/gocode](https://github.com/stamblerre/gocode) - An autocompletion daemon for the Go programming language
 - [mdempsky/gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
 - [liguangsheng/go-modviz](https://github.com/liguangsheng/go-modviz) - Visualize golang project dependencies.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [FooSoft/md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
@@ -6001,7 +6000,7 @@
 - [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly.
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) - Populate diagnostics for all projects files across the workspace
-- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - Neovim, ZSH, WezTerm, and everything else I can’t live without
+- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - Neovim, ZSH, Kitty, and everything else I can't live without
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) - A semi-useful, pseudo-pedagogical neovim plugin using treesitter for C++ actions
 - [luadch/scripts](https://github.com/luadch/scripts) - Collection of additional Luadch scripts
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
@@ -6391,7 +6390,6 @@
 - [kepano/flexoki-neovim](https://github.com/kepano/flexoki-neovim) - Flexoki color scheme for Neovim
 - [tomiis4/BufEx.nvim](https://github.com/tomiis4/BufEx.nvim) - A plugin for effortless buffer sharing between nvim sessions.
 - [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
-- [kevontheweb/linux-configs](https://github.com/kevontheweb/linux-configs) - my neovim and other linux configs
 - [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) - A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command
 - [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) - See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
@@ -9903,7 +9901,7 @@
 - [0x9900/QSL](https://github.com/0x9900/QSL) - Send eQSL
 - [armel/uv-k5-chirp-driver](https://github.com/armel/uv-k5-chirp-driver) - Quansheng UV-K5 radio CHIRP driver for F4HWN firmware
 - [ningw42/Iosevkata](https://github.com/ningw42/Iosevkata) - A PragmataPro styled (ss08) Iosevka variant with my tweaks.
-- [felias-fogg/PyAvrOCD](https://github.com/felias-fogg/PyAvrOCD) - A cross-platform GDB server for AVR MCUs
+- [felias-fogg/PyAvrOCD](https://github.com/felias-fogg/PyAvrOCD) - A cross-platform GDB server for AVR MCUs integrated into the Arduino IDE 2
 - [pamoroso/suite8080](https://github.com/pamoroso/suite8080) - A suite of Intel 8080 Assembly tools
 - [afiskon/wireless-explorer](https://github.com/afiskon/wireless-explorer) - Graphical Wi-Fi scanner for Linux
 - [wagiminator/MCU-Flash-Tools](https://github.com/wagiminator/MCU-Flash-Tools) - Simple ISP Flash Tools for various Microcontrollers
@@ -11663,6 +11661,7 @@
 - [mashrafdev/dotfiles](https://github.com/mashrafdev/dotfiles) - 
 - [mashrafdev/vim-curl-demo](https://github.com/mashrafdev/vim-curl-demo) - 
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
+- [k-kurumi/dotfiles](https://github.com/k-kurumi/dotfiles) - 
 - [DanCardin/dotfiles](https://github.com/DanCardin/dotfiles) - 
 - [66RING/dotfiles](https://github.com/66RING/dotfiles) - My dotfiles
 - [oknozor/dotfiles](https://github.com/oknozor/dotfiles) - my dotfiles
@@ -12057,7 +12056,6 @@
 - [MichaelMiR01/tsp](https://github.com/MichaelMiR01/tsp) - Tcl Static Prime (A Tcl Transpiler)
 - [tcllab/tsp](https://github.com/tcllab/tsp) - Tcl Static Prime
 - [MichaelMiR01/tccide](https://github.com/MichaelMiR01/tccide) - tccide is a TCL-Starkit to make use of tcc4tcl (TinyC Compiler for TCL) and TSP (Tom Pointdexters Tcl Static Prime TCL Transpiler)
-- [geoff1111/jdb.tcl](https://github.com/geoff1111/jdb.tcl) - Another JimTcl debugger
 - [puremourning/TclProDebug](https://github.com/puremourning/TclProDebug) - Upgrade of debugger from classic TclPro to Tcl 8.5+
 - [envmodules/modules](https://github.com/envmodules/modules) - Environment Modules: provides dynamic modification of a user's environment
 - [aplsimple/alited](https://github.com/aplsimple/alited) - a lite editor / IDE for Tcl/Tk projects
@@ -12834,7 +12832,6 @@
 - [Mofiqul/Dotfiles](https://github.com/Mofiqul/Dotfiles) - My personal dotfiles for bspwm, i3-gaps and kde plasma
 - [halkn/lightline-lsp](https://github.com/halkn/lightline-lsp) - Vim plugin for lightline.vim and vim-lsp
 - [halkn/fzf-git.vim](https://github.com/halkn/fzf-git.vim) - 
-- [k-kurumi/dotfiles](https://github.com/k-kurumi/dotfiles) - 
 - [LucHermitte/lh-misc](https://github.com/LucHermitte/lh-misc) - 
 - [LucHermitte/vim-build-tools-wrapper](https://github.com/LucHermitte/vim-build-tools-wrapper) - Projects building plugin for Vim
 - [LucHermitte/lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
