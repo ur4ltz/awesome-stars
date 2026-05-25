@@ -318,7 +318,6 @@
 - [MCUdude/microUPDIcore](https://github.com/MCUdude/microUPDIcore) - Arduino core for flashing mEDBG firmware onto the microUPDI programmer
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [dibyendumajumdar/Suravi](https://github.com/dibyendumajumdar/Suravi) - Suravi is a small distribution of Ravi/Lua 5.3 with batteries such as cjson, lpeglabel, luasocket, penlight, torch7, luv, luaossl
-- [k-takata/vim-win32-installer](https://github.com/k-takata/vim-win32-installer) - This is a workbench for the vim/vim-win32-installer project
 - [shidel/FDI](https://github.com/shidel/FDI) - FreeDOS 1.2, 1.3, 1.4+ Installer
 - [Tieske/luawinmulti](https://github.com/Tieske/luawinmulti) - Lua build and installation script for Windows, building multiple Lua versions in parallel, including LuaRocks.
 
@@ -899,7 +898,7 @@
 - [kholia/Si5351-Pi-Pico](https://github.com/kholia/Si5351-Pi-Pico) - Native (C/C++ SDK) Si5351 library for Raspberry Pi Pico
 - [amedes/pico_tnc](https://github.com/amedes/pico_tnc) - TNC for Raspberry  Pi Pico
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-- [Montecri/GNSSTimeServer](https://github.com/Montecri/GNSSTimeServer) - Ethernet/WiFi-enabled GNSS (GPS, BeiDou, GLONASS, Galileo) fed NTP/RDATE server based on ESP8266/ESP32 and Arduino
+- [Montecri/GNSSTimeServer](https://github.com/Montecri/GNSSTimeServer) - Ethernet/WiFi-enabled GNSS (GPS, BeiDou, GLONASS, Galileo) fed NTP/RDATE/PTP server based on ESP8266/ESP32 and Arduino
 - [markqvist/MicroDigi](https://github.com/markqvist/MicroDigi) - Standalone digipeater firmware for MicroModem
 - [sleemanj/usbasp](https://github.com/sleemanj/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
 - [PeterVH/usbasp](https://github.com/PeterVH/usbasp) - My repo for experimenting with the usbasp firmware from www.fischl.de
@@ -1638,7 +1637,7 @@
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [winsiderss/phnt](https://github.com/winsiderss/phnt) - Native API header files for the System Informer project.
 - [processhacker/plugins-extra](https://github.com/processhacker/plugins-extra) - These are highly unstable, buggy, incomplete plugins that are not included with Process Hacker by default.
-- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
 - [geany/geany-plugins](https://github.com/geany/geany-plugins) - The combined Geany Plugins collection
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [hoelzro/linotify](https://github.com/hoelzro/linotify) - Inotify bindings for Lua
@@ -5420,7 +5419,6 @@
 - [region23/gobyexample.ru](https://github.com/region23/gobyexample.ru) - Go в примерах
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
-- [jenskutilek/sudo-font](https://github.com/jenskutilek/sudo-font) - Sudo, a font for programmers and command line users.
 - [ilammy/lisp](https://github.com/ilammy/lisp) - Lisp In Small Pieces на русском языке
 - [vimcasts/vimcasts.org](https://github.com/vimcasts/vimcasts.org) - Source code for vimcasts.org
 - [moonpyk/base16-builder](https://github.com/moonpyk/base16-builder) - Base16 Builder
@@ -7791,7 +7789,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-108+g5d66ef188f) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-591+g89623e5992) config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [ashin-15/StarVim](https://github.com/ashin-15/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
@@ -10583,6 +10581,7 @@
 - [montagdude/awesome-appmenu](https://github.com/montagdude/awesome-appmenu) - Tool to create a menu of installed applications for the awesome window manager
 - [Ahed91/Mlterm-Color-Schames](https://github.com/Ahed91/Mlterm-Color-Schames) - 
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
+- [k-takata/vim-win32-installer](https://github.com/k-takata/vim-win32-installer) - This is a workbench for the vim/vim-win32-installer project
 - [fedorenchik/VimCalc3](https://github.com/fedorenchik/VimCalc3) - A Vim plugin that provides a convenient interactive calculator inside a buffer.
 - [ivanov/vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
@@ -10613,6 +10612,7 @@
 - [Floobits/flootty](https://github.com/Floobits/flootty) - A collaborative terminal.
 - [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Free Pascal
 - [guillermooo/Vintageous](https://github.com/guillermooo/Vintageous) - Vi/Vim emulation for Sublime Text 3
+- [jenskutilek/sudo-font](https://github.com/jenskutilek/sudo-font) - Sudo, a font for programmers and command line users.
 - [vitorbritto/sublime-devdocs](https://github.com/vitorbritto/sublime-devdocs) - Sublime Text 2 plugin allowing you to easily search the DevDocs documentation.
 - [c-w/ghp-import](https://github.com/c-w/ghp-import) - Easily import docs to your gh-pages branch.
 - [sublimehq/anim_encoder](https://github.com/sublimehq/anim_encoder) - 
