@@ -323,6 +323,7 @@
 
 ## C 
 
+- [Wiznet/RP2040-HAT-MINING-C](https://github.com/Wiznet/RP2040-HAT-MINING-C) - 
 - [tree-sitter-grammars/tree-sitter-yaml](https://github.com/tree-sitter-grammars/tree-sitter-yaml) - YAML grammar for tree-sitter
 - [Tokeloshe/vuurwerk-firmware](https://github.com/Tokeloshe/vuurwerk-firmware) - Custom firmware for the Quansheng UV-K5. Voice-seeking spectrum, adaptive squelch, TX compressor, bandscope, and 41 features built on Egzumer.
 - [qshosfw/deltafw-k1-k5v3](https://github.com/qshosfw/deltafw-k1-k5v3) - Custom firmware for Quansheng UVK5v3/UVK1 radios
@@ -1929,6 +1930,7 @@
 
 ## C++ 
 
+- [g7ltt/nanoIO](https://github.com/g7ltt/nanoIO) - nanoIO CW/RTTY keyer for Arduino Nano
 - [prt459/si5351_Signal_Source](https://github.com/prt459/si5351_Signal_Source) - A very simple tool that generates a pulsing RF signal with pushbuttons to place it where you need it. Intended to test receivers, RF mixers, and drive exciters.
 - [createskyblue/ArduinoDigitalFrequencyModulation](https://github.com/createskyblue/ArduinoDigitalFrequencyModulation) - 
 - [Frazix12/SolderingStation](https://github.com/Frazix12/SolderingStation) - 
@@ -3646,6 +3648,7 @@
 
 ## CSS 
 
+- [duino-coin/duco-statistics](https://github.com/duino-coin/duco-statistics) - 📃 Duino-Coin (DUCO) network statistics & explorer website
 - [STMicroelectronics/stm32-st7735](https://github.com/STMicroelectronics/stm32-st7735) - Provides the st7735 driver, part of the STM32Cube BSP Component for all STM32xx series.
 - [timkpaine/jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night
 - [johnnybarrels/jupyterlab_onedarkpro](https://github.com/johnnybarrels/jupyterlab_onedarkpro) - One Dark Pro theme for Jupyter Lab
@@ -9015,6 +9018,11 @@
 
 ## Others 
 
+- [Flight1530/Raspberry-Pi-Pico-FanPico-0401D-](https://github.com/Flight1530/Raspberry-Pi-Pico-FanPico-0401D-) - Raspberry Pi Pico (FanPico-0401D)
+- [g7ltt/ESP-01-Duinocoin-Miner](https://github.com/g7ltt/ESP-01-Duinocoin-Miner) - ESP-01 DuinoCoin Miner
+- [g7ltt/PWRGate](https://github.com/g7ltt/PWRGate) - 12V standby power from a battery when using a 12V PSU. Designed for ham radio appications
+- [g7ltt/Pi-Pico-WSPR-TX](https://github.com/g7ltt/Pi-Pico-WSPR-TX) - 17M WSPR transmitter for the Pi Pico (other bands possible with filter changes)
+- [g7ltt/DUCO-Duino-Miner](https://github.com/g7ltt/DUCO-Duino-Miner) - Arduino Nano based DUCO/Duino Miner
 - [Hexlet/awesome-lsp-servers](https://github.com/Hexlet/awesome-lsp-servers) - 
 - [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [nosuz/kicad-symbols-footprints](https://github.com/nosuz/kicad-symbols-footprints) - KiCad symbols and footprints created by myself or modified from KiCad library for my projects.
@@ -9826,10 +9834,16 @@
 
 ## Prolog 
 
+- [g7ltt/1k2bd-KISS-APRS-Modem](https://github.com/g7ltt/1k2bd-KISS-APRS-Modem) - 1200bd AX.25 KISS/APRS Modem
 - [TomNisbet/sap-plus](https://github.com/TomNisbet/sap-plus) - Simple As Possible (SAP) 8-bit computer with a modular PCB design
 
 ## Python 
 
+- [Flight1530/Carryout-Rotor](https://github.com/Flight1530/Carryout-Rotor) - Two-Axis Az/El rotor using portable satellite antenna
+- [saveitforparts/Carryout-Rotor](https://github.com/saveitforparts/Carryout-Rotor) - Two-Axis Az/El rotor using portable satellite antenna
+- [OSRdesign/duinogotchi](https://github.com/OSRdesign/duinogotchi) - Duinogotchi, virtual pet for rpi with eink display to mine duino-coin
+- [hauchel/duco](https://github.com/hauchel/duco) - Duino Coin related stuff
+- [duino-coin/duino-coin](https://github.com/duino-coin/duino-coin) - ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.
 - [MeanderingProgrammer/pass-yank](https://github.com/MeanderingProgrammer/pass-yank) - A pass extension that lets you copy metadata associated with passwords
 - [hansec/fortran-language-server](https://github.com/hansec/fortran-language-server) - Fortran Language Server for the Language Server Protocol
 - [frida/frida-tools](https://github.com/frida/frida-tools) - Frida CLI tools
@@ -10851,6 +10865,8 @@
 
 ## Rust 
 
+- [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server
+- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [MeanderingProgrammer/yadm-rs](https://github.com/MeanderingProgrammer/yadm-rs) - Yet Another Dotfiles Manager in Rust
 - [probe-rs/rusty-probe-firmware](https://github.com/probe-rs/rusty-probe-firmware) - 
 - [probe-rs/rtt-target](https://github.com/probe-rs/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol
@@ -11131,6 +11147,7 @@
 
 ## Shell 
 
+- [simeononsecurity/docker-duino-coin](https://github.com/simeononsecurity/docker-duino-coin) - Dockerized Duino-Coin Miner
 - [elcorto/pass-cl](https://github.com/elcorto/pass-cl) - password-store extension to copy metadata from multi-line entries. Based on https://gitlab.com/lbischof/pass-extension-pclip.
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [ToxicFrog/mkrescue](https://github.com/ToxicFrog/mkrescue) - Script to build bootable rescue USB sticks
@@ -11762,7 +11779,7 @@
 - [AN3223/sakra](https://github.com/AN3223/sakra) - The Swiss Army Knife RSS Aggregator
 - [AN3223/fzfhub](https://github.com/AN3223/fzfhub) - GitHub TUI browser
 - [AN3223/scripts](https://github.com/AN3223/scripts) - My collection of scripts
-- [tolga9009/suru-plus](https://github.com/tolga9009/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
+- [suru-plus/suru-plus](https://github.com/suru-plus/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [geerlingguy/dotfiles](https://github.com/geerlingguy/dotfiles) - My configuration. Minimalist, but helps save a few thousand keystrokes a day.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [littleboycoding/emoji-dmenu](https://github.com/littleboycoding/emoji-dmenu) - 💻 Select emoji via dmenu or rofi easily, 🚧 with automatic update which provided by https://emoji-api.com/ ❤️
@@ -11940,7 +11957,6 @@
 - [portacle/portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [eed3si9n/git-gone](https://github.com/eed3si9n/git-gone) - 
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
-- [carnager/buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
 - [miroslavvidovic/rofi-scripts](https://github.com/miroslavvidovic/rofi-scripts) - Small scripts for rofi
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [gapan/depfinder](https://github.com/gapan/depfinder) - A tool that finds dependencies of slackware packages
@@ -11995,7 +12011,6 @@
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
-- [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
