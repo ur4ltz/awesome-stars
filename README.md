@@ -5618,7 +5618,6 @@
 - [pu2clr/VFO_BFO_OLED_ARDUINO](https://github.com/pu2clr/VFO_BFO_OLED_ARDUINO) - VFO e BFO com Si5351 e OLED,  controlado por Arduino (Micro)
 - [noopkat/avrgirl-arduino](https://github.com/noopkat/avrgirl-arduino) - :girl: :pager: A NodeJS library for flashing compiled sketch files to Arduino microcontroller boards.
 - [tree-sitter-grammars/tree-sitter-commonlisp](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) - Common Lisp grammar for tree-sitter
-- [nvim-neorg/tree-sitter-norg3](https://github.com/nvim-neorg/tree-sitter-norg3) - Third time's the charm.
 - [tree-sitter-grammars/tree-sitter-luap](https://github.com/tree-sitter-grammars/tree-sitter-luap) - Lua patterns grammar for tree-sitter
 - [tree-sitter-grammars/tree-sitter-luadoc](https://github.com/tree-sitter-grammars/tree-sitter-luadoc) - Lua docs grammar for tree-sitter
 - [lukas-w/font-logos](https://github.com/lukas-w/font-logos) - An icon font providing popular linux distro's logos
@@ -8568,6 +8567,7 @@
 - [javalikescript/lua-webview](https://github.com/javalikescript/lua-webview) - Webview from Lua
 - [vigoux/templar.nvim](https://github.com/vigoux/templar.nvim) - A dead simple template manager for neovim written in lua
 - [sparkcanon/nvim](https://github.com/sparkcanon/nvim) - Personal Neovim configuration
+- [kizza/.dotfiles](https://github.com/kizza/.dotfiles) - My dotfiles
 - [seifferth/vis-editorconfig](https://github.com/seifferth/vis-editorconfig) - An editorconfig plugin for the vis text editor
 - [pkulchenko/ZeroBraneEduPack](https://github.com/pkulchenko/ZeroBraneEduPack) - A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 - [shmuz/far_plugins](https://github.com/shmuz/far_plugins) - 
@@ -9637,7 +9637,7 @@
 - [drakulavich/russian-sublime-cheatsheet](https://github.com/drakulavich/russian-sublime-cheatsheet) - PDF-шпаргалка по клавиатурным сочетаниям Sublime Text
 - [noct/sublime-cpp11](https://github.com/noct/sublime-cpp11) - Replacement self-contained C++11 syntax definition for Sublime Text
 - [luarocks/lua-style-guide](https://github.com/luarocks/lua-style-guide) - Lua Style Guide, as used by LuaRocks
-- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [arvind-naidu/rutorrent-installer](https://github.com/arvind-naidu/rutorrent-installer) - Eaziest rutorrent & rtorrent installer + Web server, FTP, Webmin (Ubuntu/Debian/Fedora/More)
 - [jaap-karssenberg/zim-wiki](https://github.com/jaap-karssenberg/zim-wiki) - This repository is a placeholder so we can use the asociated wiki for community documentation.
 - [abcminiuser/sublimetext-gnu-map](https://github.com/abcminiuser/sublimetext-gnu-map) - SublimeText 3 syntax definition for GCC MAP files.
@@ -13156,7 +13156,6 @@
 - [gerardbm/vim-atomic](https://github.com/gerardbm/vim-atomic) - Atomic color scheme for Vim, Neovim and Gvim
 - [vigoux/LanguageTool.nvim](https://github.com/vigoux/LanguageTool.nvim) - An asynchronous grammar checker for Neovim using LanguageTool
 - [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) - Plugin to toggle, display and navigate marks
-- [kizza/.dotfiles](https://github.com/kizza/.dotfiles) - My dotfiles
 - [vimoutliner/vimoutliner](https://github.com/vimoutliner/vimoutliner) - Work fast, think well.
 - [zzzachzzz/dotfiles](https://github.com/zzzachzzz/dotfiles) - Dotfiles for Vim, Tmux, Zsh, VSCode, Sublime
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
