@@ -6662,7 +6662,7 @@
 - [IlyasYOY/dotfiles](https://github.com/IlyasYOY/dotfiles) - dotfiles to rule them all!
 - [IlyasYOY/coredor.nvim](https://github.com/IlyasYOY/coredor.nvim) - Core utils for nvim
 - [IlyasYOY/git-link.nvim](https://github.com/IlyasYOY/git-link.nvim) - Plugin to generate links to Git repositories in NeoVim.
-- [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like NeoVim plugin.
+- [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like Neovim plugin.
 - [fgheng/vimelua](https://github.com/fgheng/vimelua) - vimelua, an easy and structural config writtern by lua for neovim users
 - [evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim) - A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.
 - [evesdropper/dotfiles](https://github.com/evesdropper/dotfiles) - dotfiles but updated, ft LuaSnip Guide + LaTeX snippets
