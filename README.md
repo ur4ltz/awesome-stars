@@ -323,6 +323,13 @@
 
 ## C 
 
+- [Solderingironspb/MonoGFX](https://github.com/Solderingironspb/MonoGFX) - Общая графическая библиотека для монохромных графических дисплеев
+- [Solderingironspb/Easy-Timer](https://github.com/Solderingironspb/Easy-Timer) - Простейший таймер для работы со временем. 32 бита. Максимальный замер таймера примерно  49 дней, 17 часов, 2 минуты и 47,295 секунд.
+- [Solderingironspb/VSC-make-example](https://github.com/Solderingironspb/VSC-make-example) - Примеры работ по сборке и отладке програм для windows и микроконтроллеров
+- [Solderingironspb/CRC_Software_calculation](https://github.com/Solderingironspb/CRC_Software_calculation) - Программный расчет CRC: CRC8, CRC16, CRC32
+- [Solderingironspb/AT24Cxx](https://github.com/Solderingironspb/AT24Cxx) - Работа с микросхемой памяти EEPROM типа AT24Cxx
+- [Solderingironspb/STM32F030K6T6_CMSIS_notes](https://github.com/Solderingironspb/STM32F030K6T6_CMSIS_notes) - STM32F030K6T6_CMSIS
+- [Solderingironspb/Float_transform](https://github.com/Solderingironspb/Float_transform) - Простенькая библиотека для разбития float на две части: целую и дробную. Это нужно, чтоб не использовать -u_printf_float в линкере, дабы сэкономить память МК. В библиотеке используется округление.
 - [Wiznet/RP2040-HAT-MINING-C](https://github.com/Wiznet/RP2040-HAT-MINING-C) - 
 - [tree-sitter-grammars/tree-sitter-yaml](https://github.com/tree-sitter-grammars/tree-sitter-yaml) - YAML grammar for tree-sitter
 - [Tokeloshe/vuurwerk-firmware](https://github.com/Tokeloshe/vuurwerk-firmware) - Custom firmware for the Quansheng UV-K5. Voice-seeking spectrum, adaptive squelch, TX compressor, bandscope, and 41 features built on Egzumer.
@@ -519,7 +526,7 @@
 - [lunarmodules/luasql](https://github.com/lunarmodules/luasql) - LuaSQL is a simple interface from Lua to a DBMS.
 - [klange/cgiserver](https://github.com/klange/cgiserver) - A simple CGI webserver written in C with no dependencies.
 - [klange/ponyos](https://github.com/klange/ponyos) - My Little Unix: Kernels are Magic!
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [xcb-xwii/lua-tree-sitter](https://github.com/xcb-xwii/lua-tree-sitter) - Lua bindings for Tree-sitter
 - [alex-courtis/dwm](https://github.com/alex-courtis/dwm) - 
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
@@ -2871,7 +2878,7 @@
 - [RobTillaart/MS5611](https://github.com/RobTillaart/MS5611) - Arduino library for MS5611 temperature and pressure sensor
 - [RobTillaart/MS5611_SPI](https://github.com/RobTillaart/MS5611_SPI) - Arduino library (SPI) for MS5611 temperature and pressure sensor.
 - [RobTillaart/MT8870](https://github.com/RobTillaart/MT8870) - Arduino library for MT8870 DTMF decoder (breakout)
-- [RobTillaart/palindrome](https://github.com/RobTillaart/palindrome) - Library for palindrome search
+- [RobTillaart/palindrome](https://github.com/RobTillaart/palindrome) - Arduino library to do palindrome experiments., including palindrome search
 - [RobTillaart/PAR27979](https://github.com/RobTillaart/PAR27979) - Arduino library for the Parallax 27979 serial display
 - [RobTillaart/ParallelPrinter](https://github.com/RobTillaart/ParallelPrinter) - Arduino library that implements a parallel printer - print interface
 - [RobTillaart/PERIPUMP](https://github.com/RobTillaart/PERIPUMP) - Arduino library for peristaltic pump DFR0523 and compatibles.
@@ -3236,7 +3243,7 @@
 - [RobTillaart/avrheap](https://github.com/RobTillaart/avrheap) - Arduino library to investigate the avr heap
 - [RobTillaart/BitArray](https://github.com/RobTillaart/BitArray) - Arduino library for compact array of objects with a size expressed in bits. typically 1..10
 - [RobTillaart/bitHelpers](https://github.com/RobTillaart/bitHelpers) - Arduino library with static functions on bit level (a.k.a. bit hacks)
-- [RobTillaart/BoolArray](https://github.com/RobTillaart/BoolArray) - Arduino library for a compact array of booleans of max size 2000 (UNO R3)
+- [RobTillaart/BoolArray](https://github.com/RobTillaart/BoolArray) - Arduino library for a compact array of booleans of max size 10000 (UNO R3)
 - [RobTillaart/Complex](https://github.com/RobTillaart/Complex) - Arduino library for Complex math
 - [RobTillaart/CRC](https://github.com/RobTillaart/CRC) - CRC library for Arduino
 - [RobTillaart/Currency](https://github.com/RobTillaart/Currency) - Arduino library to display currency
@@ -3414,7 +3421,7 @@
 - [priyendumori/Mini-Bit-torrent](https://github.com/priyendumori/Mini-Bit-torrent) - Peer-to-peer file sharing system implemented using socket programming and multithreading in C++. Peers can upload and download text and multimedia files using custom format for torrent files called .m
 - [romkatv/hcproxy](https://github.com/romkatv/hcproxy) - Fast HTTPS and WebSocket proxy
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
-- [rochus-keller/LjTools](https://github.com/rochus-keller/LjTools) - LuaJIT 2.0 bytecode parser, viewer, assembler and test VM. Lua 5.1 parser, IDE and debugger.
+- [rochus-keller/LjTools](https://github.com/rochus-keller/LjTools) - LuaJIT 2.0 and 2.1 bytecode generator, assembler, parser, viewer and test VM. Lua 5.1 parser, IDE and debugger.
 - [vheon/ycm.nvim](https://github.com/vheon/ycm.nvim) - ycmd identifier completion for Neovim
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [andrejlevkovitch/simple_http_server](https://github.com/andrejlevkovitch/simple_http_server) - 
@@ -7908,7 +7915,6 @@
 - [pocco81/high-str.nvim](https://github.com/pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
 - [eira-fransham/stateful-lua](https://github.com/eira-fransham/stateful-lua) - A DSL for writing finite state machines in Lua (aimed towards game development). Based on UnrealScript's state construct. Allows single inheritance with the enter and exit functions being called the m
 - [eira-fransham/chat-lua](https://github.com/eira-fransham/chat-lua) - Proof-of-concept chat eDSL in Lua using coroutines
-- [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [winston0410/cmd-parser.nvim](https://github.com/winston0410/cmd-parser.nvim) - A command-line parser for neovim for plugin authors.
 - [eddyekofo94/gruvbox-flat.nvim](https://github.com/eddyekofo94/gruvbox-flat.nvim) - Another attempt of a flat Gruvbox theme for Neovim
 - [monsonjeremy/onedark.nvim](https://github.com/monsonjeremy/onedark.nvim) - OneDark NeoVim theme written in Lua
@@ -8091,7 +8097,6 @@
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
 - [metalelf0/jellybeans-nvim](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme for neovim
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
-- [jose-elias-alvarez/nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils) - Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
 - [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
 - [bfredl/nvim-miniluv](https://github.com/bfredl/nvim-miniluv) - 
 - [dhruvmanila/dotfiles](https://github.com/dhruvmanila/dotfiles) - Home is where the heart is
@@ -8130,7 +8135,6 @@
 - [Facepunch/garrysmod](https://github.com/Facepunch/garrysmod) - Sandbox mod for the Source Engine
 - [erietz/vim-voodoo](https://github.com/erietz/vim-voodoo) - :coconut: Voodoo color scheme
 - [itmecho/dotfiles-mac](https://github.com/itmecho/dotfiles-mac) - MacOS dotfiles
-- [jose-elias-alvarez/buftabline.nvim](https://github.com/jose-elias-alvarez/buftabline.nvim) - A low-config, minimalistic buffer tabline Neovim plugin written in Lua.
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [philanc/plterm](https://github.com/philanc/plterm) - Pure Lua ANSI Terminal functions
 - [Openarl/PathOfBuilding](https://github.com/Openarl/PathOfBuilding) - Offline build planner for Path of Exile.
@@ -9018,6 +9022,7 @@
 
 ## Others 
 
+- [Solderingironspb/Lessons-Stm32](https://github.com/Solderingironspb/Lessons-Stm32) - https://www.youtube.com/playlist?list=PLg-TCzdMe89bcte_r1NWgIocbGWdRq3DG
 - [Flight1530/Raspberry-Pi-Pico-FanPico-0401D-](https://github.com/Flight1530/Raspberry-Pi-Pico-FanPico-0401D-) - Raspberry Pi Pico (FanPico-0401D)
 - [g7ltt/ESP-01-Duinocoin-Miner](https://github.com/g7ltt/ESP-01-Duinocoin-Miner) - ESP-01 DuinoCoin Miner
 - [g7ltt/PWRGate](https://github.com/g7ltt/PWRGate) - 12V standby power from a battery when using a 12V PSU. Designed for ham radio appications
@@ -9839,6 +9844,7 @@
 
 ## Python 
 
+- [ttaulli/AI-Assisted-Programming-Book](https://github.com/ttaulli/AI-Assisted-Programming-Book) - 
 - [Flight1530/Carryout-Rotor](https://github.com/Flight1530/Carryout-Rotor) - Two-Axis Az/El rotor using portable satellite antenna
 - [saveitforparts/Carryout-Rotor](https://github.com/saveitforparts/Carryout-Rotor) - Two-Axis Az/El rotor using portable satellite antenna
 - [OSRdesign/duinogotchi](https://github.com/OSRdesign/duinogotchi) - Duinogotchi, virtual pet for rpi with eink display to mine duino-coin
@@ -12172,7 +12178,6 @@
 - [devegied/pxt-tm1637](https://github.com/devegied/pxt-tm1637) - LED Digit Display Module (TM1637)
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
-- [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
