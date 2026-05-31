@@ -9129,7 +9129,7 @@
 - [bottd/neorg-worklog](https://github.com/bottd/neorg-worklog) - 
 - [bottd/neorg-archive](https://github.com/bottd/neorg-archive) - Create and manage an archival workspace for your Neorg notes
 - [0x0FACED/effective-go-ru](https://github.com/0x0FACED/effective-go-ru) - Это НОВЫЙ перевод всего Effective Go на русский язык
-- [WeActStudio/WeActStudio.STM32F4_64Pin_CoreBoard](https://github.com/WeActStudio/WeActStudio.STM32F4_64Pin_CoreBoard) - 
+- [WeActStudio/WeActStudio.STM32F4_64Pin_CoreBoard](https://github.com/WeActStudio/WeActStudio.STM32F4_64Pin_CoreBoard) - STM32F405RGT6/STM32F412RET6/STM32F446RET6/STM32F411RET6 Core Board
 - [juanmnl/vs-hydra](https://github.com/juanmnl/vs-hydra) - :ticket: A port of Atom's Hydra theme but for vs-code :ticket:
 - [dbohdan/embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [sachinsenal0x64/awesome-yazi](https://github.com/sachinsenal0x64/awesome-yazi) - 🦆 Awesome lists about Yazi file manager
