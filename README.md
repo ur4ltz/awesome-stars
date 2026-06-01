@@ -6399,7 +6399,7 @@
 - [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
 - [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) - A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command
 - [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) - See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
@@ -10905,7 +10905,7 @@
 - [ul/kak-tree](https://github.com/ul/kak-tree) - Structural selections for Kakoune
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
 - [AE9RB/basic-lang](https://github.com/AE9RB/basic-lang) - BASIC: Microcomputer Edition
-- [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - A terminal-based but modern tetromino-stacking game that is customizable and cross-platform.
+- [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - Terminal-based but modern tetromino-stacking game that is customizable and cross-platform.
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
