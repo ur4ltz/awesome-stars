@@ -12119,7 +12119,7 @@
 - [mcu-debug/rtos-views](https://github.com/mcu-debug/rtos-views) - RTOS views for microcontrollers
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [GopeedLab/browser-extension](https://github.com/GopeedLab/browser-extension) - A browser extension for Gopeed.
 - [Marus/cortex-debug-dp-stm32f1](https://github.com/Marus/cortex-debug-dp-stm32f1) - Device Support Pack for Cortex-Debug for the STM32F1 family of microcontrollers.
 - [Marus/cortex-debug-db-stm32f4](https://github.com/Marus/cortex-debug-db-stm32f4) - Device Support Pack for STM32F4 Family
@@ -12807,7 +12807,7 @@
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) - Vim configuration for Zig
-- [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for Todo.txt
+- [freitass/todo.txt-vim](https://github.com/freitass/todo.txt-vim) - Vim plugin for managing todo.txt files — highlighting, sorting, and quick toggles.
 - [sharksforarms/neovim-rust](https://github.com/sharksforarms/neovim-rust) - Sample neovim and vim configurations for Rust development
 - [chimay/golden-night](https://github.com/chimay/golden-night) - Golden night theme for various apps
 - [chimay/configuration](https://github.com/chimay/configuration) - Config files
