@@ -5573,6 +5573,7 @@
 - [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [Acode-Foundation/acode-plugin-smali](https://github.com/Acode-Foundation/acode-plugin-smali) - Smali language syntax highlighting for Acode editor
 - [Acode-Foundation/acode-plugin-volumn_cursor](https://github.com/Acode-Foundation/acode-plugin-volumn_cursor) - Control editor cursor.
 - [Acode-Foundation/acode-plugin-sass](https://github.com/Acode-Foundation/acode-plugin-sass) - Live sass compiler for acode
@@ -8072,8 +8073,6 @@
 - [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim) - 
 - [caenrique/nvim-config](https://github.com/caenrique/nvim-config) - Current configuration of my nvim setup
 - [pineapplegiant/dotfiles](https://github.com/pineapplegiant/dotfiles) - 🖥  ⚫️  🗂  my dotfiles
-- [novakne/kosmikoa.nvim](https://github.com/novakne/kosmikoa.nvim) - A dark color scheme for Neovim with support for LSP, Treesitter. This mirror is deprecated. Use the repo at https://sr.ht/~novakane/kosmikoa.nvim/
-- [novakne/dotfiles](https://github.com/novakne/dotfiles) - Go here for up to date https://git.sr.ht/~novakane/dotfiles
 - [williamboman/nvim-config](https://github.com/williamboman/nvim-config) - My neovim config files
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
@@ -8580,7 +8579,6 @@
 - [zinovyev/lugate](https://github.com/zinovyev/lugate) - Lua module for building JSON-RPC 2.0 Gateway APIs just inside of your Nginx
 - [endowdly/Grafx2LuaScripts](https://github.com/endowdly/Grafx2LuaScripts) - Just some scripts to use in Grafx2's Brush Factory
 - [marcoonroad/moonforth](https://github.com/marcoonroad/moonforth) - My own Forth dialect on top of the Lua programming language. [Work in Progress]
-- [novakne/dotfiles_x11](https://github.com/novakne/dotfiles_x11) - 
 - [ignacio/LuaNode](https://github.com/ignacio/LuaNode) - Asynchronous I/O for Lua
 - [stevedonovan/LuaMacro](https://github.com/stevedonovan/LuaMacro) - An extended Lua macro preprocessor
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions, intended as the 'light' version of Penlight
@@ -10742,7 +10740,6 @@
 
 ## Rich Text Format 
 
-- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
 
 ## Roff 
