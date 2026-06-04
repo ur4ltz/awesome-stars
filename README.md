@@ -2554,7 +2554,7 @@
 - [W3PM/GPS-Si5351-VFO-QEX-JUL-AUG-2015](https://github.com/W3PM/GPS-Si5351-VFO-QEX-JUL-AUG-2015) - Si5351 Arduino Controlled GPS Corrected VFO (QEX July/August 2015)
 - [Nobcha/R909-VFO_try2](https://github.com/Nobcha/R909-VFO_try2) - I will remodel the Chinese airband receiver wih R909-VFO to incorpolate the digital local oscillator.
 - [Nobcha/ArduinoLCM](https://github.com/Nobcha/ArduinoLCM) - Franklin oscillator method LC meter
-- [Nobcha/R909-SDR](https://github.com/Nobcha/R909-SDR) - R909-SDR
+- [Nobcha/R909-SDR](https://github.com/Nobcha/R909-SDR) - R909-DSP1/DSP2
 - [Nobcha/R909-VFO-GPS](https://github.com/Nobcha/R909-VFO-GPS) - GPS corrected Si5351a VFO
 - [Nobcha/R909-VFO](https://github.com/Nobcha/R909-VFO) - 
 - [wayoda/LedControl](https://github.com/wayoda/LedControl) - An Arduino library for MAX7219 and MAX7221 Led display drivers
@@ -8856,6 +8856,7 @@
 - [cornerman/prompt-hjem](https://github.com/cornerman/prompt-hjem) - a zsh prompt
 - [pianocomposer321/project-template-samples](https://github.com/pianocomposer321/project-template-samples) - Sample templates for project-templates.nvim
 - [crystal-lang/crystal-book](https://github.com/crystal-lang/crystal-book) - Crystal reference with language specification, manuals and learning materials
+- [aymericbeaumet/vim-symlink](https://github.com/aymericbeaumet/vim-symlink) - :running: Automagically follow symlinks
 - [Tieske/resty-test](https://github.com/Tieske/resty-test) - A setup to quickly test OpenResty Lua code
 - [gosquared/flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
 - [brow/jklp](https://github.com/brow/jklp) - A 36-key ergonomic keyboard
@@ -12050,6 +12051,7 @@
 
 ## Swift 
 
+- [simonomi/carbonizer](https://github.com/simonomi/carbonizer) - an all-in-one Fossil Fighters ROM-hacking tool
 - [mfikes/impedance-converter](https://github.com/mfikes/impedance-converter) - Impedance Converter
 - [espressif/book-esp32c3-iot-projects](https://github.com/espressif/book-esp32c3-iot-projects) - 《ESP32-C3 物联网工程开发实战》配套代码
 - [SwiftyLinkerKit/SwiftyTM1637](https://github.com/SwiftyLinkerKit/SwiftyTM1637) - A Swift class to drive the TM1637 chipset (i.e. 7-segment LK-Digi Display)
@@ -12755,7 +12757,6 @@
 - [aonemd/quietlight.vim](https://github.com/aonemd/quietlight.vim) - A nice light colorscheme for Vim
 - [glts/vim-magnum](https://github.com/glts/vim-magnum) - magnum.vim – Pure Vim script big integer library
 - [michaelb/vim-tips](https://github.com/michaelb/vim-tips) - Short plugin to display tips at startup
-- [aymericbeaumet/vim-symlink](https://github.com/aymericbeaumet/vim-symlink) - :running: Automagically follow symlinks
 - [faerryn/chvim](https://github.com/faerryn/chvim) - 
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [jwhite510/neovim](https://github.com/jwhite510/neovim) - Vim-fork focused on extensibility and usability
