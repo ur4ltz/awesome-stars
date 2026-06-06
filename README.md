@@ -780,7 +780,7 @@
 - [g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source](https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source) - G8KIG's changes to the source code for the DX FT8 Multiband-Tablet-Transceiver
 - [eriklins/chip45boot3](https://github.com/eriklins/chip45boot3) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with automatic baudrate adjustment, encryption and Visual Studio GUI.
 - [eriklins/chip45boot2](https://github.com/eriklins/chip45boot2) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with Intel hex file support and automatic baudrate adjustment.
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [earlephilhower/BackgroundAudio](https://github.com/earlephilhower/BackgroundAudio) - Arduino library for easy, interrupt driven speech, MP3, AAC, and WAV playback on the Raspberry Pi Pico RP2040, Pico 2 RP2350, and ESP32
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
@@ -8418,6 +8418,7 @@
 - [rossy/mpv-open-file-dialog](https://github.com/rossy/mpv-open-file-dialog) - A script for mpv that can launch a regular Windows open file dialog from a key binding
 - [somnam/dotfiles](https://github.com/somnam/dotfiles) - 
 - [phelipetls/dotfiles](https://github.com/phelipetls/dotfiles) - My configuration files for Linux, macOS and WSL
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [ms-jpq/lua-async-await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
 - [mut-ex/awesome-wm-slidebar](https://github.com/mut-ex/awesome-wm-slidebar) - an easy to use, configurable, multi-purpose, animated widget bar written in Lua for Awesome WM
 - [skanehira/dotfiles](https://github.com/skanehira/dotfiles) - my dotfiles
@@ -10334,7 +10335,6 @@
 - [sainathadapa/i3-wm-multi-disp-scripts](https://github.com/sainathadapa/i3-wm-multi-disp-scripts) - Scripts to navigate a multi-monitor setup in I3 WM
 - [firecat53/urlscan](https://github.com/firecat53/urlscan) - Mutt and terminal url selector (similar to urlview)
 - [eikenb/terminal-colors](https://github.com/eikenb/terminal-colors) - Utility to test color capabilities of terminal.
-- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [fanout/pygripcontrol](https://github.com/fanout/pygripcontrol) - Python GRIP library
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
@@ -12023,7 +12023,7 @@
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [niXman/mingw-builds](https://github.com/niXman/mingw-builds) - Scripts for building the 32 and 64-bit MinGW-W64 compilers for Windows
-- [asdo92/aria2-static-builds](https://github.com/asdo92/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
+- [dmesg00/aria2-static-builds](https://github.com/dmesg00/aria2-static-builds) - aria2 static builds for GNU/Linux & Windows (with OpenSSL).
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for Cygwin targets to build under MSYS2.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
