@@ -531,7 +531,7 @@
 - [alex-courtis/dwm](https://github.com/alex-courtis/dwm) - 
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
 - [katef/libfsm](https://github.com/katef/libfsm) - DFA regular expression library & friends
-- [CodeEditorLand/Oniguruma](https://github.com/CodeEditorLand/Oniguruma) - regular expression library
+- [DependencyCodeEditorLand/Oniguruma](https://github.com/DependencyCodeEditorLand/Oniguruma) - regular expression library
 - [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
 - [dasm-assembler/dasm](https://github.com/dasm-assembler/dasm) - Macro assembler with support for several 8-bit microprocessors
 - [Ho-Ro/ComponentTester](https://github.com/Ho-Ro/ComponentTester) - This repo presents Markus' ComponentTester firmware (https://github.com/Mikrocontroller-net/transistortester/tree/master/Software/Markus and https://github.com/madires/Transistortester-Warehouse) in t
@@ -541,7 +541,7 @@
 - [petrsimi/sauna_thermostat_esp32](https://github.com/petrsimi/sauna_thermostat_esp32) - 
 - [petrsimi/sauna_thermostat](https://github.com/petrsimi/sauna_thermostat) - Thermostat based on Arduino
 - [akshaybaweja/Smart-IC-Tester](https://github.com/akshaybaweja/Smart-IC-Tester) - 
-- [gioblu/BIPLAN](https://github.com/gioblu/BIPLAN) - BIPLAN (Byte coded Interpreted Programming LANguage) is an experimental, very compact programming language
+- [gioblu/BIPLAN](https://github.com/gioblu/BIPLAN) - BIPLAN (Byte coded Interpreted Programming LANguage) is an experimental, very compact interpreted language
 - [whirleyes/mighty-1284p](https://github.com/whirleyes/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [maniacbug/mighty-1284p](https://github.com/maniacbug/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [osiweb/unified_retro_keyboard](https://github.com/osiweb/unified_retro_keyboard) - Project to provide keyboard replacements for various classic computers, as well as classic ASCII keyboard
