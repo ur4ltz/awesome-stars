@@ -4446,7 +4446,6 @@
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [mrmekon/snitch-el](https://github.com/mrmekon/snitch-el) - Firewall for emacs.
-- [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [66RING/ringemacs](https://github.com/66RING/ringemacs) - 
 - [TheBB/company-reftex](https://github.com/TheBB/company-reftex) - RefTeX backends for company-mode
 - [The-Compiler/dotfiles](https://github.com/The-Compiler/dotfiles) - New config file repo
@@ -8276,6 +8275,7 @@
 - [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Bubbly statusline for neovim
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [halkn/dotfiles](https://github.com/halkn/dotfiles) - 
+- [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [bew/dotfiles](https://github.com/bew/dotfiles) - All my dotfiles in one place!
 - [66RING/bookmarks-nvim](https://github.com/66RING/bookmarks-nvim) - Interactive mark and jump action in neovim.
@@ -8635,7 +8635,6 @@
 - [actboy168/lua-debug](https://github.com/actboy168/lua-debug) - Lua Debug Adapter for Visual Studio Code
 - [starius/harb-lapis](https://github.com/starius/harb-lapis) - dot diagrams for apache, nginx and lapis
 - [evgkul/moonscript-opencomputers](https://github.com/evgkul/moonscript-opencomputers) - Just a port of moonscript for opencomputers
-- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Personal configuration files
 - [mattikus/dotfiles](https://github.com/mattikus/dotfiles) - My dotfiles
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles of my last wm, managed by GNU stow.
 - [shkm/dotfiles](https://github.com/shkm/dotfiles) - :godmode: My dotfiles.
@@ -10510,6 +10509,7 @@
 - [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
 - [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation for neovim/Vim8
 - [ValdikSS/blockcheck](https://github.com/ValdikSS/blockcheck) - Russian ISP blocking type checker NOTE: NOT WORKING CURRENTLY. ВНИМАНИЕ: НЕ РАБОТАЕТ НА ТЕКУЩИЙ МОМЕНТ
+- [rkiyanchuk/dotfiles](https://github.com/rkiyanchuk/dotfiles) - Personal configuration files
 - [Haron-Prime/My_config_files](https://github.com/Haron-Prime/My_config_files) - My configs backups
 - [viniarck/rofi-tmux](https://github.com/viniarck/rofi-tmux) - :heavy_check_mark: rft (rofi-tmux). Quickly switches tmux sessions, windows and tmuxinator projects
 - [bitcrazed/24bit-color](https://github.com/bitcrazed/24bit-color) - Selection of Bash/*NIX scripts for generating 24-bit color tests
