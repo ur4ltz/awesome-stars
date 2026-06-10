@@ -4671,7 +4671,7 @@
 - [zamansky/using-emacs](https://github.com/zamansky/using-emacs) - 
 - [a13/emacs.d](https://github.com/a13/emacs.d) - 
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [skeeto/.emacs.d](https://github.com/skeeto/.emacs.d) - My personal .emacs.d
 - [aspiers/emacs](https://github.com/aspiers/emacs) - Adam's emacs config
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
@@ -5040,7 +5040,7 @@
 - [WhoIsSethDaniel/nvim-go-client-examples](https://github.com/WhoIsSethDaniel/nvim-go-client-examples) - Examples of using the nvim go client and documentation for the client
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [darmiel/365-days-notifier](https://github.com/darmiel/365-days-notifier) - 365 days of code
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -8466,7 +8466,6 @@
 - [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
 - [Shatur/neovim-cmake](https://github.com/Shatur/neovim-cmake) - CMake integration for Neovim
-- [Conni2461/dotfiles](https://github.com/Conni2461/dotfiles) - Current dotfiles and scripts
 - [Shatur/neovim-config](https://github.com/Shatur/neovim-config) - My Neovim configuration.
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [steelsojka/completion-buffers](https://github.com/steelsojka/completion-buffers) - A buffer completion source for completion-nvim
@@ -9407,6 +9406,7 @@
 - [dracula/sublime](https://github.com/dracula/sublime) - 🧛🏻‍♂️ Dark theme for Sublime Text
 - [karimlevallois/gruvbox-material-sublime-text](https://github.com/karimlevallois/gruvbox-material-sublime-text) - Gruvbox Material Theme for Sublime Text
 - [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - 
+- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation
 - [alexherbo2/snippet.kak](https://github.com/alexherbo2/snippet.kak) - Snippets integration for Kakoune
 - [danr/kakoune-easymotion](https://github.com/danr/kakoune-easymotion) - kakoune plugin for navigating like the easymotion vim mode
 - [robertmeta/plug.kak](https://github.com/robertmeta/plug.kak) - Plugin manager for Kakoune
@@ -10235,7 +10235,6 @@
 - [sublimelsp/lsp_utils](https://github.com/sublimelsp/lsp_utils) - Module with LSP-related utilities for Sublime Text
 - [sublimelsp/LSP-bash](https://github.com/sublimelsp/LSP-bash) - Bash support for Sublime's LSP plugin provided through bash-language-server.
 - [sublimelsp/LSP-json](https://github.com/sublimelsp/LSP-json) - Schema validation/completions for your JSON and Sublime files
-- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation
 - [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [tom-anders/easy-i3-neovim-nav.py](https://github.com/tom-anders/easy-i3-neovim-nav.py) - Quickly navigate and resize i3wm windows and Neovim splits with the same keybindings
 - [blurstudio/sublime_debugger-plugin](https://github.com/blurstudio/sublime_debugger-plugin) - A template that can be used to make debug adapters compatible with the Debugger plugin in Sublime Text 3 and 4
@@ -11817,6 +11816,7 @@
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
 - [ServoDev/dot_files](https://github.com/ServoDev/dot_files) - All my dotfiles which can be installed on a fresh arch install
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
+- [Conni2461/dotfiles](https://github.com/Conni2461/dotfiles) - Current dotfiles and scripts
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
 - [Liupold/OLD-dotfiles](https://github.com/Liupold/OLD-dotfiles) - This is collection of dotfiles by liupold.
