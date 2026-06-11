@@ -3863,6 +3863,20 @@
 
 ## Emacs Lisp 
 
+- [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs offline dictionary using 'sdcv'
+- [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Auto Byte/Native-Compile all Elisp files, to Speed up Emacs
+- [jamescherti/tomorrow-night-deepblue-theme.el](https://github.com/jamescherti/tomorrow-night-deepblue-theme.el) - Emacs Theme: Tomorrow-Night-Deepblue
+- [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
+- [jamescherti/buffer-guardian.el](https://github.com/jamescherti/buffer-guardian.el) - buffer-guardian.el - Automatically save Emacs buffers without manual intervention
+- [jamescherti/vim-tab-bar.el](https://github.com/jamescherti/vim-tab-bar.el) - Emacs: A Vim-Inspired Tab-Bar That Automatically Adapts to Any Emacs Theme
+- [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A Lightweight Suite of Essential Emacs Functions
+- [jamescherti/lightemacs](https://github.com/jamescherti/lightemacs) - Lightemacs - Fast and Lightweight Emacs Framework
+- [jamescherti/inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el) - Disable the mouse in Emacs (Alternative to disable-mouse)
+- [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Easily persist and restore Emacs sessions (windows, tab-bar, file buffers, scratch, Dired, narrowing, indirect buffers/clones, Magit buffers, scratch...); a robust desktop.el replaceme
+- [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Auto Kill Emacs Buffers Automatically to Enhance Emacs' Performance
+- [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
+- [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
+- [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Indentation based Folding for Emacs (Supersedes legacy packages such as origami.el and yafolding.el)
 - [atilaneves/cmake-ide](https://github.com/atilaneves/cmake-ide) - Use Emacs as a C/C++ IDE
 - [josegpt/display-wttr](https://github.com/josegpt/display-wttr) - Display wttr(weather) in the mode line 🌧️.
 - [ISouthRain/ewth.el](https://github.com/ISouthRain/ewth.el) - Emacs weather for Wttr.in(OpenSource) in modeline.
@@ -6156,7 +6170,6 @@
 - [nvim-orgmode/telescope-orgmode.nvim](https://github.com/nvim-orgmode/telescope-orgmode.nvim) - Neovim plugin. Telescope.nvim extension that adds orgmode.nvim integration.
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
 - [MisanthropicBit/decipher.nvim](https://github.com/MisanthropicBit/decipher.nvim) - A neovim plugin for encoding and decoding text
-- [WizardStark/dotfiles](https://github.com/WizardStark/dotfiles) - dotfiles, currently for NeoVim and Tmux configuration
 - [linrongbin16/lin.nvim](https://github.com/linrongbin16/lin.nvim) - Lin Rongbin's Neovim Distribution
 - [linrongbin16/giturlparser.lua](https://github.com/linrongbin16/giturlparser.lua) - Git url parsing library for lua.
 - [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, Copilot, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
@@ -9846,6 +9859,7 @@
 
 ## Python 
 
+- [jamescherti/jc-dotfiles](https://github.com/jamescherti/jc-dotfiles) - James Cherti's Dotfiles
 - [ttaulli/AI-Assisted-Programming-Book](https://github.com/ttaulli/AI-Assisted-Programming-Book) - 
 - [Flight1530/Carryout-Rotor](https://github.com/Flight1530/Carryout-Rotor) - Two-Axis Az/El rotor using portable satellite antenna
 - [saveitforparts/Carryout-Rotor](https://github.com/saveitforparts/Carryout-Rotor) - Two-Axis Az/El rotor using portable satellite antenna
@@ -10871,6 +10885,8 @@
 
 ## Rust 
 
+- [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - Yet another text editor that tries to bring together the best of vim & emacs
+- [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server
 - [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [MeanderingProgrammer/yadm-rs](https://github.com/MeanderingProgrammer/yadm-rs) - Yet Another Dotfiles Manager in Rust
@@ -12144,6 +12160,7 @@
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [mistweaverco/kulala-ls](https://github.com/mistweaverco/kulala-ls) - A minimal 🤏 language 🔊 server 📡 for HTTP 🐼 syntax 🌈.
+- [WizardStark/dotfiles](https://github.com/WizardStark/dotfiles) - dotfiles, currently for NeoVim and Tmux configuration
 - [VonHeikemen/learn-nvim](https://github.com/VonHeikemen/learn-nvim) - 
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
@@ -12365,6 +12382,12 @@
 
 ## Vim Script 
 
+- [jamescherti/vim-easysession](https://github.com/jamescherti/vim-easysession) - Vim plugin: persist and restore your Vim editing sessions easily and effortlessly.
+- [dhruvasagar/vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
+- [dhruvasagar/vim-markify](https://github.com/dhruvasagar/vim-markify) - VIM Plugin Markify to indicate quickfix results on buffers using Signs
+- [dhruvasagar/vim-testify](https://github.com/dhruvasagar/vim-testify) - Simplified viml testing
+- [ton/vim-bufsurf](https://github.com/ton/vim-bufsurf) - Vim plugin that enables surfing through buffers based on viewing history per window
+- [dhruvasagar/vim-buffer-history](https://github.com/dhruvasagar/vim-buffer-history) - A vim plugin to maintain a buffer jump history per window
 - [S1ngS1ng/dotFiles](https://github.com/S1ngS1ng/dotFiles) - 🤔Config files, Webstorm and Vim dark theme🌚
 - [kennypete/vim9-winswap](https://github.com/kennypete/vim9-winswap) - A Vim9 script plugin enabling easy swapping and putting of windows
 - [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) - The undo history visualizer for VIM
