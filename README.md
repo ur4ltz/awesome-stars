@@ -780,7 +780,7 @@
 - [g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source](https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source) - G8KIG's changes to the source code for the DX FT8 Multiband-Tablet-Transceiver
 - [eriklins/chip45boot3](https://github.com/eriklins/chip45boot3) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with automatic baudrate adjustment, encryption and Visual Studio GUI.
 - [eriklins/chip45boot2](https://github.com/eriklins/chip45boot2) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with Intel hex file support and automatic baudrate adjustment.
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [earlephilhower/BackgroundAudio](https://github.com/earlephilhower/BackgroundAudio) - Arduino library for easy, interrupt driven speech, MP3, AAC, and WAV playback on the Raspberry Pi Pico RP2040, Pico 2 RP2350, and ESP32
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
