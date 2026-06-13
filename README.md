@@ -3256,7 +3256,7 @@
 - [RobTillaart/DHTlib](https://github.com/RobTillaart/DHTlib) - Arduino library for DHT temperature and humidity sensor. AVR optimized
 - [RobTillaart/DHTNew](https://github.com/RobTillaart/DHTNew) - Arduino library for DHT11 and DHT22 with automatic sensor recognition
 - [RobTillaart/DHTstable](https://github.com/RobTillaart/DHTstable) - Arduino Library for the DHT temperature and humidity sensor.
-- [RobTillaart/DS18B20_INT](https://github.com/RobTillaart/DS18B20_INT) - Arduino library for DS18B20 with minimal footprint. Whole degrees Celsius only.
+- [RobTillaart/DS18B20_INT](https://github.com/RobTillaart/DS18B20_INT) - Arduino library for DS18B20 with minimal footprint. (Integer math only).
 - [RobTillaart/DS18B20_RT](https://github.com/RobTillaart/DS18B20_RT) - Arduino library for the DS18B20 sensor - restricted to one sensor per pin.
 - [RobTillaart/float16](https://github.com/RobTillaart/float16) - Arduino library to implement float16 data type
 - [RobTillaart/FRAM_I2C](https://github.com/RobTillaart/FRAM_I2C) - Arduino library for I2C FRAM
@@ -6415,7 +6415,7 @@
 - [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
 - [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) - A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command
 - [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) - See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
