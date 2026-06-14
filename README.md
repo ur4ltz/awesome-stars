@@ -6688,7 +6688,7 @@
 - [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like Neovim plugin.
 - [fgheng/vimelua](https://github.com/fgheng/vimelua) - vimelua, an easy and structural config writtern by lua for neovim users
 - [evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim) - A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.
-- [evesdropper/dotfiles](https://github.com/evesdropper/dotfiles) - dotfiles but updated, ft LuaSnip Guide + LaTeX snippets
+- [evesdropper/dotfiles-p52](https://github.com/evesdropper/dotfiles-p52) - dotfiles but updated, ft LuaSnip Guide + LaTeX snippets
 - [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
 - [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
@@ -10885,6 +10885,7 @@
 
 ## Rust 
 
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
 - [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - Yet another text editor that tries to bring together the best of vim & emacs
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server
