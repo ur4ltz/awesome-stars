@@ -323,6 +323,14 @@
 
 ## C 
 
+- [RadioOperator/stm32f103_DualCDC](https://github.com/RadioOperator/stm32f103_DualCDC) - 
+- [RadioOperator/STM32_I2C_Scanner](https://github.com/RadioOperator/STM32_I2C_Scanner) - STM32 I2C scanner with USB CDC interface
+- [RadioOperator/CMSIS-DAP_for_STLINK-V3MINI](https://github.com/RadioOperator/CMSIS-DAP_for_STLINK-V3MINI) - High-Speed CMSIS-DAP for STLINK-V3MINI ARM Debugger STM32F723IEK6
+- [RadioOperator/STM32_HAL_retarget_printf](https://github.com/RadioOperator/STM32_HAL_retarget_printf) - Retarget the printf function, sample projects for STM32 HAL under MDK/Keil, 4 methods in one ... ...
+- [RadioOperator/stm32f103_dual_vcp](https://github.com/RadioOperator/stm32f103_dual_vcp) - An example to show how to use dual CDC VCP USB interfaces.
+- [sfyip/STM32F103_MSD_BOOTLOADER](https://github.com/sfyip/STM32F103_MSD_BOOTLOADER) - STM32F103 Mass Storage Device Bootloader
+- [RadioOperator/STM32F103_MSD_BOOTLOADER](https://github.com/RadioOperator/STM32F103_MSD_BOOTLOADER) - STM32F103 Mass Storage Device Bootloader
+- [RadioOperator/Yet_Another_Bootloader](https://github.com/RadioOperator/Yet_Another_Bootloader) - This Yet Another Bootloader (YAB) is for STM32, STM32F103, STM32F407, STM32L433, STM32F723, STLINK-V3, STLINK-V3MINI, CMSIS-DAP.
 - [Solderingironspb/MonoGFX](https://github.com/Solderingironspb/MonoGFX) - Общая графическая библиотека для монохромных графических дисплеев
 - [Solderingironspb/Easy-Timer](https://github.com/Solderingironspb/Easy-Timer) - Простейший таймер для работы со временем. 32 бита. Максимальный замер таймера примерно  49 дней, 17 часов, 2 минуты и 47,295 секунд.
 - [Solderingironspb/VSC-make-example](https://github.com/Solderingironspb/VSC-make-example) - Примеры работ по сборке и отладке програм для windows и микроконтроллеров
@@ -1937,6 +1945,8 @@
 
 ## C++ 
 
+- [vortex314/serial2mqtt](https://github.com/vortex314/serial2mqtt) - Implement a Linux gateway that reads serial port ( USB, serial , bluetooth)  commands and transfers to MQTT host. MQTT without ethernet or Wifi on a low cost micocontroller. Don't develop a serial com
+- [RadioOperator/serial2mqtt](https://github.com/RadioOperator/serial2mqtt) - Implement a Linux gateway that reads serial port ( USB, serial , bluetooth)  commands and transfers to MQTT host. MQTT without ethernet or Wifi on a low cost micocontroller. Don't develop a serial com
 - [g7ltt/nanoIO](https://github.com/g7ltt/nanoIO) - nanoIO CW/RTTY keyer for Arduino Nano
 - [prt459/si5351_Signal_Source](https://github.com/prt459/si5351_Signal_Source) - A very simple tool that generates a pulsing RF signal with pushbuttons to place it where you need it. Intended to test receivers, RF mixers, and drive exciters.
 - [createskyblue/ArduinoDigitalFrequencyModulation](https://github.com/createskyblue/ArduinoDigitalFrequencyModulation) - 
@@ -2362,7 +2372,7 @@
 - [NT7S/MAX2681Transceiver](https://github.com/NT7S/MAX2681Transceiver) - Homebrew MAX2681 Superhet Transceiver
 - [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The OpenSource Disassembler
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
-- [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY/ARDUINO module (PWM or optionally AD8933 signal generator) with audio amplifier or H-bridge+MOSFETs  driving piezo ultrasonic transdu
+- [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ARDUINO module with PWM (optionally AD8933 signal generator) with output MOSFET stage (or  H-bridge+MOSFETs)  driving piezo ultrasonic trans
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
 - [NovoselovMilk/Arduino-ELRS-Controller](https://github.com/NovoselovMilk/Arduino-ELRS-Controller) - 
 - [kkbin505/Arduino-Transmitter-for-ELRS](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Arduino based RC transmitter for ELRS external TX Module
@@ -3863,6 +3873,14 @@
 
 ## Emacs Lisp 
 
+- [jamescherti/bufferfile.el](https://github.com/jamescherti/bufferfile.el) - Emacs 'bufferfile': Rename, Delete, or Copy Files and Associated Buffers (e.g., clones/indirect buffers)
+- [jamescherti/shell-pop-el](https://github.com/jamescherti/shell-pop-el) - shell-pop.el helps you to use shell easily on Emacs. Only one key action to work.
+- [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
+- [jamescherti/ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el) - Emacs major mode for editing Ultisnips snippets
+- [jamescherti/dir-config.el](https://github.com/jamescherti/dir-config.el) - dir-config.el - Automatically find and load the .dir-config.el Elisp file
+- [jamescherti/pathaction.el](https://github.com/jamescherti/pathaction.el) - pathaction.el - An Emacs plugin for executing pathaction, the universal Makefile, for any file in your filesystem
+- [jamescherti/enhanced-evil-paredit.el](https://github.com/jamescherti/enhanced-evil-paredit.el) - Emacs: Improved Paredit support with Evil keybindings (maintained fork of evil-paredit, available on MELPA).
+- [jamescherti/flymake-bashate.el](https://github.com/jamescherti/flymake-bashate.el) - A Flymake backend for bashate: Real-time style checking for Bash shell scripts within Emacs.
 - [jamescherti/quick-sdcv.el](https://github.com/jamescherti/quick-sdcv.el) - Emacs offline dictionary using 'sdcv'
 - [jamescherti/compile-angel.el](https://github.com/jamescherti/compile-angel.el) - Auto Byte/Native-Compile all Elisp files, to Speed up Emacs
 - [jamescherti/tomorrow-night-deepblue-theme.el](https://github.com/jamescherti/tomorrow-night-deepblue-theme.el) - Emacs Theme: Tomorrow-Night-Deepblue
@@ -5323,6 +5341,8 @@
 
 ## HTML 
 
+- [yingchaotw/STLinkV3_Adapter](https://github.com/yingchaotw/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlink-v3.
+- [RadioOperator/STLinkV3_Adapter](https://github.com/RadioOperator/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlinkv3-mini.
 - [yiancar/barleycorn_pcb](https://github.com/yiancar/barleycorn_pcb) - A 1800 f-row less throughole keyboard with USBC. Inspired by the Plaid
 - [megamind4089/STeMCell](https://github.com/megamind4089/STeMCell) - STM32F4 breakout board in pro micro pinout. Designed mainly for ergo split keyboards.
 - [jpconstantineau/EncoderPad_RP2040](https://github.com/jpconstantineau/EncoderPad_RP2040) - 
@@ -6155,7 +6175,7 @@
 - [Ramilito/winbar.nvim](https://github.com/Ramilito/winbar.nvim) - 
 - [xb-bx/editable-term.nvim](https://github.com/xb-bx/editable-term.nvim) - 
 - [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) - A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.
-- [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
+- [FylerOrg/fyler.nvim](https://github.com/FylerOrg/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [ItsTerm1n4l/spice.nvim](https://github.com/ItsTerm1n4l/spice.nvim) - An easily customizable Neovim colourscheme with support for a wide variety of plugins
 - [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim) - Directory browser plugin for Neovim, inspired by Ranger
 - [madskjeldgaard/cppman.nvim](https://github.com/madskjeldgaard/cppman.nvim) - Search cppman (cplusplus.com and cppreference) from within neovim
@@ -9036,6 +9056,7 @@
 
 ## Others 
 
+- [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
 - [Solderingironspb/Lessons-Stm32](https://github.com/Solderingironspb/Lessons-Stm32) - https://www.youtube.com/playlist?list=PLg-TCzdMe89bcte_r1NWgIocbGWdRq3DG
 - [Flight1530/Raspberry-Pi-Pico-FanPico-0401D-](https://github.com/Flight1530/Raspberry-Pi-Pico-FanPico-0401D-) - Raspberry Pi Pico (FanPico-0401D)
 - [g7ltt/ESP-01-Duinocoin-Miner](https://github.com/g7ltt/ESP-01-Duinocoin-Miner) - ESP-01 DuinoCoin Miner
@@ -9324,9 +9345,6 @@
 - [agnostic-apollo/Android-Docs](https://github.com/agnostic-apollo/Android-Docs) - This repository provides documentation for random stuff related to the Android operating system.
 - [jmbuhr/tmux-kickstarter](https://github.com/jmbuhr/tmux-kickstarter) - A semi-opinionated tmux config to get started
 - [andreadev-it/neorg-module-tutorials](https://github.com/andreadev-it/neorg-module-tutorials) - Tutorials on how to create a custom Neorg module
-- [chriskempson/base16-builders](https://github.com/chriskempson/base16-builders) - 
-- [chriskempson/base16-iterm2](https://github.com/chriskempson/base16-iterm2) - Base16 for iTerm2
-- [chriskempson/base16-templates](https://github.com/chriskempson/base16-templates) - 
 - [chriskempson/base16-templates-source](https://github.com/chriskempson/base16-templates-source) - A common list of templates for base16-builders
 - [chriskempson/base16-schemes-source](https://github.com/chriskempson/base16-schemes-source) - 
 - [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
@@ -9859,6 +9877,12 @@
 
 ## Python 
 
+- [jamescherti/git-commitflow](https://github.com/jamescherti/git-commitflow) - git-commitflow - Git Add, Diff, Commit, and Push Helper
+- [stm32-rs/stm32-rs](https://github.com/stm32-rs/stm32-rs) - Embedded Rust device crates for STM32 microcontrollers
+- [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
+- [jamescherti/ultyas](https://github.com/jamescherti/ultyas) - Convert Ultisnips snippets to YASnippet format
+- [jamescherti/pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp) - Pre-commit hooks for Emacs Lisp (Elisp) Git repositories: pre-commit-elisp
+- [jamescherti/pathaction](https://github.com/jamescherti/pathaction) - Pathaction | A universal Makefile for any file in the filesystem: Rule-driven commands for any file or directory License: GPL v3
 - [jamescherti/jc-dotfiles](https://github.com/jamescherti/jc-dotfiles) - James Cherti's Dotfiles
 - [ttaulli/AI-Assisted-Programming-Book](https://github.com/ttaulli/AI-Assisted-Programming-Book) - 
 - [Flight1530/Carryout-Rotor](https://github.com/Flight1530/Carryout-Rotor) - Two-Axis Az/El rotor using portable satellite antenna
@@ -10873,7 +10897,6 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [sstephenson/execjs](https://github.com/sstephenson/execjs) - Run JavaScript code from Ruby
 - [kana/vim-flavor](https://github.com/kana/vim-flavor) - Taste the difference.
-- [chriskempson/jekyll-emoji](https://github.com/chriskempson/jekyll-emoji) - A jekyll plug-in that provides a Liquid filter for emojifying text with https://github.com/github/gemoji. See http://www.emoji-cheat-sheet.com for a full listing of emoji codes.
 - [oneclick/rubyinstaller](https://github.com/oneclick/rubyinstaller) - RubyInstaller for Windows - Build recipes
 - [rake-compiler/rake-compiler](https://github.com/rake-compiler/rake-compiler) - Provide a standard and simplified way to build and package Ruby C and Java extensions using Rake as glue.
 - [vertiginous/pik](https://github.com/vertiginous/pik) - Ruby version manager for Windows
@@ -10885,6 +10908,10 @@
 
 ## Rust 
 
+- [rust-embedded/cortex-m](https://github.com/rust-embedded/cortex-m) - Low level access to Cortex-M processors
+- [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
+- [Disasm/stm32f4xx-hal](https://github.com/Disasm/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
+- [stm32-rs/synopsys-usb-otg](https://github.com/stm32-rs/synopsys-usb-otg) - usb-device implementation for Synopsys USB OTG IP cores
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
 - [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - Yet another text editor that tries to bring together the best of vim & emacs
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
@@ -12383,6 +12410,7 @@
 
 ## Vim Script 
 
+- [jamescherti/vim-pathaction](https://github.com/jamescherti/vim-pathaction) - Vim Plugin: pathaction - A Vim plugin for executing pathaction, the universal Makefile, for any file in your filesystem
 - [jamescherti/vim-easysession](https://github.com/jamescherti/vim-easysession) - Vim plugin: persist and restore your Vim editing sessions easily and effortlessly.
 - [dhruvasagar/vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
 - [dhruvasagar/vim-markify](https://github.com/dhruvasagar/vim-markify) - VIM Plugin Markify to indicate quickfix results on buffers using Signs
