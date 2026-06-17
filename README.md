@@ -323,6 +323,7 @@
 
 ## C 
 
+- [esp32-si4732/ats-nano](https://github.com/esp32-si4732/ats-nano) - ATS Mini firmware in less than 300 lines of code
 - [RadioOperator/stm32f103_DualCDC](https://github.com/RadioOperator/stm32f103_DualCDC) - 
 - [RadioOperator/STM32_I2C_Scanner](https://github.com/RadioOperator/STM32_I2C_Scanner) - STM32 I2C scanner with USB CDC interface
 - [RadioOperator/CMSIS-DAP_for_STLINK-V3MINI](https://github.com/RadioOperator/CMSIS-DAP_for_STLINK-V3MINI) - High-Speed CMSIS-DAP for STLINK-V3MINI ARM Debugger STM32F723IEK6
@@ -3496,7 +3497,6 @@
 - [andrey-belokon/NanoVFO](https://github.com/andrey-belokon/NanoVFO) - Simple VFO for portable/micro transceiver based on Si5351 with CW-key
 - [andrey-belokon/UR5FFR_Si5351](https://github.com/andrey-belokon/UR5FFR_Si5351) - Si5351 for Arduino
 - [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [czwinzscher/tetris](https://github.com/czwinzscher/tetris) - Tetris for the terminal.
 - [falconindy/auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -9056,6 +9056,7 @@
 
 ## Others 
 
+- [remidavidkoster/Redako-PDNAnalyzer](https://github.com/remidavidkoster/Redako-PDNAnalyzer) - 
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
 - [Solderingironspb/Lessons-Stm32](https://github.com/Solderingironspb/Lessons-Stm32) - https://www.youtube.com/playlist?list=PLg-TCzdMe89bcte_r1NWgIocbGWdRq3DG
 - [Flight1530/Raspberry-Pi-Pico-FanPico-0401D-](https://github.com/Flight1530/Raspberry-Pi-Pico-FanPico-0401D-) - Raspberry Pi Pico (FanPico-0401D)
@@ -9893,7 +9894,6 @@
 - [MeanderingProgrammer/pass-yank](https://github.com/MeanderingProgrammer/pass-yank) - A pass extension that lets you copy metadata associated with passwords
 - [hansec/fortran-language-server](https://github.com/hansec/fortran-language-server) - Fortran Language Server for the Language Server Protocol
 - [frida/frida-tools](https://github.com/frida/frida-tools) - Frida CLI tools
-- [AxxAxx/AxxTerm](https://github.com/AxxAxx/AxxTerm) - Serial Terminal Software with plotting capability
 - [korken89/kicad_libs](https://github.com/korken89/kicad_libs) - 
 - [devbisme/KiPart](https://github.com/devbisme/KiPart) - Python package for generating multi-unit schematic symbols for KiCad from a CSV file.
 - [adamws/kicad-git](https://github.com/adamws/kicad-git) - Git actions directly from KiCad's PCB editor window
@@ -10846,6 +10846,7 @@
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [apjanke/ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mtsmfm/language_server-ruby](https://github.com/mtsmfm/language_server-ruby) - A Ruby Language Server implementation
 - [openSUSE/obs-tools](https://github.com/openSUSE/obs-tools) - Set of tools used to help us on OBS development
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
