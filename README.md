@@ -1822,7 +1822,6 @@
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [DeXP/xkb-switch-win](https://github.com/DeXP/xkb-switch-win) - xkb-switch-lib API port to Win32/Win64
 - [dfu-programmer/dfu-programmer](https://github.com/dfu-programmer/dfu-programmer) - dfu-programmer is a Device Firmware Update based USB programmer for Atmel chips with a USB bootloader
-- [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [edbrowse/edbrowse](https://github.com/edbrowse/edbrowse) - A command-line editor and web browser.
 - [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
@@ -2375,7 +2374,6 @@
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
 - [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ARDUINO module with PWM (optionally AD8933 signal generator) with output MOSFET stage (or  H-bridge+MOSFETs)  driving piezo ultrasonic trans
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
-- [NovoselovMilk/Arduino-ELRS-Controller](https://github.com/NovoselovMilk/Arduino-ELRS-Controller) - 
 - [kkbin505/Arduino-Transmitter-for-ELRS](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Arduino based RC transmitter for ELRS external TX Module
 - [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [RG22EM/MorzeRepeater](https://github.com/RG22EM/MorzeRepeater) - Автоматический Морзе маяк
@@ -9244,7 +9242,6 @@
 - [DmitrySazonov/ka-radio-player](https://github.com/DmitrySazonov/ka-radio-player) - 
 - [Naguissa/uRTCLib_doc_and_extras](https://github.com/Naguissa/uRTCLib_doc_and_extras) - Documentation and extras (datasheets) for https://github.com/Naguissa/uRTCLib
 - [fagci/awesome-stars](https://github.com/fagci/awesome-stars) - My awesome stars
-- [NovoselovMilk/ELRS-TX-E32-DIY](https://github.com/NovoselovMilk/ELRS-TX-E32-DIY) - ELRS передатчик на основе модуля Ebyte E32 с мощностью 1W
 - [w1hkj/flcluster](https://github.com/w1hkj/flcluster) - DX cluster access application [SF mirror]
 - [w1hkj/fllog](https://github.com/w1hkj/fllog) - Ham logbook application [SF mirror]
 - [w1hkj/flnet](https://github.com/w1hkj/flnet) - Ham net controller application [SF mirror]
@@ -10893,6 +10890,7 @@
 - [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
 - [lostisland/sawyer](https://github.com/lostisland/sawyer) - Secret User Agent of HTTP
 - [ko1/debugger2](https://github.com/ko1/debugger2) - port of debugger that works on MRI 2.0.0
+- [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
 - [ruby-git/ruby-git](https://github.com/ruby-git/ruby-git) - Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.
 - [ku1ik/coloration](https://github.com/ku1ik/coloration) - Textmate to Vim, JEdit and Kate/KWrite color scheme converter
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -10942,7 +10940,7 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another CMake LSP
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
-- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
