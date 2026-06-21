@@ -5960,6 +5960,7 @@
 
 ## Kotlin 
 
+- [quintinfsmith/pagan](https://github.com/quintinfsmith/pagan) - A music sequencer for android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [abhay-byte/mkm](https://github.com/abhay-byte/mkm) - Minimal Android kernel management and system monitoring application
 - [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
