@@ -1946,6 +1946,8 @@
 
 ## C++ 
 
+- [yellobyte/LED-Strip-Light-Organ](https://github.com/yellobyte/LED-Strip-Light-Organ) - 3 Channel Light (Color) Organ for LED Strips (with Arduino Nano)
+- [yellobyte/Swiss-Style-Doorbell](https://github.com/yellobyte/Swiss-Style-Doorbell) - A unique and extraordinary doorbell in typical swiss style.
 - [vortex314/serial2mqtt](https://github.com/vortex314/serial2mqtt) - Implement a Linux gateway that reads serial port ( USB, serial , bluetooth)  commands and transfers to MQTT host. MQTT without ethernet or Wifi on a low cost micocontroller. Don't develop a serial com
 - [RadioOperator/serial2mqtt](https://github.com/RadioOperator/serial2mqtt) - Implement a Linux gateway that reads serial port ( USB, serial , bluetooth)  commands and transfers to MQTT host. MQTT without ethernet or Wifi on a low cost micocontroller. Don't develop a serial com
 - [g7ltt/nanoIO](https://github.com/g7ltt/nanoIO) - nanoIO CW/RTTY keyer for Arduino Nano
@@ -3404,6 +3406,7 @@
 - [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees
 - [nmapsi4/nmapsi4](https://github.com/nmapsi4/nmapsi4) - NmapSi4 is a complete Qt-based Gui with the design goals to provide a complete nmap interface for Users, in order to management all options of this powerful security net scanner!
 - [sdhzdmzzl/iptv_channel_scanner_linux](https://github.com/sdhzdmzzl/iptv_channel_scanner_linux) - scan iptv channel in linux
+- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [amsynth/amsynth](https://github.com/amsynth/amsynth) - Simple software synthesizer for Linux
 - [cmdrkotori/mpc-qt-origin](https://github.com/cmdrkotori/mpc-qt-origin) - Media Player Classic Qute Theater
@@ -5771,7 +5774,6 @@
 - [freearhey/iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) - A basic IPTV playlist parser
 - [detroitenglish/iptv-checker-module](https://github.com/detroitenglish/iptv-checker-module) - Check connectivity of the IPTV channels in an .m3u playlist file
 - [freearhey/iptv-checker](https://github.com/freearhey/iptv-checker) - Node.js CLI tool for checking links in IPTV playlists
-- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
 - [keshavbhatt/mkcron](https://github.com/keshavbhatt/mkcron) - Simple cron schedule expression editor for Linux Desktop
 - [VideoPlayerCode/mpv-tools](https://github.com/VideoPlayerCode/mpv-tools) - &lt;3
@@ -9056,6 +9058,7 @@
 
 ## Others 
 
+- [WeActStudio/WeActStudio.ESP32C3CoreBoard](https://github.com/WeActStudio/WeActStudio.ESP32C3CoreBoard) - ESP32-C3FH4 Core Board
 - [remidavidkoster/Redako-PDNAnalyzer](https://github.com/remidavidkoster/Redako-PDNAnalyzer) - 
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
 - [Solderingironspb/Lessons-Stm32](https://github.com/Solderingironspb/Lessons-Stm32) - https://www.youtube.com/playlist?list=PLg-TCzdMe89bcte_r1NWgIocbGWdRq3DG
@@ -10467,6 +10470,7 @@
 - [Koihik/sublime-lua-format](https://github.com/Koihik/sublime-lua-format) - 
 - [floydawong/LuaFormat](https://github.com/floydawong/LuaFormat) - Lua Format Plugin For Sublime Text
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
+- [ellisonleao/dotfiles](https://github.com/ellisonleao/dotfiles) - :floppy_disk: personal configuration files
 - [mark1791/3D_Printing_Tools](https://github.com/mark1791/3D_Printing_Tools) - FreeCAD Workbench for working on imported Meshes
 - [acrisci/ssh-menu](https://github.com/acrisci/ssh-menu) - A curses-based menu for organizing and remembering ssh logins
 - [Airblader/i3-sticky](https://github.com/Airblader/i3-sticky) - Sticky tiling windows for i3
@@ -11924,7 +11928,6 @@
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [dylanaraps/bin](https://github.com/dylanaraps/bin) - 🗑️ scripts
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [ellisonleao/dotfiles](https://github.com/ellisonleao/dotfiles) - :floppy_disk: personal configuration files
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [emmett1/lfs-scripts](https://github.com/emmett1/lfs-scripts) - Automated script to build Multilib LFS system + livecd
 - [automate-lfs/jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
