@@ -2377,6 +2377,7 @@
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
 - [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ARDUINO module with PWM (optionally AD8933 signal generator) with output MOSFET stage (or  H-bridge+MOSFETs)  driving piezo ultrasonic trans
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
+- [NovoselovMilk/Arduino-ELRS-Controller](https://github.com/NovoselovMilk/Arduino-ELRS-Controller) - 
 - [kkbin505/Arduino-Transmitter-for-ELRS](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Arduino based RC transmitter for ELRS external TX Module
 - [SpacehuhnTech/SimpleCLI](https://github.com/SpacehuhnTech/SimpleCLI) - Command Line Interface Library for Arduino
 - [RG22EM/MorzeRepeater](https://github.com/RG22EM/MorzeRepeater) - Автоматический Морзе маяк
@@ -4642,6 +4643,7 @@
 - [emacsmirror/undo-fu](https://github.com/emacsmirror/undo-fu) - Undo helper with redo
 - [ran9er/init.emacs](https://github.com/ran9er/init.emacs) - move to ======&gt; iff
 - [ran9er/iff](https://github.com/ran9er/iff) - initial framework for emacs
+- [phongnh/zero.vim](https://github.com/phongnh/zero.vim) - My Vim helpers
 - [ROCKTAKEY/lsp-latex](https://github.com/ROCKTAKEY/lsp-latex) - Emacs lsp-mode client for LaTeX, on texlab.
 - [shuxiao9058/emacs.d](https://github.com/shuxiao9058/emacs.d) - My emacs.d
 - [shuxiao9058/dotemacs.d](https://github.com/shuxiao9058/dotemacs.d) - My personal Emacs configuration
@@ -5962,6 +5964,7 @@
 
 ## Kotlin 
 
+- [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [quintinfsmith/pagan](https://github.com/quintinfsmith/pagan) - A music sequencer for android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [abhay-byte/mkm](https://github.com/abhay-byte/mkm) - Minimal Android kernel management and system monitoring application
@@ -9247,6 +9250,7 @@
 - [DmitrySazonov/ka-radio-player](https://github.com/DmitrySazonov/ka-radio-player) - 
 - [Naguissa/uRTCLib_doc_and_extras](https://github.com/Naguissa/uRTCLib_doc_and_extras) - Documentation and extras (datasheets) for https://github.com/Naguissa/uRTCLib
 - [fagci/awesome-stars](https://github.com/fagci/awesome-stars) - My awesome stars
+- [NovoselovMilk/ELRS-TX-E32-DIY](https://github.com/NovoselovMilk/ELRS-TX-E32-DIY) - ELRS передатчик на основе модуля Ebyte E32 с мощностью 1W
 - [w1hkj/flcluster](https://github.com/w1hkj/flcluster) - DX cluster access application [SF mirror]
 - [w1hkj/fllog](https://github.com/w1hkj/fllog) - Ham logbook application [SF mirror]
 - [w1hkj/flnet](https://github.com/w1hkj/flnet) - Ham net controller application [SF mirror]
@@ -10946,7 +10950,7 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another CMake LSP
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [OXY2DEV/spinn-rs](https://github.com/OXY2DEV/spinn-rs) - Spinn(e)rs for the terminal, now written in rust!
-- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
+- [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) - An execution engine for Wireshark-like filters
 - [saghen/blink.pairs](https://github.com/saghen/blink.pairs) - Intelligent auto-pairs with rainbow highlighting for Neovim
@@ -13193,7 +13197,6 @@
 - [tjdevries/overlength.vim](https://github.com/tjdevries/overlength.vim) - Highlight when lines go over the length that you want them.
 - [phongnh/foldtext.vim](https://github.com/phongnh/foldtext.vim) - Vim Fold Text
 - [phongnh/vim-cursor-settings](https://github.com/phongnh/vim-cursor-settings) - Set cursor settings for iTerm.app, Kitty and Alacritty terminals
-- [phongnh/zero.vim](https://github.com/phongnh/zero.vim) - My Vim helpers
 - [phongnh/fzf-settings.vim](https://github.com/phongnh/fzf-settings.vim) - My fzf settings
 - [phongnh/airline-settings.vim](https://github.com/phongnh/airline-settings.vim) - 
 - [phongnh/filetype-settings.vim](https://github.com/phongnh/filetype-settings.vim) - My default filetype settings
