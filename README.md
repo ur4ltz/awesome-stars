@@ -8212,7 +8212,7 @@
 - [wsdjeg/git.vim](https://github.com/wsdjeg/git.vim) - Use git in spacevim
 - [Igalia/pflua](https://github.com/Igalia/pflua) - Packet filtering in Lua
 - [windwp/nvim-projectconfig](https://github.com/windwp/nvim-projectconfig) - neovim projectconfig
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [vincasmiliunas/lua-basic-oauth2](https://github.com/vincasmiliunas/lua-basic-oauth2) - This library does simple comminication with OAuth2 services.
 - [harningt/luajson](https://github.com/harningt/luajson) - JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, various values are preserved as best as possible.
 - [p3r7/3d](https://github.com/p3r7/3d) - 🧊 Pure Lua 3D lib for Norns
@@ -8495,7 +8495,6 @@
 - [SwissalpS/lite-plugins](https://github.com/SwissalpS/lite-plugins) - Plugins for the lite text editor
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
-- [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [Phrogz/SLAXML](https://github.com/Phrogz/SLAXML) - SAX-like streaming XML parser for Lua
 - [hkupty/trex.nvim](https://github.com/hkupty/trex.nvim) - Terminal and Repl Extensions - for neovim
 - [hkupty/impromptu.nvim](https://github.com/hkupty/impromptu.nvim) - Create prompts fast and easy
@@ -9061,6 +9060,7 @@
 
 ## Others 
 
+- [firmata/protocol](https://github.com/firmata/protocol) - Documentation of the Firmata protocol.
 - [WeActStudio/WeActStudio.ESP32C3CoreBoard](https://github.com/WeActStudio/WeActStudio.ESP32C3CoreBoard) - ESP32-C3FH4 Core Board
 - [remidavidkoster/Redako-PDNAnalyzer](https://github.com/remidavidkoster/Redako-PDNAnalyzer) - 
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
@@ -11867,6 +11867,7 @@
 - [jeremyf/dotzshrc](https://github.com/jeremyf/dotzshrc) - 
 - [Tazeg/i3status](https://github.com/Tazeg/i3status) - Simple status bar for i3 / i3-gaps / sway written in bash and python
 - [ServoDev/dot_files](https://github.com/ServoDev/dot_files) - All my dotfiles which can be installed on a fresh arch install
+- [fatih/dotfiles](https://github.com/fatih/dotfiles) - My personal dotfiles
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [Conni2461/dotfiles](https://github.com/Conni2461/dotfiles) - Current dotfiles and scripts
 - [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar) - A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
