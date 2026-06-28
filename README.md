@@ -8736,6 +8736,7 @@
 - [ElPiloto/Lua-Omni-Vim-Completion](https://github.com/ElPiloto/Lua-Omni-Vim-Completion) - omni completion functionality for Vim editor
 - [rkowal/Lua-Omni-Vim-Completion](https://github.com/rkowal/Lua-Omni-Vim-Completion) - omni completion functionality for Vim editor
 - [rgieseke/textredux](https://github.com/rgieseke/textredux) - Text-based interfaces for Textadept
+- [galczo5/dotfiles](https://github.com/galczo5/dotfiles) - 
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [jesseleite/dotfiles](https://github.com/jesseleite/dotfiles) - My dotfiles 💾
 - [meric/leftry](https://github.com/meric/leftry) - Leftry - A left-recursion enabled recursive-descent parser combinator library for Lua.
@@ -10242,7 +10243,7 @@
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
-- [iterative/shtab](https://github.com/iterative/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
+- [tqdm/shtab](https://github.com/tqdm/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Official Python command-line client for tldr pages 🐍.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
@@ -12045,7 +12046,6 @@
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [seagle0128/dotfiles](https://github.com/seagle0128/dotfiles) - Centaur Dotfiles - Full and clean configurations for development environment on GNU Linux, macOS and Cygwin
 - [chros73/rtorrent-ps-ch_setup](https://github.com/chros73/rtorrent-ps-ch_setup) - Advanced rTorrent-PS-CH setup
-- [galczo5/dotfiles](https://github.com/galczo5/dotfiles) - 
 - [huntie/dotfiles](https://github.com/huntie/dotfiles) - Personal OS and Unix tool configuration
 - [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [whatyouhide/gotham-contrib](https://github.com/whatyouhide/gotham-contrib) - Ports of the Gotham colorscheme for common editors and terminal emulators 🌃
