@@ -450,8 +450,6 @@
 - [lbthomsen/st-link](https://github.com/lbthomsen/st-link) - ST-Link Research
 - [Floyd-Fish/ST7789-STM32](https://github.com/Floyd-Fish/ST7789-STM32) - using STM32's Hardware SPI to drive a ST7789 based IPS displayer
 - [lbthomsen/stm32-w25qxx](https://github.com/lbthomsen/stm32-w25qxx) - STM32 W25Qxx Driver
-- [Robby69400/Robzyl_K1](https://github.com/Robby69400/Robzyl_K1) - 
-- [Robby69400/Robzyl_K5V1](https://github.com/Robby69400/Robzyl_K5V1) - Support for extended EEPROM
 - [ivang78/si5351-tiny-vfo](https://github.com/ivang78/si5351-tiny-vfo) - VFO build around Si5351, Attiny85, ssd1306
 - [currentmakers/blackmagic](https://github.com/currentmakers/blackmagic) - In-application debugger for ARM Cortex and RISC-V processors.
 - [STM32World/stm32fun](https://github.com/STM32World/stm32fun) - STM32 Beginners Fun
@@ -5864,7 +5862,7 @@
 - [candy-chat/candy](https://github.com/candy-chat/candy) - JavaScript-based multi-user chat client for XMPP.
 - [oxpa/www.jabber.ru](https://github.com/oxpa/www.jabber.ru) - Jabber.ru website
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [zhovner/zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
 - [sergioramos/jsctags](https://github.com/sergioramos/jsctags) - jsctags generator using tern
