@@ -283,6 +283,7 @@
 - [dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi) - Raspberry Pi ARM based bare metal examples
 - [organix/pijFORTHos](https://github.com/organix/pijFORTHos) - A bare-metal FORTH operating system for Raspberry Pi
 - [LoopZ/V8Power](https://github.com/LoopZ/V8Power) - Putting the power of an 8-cylinder engine under the hood of DOS batch files.
+- [obdev/v-usb](https://github.com/obdev/v-usb) - A Firmware-Only USB implementation for Atmel's AVR Microcontrollers
 
 ## AutoHotkey 
 
@@ -1844,7 +1845,6 @@
 - [embecosm/avr-binutils-gdb](https://github.com/embecosm/avr-binutils-gdb) - Fork of the upstream binutils-gdb repository for AVR processors
 - [rgwan/USBtiny](https://github.com/rgwan/USBtiny) - Yet another software USB-Device stack for AVR
 - [rgwan/v-usb](https://github.com/rgwan/v-usb) - A Firmware-Only USB implementation for STM8/LGT/AVR/STC-Y5 MCU.
-- [obdev/v-usb](https://github.com/obdev/v-usb) - A Firmware-Only USB implementation for Atmel's AVR Microcontrollers
 - [gittup/tup](https://github.com/gittup/tup) - Tup is a file-based build system.
 - [Firef0x/vim](https://github.com/Firef0x/vim) - Mirror of the Vim Mercurial repository (for gVim PortableApps.com format installer)
 - [b4winckler/vim](https://github.com/b4winckler/vim) - Mirror of the Vim Mercurial repository
@@ -3826,6 +3826,8 @@
 
 ## Dart 
 
+- [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
+- [gwitko/Conduit](https://github.com/gwitko/Conduit) - A mobile terminal workspace for Android and iOS with SSH, Mosh, SFTP, hardware-key auth, tmux helpers, and an optional local shell.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
@@ -4250,7 +4252,7 @@
 - [conao3/leaf-keywords.el](https://github.com/conao3/leaf-keywords.el) - Additional leaf.el keywords for external packages
 - [s-kostyaev/.emacs.d](https://github.com/s-kostyaev/.emacs.d) - my emacs configs
 - [snyball/emacs-fish-colors](https://github.com/snyball/emacs-fish-colors) - Set fish colors according to Emacs faces (useful for vterm)
-- [okamsn/loopy](https://github.com/okamsn/loopy) - A better looping and iteration macro for Emacs.
+- [okamsn/loopy](https://github.com/okamsn/loopy) - A better looping and iteration macro for Emacs. (Moving to Codeberg)
 - [daviwil/dotcrafter.el](https://github.com/daviwil/dotcrafter.el) - Manage your dotfiles with Emacs!
 - [radian-software/diary-manager](https://github.com/radian-software/diary-manager) - 📔 Simple command-line tool and Emacs package for managing diary entries.
 - [radian-software/dumbparens](https://github.com/radian-software/dumbparens) - 📯 Minor mode for Emacs that deals with parens pairs and doesn't try to be smart about it.
@@ -4957,6 +4959,7 @@
 
 ## Go 
 
+- [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
 - [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply suggestions locally
@@ -5010,7 +5013,7 @@
 - [iamwavecut/retracker](https://github.com/iamwavecut/retracker) - Simple local http torrent tracker written in Go
 - [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
 - [xgfone/bttools](https://github.com/xgfone/bttools) - A tool collection about BitTorrent.
-- [shiyanhui/dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
+- [yann-shi/dht](https://github.com/yann-shi/dht) - BitTorrent DHT Protocol && DHT Spider.
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [xgfone/go-bt](https://github.com/xgfone/go-bt) - Another pure golang implementation of BitTorrent library.
 - [Ianleeclark/notorious](https://github.com/Ianleeclark/notorious) - Go: A feature-complete, performant torrent tracker
@@ -5510,6 +5513,8 @@
 
 ## Java 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [doubleangels/nextdnsmanager](https://github.com/doubleangels/nextdnsmanager) - Manage your NextDNS settings easily with this Android app!
 - [ibbaa/keepitup](https://github.com/ibbaa/keepitup) - Network monitoring app for Android
 - [woheller69/browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
@@ -5961,6 +5966,8 @@
 
 ## Kotlin 
 
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
+- [ankurCES/project_mythara](https://github.com/ankurCES/project_mythara) - M.Y.T.H.A.R.A — Mind Yoked Tonal Haptic Adaptive Resonant Assistant. Open-source agentic AI Android OS layer. Local-first, private-by-construction, BYO-model alternative to Android 17 / Aluminium OS G
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [quintinfsmith/pagan](https://github.com/quintinfsmith/pagan) - A music sequencer for android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -9882,6 +9889,7 @@
 
 ## Python 
 
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [jamescherti/git-commitflow](https://github.com/jamescherti/git-commitflow) - git-commitflow - Git Add, Diff, Commit, and Push Helper
 - [stm32-rs/stm32-rs](https://github.com/stm32-rs/stm32-rs) - Embedded Rust device crates for STM32 microcontrollers
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
@@ -12166,6 +12174,7 @@
 
 ## TypeScript 
 
+- [aj3423/spam_db_solana](https://github.com/aj3423/spam_db_solana) - A spam number database on Solana blockchain
 - [WebFreak001/code-debug](https://github.com/WebFreak001/code-debug) - Native debugging for VSCode
 - [mcu-debug/rtos-views](https://github.com/mcu-debug/rtos-views) - RTOS views for microcontrollers
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
