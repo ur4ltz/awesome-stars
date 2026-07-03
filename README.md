@@ -3498,6 +3498,7 @@
 - [andrey-belokon/NanoVFO](https://github.com/andrey-belokon/NanoVFO) - Simple VFO for portable/micro transceiver based on Si5351 with CW-key
 - [andrey-belokon/UR5FFR_Si5351](https://github.com/andrey-belokon/UR5FFR_Si5351) - Si5351 for Arduino
 - [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [czwinzscher/tetris](https://github.com/czwinzscher/tetris) - Tetris for the terminal.
 - [falconindy/auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -3876,6 +3877,31 @@
 
 ## Emacs Lisp 
 
+- [protesilaos/nerd-icons-dired](https://github.com/protesilaos/nerd-icons-dired) - 
+- [protesilaos/nerd-icons-xref](https://github.com/protesilaos/nerd-icons-xref) - Add nerd-icons to `xref` buffers in Emacs
+- [protesilaos/agitate](https://github.com/protesilaos/agitate) - Extras for diff-mode, vc-git, log-edit, log-view
+- [protesilaos/altcaps](https://github.com/protesilaos/altcaps) - Apply alternating letter casing to convey sarcasm or mockery
+- [protesilaos/lin](https://github.com/protesilaos/lin) - Lin is a stylistic enhancement for Emacs’ built-in hl-line-mode. It remaps the hl-line face (or equivalent) buffer-locally to a style that is optimal for major modes where line selection is the primar
+- [protesilaos/mandoura](https://github.com/protesilaos/mandoura) - Use MPV to play media files via Dired in GNU Emacs.  🪈🎶
+- [protesilaos/notmuch-indicator](https://github.com/protesilaos/notmuch-indicator) - Add notmuch email counters to the Emacs mode line.
+- [protesilaos/substitute](https://github.com/protesilaos/substitute) - Efficiently replace targets in the Emacs buffer or context
+- [protesilaos/research](https://github.com/protesilaos/research) - Run shell searches and store them reproducibly in Emacs buffers
+- [protesilaos/show-font](https://github.com/protesilaos/show-font) - Preview fonts inside Emacs
+- [protesilaos/sxhkdrc-mode](https://github.com/protesilaos/sxhkdrc-mode) - Emacs major mode for editing sxhkdrc files (Simple X Hot Key Daemon)
+- [protesilaos/modus-themes-exporter](https://github.com/protesilaos/modus-themes-exporter) - Export a Modus themes to another application
+- [protesilaos/institution-calendar](https://github.com/protesilaos/institution-calendar) - Institution calendar (e.g. University of Oxford/Cambridge) for GNU Emacs.
+- [protesilaos/gnome-accent-theme-switcher](https://github.com/protesilaos/gnome-accent-theme-switcher) - Automatically load Emacs theme to match the GNOME accent color and light/dark mode.
+- [protesilaos/pulsar](https://github.com/protesilaos/pulsar) - Emacs package to pulse the current line after running select functions.
+- [protesilaos/buffer-to-pdf](https://github.com/protesilaos/buffer-to-pdf) - Create a PDF out of your current buffer, exactly as you see it!
+- [protesilaos/consult-denote](https://github.com/protesilaos/consult-denote) - Use Consult in tandem with Denote
+- [protesilaos/denote-silo](https://github.com/protesilaos/denote-silo) - Extension for Denote to work with silos as explained in the Denote manual (formerly known as the 'denote-silo-extras.el' that was part of the 'denote' package).
+- [protesilaos/denote-markdown](https://github.com/protesilaos/denote-markdown) - Extension for Denote to do more things with Markdown files (formerly known as the 'denote-md-extras.el' that was part of the 'denote' package).
+- [protesilaos/denote-journal](https://github.com/protesilaos/denote-journal) - Extension for Denote to do journaling (formerly known as the 'denote-journal-extras.el' that was part of the 'denote' package).
+- [protesilaos/denote-org](https://github.com/protesilaos/denote-org) - Extra functionality to integrate Org mode with Denote (such as Org dynamic blocks)
+- [protesilaos/tmr](https://github.com/protesilaos/tmr) - Emacs package to set timers using a convenient notation
+- [protesilaos/dired-preview](https://github.com/protesilaos/dired-preview) - Automatically preview file at point in Emacs Dired.
+- [protesilaos/fontaine](https://github.com/protesilaos/fontaine) - Set Emacs font configurations using presets
+- [protesilaos/cursory](https://github.com/protesilaos/cursory) - Manage Emacs cursor styles using presets
 - [jamescherti/bufferfile.el](https://github.com/jamescherti/bufferfile.el) - Emacs 'bufferfile': Rename, Delete, or Copy Files and Associated Buffers (e.g., clones/indirect buffers)
 - [jamescherti/shell-pop-el](https://github.com/jamescherti/shell-pop-el) - shell-pop.el helps you to use shell easily on Emacs. Only one key action to work.
 - [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
@@ -5609,6 +5635,7 @@
 
 ## JavaScript 
 
+- [wroyca/dotfiles](https://github.com/wroyca/dotfiles) - My dotfiles, managed with chezmoi.
 - [MeanderingProgrammer/tree-sitter-srt](https://github.com/MeanderingProgrammer/tree-sitter-srt) - SubRip Subtitle grammar for tree-sitter
 - [sometimesdigital/screenduino](https://github.com/sometimesdigital/screenduino) - 📟 make LCD custom characters using the createChar() function from the LiquidCrystal library
 - [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
@@ -6038,6 +6065,8 @@
 
 ## Lua 
 
+- [oonamo/ef-themes.nvim](https://github.com/oonamo/ef-themes.nvim) - Colourful and legible themes for Neovim
+- [szymonwilczek/arete.nvim](https://github.com/szymonwilczek/arete.nvim) - Protesilaos GNU Emacs themes for Neovim
 - [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Embed images into any markup language, like LaTeX, Markdown or Typst
 - [yujinyuz/gitpad.nvim](https://github.com/yujinyuz/gitpad.nvim) - minimal neovim plugin for taking down notes for git projects, branch, etc.
 - [MeanderingProgrammer/stashpad.nvim](https://github.com/MeanderingProgrammer/stashpad.nvim) - Plugin for storing scratch notes based on git info
@@ -6068,7 +6097,7 @@
 - [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
 - [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) - Reliable Neotest adapter for running Go tests in Neovim.
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode to stay in your familiar flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
 - [adibhanna/gruvdark.nvim](https://github.com/adibhanna/gruvdark.nvim) - Gruvdark: Neovim colorscheme
 - [ChristianChiarulli/onedark.nvim](https://github.com/ChristianChiarulli/onedark.nvim) - My take on the iconic Onedark colorscheme
 - [adibhanna/nvim-notes](https://github.com/adibhanna/nvim-notes) - Minimal Notes App for Neovim
@@ -6966,6 +6995,7 @@
 - [LeonHeidelbach/trailblazer.nvim](https://github.com/LeonHeidelbach/trailblazer.nvim) - TrailBlazer enables you to seemlessly move through important project marks as quickly and efficiently as possible to make your workflow blazingly fast ™.
 - [ofirgall/commit-prefix.nvim](https://github.com/ofirgall/commit-prefix.nvim) - Insert prefix to commit message by branch name (JIRA ticket for example)
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
+- [zdcthomas/yakko_wakko](https://github.com/zdcthomas/yakko_wakko) - DotFiles for macOS/Linux
 - [zdcthomas/easy-operator.nvim](https://github.com/zdcthomas/easy-operator.nvim) - 
 - [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) - make you some user operators for great good
 - [JoosepAlviste/palenightfall.nvim](https://github.com/JoosepAlviste/palenightfall.nvim) - 🌑 Neovim theme inspired by material palenight.
@@ -8990,9 +9020,9 @@
 
 ## Nix 
 
+- [Echinoidea/Aporetic-Nerd-Font](https://github.com/Echinoidea/Aporetic-Nerd-Font) - Nerd Font patch with glyphs of Protesilaos' Aporetic font. https://github.com/protesilaos/aporetic
 - [benlubas/neorg-interim-ls](https://github.com/benlubas/neorg-interim-ls) - Temporarily providing a limited set of LSP features to neorg
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
-- [zdcthomas/yakko_wakko](https://github.com/zdcthomas/yakko_wakko) - DotFiles for macOS/Linux
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
@@ -9065,6 +9095,8 @@
 
 ## Others 
 
+- [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
+- [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [firmata/protocol](https://github.com/firmata/protocol) - Documentation of the Firmata protocol.
 - [WeActStudio/WeActStudio.ESP32C3CoreBoard](https://github.com/WeActStudio/WeActStudio.ESP32C3CoreBoard) - ESP32-C3FH4 Core Board
 - [remidavidkoster/Redako-PDNAnalyzer](https://github.com/remidavidkoster/Redako-PDNAnalyzer) - 
@@ -9376,7 +9408,7 @@
 - [ofirgall/learn-nvim](https://github.com/ofirgall/learn-nvim) - Learn neovim
 - [n-shift/awesome-neovim-configurations](https://github.com/n-shift/awesome-neovim-configurations) - Collection of awesome neovim configurations
 - [LumaKernel/awesome-stars](https://github.com/LumaKernel/awesome-stars) - A curated list of my GitHub stars! Generated by starred
-- [DeepLcom/openapi](https://github.com/DeepLcom/openapi) - OpenAPI specification of the DeepL API
+- [DeepL/openapi](https://github.com/DeepL/openapi) - OpenAPI specification of the DeepL API
 - [peter-evans/enable-pull-request-automerge](https://github.com/peter-evans/enable-pull-request-automerge) - A GitHub action to enable auto-merge on a pull request
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [VonHeikemen/the-good-snippets](https://github.com/VonHeikemen/the-good-snippets) - Personal collection of snippets for the different programming languages I work with.
@@ -9637,7 +9669,6 @@
 - [widgetii/rusopsnotes](https://github.com/widgetii/rusopsnotes) - My notes about ops in Russian
 - [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
 - [sublimehq/sublime_merge](https://github.com/sublimehq/sublime_merge) - Issue tracker for Sublime Merge
-- [andybalaam/freeguide](https://github.com/andybalaam/freeguide) - Moved to https://codeberg.org/andybalaam/FreeGuide
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
@@ -10179,7 +10210,7 @@
 - [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name) - A plugin to name your tmux windows smartly.
 - [miversen33/lsp-container](https://github.com/miversen33/lsp-container) - A container that can be used to house language servers and uses a standard interface to communicate with
 - [jaxbot/github-issues.vim](https://github.com/jaxbot/github-issues.vim) - Github issue lookup in Vim
-- [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
+- [DeepL/deepl-python](https://github.com/DeepL/deepl-python) - Official Python library for the DeepL language translation API.
 - [randy3k/Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text
 - [jonpalmisc/vfit](https://github.com/jonpalmisc/vfit) - Utility for building static cuts of variable fonts
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
@@ -10859,7 +10890,6 @@
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [apjanke/ronn-ng](https://github.com/apjanke/ronn-ng) - Ronn-NG: An updated fork of ronn. Build man pages from Markdown.
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [mtsmfm/language_server-ruby](https://github.com/mtsmfm/language_server-ruby) - A Ruby Language Server implementation
 - [openSUSE/obs-tools](https://github.com/openSUSE/obs-tools) - Set of tools used to help us on OBS development
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
