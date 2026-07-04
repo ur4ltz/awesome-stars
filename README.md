@@ -1944,6 +1944,7 @@
 
 ## C++ 
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [yellobyte/LED-Strip-Light-Organ](https://github.com/yellobyte/LED-Strip-Light-Organ) - 3 Channel Light (Color) Organ for LED Strips (with Arduino Nano)
 - [yellobyte/Swiss-Style-Doorbell](https://github.com/yellobyte/Swiss-Style-Doorbell) - A unique and extraordinary doorbell in typical swiss style.
 - [vortex314/serial2mqtt](https://github.com/vortex314/serial2mqtt) - Implement a Linux gateway that reads serial port ( USB, serial , bluetooth)  commands and transfers to MQTT host. MQTT without ethernet or Wifi on a low cost micocontroller. Don't develop a serial com
@@ -5635,6 +5636,7 @@
 
 ## JavaScript 
 
+- [nextcloud/talk-desktop](https://github.com/nextcloud/talk-desktop) - Nextcloud Talk Desktop client
 - [wroyca/dotfiles](https://github.com/wroyca/dotfiles) - My dotfiles, managed with chezmoi.
 - [MeanderingProgrammer/tree-sitter-srt](https://github.com/MeanderingProgrammer/tree-sitter-srt) - SubRip Subtitle grammar for tree-sitter
 - [sometimesdigital/screenduino](https://github.com/sometimesdigital/screenduino) - 📟 make LCD custom characters using the createChar() function from the LiquidCrystal library
@@ -9779,6 +9781,7 @@
 
 ## PHP 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [medariox/scrapeer](https://github.com/medariox/scrapeer) - Essential PHP library that scrapes HTTP(S) and UDP trackers for torrent information.
 - [TasmoAdmin/TasmoAdmin](https://github.com/TasmoAdmin/TasmoAdmin) - TasmoAdmin is an administrative platform for devices flashed with Tasmota
 - [guanguans/ai-commit](https://github.com/guanguans/ai-commit) - Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
