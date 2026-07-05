@@ -3406,7 +3406,6 @@
 - [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees
 - [nmapsi4/nmapsi4](https://github.com/nmapsi4/nmapsi4) - NmapSi4 is a complete Qt-based Gui with the design goals to provide a complete nmap interface for Users, in order to management all options of this powerful security net scanner!
 - [sdhzdmzzl/iptv_channel_scanner_linux](https://github.com/sdhzdmzzl/iptv_channel_scanner_linux) - scan iptv channel in linux
-- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [amsynth/amsynth](https://github.com/amsynth/amsynth) - Simple software synthesizer for Linux
 - [cmdrkotori/mpc-qt-origin](https://github.com/cmdrkotori/mpc-qt-origin) - Media Player Classic Qute Theater
@@ -5807,6 +5806,7 @@
 - [freearhey/iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) - A basic IPTV playlist parser
 - [detroitenglish/iptv-checker-module](https://github.com/detroitenglish/iptv-checker-module) - Check connectivity of the IPTV channels in an .m3u playlist file
 - [freearhey/iptv-checker](https://github.com/freearhey/iptv-checker) - Node.js CLI tool for checking links in IPTV playlists
+- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux and MacOS
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
 - [keshavbhatt/mkcron](https://github.com/keshavbhatt/mkcron) - Simple cron schedule expression editor for Linux Desktop
 - [VideoPlayerCode/mpv-tools](https://github.com/VideoPlayerCode/mpv-tools) - &lt;3
@@ -6942,7 +6942,7 @@
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) - fzf-lua + projections.nvim
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) - super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 - [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) - Smart automatic keyboard layout switching in 110 LOC
-- [lvim-tech/lvim-linguistics](https://github.com/lvim-tech/lvim-linguistics) - 
+- [lvim-tech/lvim-linguistics](https://github.com/lvim-tech/lvim-linguistics) - Spelling and insert-mode keyboard-language control for Neovim — part of the lvim-tech set
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) - Ruby tools for neovim
 - [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) - a neovim statusline & tabline plug
 - [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline and bufferline plugin for neovim in lua.
@@ -7320,9 +7320,9 @@
 - [LunarVim/Colorschemes](https://github.com/LunarVim/Colorschemes) - 🌈 Collection of colorschemes made to be compatible with LunarVim
 - [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim) - 
 - [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
-- [lvim-tech/lvim-dependencies](https://github.com/lvim-tech/lvim-dependencies) - 
+- [lvim-tech/lvim-dependencies](https://github.com/lvim-tech/lvim-dependencies) - Manage project dependencies across package managers in Neovim — part of the lvim-tech set
 - [lvim-tech/lvim-kbrd](https://github.com/lvim-tech/lvim-kbrd) - 
-- [lvim-tech/lvim-move](https://github.com/lvim-tech/lvim-move) - 
+- [lvim-tech/lvim-move](https://github.com/lvim-tech/lvim-move) - Move lines and selections in any direction in Neovim — part of the lvim-tech set
 - [lvim-tech/lvim-winbar](https://github.com/lvim-tech/lvim-winbar) - 
 - [lvim-tech/lvim-org-utils](https://github.com/lvim-tech/lvim-org-utils) - 
 - [ggandor/leap-ast.nvim](https://github.com/ggandor/leap-ast.nvim) - Jump to, select and operate on AST nodes via the Leap interface with Treesitter (WIP)
@@ -7962,7 +7962,7 @@
 - [aserowy/neocode](https://github.com/aserowy/neocode) - Completely theme responsive, lean, streamlined lua configuration for neovim (dotfiles).
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 - [shaunsingh/solarized.nvim](https://github.com/shaunsingh/solarized.nvim) - Port of the Solarized colorscheme for vim, written in lua, with treesitter support.
-- [lvim-tech/lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme) - Colorscheme for Neovim writen in LUA.
+- [lvim-tech/lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme) - A Neovim colorscheme written in Lua — 12 theme families, each in soft / dark / darker / light variants — part of the lvim-tech set
 - [winston0410/better-O.nvim](https://github.com/winston0410/better-O.nvim) - A plugin that insert newline better than the default O.
 - [winston0410/smart-cursor.nvim](https://github.com/winston0410/smart-cursor.nvim) - Auto-indenting your cursor with treesitter
 - [ngscheurich/iris.nvim](https://github.com/ngscheurich/iris.nvim) - 🌈 Generate color palettes based on Neovim colorschemes.
@@ -10960,7 +10960,7 @@
 - [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
 - [Disasm/stm32f4xx-hal](https://github.com/Disasm/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
 - [stm32-rs/synopsys-usb-otg](https://github.com/stm32-rs/synopsys-usb-otg) - usb-device implementation for Synopsys USB OTG IP cores
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - Yet another text editor that tries to bring together the best of vim & emacs
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server
@@ -11948,7 +11948,7 @@
 - [darthfork/dotfiles](https://github.com/darthfork/dotfiles) - Dotfiles
 - [vuhuucuong/dotfiles](https://github.com/vuhuucuong/dotfiles) - My Neovim config and relevant stuff
 - [mdaffin/arch-pkgs](https://github.com/mdaffin/arch-pkgs) - Management repo for my Arch Linux systems. Mirror of https://gitlab.com/mdaffin/arch-pkgs
-- [takeokunn/dotfiles](https://github.com/takeokunn/dotfiles) - 
+- [takeokunn/dotfiles](https://github.com/takeokunn/dotfiles) - Former dotfiles repository; superseded by nixos-configuration
 - [bto/dotfiles](https://github.com/bto/dotfiles) - 
 - [rakshasa/bash-completion-template](https://github.com/rakshasa/bash-completion-template) - Bash completion template
 - [rakshasa/rtorrent-docker](https://github.com/rakshasa/rtorrent-docker) - Docker test environment for rTorrent
