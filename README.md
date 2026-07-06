@@ -8746,7 +8746,7 @@
 - [bakpakin/moonmint](https://github.com/bakpakin/moonmint) - A Web Framework for Lua
 - [umegaya/lua-aws](https://github.com/umegaya/lua-aws) - pure-lua implementation of aws REST APIs
 - [Fizzadar/Luapress](https://github.com/Fizzadar/Luapress) - :newspaper: Static site/blog generator written in Lua.
-- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) - killring-alike plugin for neovim and vim 8 with no default mappings
 - [svermeulen/nvim-moonmaker](https://github.com/svermeulen/nvim-moonmaker) - Moonscript plugin support for neovim
 - [maks/.textadept](https://github.com/maks/.textadept) - 
@@ -10851,6 +10851,7 @@
 - [Upcycle-Electronics/LGT8Fx-Datasheet](https://github.com/Upcycle-Electronics/LGT8Fx-Datasheet) - This is an attempt at a better detailed English translation of the Logic Green LGT8Fx Datasheet. This includes all files used to create the document. It's a work in progress.
 - [cho45/NanoVNA-manual](https://github.com/cho45/NanoVNA-manual) - 
 - [maxbrunsfeld/vim-yankstack](https://github.com/maxbrunsfeld/vim-yankstack) - A lightweight implementation of emacs's kill-ring for vim
+- [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 - [ruby/syntax_suggest](https://github.com/ruby/syntax_suggest) - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
 - [CKolkey/solargraph-syntax-suggest](https://github.com/CKolkey/solargraph-syntax-suggest) - 
@@ -11483,7 +11484,6 @@
 - [quadpixels/classic95](https://github.com/quadpixels/classic95) - Modified Classic95 Icon Theme
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Show beautiful keystrokes  & generate chat bubble widgets while typing on Linux
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
-- [Ansimorph/dotfiles](https://github.com/Ansimorph/dotfiles) - 
 - [lvim-tech/lvim-fm](https://github.com/lvim-tech/lvim-fm) - 
 - [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - The Ultimate tmux Status Bar Framework
 - [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
