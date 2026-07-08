@@ -650,7 +650,7 @@
 - [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
-- [wuweiwater/uvllhttpd](https://github.com/wuweiwater/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
+- [zenwuweix/uvllhttpd](https://github.com/zenwuweix/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -3126,7 +3126,7 @@
 - [felias-fogg/RTC_I2C](https://github.com/felias-fogg/RTC_I2C) - This is an Ardunio library implementing a unified, minimalistic interface to many I2C RTCs
 - [felias-fogg/RTCEval](https://github.com/felias-fogg/RTCEval) - A long-term experiment with thirteen different RTCs
 - [felias-fogg/SingleWireSerial](https://github.com/felias-fogg/SingleWireSerial) - Software serial library using a single line in half-duplex mode. In addition, it uses the input capture feature of timer 1 for improved accuracy.
-- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-based debugWIRE hardware-debugger
+- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-UNO-based debugWIRE hardware-debugger
 - [smaffer/vgax](https://github.com/smaffer/vgax) - VGA library for Arduino UNO
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ariskyr/Billiards_Firmware](https://github.com/ariskyr/Billiards_Firmware) - Automatic Billiards Table
@@ -5706,7 +5706,6 @@
 - [himikat123/City_ID_Finder](https://github.com/himikat123/City_ID_Finder) - City ID Finder (React Project)
 - [xjpin/raspberrypi-tm1637-4display](https://github.com/xjpin/raspberrypi-tm1637-4display) - TM1637 driver for raspberry pi in nodejs with wiring-pi
 - [romgrk/todoist.nvim](https://github.com/romgrk/todoist.nvim) - A todoist extension for neovim
-- [webduinoio/webduino-module-tm1637](https://github.com/webduinoio/webduino-module-tm1637) - 🔌 Webduino Module for TM1637
 - [gignupg/Detect-File-Encoding-And-Language](https://github.com/gignupg/Detect-File-Encoding-And-Language) - An NPM Package to detect the encoding and language of text files
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [AndronixApp/andronix-docs-next](https://github.com/AndronixApp/andronix-docs-next) - New and a more descriptive documentation for the @AndronixApp. It's build with the fast VueJS framework, NuxtJS and Tailwind CSS.
@@ -5942,7 +5941,6 @@
 - [newhouseb/onebitbt](https://github.com/newhouseb/onebitbt) - Bluetooth PHY based on one-bit input and output
 - [mobilinkd/uv-k6-digital-mod](https://github.com/mobilinkd/uv-k6-digital-mod) - UV-K6 Mods for Digital Modulation
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
-- [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [fastai/ghtop-demo](https://github.com/fastai/ghtop-demo) - A CLI tool for showing GitHub events, written with Rich
 - [medwatt/Notes](https://github.com/medwatt/Notes) - 
 - [soumith/cvpr2015](https://github.com/soumith/cvpr2015) - 
@@ -8655,6 +8653,7 @@
 - [zinovyev/lugate](https://github.com/zinovyev/lugate) - Lua module for building JSON-RPC 2.0 Gateway APIs just inside of your Nginx
 - [endowdly/Grafx2LuaScripts](https://github.com/endowdly/Grafx2LuaScripts) - Just some scripts to use in Grafx2's Brush Factory
 - [marcoonroad/moonforth](https://github.com/marcoonroad/moonforth) - My own Forth dialect on top of the Lua programming language. [Work in Progress]
+- [cc-hng/vimrc](https://github.com/cc-hng/vimrc) - my neovim config
 - [ignacio/LuaNode](https://github.com/ignacio/LuaNode) - Asynchronous I/O for Lua
 - [stevedonovan/LuaMacro](https://github.com/stevedonovan/LuaMacro) - An extended Lua macro preprocessor
 - [stevedonovan/Microlight](https://github.com/stevedonovan/Microlight) - A little library of useful Lua functions, intended as the 'light' version of Penlight
@@ -10285,6 +10284,7 @@
 - [tqdm/shtab](https://github.com/tqdm/shtab) - ↔️ Automagic shell tab completion for Python CLI applications
 - [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Official Python command-line client for tldr pages 🐍.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
+- [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [nat/ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [python-lsp/cookiecutter-pylsp-plugin](https://github.com/python-lsp/cookiecutter-pylsp-plugin) - Cookiecutter template for creating a 3rd party python-lsp-server plugin
 - [dveselov/python-yandex-translate](https://github.com/dveselov/python-yandex-translate) - Python module for Yandex.Translate API
@@ -13265,7 +13265,6 @@
 - [zzzachzzz/dotfiles](https://github.com/zzzachzzz/dotfiles) - Dotfiles for Vim, Tmux, Zsh, VSCode, Sublime
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
 - [ptzz/lf.vim](https://github.com/ptzz/lf.vim) - Lf integration in vim and neovim
-- [cc-hng/vimrc](https://github.com/cc-hng/vimrc) - my neovim config
 - [blobject/cemant](https://github.com/blobject/cemant) - gray terminal color scheme
 - [caksoylar/vim-mysticaltutor](https://github.com/caksoylar/vim-mysticaltutor) - Low-contrast flat colorscheme for Vim and terminals
 - [roxma/vim-tmux-clipboard](https://github.com/roxma/vim-tmux-clipboard) - seamless integration for vim and tmux's clipboard
