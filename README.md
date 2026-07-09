@@ -6082,13 +6082,12 @@
 - [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly.
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) - Populate diagnostics for all projects files across the workspace
-- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - Neovim, ZSH, Kitty, and everything else I can't live without
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) - A semi-useful, pseudo-pedagogical neovim plugin using treesitter for C++ actions
 - [luadch/scripts](https://github.com/luadch/scripts) - Collection of additional Luadch scripts
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
-- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - [mirror of git.barrettruth.com/barrettruth/blink-cmp-tmux] Tmux command completion source for blink.cmp
+- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - [mirror of forge.barrettruth.com/barrettruth/blink-cmp-tmux] Tmux command completion source for blink.cmp
 - [dynamotn/blink-cmp-zellij](https://github.com/dynamotn/blink-cmp-zellij) - Completion source from zellij for blink.cmp
 - [L3MON4D3/luals-mdgen](https://github.com/L3MON4D3/luals-mdgen) - Generate documentation in markdown from LuaCATS-annotations
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
@@ -9179,7 +9178,7 @@
 - [skuep/Quansheng-Charger-USB-Mod](https://github.com/skuep/Quansheng-Charger-USB-Mod) - 
 - [skuep/Mobile-Whip](https://github.com/skuep/Mobile-Whip) - A Mini-Whip clone capable of lower supply voltages or battery powered
 - [xorg62/tty-fifteen](https://github.com/xorg62/tty-fifteen) - A fifteen puzzle game in ncurses.
-- [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
+- [pedramamini/awesome-yara](https://github.com/pedramamini/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
 - [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Overview of the current ESP32 models  (ESP32, S2, S3, C3, C2, C5, C6, C61, H2, H4, P4) based on the official data sheets from Espressif (as of September 2025)
 - [rtorrent-community/rtorrent-community.github.io](https://github.com/rtorrent-community/rtorrent-community.github.io) - rTorrent Community Wiki and GH Pages Repository
@@ -11250,6 +11249,7 @@
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [ToxicFrog/mkrescue](https://github.com/ToxicFrog/mkrescue) - Script to build bootable rescue USB sticks
 - [ToxicFrog/hypatian-prompt](https://github.com/ToxicFrog/hypatian-prompt) - ZSH for prompt using asynchronous subprocesses to fetch DVCS data.
+- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - my .config/
 - [sidprice/EBlink](https://github.com/sidprice/EBlink) - ARM Cortex-M GDB server with device squirrel scripting  support
 - [embeddedartistry/cmake-project-skeleton](https://github.com/embeddedartistry/cmake-project-skeleton) - Reusable project skeleton for embedded C & C++ projects using CMake.
 - [txurtxil/termux-ia-local](https://github.com/txurtxil/termux-ia-local) - 
