@@ -1944,6 +1944,7 @@
 
 ## C++ 
 
+- [shundhammer/myrlyn](https://github.com/shundhammer/myrlyn) - Myrlyn package manager GUI for Linux
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [yellobyte/LED-Strip-Light-Organ](https://github.com/yellobyte/LED-Strip-Light-Organ) - 3 Channel Light (Color) Organ for LED Strips (with Arduino Nano)
 - [yellobyte/Swiss-Style-Doorbell](https://github.com/yellobyte/Swiss-Style-Doorbell) - A unique and extraordinary doorbell in typical swiss style.
@@ -5635,6 +5636,7 @@
 
 ## JavaScript 
 
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [nextcloud/talk-desktop](https://github.com/nextcloud/talk-desktop) - Nextcloud Talk Desktop client
 - [wroyca/dotfiles](https://github.com/wroyca/dotfiles) - My dotfiles, managed with chezmoi.
 - [MeanderingProgrammer/tree-sitter-srt](https://github.com/MeanderingProgrammer/tree-sitter-srt) - SubRip Subtitle grammar for tree-sitter
@@ -5938,6 +5940,7 @@
 - [radareorg/r2ai-model](https://github.com/radareorg/r2ai-model) - Dataset to train or finetune language models with knowledge about radare2
 - [jupyterlab/jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo) - Demonstrations of JupyterLab
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
+- [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
 - [newhouseb/onebitbt](https://github.com/newhouseb/onebitbt) - Bluetooth PHY based on one-bit input and output
 - [mobilinkd/uv-k6-digital-mod](https://github.com/mobilinkd/uv-k6-digital-mod) - UV-K6 Mods for Digital Modulation
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
@@ -6065,6 +6068,7 @@
 
 ## Lua 
 
+- [Crysthamus/nvim-file-operations](https://github.com/Crysthamus/nvim-file-operations) - Neovim plugin that adds support for file operations using LSPs.
 - [oonamo/ef-themes.nvim](https://github.com/oonamo/ef-themes.nvim) - Colourful and legible themes for Neovim
 - [szymonwilczek/arete.nvim](https://github.com/szymonwilczek/arete.nvim) - Protesilaos GNU Emacs themes for Neovim
 - [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Embed images into any markup language, like LaTeX, Markdown or Typst
@@ -6739,7 +6743,6 @@
 - [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) - Plugin for Nvim to work with laravel projects.
 - [KostkaBrukowa/definition-or-references.nvim](https://github.com/KostkaBrukowa/definition-or-references.nvim) - 
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
-- [IlyasYOY/dotfiles](https://github.com/IlyasYOY/dotfiles) - dotfiles to rule them all!
 - [IlyasYOY/coredor.nvim](https://github.com/IlyasYOY/coredor.nvim) - Core utils for nvim
 - [IlyasYOY/git-link.nvim](https://github.com/IlyasYOY/git-link.nvim) - Plugin to generate links to Git repositories in NeoVim.
 - [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like Neovim plugin.
@@ -9020,6 +9023,7 @@
 
 ## Nix 
 
+- [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [Echinoidea/Aporetic-Nerd-Font](https://github.com/Echinoidea/Aporetic-Nerd-Font) - Nerd Font patch with glyphs of Protesilaos' Aporetic font. https://github.com/protesilaos/aporetic
 - [benlubas/neorg-interim-ls](https://github.com/benlubas/neorg-interim-ls) - Temporarily providing a limited set of LSP features to neorg
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
@@ -9921,6 +9925,7 @@
 
 ## Python 
 
+- [dybdeskarphet/niri-companion](https://github.com/dybdeskarphet/niri-companion) - 🫂 A toolkit that adds extra functionality to niri
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [jamescherti/git-commitflow](https://github.com/jamescherti/git-commitflow) - git-commitflow - Git Add, Diff, Commit, and Push Helper
 - [stm32-rs/stm32-rs](https://github.com/stm32-rs/stm32-rs) - Embedded Rust device crates for STM32 microcontrollers
@@ -10087,7 +10092,6 @@
 - [veusz/veusz](https://github.com/veusz/veusz) - Veusz scientific plotting application
 - [bmo/py-wsjtx](https://github.com/bmo/py-wsjtx) - Python library to interpret and generate UDP packets to communicate with WSJT-X
 - [kholia/py-wsjtx](https://github.com/kholia/py-wsjtx) - Python library to interpret and generate UDP packets to communicate with WSJT-X
-- [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
 - [DreamSourceLab/DSView](https://github.com/DreamSourceLab/DSView) - An open source multi-function instrument for everyone
 - [Hagtronics/SDRpp-FrequencyManager-Spreadsheet-Tool](https://github.com/Hagtronics/SDRpp-FrequencyManager-Spreadsheet-Tool) - Python script to convert Spreadsheet Frequency Lists into a Frequency Manager JSON file for SDR++
 - [HollowHunter/Arduino-Control-System](https://github.com/HollowHunter/Arduino-Control-System) - Программа на pyton, позволяющая управлять ардуиной при помощи созданного интерфейса
@@ -10172,6 +10176,7 @@
 - [altdesktop/python-dbus-next](https://github.com/altdesktop/python-dbus-next) - 🚌 The next great DBus library for Python with asyncio support
 - [altdesktop/i3-dstatus](https://github.com/altdesktop/i3-dstatus) - Another great statusline generator for i3wm
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
+- [IlyasYOY/dotfiles](https://github.com/IlyasYOY/dotfiles) - dotfiles to rule them all!
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
 - [platformio/platform-ststm32](https://github.com/platformio/platform-ststm32) - ST STM32: development platform for PlatformIO
 - [platformio/platform-espressif8266](https://github.com/platformio/platform-espressif8266) - Espressif 8266: development platform for PlatformIO
@@ -10956,6 +10961,9 @@
 
 ## Rust 
 
+- [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
+- [0xwal/niri-scripts](https://github.com/0xwal/niri-scripts) - My niri scripts to extend its functionality
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [rust-embedded/cortex-m](https://github.com/rust-embedded/cortex-m) - Low level access to Cortex-M processors
 - [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
 - [Disasm/stm32f4xx-hal](https://github.com/Disasm/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
@@ -11223,6 +11231,7 @@
 ## Scala 
 
 - [ge0rg/aprsdroid](https://github.com/ge0rg/aprsdroid) - APRSdroid - Geo-Location for Radio Amateurs
+- [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - a async http server base on libuv for Chez Scheme
 - [hkupty/nero.nvim](https://github.com/hkupty/nero.nvim) - The Neovim REPL.
 - [jonas/example-gitbook-site-with-tut](https://github.com/jonas/example-gitbook-site-with-tut) - Example GitBook sbt-site using tut
 - [gtache/intellij-lsp](https://github.com/gtache/intellij-lsp) - Plugin adding Language Server Protocol support for IntelliJ
@@ -11233,7 +11242,6 @@
 - [tjdevries/templ.nvim](https://github.com/tjdevries/templ.nvim) - go.tmpl support for @ThePrimeagen
 - [ibhagwan/ts-vimdoc.nvim](https://github.com/ibhagwan/ts-vimdoc.nvim) - 
 - [MunifTanjim/nvim-treesitter-lua](https://github.com/MunifTanjim/nvim-treesitter-lua) - Tree-sitter Lua parser integration for nvim-treesitter.
-- [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - a async http server base on libuv for Chez Scheme
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) - My personal backup of my dotfiles of Debian 10 (Buster) on ThinkPad X230 with Openbox and Aspire A514 with Fluxbox
