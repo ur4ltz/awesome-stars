@@ -324,6 +324,7 @@
 
 ## C 
 
+- [mrkusypl/uv-k5-firmware-custom](https://github.com/mrkusypl/uv-k5-firmware-custom) - fix
 - [derdacavga/DSN-Esp32C3-St7789](https://github.com/derdacavga/DSN-Esp32C3-St7789) - In this repo give it to acces full functional st7789 driver using with esp32-C3
 - [esp32-si4732/ats-nano](https://github.com/esp32-si4732/ats-nano) - ATS Mini firmware in less than 300 lines of code
 - [RadioOperator/stm32f103_DualCDC](https://github.com/RadioOperator/stm32f103_DualCDC) - 
@@ -1944,6 +1945,8 @@
 
 ## C++ 
 
+- [AnatolyNevzoroff/AMPLIFIER_BD37534FV_TDA7293](https://github.com/AnatolyNevzoroff/AMPLIFIER_BD37534FV_TDA7293) - Amplifier on Audio Processor BD37534FV running Arduino on TDA7293 chips
+- [AnatolyNevzoroff/TERMOSTAT](https://github.com/AnatolyNevzoroff/TERMOSTAT) - 
 - [shundhammer/myrlyn](https://github.com/shundhammer/myrlyn) - Myrlyn package manager GUI for Linux
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [yellobyte/LED-Strip-Light-Organ](https://github.com/yellobyte/LED-Strip-Light-Organ) - 3 Channel Light (Color) Organ for LED Strips (with Arduino Nano)
@@ -8773,7 +8776,6 @@
 - [ElPiloto/Lua-Omni-Vim-Completion](https://github.com/ElPiloto/Lua-Omni-Vim-Completion) - omni completion functionality for Vim editor
 - [rkowal/Lua-Omni-Vim-Completion](https://github.com/rkowal/Lua-Omni-Vim-Completion) - omni completion functionality for Vim editor
 - [rgieseke/textredux](https://github.com/rgieseke/textredux) - Text-based interfaces for Textadept
-- [galczo5/dotfiles](https://github.com/galczo5/dotfiles) - 
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [jesseleite/dotfiles](https://github.com/jesseleite/dotfiles) - My dotfiles 💾
 - [meric/leftry](https://github.com/meric/leftry) - Leftry - A left-recursion enabled recursive-descent parser combinator library for Lua.
@@ -10961,6 +10963,8 @@
 
 ## Rust 
 
+- [matze/zk-spaced](https://github.com/matze/zk-spaced) - Spaced repetition for zk
+- [kdl-org/kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [0xwal/niri-scripts](https://github.com/0xwal/niri-scripts) - My niri scripts to extend its functionality
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -11231,7 +11235,6 @@
 ## Scala 
 
 - [ge0rg/aprsdroid](https://github.com/ge0rg/aprsdroid) - APRSdroid - Geo-Location for Radio Amateurs
-- [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - a async http server base on libuv for Chez Scheme
 - [hkupty/nero.nvim](https://github.com/hkupty/nero.nvim) - The Neovim REPL.
 - [jonas/example-gitbook-site-with-tut](https://github.com/jonas/example-gitbook-site-with-tut) - Example GitBook sbt-site using tut
 - [gtache/intellij-lsp](https://github.com/gtache/intellij-lsp) - Plugin adding Language Server Protocol support for IntelliJ
@@ -11242,6 +11245,7 @@
 - [tjdevries/templ.nvim](https://github.com/tjdevries/templ.nvim) - go.tmpl support for @ThePrimeagen
 - [ibhagwan/ts-vimdoc.nvim](https://github.com/ibhagwan/ts-vimdoc.nvim) - 
 - [MunifTanjim/nvim-treesitter-lua](https://github.com/MunifTanjim/nvim-treesitter-lua) - Tree-sitter Lua parser integration for nvim-treesitter.
+- [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - a async http server base on libuv for Chez Scheme
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) - My personal backup of my dotfiles of Debian 10 (Buster) on ThinkPad X230 with Openbox and Aspire A514 with Fluxbox
@@ -12092,6 +12096,7 @@
 - [stark/siji](https://github.com/stark/siji) - An iconic bitmap font based on Stlarch with additional glyphs.
 - [seagle0128/dotfiles](https://github.com/seagle0128/dotfiles) - Centaur Dotfiles - Full and clean configurations for development environment on GNU Linux, macOS and Cygwin
 - [chros73/rtorrent-ps-ch_setup](https://github.com/chros73/rtorrent-ps-ch_setup) - Advanced rTorrent-PS-CH setup
+- [galczo5/dotfiles](https://github.com/galczo5/dotfiles) - 
 - [huntie/dotfiles](https://github.com/huntie/dotfiles) - Personal OS and Unix tool configuration
 - [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [whatyouhide/gotham-contrib](https://github.com/whatyouhide/gotham-contrib) - Ports of the Gotham colorscheme for common editors and terminal emulators 🌃
