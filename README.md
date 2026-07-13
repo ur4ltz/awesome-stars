@@ -7974,7 +7974,6 @@
 - [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) - This neovim plugin creates missing folders on save.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
 - [pocco81/dap-buddy.nvim](https://github.com/pocco81/dap-buddy.nvim) - 🐞 Debug Adapter Protocol manager for Neovim
-- [RRethy/dotfiles](https://github.com/RRethy/dotfiles) - My dotfiles: neovim, git, zsh, kitty
 - [matbme/JABS.nvim](https://github.com/matbme/JABS.nvim) - Just Another Buffer Switcher for Neovim
 - [sumneko/lua-glob](https://github.com/sumneko/lua-glob) - 
 - [winston0410/commented.nvim](https://github.com/winston0410/commented.nvim) - Neovim commenting plugin in Lua. Support operator, motions and more than 60 languages! :fire:
@@ -9186,7 +9185,7 @@
 - [xorg62/tty-fifteen](https://github.com/xorg62/tty-fifteen) - A fifteen puzzle game in ncurses.
 - [pedramamini/awesome-yara](https://github.com/pedramamini/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
-- [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Overview of the current ESP32 models  (ESP32, S2, S3, C3, C2, C5, C6, C61, H2, H4, P4) based on the official data sheets from Espressif (as of September 2025)
+- [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Overview of the current ESP32 models  ((ESP32, S2, S3, C3, C2, C5, C6, C61, H2, H4, P4, E22, H21, S31) based on the official data sheets from Espressif (as of July 2026)
 - [rtorrent-community/rtorrent-community.github.io](https://github.com/rtorrent-community/rtorrent-community.github.io) - rTorrent Community Wiki and GH Pages Repository
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
 - [insipx/kak-crosshairs](https://github.com/insipx/kak-crosshairs) - Highlight the current column/line when editing in Kakoune
@@ -11694,6 +11693,7 @@
 - [kipcd/dotfiles](https://github.com/kipcd/dotfiles) - My dotfiles managed with Stow
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
 - [rbenv/rbenv-installer](https://github.com/rbenv/rbenv-installer) - Installer and doctor scripts for rbenv
+- [RRethy/dotfiles](https://github.com/RRethy/dotfiles) - My dotfiles: neovim, git, zsh, kitty
 - [arks22/tmuximum](https://github.com/arks22/tmuximum) - A command support tmux
 - [chitoku-k/fzf-zsh-completions](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for fzf and Zsh (git, kubectl, docker, ...)
 - [yuki-yano/fzf-preview.zsh](https://github.com/yuki-yano/fzf-preview.zsh) - 
