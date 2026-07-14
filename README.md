@@ -2404,7 +2404,6 @@
 - [w1hkj/flmsg](https://github.com/w1hkj/flmsg) - Ham standard message generator [SF mirror]
 - [w1hkj/flrig](https://github.com/w1hkj/flrig) - amateur radio transceiver control application [SF mirror]
 - [aschermann/FT857d](https://github.com/aschermann/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
-- [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - SDR transceiver using GNU Radio
 - [miek/inspectrum](https://github.com/miek/inspectrum) - Radio signal analyser
 - [coolacid/FT857d](https://github.com/coolacid/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
 - [aa2mz/FT857d](https://github.com/aa2mz/FT857d) - CAT support for Arduino, simulating a Yaesu FT-857D
@@ -5728,7 +5727,7 @@
 - [rest-nvim/tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - HTTP grammar for tree-sitter
 - [EvandroLG/luaDoc](https://github.com/EvandroLG/luaDoc) - In development
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [imsky/github-graphql-client](https://github.com/imsky/github-graphql-client) - :octocat: Node.js client for the GitHub GraphQL API with zero dependencies
