@@ -9250,7 +9250,6 @@
 - [LHunti/Quansheng-UV-Calibrations](https://github.com/LHunti/Quansheng-UV-Calibrations) - UV-K5(8) UV-5R Plus Squelch level modification
 - [tabemann/cyw43-firmware](https://github.com/tabemann/cyw43-firmware) - Infineon CYW43 firmware
 - [d3ckard/mutt_color_themes](https://github.com/d3ckard/mutt_color_themes) - Mutt 256 color themes
-- [Freed-Wu/mutt-colors-custom](https://github.com/Freed-Wu/mutt-colors-custom) - A mutt/neomutt color scheme
 - [WB2CBA/Barb-A-Watt-QRP-POWER-and-SWR-Monitor](https://github.com/WB2CBA/Barb-A-Watt-QRP-POWER-and-SWR-Monitor) - 
 - [WB2CBA/POCKET-TUNER-V1](https://github.com/WB2CBA/POCKET-TUNER-V1) - 
 - [WB2CBA/FDIM-2024-LOGIC-IC-TRANSMITTER-CHALLENGE](https://github.com/WB2CBA/FDIM-2024-LOGIC-IC-TRANSMITTER-CHALLENGE) - 
