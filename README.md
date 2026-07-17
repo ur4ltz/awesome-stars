@@ -4202,7 +4202,7 @@
 - [mrcnski/nimbus-theme](https://github.com/mrcnski/nimbus-theme) - Nimbus dark theme for Emacs. Beautiful, slightly retro, yet readable and easy on the eyes.
 - [prettier/prettier-emacs](https://github.com/prettier/prettier-emacs) - Minor mode to format code on file save
 - [pythonic-emacs/blacken](https://github.com/pythonic-emacs/blacken) - Python Black for Emacs
-- [shackra/emacs](https://github.com/shackra/emacs) - Mi configuración de GNU Emacs, usando org-mode y org-babel :)
+- [elzorrorebelde/emacs](https://github.com/elzorrorebelde/emacs) - Mi configuración de GNU Emacs, usando org-mode y org-babel :)
 - [novoid/dot-emacs](https://github.com/novoid/dot-emacs) - My GNU/Emacs configuration
 - [kubernetes-el/kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
 - [twlz0ne/nerd-fonts.el](https://github.com/twlz0ne/nerd-fonts.el) - Emacs nerd-fonts (https://github.com/ryanoasis/nerd-fonts) utilities.
@@ -10969,7 +10969,7 @@
 - [Disasm/stm32f4xx-hal](https://github.com/Disasm/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
 - [stm32-rs/synopsys-usb-otg](https://github.com/stm32-rs/synopsys-usb-otg) - usb-device implementation for Synopsys USB OTG IP cores
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
-- [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - Yet another text editor that tries to bring together the best of vim & emacs
+- [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - A modal, GPU-accelerated, plugin-first text editor in Rust
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server
 - [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
