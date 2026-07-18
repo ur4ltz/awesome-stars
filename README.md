@@ -1400,7 +1400,7 @@
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
-- [eantcal/mipos](https://github.com/eantcal/mipos) - Multum In Parvo Operating System is a cooperative multitasking RTOS designed for single-chip micro-controllers with severely limited RAM (e.g. less than 256 bytes) and ROM.
+- [eantcal/mipos](https://github.com/eantcal/mipos) - Multum In Parvo Operating System is a cooperative multitasking RTOS designed for single-chip micro-controllers with severely limited resources.
 - [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs (radios), rotators, and amplifiers.  For daily snapshots see:
 - [pixel/hexedit](https://github.com/pixel/hexedit) - View and edit files in hexadecimal or in ASCII
 - [akiyosi/vim-ergo42](https://github.com/akiyosi/vim-ergo42) - Ergo42 keymap for vim
@@ -4003,7 +4003,7 @@
 - [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
 - [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter
 - [aome510/kak.el](https://github.com/aome510/kak.el) - An attempt to port Kakoune's multiple selections into Emacs
-- [anuvyklack/hel](https://github.com/anuvyklack/hel) - Helix emulation layer for Emacs
+- [helheim-emacs/hel](https://github.com/helheim-emacs/hel) - Helix emulation layer for Emacs
 - [garymjr/.emacs.d](https://github.com/garymjr/.emacs.d) - My emacs configuration
 - [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 - [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
@@ -10575,7 +10575,7 @@
 - [jonian/python-acestream](https://github.com/jonian/python-acestream) - Python interface to interact with the AceStream Engine and the HTTP API
 - [djcode/Kodi-rTorrent-Plugin](https://github.com/djcode/Kodi-rTorrent-Plugin) - A XBMC plugin to view and control a rTorrent client.
 - [elgatito/context.elementum](https://github.com/elgatito/context.elementum) - 
-- [elgatito/script.elementum.burst](https://github.com/elgatito/script.elementum.burst) - Development of this addon has been stopped!
+- [elgatito/script.elementum.burst](https://github.com/elgatito/script.elementum.burst) - Burst addon for Elementum
 - [elgatito/plugin.video.elementum](https://github.com/elgatito/plugin.video.elementum) - Elementum add-on for Kodi.
 - [vitvly/neovimiscellany](https://github.com/vitvly/neovimiscellany) - 
 - [sleduc/weechat-xmpp](https://github.com/sleduc/weechat-xmpp) - A fork of the jabber plugin for weechat
