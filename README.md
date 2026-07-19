@@ -2682,6 +2682,7 @@
 - [CL6VHM/usdx](https://github.com/CL6VHM/usdx) - Simple and experimental (class-E driven) SSB transceiver.
 - [DinuraPasan/DOC_CAT](https://github.com/DinuraPasan/DOC_CAT) - This repository contains many optimized arduino library.
 - [k3ng/k3ng_cw_keyer](https://github.com/k3ng/k3ng_cw_keyer) - K3NG Arduino CW Keyer
+- [ok1hra/IC-705_Interface](https://github.com/ok1hra/IC-705_Interface) - ESP32 interface for IC-705
 - [UN7FGO/Arduino_ICOM_CI_V](https://github.com/UN7FGO/Arduino_ICOM_CI_V) - The program is designed to control the frequency synthesizer according to the ICOM CI-V protocol.
 - [RG22EM/Arduino_ICOM_CI_V](https://github.com/RG22EM/Arduino_ICOM_CI_V) - The program is designed to control the frequency synthesizer according to the ICOM CI-V protocol.
 - [ok1hra/band_decoder_2](https://github.com/ok1hra/band_decoder_2) - Read frequency from YAESU KENWOOD ICOM FLEX transcivers CAT, YAESU BCD and Icom ACC voltage
@@ -5421,7 +5422,6 @@
 - [pu2clr/PCF8574](https://github.com/pu2clr/PCF8574) - PCF8574 8-Bit I/O Expander
 - [oristopo/nVhelp](https://github.com/oristopo/nVhelp) - nanoVNA user documentation
 - [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension) - Source code for 2FAS Auth Browser Extension
-- [ok1hra/IC-705_Interface](https://github.com/ok1hra/IC-705_Interface) - ESP32 interface for IC-705
 - [kholia/Easy-Transceiver](https://github.com/kholia/Easy-Transceiver) - Easy Digital 'FT8' Transceiver. Easy-Transceiver v0.01.
 - [kholia/Easy-Digital-Beacons-v1](https://github.com/kholia/Easy-Digital-Beacons-v1) - A simple and easy Arduino / Pi Pico / ESP8266-powered WSPR, FT8, and FT4 beacon system which uses NTP + DS3231 RTC for timing. Super extensible! Now comes with optional GPS support.
 - [fmalpartida/New-LiquidCrystal](https://github.com/fmalpartida/New-LiquidCrystal) - Clone of the new liquid crystal library from: https://bitbucket.org/fmalpartida/new-liquidcrystal
