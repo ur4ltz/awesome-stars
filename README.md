@@ -3923,7 +3923,7 @@
 - [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A Lightweight Suite of Essential Emacs Functions
 - [jamescherti/lightemacs](https://github.com/jamescherti/lightemacs) - Lightemacs - Fast and Lightweight Emacs Framework
 - [jamescherti/inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el) - Disable the mouse in Emacs (Alternative to disable-mouse)
-- [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Easily persist and restore Emacs sessions (windows, tab-bar, file buffers, scratch, Dired, narrowing, indirect buffers/clones, Magit buffers, scratch...); a robust desktop.el replaceme
+- [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Persist and Restore Emacs sessions (buffers, windows, tab-bar, scratch, Dired, narrowing, indirect buffers/clones, Magit buffers, scratch...); a robust desktop.el replacement
 - [jamescherti/buffer-terminator.el](https://github.com/jamescherti/buffer-terminator.el) - buffer-terminator - Safely Terminate Emacs Buffers Automatically to Enhance Performance
 - [jamescherti/kirigami.el](https://github.com/jamescherti/kirigami.el) - kirigami.el, a unified method to fold and unfold text in Emacs: outline, outline-indent, org-mode, markdown-mode, gfm-mode, vdiff, hideshow, fold-this, ts-fold, treesit-fold, vimish-fold...
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
@@ -4200,7 +4200,7 @@
 - [undx/emacs.d](https://github.com/undx/emacs.d) - my emacs bare config
 - [neckoPecker/.emacs.d](https://github.com/neckoPecker/.emacs.d) - 
 - [magit/transient](https://github.com/magit/transient) - Transient commands
-- [mrcnski/nimbus-theme](https://github.com/mrcnski/nimbus-theme) - Nimbus dark theme for Emacs. Beautiful, slightly retro, yet readable and easy on the eyes.
+- [mrcnski/nimbus-theme](https://github.com/mrcnski/nimbus-theme) - [Emacs] Nimbus dark theme for Emacs. Beautiful, slightly retro, yet readable and easy on the eyes.
 - [prettier/prettier-emacs](https://github.com/prettier/prettier-emacs) - Minor mode to format code on file save
 - [pythonic-emacs/blacken](https://github.com/pythonic-emacs/blacken) - Python Black for Emacs
 - [elzorrorebelde/emacs](https://github.com/elzorrorebelde/emacs) - Mi configuración de GNU Emacs, usando org-mode y org-babel :)
@@ -10049,7 +10049,7 @@
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [blackmagic-debug/black-magic-org](https://github.com/blackmagic-debug/black-magic-org) - The Black Magic Project Website
 - [Freed-Wu/help2man](https://github.com/Freed-Wu/help2man) - Convert --help and --version to man page.
-- [Freed-Wu/autotools-language-server](https://github.com/Freed-Wu/autotools-language-server) - 🛠️ Autotools language server, support configure.ac, Makefile.am, Makefile.
+- [Freed-Wu/autotools-language-server](https://github.com/Freed-Wu/autotools-language-server) - 🛠️ Autotools language server for configure.ac
 - [Freed-Wu/bitbake-language-server](https://github.com/Freed-Wu/bitbake-language-server) - 🛠️ bitbake language server
 - [Freed-Wu/expect-language-server](https://github.com/Freed-Wu/expect-language-server) - expect language server
 - [Freed-Wu/requirements-language-server](https://github.com/Freed-Wu/requirements-language-server) - 🛠️ python's requirements.txt language server
