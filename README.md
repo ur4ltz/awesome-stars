@@ -534,6 +534,7 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [mah0x211/lua-base64mix](https://github.com/mah0x211/lua-base64mix) - base64 encode/decode module
 - [lunarmodules/luasql](https://github.com/lunarmodules/luasql) - LuaSQL is a simple interface from Lua to a DBMS.
+- [neomutt/tree-sitter-muttrc](https://github.com/neomutt/tree-sitter-muttrc) - 🌲👨 muttrc grammar for tree-sitter
 - [klange/cgiserver](https://github.com/klange/cgiserver) - A simple CGI webserver written in C with no dependencies.
 - [klange/ponyos](https://github.com/klange/ponyos) - My Little Unix: Kernels are Magic!
 - [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
@@ -5665,7 +5666,6 @@
 - [erf/vis-plugins](https://github.com/erf/vis-plugins) - A community driven list of plugins for the vis editor
 - [soundmonster/samoklava](https://github.com/soundmonster/samoklava) - Generated keyboard
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
-- [neomutt/tree-sitter-muttrc](https://github.com/neomutt/tree-sitter-muttrc) - 🌲👨 muttrc grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [OXY2DEV/tree-sitter-comment](https://github.com/OXY2DEV/tree-sitter-comment) - Tree-sitter parser for conventional comments
 - [OXY2DEV/tree-sitter-kitty](https://github.com/OXY2DEV/tree-sitter-kitty) - Tree-sitter parser for kitty.conf files
@@ -7701,7 +7701,7 @@
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [ner0-m/cmp-git](https://github.com/ner0-m/cmp-git) - Git source for nvim-cmp
 - [ner0-m/dotfiles](https://github.com/ner0-m/dotfiles) - My dotfiles
-- [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp
+- [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp/blink.cmp
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
 - [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) - The missing utf8 module for neovim Lua.
 - [fnune/dotfiles](https://github.com/fnune/dotfiles) - My dotfiles, built to work with GNU stow in a ~/.dotfiles directory
@@ -11241,7 +11241,7 @@
 - [tjdevries/templ.nvim](https://github.com/tjdevries/templ.nvim) - go.tmpl support for @ThePrimeagen
 - [ibhagwan/ts-vimdoc.nvim](https://github.com/ibhagwan/ts-vimdoc.nvim) - 
 - [MunifTanjim/nvim-treesitter-lua](https://github.com/MunifTanjim/nvim-treesitter-lua) - Tree-sitter Lua parser integration for nvim-treesitter.
-- [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - a async http server base on libuv for Chez Scheme
+- [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - A distributed, fault-tolerant, high-concurrency backend framework with continuation-based web programming and a remote retry ring, built on Chez Scheme.
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) - My personal backup of my dotfiles of Debian 10 (Buster) on ThinkPad X230 with Openbox and Aspire A514 with Fluxbox
