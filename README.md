@@ -324,6 +324,10 @@
 
 ## C 
 
+- [7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library](https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library) - 
+- [bolderflight/bme280](https://github.com/bolderflight/bme280) - Arduino and CMake library for communicating with the Bosch Sensortec BME280 environmental sensor.
+- [fagci/k1-scaner](https://github.com/fagci/k1-scaner) - 
+- [mrkusypl/uv-k1-k5v3-firmware-custom](https://github.com/mrkusypl/uv-k1-k5v3-firmware-custom) - fix
 - [mrkusypl/uv-k5-firmware-custom](https://github.com/mrkusypl/uv-k5-firmware-custom) - fix
 - [derdacavga/DSN-Esp32C3-St7789](https://github.com/derdacavga/DSN-Esp32C3-St7789) - In this repo give it to acces full functional st7789 driver using with esp32-C3
 - [esp32-si4732/ats-nano](https://github.com/esp32-si4732/ats-nano) - ATS Mini firmware in less than 300 lines of code
@@ -1946,6 +1950,19 @@
 
 ## C++ 
 
+- [janscience/ESensors](https://github.com/janscience/ESensors) - Hard- ans software of environmental sensors for Teensy
+- [finitespace/BME280](https://github.com/finitespace/BME280) - Provides an Arduino library for reading and interpreting Bosch BME280 data over I2C, SPI or Sw SPI.
+- [bonezegei/Bonezegei_LCD1602_I2C](https://github.com/bonezegei/Bonezegei_LCD1602_I2C) - HD44780 LCD connected to PCF8574 I2C
+- [paramoshkinandrew/BME280_Arduino_I2C](https://github.com/paramoshkinandrew/BME280_Arduino_I2C) - A simple library to recive data from BME280 sensor over I2C interface
+- [esicoe/BME280_LITE](https://github.com/esicoe/BME280_LITE) - Arduino library for the Bosch BME280 sensor. Supports I2C only. Available in the Arduino library manager.
+- [Natpol50/BME280_mini](https://github.com/Natpol50/BME280_mini) - A lightweight Arduino library for the Bosch BME280 environmental sensor using software I2C implementation.
+- [jvasquez05/BME280_PROAGRO](https://github.com/jvasquez05/BME280_PROAGRO) - Arduino Library for the Proagro Technology Temperature, Relative Humidity and Pressure Sensor..
+- [Zanduino/BME280](https://github.com/Zanduino/BME280) - Arduino library for the Bosch BME280 Temperature / Humidity / Pressure sensor
+- [PTSolns/BMx280](https://github.com/PTSolns/BMx280) - Library for BMP280 and BME280 sensor modules with emphasis on efficient single-burst reading to minimize I²C/SPI bus usage, while maintaining full compatibility with both continuous and forced-mode me
+- [BlueDot-Arduino/BlueDot_BME280](https://github.com/BlueDot-Arduino/BlueDot_BME280) - 
+- [BlueDot-Arduino/BlueDot_BME280_TSL2591](https://github.com/BlueDot-Arduino/BlueDot_BME280_TSL2591) - 
+- [malokhvii-eduard/arduino-bme280](https://github.com/malokhvii-eduard/arduino-bme280) - 💧 Arduino library for Bosch Sensortec BME280 – combined temperature, pressure, humidity sensor. The library allows using the sensor over I2C or SPI on any board that supports Arduino.
+- [fagci/rtlsdr-spectrum](https://github.com/fagci/rtlsdr-spectrum) - rtl-sdr full band 0-1800 MHz monitor
 - [AnatolyNevzoroff/AMPLIFIER_BD37534FV_TDA7293](https://github.com/AnatolyNevzoroff/AMPLIFIER_BD37534FV_TDA7293) - Amplifier on Audio Processor BD37534FV running Arduino on TDA7293 chips
 - [AnatolyNevzoroff/TERMOSTAT](https://github.com/AnatolyNevzoroff/TERMOSTAT) - 
 - [shundhammer/myrlyn](https://github.com/shundhammer/myrlyn) - Myrlyn package manager GUI for Linux
@@ -5638,6 +5655,8 @@
 
 ## JavaScript 
 
+- [py2fte/asl-svxlink-bridge](https://github.com/py2fte/asl-svxlink-bridge) - asl-svxlink-bridge
+- [armel/armel.github.io](https://github.com/armel/armel.github.io) - A personal & experimental Jekyll blog from Armel FAUVEAU.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [nextcloud/talk-desktop](https://github.com/nextcloud/talk-desktop) - Nextcloud Talk Desktop client
 - [wroyca/dotfiles](https://github.com/wroyca/dotfiles) - My dotfiles, managed with chezmoi.
@@ -9923,6 +9942,7 @@
 
 ## Python 
 
+- [DFRobot/DFRobot_BME280](https://github.com/DFRobot/DFRobot_BME280) - 
 - [dybdeskarphet/niri-companion](https://github.com/dybdeskarphet/niri-companion) - 🫂 A toolkit that adds extra functionality to niri
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [jamescherti/git-commitflow](https://github.com/jamescherti/git-commitflow) - git-commitflow - Git Add, Diff, Commit, and Push Helper
@@ -10051,7 +10071,6 @@
 - [Freed-Wu/help2man](https://github.com/Freed-Wu/help2man) - Convert --help and --version to man page.
 - [Freed-Wu/autotools-language-server](https://github.com/Freed-Wu/autotools-language-server) - 🛠️ Autotools language server for configure.ac
 - [Freed-Wu/bitbake-language-server](https://github.com/Freed-Wu/bitbake-language-server) - 🛠️ bitbake language server
-- [Freed-Wu/expect-language-server](https://github.com/Freed-Wu/expect-language-server) - expect language server
 - [Freed-Wu/requirements-language-server](https://github.com/Freed-Wu/requirements-language-server) - 🛠️ python's requirements.txt language server
 - [Freed-Wu/sublime-syntax-language-server](https://github.com/Freed-Wu/sublime-syntax-language-server) - language server and vim plugin for sublime-syntax and syntax-test.
 - [Freed-Wu/tmux-language-server](https://github.com/Freed-Wu/tmux-language-server) - 🛠️ A language server for tmux.conf
@@ -12923,7 +12942,6 @@
 - [chimay/golden-night](https://github.com/chimay/golden-night) - Golden night theme for various apps
 - [chimay/configuration](https://github.com/chimay/configuration) - Config files
 - [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
-- [atticusmatticus/nvim](https://github.com/atticusmatticus/nvim) - Neovim Dotfiles
 - [mattn/calendar-vim](https://github.com/mattn/calendar-vim) - A calendar window for Vim
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for viewing Vim and Neovim startup event timing information.
 - [dstein64/dotfiles](https://github.com/dstein64/dotfiles) - My personal dotfiles.
