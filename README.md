@@ -324,6 +324,7 @@
 
 ## C 
 
+- [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library](https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library) - 
 - [bolderflight/bme280](https://github.com/bolderflight/bme280) - Arduino and CMake library for communicating with the Bosch Sensortec BME280 environmental sensor.
 - [fagci/k1-scaner](https://github.com/fagci/k1-scaner) - 
@@ -520,7 +521,7 @@
 - [radareorg/sdb](https://github.com/radareorg/sdb) - Simple and fast string based key-value database with support for arrays and json
 - [gwsw/dm](https://github.com/gwsw/dm) - 
 - [gwsw/less](https://github.com/gwsw/less) - Less - text pager
-- [vshymanskyy/Preferences](https://github.com/vshymanskyy/Preferences) - Preferences library for Arduino, ESP8266, RP2040, Particle, Realtek Ameba
+- [vshymanskyy/Preferences](https://github.com/vshymanskyy/Preferences) - Preferences library for ESP8266, RP2040, RP2350, Particle, Wio Terminal, Realtek Ameba
 - [mmoskal/uf2-stm32f](https://github.com/mmoskal/uf2-stm32f) - UF2 bootloader  for STM32F4
 - [petrows/esp-32-tm1637-example](https://github.com/petrows/esp-32-tm1637-example) - ESP-32 IDF library for control TM1637 LCD 7-Segment display example
 - [petrows/smarthome-galoped](https://github.com/petrows/smarthome-galoped) - Simple CO2 + temperature + humidity + pressure sensor, Tasmota-ready
@@ -6719,7 +6720,7 @@
 - [ColumPaget/vnc_mgr.lua](https://github.com/ColumPaget/vnc_mgr.lua) - vnc launcher menu using zenity/qarma/yad etc
 - [ColumPaget/screenrecord.lua](https://github.com/ColumPaget/screenrecord.lua) - simple ffmpeg screenrecord tool written in lua
 - [ColumPaget/vulnvisor.lua](https://github.com/ColumPaget/vulnvisor.lua) - Pulls software vulnerabilities feeds from NIST NVD, bugtraq and securityfocus and reports those matching a keyword list to standard out, or in an email sent to a single address. Requires libUseful and
-- [ColumPaget/untappd.lua](https://github.com/ColumPaget/untappd.lua) - script to monitor beers recently reported at a list of venues via untappd.com
+- [ColumPaget/beerscan.lua](https://github.com/ColumPaget/beerscan.lua) - script to display beers registered at a list of venues via realalefinder.com or untappd.com
 - [ColumPaget/boinc_mgr.lua](https://github.com/ColumPaget/boinc_mgr.lua) - Textmode manager for boinc that allows managing projects/tasks locally, over tcp, or over ssh
 - [ColumPaget/bluetooth_mgr.lua](https://github.com/ColumPaget/bluetooth_mgr.lua) - terminal menu interface to bluetoothctl
 - [ColumPaget/alsaswitcher.lua](https://github.com/ColumPaget/alsaswitcher.lua) - Crude cli/tui/gui ALSA device switcher
@@ -9359,7 +9360,6 @@
 - [sq9nje/Si5351-Module](https://github.com/sq9nje/Si5351-Module) - EAGLE files for a simple Si5351A breakout board
 - [thinkrobotics/DATASHEET](https://github.com/thinkrobotics/DATASHEET) - Datasheets of various products on www.thinkrobotics.in
 - [prt459/VFO_Controller_for_Base_Transmitter](https://github.com/prt459/VFO_Controller_for_Base_Transmitter) - An Arduino and si5351 VFO and Controller, designed for an AM transmitter, suitable for other base transmitters/transceivers.
-- [afiskon/kicad-symbols-and-footprints](https://github.com/afiskon/kicad-symbols-and-footprints) - Custom KiCad symbols and footprints
 - [RSZ-Nld/VFO-1.8-Inch-Retro-scale](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale) - 
 - [garymcm/wsprnet_api](https://github.com/garymcm/wsprnet_api) - 
 - [Arrin-KN1E/Gpredict-TRSP-Upgrade](https://github.com/Arrin-KN1E/Gpredict-TRSP-Upgrade) - Basic upgrades to some Gpredict .trsp files, which store satellite transponder data.
