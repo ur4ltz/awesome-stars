@@ -6121,7 +6121,7 @@
 - [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
 - [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) - Reliable Neotest adapter for running Go tests in Neovim.
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [adibhanna/gruvdark.nvim](https://github.com/adibhanna/gruvdark.nvim) - Gruvdark: Neovim colorscheme
 - [ChristianChiarulli/onedark.nvim](https://github.com/ChristianChiarulli/onedark.nvim) - My take on the iconic Onedark colorscheme
 - [adibhanna/nvim-notes](https://github.com/adibhanna/nvim-notes) - Minimal Notes App for Neovim
@@ -7983,7 +7983,7 @@
 - [aserowy/neocode](https://github.com/aserowy/neocode) - Completely theme responsive, lean, streamlined lua configuration for neovim (dotfiles).
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 - [shaunsingh/solarized.nvim](https://github.com/shaunsingh/solarized.nvim) - Port of the Solarized colorscheme for vim, written in lua, with treesitter support.
-- [lvim-tech/lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme) - A Neovim colorscheme written in Lua — 12 theme families, each in soft / dark / darker / light variants — part of the lvim-tech set
+- [lvim-tech/lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme) - A Neovim colorscheme written in Lua — multiple theme families, each in soft / dark / darker / light variants — part of the lvim-tech set
 - [winston0410/better-O.nvim](https://github.com/winston0410/better-O.nvim) - A plugin that insert newline better than the default O.
 - [winston0410/smart-cursor.nvim](https://github.com/winston0410/smart-cursor.nvim) - Auto-indenting your cursor with treesitter
 - [ngscheurich/iris.nvim](https://github.com/ngscheurich/iris.nvim) - 🌈 Generate color palettes based on Neovim colorschemes.
