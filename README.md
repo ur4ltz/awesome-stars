@@ -481,7 +481,7 @@
 - [leaflabs/maple-bootloader](https://github.com/leaflabs/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
 - [WeActStudio/STM32duino-bootloader](https://github.com/WeActStudio/STM32duino-bootloader) - Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE
 - [WeActStudio/STM32_HID_Bootloader](https://github.com/WeActStudio/STM32_HID_Bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X && STM32F4 devices
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [LonelyWolf/stm32](https://github.com/LonelyWolf/stm32) - STM32 stuff
 - [cropinghigh/sdrpp-tetra-demodulator](https://github.com/cropinghigh/sdrpp-tetra-demodulator) - Tetra demodulator plugin for SDR++ (output can be fed to tetra-rx from osmo-tetra)
 - [microtechnics-main/stm32-st7735-library](https://github.com/microtechnics-main/stm32-st7735-library) - STM32 library for displays with ST7735 controller.
@@ -5008,7 +5008,6 @@
 
 ## Go 
 
-- [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
 - [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply suggestions locally
@@ -6019,6 +6018,7 @@
 
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [ankurCES/project_mythara](https://github.com/ankurCES/project_mythara) - M.Y.T.H.A.R.A — Mind Yoked Tonal Haptic Adaptive Resonant Assistant. Open-source agentic AI Android OS layer. Local-first, private-by-construction, BYO-model alternative to Android 17 / Aluminium OS G
+- [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [quintinfsmith/pagan](https://github.com/quintinfsmith/pagan) - A music sequencer for android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -7114,7 +7114,7 @@
 - [smolck/command-completion.nvim](https://github.com/smolck/command-completion.nvim) - 
 - [famiu/dot-nvim](https://github.com/famiu/dot-nvim) - 
 - [Hitesh-Aggarwal/feline_theme.nvim](https://github.com/Hitesh-Aggarwal/feline_theme.nvim) - Feline configuration that picks colors from your current colorscheme.
-- [GnikDroy/projections.nvim](https://github.com/GnikDroy/projections.nvim) - A map to your filesystem
+- [GnikDroy/projections.nvim](https://github.com/GnikDroy/projections.nvim) - A map to your filesystem. A Neovim plugin for fast session switching and project discovery.
 - [MikaelElkiaer/reprosjession.nvim](https://github.com/MikaelElkiaer/reprosjession.nvim) - 
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
