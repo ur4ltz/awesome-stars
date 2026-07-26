@@ -4021,7 +4021,7 @@
 - [jsigman/emacs-config](https://github.com/jsigman/emacs-config) - For tracking and sharing my emacs configuration
 - [dorneanu/dotfiles](https://github.com/dorneanu/dotfiles) - Dotfiles management using chezmoi
 - [rememberYou/.emacs.d](https://github.com/rememberYou/.emacs.d) - 🎉 Personal GNU Emacs configuration
-- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter
+- [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 - [aome510/kak.el](https://github.com/aome510/kak.el) - An attempt to port Kakoune's multiple selections into Emacs
 - [helheim-emacs/hel](https://github.com/helheim-emacs/hel) - Helix emulation layer for Emacs
 - [garymjr/.emacs.d](https://github.com/garymjr/.emacs.d) - My emacs configuration
@@ -4664,7 +4664,6 @@
 - [ianyepan/yay-evil-emacs](https://github.com/ianyepan/yay-evil-emacs) - 😈 A lightweight literate Emacs config with even better "better defaults". Shipped with a custom theme!
 - [SebastianMeisel/journalctl-mode](https://github.com/SebastianMeisel/journalctl-mode) - Major mode to view journalctl's output in Emacs
 - [ubolonton/.emacs.d](https://github.com/ubolonton/.emacs.d) - My emacs config
-- [cadadr/configuration](https://github.com/cadadr/configuration) - My configs: OS setups, dotfiles, scripts and more.
 - [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Emacs Lisp bindings for tree-sitter
 - [dandavison/emacs-config](https://github.com/dandavison/emacs-config) - My emacs config
 - [Ruin0x11/emacs.d](https://github.com/Ruin0x11/emacs.d) - emacs dotfiles
@@ -5655,6 +5654,7 @@
 
 ## JavaScript 
 
+- [Matthew-Oduamafu/stm32-svd-downloader](https://github.com/Matthew-Oduamafu/stm32-svd-downloader) - VS code extension to download STM32 SVD
 - [py2fte/asl-svxlink-bridge](https://github.com/py2fte/asl-svxlink-bridge) - asl-svxlink-bridge
 - [armel/armel.github.io](https://github.com/armel/armel.github.io) - A personal & experimental Jekyll blog from Armel FAUVEAU.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
@@ -6116,7 +6116,7 @@
 - [dynamotn/blink-cmp-zellij](https://github.com/dynamotn/blink-cmp-zellij) - Completion source from zellij for blink.cmp
 - [L3MON4D3/luals-mdgen](https://github.com/L3MON4D3/luals-mdgen) - Generate documentation in markdown from LuaCATS-annotations
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
-- [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - 
+- [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) - Neovim plugin for IWE — markdown notes with LSP: search, backlinks, extract/inline refactoring, knowledge-graph navigation
 - [becknik/blink-cmp-luasnip-choice](https://github.com/becknik/blink-cmp-luasnip-choice) - Luasnip choice node completion source for nvim-cmp
 - [t-troebst/config.nvim](https://github.com/t-troebst/config.nvim) - My neovim configuration
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs from within Neovim
@@ -9942,6 +9942,7 @@
 
 ## Python 
 
+- [cshoangdat/kicad-happy](https://github.com/cshoangdat/kicad-happy) - AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source 
 - [DFRobot/DFRobot_BME280](https://github.com/DFRobot/DFRobot_BME280) - 
 - [dybdeskarphet/niri-companion](https://github.com/dybdeskarphet/niri-companion) - 🫂 A toolkit that adds extra functionality to niri
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
@@ -11006,7 +11007,7 @@
 - [pierrechevalier83/effortless](https://github.com/pierrechevalier83/effortless) - A 3d printed split keyboard (3x5+2) that feels really good and takes minimal effort to print/assemble
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
@@ -12236,6 +12237,7 @@
 
 ## TypeScript 
 
+- [LUXUFENG/stm32-vscode-extension](https://github.com/LUXUFENG/stm32-vscode-extension) - STM32单片机开发vscode插件
 - [aj3423/spam_db_solana](https://github.com/aj3423/spam_db_solana) - A spam number database on Solana blockchain
 - [WebFreak001/code-debug](https://github.com/WebFreak001/code-debug) - Native debugging for VSCode
 - [mcu-debug/rtos-views](https://github.com/mcu-debug/rtos-views) - RTOS views for microcontrollers
