@@ -7102,7 +7102,7 @@
 - [cbochs/portal.nvim](https://github.com/cbochs/portal.nvim) - Neovim plugin for improved location list navigation
 - [brainfucksec/dotfiles](https://github.com/brainfucksec/dotfiles) - My Arch Linux dotfiles
 - [mjlbach/lsp_signature.nvim](https://github.com/mjlbach/lsp_signature.nvim) - 
-- [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) - Emacs dired like file manager for neovim
+- [x3ero0/dired.nvim](https://github.com/x3ero0/dired.nvim) - Emacs dired like file manager for neovim
 - [2hdddg/fex.nvim](https://github.com/2hdddg/fex.nvim) - Neovim file explorer based on Emacs dired plugin
 - [doums/vassal.nvim](https://github.com/doums/vassal.nvim) - Spawn external process from nvim
 - [doums/monark.nvim](https://github.com/doums/monark.nvim) - Enhances visual feedback when leaping
@@ -10194,7 +10194,6 @@
 - [altdesktop/python-dbus-next](https://github.com/altdesktop/python-dbus-next) - 🚌 The next great DBus library for Python with asyncio support
 - [altdesktop/i3-dstatus](https://github.com/altdesktop/i3-dstatus) - Another great statusline generator for i3wm
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-- [IlyasYOY/dotfiles](https://github.com/IlyasYOY/dotfiles) - dotfiles to rule them all!
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
 - [platformio/platform-ststm32](https://github.com/platformio/platform-ststm32) - ST STM32: development platform for PlatformIO
 - [platformio/platform-espressif8266](https://github.com/platformio/platform-espressif8266) - Espressif 8266: development platform for PlatformIO
@@ -11515,6 +11514,7 @@
 - [lvim-tech/lvim-fm](https://github.com/lvim-tech/lvim-fm) - 
 - [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - The Ultimate tmux Status Bar Framework
 - [dvmfa90/tmux-scripts](https://github.com/dvmfa90/tmux-scripts) - 
+- [IlyasYOY/dotfiles](https://github.com/IlyasYOY/dotfiles) - dotfiles to rule them all!
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [pavelmc/amake](https://github.com/pavelmc/amake) - A very simple Arduino command line interface for linux
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -11928,7 +11928,7 @@
 - [jizcu/dotfiles-red](https://github.com/jizcu/dotfiles-red) - Dotfiles
 - [Username77177/KaliScripts](https://github.com/Username77177/KaliScripts) - Scripts for Kali Linux.
 - [dusnm/dotfiles](https://github.com/dusnm/dotfiles) - Various configuration files
-- [vuciv/.dotfiles](https://github.com/vuciv/.dotfiles) - My workflow setup
+- [jfonsecarivera/.dotfiles](https://github.com/jfonsecarivera/.dotfiles) - My workflow setup
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [rachpt/auto-dl](https://github.com/rachpt/auto-dl) - 刷下载量提升用户等级
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
@@ -13113,8 +13113,8 @@
 - [ellysaurus/DOTFILES](https://github.com/ellysaurus/DOTFILES) - my linux dotfiles / configs
 - [pradyungn/vim.orion](https://github.com/pradyungn/vim.orion) - An endgame neovim configuration.
 - [Iron-E/vim-tabmode](https://github.com/Iron-E/vim-tabmode) - A mode for manipulating tabs in Neo/vim.
-- [vuciv/.vim](https://github.com/vuciv/.vim) - My Vim Repository
-- [vuciv/vim-bujo](https://github.com/vuciv/vim-bujo) - A minimalist task manager for vim.
+- [jfonsecarivera/.vim](https://github.com/jfonsecarivera/.vim) - My Vim Repository
+- [jfonsecarivera/vim-bujo](https://github.com/jfonsecarivera/vim-bujo) - A minimalist task manager for vim.
 - [habamax/vim-winlayout](https://github.com/habamax/vim-winlayout) - Save and restore history of vim window layouts
 - [habamax/vim-godot](https://github.com/habamax/vim-godot) - Use vim and godot engine to make games
 - [habamax/vim-asciidoctor](https://github.com/habamax/vim-asciidoctor) - Asciidoctor plugin for Vim
