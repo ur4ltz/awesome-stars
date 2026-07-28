@@ -73,6 +73,7 @@
 - [Meson](#meson)
 - [MoonScript](#moonscript)
 - [Mustache](#mustache)
+- [NSIS](#nsis)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nu](#nu)
@@ -1835,6 +1836,7 @@
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [wahern/luaossl](https://github.com/wahern/luaossl) - Most comprehensive OpenSSL module in the Lua universe.
 - [pixeljetstream/luxinia1](https://github.com/pixeljetstream/luxinia1) - engine source code for the luxinia game engine
+- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [openresty/lua-upstream-nginx-module](https://github.com/openresty/lua-upstream-nginx-module) - Nginx C module to expose Lua API to ngx_lua for Nginx upstreams
 - [wmcbrine/PDCurses](https://github.com/wmcbrine/PDCurses) - A curses library for environments that don't fit the termcap/terminfo model.
 - [kapilratnani/DocIt](https://github.com/kapilratnani/DocIt) - A plugin for Notepad++, which aids in documentation. It generates documentation templates for functions. Supports C/CPP, Java and PHP
@@ -5707,6 +5709,7 @@
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
+- [vshymanskyy/ViperIDE](https://github.com/vshymanskyy/ViperIDE) - An innovative MicroPython / CircuitPython IDE for Web and Mobile
 - [farjs/farjs](https://github.com/farjs/farjs) - FAR.js - Cross-platform File and ARchive manager app
 - [SuperZombi/HDrezka-Helper](https://github.com/SuperZombi/HDrezka-Helper) - Downloads movies and subtitles. Supports mirrors.
 - [kpn-iot/thingsml-c-library](https://github.com/kpn-iot/thingsml-c-library) - C library for ThingsML on your device
@@ -8839,7 +8842,6 @@
 - [LuaJIT/LuaJIT-test-cleanup](https://github.com/LuaJIT/LuaJIT-test-cleanup) - Cleanup Workspace for LuaJIT tests
 - [wolfiestyle/LuaTwit](https://github.com/wolfiestyle/LuaTwit) - Lua library for accessing the Twitter REST and Streaming API v1.1
 - [wolfiestyle/oauth_light](https://github.com/wolfiestyle/oauth_light) - Minimal implementation of OAuth 1.0 in Lua.
-- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [ptrv/company-lua](https://github.com/ptrv/company-lua) - company-mode completion backend for Lua
 - [jimon/premake-ninja](https://github.com/jimon/premake-ninja) - Premake extension to support Ninja
 - [ignacio/LuaOAuth](https://github.com/ignacio/LuaOAuth) - A OAuth client library for Lua
@@ -9018,6 +9020,10 @@
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [tinted-theming/base16-i3](https://github.com/tinted-theming/base16-i3) - 
 - [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty) - Base16 for Alacritty
+
+## NSIS 
+
+- [k-takata/vim-win32-installer](https://github.com/k-takata/vim-win32-installer) - This is a workbench for the vim/vim-win32-installer project
 
 ## Nim 
 
@@ -10103,7 +10109,6 @@
 - [wemos/st7789_mpy](https://github.com/wemos/st7789_mpy) - Fast MicroPython driver for  ST7789 display module written in C
 - [jacobrosenthal/arduino-cli](https://github.com/jacobrosenthal/arduino-cli) - Arduino Build System for Sublime Text 3
 - [vshymanskyy/posix_tz_db](https://github.com/vshymanskyy/posix_tz_db) - Generates POSIX timezones strings
-- [vshymanskyy/ViperIDE](https://github.com/vshymanskyy/ViperIDE) - An innovative MicroPython / CircuitPython IDE for Web and Mobile
 - [nayarsystems/posix_tz_db](https://github.com/nayarsystems/posix_tz_db) - Generates POSIX timezones strings
 - [espressif/kicad-libraries](https://github.com/espressif/kicad-libraries) - KiCad libraries for Espressif SoCs, modules, and DevKits.
 - [loughkb/IC-7300-time-sync](https://github.com/loughkb/IC-7300-time-sync) - Python3 script to sync the radio's clock with your computer via CAT commands
@@ -10708,7 +10713,6 @@
 - [montagdude/awesome-appmenu](https://github.com/montagdude/awesome-appmenu) - Tool to create a menu of installed applications for the awesome window manager
 - [Ahed91/Mlterm-Color-Schames](https://github.com/Ahed91/Mlterm-Color-Schames) - 
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
-- [k-takata/vim-win32-installer](https://github.com/k-takata/vim-win32-installer) - This is a workbench for the vim/vim-win32-installer project
 - [fedorenchik/VimCalc3](https://github.com/fedorenchik/VimCalc3) - A Vim plugin that provides a convenient interactive calculator inside a buffer.
 - [ivanov/vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
@@ -11187,7 +11191,7 @@
 - [vv9k/rkd](https://github.com/vv9k/rkd) - Rusty keybinding daemon
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
