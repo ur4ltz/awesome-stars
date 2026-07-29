@@ -5009,6 +5009,7 @@
 
 ## Go 
 
+- [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
 - [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply suggestions locally
@@ -6021,7 +6022,6 @@
 
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [ankurCES/project_mythara](https://github.com/ankurCES/project_mythara) - M.Y.T.H.A.R.A — Mind Yoked Tonal Haptic Adaptive Resonant Assistant. Open-source agentic AI Android OS layer. Local-first, private-by-construction, BYO-model alternative to Android 17 / Aluminium OS G
-- [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [quintinfsmith/pagan](https://github.com/quintinfsmith/pagan) - A music sequencer for android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -10000,7 +10000,7 @@
 - [mhadam/clutch](https://github.com/mhadam/clutch) - Transmission RPC for Python
 - [artkeller/ESP32C3MicroHSM-DEV](https://github.com/artkeller/ESP32C3MicroHSM-DEV) - Example of the ESP32-C3 serving as a hardware security module (HSM) device. It implements basic cryptographic functions and a serial control interface.
 - [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
-- [simonc56/rtorrent-disk-checker](https://github.com/simonc56/rtorrent-disk-checker) - Python 2 & 3 Worry Free rTorrenting
+- [simonc56/rtorrent-disk-checker](https://github.com/simonc56/rtorrent-disk-checker) - automatic rtorrent disk space management tool
 - [JDRIVO/plugin.dbmc](https://github.com/JDRIVO/plugin.dbmc) - Dropbox Add-On for Kodi
 - [JDRIVO/plugin.video.gdrive](https://github.com/JDRIVO/plugin.video.gdrive) - Google Drive Kodi Add-On
 - [JDRIVO/rTorrent-Disk-Checker](https://github.com/JDRIVO/rTorrent-Disk-Checker) - rTorrent Crash Prevention
