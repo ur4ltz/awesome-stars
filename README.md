@@ -6752,7 +6752,6 @@
 - [ivan386/lua-kad](https://github.com/ivan386/lua-kad) - search files and sources in emule kad
 - [ivan386/lua-dht](https://github.com/ivan386/lua-dht) - Bittorrent DHT Tracker - local tracker for bittorent client and mainline dht client.
 - [Theo-Steiner/togglescope](https://github.com/Theo-Steiner/togglescope) - togglescope
-- [lvim-tech/lvim-forgit](https://github.com/lvim-tech/lvim-forgit) - 
 - [aaditeynair/conduct.nvim](https://github.com/aaditeynair/conduct.nvim) - A project management plugin for Neovim
 - [dawsers/edit-code-block.nvim](https://github.com/dawsers/edit-code-block.nvim) - Edit injected code blocks in another buffer
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
@@ -7345,10 +7344,7 @@
 - [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim) - 
 - [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
 - [lvim-tech/lvim-dependencies](https://github.com/lvim-tech/lvim-dependencies) - Manage project dependencies across package managers in Neovim — part of the lvim-tech set
-- [lvim-tech/lvim-kbrd](https://github.com/lvim-tech/lvim-kbrd) - 
 - [lvim-tech/lvim-move](https://github.com/lvim-tech/lvim-move) - Move lines and selections in any direction in Neovim — part of the lvim-tech set
-- [lvim-tech/lvim-winbar](https://github.com/lvim-tech/lvim-winbar) - 
-- [lvim-tech/lvim-org-utils](https://github.com/lvim-tech/lvim-org-utils) - 
 - [ggandor/leap-ast.nvim](https://github.com/ggandor/leap-ast.nvim) - Jump to, select and operate on AST nodes via the Leap interface with Treesitter (WIP)
 - [noctuid/mpv-peerflix-hook](https://github.com/noctuid/mpv-peerflix-hook) - Stream magnet links in mpv with peerflix
 - [noctuid/mpv-btfs-stream](https://github.com/noctuid/mpv-btfs-stream) - Stream torrents in mpv using btfs
@@ -7580,7 +7576,6 @@
 - [tamago324/lsp-preview-hover-doc.nvim](https://github.com/tamago324/lsp-preview-hover-doc.nvim) - textDocument/hover plugin
 - [astoff/digestif](https://github.com/astoff/digestif) - A language server for TeX and friends
 - [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [fitrh/init.nvim](https://github.com/fitrh/init.nvim) - What nvim talk about when they talk about configuration
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
@@ -7655,7 +7650,6 @@
 - [AkashKarnatak/rooter.nvim](https://github.com/AkashKarnatak/rooter.nvim) - rooter.nvim is a neovim plugin written in lua to change current working directory to project's root directory.
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.
 - [harrisoncramer/jump-tag](https://github.com/harrisoncramer/jump-tag) - Neovim plugin for jumping between HTML tags.
-- [lvim-tech/lvim-focus](https://github.com/lvim-tech/lvim-focus) - 
 - [eckon/dotfiles](https://github.com/eckon/dotfiles) - Collection of my dotfiles and custom scripts
 - [clobrano/dot](https://github.com/clobrano/dot) - Dotfiles repo
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Create key-bindings and watch them with telescope :telescope:
@@ -7964,7 +7958,6 @@
 - [mizlan/transient](https://github.com/mizlan/transient) - transient for neovim (MVP but neogit exists)
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 - [stevearc/qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim) - A collection of improvements for the quickfix buffer
-- [lvim-tech/lvim-helper](https://github.com/lvim-tech/lvim-helper) - LVIM HELPER - Neovim plugin written in Lua. Show your custom help files.
 - [stevearc/flow-coverage.nvim](https://github.com/stevearc/flow-coverage.nvim) - Neovim plugin to display flow type coverage information
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
 - [TaylorBeeston/init.vim](https://github.com/TaylorBeeston/init.vim) - 
@@ -10837,6 +10830,7 @@
 ## QML 
 
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 
 ## QMake 
 
