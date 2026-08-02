@@ -6039,7 +6039,7 @@
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [bobrofon/easysshfs](https://github.com/bobrofon/easysshfs) - SSHFS for Android
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
-- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
@@ -11477,6 +11477,7 @@
 - [paysonwallach/fish-you-should-use](https://github.com/paysonwallach/fish-you-should-use) - A fish plugin that reminds you to use your aliases.
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [ayufan-rock64/linux-build](https://github.com/ayufan-rock64/linux-build) - Rock64 Linux build scripts, tools and instructions
+- [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - 🩳 My personal dotfiles
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf
 - [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [cehoffman/luaenv](https://github.com/cehoffman/luaenv) - Groom your app's Lua environment
@@ -11985,7 +11986,7 @@
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
-- [evanthegrayt/yadem](https://github.com/evanthegrayt/yadem) - 🕴 Yet Another Dotfile and Environment Manager
+- [evanthegrayt/yadem](https://github.com/evanthegrayt/yadem) - 🕴 Yet Another Dotfile and Environment Manager: A framework for bootstrapping a new developer machine.
 - [damon-kwok/oh-my-env](https://github.com/damon-kwok/oh-my-env) - 🍄Oh My Env - A DevReady programming environment.
 - [divine-dotfiles/divine-dotfiles](https://github.com/divine-dotfiles/divine-dotfiles) - Divine.dotfiles: The Bash framework for dotfiles and everything Bash
 - [CodelyTV/dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
@@ -12561,7 +12562,6 @@
 - [yasuhiroki/github-actions-yaml.vim](https://github.com/yasuhiroki/github-actions-yaml.vim) - Vim plugin for GitHub Actions (yaml file)
 - [itchyny/vim-tmpbuffer](https://github.com/itchyny/vim-tmpbuffer) - Execute commands and print the result in a temporal buffer
 - [itchyny/vim-increx](https://github.com/itchyny/vim-increx) - Extra increments (yet another alternative for switch.vim, vim-toggle and vim-cycle)
-- [Freed-Wu/xilinx-language-server](https://github.com/Freed-Wu/xilinx-language-server) - language server and vim plugin for xilinx vivado and vitis
 - [lilydjwg/colorizer](https://github.com/lilydjwg/colorizer) - A Vim plugin to colorize all text in the form #rrggbb or #rgb.
 - [fladson/vim-kitty](https://github.com/fladson/vim-kitty) - Vim syntax highlighting for Kitty terminal config files
 - [zhenyangze/vim-bitoai](https://github.com/zhenyangze/vim-bitoai) - Use Bito CLI in vim and neovim
@@ -12569,7 +12569,6 @@
 - [andykog/fern-copynode.vim](https://github.com/andykog/fern-copynode.vim) - 🌿 fern.vim plugin to copy the selected node's name/path into the system clipboard
 - [andykog/fern-search.vim](https://github.com/andykog/fern-search.vim) - 🌿 fern.vim plugin for full-text search/replacement using Ack
 - [andykog/fern-bookmarks.vim](https://github.com/andykog/fern-bookmarks.vim) - 🌿 fern.vim simple bookmarks plugin
-- [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - 🩳 My personal dotfiles
 - [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim) - An extensible & universal comment vim-plugin that also handles embedded filetypes
 - [lacygoill/vim9-syntax](https://github.com/lacygoill/vim9-syntax) - 
 - [yegappan/searchcomplete](https://github.com/yegappan/searchcomplete) - Vim plugin to complete words in the search command line
