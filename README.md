@@ -325,6 +325,7 @@
 
 ## C 
 
+- [RadioOperator/STM32F103C8T6_CMSIS-DAP_SWO](https://github.com/RadioOperator/STM32F103C8T6_CMSIS-DAP_SWO) - CMSIS-DAP SWO CDC STM32F103C8T6 BluePill STLINK ARM Debugger
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library](https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library) - 
 - [bolderflight/bme280](https://github.com/bolderflight/bme280) - Arduino and CMake library for communicating with the Bosch Sensortec BME280 environmental sensor.
@@ -2703,7 +2704,7 @@
 - [CL6VHM/usdx](https://github.com/CL6VHM/usdx) - Simple and experimental (class-E driven) SSB transceiver.
 - [DinuraPasan/DOC_CAT](https://github.com/DinuraPasan/DOC_CAT) - This repository contains many optimized arduino library.
 - [k3ng/k3ng_cw_keyer](https://github.com/k3ng/k3ng_cw_keyer) - K3NG Arduino CW Keyer
-- [ok1hra/IC-705_Interface](https://github.com/ok1hra/IC-705_Interface) - ESP32 interface for IC-705
+- [ok1hra/wifilt](https://github.com/ok1hra/wifilt) - Web interface for Icom LAN transceivers
 - [UN7FGO/Arduino_ICOM_CI_V](https://github.com/UN7FGO/Arduino_ICOM_CI_V) - The program is designed to control the frequency synthesizer according to the ICOM CI-V protocol.
 - [RG22EM/Arduino_ICOM_CI_V](https://github.com/RG22EM/Arduino_ICOM_CI_V) - The program is designed to control the frequency synthesizer according to the ICOM CI-V protocol.
 - [ok1hra/band_decoder_2](https://github.com/ok1hra/band_decoder_2) - Read frequency from YAESU KENWOOD ICOM FLEX transcivers CAT, YAESU BCD and Icom ACC voltage
@@ -6092,6 +6093,9 @@
 
 ## Lua 
 
+- [mjmjm0101/quickui.nvim](https://github.com/mjmjm0101/quickui.nvim) - Not just a UI plugin — manage the cognitive load of your own Neovim setup
+- [TKasperczyk/snacks-gallery.nvim](https://github.com/TKasperczyk/snacks-gallery.nvim) - Image/video gallery browser for Neovim using snacks.nvim
+- [mjmjm0101/snacks-picker-quickui.nvim](https://github.com/mjmjm0101/snacks-picker-quickui.nvim) - Search over structured menus defined by quickui.nvim
 - [Crysthamus/nvim-file-operations](https://github.com/Crysthamus/nvim-file-operations) - Neovim plugin that adds support for file operations using LSPs.
 - [oonamo/ef-themes.nvim](https://github.com/oonamo/ef-themes.nvim) - Colourful and legible themes for Neovim
 - [szymonwilczek/arete.nvim](https://github.com/szymonwilczek/arete.nvim) - Protesilaos GNU Emacs themes for Neovim
@@ -6107,7 +6111,7 @@
 - [ToxicFrog/luautil](https://github.com/ToxicFrog/luautil) - A convenient utility library for Lua used by some of my other projects.
 - [ToxicFrog/misc](https://github.com/ToxicFrog/misc) - Miscellaneous small tools not worth their own repository.
 - [S1ngS1ng/HammerSpoon](https://github.com/S1ngS1ng/HammerSpoon) - 😌HammerSpoon config file, 💻Window Management, 🎵VOX, VIM-binding #KillThe🐁
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly.
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) - Populate diagnostics for all projects files across the workspace
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) - A semi-useful, pseudo-pedagogical neovim plugin using treesitter for C++ actions
@@ -9117,6 +9121,10 @@
 
 ## Others 
 
+- [profdc9/STM32alt](https://github.com/profdc9/STM32alt) - STM32F103C8T6/STM32F103CBT6 Bluepill-compatible devboard with through-hole parts (mostly)
+- [profdc9/QRPAmplifier](https://github.com/profdc9/QRPAmplifier) - Layout of WA2EBY amplifier in Kicad, licensed CC-BY-SA 4.0
+- [profdc9/SuperProbe](https://github.com/profdc9/SuperProbe) - A single PCB implementation of Carlson's superprobe in Kicad
+- [profdc9/LittleDX](https://github.com/profdc9/LittleDX) - A super simple, super cheap all-mode QRP transceiver
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [protesilaos/emacs-lisp-elements](https://github.com/protesilaos/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [firmata/protocol](https://github.com/firmata/protocol) - Documentation of the Firmata protocol.
@@ -9202,7 +9210,7 @@
 - [xorg62/tty-fifteen](https://github.com/xorg62/tty-fifteen) - A fifteen puzzle game in ncurses.
 - [pedramamini/awesome-yara](https://github.com/pedramamini/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
-- [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Overview of the current ESP32 models  ((ESP32, S2, S3, C3, C2, C5, C6, C61, H2, H4, P4, E22, H21, S31) based on the official data sheets from Espressif (as of July 2026)
+- [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Datasheet-derived comparison of all 14 ESP32 SoC variants (ESP32 → S31): specs, deep sleep, security/PQC readiness, and reasoned multi-chip combinations. Community-maintained, not affiliated with Espr
 - [rtorrent-community/rtorrent-community.github.io](https://github.com/rtorrent-community/rtorrent-community.github.io) - rTorrent Community Wiki and GH Pages Repository
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
 - [insipx/kak-crosshairs](https://github.com/insipx/kak-crosshairs) - Highlight the current column/line when editing in Kakoune
@@ -11021,7 +11029,7 @@
 - [enricozb/popup.kak](https://github.com/enricozb/popup.kak) - Kakoune popup plugin
 - [ul/kak-tree](https://github.com/ul/kak-tree) - Structural selections for Kakoune
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
-- [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - Terminal-based but modern tetromino-stacking game that is customizable and cross-platform.
+- [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - Terminal-based but modern tetromino-stacking game that is customizable and cross-platform
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
