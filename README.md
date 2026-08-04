@@ -562,7 +562,6 @@
 - [gioblu/BIPLAN](https://github.com/gioblu/BIPLAN) - BIPLAN (Byte coded Interpreted Programming LANguage) is an experimental, very compact interpreted language
 - [whirleyes/mighty-1284p](https://github.com/whirleyes/mighty-1284p) - Mighty 1284P Platform for Arduino
 - [maniacbug/mighty-1284p](https://github.com/maniacbug/mighty-1284p) - Mighty 1284P Platform for Arduino
-- [osiweb/unified_retro_keyboard](https://github.com/osiweb/unified_retro_keyboard) - Project to provide keyboard replacements for various classic computers, as well as classic ASCII keyboard
 - [bozimmerman/Zimodem](https://github.com/bozimmerman/Zimodem) - ESP8266/ESP32/Arduino custom modem&lt;-&gt;internet simulator with lots of features
 - [goshante/ats20_ats_ex](https://github.com/goshante/ats20_ats_ex) - Advanced and re-imagined firmware for ATS-20 Receiver based on Si4735 (or Si4732). Прошивка с расширенным функционалом.
 - [ralphxavier/SI4735](https://github.com/ralphxavier/SI4735) - SI4735 / SI4732 Radio
@@ -720,7 +719,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [dhansel/VersaTerm](https://github.com/dhansel/VersaTerm) - A versatile DIY serial terminal
 - [RC2014Z80/picoterm](https://github.com/RC2014Z80/picoterm) - Pi Pico VGA Terminal Emulator For RC2014
-- [EremusOne/ESPectrum](https://github.com/EremusOne/ESPectrum) - A Sinclair ZX spectrum 48K, 128K, +2A, Pentagon 128, Microdigital TK90X and TK95 emulator running on the Espressif ESP32 SoC
+- [EremusOne/ESPectrum](https://github.com/EremusOne/ESPectrum) - A Sinclair ZX spectrum 48K, 128K, +2A, +3, Pentagon 128, Microdigital TK90X and TK95 emulator running on the Espressif ESP32 SoC
 - [DIYPLC/DIY_PLC](https://github.com/DIYPLC/DIY_PLC) - ПЛК с открытой документацией.
 - [FreeJoy-Team/FreeJoy](https://github.com/FreeJoy-Team/FreeJoy) - STM32F103 USB HID game device controller with flexible configuration
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
@@ -8282,7 +8281,6 @@
 - [latentflip/game-of-life-lua](https://github.com/latentflip/game-of-life-lua) - Game of life in lua
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
 - [benbrastmckie/nvim](https://github.com/benbrastmckie/nvim) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
-- [matze/configs](https://github.com/matze/configs) - Dot files
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Atom one theme
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
 - [Dipity/mt-daytime](https://github.com/Dipity/mt-daytime) - The Daytime Mod for Minetest.
@@ -8931,6 +8929,7 @@
 - [libopencm3/libopencm3-examples](https://github.com/libopencm3/libopencm3-examples) - Simple example projects showing how to use libopencm3.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
+- [osiweb/unified_retro_keyboard](https://github.com/osiweb/unified_retro_keyboard) - Project to provide keyboard replacements for various classic computers, as well as classic ASCII keyboard
 - [riscv-non-isa/riscv-asm-manual](https://github.com/riscv-non-isa/riscv-asm-manual) - RISC-V Assembly Programmer's Manual
 - [Z80-Retro/Z80-Retro-Manual](https://github.com/Z80-Retro/Z80-Retro-Manual) - 
 - [stm32duino/BoardManagerFiles](https://github.com/stm32duino/BoardManagerFiles) - Storage for Arduino Board Manager JSON and package files etc
@@ -11800,6 +11799,7 @@
 - [mrossinek/dotfiles](https://github.com/mrossinek/dotfiles) - My dotfiles
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
+- [matze/configs](https://github.com/matze/configs) - Dot files
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
 - [anott03/nvim-lspinstall-scripts](https://github.com/anott03/nvim-lspinstall-scripts) - The scripts used by anott03/nvim-lspinstall
 - [erictleung/dotfiles](https://github.com/erictleung/dotfiles) - :wrench: A repository of my dotfiles to setup my development environments
