@@ -5827,7 +5827,6 @@
 - [voronianski/oceanic-next-color-scheme](https://github.com/voronianski/oceanic-next-color-scheme) - :triangular_ruler: Sublime Text color scheme ready for next generation JavaScript syntax
 - [skeeto/lorenz-webgl](https://github.com/skeeto/lorenz-webgl) - Lorenz System WebGL
 - [ilyabirman/Jouele](https://github.com/ilyabirman/Jouele) - The best web audio player on the planet
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [freearhey/iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) - A basic IPTV playlist parser
 - [detroitenglish/iptv-checker-module](https://github.com/detroitenglish/iptv-checker-module) - Check connectivity of the IPTV channels in an .m3u playlist file
 - [freearhey/iptv-checker](https://github.com/freearhey/iptv-checker) - Node.js CLI tool for checking links in IPTV playlists
@@ -8950,7 +8949,6 @@
 - [cornerman/prompt-hjem](https://github.com/cornerman/prompt-hjem) - a zsh prompt
 - [pianocomposer321/project-template-samples](https://github.com/pianocomposer321/project-template-samples) - Sample templates for project-templates.nvim
 - [crystal-lang/crystal-book](https://github.com/crystal-lang/crystal-book) - Crystal reference with language specification, manuals and learning materials
-- [aymericbeaumet/vim-symlink](https://github.com/aymericbeaumet/vim-symlink) - :running: Automagically follow symlinks
 - [Tieske/resty-test](https://github.com/Tieske/resty-test) - A setup to quickly test OpenResty Lua code
 - [gosquared/flags](https://github.com/gosquared/flags) - GoSquared's flag icon set
 - [brow/jklp](https://github.com/brow/jklp) - A 36-key ergonomic keyboard
@@ -11614,7 +11612,7 @@
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [argosopentech/LibreTranslate-sh](https://github.com/argosopentech/LibreTranslate-sh) - Unix bindings to connect to a LibreTranslate API
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
-- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
+- [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a single, coherent theme for ls, git, grep, less and zsh
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [marlonrichert/zsh-edit](https://github.com/marlonrichert/zsh-edit) - 🛠 Better command line editing tools for Zsh
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
@@ -12398,6 +12396,7 @@
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
 - [funktechno/git-kanban-enhanced-extension](https://github.com/funktechno/git-kanban-enhanced-extension) - chrome extension to add additional kanban project planning to git hosting: github.com, gitlab.com, gitea.io, bitbucket.org
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find your next vim colorcheme.
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader) - An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
 - [Novage/wt-tracker](https://github.com/Novage/wt-tracker) - High-performance WebTorrent tracker
@@ -12896,6 +12895,7 @@
 - [aonemd/quietlight.vim](https://github.com/aonemd/quietlight.vim) - A nice light colorscheme for Vim
 - [glts/vim-magnum](https://github.com/glts/vim-magnum) - magnum.vim – Pure Vim script big integer library
 - [michaelb/vim-tips](https://github.com/michaelb/vim-tips) - Short plugin to display tips at startup
+- [aymericbeaumet/vim-symlink](https://github.com/aymericbeaumet/vim-symlink) - :running: Automagically follow symlinks
 - [faerryn/chvim](https://github.com/faerryn/chvim) - 
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [jwhite510/neovim](https://github.com/jwhite510/neovim) - Vim-fork focused on extensibility and usability
