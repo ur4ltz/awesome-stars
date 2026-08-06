@@ -5158,7 +5158,7 @@
 - [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [gennaro-tedesco/zathuraconf](https://github.com/gennaro-tedesco/zathuraconf) - Change zathura colour schemes
 - [gennaro-tedesco/stargazer](https://github.com/gennaro-tedesco/stargazer) - ⭐ github stats from the command line
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [varbhat/torpar](https://github.com/varbhat/torpar) - TUI Client for Torrent Paradise
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
@@ -12452,7 +12452,7 @@
 - [trixnz/vscode-lua](https://github.com/trixnz/vscode-lua) - Intellisense and Linting for Lua in VSCode
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
-- [ASDAlexander77/TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) - The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for LUA bytecode
+- [ASDAlexander77/TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) - The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for Lua bytecode and transpiler for Lua language
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
