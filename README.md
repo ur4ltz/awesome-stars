@@ -12411,7 +12411,7 @@
 - [Koihik/vscode-lua-format](https://github.com/Koihik/vscode-lua-format) - Reformats your Lua source code
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [silverwind/updates](https://github.com/silverwind/updates) - CLI tool to update npm, uv, cargo, go and actions dependencies
+- [silverwind/updates](https://github.com/silverwind/updates) - CLI tool to update npm, uv, cargo, go, docker and actions dependencies
 - [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
