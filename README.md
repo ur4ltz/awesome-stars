@@ -10868,7 +10868,7 @@
 - [junegunn/heytmux](https://github.com/junegunn/heytmux) - Tmux scripting made easy
 - [junegunn/everything.fzf](https://github.com/junegunn/everything.fzf) - :bagel: fzf all the things!
 - [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - 
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 - [gitlabhq/omnibus-gitlab](https://github.com/gitlabhq/omnibus-gitlab) - GitLab Omnibus Mirror | Please open new issues in our issue tracker on GitLab.com
 - [pluralsight/git-internals-pdf](https://github.com/pluralsight/git-internals-pdf) - PDF on Git Internals
 - [Upcycle-Electronics/LGT8Fx-Datasheet](https://github.com/Upcycle-Electronics/LGT8Fx-Datasheet) - This is an attempt at a better detailed English translation of the Logic Green LGT8Fx Datasheet. This includes all files used to create the document. It's a work in progress.
