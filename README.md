@@ -3711,6 +3711,7 @@
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
+- [lvim-tech/lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme) - A Neovim colorscheme written in Lua — multiple theme families, each in soft / dark / darker / light variants — part of the lvim-tech set
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 - [PossiblyAShrub/imgui-docs](https://github.com/PossiblyAShrub/imgui-docs) - Documentation for Dear ImGui
 - [e-cal/dotfiles-old](https://github.com/e-cal/dotfiles-old) - Arch, xmonad, polybar, alacritty, rofi, fish, neovim, useful custom scripts, and more.
@@ -7981,7 +7982,6 @@
 - [aserowy/neocode](https://github.com/aserowy/neocode) - Completely theme responsive, lean, streamlined lua configuration for neovim (dotfiles).
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 - [shaunsingh/solarized.nvim](https://github.com/shaunsingh/solarized.nvim) - Port of the Solarized colorscheme for vim, written in lua, with treesitter support.
-- [lvim-tech/lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme) - A Neovim colorscheme written in Lua — multiple theme families, each in soft / dark / darker / light variants — part of the lvim-tech set
 - [winston0410/better-O.nvim](https://github.com/winston0410/better-O.nvim) - A plugin that insert newline better than the default O.
 - [winston0410/smart-cursor.nvim](https://github.com/winston0410/smart-cursor.nvim) - Auto-indenting your cursor with treesitter
 - [ngscheurich/iris.nvim](https://github.com/ngscheurich/iris.nvim) - 🌈 Generate color palettes based on Neovim colorschemes.
