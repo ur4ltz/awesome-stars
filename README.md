@@ -5039,7 +5039,7 @@
 - [porla/cli](https://github.com/porla/cli) - A neat CLI for remotely managing Porla.
 - [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli) - MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 An advanced, comfortable Lua-configured (Unix/Windows) shell. 🌺
+- [sammy-ette/Hilbish](https://github.com/sammy-ette/Hilbish) - ✨🌙 A modern, advanced, comfortable Lua-configured (Unix/Windows) shell for everyone. 🌺
 - [rakshasa/rtorrent-cli](https://github.com/rakshasa/rtorrent-cli) - Dependency-Free RTorrent CLI Tool
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
@@ -9946,6 +9946,7 @@
 
 ## Python 
 
+- [techee/lsp-proxy](https://github.com/techee/lsp-proxy) - LSP proxy server allowing to run multiple LSP servers for a single programming language or to support socket-based LSP communication
 - [cshoangdat/kicad-happy](https://github.com/cshoangdat/kicad-happy) - AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source 
 - [DFRobot/DFRobot_BME280](https://github.com/DFRobot/DFRobot_BME280) - 
 - [dybdeskarphet/niri-companion](https://github.com/dybdeskarphet/niri-companion) - 🫂 A toolkit that adds extra functionality to niri
@@ -10981,6 +10982,7 @@
 
 ## Rust 
 
+- [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [matze/zk-spaced](https://github.com/matze/zk-spaced) - Spaced repetition for zk
 - [kdl-org/kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
