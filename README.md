@@ -131,6 +131,7 @@
 - [Visual Basic](#visual-basic)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
+- [Wolfram Language](#wolfram-language)
 - [Wren](#wren)
 - [XSLT](#xslt)
 - [YARA](#yara)
@@ -247,7 +248,6 @@
 - [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax
 - [nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering) - Experimentation with the TIDRADIO TD-H3
 - [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
-- [GreatCowBASIC/Demonstration_Sources](https://github.com/GreatCowBASIC/Demonstration_Sources) - GCBasic demonstrations source code
 - [f4goh/8052AH-BASIC](https://github.com/f4goh/8052AH-BASIC) - 
 - [mariusgreuel/USBasp](https://github.com/mariusgreuel/USBasp) - USBasp - USB programmer for Atmel AVR controllers with WinUSB support
 - [nerdralph/usbasp](https://github.com/nerdralph/usbasp) - usbasp improved firmware
@@ -6372,7 +6372,7 @@
 - [leomil72/treyfer-lua](https://github.com/leomil72/treyfer-lua) - Treyfer block cipher written in Lua
 - [idr4n/nvim-lua](https://github.com/idr4n/nvim-lua) - My Neovim configuration in Lua.
 - [prncss-xyz/neo-tree-zk.nvim](https://github.com/prncss-xyz/neo-tree-zk.nvim) - neo-tree source for zk-nvim
-- [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
 - [craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim) - 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [Freed-Wu/git2.nvim](https://github.com/Freed-Wu/git2.nvim) - Use luagit2 to realize a :Git in neovim
@@ -8212,7 +8212,6 @@
 - [rktjmp/lush-light-dark-example](https://github.com/rktjmp/lush-light-dark-example) - 
 - [rktjmp/lush-template](https://github.com/rktjmp/lush-template) - Starter template for https://git.io/lush.nvim
 - [savq/melange-nvim](https://github.com/savq/melange-nvim) - 🗡️ Warm color scheme for Neovim and beyond
-- [savq/dotfiles](https://github.com/savq/dotfiles) - ^\..*
 - [savq/conjure-julia](https://github.com/savq/conjure-julia) - 
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [ya2s/mackup](https://github.com/ya2s/mackup) - 
@@ -11772,6 +11771,7 @@
 - [OmarCastro/i3blocklet-pulseaudio](https://github.com/OmarCastro/i3blocklet-pulseaudio) - i3 blocket that shows that controls the volume using pulse audio
 - [fogine/rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
 - [yriveiro/zsh-files](https://github.com/yriveiro/zsh-files) - Custom ZSH configuration
+- [savq/dotfiles](https://github.com/savq/dotfiles) - ^\..*
 - [chimay/scripts](https://github.com/chimay/scripts) - Scripts & snippets
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [michaelmrose/vi3](https://github.com/michaelmrose/vi3) - vim like keybindings for i3wm
@@ -13833,6 +13833,10 @@
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
+
+## Wolfram Language 
+
+- [GreatCowBASIC/Demonstration_Sources](https://github.com/GreatCowBASIC/Demonstration_Sources) - GCBasic demonstrations source code
 
 ## Wren 
 
