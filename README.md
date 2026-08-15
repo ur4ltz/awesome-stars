@@ -1549,7 +1549,6 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [begoon/i8080-core](https://github.com/begoon/i8080-core) - Intel 8080 (KR580VM80A) microprocessor core model
 - [klad-me/RK8266](https://github.com/klad-me/RK8266) - Radio-86RK on ESP8266 emulator
-- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB device provisioning tool (RPIBOOT)
 - [dimkr/b6b](https://github.com/dimkr/b6b) - A lightweight, embeddable scripting language
 - [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
 - [drmargarido/minimize_memory](https://github.com/drmargarido/minimize_memory) - Memory Reduction Presentation and Benchmark
@@ -6093,6 +6092,8 @@
 
 ## Lua 
 
+- [smnatale/coderabbit.nvim](https://github.com/smnatale/coderabbit.nvim) - Bring free CodeRabbit AI code reviews into Neovim via the CLI
+- [smnatale/nvim_native](https://github.com/smnatale/nvim_native) - A minimal Neovim config with zero plugins - built on native 0.11+ features
 - [mjmjm0101/quickui.nvim](https://github.com/mjmjm0101/quickui.nvim) - Not just a UI plugin — manage the cognitive load of your own Neovim setup
 - [TKasperczyk/snacks-gallery.nvim](https://github.com/TKasperczyk/snacks-gallery.nvim) - Image/video gallery browser for Neovim using snacks.nvim
 - [mjmjm0101/snacks-picker-quickui.nvim](https://github.com/mjmjm0101/snacks-picker-quickui.nvim) - Search over structured menus defined by quickui.nvim
@@ -11971,6 +11972,7 @@
 - [skiselev/omega](https://github.com/skiselev/omega) - Omega Home Computer
 - [radareorg/radare2-pm](https://github.com/radareorg/radare2-pm) - Package Manager for Radare2
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB device provisioning tool (RPIBOOT)
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 - [haikuports/haikuports](https://github.com/haikuports/haikuports) - Software ports for the Haiku operating system.
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
@@ -12259,7 +12261,7 @@
 - [7bnx/Cortex-Builder](https://github.com/7bnx/Cortex-Builder) - Write, Build, Debug for ARM cortex in Visual Studio Code
 - [Acode-Foundation/acode-plugin-docs](https://github.com/Acode-Foundation/acode-plugin-docs) - Acode plugin documentation
 - [Acode-Foundation/acode-site-ui](https://github.com/Acode-Foundation/acode-site-ui) - 
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [radareorg/radare2-r2papi](https://github.com/radareorg/radare2-r2papi) - High Level API on top of the R2Pipe interface
