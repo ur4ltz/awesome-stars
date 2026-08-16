@@ -325,6 +325,10 @@
 
 ## C 
 
+- [nakhonthai/uv-k1-k5v3-firmware-aprs](https://github.com/nakhonthai/uv-k1-k5v3-firmware-aprs) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
+- [nakhonthai/M17AnalogGateway](https://github.com/nakhonthai/M17AnalogGateway) - M17 Analog Gateway by ESP32
+- [elmot/FoxilloScope](https://github.com/elmot/FoxilloScope) - Low-cost 8Mhz dual-channel 12-bit wireless oscilloscope, minimal soldering, no custom PCB, based on demo boards - STM Nucleo-G474RE & M5Stamp C3U
+- [elmot/f4-blog](https://github.com/elmot/f4-blog) - Clion + OpenOCD + My Plugin + STM32F4-Discovery example
 - [Robby69400/Sonic](https://github.com/Robby69400/Sonic) - K1 FW
 - [RadioOperator/STM32F103C8T6_CMSIS-DAP_SWO](https://github.com/RadioOperator/STM32F103C8T6_CMSIS-DAP_SWO) - CMSIS-DAP SWO CDC STM32F103C8T6 BluePill STLINK ARM Debugger
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
@@ -1953,6 +1957,7 @@
 
 ## C++ 
 
+- [elmot/picture-weather-station](https://github.com/elmot/picture-weather-station) - Picture Weather Station
 - [janscience/ESensors](https://github.com/janscience/ESensors) - Hard- ans software of environmental sensors for Teensy
 - [finitespace/BME280](https://github.com/finitespace/BME280) - Provides an Arduino library for reading and interpreting Bosch BME280 data over I2C, SPI or Sw SPI.
 - [bonezegei/Bonezegei_LCD1602_I2C](https://github.com/bonezegei/Bonezegei_LCD1602_I2C) - HD44780 LCD connected to PCF8574 I2C
@@ -2128,7 +2133,7 @@
 - [cloudree/DRAM_Tester](https://github.com/cloudree/DRAM_Tester) - 44256 / 4464 Dram Tester with Arduino
 - [baldrick1/4164-41256-DRAM-Tester](https://github.com/baldrick1/4164-41256-DRAM-Tester) - Arduino based 4164 / 41256 DRAM tester
 - [zeus074/dramtester](https://github.com/zeus074/dramtester) - Dram tester for 4116 and 4164/256
-- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera 
+- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window. Recording of audio from multiple sources is supported. With the built-in camera support, you 
 - [meshtastic/LoRaLayer2](https://github.com/meshtastic/LoRaLayer2) - Layer 2 routing protocol for LoRa connected devices
 - [sudomesh/LoRaLayer2](https://github.com/sudomesh/LoRaLayer2) - Layer 2 routing protocol for LoRa connected devices
 - [meshtastic/indicator_rp2040](https://github.com/meshtastic/indicator_rp2040) - 
@@ -9118,6 +9123,7 @@
 
 ## Others 
 
+- [hydrabus/hydranfc](https://github.com/hydrabus/hydranfc) - HydraNFC is an open source NFC (13.56MHz) Shield hardware for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing NFC h
 - [profdc9/STM32alt](https://github.com/profdc9/STM32alt) - STM32F103C8T6/STM32F103CBT6 Bluepill-compatible devboard with through-hole parts (mostly)
 - [profdc9/QRPAmplifier](https://github.com/profdc9/QRPAmplifier) - Layout of WA2EBY amplifier in Kicad, licensed CC-BY-SA 4.0
 - [profdc9/SuperProbe](https://github.com/profdc9/SuperProbe) - A single PCB implementation of Carlson's superprobe in Kicad
@@ -9946,6 +9952,7 @@
 
 ## Python 
 
+- [hydrabus/hydrafw](https://github.com/hydrabus/hydrafw) - HydraBus HydraFW official firmware for open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing for basic or advanced embedded hardware
 - [techee/lsp-proxy](https://github.com/techee/lsp-proxy) - LSP proxy server allowing to run multiple LSP servers for a single programming language or to support socket-based LSP communication
 - [cshoangdat/kicad-happy](https://github.com/cshoangdat/kicad-happy) - AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source 
 - [DFRobot/DFRobot_BME280](https://github.com/DFRobot/DFRobot_BME280) - 
@@ -10982,6 +10989,7 @@
 
 ## Rust 
 
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [matze/zk-spaced](https://github.com/matze/zk-spaced) - Spaced repetition for zk
 - [kdl-org/kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL
@@ -11366,7 +11374,7 @@
 - [cuducos/dirvenv.fish](https://github.com/cuducos/dirvenv.fish) - 🐍 Automagically activated and deactivates virtualenv in Fish
 - [MrSloth-dev/Zmux](https://github.com/MrSloth-dev/Zmux) - A script for creating and managing sessions in Tmux
 - [jakobwesthoff/tmux-from-scratch](https://github.com/jakobwesthoff/tmux-from-scratch) - A step by step example repository to get a tmux configuration up and running from scratch
-- [roosta/fif](https://github.com/roosta/fif) - 🔍 Quickly find in files using fuzzy search and context
+- [roosta/fif](https://github.com/roosta/fif) - 🔍 Quickly find in files using fuzzy search and surrounding context
 - [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) - Search your tmux scrollback buffer using fuzzy matching
 - [roosta/tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
 - [zchee/zsh-completions](https://github.com/zchee/zsh-completions) - Yet another Zsh completion definitions. Fork, fix and written by me
@@ -12247,6 +12255,7 @@
 
 ## TypeScript 
 
+- [hydrabus/hydrabus](https://github.com/hydrabus/hydrabus) - HydraBus open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing for basic or advanced embedded hardware
 - [LUXUFENG/stm32-vscode-extension](https://github.com/LUXUFENG/stm32-vscode-extension) - STM32单片机开发vscode插件
 - [aj3423/spam_db_solana](https://github.com/aj3423/spam_db_solana) - A spam number database on Solana blockchain
 - [WebFreak001/code-debug](https://github.com/WebFreak001/code-debug) - Native debugging for VSCode
