@@ -4928,7 +4928,6 @@
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
 - [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [dchinmay2/godbolt.nvim](https://github.com/dchinmay2/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~chinmay/godbolt.nvim instead
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
@@ -9213,7 +9212,6 @@
 - [xorg62/tty-fifteen](https://github.com/xorg62/tty-fifteen) - A fifteen puzzle game in ncurses.
 - [pedramamini/awesome-yara](https://github.com/pedramamini/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
-- [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Datasheet-derived comparison of all 14 ESP32 SoC variants (ESP32 → S31): specs, deep sleep, security/PQC readiness, and reasoned multi-chip combinations. Community-maintained, not affiliated with Espr
 - [rtorrent-community/rtorrent-community.github.io](https://github.com/rtorrent-community/rtorrent-community.github.io) - rTorrent Community Wiki and GH Pages Repository
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
 - [insipx/kak-crosshairs](https://github.com/insipx/kak-crosshairs) - Highlight the current column/line when editing in Kakoune
@@ -9459,6 +9457,7 @@
 - [ziontee113/yt-tutorials](https://github.com/ziontee113/yt-tutorials) - This is a repo for my Youtube tutorials
 - [joric/jorne](https://github.com/joric/jorne) - Jorne is an extended Corne keyboard with extra keys for brackets and international layouts
 - [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository.
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [esquires/neorg-gtd-project-tags](https://github.com/esquires/neorg-gtd-project-tags) - Provides a view of tasks grouped with a project tag.
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
@@ -10005,6 +10004,7 @@
 - [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) - 
 - [mhadam/clutch](https://github.com/mhadam/clutch) - Transmission RPC for Python
 - [artkeller/ESP32C3MicroHSM-DEV](https://github.com/artkeller/ESP32C3MicroHSM-DEV) - Example of the ESP32-C3 serving as a hardware security module (HSM) device. It implements basic cryptographic functions and a serial control interface.
+- [artkeller/ESP32Features](https://github.com/artkeller/ESP32Features) - Datasheet-derived comparison of all 14 ESP32 SoC variants (ESP32 → S31): specs, deep sleep, security/PQC readiness, and reasoned multi-chip combinations. Community-maintained, not affiliated with Espr
 - [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply) - Replay USB messages from Wireshark (.cap) files
 - [simonc56/rtorrent-disk-checker](https://github.com/simonc56/rtorrent-disk-checker) - automatic rtorrent disk space management tool
 - [JDRIVO/plugin.dbmc](https://github.com/JDRIVO/plugin.dbmc) - Dropbox Add-On for Kodi
