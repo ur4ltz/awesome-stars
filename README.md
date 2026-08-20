@@ -663,7 +663,7 @@
 - [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
-- [waterjoypeace/uvllhttpd](https://github.com/waterjoypeace/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
+- [eaujp/uvllhttpd](https://github.com/eaujp/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -1197,7 +1197,6 @@
 - [leafo/lua-enet](https://github.com/leafo/lua-enet) - Bindings to ENet for Lua
 - [jdryg/vg-renderer](https://github.com/jdryg/vg-renderer) - A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
 - [tronkko/dirent](https://github.com/tronkko/dirent) - C/C++ library for retrieving information on files and directories
-- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [mauke/unibilium](https://github.com/mauke/unibilium) - a terminfo parsing library
 - [neovim/unibilium](https://github.com/neovim/unibilium) - https://github.com/neovim/neovim/blob/master/MAINTAIN.md#third-party-dependencies
 - [tree-sitter-grammars/tree-sitter-hlsl](https://github.com/tree-sitter-grammars/tree-sitter-hlsl) - HLSL grammar for tree-sitter
@@ -2402,7 +2401,7 @@
 - [Naguissa/uRTCLib](https://github.com/Naguissa/uRTCLib) - Really tiny library to control RTCs on Arduino. DS1307, DS3231 and DS3232 RTCs are supported.
 - [Naguissa/uEEPROMLib](https://github.com/Naguissa/uEEPROMLib) - I2C EEPROM library. Split from uRTCLib. This library controls any I2C EEPROM, independent ones or incorporated on DS1307 or DS3231 RTCs.
 - [NT7S/MAX2681Transceiver](https://github.com/NT7S/MAX2681Transceiver) - Homebrew MAX2681 Superhet Transceiver
-- [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The OpenSource Disassembler
+- [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The Open Source Disassembler
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
 - [mcore1976/antispy-jammer](https://github.com/mcore1976/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ARDUINO module with PWM (optionally AD8933 signal generator) with output MOSFET stage (or  H-bridge+MOSFETs)  driving piezo ultrasonic trans
 - [binhbo12456/antispy-jammer](https://github.com/binhbo12456/antispy-jammer) - Simplest ultrasonic ANTISPY voice recording jammer based on ATTINY13 / ATTINY85/45/25 / ARDUINO with PAM8403 / TPA3116D2  module driving piezo ultrasonic transducers (and optionally AD8933 signal gene
@@ -3244,6 +3243,7 @@
 - [bkaradzic/bimg](https://github.com/bkaradzic/bimg) - Image library.
 - [bkaradzic/bnet](https://github.com/bkaradzic/bnet) - Message oriented networking library using TCP transport.
 - [bkaradzic/bx](https://github.com/bkaradzic/bx) - Base library used across multiple projects
+- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [BleuLlama/TM1637](https://github.com/BleuLlama/TM1637) - Arduino library for TM1637 (LED Driver)
 - [SindormirNet/SindormirSevenSegments](https://github.com/SindormirNet/SindormirSevenSegments) - Simple Seven Segments library for Arduino
 - [TinyTronics/TM1637_6D](https://github.com/TinyTronics/TM1637_6D) - Arduino library for the 6 digit TM1637 based segment displays
@@ -4503,7 +4503,6 @@
 - [linktohack/evil-space](https://github.com/linktohack/evil-space) - vim-space for evil-mode
 - [linktohack/evil-commentary](https://github.com/linktohack/evil-commentary) - Comment stuff out. A port of vim-commentary
 - [emacsmirror/git-timemachine](https://github.com/emacsmirror/git-timemachine) - Walk through git revisions of a file
-- [liguangsheng/.emacs.d](https://github.com/liguangsheng/.emacs.d) - my emacs configuration
 - [johannes-mueller/company-wordfreq.el](https://github.com/johannes-mueller/company-wordfreq.el) - A company-backend for human language texts based on word frequency dictionaries.
 - [emacscollective/borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
 - [zamansky/dot-emacs-videos-to-77](https://github.com/zamansky/dot-emacs-videos-to-77) - 
@@ -6055,7 +6054,6 @@
 - [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa) - A native Android app for Lemmy
 - [YouROK/TorrServe](https://github.com/YouROK/TorrServe) - Android client for TorrServer
 - [equeim/tremotesf-android](https://github.com/equeim/tremotesf-android) - Android remote GUI for transmission-daemon
-- [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [termux/termux-gui](https://github.com/termux/termux-gui) - A plugin for Termux to use native Android GUI components from CLI applications.
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls) - LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others
@@ -8283,7 +8281,6 @@
 - [zenith391/OCEmu](https://github.com/zenith391/OCEmu) - OpenComputers Emulator in Lua
 - [latentflip/game-of-life-lua](https://github.com/latentflip/game-of-life-lua) - Game of life in lua
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
-- [benbrastmckie/nvim](https://github.com/benbrastmckie/nvim) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Atom one theme
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
 - [Dipity/mt-daytime](https://github.com/Dipity/mt-daytime) - The Daytime Mod for Minetest.
@@ -11157,7 +11154,7 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [FredeHoey/penrose](https://github.com/FredeHoey/penrose) - my penrose configuration
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
@@ -11542,6 +11539,7 @@
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [cpea2506/dotfiles](https://github.com/cpea2506/dotfiles) - dotfiles in the pea shell.
 - [cpea2506/zcraft](https://github.com/cpea2506/zcraft) - A minimal zsh theme
+- [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [loctvl842/BeastFiles](https://github.com/loctvl842/BeastFiles) - My dotfiles
 - [cameron-wags/dmenu](https://github.com/cameron-wags/dmenu) - My fork, packaged and patched with fuzzy match
@@ -11809,6 +11807,7 @@
 - [mrossinek/dotfiles](https://github.com/mrossinek/dotfiles) - My dotfiles
 - [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
+- [benbrastmckie/nvim](https://github.com/benbrastmckie/nvim) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [matze/configs](https://github.com/matze/configs) - Dot files
 - [comfies/bed](https://github.com/comfies/bed) - bash only text editor
 - [anott03/nvim-lspinstall-scripts](https://github.com/anott03/nvim-lspinstall-scripts) - The scripts used by anott03/nvim-lspinstall
@@ -12029,7 +12028,7 @@
 - [MikaelElkiaer/dotfiles](https://github.com/MikaelElkiaer/dotfiles) - 
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [dm1try/git_fastfix](https://github.com/dm1try/git_fastfix) - fast git fixups using neovim UI
 - [jubnzv/dotfiles](https://github.com/jubnzv/dotfiles) - Personal configuration files, scripts, etc.
 - [kyazdani42/dotfiles](https://github.com/kyazdani42/dotfiles) - my dotfiles for a wayland and x11 based linux system
