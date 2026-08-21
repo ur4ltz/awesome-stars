@@ -874,6 +874,7 @@
 - [lu7did/quadrature_oscillator_pio](https://github.com/lu7did/quadrature_oscillator_pio) - 
 - [lu9da/quadrature_oscillator_pio](https://github.com/lu9da/quadrature_oscillator_pio) - 
 - [lu7did/PicoRX](https://github.com/lu7did/PicoRX) - Build a SDR SW/MW/LW Receiver with a Raspberry Pi Pico
+- [lu7did/PixiePico](https://github.com/lu7did/PixiePico) - Pixie kit based FT8 transceiver
 - [Guenael/rtlsdr-ft8d](https://github.com/Guenael/rtlsdr-ft8d) - FT8 decoder of RTL devices
 - [pavel-demin/wsprd](https://github.com/pavel-demin/wsprd) - Minimal set of files required to build the WSPR decoder by Joe Taylor, K1JT and Steve Franke, K9AN.
 - [kholia/wsprd](https://github.com/kholia/wsprd) - A portable WSPR decoder for microcontrollers and other machines! From Pavel Demin. Please see 'master' and 'main' branches, both.
@@ -6446,7 +6447,7 @@
 - [tsakirist/telescope-lazy.nvim](https://github.com/tsakirist/telescope-lazy.nvim) - Telescope extension that provides handy functionality about plugins installed via lazy.nvim
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - A hackable & fancy vimdoc/help file viewer for Neovim
 - [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) - Improved UI and workflow for the Neovim quickfix
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [nvim-mini/mini-git](https://github.com/nvim-mini/mini-git) - Git integration. Part of 'mini.nvim' library.
 - [nvim-mini/mini.icons](https://github.com/nvim-mini/mini.icons) - Icon provider. Part of 'mini.nvim' library.
 - [nvim-mini/mini.splitjoin](https://github.com/nvim-mini/mini.splitjoin) - Neovim Lua plugin to split and join arguments. Part of 'mini.nvim' library.
@@ -6781,7 +6782,7 @@
 - [evesdropper/dotfiles-p52](https://github.com/evesdropper/dotfiles-p52) - dotfiles but updated, ft LuaSnip Guide + LaTeX snippets
 - [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for ANY command 🤯. A Neovim plugin written in Lua!
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
-- [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - 📝 Neovim plugin to manage scratch files !
+- [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - Neovim plugin to manage scratch files ! 📝
 - [mfussenegger/nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) - Pickers for vim.ui.select
 - [nvim-mini/mini.colors](https://github.com/nvim-mini/mini.colors) - Tweak and save any color scheme. Part of 'mini.nvim' library.
 - [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) - A companion plugin for null-ls/none-ls, adding support for CSpell diagnostics and code actions.
@@ -9306,7 +9307,6 @@
 - [esp8266/at-command-set](https://github.com/esp8266/at-command-set) - ESP8266 AT+ Command Set
 - [VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme) - A Sublime Text color scheme based on Sarah Drasner's Night Owl VSCode theme
 - [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini) - This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
-- [lu7did/PixiePico](https://github.com/lu7did/PixiePico) - Pixie kit based FT8 transceiver
 - [kholia/HF-Balcony-Antenna-System](https://github.com/kholia/HF-Balcony-Antenna-System) - VU3CER's HF Balcony Antenna System. Freedom from HOA ;). Also a Window Antenna System (WAS)!
 - [LZ1DPN/SSBtrx-20m-Si5351](https://github.com/LZ1DPN/SSBtrx-20m-Si5351) - SSBtrx-20m-Si5351
 - [LZ1DPN/klopik-20m](https://github.com/LZ1DPN/klopik-20m) - klopik-20m
