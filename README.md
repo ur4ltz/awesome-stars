@@ -9842,7 +9842,7 @@
 - [mriscoc/uEControls](https://github.com/mriscoc/uEControls) - Open source set of instrumentation controls.
 - [synopse/mORMot](https://github.com/synopse/mORMot) - Synopse mORMot 1 ORM/SOA/MVC framework - Please upgrade to mORMot 2 !
 - [Alexey-T/EControl](https://github.com/Alexey-T/EControl) - Syntax parser from EControl SDK, ported to Lazarus
-- [synopse/mORMot2](https://github.com/synopse/mORMot2) - OpenSource RESTful ORM/SOA/MVC ToolBox for Delphi and FreePascal
+- [synopse/mORMot2](https://github.com/synopse/mORMot2) - The Ultimate OpenSource RTL / ToolBox for Delphi and FreePascal
 - [risoflora/brookfreepascal](https://github.com/risoflora/brookfreepascal) - The perfect Free Pascal framework for your web applications.
 - [risoflora/brookframework](https://github.com/risoflora/brookframework) - Microframework which helps to develop web Pascal applications.
 - [serge-404/OriZEmu](https://github.com/serge-404/OriZEmu) - Orion-128 and Orion-PRO homebrew 8-bit computer emulator
@@ -11836,7 +11836,6 @@
 - [danishprakash/dotfiles](https://github.com/danishprakash/dotfiles) - less is more
 - [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, tmux, Git and other stuff
 - [samoshkin/dotfiles](https://github.com/samoshkin/dotfiles) - System settings, configuration files and apps for MacOS. Personal setup
-- [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
 - [danielnehrig/polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
 - [chipsenkbeil/zsh-notes](https://github.com/chipsenkbeil/zsh-notes) - Plugin extracted from my zshrc to provide a quick notes editing experience in zsh.
 - [FlyingBBQ/dotfiles](https://github.com/FlyingBBQ/dotfiles) - Central repository for all my dotfiles
