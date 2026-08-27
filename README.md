@@ -51,6 +51,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [ImHex Pattern Language](#imhex-pattern-language)
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -120,7 +121,6 @@
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
-- [UnrealScript](#unrealscript)
 - [V](#v)
 - [VBA](#vba)
 - [VHDL](#vhdl)
@@ -131,7 +131,6 @@
 - [Visual Basic](#visual-basic)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
-- [Wolfram Language](#wolfram-language)
 - [Wren](#wren)
 - [XSLT](#xslt)
 - [YARA](#yara)
@@ -141,6 +140,7 @@
 - [Zig](#zig)
 - [jq](#jq)
 - [nesC](#nesc)
+- [ucode](#ucode)
 
 ## AGS Script 
 
@@ -248,6 +248,7 @@
 - [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax
 - [nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering) - Experimentation with the TIDRADIO TD-H3
 - [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
+- [GreatCowBASIC/Demonstration_Sources](https://github.com/GreatCowBASIC/Demonstration_Sources) - GCBasic demonstrations source code
 - [f4goh/8052AH-BASIC](https://github.com/f4goh/8052AH-BASIC) - 
 - [mariusgreuel/USBasp](https://github.com/mariusgreuel/USBasp) - USBasp - USB programmer for Atmel AVR controllers with WinUSB support
 - [nerdralph/usbasp](https://github.com/nerdralph/usbasp) - usbasp improved firmware
@@ -1277,7 +1278,7 @@
 - [nimaipatel/st](https://github.com/nimaipatel/st) - My build of the simple terminal
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [karlc1/dwm-karlc](https://github.com/karlc1/dwm-karlc) - 
-- [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+- [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [hollystandring/nmenu](https://github.com/hollystandring/nmenu) - A 'plug and play' menu system for ncurses with automatic sizing and centering
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [optozorax/moonlander](https://github.com/optozorax/moonlander) - My keymap for moonlander keyboard
@@ -3264,7 +3265,7 @@
 - [little-brother/attiny13-clock](https://github.com/little-brother/attiny13-clock) - ATtiny13 DS1302 TM1637 clock
 - [mibli/i3-termdialogs](https://github.com/mibli/i3-termdialogs) - Terminal based dialog utils for minimalistic setups
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
-- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [orbitalquark/scinterm](https://github.com/orbitalquark/scinterm) - Scinterm is a curses platform for Scintilla that supports ncurses, PDCurses, and X/Open Curses.
 - [RobTillaart/MultiMap](https://github.com/RobTillaart/MultiMap) - Arduino library for fast non-linear mapping or interpolation of values
@@ -5559,6 +5560,10 @@
 - [ghc/ghc](https://github.com/ghc/ghc) - Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the n
 - [Dlackware/dlackware](https://github.com/Dlackware/dlackware) - builder/installer for Projects using a compile-order
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+
+## ImHex Pattern Language 
+
+- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 
 ## Janet 
 
@@ -8719,7 +8724,6 @@
 - [lunarmodules/luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and static analysis of Lua code.
 - [pwntester/dotfiles](https://github.com/pwntester/dotfiles) - 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
-- [peterpme/dotfiles](https://github.com/peterpme/dotfiles) - ᠅ Dotfiles for zsh, tmux, fzf, neovim, git, zprezto, hammerspoon, kitty & more 🔥
 - [deoplete-plugins/deoplete-lsp](https://github.com/deoplete-plugins/deoplete-lsp) - LSP Completion source for deoplete
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
 - [actboy168/luamake](https://github.com/actboy168/luamake) - 
@@ -9047,7 +9051,7 @@
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [Echinoidea/Aporetic-Nerd-Font](https://github.com/Echinoidea/Aporetic-Nerd-Font) - Nerd Font patch with glyphs of Protesilaos' Aporetic font. https://github.com/protesilaos/aporetic
 - [benlubas/neorg-interim-ls](https://github.com/benlubas/neorg-interim-ls) - Temporarily providing a limited set of LSP features to neorg
-- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256]
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [shaunsingh/base16.nix](https://github.com/shaunsingh/base16.nix) - Simple utility to utilize base16 themes from GitHub on nix using flakes
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
@@ -10864,7 +10868,6 @@
 - [sprakashb/COLOUR-TFT-VFO-BFO-v6.2-uBitx-Bitx](https://github.com/sprakashb/COLOUR-TFT-VFO-BFO-v6.2-uBitx-Bitx) - Improved version of Colour TFT+ Touch display VFO/BFO generation for uBitx / Bitx and similar rigs
 - [kholia/pico-cw-beacon-drs](https://github.com/kholia/pico-cw-beacon-drs) - Direct-RF-Synthesis CW Beacon PoC using Raspberry Pi Pico. No Si5351 is needed. HF and VHF fox! Have fun! ;) Comes with 5W amplifier + LPF!
 - [afarhan/bitx2m](https://github.com/afarhan/bitx2m) - Documentation for the bitx2m
-- [ColumPaget/libUseful-lua](https://github.com/ColumPaget/libUseful-lua) - lua bindings for libUseful
 - [budlabs/polify](https://github.com/budlabs/polify) - Precision control for polybar modules
 - [man9ourah/long-statusline](https://github.com/man9ourah/long-statusline) - 
 
@@ -11251,6 +11254,7 @@
 ## SWIG 
 
 - [Sultan-papagani/BismuthSDR](https://github.com/Sultan-papagani/BismuthSDR) - Source files for BismuthSDR
+- [ColumPaget/libUseful-lua](https://github.com/ColumPaget/libUseful-lua) - lua bindings for libUseful
 
 ## SaltStack 
 
@@ -12444,6 +12448,7 @@
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [neoclide/coc-lists](https://github.com/neoclide/coc-lists) - Common lists for coc.nvim
 - [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
+- [peterpme/dotfiles](https://github.com/peterpme/dotfiles) - ᠅ Dotfiles for zsh, tmux, fzf, neovim, git, zprezto, hammerspoon, kitty & more 🔥
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [sourcegraph/code-intel-extensions](https://github.com/sourcegraph/code-intel-extensions) - Provides precise code intelligence via LSIF and Language Servers, and fuzzy code intelligence using ctags and text search
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -12468,10 +12473,6 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
-
-## UnrealScript 
-
-- [aredn/aredn](https://github.com/aredn/aredn) - Amateur Radio Emergency Data Network (AREDN)
 
 ## V 
 
@@ -13842,10 +13843,6 @@
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 
-## Wolfram Language 
-
-- [GreatCowBASIC/Demonstration_Sources](https://github.com/GreatCowBASIC/Demonstration_Sources) - GCBasic demonstrations source code
-
 ## Wren 
 
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
@@ -13860,7 +13857,6 @@
 ## YARA 
 
 - [InQuest/yara-rules-vt](https://github.com/InQuest/yara-rules-vt) - Collection of YARA rules designed for usage through VirusTotal.com.
-- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 
 ## YASnippet 
 
@@ -13910,6 +13906,10 @@
 ## nesC 
 
 - [k1zmt/SSB85MultiPCB](https://github.com/k1zmt/SSB85MultiPCB) - WIP! Don't try repeating!
+
+## ucode 
+
+- [aredn/aredn](https://github.com/aredn/aredn) - Amateur Radio Emergency Data Network (AREDN)
 
 
 ## License
