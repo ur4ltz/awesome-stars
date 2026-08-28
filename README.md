@@ -3456,7 +3456,7 @@
 - [MarkoPaul0/hexibit](https://github.com/MarkoPaul0/hexibit) - Linux command line tool to analyze hex data.
 - [lqt5/lqt](https://github.com/lqt5/lqt) - Lua Binding for Qt5
 - [MajicDesigns/MD_AD9833](https://github.com/MajicDesigns/MD_AD9833) - Library for using a AD9833 Programmable Waveform Generator hardware by Analog Devices.
-- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [mharjac/bad_ducky](https://github.com/mharjac/bad_ducky) - Rubber Ducky compatible clone based on CJMCU BadUSB HW.
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [andrejlevkovitch/asteroids](https://github.com/andrejlevkovitch/asteroids) - 
@@ -3699,6 +3699,7 @@
 
 ## CSS 
 
+- [STMicroelectronics/stm32-st7789h2](https://github.com/STMicroelectronics/stm32-st7789h2) - Provides the st7789h2 driver, part of the STM32Cube BSP Component for all STM32xx series.
 - [duino-coin/duco-statistics](https://github.com/duino-coin/duco-statistics) - 📃 Duino-Coin (DUCO) network statistics & explorer website
 - [STMicroelectronics/stm32-st7735](https://github.com/STMicroelectronics/stm32-st7735) - Provides the st7735 driver, part of the STM32Cube BSP Component for all STM32xx series.
 - [timkpaine/jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night
@@ -5018,7 +5019,7 @@
 - [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
-- [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - 🎻 Conduct responses to PR reviews; apply suggestions locally
+- [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - ↩ Respond to PR reviews; apply suggestions locally
 - [rizinorg/rz-pm](https://github.com/rizinorg/rz-pm) - An official Rizin package manager
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
@@ -5745,7 +5746,7 @@
 - [gignupg/Detect-File-Encoding-And-Language](https://github.com/gignupg/Detect-File-Encoding-And-Language) - An NPM Package to detect the encoding and language of text files
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [AndronixApp/andronix-docs-next](https://github.com/AndronixApp/andronix-docs-next) - New and a more descriptive documentation for the @AndronixApp. It's build with the fast VueJS framework, NuxtJS and Tailwind CSS.
-- [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
+- [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
 - [nvim-neorg/tree-sitter-norg2](https://github.com/nvim-neorg/tree-sitter-norg2) - Attempt at a second generation parser for the Norg format.
 - [gurnec/removeddit](https://github.com/gurnec/removeddit) - View deleted stuff from reddit
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
@@ -6100,6 +6101,7 @@
 
 ## Lua 
 
+- [slatbox/Cortex-Command-Scripter](https://github.com/slatbox/Cortex-Command-Scripter) - 
 - [smnatale/coderabbit.nvim](https://github.com/smnatale/coderabbit.nvim) - Bring free CodeRabbit AI code reviews into Neovim via the CLI
 - [smnatale/nvim_native](https://github.com/smnatale/nvim_native) - A minimal Neovim config with zero plugins - built on native 0.11+ features
 - [mjmjm0101/quickui.nvim](https://github.com/mjmjm0101/quickui.nvim) - Not just a UI plugin — manage the cognitive load of your own Neovim setup
@@ -7513,7 +7515,7 @@
 - [seblyng/nvim-echo-diagnostics](https://github.com/seblyng/nvim-echo-diagnostics) - Echo diagnostics from nvim-lspconfig
 - [seblyng/nvim-tabline](https://github.com/seblyng/nvim-tabline) - Tabline for neovim written in lua
 - [dchinmay2/clangd_extensions.nvim](https://github.com/dchinmay2/clangd_extensions.nvim) - Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~chinmay/clangd_extensions.nvim instead
-- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
+- [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim plugin for zk
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
 - [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -9124,6 +9126,7 @@
 
 ## Others 
 
+- [WeActStudio/WeActStudio.STM32F103RCxx](https://github.com/WeActStudio/WeActStudio.STM32F103RCxx) - We use the latest STM32F103RCT6 chip design development board; STM32F103RCT6 has a 72Mhz main frequency, 256k flash, and 48k sram.
 - [hydrabus/hydranfc](https://github.com/hydrabus/hydranfc) - HydraNFC is an open source NFC (13.56MHz) Shield hardware for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing NFC h
 - [profdc9/STM32alt](https://github.com/profdc9/STM32alt) - STM32F103C8T6/STM32F103CBT6 Bluepill-compatible devboard with through-hole parts (mostly)
 - [profdc9/QRPAmplifier](https://github.com/profdc9/QRPAmplifier) - Layout of WA2EBY amplifier in Kicad, licensed CC-BY-SA 4.0
@@ -9952,6 +9955,7 @@
 
 ## Python 
 
+- [eliben/pyelftools](https://github.com/eliben/pyelftools) - Parsing ELF and DWARF in Python
 - [hydrabus/hydrafw](https://github.com/hydrabus/hydrafw) - HydraBus HydraFW official firmware for open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing for basic or advanced embedded hardware
 - [techee/lsp-proxy](https://github.com/techee/lsp-proxy) - LSP proxy server allowing to run multiple LSP servers for a single programming language or to support socket-based LSP communication
 - [cshoangdat/kicad-happy](https://github.com/cshoangdat/kicad-happy) - AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source 
@@ -10227,9 +10231,9 @@
 - [cameron-wags/rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim) - Neovim port of mechatroner/rainbow_csv
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [mechatroner/atom-rainbow-csv](https://github.com/mechatroner/atom-rainbow-csv) - :rainbow: Atom package: Highlight CSV and TSV spreadsheet files in different rainbow colors
-- [mechatroner/RBQL](https://github.com/mechatroner/RBQL) - 🦜RBQL - Rainbow Query Language: SQL-like query engine for (not only) CSV file processing. Supports SQL queries with Python and JavaScript expressions.
-- [mechatroner/sublime_rainbow_csv](https://github.com/mechatroner/sublime_rainbow_csv) - 🌈Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queeries in SQL-like language
-- [mechatroner/rainbow_csv](https://github.com/mechatroner/rainbow_csv) - 🌈Rainbow CSV - Vim plugin: Highlight columns in CSV and TSV files and run queries in SQL-like language
+- [mechatroner/RBQL](https://github.com/mechatroner/RBQL) - RBQL - Rainbow Query Language: SQL-like query engine for (not only) CSV file processing. Supports SQL queries with Python and JavaScript expressions.
+- [mechatroner/sublime_rainbow_csv](https://github.com/mechatroner/sublime_rainbow_csv) - Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queeries in SQL-like language
+- [mechatroner/rainbow_csv](https://github.com/mechatroner/rainbow_csv) - Rainbow CSV - Vim plugin: Highlight columns in CSV and TSV files and run queries in SQL-like language
 - [linuxmint/mintstick](https://github.com/linuxmint/mintstick) - 
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [abo-abo/cook](https://github.com/abo-abo/cook) - Makefile -&gt; Cookbook.py
@@ -12256,6 +12260,8 @@
 
 ## TypeScript 
 
+- [ZEALHT001/stm32-debug-helper](https://github.com/ZEALHT001/stm32-debug-helper) - A VSCode extension for STM32 debugging. STM32调试插件，可以实现实时显示和修改全局变量。
+- [mcu-debug/peripheral-viewer](https://github.com/mcu-debug/peripheral-viewer) - Standalone Peripheral(SVD) Viewer extension extracted from cortex-debug, now works with any debugger
 - [hydrabus/hydrabus](https://github.com/hydrabus/hydrabus) - HydraBus open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing for basic or advanced embedded hardware
 - [LUXUFENG/stm32-vscode-extension](https://github.com/LUXUFENG/stm32-vscode-extension) - STM32单片机开发vscode插件
 - [aj3423/spam_db_solana](https://github.com/aj3423/spam_db_solana) - A spam number database on Solana blockchain
