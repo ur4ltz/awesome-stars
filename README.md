@@ -5668,6 +5668,7 @@
 
 ## JavaScript 
 
+- [DubsterDev/HamTest](https://github.com/DubsterDev/HamTest) - A simple, easy to use website to prepare you to take all three US amateur radio tests
 - [Matthew-Oduamafu/stm32-svd-downloader](https://github.com/Matthew-Oduamafu/stm32-svd-downloader) - VS code extension to download STM32 SVD
 - [py2fte/asl-svxlink-bridge](https://github.com/py2fte/asl-svxlink-bridge) - asl-svxlink-bridge
 - [armel/armel.github.io](https://github.com/armel/armel.github.io) - A personal & experimental Jekyll blog from Armel FAUVEAU.
@@ -6030,6 +6031,7 @@
 
 ## Kotlin 
 
+- [DubsterDev/HamTestAndroid](https://github.com/DubsterDev/HamTestAndroid) - An Android App for preparing for all three US Amateur Radio license exams
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [ankurCES/project_mythara](https://github.com/ankurCES/project_mythara) - M.Y.T.H.A.R.A — Mind Yoked Tonal Haptic Adaptive Resonant Assistant. Open-source agentic AI Android OS layer. Local-first, private-by-construction, BYO-model alternative to Android 17 / Aluminium OS G
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
@@ -11646,7 +11648,7 @@
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
 - [kuntau/dotfiles](https://github.com/kuntau/dotfiles) - my personal dotfiles
 - [crivotz/zsh-diff-so-fancy](https://github.com/crivotz/zsh-diff-so-fancy) - The project `diff-so-fancy` (an extension for git) as a Zsh plugin
-- [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
+- [z-shell/zi](https://github.com/z-shell/zi) - ✨ A high-performance plugin manager and toolkit for Zsh.
 - [chmouel/chmoujump](https://github.com/chmouel/chmoujump) - FZF and ZSHZ cd jumper  tool
 - [imsky/git-fresh](https://github.com/imsky/git-fresh) - :lemon: Keep your Git repo fresh.
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
