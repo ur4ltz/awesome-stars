@@ -326,6 +326,16 @@
 
 ## C 
 
+- [q-sharafian/STM32_DS3231](https://github.com/q-sharafian/STM32_DS3231) - library DS3231 for STM32f10x
+- [ScarsFun/STM32_I2C_Scanner](https://github.com/ScarsFun/STM32_I2C_Scanner) - STM32 I2C scanner with USB CDC interface
+- [ScarsFun/SSD1306_STM32F1_LL](https://github.com/ScarsFun/SSD1306_STM32F1_LL) - STM32F1 SSD1306 library with LL drivers ad Mikroe GLCD custom fonts support.
+- [ScarsFun/STM32F1_ST7735_LL_DMA](https://github.com/ScarsFun/STM32F1_ST7735_LL_DMA) - STM32F1 ST7735 fast library with DMA and LL drivers.  Mikroe GLCD custom fonts support.
+- [ScarsFun/STM32F1_ST7789_LL_DMA](https://github.com/ScarsFun/STM32F1_ST7789_LL_DMA) - STM32F1 ST7789 fast library with DMA and LL drivers. Mikroe GLCD custom fonts support.
+- [ScarsFun/STM32F4_ST7789_LL_DMA](https://github.com/ScarsFun/STM32F4_ST7789_LL_DMA) - Fast ST7789 DMA Library for STM32F40x LL (Low Layer drivers)
+- [ScarsFun/STM32F103C8T6_cubeIDE_ST7735_1.8_DMA](https://github.com/ScarsFun/STM32F103C8T6_cubeIDE_ST7735_1.8_DMA) - STM32F1, ST7735 SPI display, DMA, HAL Libraries.
+- [achimdoebler/UGUI](https://github.com/achimdoebler/UGUI) - µGUI - Open Source GUI module for embedded systems
+- [mireq/st7789-stm32-driver](https://github.com/mireq/st7789-stm32-driver) - ST7789 display driver for STM32F103C8 (blue pill)
+- [mireq/esp32-st7789-demo](https://github.com/mireq/esp32-st7789-demo) - ESP32 st7789 demo
 - [nakhonthai/uv-k1-k5v3-firmware-aprs](https://github.com/nakhonthai/uv-k1-k5v3-firmware-aprs) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 - [nakhonthai/M17AnalogGateway](https://github.com/nakhonthai/M17AnalogGateway) - M17 Analog Gateway by ESP32
 - [elmot/FoxilloScope](https://github.com/elmot/FoxilloScope) - Low-cost 8Mhz dual-channel 12-bit wireless oscilloscope, minimal soldering, no custom PCB, based on demo boards - STM Nucleo-G474RE & M5Stamp C3U
@@ -1958,6 +1968,12 @@
 
 ## C++ 
 
+- [magiblot/tvterm](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal. Powered by Turbo Vision.
+- [leon-bckl/lsp-framework](https://github.com/leon-bckl/lsp-framework) - Language Server Protocol implementation in C++
+- [aestubbs/turboIDE](https://github.com/aestubbs/turboIDE) - A simple terminal IDE built on Turbo Vision and Scintilla with an embedded agent, GIt integration, lua scripting and a basic debugger.
+- [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
+- [magiblot/turbo](https://github.com/magiblot/turbo) - An experimental text editor based on Scintilla and Turbo Vision.
+- [jossk/c--sphinx](https://github.com/jossk/c--sphinx) - C-- language : c--sphinx.narod.ru  archive and source code
 - [elmot/picture-weather-station](https://github.com/elmot/picture-weather-station) - Picture Weather Station
 - [janscience/ESensors](https://github.com/janscience/ESensors) - Hard- ans software of environmental sensors for Teensy
 - [finitespace/BME280](https://github.com/finitespace/BME280) - Provides an Arduino library for reading and interpreting Bosch BME280 data over I2C, SPI or Sw SPI.
@@ -3911,6 +3927,7 @@
 
 ## Emacs Lisp 
 
+- [davep/.emacs.d](https://github.com/davep/.emacs.d) - My personal emacs config
 - [protesilaos/nerd-icons-dired](https://github.com/protesilaos/nerd-icons-dired) - 
 - [protesilaos/nerd-icons-xref](https://github.com/protesilaos/nerd-icons-xref) - Add nerd-icons to `xref` buffers in Emacs
 - [protesilaos/agitate](https://github.com/protesilaos/agitate) - Extras for diff-mode, vc-git, log-edit, log-view
@@ -5016,6 +5033,7 @@
 
 ## Go 
 
+- [sverrehu/spacegame](https://github.com/sverrehu/spacegame) - 
 - [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
@@ -6103,6 +6121,7 @@
 
 ## Lua 
 
+- [mireq/luasnip-snippets](https://github.com/mireq/luasnip-snippets) - Vim-snippets (snipMate & UltiSnip Snippets) converted to native luasnip snippets
 - [slatbox/Cortex-Command-Scripter](https://github.com/slatbox/Cortex-Command-Scripter) - 
 - [smnatale/coderabbit.nvim](https://github.com/smnatale/coderabbit.nvim) - Bring free CodeRabbit AI code reviews into Neovim via the CLI
 - [smnatale/nvim_native](https://github.com/smnatale/nvim_native) - A minimal Neovim config with zero plugins - built on native 0.11+ features
