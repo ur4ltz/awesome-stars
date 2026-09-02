@@ -1968,6 +1968,7 @@
 
 ## C++ 
 
+- [Freed-Wu/cppinsights.nvim](https://github.com/Freed-Wu/cppinsights.nvim) - Neovim extension for C++ Insights
 - [magiblot/tvterm](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal. Powered by Turbo Vision.
 - [leon-bckl/lsp-framework](https://github.com/leon-bckl/lsp-framework) - Language Server Protocol implementation in C++
 - [aestubbs/turboIDE](https://github.com/aestubbs/turboIDE) - A simple terminal IDE built on Turbo Vision and Scintilla with an embedded agent, GIt integration, lua scripting and a basic debugger.
@@ -3511,7 +3512,7 @@
 - [prt459/Arduino_si5351_VFO_Controller_Keyer](https://github.com/prt459/Arduino_si5351_VFO_Controller_Keyer) - A controller for a multi-band homebrew SSB/CW transceiver, targeting Arduino Nano and si5351 PLL.
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [austinthresher/Arduino-AT28C256-EEPROM-Burner](https://github.com/austinthresher/Arduino-AT28C256-EEPROM-Burner) - This is a simple command line EEPROM burner / reader using an atmega328 for the AT28C256 and similar EEPROMs.
-- [Alcaro/GitBSLR](https://github.com/Alcaro/GitBSLR) - Make Git follow symlinks
+- [Sir-Walrus/GitBSLR](https://github.com/Sir-Walrus/GitBSLR) - Make Git follow symlinks
 - [Testato/SoftwareWire](https://github.com/Testato/SoftwareWire) - Creates a software I2C/TWI bus on every pins
 - [felias-fogg/SlowSoftI2CMaster](https://github.com/felias-fogg/SlowSoftI2CMaster) - 
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customi
@@ -4945,7 +4946,6 @@
 - [n-shift/lens.nvim](https://github.com/n-shift/lens.nvim) - Git workflow for neovim
 - [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) - 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
-- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [dchinmay2/godbolt.nvim](https://github.com/dchinmay2/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~chinmay/godbolt.nvim instead
@@ -5037,7 +5037,7 @@
 - [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
-- [gh-tui-tools/gh-review-conductor](https://github.com/gh-tui-tools/gh-review-conductor) - ↩ Respond to PR reviews; apply suggestions locally
+- [gh-tui-tools/gh-review-responder](https://github.com/gh-tui-tools/gh-review-responder) - ↩ Respond to PR reviews; apply suggestions locally
 - [rizinorg/rz-pm](https://github.com/rizinorg/rz-pm) - An official Rizin package manager
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
@@ -5686,6 +5686,7 @@
 
 ## JavaScript 
 
+- [Freed-Wu/tree-sitter-tmuxf](https://github.com/Freed-Wu/tree-sitter-tmuxf) - 🌲👨 tmux format string grammar for tree-sitter
 - [DubsterDev/HamTest](https://github.com/DubsterDev/HamTest) - A simple, easy to use website to prepare you to take all three US amateur radio tests
 - [Matthew-Oduamafu/stm32-svd-downloader](https://github.com/Matthew-Oduamafu/stm32-svd-downloader) - VS code extension to download STM32 SVD
 - [py2fte/asl-svxlink-bridge](https://github.com/py2fte/asl-svxlink-bridge) - asl-svxlink-bridge
@@ -7391,6 +7392,7 @@
 - [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) - neovim plugin that lets you switch databases on demand or execute queries on different connections
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim
+- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [Abstract-IDE/penvim](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader
 - [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
 - [BunsenLabs/bunsen-conky](https://github.com/BunsenLabs/bunsen-conky) - Interesting scripts and setups for Conky
@@ -11014,6 +11016,7 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [matze/zk-spaced](https://github.com/matze/zk-spaced) - Spaced repetition for zk
