@@ -326,6 +326,7 @@
 
 ## C 
 
+- [crystalfontz/CFAF240240Ax-013xx](https://github.com/crystalfontz/CFAF240240Ax-013xx) - Demo code for the CFAF240240A family of displays
 - [q-sharafian/STM32_DS3231](https://github.com/q-sharafian/STM32_DS3231) - library DS3231 for STM32f10x
 - [ScarsFun/STM32_I2C_Scanner](https://github.com/ScarsFun/STM32_I2C_Scanner) - STM32 I2C scanner with USB CDC interface
 - [ScarsFun/SSD1306_STM32F1_LL](https://github.com/ScarsFun/SSD1306_STM32F1_LL) - STM32F1 SSD1306 library with LL drivers ad Mikroe GLCD custom fonts support.
@@ -4514,7 +4515,7 @@
 - [jixiuf/vterm-toggle](https://github.com/jixiuf/vterm-toggle) - toggles between the vterm buffer and whatever buffer you are editing.
 - [deb0ch/emacs-winum](https://github.com/deb0ch/emacs-winum) - Window numbers for Emacs - Navigate windows and frames using numbers
 - [bbatsov/persp-projectile](https://github.com/bbatsov/persp-projectile) - Projectile integration for perspective.el
-- [ericdanan/counsel-projectile](https://github.com/ericdanan/counsel-projectile) - Ivy UI for Projectile
+- [lafrenierejm/counsel-projectile](https://github.com/lafrenierejm/counsel-projectile) - Ivy UI for Projectile
 - [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
 - [purcell/company-cmake](https://github.com/purcell/company-cmake) - Completion back-end for CMake
 - [leonhe/.emacs.d](https://github.com/leonhe/.emacs.d) - emacs cofigs file
@@ -8928,7 +8929,6 @@
 - [sacek/Luajit-LPEG](https://github.com/sacek/Luajit-LPEG) - LPeg v.10 virtual machine and capture evaluator implemented in LuaJIT 2.x
 - [Raidar/Rh_Macros](https://github.com/Raidar/Rh_Macros) - Rh_Macros package
 - [Raidar/Rh_Scripts](https://github.com/Raidar/Rh_Scripts) - Rh_Scripts package
-- [ColonelThirtyTwo/lsqlite3-ffi](https://github.com/ColonelThirtyTwo/lsqlite3-ffi) - Lua SQLite using LuaJIT's FFI library.
 - [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Wind
 - [Raidar/fl_scripts](https://github.com/Raidar/fl_scripts) - farlua scripts set
 - [Raidar/LuaFAR-context](https://github.com/Raidar/LuaFAR-context) - LuaFAR context pack
@@ -10813,7 +10813,6 @@
 - [ggordan/GutterColor](https://github.com/ggordan/GutterColor) - A Sublime Text 3 plugin which displays a colour in the gutter if the line contains a colour.
 - [aziz/sublimeText3-Userfiles](https://github.com/aziz/sublimeText3-Userfiles) - My text-editor config files
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
-- [ColonelThirtyTwo/LuaAutocomplete](https://github.com/ColonelThirtyTwo/LuaAutocomplete) - Sublime Text 3 plugin for auto-completion in Lua
 - [sokolovstas/SublimeWebInspector](https://github.com/sokolovstas/SublimeWebInspector) - Web Inspector allow you debug Javascript right in the editor
 - [SublimeLinter/SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text
 - [SublimeText/TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
