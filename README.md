@@ -326,6 +326,9 @@
 
 ## C 
 
+- [olikraus/u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
+- [olikraus/U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - U8glib V2 library for Arduino
+- [EthanYan6/Dondji](https://github.com/EthanYan6/Dondji) - 基于F4HWN固件5.3.1版本二次开发（已更新5.4.0，5.5.0中部分必要内容），重绘单守、双守主页面的UI，菜单重构，菜单汉化，添加中文输入法，中文信道名，优化操作逻辑。适用泉盛UVK1，UVK5/UVK6 V3版。
 - [crystalfontz/CFAF240240Ax-013xx](https://github.com/crystalfontz/CFAF240240Ax-013xx) - Demo code for the CFAF240240A family of displays
 - [q-sharafian/STM32_DS3231](https://github.com/q-sharafian/STM32_DS3231) - library DS3231 for STM32f10x
 - [ScarsFun/STM32_I2C_Scanner](https://github.com/ScarsFun/STM32_I2C_Scanner) - STM32 I2C scanner with USB CDC interface
@@ -3365,7 +3368,7 @@
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) - A modern frontend for Neovim.
 - [Iskustvo/i3-ipcpp](https://github.com/Iskustvo/i3-ipcpp) - i3-ipc++ is a C++ library that implements the i3 IPC protocol.
 - [franko/graph-toolkit](https://github.com/franko/graph-toolkit) - Lua Graphics Toolkit
-- [axilmar/parserlib](https://github.com/axilmar/parserlib) - A c++17 recursive-descent generic parsing library that supports left recursion, tokenization, AST tree creation, multiple error handling etc..
+- [axilmar/parserlib](https://github.com/axilmar/parserlib) - A c++17 recursive-descent generic PEG parsing library that supports left associative grammars, tokenization, multiple error handling etc..
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [Sharparam/AssortedScripts](https://github.com/Sharparam/AssortedScripts) - Various scripts/snippets I've written throughout the years
 - [ADiea/si4432](https://github.com/ADiea/si4432) - Si4432 Library for Arduino
@@ -3696,6 +3699,7 @@
 
 ## CMake 
 
+- [the-mikedavis/tree-sitter-git-rebase](https://github.com/the-mikedavis/tree-sitter-git-rebase) - A tree-sitter grammar for git's interactive rebase file
 - [cesanta/mongoose-esp-idf](https://github.com/cesanta/mongoose-esp-idf) - Mongoose Library component for ESP-IDF
 - [embeddedartistry/cmake-buildsystem](https://github.com/embeddedartistry/cmake-buildsystem) - Helper scripts, cross-compilation-files, makefile shims, and other helpful tools for working with CMake
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -5034,6 +5038,7 @@
 
 ## Go 
 
+- [samiulsami/go-deep.nvim](https://github.com/samiulsami/go-deep.nvim) - Go deep completion source for neovim. Compatible with `blink.cmp`, and native `completeFunc`.
 - [sverrehu/spacegame](https://github.com/sverrehu/spacegame) - 
 - [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
@@ -6123,6 +6128,14 @@
 
 ## Lua 
 
+- [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
+- [Dynge/gitmoji.nvim](https://github.com/Dynge/gitmoji.nvim) - Gitmojis for Neovim
+- [joelazar/blink-calc](https://github.com/joelazar/blink-calc) - blink.cmp source for math calculation
+- [garyhurtz/blink_cmp_kitty](https://github.com/garyhurtz/blink_cmp_kitty) - Kitty terminal completion source for blink.cmp
+- [delphinus/cmp-pane](https://github.com/delphinus/cmp-pane) - Terminal pane source for nvim-cmp and blink.cmp — supports kitty and WezTerm
+- [junkblocker/blink-cmp-wezterm](https://github.com/junkblocker/blink-cmp-wezterm) - Completion source using wezterm for blink.cmp
+- [Mestane/blink-cmp-deps](https://github.com/Mestane/blink-cmp-deps) - Maven and Gradle dependency completion source for blink.cmp in Neovim
+- [kaitai-io/kaitai_struct_lua_runtime](https://github.com/kaitai-io/kaitai_struct_lua_runtime) - Kaitai Struct: runtime for Lua
 - [mireq/luasnip-snippets](https://github.com/mireq/luasnip-snippets) - Vim-snippets (snipMate & UltiSnip Snippets) converted to native luasnip snippets
 - [slatbox/Cortex-Command-Scripter](https://github.com/slatbox/Cortex-Command-Scripter) - 
 - [smnatale/coderabbit.nvim](https://github.com/smnatale/coderabbit.nvim) - Bring free CodeRabbit AI code reviews into Neovim via the CLI
@@ -7614,6 +7627,7 @@
 - [tamago324/lsp-preview-hover-doc.nvim](https://github.com/tamago324/lsp-preview-hover-doc.nvim) - textDocument/hover plugin
 - [astoff/digestif](https://github.com/astoff/digestif) - A language server for TeX and friends
 - [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [fitrh/init.nvim](https://github.com/fitrh/init.nvim) - What nvim talk about when they talk about configuration
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
@@ -9093,7 +9107,7 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - my nixos config
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
-- [teto/home](https://github.com/teto/home) - Configurations
+- [teto/home](https://github.com/teto/home) - Nixos configurations with ssh, vpn config generated from the flake such that new/changed nodes are picked up automatically
 - [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
 
@@ -9978,6 +9992,9 @@
 
 ## Python 
 
+- [jake-stewart/color256](https://github.com/jake-stewart/color256) - Generate a full 256 palette from base16 your colors
+- [kaitai-io/kaitai_struct_samples](https://github.com/kaitai-io/kaitai_struct_samples) - Kaitai Struct: library of sample files for testing
+- [kaitai-io/kaitai_struct_python_runtime](https://github.com/kaitai-io/kaitai_struct_python_runtime) - Kaitai Struct: runtime for Python
 - [eliben/pyelftools](https://github.com/eliben/pyelftools) - Parsing ELF and DWARF in Python
 - [hydrabus/hydrafw](https://github.com/hydrabus/hydrafw) - HydraBus HydraFW official firmware for open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing for basic or advanced embedded hardware
 - [techee/lsp-proxy](https://github.com/techee/lsp-proxy) - LSP proxy server allowing to run multiple LSP servers for a single programming language or to support socket-based LSP communication
@@ -10870,7 +10887,6 @@
 ## QML 
 
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 
 ## QMake 
 
@@ -11134,7 +11150,7 @@
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [jelmer/disperse](https://github.com/jelmer/disperse) - Automatic repository releasing
-- [jelmer/janitor](https://github.com/jelmer/janitor) - Platform for making incremental changes to code in VCSes
+- [janitor-team/janitor](https://github.com/janitor-team/janitor) - Platform for making incremental changes to code in VCSes
 - [jelmer/silver-platter](https://github.com/jelmer/silver-platter) - Automate the creation of merge proposals for scriptable changes
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
@@ -11289,6 +11305,7 @@
 
 ## Scala 
 
+- [kaitai-io/kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) - Kaitai Struct: compiler to translate .ksy =&gt; .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb / .rs
 - [ge0rg/aprsdroid](https://github.com/ge0rg/aprsdroid) - APRSdroid - Geo-Location for Radio Amateurs
 - [hkupty/nero.nvim](https://github.com/hkupty/nero.nvim) - The Neovim REPL.
 - [jonas/example-gitbook-site-with-tut](https://github.com/jonas/example-gitbook-site-with-tut) - Example GitBook sbt-site using tut
@@ -11625,7 +11642,7 @@
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [RoryNesbitt/pvim](https://github.com/RoryNesbitt/pvim) - Portable Neovim. Contain it all to just one directory
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.githu
 - [Integralist/Bash-Headers](https://github.com/Integralist/Bash-Headers) - A CLI HTTP Headers Filtering Tool (written in Bash)
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [Integralist/dotfiles](https://github.com/Integralist/dotfiles) - Terminal, Shell and Neovim configuration settings
@@ -12276,6 +12293,7 @@
 
 ## Tree-sitter Query 
 
+- [zed-extensions/git_firefly](https://github.com/zed-extensions/git_firefly) - 
 - [bennypowers/webc.nvim](https://github.com/bennypowers/webc.nvim) - WebC Support for NeoVim
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
@@ -13864,6 +13882,7 @@
 
 ## Vue 
 
+- [kaitai-io/kaitai_ci_ui](https://github.com/kaitai-io/kaitai_ci_ui) - Kaitai Struct CI UI
 - [joaquimorg/uv-kx-tools](https://github.com/joaquimorg/uv-kx-tools) - Web application to connect Quansheng UV-K5/K6/5R radios via Web Serial and perform maintenance and configuration tasks. Includes EEPROM backup/restore, firmware programming, settings editing, and SMR.
 - [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
 - [6c65726f79/Transmissionic](https://github.com/6c65726f79/Transmissionic) - Remote for Transmission Daemon
@@ -13906,6 +13925,7 @@
 
 ## Zig 
 
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [bagggage/bamos](https://github.com/bagggage/bamos) - An open-source operating system with its own kernel
