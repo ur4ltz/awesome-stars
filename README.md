@@ -1291,6 +1291,7 @@
 - [GyverLibs/EasyHID](https://github.com/GyverLibs/EasyHID) - Библиотека программного USB клавиатуры и мыши для Arduino Nano/UNO/Mega и прочих
 - [nimaipatel/st](https://github.com/nimaipatel/st) - My build of the simple terminal
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
+- [colorer/Colorer-library](https://github.com/colorer/Colorer-library) - Syntax  highlighting  and text parsing library
 - [karlc1/dwm-karlc](https://github.com/karlc1/dwm-karlc) - 
 - [dvorka/hstr](https://github.com/dvorka/hstr) - Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 - [hollystandring/nmenu](https://github.com/hollystandring/nmenu) - A 'plug and play' menu system for ncurses with automatic sizing and centering
@@ -3355,7 +3356,6 @@
 - [Seeed-Studio/RTC_DS1307](https://github.com/Seeed-Studio/RTC_DS1307) - Seeed RTC DS1307 library
 - [MileBuurmeijer/DS1307newAlarms](https://github.com/MileBuurmeijer/DS1307newAlarms) - Adding weekday alarms to the DS1307 RTC functionality
 - [MCUdude/MiniCore](https://github.com/MCUdude/MiniCore) - Arduino hardware package for ATmega8, ATmega48, ATmega88, ATmega168, ATmega328 and ATmega328PB
-- [colorer/Colorer-library](https://github.com/colorer/Colorer-library) - Syntax  highlighting  and text parsing library
 - [colorer/FarColorer](https://github.com/colorer/FarColorer) - Syntax highlighting plugin for FAR Manager.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
 - [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
@@ -5289,7 +5289,7 @@
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [c0re100/qBittorrent-EE-API](https://github.com/c0re100/qBittorrent-EE-API) - A example program for qBittorrent Enhanced Edition API
-- [jackpal/bencode-go](https://github.com/jackpal/bencode-go) - A Go language binding for encodeing and decoding data in the bencode format that is used by the BitTorrent peer-to-peer file sharing protocol.
+- [jackpal/bencode-go](https://github.com/jackpal/bencode-go) - A Go language binding for encoding and decoding data in the bencode format that is used by the BitTorrent peer-to-peer file sharing protocol.
 - [veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [hypnoglow/dotbro](https://github.com/hypnoglow/dotbro) - Dotbro - simple yet effective dotfiles manager.
 - [kyoh86/gogh](https://github.com/kyoh86/gogh) - Gogh is a tool to manage GitHub repositories efficiently, inspired by `ghq`
@@ -6128,6 +6128,7 @@
 
 ## Lua 
 
+- [wstewarttennes/nvim-devin](https://github.com/wstewarttennes/nvim-devin) - 
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
 - [Dynge/gitmoji.nvim](https://github.com/Dynge/gitmoji.nvim) - Gitmojis for Neovim
 - [joelazar/blink-calc](https://github.com/joelazar/blink-calc) - blink.cmp source for math calculation
@@ -8955,7 +8956,6 @@
 
 ## MDX 
 
-- [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 
 ## Makefile 
@@ -11704,6 +11704,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
+- [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
