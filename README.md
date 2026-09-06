@@ -6128,6 +6128,7 @@
 
 ## Lua 
 
+- [rachartier/tiny-cmdline.nvim](https://github.com/rachartier/tiny-cmdline.nvim) - A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system.
 - [wstewarttennes/nvim-devin](https://github.com/wstewarttennes/nvim-devin) - 
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
 - [Dynge/gitmoji.nvim](https://github.com/Dynge/gitmoji.nvim) - Gitmojis for Neovim
@@ -6159,7 +6160,7 @@
 - [ToxicFrog/luautil](https://github.com/ToxicFrog/luautil) - A convenient utility library for Lua used by some of my other projects.
 - [ToxicFrog/misc](https://github.com/ToxicFrog/misc) - Miscellaneous small tools not worth their own repository.
 - [S1ngS1ng/HammerSpoon](https://github.com/S1ngS1ng/HammerSpoon) - 😌HammerSpoon config file, 💻Window Management, 🎵VOX, VIM-binding #KillThe🐁
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly.
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) - Populate diagnostics for all projects files across the workspace
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) - A semi-useful, pseudo-pedagogical neovim plugin using treesitter for C++ actions
@@ -9718,7 +9719,7 @@
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [CyanogenMod/android](https://github.com/CyanogenMod/android) - Misc Android stuff
 - [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [thimc/vifm_devicons](https://github.com/thimc/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [callbag/callbag](https://github.com/callbag/callbag) - 👜 A standard for JS callbacks that enables lightweight observables and iterables
 - [TeddyDD/kakoune-wiki](https://github.com/TeddyDD/kakoune-wiki) - Personal wiki plugin for Kakoune
