@@ -6160,7 +6160,7 @@
 - [ToxicFrog/luautil](https://github.com/ToxicFrog/luautil) - A convenient utility library for Lua used by some of my other projects.
 - [ToxicFrog/misc](https://github.com/ToxicFrog/misc) - Miscellaneous small tools not worth their own repository.
 - [S1ngS1ng/HammerSpoon](https://github.com/S1ngS1ng/HammerSpoon) - 😌HammerSpoon config file, 💻Window Management, 🎵VOX, VIM-binding #KillThe🐁
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review for Neovim with VSCode style diffs
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly.
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) - Populate diagnostics for all projects files across the workspace
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) - A semi-useful, pseudo-pedagogical neovim plugin using treesitter for C++ actions
@@ -7246,7 +7246,7 @@
 - [Zane-/cder.nvim](https://github.com/Zane-/cder.nvim) - A telescope.nvim extension to quickly change Neovim's working directory.
 - [mrjones2014/load-all.nvim](https://github.com/mrjones2014/load-all.nvim) - A Neovim plugin that lets you load/execute all Lua files in a directory at once
 - [mrjones2014/lighthaus.nvim](https://github.com/mrjones2014/lighthaus.nvim) - A Lua implementation of lighthaus-theme/vim-lighthaus
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
+- [smart-splits-nvim/smart-splits.nvim](https://github.com/smart-splits-nvim/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) - 
 - [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) - NeoVim frontend for mongosh
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) - Edit files from S3 directly from Neovim
