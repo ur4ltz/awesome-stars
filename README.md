@@ -1951,7 +1951,7 @@
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [qrp73/K5TOOL](https://github.com/qrp73/K5TOOL) - UV-K5 toolkit utility to read/write EEPROM and flashing firmware for Quansheng UV-K5 and UV-R5 radios
 - [nicsure/QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
-- [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
+- [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Standalone app that fakes the upload and download a BitTorrent tracker sees for a torrent, without a torrent client and without transferring anything. Byte-exact emulation of 34 client versions (qBitt
 - [w-0x1f/WatchDoge](https://github.com/w-0x1f/WatchDoge) - Very simple Arduino watch project
 - [ZakKemble/AVRDUDESS](https://github.com/ZakKemble/AVRDUDESS) - A GUI for AVRDUDE
 - [afrantzis/bless](https://github.com/afrantzis/bless) - Bless - Gtk# Hex Editor
@@ -6320,7 +6320,7 @@
 - [yuri/lua-diff](https://github.com/yuri/lua-diff) - A Lua implementation of the Least Common Subsequence and diff
 - [yuri/petrodoc](https://github.com/yuri/petrodoc) - A tool for generating documentation from rockspecs
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion.
-- [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) - Smart and highly customizable insertion of various kinds of log statements.
+- [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) - Smart and customizable creation of logs.
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [roosta/telescope-folds.nvim](https://github.com/roosta/telescope-folds.nvim) - Neovim plugin that lets you fuzzy search for folds in a file using Telescope.
 - [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) - Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.
@@ -10883,6 +10883,7 @@
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [xiaket/better-header](https://github.com/xiaket/better-header) - Better header management for vim
+- [nielsmadan/harlequin](https://github.com/nielsmadan/harlequin) - Dark, high contrast gvim colorscheme inspired by molokai and bad wolf.
 - [skibyte/gdblib](https://github.com/skibyte/gdblib) - A module to interact with GDB debugger
 
 ## QML 
@@ -11419,7 +11420,7 @@
 - [cuducos/dirvenv.fish](https://github.com/cuducos/dirvenv.fish) - 🐍 Automagically activated and deactivates virtualenv in Fish
 - [MrSloth-dev/Zmux](https://github.com/MrSloth-dev/Zmux) - A script for creating and managing sessions in Tmux
 - [jakobwesthoff/tmux-from-scratch](https://github.com/jakobwesthoff/tmux-from-scratch) - A step by step example repository to get a tmux configuration up and running from scratch
-- [roosta/fif](https://github.com/roosta/fif) - 🔍 Quickly find in files using fuzzy search and surrounding context
+- [roosta/fif](https://github.com/roosta/fif) - 🔍 Quickly find in files using fuzzy search and surrounding preview context
 - [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) - Search your tmux scrollback buffer using fuzzy matching
 - [roosta/tmux-pop](https://github.com/roosta/tmux-pop) - Tmux plugin that flashes the active pane on change
 - [zchee/zsh-completions](https://github.com/zchee/zsh-completions) - Yet another Zsh completion definitions. Fork, fix and written by me
@@ -13839,7 +13840,6 @@
 - [xuhdev/SingleCompile](https://github.com/xuhdev/SingleCompile) - A Vim plugin making it more convenient to compile or run a single source file.
 - [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
-- [nielsmadan/harlequin](https://github.com/nielsmadan/harlequin) - Dark, high contrast gvim colorscheme inspired by molokai and bad wolf.
 - [mbbill/desertEx](https://github.com/mbbill/desertEx) - A desert based scheme with enhanced colors.
 - [skibyte/gdb-from-vim](https://github.com/skibyte/gdb-from-vim) - A plugin to debug program with gdb by using vim
 - [sandeepcr529/Buffet.vim](https://github.com/sandeepcr529/Buffet.vim) - A vimplugin for switching and managing buffer lists
