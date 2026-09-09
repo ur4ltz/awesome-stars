@@ -314,6 +314,7 @@
 
 ## Batchfile 
 
+- [ViacheslavMezentsev/stm32-flasher](https://github.com/ViacheslavMezentsev/stm32-flasher) - Утилита командной строки для прошивки микроконтроллеров STM32 через ST-Link
 - [felias-fogg/progmemcheck](https://github.com/felias-fogg/progmemcheck) - A Unix and a Window shell script to check for the size of the PROGMEM section on AVRs with more then 64 kB
 - [AnZoRiN228/STM32-ST-Link-V2.1](https://github.com/AnZoRiN228/STM32-ST-Link-V2.1) - 
 - [nodemcu/nodemcu-devkit-v1.0](https://github.com/nodemcu/nodemcu-devkit-v1.0) - 
@@ -326,6 +327,14 @@
 
 ## C 
 
+- [afiskon/stm32-external-eeprom](https://github.com/afiskon/stm32-external-eeprom) - STM32: external EEPROM usage example
+- [afiskon/stm32-rtc-example](https://github.com/afiskon/stm32-rtc-example) - STM32: example of usage of internal RTC
+- [afiskon/stm32-interrupts-timers-pwm](https://github.com/afiskon/stm32-interrupts-timers-pwm) - STM32: examples of usage of interrupts, timers and PWM
+- [afiskon/stm32-i2s-examples](https://github.com/afiskon/stm32-i2s-examples) - STM32: examples of I2S protocol usage
+- [afiskon/stm32-max7219](https://github.com/afiskon/stm32-max7219) - STM32 driver for 7 segmented LED displays based on MAX7219
+- [x893/picoC](https://github.com/x893/picoC) - picoC port for STM32 and EFM32 processors
+- [ttcdt/mp-5.x](https://github.com/ttcdt/mp-5.x) - The Minimum Profit Text Editor
+- [lovyan03/LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
 - [olikraus/u8glib](https://github.com/olikraus/u8glib) - Arduino Monochrom Graphics Library for LCDs and OLEDs
 - [olikraus/U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - U8glib V2 library for Arduino
 - [EthanYan6/Dondji](https://github.com/EthanYan6/Dondji) - 基于F4HWN固件5.3.1版本二次开发（已更新5.4.0，5.5.0中部分必要内容），重绘单守、双守主页面的UI，菜单重构，菜单汉化，添加中文输入法，中文信道名，优化操作逻辑。适用泉盛UVK1，UVK5/UVK6 V3版。
@@ -661,7 +670,6 @@
 - [GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz](https://github.com/GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz) - STM32 Lib Si5351 8KHz-160MHz
 - [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
 - [michalin/Arduino-C64-Emulator](https://github.com/michalin/Arduino-C64-Emulator) - A Commodore 64 emulator running on an Arduino
-- [tree-sitter-grammars/tree-sitter-kdl](https://github.com/tree-sitter-grammars/tree-sitter-kdl) - KDL grammar for tree-sitter
 - [jimahlstrom/quisk](https://github.com/jimahlstrom/quisk) - Quisk Software Defined Radio
 - [db-electronics/asmx](https://github.com/db-electronics/asmx) - Fork of Bruce Tomlin's ASMX cross-assembler
 - [lynchaj/rhyophyre](https://github.com/lynchaj/rhyophyre) - Single Board Computer featuring Zilog Z180 processor and NEC µPD7220 Graphics Display Controller
@@ -1973,6 +1981,7 @@
 
 ## C++ 
 
+- [adafruit/Adafruit_TouchScreen](https://github.com/adafruit/Adafruit_TouchScreen) - Arduino library for 4-wire resistive touchscreens
 - [Freed-Wu/cppinsights.nvim](https://github.com/Freed-Wu/cppinsights.nvim) - Neovim extension for C++ Insights
 - [magiblot/tvterm](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal. Powered by Turbo Vision.
 - [leon-bckl/lsp-framework](https://github.com/leon-bckl/lsp-framework) - Language Server Protocol implementation in C++
@@ -5734,6 +5743,7 @@
 - [OXY2DEV/tree-sitter-qf](https://github.com/OXY2DEV/tree-sitter-qf) - Tree-sitter parser for Vim's quickfix list.
 - [OXY2DEV/tree-sitter-lua_patterns](https://github.com/OXY2DEV/tree-sitter-lua_patterns) - Tree-sitter parser for Lua patterns
 - [tree-sitter-grammars/tree-sitter-vim](https://github.com/tree-sitter-grammars/tree-sitter-vim) - Vimscript grammar for tree-sitter
+- [tree-sitter-grammars/tree-sitter-kdl](https://github.com/tree-sitter-grammars/tree-sitter-kdl) - KDL grammar for tree-sitter
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
 - [webtorrent/node-bencode](https://github.com/webtorrent/node-bencode) - bencode de/encoder for nodejs
@@ -9164,6 +9174,8 @@
 
 ## Others 
 
+- [sushisongren/STLink-V3-Rebuild](https://github.com/sushisongren/STLink-V3-Rebuild) - 
+- [sushisongren/DIY-STLink-V2.1](https://github.com/sushisongren/DIY-STLink-V2.1) - Made your own STLink
 - [WeActStudio/WeActStudio.STM32F103RCxx](https://github.com/WeActStudio/WeActStudio.STM32F103RCxx) - We use the latest STM32F103RCT6 chip design development board; STM32F103RCT6 has a 72Mhz main frequency, 256k flash, and 48k sram.
 - [hydrabus/hydranfc](https://github.com/hydrabus/hydranfc) - HydraNFC is an open source NFC (13.56MHz) Shield hardware for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing NFC h
 - [profdc9/STM32alt](https://github.com/profdc9/STM32alt) - STM32F103C8T6/STM32F103CBT6 Bluepill-compatible devboard with through-hole parts (mostly)
