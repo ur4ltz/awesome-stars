@@ -156,6 +156,7 @@
 
 ## Arduino 
 
+- [makecademy/esp8266-battery](https://github.com/makecademy/esp8266-battery) - Code for the ESP8266 battery project
 - [br3ttb/arduino-pid-library-tester](https://github.com/br3ttb/arduino-pid-library-tester) - A simple throw-away program to test the Arduino PID Library
 - [james-tate/Arduino-TPI-Programmer](https://github.com/james-tate/Arduino-TPI-Programmer) - A programmer for the ATTiny TPI interface with support for ATTiny102 and ATTiny104.
 - [rsbohn/ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips.
@@ -327,6 +328,8 @@
 
 ## C 
 
+- [guptaankurp2c/ST7789-STM32-uGUI_F303](https://github.com/guptaankurp2c/ST7789-STM32-uGUI_F303) - Driving st7789 displays with STM32F303RE and uGUI library, using hardware SPI and DMA.
+- [ProjectsByJRP/si5351-stm32](https://github.com/ProjectsByJRP/si5351-stm32) - Port of Adafruit's si5351 driver to STM32 HAL
 - [afiskon/stm32-external-eeprom](https://github.com/afiskon/stm32-external-eeprom) - STM32: external EEPROM usage example
 - [afiskon/stm32-rtc-example](https://github.com/afiskon/stm32-rtc-example) - STM32: example of usage of internal RTC
 - [afiskon/stm32-interrupts-timers-pwm](https://github.com/afiskon/stm32-interrupts-timers-pwm) - STM32: examples of usage of interrupts, timers and PWM
@@ -1981,6 +1984,22 @@
 
 ## C++ 
 
+- [LilyGO/TTGO-TM-ESP32](https://github.com/LilyGO/TTGO-TM-ESP32) - 
+- [Yveaux/Arduino_Vcc](https://github.com/Yveaux/Arduino_Vcc) - Arduino library to read VCC supply level without external components
+- [cbm80amiga/ST7789_power_meter_cs5460a_display](https://github.com/cbm80amiga/ST7789_power_meter_cs5460a_display) - CS5460A-based plug power meter color display
+- [cbm80amiga/Arduino_ILI9163C_Fast](https://github.com/cbm80amiga/Arduino_ILI9163C_Fast) - Fast ILI9163C 128x128 LCD SPI display library
+- [cbm80amiga/Arduino_ILI9163C_STM](https://github.com/cbm80amiga/Arduino_ILI9163C_STM) - Fast STM32 SPI/DMA library for the ILI9163C
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
+- [wilmsn/Uptime](https://github.com/wilmsn/Uptime) - An Uptime Library for Arduino and ESP
+- [wilmsn/logger](https://github.com/wilmsn/logger) - A text based logger object for Arduino
+- [JAndrassy/WiFiEspAT](https://github.com/JAndrassy/WiFiEspAT) - Arduino networking library. Standard Arduino WiFi networking API over ESP8266 or ESP32 AT commands.
+- [igorantolic/ai-esp32-rotary-encoder](https://github.com/igorantolic/ai-esp32-rotary-encoder) - Easy implement rotary encoder to your application using microcontroler like ESP32
+- [marcmerlin/IoTuz](https://github.com/marcmerlin/IoTuz) - IoTuz driver for ESP32 based LCA 2017 IoTuz board, also can be used as a demo on an espressif WROVER
+- [adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) - This is a library for the Adafruit 1.8" SPI display http://www.adafruit.com/products/358  and http://www.adafruit.com/products/618
+- [wilmsn/Rotarylib4ESP32](https://github.com/wilmsn/Rotarylib4ESP32) - A Library for Rotary Encoder on ESP32
+- [ayushsharma82/ElegantOTA](https://github.com/ayushsharma82/ElegantOTA) - The original over-the-air update library for wireless microcontrollers (since 2019).
+- [wilmsn/BMX_sensor](https://github.com/wilmsn/BMX_sensor) - An Arduino library for Bosch sensors (BMP085, BMP180, BMP280, BME280) It uses I2C address only with autodetect of address.
+- [wilmsn/Arduino-ST7789-Library](https://github.com/wilmsn/Arduino-ST7789-Library) - Arduino library for the ST7789 IPS SPI display.
 - [adafruit/Adafruit_TouchScreen](https://github.com/adafruit/Adafruit_TouchScreen) - Arduino library for 4-wire resistive touchscreens
 - [Freed-Wu/cppinsights.nvim](https://github.com/Freed-Wu/cppinsights.nvim) - Neovim extension for C++ Insights
 - [magiblot/tvterm](https://github.com/magiblot/tvterm) - A terminal emulator that runs in your terminal. Powered by Turbo Vision.
@@ -4960,6 +4979,7 @@
 - [n-shift/lens.nvim](https://github.com/n-shift/lens.nvim) - Git workflow for neovim
 - [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) - 
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - A Fennel REPL that runs in Neovim
+- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - EditorConfig plugin for Neovim
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [dchinmay2/godbolt.nvim](https://github.com/dchinmay2/godbolt.nvim) - Display assembly for the current buffer or visual selection from godbolt.org. Use https://sr.ht/~chinmay/godbolt.nvim instead
@@ -6138,6 +6158,11 @@
 
 ## Lua 
 
+- [ThorstenRhau/neovim](https://github.com/ThorstenRhau/neovim) - Neovim for me by me
+- [Kaiser-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) - Avante source for blink-cmp
+- [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) - Port tmux key bindings to WezTerm
+- [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control) - WezTerm port of tmux-pain-control
+- [sravioli/chord.wz](https://github.com/sravioli/chord.wz) - 🎹 Vim-style key mapping and hints for WezTerm
 - [rachartier/tiny-cmdline.nvim](https://github.com/rachartier/tiny-cmdline.nvim) - A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system.
 - [wstewarttennes/nvim-devin](https://github.com/wstewarttennes/nvim-devin) - 
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
@@ -7418,7 +7443,6 @@
 - [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) - neovim plugin that lets you switch databases on demand or execute queries on different connections
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim
-- [gpanders/dotfiles](https://github.com/gpanders/dotfiles) - Mirror
 - [Abstract-IDE/penvim](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader
 - [daurnimator/luatz](https://github.com/daurnimator/luatz) - Time, Date and Timezone library for lua
 - [BunsenLabs/bunsen-conky](https://github.com/BunsenLabs/bunsen-conky) - Interesting scripts and setups for Conky
@@ -7701,7 +7725,6 @@
 - [ldelossa/litee-filetree.nvim](https://github.com/ldelossa/litee-filetree.nvim) - A file explorer implemented with the litee.nvim library.
 - [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization in Neovim
 - [lucasvianav/nvim](https://github.com/lucasvianav/nvim) - My Neovim config.
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [nyngwang/NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - A simple usecase of floating window to help you focus.
 - [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - Pandoc Markdown Lecture Template: This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (https://pandoc.org/MANUAL.html) using a 
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
@@ -9174,6 +9197,7 @@
 
 ## Others 
 
+- [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) - Collections of awesome WezTerm plugins.
 - [sushisongren/STLink-V3-Rebuild](https://github.com/sushisongren/STLink-V3-Rebuild) - 
 - [sushisongren/DIY-STLink-V2.1](https://github.com/sushisongren/DIY-STLink-V2.1) - Made your own STLink
 - [WeActStudio/WeActStudio.STM32F103RCxx](https://github.com/WeActStudio/WeActStudio.STM32F103RCxx) - We use the latest STM32F103RCT6 chip design development board; STM32F103RCT6 has a 72Mhz main frequency, 256k flash, and 48k sram.
@@ -9994,6 +10018,7 @@
 
 ## Processing 
 
+- [rogeriobego/oscilloscope-arduino-processing](https://github.com/rogeriobego/oscilloscope-arduino-processing) - Oscilloscope 4 channels using Arduino and Processing
 - [olikraus/ds1307new](https://github.com/olikraus/ds1307new) - Automatically exported from code.google.com/p/ds1307new
 - [pavels/spektrum](https://github.com/pavels/spektrum) - rtl-sdr spectrum analyzer
 - [sergiomokshin/Arduino](https://github.com/sergiomokshin/Arduino) - Shield Arduino
@@ -10005,6 +10030,7 @@
 
 ## Python 
 
+- [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [jake-stewart/color256](https://github.com/jake-stewart/color256) - Generate a full 256 palette from base16 your colors
 - [kaitai-io/kaitai_struct_samples](https://github.com/kaitai-io/kaitai_struct_samples) - Kaitai Struct: library of sample files for testing
 - [kaitai-io/kaitai_struct_python_runtime](https://github.com/kaitai-io/kaitai_struct_python_runtime) - Kaitai Struct: runtime for Python
@@ -11045,6 +11071,7 @@
 
 ## Rust 
 
+- [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
@@ -11060,7 +11087,7 @@
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - A modal, GPU-accelerated, plugin-first text editor in Rust
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
-- [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server
+- [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server with zsh support
 - [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [MeanderingProgrammer/yadm-rs](https://github.com/MeanderingProgrammer/yadm-rs) - Yet Another Dotfiles Manager in Rust
 - [probe-rs/rusty-probe-firmware](https://github.com/probe-rs/rusty-probe-firmware) - 
@@ -11718,6 +11745,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
 - [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
