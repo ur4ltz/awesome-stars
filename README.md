@@ -328,6 +328,7 @@
 
 ## C 
 
+- [clockworkpi/PicoCalc](https://github.com/clockworkpi/PicoCalc) - A calculator like nothing you've ever seen before, right?
 - [guptaankurp2c/ST7789-STM32-uGUI_F303](https://github.com/guptaankurp2c/ST7789-STM32-uGUI_F303) - Driving st7789 displays with STM32F303RE and uGUI library, using hardware SPI and DMA.
 - [ProjectsByJRP/si5351-stm32](https://github.com/ProjectsByJRP/si5351-stm32) - Port of Adafruit's si5351 driver to STM32 HAL
 - [afiskon/stm32-external-eeprom](https://github.com/afiskon/stm32-external-eeprom) - STM32: external EEPROM usage example
@@ -4852,7 +4853,6 @@
 - [rranelli/emacs-dotfiles](https://github.com/rranelli/emacs-dotfiles) - My personal emacs configuration
 - [bling/dotemacs](https://github.com/bling/dotemacs) - emacs configuration for vim users
 - [colonelpanic8/multi-line](https://github.com/colonelpanic8/multi-line) - multi-line everything from function invocations and definitions to array and map literals in a wide variety of languages
-- [habamax/.emacs.d_old](https://github.com/habamax/.emacs.d_old) - Emacs is useful.
 - [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth) - Darktooth : From the darkness... it watches.
 - [emacsfodder/emacs-mainline](https://github.com/emacsfodder/emacs-mainline) - A fork of powerline.el (based on an old uncredited version of powerline.el - origin is unclear.) - this fork has multiple separator graphics.
 - [jonathanchu/emacs-powerline](https://github.com/jonathanchu/emacs-powerline) - Powerline for Emacs
@@ -5525,7 +5525,6 @@
 - [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [u03c1/outrun-vim](https://github.com/u03c1/outrun-vim) - 
 - [gdsotirov/slackpack](https://github.com/gdsotirov/slackpack) - SlackPack: Slackware packages
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [pierre-lecocq/emacs4developers](https://github.com/pierre-lecocq/emacs4developers) - A document to help developers to use Emacs as a developer
 - [tuhdo/tuhdo.github.io](https://github.com/tuhdo/tuhdo.github.io) - Emacs Mini Manual
 - [Softmotions/vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) - Dark Frost color theme for Vim
@@ -5844,6 +5843,7 @@
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [Harry-Ross/c-snippets](https://github.com/Harry-Ross/c-snippets) - A simple extension for Visual Studio Code snippets for the C programming language.
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [kira-krul/estilo](https://github.com/kira-krul/estilo) - Create color schemes for Vim, Airline and Lightline
 - [sturnclaw/ide-c-cpp](https://github.com/sturnclaw/ide-c-cpp) - An Atom IDE integration with CCLS / CQuery.
 - [bash-lsp/ide-bash](https://github.com/bash-lsp/ide-bash) - Bash language support for Atom-IDE
@@ -6096,7 +6096,7 @@
 - [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 - [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
-- [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
+- [kitshn-app/kitshn](https://github.com/kitshn-app/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [researchxxl/syncthing-lite](https://github.com/researchxxl/syncthing-lite) - Browse Syncthing shares
 - [grote/Transportr](https://github.com/grote/Transportr) - Free Public Transport Assistant without Ads or Tracking
@@ -6158,6 +6158,10 @@
 
 ## Lua 
 
+- [dfaerch/passrelay.wezterm](https://github.com/dfaerch/passrelay.wezterm) - Password manager integration for WezTerm
+- [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) - 🎨 kanagawa.nvim color schemes ported to Wezterm
+- [dfsramos/wezterm-sync](https://github.com/dfsramos/wezterm-sync) - WezTerm plugin to sync your config across machines via GitHub Gist
+- [hasanmohammad6618/lazydev.nvim](https://github.com/hasanmohammad6618/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [ThorstenRhau/neovim](https://github.com/ThorstenRhau/neovim) - Neovim for me by me
 - [Kaiser-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) - Avante source for blink-cmp
 - [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) - Port tmux key bindings to WezTerm
@@ -8237,7 +8241,6 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua) - A GUI library for Neovim plugin developers
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for modern Neovim.
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [nvim-telescope/telescope-arecibo.nvim](https://github.com/nvim-telescope/telescope-arecibo.nvim) - A Neovim Telescope extension for searching the web!
 - [alex-popov-tech/timer.nvim](https://github.com/alex-popov-tech/timer.nvim) - Minimalistic timer functionality for neovim.
 - [faerryn/user.nvim](https://github.com/faerryn/user.nvim) - Since the advent of vim and neovim, countless package managers have appeared and dissappeared. Well, here's another to the list.
@@ -9023,6 +9026,7 @@
 - [sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile) - Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.
 - [raymond-w-ko/creep2](https://github.com/raymond-w-ko/creep2) - A small pixel font
 - [orbitalquark/textadept-yaml](https://github.com/orbitalquark/textadept-yaml) - YAML language module for Textadept.
+- [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [cornerman/prompt-hjem](https://github.com/cornerman/prompt-hjem) - a zsh prompt
 - [pianocomposer321/project-template-samples](https://github.com/pianocomposer321/project-template-samples) - Sample templates for project-templates.nvim
@@ -9140,6 +9144,7 @@
 - [chayward1/dotfiles](https://github.com/chayward1/dotfiles) - I showed you my source code, pls respond
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [mmskv/dotfiles](https://github.com/mmskv/dotfiles) - my nixos config
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [b3nj5m1n/dotfiles](https://github.com/b3nj5m1n/dotfiles) - 
 - [teto/home](https://github.com/teto/home) - Nixos configurations with ssh, vpn config generated from the flake such that new/changed nodes are picked up automatically
 - [h-michael/dotfiles](https://github.com/h-michael/dotfiles) - my dotfiles
@@ -9197,6 +9202,7 @@
 
 ## Others 
 
+- [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) - Collections of awesome WezTerm plugins.
 - [sushisongren/STLink-V3-Rebuild](https://github.com/sushisongren/STLink-V3-Rebuild) - 
 - [sushisongren/DIY-STLink-V2.1](https://github.com/sushisongren/DIY-STLink-V2.1) - Made your own STLink
@@ -11071,6 +11077,7 @@
 
 ## Rust 
 
+- [rust-embedded/svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -11746,7 +11753,6 @@
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
 - [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
-- [jdevries3133/jackdevries.com](https://github.com/jdevries3133/jackdevries.com) - Personal website
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
@@ -12005,7 +12011,6 @@
 - [salman-abedin/magpie](https://github.com/salman-abedin/magpie) - Dotfiles of my minimal Unix system geared for media, programming & writing
 - [salman-abedin/bolt](https://github.com/salman-abedin/bolt) - Launcher wrapper for a lightning fast Unix workflow
 - [salman-abedin/uniblocks](https://github.com/salman-abedin/uniblocks) - Status bar agnostic module generator
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [AN3223/sakra](https://github.com/AN3223/sakra) - The Swiss Army Knife RSS Aggregator
 - [AN3223/fzfhub](https://github.com/AN3223/fzfhub) - GitHub TUI browser
@@ -12344,6 +12349,8 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-makefile-tools](https://github.com/microsoft/vscode-makefile-tools) - Makefile Tools offers a robust workflow for Makefile projects in VS Code, with pre and post-configure script automation, easy configuration switching, and IntelliSense support for Makefile. The custom
+- [tombi-toml/setup-tombi](https://github.com/tombi-toml/setup-tombi) - Set up Tombi in your GitHub Actions workflow
 - [ZEALHT001/stm32-debug-helper](https://github.com/ZEALHT001/stm32-debug-helper) - A VSCode extension for STM32 debugging. STM32调试插件，可以实现实时显示和修改全局变量。
 - [mcu-debug/peripheral-viewer](https://github.com/mcu-debug/peripheral-viewer) - Standalone Peripheral(SVD) Viewer extension extracted from cortex-debug, now works with any debugger
 - [hydrabus/hydrabus](https://github.com/hydrabus/hydrabus) - HydraBus open source multi-tool for anyone interested in learning/developping/debugging/hacking/Penetration Testing for basic or advanced embedded hardware
@@ -12434,6 +12441,7 @@
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [creativenull/projectlocal.vim](https://github.com/creativenull/projectlocal.vim) - Safely load your project specific configurations written in json, lua or vimscript
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [angrybacon/doomsday-wiki](https://github.com/angrybacon/doomsday-wiki) - The Doomsday Wiki
 - [cantonios/vscode-project-templates](https://github.com/cantonios/vscode-project-templates) - Project Templates extension for VSCode
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
