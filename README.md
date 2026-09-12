@@ -328,6 +328,8 @@
 
 ## C 
 
+- [martnak/STM32-ILI9341](https://github.com/martnak/STM32-ILI9341) - Simple HAL driver for ILI9341 320x240 TFT LCD with Touchscreen for STM32 microcontrollers
+- [radareorg/radare2-extras](https://github.com/radareorg/radare2-extras) - Source graveyard and random candy for radare2
 - [clockworkpi/PicoCalc](https://github.com/clockworkpi/PicoCalc) - A calculator like nothing you've ever seen before, right?
 - [guptaankurp2c/ST7789-STM32-uGUI_F303](https://github.com/guptaankurp2c/ST7789-STM32-uGUI_F303) - Driving st7789 displays with STM32F303RE and uGUI library, using hardware SPI and DMA.
 - [ProjectsByJRP/si5351-stm32](https://github.com/ProjectsByJRP/si5351-stm32) - Port of Adafruit's si5351 driver to STM32 HAL
@@ -3750,6 +3752,7 @@
 
 ## CSS 
 
+- [monosource/radare2-explorations](https://github.com/monosource/radare2-explorations) - A book on learning radare2.
 - [STMicroelectronics/stm32-st7789h2](https://github.com/STMicroelectronics/stm32-st7789h2) - Provides the st7789h2 driver, part of the STM32Cube BSP Component for all STM32xx series.
 - [duino-coin/duco-statistics](https://github.com/duino-coin/duco-statistics) - 📃 Duino-Coin (DUCO) network statistics & explorer website
 - [STMicroelectronics/stm32-st7735](https://github.com/STMicroelectronics/stm32-st7735) - Provides the st7735 driver, part of the STM32Cube BSP Component for all STM32xx series.
@@ -3912,6 +3915,7 @@
 
 ## Dart 
 
+- [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [Nandanrmenon/florid](https://github.com/Nandanrmenon/florid) - F-Droid Client
 - [gwitko/Conduit](https://github.com/gwitko/Conduit) - A mobile terminal workspace for Android and iOS with SSH, Mosh, SFTP, hardware-key auth, tmux helpers, and an optional local shell.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -4011,7 +4015,7 @@
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Indentation based Folding for Emacs (Supersedes legacy packages such as origami.el and yafolding.el)
 - [atilaneves/cmake-ide](https://github.com/atilaneves/cmake-ide) - Use Emacs as a C/C++ IDE
-- [josegpt/display-wttr](https://github.com/josegpt/display-wttr) - Display wttr(weather) in the mode line 🌧️.
+- [pz7a/display-wttr](https://github.com/pz7a/display-wttr) - Display wttr(weather) in the mode line 🌧️.
 - [ISouthRain/ewth.el](https://github.com/ISouthRain/ewth.el) - Emacs weather for Wttr.in(OpenSource) in modeline.
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
@@ -12534,7 +12538,7 @@
 - [aioutecism/amVim-for-VSCode](https://github.com/aioutecism/amVim-for-VSCode) - The Vim mode for Visual Studio Code(vscode) that works as expected.
 - [bazel-contrib/vscode-bazel](https://github.com/bazel-contrib/vscode-bazel) - Bazel support for Visual Studio Code
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
-- [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome extension to add torrent files to torrent clients
+- [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome/Firefox extension to add torrent files to torrent clients
 - [kizza/actionmenu.nvim](https://github.com/kizza/actionmenu.nvim) - A nice context menu for vim
 - [neoclide/vim-node-rpc](https://github.com/neoclide/vim-node-rpc) - Make vim behavior like neovim rpc server by use node server in the middle.
 - [neovim/node-client](https://github.com/neovim/node-client) - Nvim Node.js client and plugin host
