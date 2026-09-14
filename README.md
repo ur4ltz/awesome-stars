@@ -328,6 +328,15 @@
 
 ## C 
 
+- [Solderingironspb/RVMSIS_PROJECT_CREATOR](https://github.com/Solderingironspb/RVMSIS_PROJECT_CREATOR) - Скрипты для создания нового проекта под RVMSIS/WCH (RISC-V)
+- [Solderingironspb/CH32V203C8T6_RVMSIS_notes](https://github.com/Solderingironspb/CH32V203C8T6_RVMSIS_notes) - Разбираемся с RISC-V на примере CH32V203C8T6
+- [Solderingironspb/SEGA_gamepad](https://github.com/Solderingironspb/SEGA_gamepad) - Подключаем геймпад от SEGA Mega Drive 2 к STM32F103C8T6
+- [Solderingironspb/NES_Gamepad](https://github.com/Solderingironspb/NES_Gamepad) - Подключаем геймпад от NES к STM32F103C8T6
+- [Solderingironspb/Plotter](https://github.com/Solderingironspb/Plotter) - Библиотека для легкой работы с программой Serial port Plotter by Solderingiron
+- [Solderingironspb/LCD1602-HD44780-4-8-bit](https://github.com/Solderingironspb/LCD1602-HD44780-4-8-bit) - Библиотека для работы с символьным дисплеем LCD1602 на чипе HD44780 по 4 битной и 8 битной шине
+- [Solderingironspb/SSD1306](https://github.com/Solderingironspb/SSD1306) - Библиотека для работы с дисплеем SSD1306
+- [Solderingironspb/SHT30](https://github.com/Solderingironspb/SHT30) - Библиотека для работы датчика температуры и влажности SHT30. CRC-8 присутствует
+- [Solderingironspb/examples_embedded_for_Serial_port_Plotter_by_Solderingironspb](https://github.com/Solderingironspb/examples_embedded_for_Serial_port_Plotter_by_Solderingironspb) - Примеры для работы с программой Serial port Plotter 2.0 by Solderingironspb
 - [martnak/STM32-ILI9341](https://github.com/martnak/STM32-ILI9341) - Simple HAL driver for ILI9341 320x240 TFT LCD with Touchscreen for STM32 microcontrollers
 - [radareorg/radare2-extras](https://github.com/radareorg/radare2-extras) - Source graveyard and random candy for radare2
 - [clockworkpi/PicoCalc](https://github.com/clockworkpi/PicoCalc) - A calculator like nothing you've ever seen before, right?
@@ -692,7 +701,7 @@
 - [crazii/USBDDOS](https://github.com/crazii/USBDDOS) - USB DOS driver.
 - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C
 - [MunifTanjim/llhttp.lua](https://github.com/MunifTanjim/llhttp.lua) - Lua interface for https://github.com/nodejs/llhttp
-- [wuwejp/uvllhttpd](https://github.com/wuwejp/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
+- [ryroniq/uvllhttpd](https://github.com/ryroniq/uvllhttpd) - HTTP server library utilizing libuv and llhttp in C
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [drodin/ZXdroid](https://github.com/drodin/ZXdroid) - ZX Spectrum Emulator for Android Platform
 - [samyeyo/LuaRT](https://github.com/samyeyo/LuaRT) - Open source Windows programming framework for Lua
@@ -1956,6 +1965,7 @@
 
 ## C# # 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [GMMan/st-link-hack](https://github.com/GMMan/st-link-hack) - An exploration into unsafely written code
 - [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
 - [CppCXY/EmmyLuaAnalyzer](https://github.com/CppCXY/EmmyLuaAnalyzer) - a new EmmyLua Language Server
@@ -1987,6 +1997,8 @@
 
 ## C++ 
 
+- [Solderingironspb/CRC-Calculator-by-Solderingiron](https://github.com/Solderingironspb/CRC-Calculator-by-Solderingiron) - Программа для рассчета контрольной суммы: CRC8, CRC16, CRC32
+- [Solderingironspb/Serial_port_Plotter_by_Solderingironspb](https://github.com/Solderingironspb/Serial_port_Plotter_by_Solderingironspb) - Данная программа предназначена для построения графиков на основе данных, получаемых по UART. Поддерживается до 8 каналов одновременно. В основе работы программы лежат ядра опроса — в зависимости от вы
 - [LilyGO/TTGO-TM-ESP32](https://github.com/LilyGO/TTGO-TM-ESP32) - 
 - [Yveaux/Arduino_Vcc](https://github.com/Yveaux/Arduino_Vcc) - Arduino library to read VCC supply level without external components
 - [cbm80amiga/ST7789_power_meter_cs5460a_display](https://github.com/cbm80amiga/ST7789_power_meter_cs5460a_display) - CS5460A-based plug power meter color display
@@ -8745,6 +8757,7 @@
 - [tjdevries/luvjob.nvim](https://github.com/tjdevries/luvjob.nvim) - LibUV Jobs for Nvim in Lua
 - [dm1try/golden_size](https://github.com/dm1try/golden_size) - Golden Size for your active Neovim window
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - Interactive real time neovim scratchpad for embedded lua engine - type and watch!
+- [jubnzv/dotfiles](https://github.com/jubnzv/dotfiles) - Personal configuration files, scripts, etc.
 - [kyazdani42/nvim-palenight.lua](https://github.com/kyazdani42/nvim-palenight.lua) - A palenight colorscheme for neovim
 - [zhaozg/neospace](https://github.com/zhaozg/neospace) - 
 - [javalikescript/lua-webview](https://github.com/javalikescript/lua-webview) - Webview from Lua
@@ -9205,6 +9218,7 @@
 
 ## Others 
 
+- [Solderingironspb/solderingiron-theme-light](https://github.com/Solderingironspb/solderingiron-theme-light) - Светлая тема для VSCode, вдохновленная Eclipse IDE
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) - Collections of awesome WezTerm plugins.
 - [sushisongren/STLink-V3-Rebuild](https://github.com/sushisongren/STLink-V3-Rebuild) - 
@@ -12128,7 +12142,6 @@
 - [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [dm1try/git_fastfix](https://github.com/dm1try/git_fastfix) - fast git fixups using neovim UI
-- [jubnzv/dotfiles](https://github.com/jubnzv/dotfiles) - Personal configuration files, scripts, etc.
 - [kyazdani42/dotfiles](https://github.com/kyazdani42/dotfiles) - my dotfiles for a wayland and x11 based linux system
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
