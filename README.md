@@ -328,6 +328,12 @@
 
 ## C 
 
+- [abhra0897/LameUI_font_maker](https://github.com/abhra0897/LameUI_font_maker) - Tools to create fonts for LameUI GUI library
+- [abhra0897/LameUI_simulation](https://github.com/abhra0897/LameUI_simulation) - A crappy simulator for my even crappier UI library "LameUI"
+- [abhra0897/LameUI](https://github.com/abhra0897/LameUI) - A very lame UI library for embedded systems.
+- [maudeve-it/ILI9XXX-XPT2046-STM32](https://github.com/maudeve-it/ILI9XXX-XPT2046-STM32) - A set of function handling SPI, TFT LED 480x320 or 320x240 touch display controlled by an ILI9488 or ILI9341+XPT2046
+- [AlexandrPochtovy/micromenu_stm32](https://github.com/AlexandrPochtovy/micromenu_stm32) - Tiny text-orientated menu library in C for embedded use.
+- [maudeve-it/ST7735S-STM32](https://github.com/maudeve-it/ST7735S-STM32) - a set of functions handling a 128x160 TFT LCD display with the ST7735 SPI driver
 - [Solderingironspb/RVMSIS_PROJECT_CREATOR](https://github.com/Solderingironspb/RVMSIS_PROJECT_CREATOR) - Скрипты для создания нового проекта под RVMSIS/WCH (RISC-V)
 - [Solderingironspb/CH32V203C8T6_RVMSIS_notes](https://github.com/Solderingironspb/CH32V203C8T6_RVMSIS_notes) - Разбираемся с RISC-V на примере CH32V203C8T6
 - [Solderingironspb/SEGA_gamepad](https://github.com/Solderingironspb/SEGA_gamepad) - Подключаем геймпад от SEGA Mega Drive 2 к STM32F103C8T6
@@ -1997,6 +2003,7 @@
 
 ## C++ 
 
+- [abcminiuser/HoleySheet](https://github.com/abcminiuser/HoleySheet) - Simple command-line, cross platform sprite atlas generator.
 - [Solderingironspb/CRC-Calculator-by-Solderingiron](https://github.com/Solderingironspb/CRC-Calculator-by-Solderingiron) - Программа для рассчета контрольной суммы: CRC8, CRC16, CRC32
 - [Solderingironspb/Serial_port_Plotter_by_Solderingironspb](https://github.com/Solderingironspb/Serial_port_Plotter_by_Solderingironspb) - Данная программа предназначена для построения графиков на основе данных, получаемых по UART. Поддерживается до 8 каналов одновременно. В основе работы программы лежат ядра опроса — в зависимости от вы
 - [LilyGO/TTGO-TM-ESP32](https://github.com/LilyGO/TTGO-TM-ESP32) - 
@@ -2613,14 +2620,14 @@
 - [RobTillaart/DEVRANDOM](https://github.com/RobTillaart/DEVRANDOM) - Arduino library to wrap a random generator in a stream
 - [RobTillaart/DHTINT](https://github.com/RobTillaart/DHTINT) - Arduino library for DHT sensors - integer only
 - [RobTillaart/DHT_Simulator](https://github.com/RobTillaart/DHT_Simulator) - Arduino sketch to simulate a  DHT22
-- [RobTillaart/DS2401](https://github.com/RobTillaart/DS2401) - Library for the DS2401 1-wire unique identification chip.
-- [RobTillaart/DS2438](https://github.com/RobTillaart/DS2438) - Arduino Library for DS2438 1-Wire battery monitor
-- [RobTillaart/KT0803](https://github.com/RobTillaart/KT0803) - Arduino Library for KT0803 FM transmitter
+- [RobTillaart/DS2401](https://github.com/RobTillaart/DS2401) - Arduino library for the DS2401 1-wire unique identification chip.
+- [RobTillaart/DS2438](https://github.com/RobTillaart/DS2438) - Arduino library for DS2438 1-Wire battery monitor
+- [RobTillaart/KT0803](https://github.com/RobTillaart/KT0803) - Arduino library for KT0803 FM transmitter
 - [RobTillaart/Logistic](https://github.com/RobTillaart/Logistic) - Arduino library to explore the logistic formula. (chaos, bifurcation)
 - [RobTillaart/MAX471_RT](https://github.com/RobTillaart/MAX471_RT) - Arduino library for MAX471 current sensor.
 - [RobTillaart/MAX520](https://github.com/RobTillaart/MAX520) - Arduino library for MAX520/521 4/8 channel 8 bit DAC.
 - [RobTillaart/MS5837](https://github.com/RobTillaart/MS5837) - Arduino library for MS5837 temperature and pressure sensor.
-- [RobTillaart/NeumannCorrector](https://github.com/RobTillaart/NeumannCorrector) - Corrector to extract entropy / bits from a not too random stream
+- [RobTillaart/NeumannCorrector](https://github.com/RobTillaart/NeumannCorrector) - Arduino library with corrector to extract entropy / bits from a not too random stream
 - [RobTillaart/geomath](https://github.com/RobTillaart/geomath) - Arduino library with geographic math functions.
 - [RobTillaart/map2bits](https://github.com/RobTillaart/map2bits) - Arduino library for mapping a float to a number of bits.
 - [RobTillaart/TLC5917](https://github.com/RobTillaart/TLC5917) - Arduino library for TLC5917 8-Channel Constant-Current LED Sink Drivers.
@@ -2961,7 +2968,7 @@
 - [Shagrat2/OneWireHub](https://github.com/Shagrat2/OneWireHub) - Arduino OneWire slave device emulator
 - [RobTillaart/AM232X](https://github.com/RobTillaart/AM232X) - Arduino library for AM2320 AM2321 and AM2323 I2C temperature and humidity sensor
 - [RobTillaart/Adler](https://github.com/RobTillaart/Adler) - Arduino library for calculating the Adler-32 and Adler-16 checksum.
-- [RobTillaart/Fletcher](https://github.com/RobTillaart/Fletcher) - Arduino Library for calculating Fletcher's checksum
+- [RobTillaart/Fletcher](https://github.com/RobTillaart/Fletcher) - Arduino library for calculating Fletcher's checksum
 - [RobTillaart/dateTimeHelpers](https://github.com/RobTillaart/dateTimeHelpers) - Arduino library with date and time helper functions.
 - [RobTillaart/RAIN](https://github.com/RobTillaart/RAIN) - Arduino library for rain sensor (analog)
 - [RobTillaart/Correlation](https://github.com/RobTillaart/Correlation) - Arduino library to determine the correlation between X and Y datasets.
@@ -2977,14 +2984,14 @@
 - [RobTillaart/HeartBeat](https://github.com/RobTillaart/HeartBeat) - Arduino library for a HeartBeat with frequency and duty cycle.
 - [RobTillaart/HMC6352](https://github.com/RobTillaart/HMC6352) - Arduino library for HMC6352 compass sensor
 - [RobTillaart/I2CKeyPad8x8](https://github.com/RobTillaart/I2CKeyPad8x8) - Arduino library for 8x8 or smaller KeyPad connected to an I2C PCF8575.
-- [RobTillaart/infiniteAverage](https://github.com/RobTillaart/infiniteAverage) - Arduino Library to calculate an average of many many samples
+- [RobTillaart/infiniteAverage](https://github.com/RobTillaart/infiniteAverage) - Arduino library to calculate an average of many many samples
 - [RobTillaart/Interval](https://github.com/RobTillaart/Interval) - Arduino library for Interval datatype
 - [RobTillaart/M62429](https://github.com/RobTillaart/M62429) - Arduino library for M62429 volume control IC
 - [RobTillaart/MAX6675](https://github.com/RobTillaart/MAX6675) - Arduino library for MAX6675 chip for K type thermocouple
 - [RobTillaart/MINMAX](https://github.com/RobTillaart/MINMAX) - Arduino library to find peaks in a signal
 - [RobTillaart/moduloMap](https://github.com/RobTillaart/moduloMap) - Arduino library for the moduloMap class.
 - [RobTillaart/MS5611](https://github.com/RobTillaart/MS5611) - Arduino library for MS5611 temperature and pressure sensor
-- [RobTillaart/MS5611_SPI](https://github.com/RobTillaart/MS5611_SPI) - Arduino library (SPI) for MS5611 temperature and pressure sensor.
+- [RobTillaart/MS5611_SPI](https://github.com/RobTillaart/MS5611_SPI) - Arduino library for (SPI) MS5611 temperature and pressure sensor.
 - [RobTillaart/MT8870](https://github.com/RobTillaart/MT8870) - Arduino library for MT8870 DTMF decoder (breakout)
 - [RobTillaart/palindrome](https://github.com/RobTillaart/palindrome) - Arduino library to do palindrome experiments., including palindrome search
 - [RobTillaart/PAR27979](https://github.com/RobTillaart/PAR27979) - Arduino library for the Parallax 27979 serial display
@@ -2992,28 +2999,28 @@
 - [RobTillaart/PERIPUMP](https://github.com/RobTillaart/PERIPUMP) - Arduino library for peristaltic pump DFR0523 and compatibles.
 - [RobTillaart/PinInGroup](https://github.com/RobTillaart/PinInGroup) - Arduino library to group reading to 16 input pins in one command
 - [RobTillaart/PinOutGroup](https://github.com/RobTillaart/PinOutGroup) - Arduino library to group writing to 16 output pins in one command
-- [RobTillaart/PIR](https://github.com/RobTillaart/PIR) - PIR library for Arduino. Supports up to 8 PIR sensors.
+- [RobTillaart/PIR](https://github.com/RobTillaart/PIR) - Arduino library for 8 channel PIR detection system based upon PCF8574.
 - [RobTillaart/Prandom](https://github.com/RobTillaart/Prandom) - Arduino library for random numbers with Python Random interface
 - [RobTillaart/PrintCharArray](https://github.com/RobTillaart/PrintCharArray) - Arduino library to print to a char array
 - [RobTillaart/PrintSize](https://github.com/RobTillaart/PrintSize) - Arduino library to determine the length of print statements
 - [RobTillaart/PrintString](https://github.com/RobTillaart/PrintString) - Arduino library to print to a String
-- [RobTillaart/PulsePattern](https://github.com/RobTillaart/PulsePattern) - Arduino Library to generate repeating pulse patterns
+- [RobTillaart/PulsePattern](https://github.com/RobTillaart/PulsePattern) - Arduino library to generate repeating pulse patterns
 - [RobTillaart/RADAR](https://github.com/RobTillaart/RADAR) - Arduino library for a pan tilt radar.
 - [RobTillaart/relativity](https://github.com/RobTillaart/relativity) - Arduino library with relativity functions
 - [RobTillaart/SET](https://github.com/RobTillaart/SET) - Arduino library to implement simple SET data structure.
 - [RobTillaart/SparseArray](https://github.com/RobTillaart/SparseArray) - Arduino library for sparse arrays of floats
 - [RobTillaart/SparseMatrix](https://github.com/RobTillaart/SparseMatrix) - Arduino library for sparse matrices
 - [RobTillaart/tinySHT2x](https://github.com/RobTillaart/tinySHT2x) - Arduino library specific for AVR tiny processors (non portible)
-- [RobTillaart/Troolean](https://github.com/RobTillaart/Troolean) - Arduino Library for a three state logic datatype supporting {True False Unknown}
+- [RobTillaart/Troolean](https://github.com/RobTillaart/Troolean) - Arduino library for a three state logic datatype supporting {True False Unknown}
 - [RobTillaart/WaveMix](https://github.com/RobTillaart/WaveMix) - Arduino library to mix two signals (A and B) with an adaptive weight.
-- [RobTillaart/X9C10X](https://github.com/RobTillaart/X9C10X) - Arduino Library for X9C10X series digital potentiometer.
-- [RobTillaart/FLE](https://github.com/RobTillaart/FLE) - Arduino Library for floating point datatype with error math
+- [RobTillaart/X9C10X](https://github.com/RobTillaart/X9C10X) - Arduino library for X9C10X series digital potentiometer.
+- [RobTillaart/FLE](https://github.com/RobTillaart/FLE) - Arduino library for floating point datatype with error math
 - [RobTillaart/MAX31850](https://github.com/RobTillaart/MAX31850) - Arduino library for the MAX31850 thermocouple temperature sensor.
 - [RobTillaart/HC4067](https://github.com/RobTillaart/HC4067) - Arduino library for CD74HC4067 1 x 16 channel multiplexer and compatibles.
 - [RobTillaart/HC4051](https://github.com/RobTillaart/HC4051) - Arduino library for CD74HC4051 1x8 channel multiplexer and compatibles.
 - [RobTillaart/HC4052](https://github.com/RobTillaart/HC4052) - Arduino library for HC4052 2x4 channel multiplexer and compatibles.
 - [RobTillaart/HC4053](https://github.com/RobTillaart/HC4053) - Arduino library for CD74HC4053 3x2 channel multiplexer and compatibles.
-- [RobTillaart/GAMMA](https://github.com/RobTillaart/GAMMA) - Arduino Library for the GAMMA function to adjust brightness of LED's etc.
+- [RobTillaart/GAMMA](https://github.com/RobTillaart/GAMMA) - Arduino library for the GAMMA function to adjust brightness of LED's etc.
 - [RobTillaart/GST](https://github.com/RobTillaart/GST) - Arduino library for Gold Standard Test metrics
 - [RobTillaart/Kelvin2RGB](https://github.com/RobTillaart/Kelvin2RGB) - Arduino library for converting temperature to RGB values
 - [RobTillaart/LineFormatter](https://github.com/RobTillaart/LineFormatter) - Arduino library to enhance the layout of tabular data on serial output,
@@ -3021,12 +3028,12 @@
 - [RobTillaart/AngleConvertor](https://github.com/RobTillaart/AngleConvertor) - Arduino library for converting angles (degrees/radians) to less known formats.
 - [RobTillaart/UUID](https://github.com/RobTillaart/UUID) - Arduino library for generating UUID strings.
 - [RobTillaart/SIMON](https://github.com/RobTillaart/SIMON) - Arduino library to build the "Simon says" game or a digital lock
-- [RobTillaart/Soundex](https://github.com/RobTillaart/Soundex) - Arduino Library for calculating Soundex hash
+- [RobTillaart/Soundex](https://github.com/RobTillaart/Soundex) - Arduino library for calculating Soundex hash
 - [RobTillaart/Fraction](https://github.com/RobTillaart/Fraction) - Arduino library to implement a Fraction datatype
 - [RobTillaart/DMM](https://github.com/RobTillaart/DMM) - Arduino library for a DMM class
 - [RobTillaart/nibbleArray](https://github.com/RobTillaart/nibbleArray) - Arduino library for a compact array of nibbles (4 bit units)
 - [RobTillaart/timing](https://github.com/RobTillaart/timing) - Arduino library with wrappers for seconds millis micros
-- [RobTillaart/PID_RT](https://github.com/RobTillaart/PID_RT) - PID library for Arduino
+- [RobTillaart/PID_RT](https://github.com/RobTillaart/PID_RT) - Arduino library for PID controller.
 - [RobTillaart/TCA9548](https://github.com/RobTillaart/TCA9548) - Arduino library for TCA9548 8 channel I2C multiplexer and compatibles.
 - [RobTillaart/TSL260R](https://github.com/RobTillaart/TSL260R) - Arduino library for the TSL260R IR to voltage convertor
 - [RobTillaart/ML8511](https://github.com/RobTillaart/ML8511) - Arduino library for ML8511 UV sensor
@@ -3036,7 +3043,7 @@
 - [RobTillaart/SHEX](https://github.com/RobTillaart/SHEX) - Arduino library for transforming Serial in a HEX dump
 - [RobTillaart/ShiftInSlow](https://github.com/RobTillaart/ShiftInSlow) - Arduino library for shiftIn with build-in delay
 - [RobTillaart/ShiftOutSlow](https://github.com/RobTillaart/ShiftOutSlow) - Arduino library for shiftOut with build-in delay
-- [RobTillaart/runningAngle](https://github.com/RobTillaart/runningAngle) - Library to average angles by means of low pass filtering
+- [RobTillaart/runningAngle](https://github.com/RobTillaart/runningAngle) - Arduino library to average angles by means of low pass filtering.
 - [RobTillaart/pressure](https://github.com/RobTillaart/pressure) - Arduino library for conversion of pressure units
 - [RobTillaart/randomHelpers](https://github.com/RobTillaart/randomHelpers) - Arduino library for faster generation of random numbers.
 - [RobTillaart/MAX31855_RT](https://github.com/RobTillaart/MAX31855_RT) - Arduino library for MAX31855 chip for K type thermocouple
@@ -3047,7 +3054,7 @@
 - [RobTillaart/SRF05](https://github.com/RobTillaart/SRF05) - Arduino library for SRF05 distance sensor with temperature and humidity compensation.
 - [RobTillaart/MCP_DAC](https://github.com/RobTillaart/MCP_DAC) - Arduino library for MCP_DAC MCP48xx and MCP49xx series SPI-DAC
 - [RobTillaart/map2colour](https://github.com/RobTillaart/map2colour) - Arduino library for mapping a float to the RGB colour spectrum
-- [RobTillaart/LUHN](https://github.com/RobTillaart/LUHN) - Arduino Library for calculating LUHN checksum
+- [RobTillaart/LUHN](https://github.com/RobTillaart/LUHN) - Arduino library for calculating LUHN checksum
 - [RobTillaart/RS485](https://github.com/RobTillaart/RS485) - Arduino library for RS485, half duplex communication
 - [RobTillaart/GY521](https://github.com/RobTillaart/GY521) - Arduino library for GY521  accelerometer- gyroscope a.k.a. MCU-6050
 - [RobTillaart/TOPMAX](https://github.com/RobTillaart/TOPMAX) - Arduino library to track the top N maxima.
@@ -3055,25 +3062,25 @@
 - [RobTillaart/TLC5947](https://github.com/RobTillaart/TLC5947) - Arduino library for TLC5947 24 channel 12 bit PWM module.
 - [RobTillaart/integer24](https://github.com/RobTillaart/integer24) - Arduino library for the integer24 data types uint24_t and int24_t.
 - [RobTillaart/Statistic](https://github.com/RobTillaart/Statistic) - Statistic library for Arduino includes sum, average, variance and std deviation
-- [RobTillaart/Gauss](https://github.com/RobTillaart/Gauss) - Library for the Gauss probability math.
+- [RobTillaart/Gauss](https://github.com/RobTillaart/Gauss) - Arduino library for the Gauss probability math. (Normal Distribution, Gaussian distribution).
 - [RobTillaart/RunningMedian](https://github.com/RobTillaart/RunningMedian) - Arduino library to determine the running median by means of a circular buffer.
 - [RobTillaart/printHelpers](https://github.com/RobTillaart/printHelpers) - Arduino library to help formatting data for printing
 - [RobTillaart/SHT31_SW](https://github.com/RobTillaart/SHT31_SW) - Arduino library for the SHT31 temperature and humidity sensor - using SoftWire
 - [RobTillaart/SHT31_SWW](https://github.com/RobTillaart/SHT31_SWW) - Arduino library for the SHT31 temperature and humidity sensor - using SoftWareWire
-- [RobTillaart/XMLWriter](https://github.com/RobTillaart/XMLWriter) - Arduino Library to create simple XML (messages, files, print, ...) for a stream.
+- [RobTillaart/XMLWriter](https://github.com/RobTillaart/XMLWriter) - Arduino library to create simple XML (messages, files, print, ...) for a stream.
 - [RobTillaart/ADG725](https://github.com/RobTillaart/ADG725) - Arduino library for ADG725 - 16 to 1 channel (2x) multiplexer
 - [RobTillaart/ADG731](https://github.com/RobTillaart/ADG731) - Arduino library for ADG731 - 32 to 1 channel multiplexer.
 - [RobTillaart/ADG726](https://github.com/RobTillaart/ADG726) - Arduino library for ADG726 - 16 to 1 channel (2x) multiplexer
-- [RobTillaart/MHZCO2](https://github.com/RobTillaart/MHZCO2) - Arduino Library for MHZ series CO2 sensors
+- [RobTillaart/MHZCO2](https://github.com/RobTillaart/MHZCO2) - Arduino library for MHZ series CO2 sensors
 - [RobTillaart/DHT20](https://github.com/RobTillaart/DHT20) - Arduino library for DHT20 I2C temperature and humidity sensor.
-- [RobTillaart/MATRIX7219](https://github.com/RobTillaart/MATRIX7219) - Arduino Library for 8x8 LED MATRIX MAX7219
+- [RobTillaart/MATRIX7219](https://github.com/RobTillaart/MATRIX7219) - Arduino library for 8x8 LED MATRIX MAX7219
 - [RobTillaart/MTP40C](https://github.com/RobTillaart/MTP40C) - Arduino library for MTP40C CO2 + air pressure sensor
 - [RobTillaart/Histogram](https://github.com/RobTillaart/Histogram) - Arduino library for creating histograms
 - [RobTillaart/MTP40F](https://github.com/RobTillaart/MTP40F) - Arduino library for MTP40F CO2 sensor.
 - [RobTillaart/M5ANGLE8](https://github.com/RobTillaart/M5ANGLE8) - Arduino library for m5 8angle 8x12 bit potentiometers
 - [RobTillaart/MCP23S17](https://github.com/RobTillaart/MCP23S17) - Arduino library for SPI based MCP23S17 16 channel port expander
 - [RobTillaart/MCP23S08](https://github.com/RobTillaart/MCP23S08) - Arduino library for SPI MCP23S08 8 channel port expander
-- [RobTillaart/weight](https://github.com/RobTillaart/weight) - Library of weight conversion functions
+- [RobTillaart/weight](https://github.com/RobTillaart/weight) - Arduino library of weight conversion functions.
 - [RobTillaart/VolumeConverter](https://github.com/RobTillaart/VolumeConverter) - Arduino library to convert volume units.
 - [RobTillaart/MiniMP3](https://github.com/RobTillaart/MiniMP3) - Arduino library for DFRobotics MP3 player and compatibles.
 - [RobTillaart/SWSerialOut](https://github.com/RobTillaart/SWSerialOut) - Arduino library for SWSerialOut, supports only data out (TX).
@@ -3096,12 +3103,12 @@
 - [RobTillaart/DS28CM00](https://github.com/RobTillaart/DS28CM00) - Arduino library for I2C unique ID ic.  [48 bit]
 - [RobTillaart/CHT8305](https://github.com/RobTillaart/CHT8305) - Arduino library for CHT8305 temperature and humidity sensor
 - [RobTillaart/AD9833](https://github.com/RobTillaart/AD9833) - Arduino library for AD9833 function generator.
-- [RobTillaart/HT16K33](https://github.com/RobTillaart/HT16K33) - Arduino Library for HT16K33 4x7segment display
+- [RobTillaart/HT16K33](https://github.com/RobTillaart/HT16K33) - Arduino library for HT16K33 4x7segment display
 - [RobTillaart/I2C_ASDX](https://github.com/RobTillaart/I2C_ASDX) - Arduino library for ASDX pressure sensor
 - [RobTillaart/rotaryDecoder](https://github.com/RobTillaart/rotaryDecoder) - Arduino library for a PCF8574 based rotary decoder - supports 4 rotary encoders.
 - [RobTillaart/rotaryDecoderSwitch](https://github.com/RobTillaart/rotaryDecoderSwitch) - Arduino library for a PCF8574 based rotary decoder - supports 2 rotary encoders with a switch
 - [RobTillaart/TCA9555](https://github.com/RobTillaart/TCA9555) - Arduino library for I2C TCA9555 16 channel port expander
-- [RobTillaart/PCF8591](https://github.com/RobTillaart/PCF8591) - Arduino Library for PCF8591 I2C 4 channel 8 bit ADC + 1 channel 8 bit DAC
+- [RobTillaart/PCF8591](https://github.com/RobTillaart/PCF8591) - Arduino library for PCF8591 I2C 4 channel 8 bit ADC + 1 channel 8 bit DAC
 - [RobTillaart/MSP300](https://github.com/RobTillaart/MSP300) - Arduino library for I2C MSP300 pressure transducer.
 - [RobTillaart/MAX14661](https://github.com/RobTillaart/MAX14661) - Arduino library for MAX14661 16 x 2 channel I2C multiplexer
 - [RobTillaart/LTC2991](https://github.com/RobTillaart/LTC2991) - Arduino library for the Octal I2C Voltage, Current, and Temperature Monitor
@@ -3339,22 +3346,22 @@
 - [RobTillaart/uv-sensor](https://github.com/RobTillaart/uv-sensor) - Arduino sketch for analog UV sensor
 - [RobTillaart/Temperature](https://github.com/RobTillaart/Temperature) - Arduino library with dewPoint  humidex and heatIndex functions.
 - [RobTillaart/TSL235R](https://github.com/RobTillaart/TSL235R) - Arduino library for the TSL235R light to frequency convertor
-- [RobTillaart/Stopwatch_RT](https://github.com/RobTillaart/Stopwatch_RT) - Arduino Library implementing a stopwatch including minutes, seconds, milliseconds and microseconds
-- [RobTillaart/TM1637_RT](https://github.com/RobTillaart/TM1637_RT) - TM1637 library for Arduino
+- [RobTillaart/Stopwatch_RT](https://github.com/RobTillaart/Stopwatch_RT) - Arduino library implementing a stopwatch including minutes, seconds, milliseconds and microseconds
+- [RobTillaart/TM1637_RT](https://github.com/RobTillaart/TM1637_RT) - Arduino library for TM1637 driven displays and key scans.
 - [RobTillaart/AD524X](https://github.com/RobTillaart/AD524X) - Arduino library for I2C digital potentiometer AD5241 AD5242
 - [RobTillaart/AD985X](https://github.com/RobTillaart/AD985X) - Arduino library for AD9850 and AD9851 function generators.
 - [RobTillaart/AD5144A](https://github.com/RobTillaart/AD5144A) - Arduino library for I2C digital potentiometer AD5144A
 - [RobTillaart/ADS1X15](https://github.com/RobTillaart/ADS1X15) - Arduino library for ADS1015 = I2C 12 bit ADC and ADS1115 = I2C 16 bit ADC
 - [RobTillaart/AnalogKeypad](https://github.com/RobTillaart/AnalogKeypad) - Arduino library for 4x4 analog keypad
 - [RobTillaart/AnalogPin](https://github.com/RobTillaart/AnalogPin) - Arduino library to add functionality on top of analogRead()
-- [RobTillaart/AsyncAnalog](https://github.com/RobTillaart/AsyncAnalog) - Arduino Library for async reading of an analog pin [AVR only for now]
+- [RobTillaart/AsyncAnalog](https://github.com/RobTillaart/AsyncAnalog) - Arduino library for async reading of an analog pin [AVR only for now]
 - [RobTillaart/AverageAngle](https://github.com/RobTillaart/AverageAngle) - Arduino library to calculate correctly the average of multiple angles
 - [RobTillaart/avrheap](https://github.com/RobTillaart/avrheap) - Arduino library to investigate the avr heap
 - [RobTillaart/BitArray](https://github.com/RobTillaart/BitArray) - Arduino library for compact array of objects with a size expressed in bits. typically 1..10
 - [RobTillaart/bitHelpers](https://github.com/RobTillaart/bitHelpers) - Arduino library with static functions on bit level (a.k.a. bit hacks)
 - [RobTillaart/BoolArray](https://github.com/RobTillaart/BoolArray) - Arduino library for a compact array of booleans of max size 10000 (UNO R3)
 - [RobTillaart/Complex](https://github.com/RobTillaart/Complex) - Arduino library for Complex math
-- [RobTillaart/CRC](https://github.com/RobTillaart/CRC) - CRC library for Arduino
+- [RobTillaart/CRC](https://github.com/RobTillaart/CRC) - Arduino library with CRC8, CRC12, CRC16, CRC32 and CRC64 functions.
 - [RobTillaart/Currency](https://github.com/RobTillaart/Currency) - Arduino library to display currency
 - [RobTillaart/DAC8550](https://github.com/RobTillaart/DAC8550) - Arduino library for DAC8550 SPI Digital Analog Convertor
 - [RobTillaart/DAC8551](https://github.com/RobTillaart/DAC8551) - Arduino library for DAC8551  Digital Analog Convertor
@@ -3364,7 +3371,7 @@
 - [RobTillaart/DHT12](https://github.com/RobTillaart/DHT12) - Arduino library for I2C DHT12 sensor
 - [RobTillaart/DHTlib](https://github.com/RobTillaart/DHTlib) - Arduino library for DHT temperature and humidity sensor. AVR optimized
 - [RobTillaart/DHTNew](https://github.com/RobTillaart/DHTNew) - Arduino library for DHT11 and DHT22 with automatic sensor recognition
-- [RobTillaart/DHTstable](https://github.com/RobTillaart/DHTstable) - Arduino Library for the DHT temperature and humidity sensor.
+- [RobTillaart/DHTstable](https://github.com/RobTillaart/DHTstable) - Arduino library for the DHT temperature and humidity sensor.
 - [RobTillaart/DS18B20_INT](https://github.com/RobTillaart/DS18B20_INT) - Arduino library for DS18B20 with minimal footprint. (Integer math only).
 - [RobTillaart/DS18B20_RT](https://github.com/RobTillaart/DS18B20_RT) - Arduino library for the DS18B20 sensor - restricted to one sensor per pin.
 - [RobTillaart/float16](https://github.com/RobTillaart/float16) - Arduino library to implement float16 data type
@@ -3372,7 +3379,7 @@
 - [RobTillaart/FunctionGenerator](https://github.com/RobTillaart/FunctionGenerator) - Arduino library to generate wave forms (nummeric) for a DAC
 - [RobTillaart/I2C_24LC1025](https://github.com/RobTillaart/I2C_24LC1025) - Arduino library for the 24LC1025 I2C EEPROM and equivalent
 - [RobTillaart/I2CKeyPad](https://github.com/RobTillaart/I2CKeyPad) - Arduino library for 4x4 (or smaller) keypad connected to an I2C PCF8574.
-- [RobTillaart/I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM) - Library for I2C EEPROM - 24LC512, 24LC256, 24LC64/32/16/08/04/02/01.
+- [RobTillaart/I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM) - Arduino Library for external I2C EEPROM - 24LC512, 24LC256, 24LC64/32/16/08/04/02/01.
 - [RobTillaart/Arduino](https://github.com/RobTillaart/Arduino) - Arduino libraries, code and applications
 - [xlucn/fbterm](https://github.com/xlucn/fbterm) - A personal fork only to keep the patches I need
 - [enjoyneering/Bench_Power_Supply](https://github.com/enjoyneering/Bench_Power_Supply) - Bench power supply controlled by Arduino
@@ -5374,7 +5381,7 @@
 - [BurntSushi/wingo](https://github.com/BurntSushi/wingo) - A fully-featured window manager written in Go.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [metaleap/zentient](https://github.com/metaleap/zentient) - [2017-2019, maintained, stable; great for Go, meagre for others] multi-language, multi-editor IDE backend (frontends in separate repos) ➜ first iteration: language support for Go (fully) & Haskell (mi
-- [rafi/gits](https://github.com/rafi/gits) - A Fast CLI Git manager for multiple repositories
+- [rafi/gits](https://github.com/rafi/gits) - Fast CLI Git manager for multiple repositories grouped by projects, with GitHub/GitLab/Bitbucket support.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [dufferzafar/cheat](https://github.com/dufferzafar/cheat) - Cheatsheets for command line, because, you know, life is too short to read manpages.
@@ -5471,6 +5478,7 @@
 
 ## HTML 
 
+- [abhra0897/LameUI_docs](https://github.com/abhra0897/LameUI_docs) - gh-page repo of LameUI documentations. Main repo: github.com/abhra0897/LameUI
 - [yingchaotw/STLinkV3_Adapter](https://github.com/yingchaotw/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlink-v3.
 - [RadioOperator/STLinkV3_Adapter](https://github.com/RadioOperator/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlinkv3-mini.
 - [yiancar/barleycorn_pcb](https://github.com/yiancar/barleycorn_pcb) - A 1800 f-row less throughole keyboard with USBC. Inspired by the Plaid
@@ -6033,6 +6041,7 @@
 
 ## Jinja 
 
+- [nyoom-engineering/oxocarbon-wezterm](https://github.com/nyoom-engineering/oxocarbon-wezterm) - A dark Wezterm theme, inspired by IBM Carbon.
 - [RealTimeLogic/MakoInstaller](https://github.com/RealTimeLogic/MakoInstaller) - Linux Mako Server Ansible Installation Script
 - [geerlingguy/turing-pi-cluster](https://github.com/geerlingguy/turing-pi-cluster) - DEPRECATED - Turing Pi cluster configuration for Raspberry Pi Compute Modules
 
@@ -6173,6 +6182,14 @@
 
 ## Lua 
 
+- [hanyu1774/nekonight.nvim](https://github.com/hanyu1774/nekonight.nvim) - This repo contains the nekonight colorscheme for Neovim. It was made by thebigcicca (Bruno G. Ciccarino) and gs-101 gs-101 (Gabriel Santos).
+- [Bingzgoj/simple_wezterm](https://github.com/Bingzgoj/simple_wezterm) - A primitive simple configuration for wezterm.
+- [mBuergi86/my_wezterm](https://github.com/mBuergi86/my_wezterm) - Custom WezTerm configuration with enhanced aesthetics, dynamic theming, and efficient keybindings.
+- [lettertwo/laserwave.nvim](https://github.com/lettertwo/laserwave.nvim) - A clean 80's synthwave / outrun inspired theme written in Lua ported from the Visual Studio Code LaserWave theme.
+- [skylarmb/torchlight.nvim](https://github.com/skylarmb/torchlight.nvim) - A cozy Neovim colorscheme inspired by "Fishing by Torchlight in Kai Province" by Hokusai
+- [marekh19/meowsoot.nvim](https://github.com/marekh19/meowsoot.nvim) - A pink–cyan–lavender Neovim colorscheme. Strings are yellow, functions are pink, types are lavender — and green never reaches code. Pure Lua, zero deps, 22 plugin integrations, AAA contrast. Matching 
+- [catppuccin/wezterm](https://github.com/catppuccin/wezterm) - :shell: Soothing pastel theme for WezTerm
+- [KevinSilvester/wezterm-config](https://github.com/KevinSilvester/wezterm-config) - My WezTerm Config
 - [dfaerch/passrelay.wezterm](https://github.com/dfaerch/passrelay.wezterm) - Password manager integration for WezTerm
 - [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) - 🎨 kanagawa.nvim color schemes ported to Wezterm
 - [dfsramos/wezterm-sync](https://github.com/dfsramos/wezterm-sync) - WezTerm plugin to sync your config across machines via GitHub Gist
@@ -8464,7 +8481,6 @@
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration
 - [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Bubbly statusline for neovim
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
-- [halkn/dotfiles](https://github.com/halkn/dotfiles) - 
 - [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [bew/dotfiles](https://github.com/bew/dotfiles) - All my dotfiles in one place!
@@ -9013,6 +9029,9 @@
 
 ## Makefile 
 
+- [stm32duino/ArduinoModule-CMSIS](https://github.com/stm32duino/ArduinoModule-CMSIS) - CMSIS module for Arduino IDE
+- [LuisAGC/micromenu-v2](https://github.com/LuisAGC/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
+- [abcminiuser/micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
 - [piit79/crkbd](https://github.com/piit79/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
 - [pierrechevalier83/kbd](https://github.com/pierrechevalier83/kbd) - for building keyboard libraries
@@ -10053,6 +10072,9 @@
 
 ## Python 
 
+- [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) - Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
+- [abcminiuser/mpc-hc-webui-proxy](https://github.com/abcminiuser/mpc-hc-webui-proxy) - Simple proxy to restrict the MPC-HC web UI to protect sensitive actions/information.
+- [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) - Goal: Enable awesome tooling for Bazel users of the C language family.
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [jake-stewart/color256](https://github.com/jake-stewart/color256) - Generate a full 256 palette from base16 your colors
 - [kaitai-io/kaitai_struct_samples](https://github.com/kaitai-io/kaitai_struct_samples) - Kaitai Struct: library of sample files for testing
@@ -11095,6 +11117,7 @@
 
 ## Rust 
 
+- [probe-rs/flash-algorithm-template](https://github.com/probe-rs/flash-algorithm-template) - A template for writing CMSIS-Pack flash algorithms in Rust
 - [rust-embedded/svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -11399,7 +11422,7 @@
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [ToxicFrog/mkrescue](https://github.com/ToxicFrog/mkrescue) - Script to build bootable rescue USB sticks
 - [ToxicFrog/hypatian-prompt](https://github.com/ToxicFrog/hypatian-prompt) - ZSH for prompt using asynchronous subprocesses to fetch DVCS data.
-- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - my .config/
+- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - My macOS dotfiles. Managed with chezmoi. Feel free to steal anything useful.
 - [sidprice/EBlink](https://github.com/sidprice/EBlink) - ARM Cortex-M GDB server with device squirrel scripting  support
 - [embeddedartistry/cmake-project-skeleton](https://github.com/embeddedartistry/cmake-project-skeleton) - Reusable project skeleton for embedded C & C++ projects using CMake.
 - [txurtxil/termux-ia-local](https://github.com/txurtxil/termux-ia-local) - 
@@ -11934,6 +11957,7 @@
 - [mashrafdev/dotfiles](https://github.com/mashrafdev/dotfiles) - 
 - [mashrafdev/vim-curl-demo](https://github.com/mashrafdev/vim-curl-demo) - 
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
+- [halkn/dotfiles](https://github.com/halkn/dotfiles) - 
 - [k-kurumi/dotfiles](https://github.com/k-kurumi/dotfiles) - 
 - [DanCardin/dotfiles](https://github.com/DanCardin/dotfiles) - 
 - [66RING/dotfiles](https://github.com/66RING/dotfiles) - My dotfiles
@@ -12140,7 +12164,7 @@
 - [MikaelElkiaer/dotfiles](https://github.com/MikaelElkiaer/dotfiles) - 
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [dm1try/git_fastfix](https://github.com/dm1try/git_fastfix) - fast git fixups using neovim UI
 - [kyazdani42/dotfiles](https://github.com/kyazdani42/dotfiles) - my dotfiles for a wayland and x11 based linux system
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
