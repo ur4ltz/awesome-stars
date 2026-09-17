@@ -27,7 +27,6 @@
 - [Crystal](#crystal)
 - [Cython](#cython)
 - [D](#d)
-- [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dhall](#dhall)
 - [Dockerfile](#dockerfile)
@@ -3928,10 +3927,6 @@
 - [ibara/d80](https://github.com/ibara/d80) - Intel 8080/Zilog Z80 disassembler written in D.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 
-## DIGITAL Command Language 
-
-- [jamessan/etc-git](https://github.com/jamessan/etc-git) - 
-
 ## Dart 
 
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
@@ -4034,7 +4029,7 @@
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Indentation based Folding for Emacs (Supersedes legacy packages such as origami.el and yafolding.el)
 - [atilaneves/cmake-ide](https://github.com/atilaneves/cmake-ide) - Use Emacs as a C/C++ IDE
-- [pz7a/display-wttr](https://github.com/pz7a/display-wttr) - Display wttr(weather) in the mode line 🌧️.
+- [josegpt/display-wttr](https://github.com/josegpt/display-wttr) - Display wttr(weather) in the mode line 🌧️.
 - [ISouthRain/ewth.el](https://github.com/ISouthRain/ewth.el) - Emacs weather for Wttr.in(OpenSource) in modeline.
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
@@ -9298,7 +9293,7 @@
 - [minamonra/Kicad-STM32](https://github.com/minamonra/Kicad-STM32) - STM 32 library for KiCad
 - [piit79/Kicad-STM32](https://github.com/piit79/Kicad-STM32) - STM 32 library for KiCad
 - [erichelgeson/Kicad-STM32](https://github.com/erichelgeson/Kicad-STM32) - STM 32 library for KiCad
-- [nikolai2111/STM32G474_Black-Pill_v3.0](https://github.com/nikolai2111/STM32G474_Black-Pill_v3.0) - The compact and convenient STM32-Pills are intriguing tools for prototyping, but their current digital focus leaves room for exploration. In contrast, the STM32G474's integration of analog and digital
+- [nikolai2111/HW_STM32G474_Dev-Board](https://github.com/nikolai2111/HW_STM32G474_Dev-Board) - The compact and convenient STM32-Pills are intriguing tools for prototyping, but their current digital focus leaves room for exploration. In contrast, the STM32G474's integration of analog and digital
 - [sidprice/blackpill_carrier](https://github.com/sidprice/blackpill_carrier) - Carrier for Blackpill F411 when used as Blackmagic Probe
 - [orbcode/orbmule](https://github.com/orbcode/orbmule) - Mule boards and examples for Orb
 - [esden/bitmagic](https://github.com/esden/bitmagic) - Open Source Logic Analyzers and data Syphons
@@ -9775,8 +9770,6 @@
 - [jbomanson/tmux-kak-info.kak](https://github.com/jbomanson/tmux-kak-info.kak) - A kakoune plugin to help integrate kakoune with tmux
 - [JJK96/kakoune-rainbow](https://github.com/JJK96/kakoune-rainbow) - Highlight parentheses in kakoune
 - [skiselev/i2s_audio_phat](https://github.com/skiselev/i2s_audio_phat) - I2S Audio pHAT
-- [jamessan/etc-tmux](https://github.com/jamessan/etc-tmux) - 
-- [jamessan/etc-xsession](https://github.com/jamessan/etc-xsession) - 
 - [skiselev/my_kicad_library](https://github.com/skiselev/my_kicad_library) - The KiCad library used in my projects
 - [skiselev/easy_z80](https://github.com/skiselev/easy_z80) - An easy to build Zilog Z80 based single board computer
 - [skiselev/radio-86rk-rom](https://github.com/skiselev/radio-86rk-rom) - ROM cartridge for Radio-86RK
@@ -11016,7 +11009,6 @@
 - [ruby/syntax_suggest](https://github.com/ruby/syntax_suggest) - Searching for unexpected `end` syntax errors takes a lot of time. Let this gem do it for you!
 - [CKolkey/solargraph-syntax-suggest](https://github.com/CKolkey/solargraph-syntax-suggest) - 
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) - Wisely add "end" in Ruby, Vimscript, Lua, etc. Tree-sitter aware alternative to tpope's vim-endwise
-- [simnalamburt/hyeonbot](https://github.com/simnalamburt/hyeonbot) - :construction_worker: My own IRC bot
 - [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby
 - [drazisil/ghi](https://github.com/drazisil/ghi) - GitHub Issues on the command line. Use your $EDITOR, not your browser.
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
@@ -11219,6 +11211,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [untitaker/quickenv](https://github.com/untitaker/quickenv) - MOVED TO CODEBERG
 - [Shopify/shadowenv](https://github.com/Shopify/shadowenv) - reversible directory-local environment variable manipulations
+- [simnalamburt/hyeonbot](https://github.com/simnalamburt/hyeonbot) - :construction_worker: My own IRC bot
 - [autolyticus/sway-alttab](https://github.com/autolyticus/sway-alttab) - Simple Alt-Tab daemon for SwayWM/i3. Switches back to previous focused window on Alt-Tab or SIGUSR1
 - [rydesun/fennel-language-server](https://github.com/rydesun/fennel-language-server) - Fennel language server protocol (LSP) support.
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
@@ -12109,7 +12102,6 @@
 - [daniel-baez/tmux_nvr](https://github.com/daniel-baez/tmux_nvr) - One nvim instance per tmux window, requires nvr.
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [extrowerk/haikuports](https://github.com/extrowerk/haikuports) - Software ports for Haiku.
-- [jamessan/etc-zsh](https://github.com/jamessan/etc-zsh) - 
 - [eldracode/dotfiles](https://github.com/eldracode/dotfiles) - personal dotfiles
 - [Determinant/tmux-colortag](https://github.com/Determinant/tmux-colortag) - A plug-and-play, minimal tmux plugin/theme that automatically colors the window tags.
 - [skiselev/omega](https://github.com/skiselev/omega) - Omega Home Computer
@@ -13329,7 +13321,6 @@
 - [shime/vim-livedown](https://github.com/shime/vim-livedown) - Vim plugin for Livedown.
 - [fireflowerr/configs](https://github.com/fireflowerr/configs) - my config files (.dotfiles)
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
-- [jamessan/etc-vim](https://github.com/jamessan/etc-vim) - Vim configuration files
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
 - [melekes/vim-is-hard-lessons](https://github.com/melekes/vim-is-hard-lessons) - Курс лекций "Vim - Это сложно"
 - [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) - pandoc integration and utilities for vim
