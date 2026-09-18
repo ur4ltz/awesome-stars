@@ -2034,7 +2034,6 @@
 - [finitespace/BME280](https://github.com/finitespace/BME280) - Provides an Arduino library for reading and interpreting Bosch BME280 data over I2C, SPI or Sw SPI.
 - [bonezegei/Bonezegei_LCD1602_I2C](https://github.com/bonezegei/Bonezegei_LCD1602_I2C) - HD44780 LCD connected to PCF8574 I2C
 - [paramoshkinandrew/BME280_Arduino_I2C](https://github.com/paramoshkinandrew/BME280_Arduino_I2C) - A simple library to recive data from BME280 sensor over I2C interface
-- [esicoe/BME280_LITE](https://github.com/esicoe/BME280_LITE) - Arduino library for the Bosch BME280 sensor. Supports I2C only. Available in the Arduino library manager.
 - [Natpol50/BME280_mini](https://github.com/Natpol50/BME280_mini) - A lightweight Arduino library for the Bosch BME280 environmental sensor using software I2C implementation.
 - [jvasquez05/BME280_PROAGRO](https://github.com/jvasquez05/BME280_PROAGRO) - Arduino Library for the Proagro Technology Temperature, Relative Humidity and Pressure Sensor..
 - [Zanduino/BME280](https://github.com/Zanduino/BME280) - Arduino library for the Bosch BME280 Temperature / Humidity / Pressure sensor
@@ -5519,7 +5518,6 @@
 - [kholia/Si5351-Module-Clone-TCXO](https://github.com/kholia/Si5351-Module-Clone-TCXO) - Si5351-Module-Clone with low PPM TCXO! Drop-in replacement for the Adafruit's Si5351 module. 3.3v ONLY!
 - [pu2clr/PCF8574](https://github.com/pu2clr/PCF8574) - PCF8574 8-Bit I/O Expander
 - [oristopo/nVhelp](https://github.com/oristopo/nVhelp) - nanoVNA user documentation
-- [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension) - Source code for 2FAS Auth Browser Extension
 - [kholia/Easy-Transceiver](https://github.com/kholia/Easy-Transceiver) - Easy Digital 'FT8' Transceiver. Easy-Transceiver v0.01.
 - [kholia/Easy-Digital-Beacons-v1](https://github.com/kholia/Easy-Digital-Beacons-v1) - A simple and easy Arduino / Pi Pico / ESP8266-powered WSPR, FT8, and FT4 beacon system which uses NTP + DS3231 RTC for timing. Super extensible! Now comes with optional GPS support.
 - [fmalpartida/New-LiquidCrystal](https://github.com/fmalpartida/New-LiquidCrystal) - Clone of the new liquid crystal library from: https://bitbucket.org/fmalpartida/new-liquidcrystal
@@ -5802,6 +5800,7 @@
 - [nayanio/RTorrent](https://github.com/nayanio/RTorrent) - Remote torrent client
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 - [remarkjs/remark-language-server](https://github.com/remarkjs/remark-language-server) - A language server to lint and format markdown files with remark
+- [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension) - Source code for 2FAS Auth Browser Extension
 - [pu2clr/VFO_BFO_OLED_ARDUINO](https://github.com/pu2clr/VFO_BFO_OLED_ARDUINO) - VFO e BFO com Si5351 e OLED,  controlado por Arduino (Micro)
 - [noopkat/avrgirl-arduino](https://github.com/noopkat/avrgirl-arduino) - :girl: :pager: A NodeJS library for flashing compiled sketch files to Arduino microcontroller boards.
 - [tree-sitter-grammars/tree-sitter-commonlisp](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) - Common Lisp grammar for tree-sitter
@@ -7694,7 +7693,6 @@
 - [tamago324/lsp-preview-hover-doc.nvim](https://github.com/tamago324/lsp-preview-hover-doc.nvim) - textDocument/hover plugin
 - [astoff/digestif](https://github.com/astoff/digestif) - A language server for TeX and friends
 - [luafun/luafun](https://github.com/luafun/luafun) - Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [fitrh/init.nvim](https://github.com/fitrh/init.nvim) - What nvim talk about when they talk about configuration
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [TravonteD/org-capture-filetype](https://github.com/TravonteD/org-capture-filetype) - A nvim-orgmode plugin that enables custom filetypes in capture templates
@@ -10940,7 +10938,7 @@
 - [miekg/pandoc2rfc](https://github.com/miekg/pandoc2rfc) - Use pandoc to create XML suitable for xml2rfc
 - [andreikop/enki](https://github.com/andreikop/enki) - A text editor for programmers
 - [wuub/SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)
-- [ken48/LuaProjectHelper](https://github.com/ken48/LuaProjectHelper) - Lua Project Helper sublime plugin
+- [ken48/lua-project-helper](https://github.com/ken48/lua-project-helper) - Lua Project Helper sublime plugin
 - [timonwong/SublimeAStyleFormatter](https://github.com/timonwong/SublimeAStyleFormatter) - SublimeAStyleFormatter is a code formatter/beautifier for Sublime Text 2 & 3. It provides ability to format C/C++/C#/Java files.
 - [sublimehq/package_control](https://github.com/sublimehq/package_control) - The Sublime Text package manager
 - [sublimehq/package_control_channel](https://github.com/sublimehq/package_control_channel) - Default channel file for Package Control. Follow the directions at:
@@ -10966,6 +10964,7 @@
 ## QML 
 
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 
 ## QMake 
 
@@ -12172,7 +12171,7 @@
 - [Twanislas/AutoPVR](https://github.com/Twanislas/AutoPVR) - Fully automated PVR with Plex, Sonarr, qBittorrent and Jackett
 - [veggiedefender/dotfiles](https://github.com/veggiedefender/dotfiles) - i3 config
 - [Seirdy/dotfiles](https://github.com/Seirdy/dotfiles) - Seirdy's dotfiles
-- [yutkat/dotfiles-mini](https://github.com/yutkat/dotfiles-mini) - 
+- [yutkat/dotfiles-mini](https://github.com/yutkat/dotfiles-mini) - Minimal shell dotfiles for quickly configuring bash, Vim, screen, tmux, and utilities
 - [kyoh86/vim-editerm](https://github.com/kyoh86/vim-editerm) - 
 - [challenger-deep-theme/gnome-terminal](https://github.com/challenger-deep-theme/gnome-terminal) - Challenger Deep Theme for GNOME Terminal
 - [nginx-le/nginx-le](https://github.com/nginx-le/nginx-le) - Nginx with automatic let's encrypt (docker image)
