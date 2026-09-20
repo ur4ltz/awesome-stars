@@ -2909,7 +2909,7 @@
 - [teosibileau/neotimer](https://github.com/teosibileau/neotimer) - Non blocking timer class for Arduino.
 - [jrullan/neotimer](https://github.com/jrullan/neotimer) - Non blocking timer class for Arduino.
 - [mathertel/OneButton](https://github.com/mathertel/OneButton) - An Arduino library for using a single button for multiple purpose input.
-- [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICSimLab - Programmable IC Simulator Laboratory
+- [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICSimLab - Programmable IC Simulator Laboratory ⚠️ Please note: The official distribution of the PICSimLab simulator binaries is available on github.com and SourceForge.net. Be cautious of unofficial
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [DKARDU/wa2812clock](https://github.com/DKARDU/wa2812clock) - 
 - [DKARDU/stock](https://github.com/DKARDU/stock) - 
@@ -7816,7 +7816,6 @@
 - [idbrii/vim-lua-david](https://github.com/idbrii/vim-lua-david) - My vim setup for lua.
 - [idbrii/ltags](https://github.com/idbrii/ltags) - PR-generating fork. Adds -filelist to ltags (ctags-compatible tag files for Lua)
 - [stevedonovan/el](https://github.com/stevedonovan/el) - A more commamd-line friendly style of using Lua
-- [Mattio-cmd/SigmaNvim](https://github.com/Mattio-cmd/SigmaNvim) - 
 - [uga-rosa/filittle.nvim](https://github.com/uga-rosa/filittle.nvim) - A simple and fast file explorer written in Lua.
 - [uga-rosa/translate.nvim](https://github.com/uga-rosa/translate.nvim) - Use any external translate command/API in nvim.
 - [uga-rosa/deepl.nvim](https://github.com/uga-rosa/deepl.nvim) - Hit deepl api from neovim and display in floating window
@@ -10667,7 +10666,6 @@
 - [Koihik/sublime-lua-format](https://github.com/Koihik/sublime-lua-format) - 
 - [floydawong/LuaFormat](https://github.com/floydawong/LuaFormat) - Lua Format Plugin For Sublime Text
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
-- [ellisonleao/dotfiles](https://github.com/ellisonleao/dotfiles) - :floppy_disk: personal configuration files
 - [mark1791/3D_Printing_Tools](https://github.com/mark1791/3D_Printing_Tools) - FreeCAD Workbench for working on imported Meshes
 - [acrisci/ssh-menu](https://github.com/acrisci/ssh-menu) - A curses-based menu for organizing and remembering ssh logins
 - [Airblader/i3-sticky](https://github.com/Airblader/i3-sticky) - Sticky tiling windows for i3
