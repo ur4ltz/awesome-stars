@@ -5012,7 +5012,6 @@
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
 - [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, sway, ghostty, fish, neovim and more
-- [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [steelsojka/dotfiles2](https://github.com/steelsojka/dotfiles2) - New set of clean dotfiles
 - [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
@@ -5538,7 +5537,6 @@
 - [fabrizioschiavi/pragmatapro-semiotics](https://github.com/fabrizioschiavi/pragmatapro-semiotics) - Semiotics of all the symbols and signs of Pragmata Pro typeface
 - [colorer/Colorer-schemes](https://github.com/colorer/Colorer-schemes) - Syntax and color schemes for colorer library
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
-- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [u03c1/outrun-vim](https://github.com/u03c1/outrun-vim) - 
 - [gdsotirov/slackpack](https://github.com/gdsotirov/slackpack) - SlackPack: Slackware packages
 - [pierre-lecocq/emacs4developers](https://github.com/pierre-lecocq/emacs4developers) - A document to help developers to use Emacs as a developer
@@ -6302,7 +6300,7 @@
 - [Neph-Oo/lua-base45](https://github.com/Neph-Oo/lua-base45) - Lua base45 encoder/decoder for lua5.1+ and luajit.
 - [sclu1034/async.lua](https://github.com/sclu1034/async.lua) - Utilities for callback-style asynchronous execution in Lua
 - [S1M0N38/ai.nvim](https://github.com/S1M0N38/ai.nvim) - ✧ Query LLMs following OpenAI API specification
-- [FAUniv/clidebugger](https://github.com/FAUniv/clidebugger) - A simple command line interface debugger for Lua 5.1 written in pure Lua. Its not dependent on anything other than the standard Lua 5.1 libraries. It was inspired by RemDebug but does not have its rem
+- [TWWegner/clidebugger](https://github.com/TWWegner/clidebugger) - A simple command line interface debugger for Lua 5.1 written in pure Lua. Its not dependent on anything other than the standard Lua 5.1 libraries. It was inspired by RemDebug but does not have its rem
 - [lindowx/lua-resty-vardump](https://github.com/lindowx/lua-resty-vardump) - A debug tool for the Openresty/ngx_lua that pretty-prints some Lua values.
 - [lua-ulf/ulf.log](https://github.com/lua-ulf/ulf.log) - A logger module for Luajit and Neovim
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
@@ -8572,6 +8570,7 @@
 - [mil/dot-files](https://github.com/mil/dot-files) - My dotfiles, managed with stow
 - [kristijanhusak/completion-tags](https://github.com/kristijanhusak/completion-tags) - Tags completion for completion-nvim
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
+- [adelarsq/neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for Neovim 🌱
 - [javalikescript/luajls](https://github.com/javalikescript/luajls) - luajls is a set of Lua modules for developing stand-alone Lua applications
 - [zhaozg/lpeg_patterns](https://github.com/zhaozg/lpeg_patterns) - A collection of LPEG patterns
 - [luarocks/luarocks-gui](https://github.com/luarocks/luarocks-gui) - GUI module for LuaRocks 3.x
@@ -11803,6 +11802,7 @@
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
 - [AlphaTechnolog/dotfiles-old](https://github.com/AlphaTechnolog/dotfiles-old) - This is my dotfiles for the xmonadwm, xmobar, qtile, polybar, bspwm, sxhkd, spectrwm, dwm, dwmblocks, i3, polybar-for-i3, custom scripts and others programs configs!
+- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [IndianBoy42/fish-auto-source](https://github.com/IndianBoy42/fish-auto-source) - Never type "source ~/.config/fish/config.fish" again
 - [bmalehorn/fish-auto-source](https://github.com/bmalehorn/fish-auto-source) - Never type "source ~/.config/fish/config.fish" again
 - [FotiadisM/dotfiles](https://github.com/FotiadisM/dotfiles) - 
