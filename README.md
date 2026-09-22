@@ -327,6 +327,9 @@
 
 ## C 
 
+- [IgorPlExpert/DAC](https://github.com/IgorPlExpert/DAC) - STM32 microcontroller module Digital-to-analog converter
+- [IgorPlExpert/LCD-ST7735](https://github.com/IgorPlExpert/LCD-ST7735) - This is programming the STM32 microcontroller to control the LCD display module, 1.8 inches diagonal, 128 by 160 pixels resolution, based on the ST7735R chip.
+- [IgorPlExpert/LCD-ST7735-part2](https://github.com/IgorPlExpert/LCD-ST7735-part2) - Programming an LCD display with an ST7735 chip on an STM32 microcontroller. Part 2
 - [abhra0897/LameUI_font_maker](https://github.com/abhra0897/LameUI_font_maker) - Tools to create fonts for LameUI GUI library
 - [abhra0897/LameUI_simulation](https://github.com/abhra0897/LameUI_simulation) - A crappy simulator for my even crappier UI library "LameUI"
 - [abhra0897/LameUI](https://github.com/abhra0897/LameUI) - A very lame UI library for embedded systems.
@@ -6231,7 +6234,7 @@
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
-- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - [mirror of forge.barrettruth.com/barrettruth/blink-cmp-tmux] Tmux command completion source for blink.cmp
+- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - Tmux command completion source for blink.cmp
 - [dynamotn/blink-cmp-zellij](https://github.com/dynamotn/blink-cmp-zellij) - Completion source from zellij for blink.cmp
 - [L3MON4D3/luals-mdgen](https://github.com/L3MON4D3/luals-mdgen) - Generate documentation in markdown from LuaCATS-annotations
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
@@ -11105,6 +11108,10 @@
 
 ## Rust 
 
+- [piersfinlayson/rs-stm32-gpios](https://github.com/piersfinlayson/rs-stm32-gpios) - An example embedded Rust project for the STM32 which shows how to implement GPIO and interrupt functionality.
+- [piersfinlayson/one-rom](https://github.com/piersfinlayson/one-rom) - The most flexible and powerful ROM replacement for retro systems - using a Raspberry Pi RP2350 microcontroller.
+- [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [probe-rs/flash-algorithm-template](https://github.com/probe-rs/flash-algorithm-template) - A template for writing CMSIS-Pack flash algorithms in Rust
 - [rust-embedded/svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (`struct`s) from SVD files
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
@@ -11411,7 +11418,7 @@
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [ToxicFrog/mkrescue](https://github.com/ToxicFrog/mkrescue) - Script to build bootable rescue USB sticks
 - [ToxicFrog/hypatian-prompt](https://github.com/ToxicFrog/hypatian-prompt) - ZSH for prompt using asynchronous subprocesses to fetch DVCS data.
-- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - My macOS dotfiles. Managed with chezmoi. Feel free to steal anything useful.
+- [smnatale/dotfiles](https://github.com/smnatale/dotfiles) - My macOS dotfiles. Managed with stow. Feel free to steal anything useful.
 - [sidprice/EBlink](https://github.com/sidprice/EBlink) - ARM Cortex-M GDB server with device squirrel scripting  support
 - [embeddedartistry/cmake-project-skeleton](https://github.com/embeddedartistry/cmake-project-skeleton) - Reusable project skeleton for embedded C & C++ projects using CMake.
 - [txurtxil/termux-ia-local](https://github.com/txurtxil/termux-ia-local) - 
