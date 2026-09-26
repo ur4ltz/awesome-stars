@@ -113,7 +113,6 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Spline Font Database](#spline-font-database)
-- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
@@ -859,7 +858,7 @@
 - [g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source](https://github.com/g8kig/DX-FT8-MULTIBAND-TABLET-TRANSCEIVER-Source) - G8KIG's changes to the source code for the DX FT8 Multiband-Tablet-Transceiver
 - [eriklins/chip45boot3](https://github.com/eriklins/chip45boot3) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with automatic baudrate adjustment, encryption and Visual Studio GUI.
 - [eriklins/chip45boot2](https://github.com/eriklins/chip45boot2) - Bootloader for Atmel AVR ATmega and Xmega micro controllers with Intel hex file support and automatic baudrate adjustment.
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Tools (a powerful Audio library for Microcontrollers and the Desktop)
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [earlephilhower/BackgroundAudio](https://github.com/earlephilhower/BackgroundAudio) - Arduino library for easy, interrupt driven speech, MP3, AAC, and WAV playback on the Raspberry Pi Pico RP2040, Pico 2 RP2350, and ESP32
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
@@ -5101,6 +5100,7 @@
 
 ## Go 
 
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [samiulsami/go-deep.nvim](https://github.com/samiulsami/go-deep.nvim) - Go deep completion source for neovim. Compatible with `blink.cmp`, and native `completeFunc`.
 - [sverrehu/spacegame](https://github.com/sverrehu/spacegame) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
@@ -5735,7 +5735,7 @@
 - [seriousben/cmus-droid-remote](https://github.com/seriousben/cmus-droid-remote) - Android version of cmus-remote to control your Cmus music player
 - [jatwigg/cmus-android-remote](https://github.com/jatwigg/cmus-android-remote) - An android application for remotely controlling cmus music player.
 - [domogik/domodroid](https://github.com/domogik/domodroid) - Android client for Domogik
-- [fralik/Duorem](https://github.com/fralik/Duorem) - 
+- [fralik/Duorem](https://github.com/fralik/Duorem) - Power off and on a remote computer using WOL and SSH. Single remote device, very straightforward user interface.
 - [bradand/XMouse](https://github.com/bradand/XMouse) - 
 - [ruleant/getback_gps](https://github.com/ruleant/getback_gps) - Open Source Android app for finding your way back to a previously visited location using GPS coordinates.
 - [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
@@ -5798,6 +5798,7 @@
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
 - [webtorrent/node-bencode](https://github.com/webtorrent/node-bencode) - bencode de/encoder for nodejs
+- [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [sublimelsp/LSP-cspell](https://github.com/sublimelsp/LSP-cspell) - Spell check support for Sublime's LSP plugin provided through cspell.
 - [svofski/vector06js](https://github.com/svofski/vector06js) - vector06js Vector-06c Emulator in JavaScript
 - [bajrangCoder/acode-plugin-acodex](https://github.com/bajrangCoder/acode-plugin-acodex) - AcodeX - A Terminal plugin for Acode App
@@ -6191,6 +6192,7 @@
 
 ## Lua 
 
+- [martindur/zdiff.nvim](https://github.com/martindur/zdiff.nvim) - Diff plugin inspired by Zed's multi-buffer diff view
 - [hanyu1774/nekonight.nvim](https://github.com/hanyu1774/nekonight.nvim) - This repo contains the nekonight colorscheme for Neovim. It was made by thebigcicca (Bruno G. Ciccarino) and gs-101 gs-101 (Gabriel Santos).
 - [Bingzgoj/simple_wezterm](https://github.com/Bingzgoj/simple_wezterm) - A primitive simple configuration for wezterm.
 - [mBuergi86/my_wezterm](https://github.com/mBuergi86/my_wezterm) - Custom WezTerm configuration with enhanced aesthetics, dynamic theming, and efficient keybindings.
@@ -6633,7 +6635,7 @@
 - [tomiis4/BufferTabs.nvim](https://github.com/tomiis4/BufferTabs.nvim) - A simple, fancy tabline for Neovim.
 - [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) - A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command
 - [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) - See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
+- [dont-be-evil-company/kulala.nvim](https://github.com/dont-be-evil-company/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) - A Paredit implementation for Neovim, built using Treesitter and written in Lua.
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) - A tool for splitting diffs in Neovim
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
@@ -9840,6 +9842,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [FireZenk/language-lua](https://github.com/FireZenk/language-lua) - Lua language support in Atom
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - From Shell to Plate: Savor the Zest of Fish 🦞
+- [owncloud-docker/server](https://github.com/owncloud-docker/server) - Docker image for ownCloud community edition
 - [mutability/dump1090](https://github.com/mutability/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [xatgithub/byzanz](https://github.com/xatgithub/byzanz) - 
 - [eirenicon/dotfiles](https://github.com/eirenicon/dotfiles) - bspwm, polybar, tint2 and sundry other dotfiles, expertly borrowed and modified from those developed by really smart people...
@@ -11125,6 +11128,7 @@
 
 ## Rust 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [piersfinlayson/rs-stm32-gpios](https://github.com/piersfinlayson/rs-stm32-gpios) - An example embedded Rust project for the STM32 which shows how to implement GPIO and interrupt functionality.
 - [piersfinlayson/one-rom](https://github.com/piersfinlayson/one-rom) - The most flexible and powerful ROM replacement for retro systems - using a Raspberry Pi RP2350 microcontroller.
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
@@ -11594,7 +11598,7 @@
 - [zimfw/eriner](https://github.com/zimfw/eriner) - A Zim Framework fork of the Powerline-inspired agnoster prompt theme.
 - [zimfw/bira](https://github.com/zimfw/bira) - A fork of bira's theme.
 - [zimfw/duration-info](https://github.com/zimfw/duration-info) - Exposes to prompts how long the last command took to execute.
-- [zimfw/git-info](https://github.com/zimfw/git-info) - Exposes git repository status information to prompts.
+- [zimfw/git-info](https://github.com/zimfw/git-info) - Exposes git repository information to prompts.
 - [zimfw/asciiship](https://github.com/zimfw/asciiship) - A heavily reduced, ASCII-only version of the Spaceship and Starship prompts.
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [michaeldaranto/Termux-Slackware](https://github.com/michaeldaranto/Termux-Slackware) - Run Slackware ARM Linux on Termux Android
@@ -12340,10 +12344,6 @@
 
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 
-## Starlark 
-
-- [owncloud-docker/server](https://github.com/owncloud-docker/server) - Docker image for ownCloud community edition
-
 ## Svelte 
 
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
@@ -12414,6 +12414,7 @@
 
 ## TypeScript 
 
+- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 - [agama-project/agama](https://github.com/agama-project/agama) - A service-based Linux installer
 - [microsoft/vscode-makefile-tools](https://github.com/microsoft/vscode-makefile-tools) - Makefile Tools offers a robust workflow for Makefile projects in VS Code, with pre and post-configure script automation, easy configuration switching, and IntelliSense support for Makefile. The custom
 - [tombi-toml/setup-tombi](https://github.com/tombi-toml/setup-tombi) - Set up Tombi in your GitHub Actions workflow
@@ -12454,7 +12455,6 @@
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
-- [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [xuhuanzy/VSCode-EmmyLua-Luals](https://github.com/xuhuanzy/VSCode-EmmyLua-Luals) - Lua IDE Plugin for VSCode
 - [vlabo/cspell-lsp](https://github.com/vlabo/cspell-lsp) - A simple source code spell checker for helix
