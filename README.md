@@ -328,6 +328,8 @@
 
 ## C 
 
+- [elmot/clion-iar-stm32f3-demo](https://github.com/elmot/clion-iar-stm32f3-demo) - CLion + IAR ARM Compiler example
+- [ivpn/android-app](https://github.com/ivpn/android-app) - Official IVPN Android app
 - [x893/CMSIS-DAP](https://github.com/x893/CMSIS-DAP) - STM32 port for CMSIS-DAP with additional serial (CDC) support
 - [devanlai/dap42](https://github.com/devanlai/dap42) - CMSIS-DAP debugger firmware for STM32F042Fx and STM32F103xx
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
@@ -761,7 +763,6 @@
 - [schreibfaul1/ESP32-TFT-Library-ST7735](https://github.com/schreibfaul1/ESP32-TFT-Library-ST7735) - 
 - [schreibfaul1/ESP32-TFT-Library-ILI9341-HX8347D](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9341-HX8347D) - TFT Library for controller ILI9341 and HX8347D
 - [schreibfaul1/ESP32-TFT-Library-ILI9486](https://github.com/schreibfaul1/ESP32-TFT-Library-ILI9486) - A library for 3.5 inch RPi LCD (A) 320x480 display from Waveshare
-- [schreibfaul1/ESP32-MiniWebRadio](https://github.com/schreibfaul1/ESP32-MiniWebRadio) - Internetradio with ESP32-S3/P4, I2S DAC and SPI/RGB/DSI TFT Display with Touchpad
 - [yellobyte/ESP32-DevBoards-Getting-Started](https://github.com/yellobyte/ESP32-DevBoards-Getting-Started) - Getting started with various ESP32 development boards. Lots of examples.
 - [schreibfaul1/ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Play mp3 files from SD via I2S
 - [gkiefer/home2l](https://github.com/gkiefer/home2l) - The Home2Ls - Smart Tools for a Private Home
@@ -2015,6 +2016,8 @@
 
 ## C++ 
 
+- [eBookProjects/uChmViewer](https://github.com/eBookProjects/uChmViewer) - A fork of Kchmviewer, the best software for viewing .chm (MS HTML help) and .epub eBooks.
+- [igorianru/ESP32-S3-Oscilloscope](https://github.com/igorianru/ESP32-S3-Oscilloscope) - This is a test program for an oscilloscope running on an ESP32-S3.
 - [Bodmer/TFT_eWidget](https://github.com/Bodmer/TFT_eWidget) - A TFT support GUI library providing button, graph, meter, and slider class functions.
 - [abcminiuser/HoleySheet](https://github.com/abcminiuser/HoleySheet) - Simple command-line, cross platform sprite atlas generator.
 - [Solderingironspb/CRC-Calculator-by-Solderingiron](https://github.com/Solderingironspb/CRC-Calculator-by-Solderingiron) - Программа для рассчета контрольной суммы: CRC8, CRC16, CRC32
@@ -2331,6 +2334,7 @@
 - [dpwe/FreqCountRP2](https://github.com/dpwe/FreqCountRP2) - Frequency Counter library for the RP2040 under the Arduino IDE.
 - [schreibfaul1/ESP8266-LED-Matrix-Clock](https://github.com/schreibfaul1/ESP8266-LED-Matrix-Clock) - Clock with six 8x8 Led-Matrix, watch my video at YouTube: https://www.youtube.com/watch?v=mea5-qX4O54
 - [schreibfaul1/ESP32-LED-Matrix-Clock](https://github.com/schreibfaul1/ESP32-LED-Matrix-Clock) - Clock with six 8x8 Led-Matrix, similar to my video at YouTube: https://www.youtube.com/watch?v=mea5-qX4O54
+- [schreibfaul1/ESP32-MiniWebRadio](https://github.com/schreibfaul1/ESP32-MiniWebRadio) - Internetradio with ESP32-S3/P4, I2S DAC and SPI/RGB/DSI TFT Display with Touchpad
 - [schreibfaul1/ESP32_Arduino_ESPIDF](https://github.com/schreibfaul1/ESP32_Arduino_ESPIDF) - 
 - [Yveaux/AC101](https://github.com/Yveaux/AC101) - AC101 audio codec driver library for Arduino
 - [liman324/AD7705](https://github.com/liman324/AD7705) - Скетч и описание
@@ -3823,7 +3827,6 @@
 - [Etiene/lua.space](https://github.com/Etiene/lua.space) - The Lua Community Blog
 - [Th3Whit3Wolf/Space-Gitea](https://github.com/Th3Whit3Wolf/Space-Gitea) - Spacemacs theme for gitea
 - [TylerByte666/gitea-matrix-template](https://github.com/TylerByte666/gitea-matrix-template) - Would you take the blue or the red pill? Either way welcome to the Matrix. This is a custom theme for Gitea and it is super easy to use :)
-- [innng/dotfiles](https://github.com/innng/dotfiles) - My dotfiles
 - [3ximus/gruvbox-gtk](https://github.com/3ximus/gruvbox-gtk) - Gruvbox theme for gtk - created with oomox
 - [3l0w/Glasscord-Vision](https://github.com/3l0w/Glasscord-Vision) - 
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
@@ -5100,6 +5103,9 @@
 
 ## Go 
 
+- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
+- [ivpn/mailx](https://github.com/ivpn/mailx) - Audited, Open-Source Email Aliasing Service
+- [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [samiulsami/go-deep.nvim](https://github.com/samiulsami/go-deep.nvim) - Go deep completion source for neovim. Compatible with `blink.cmp`, and native `completeFunc`.
 - [sverrehu/spacegame](https://github.com/sverrehu/spacegame) - 
@@ -5657,6 +5663,9 @@
 
 ## Java 
 
+- [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
+- [gturri/aXMLRPC](https://github.com/gturri/aXMLRPC) - A lightweight Java XML-RPC client for the use with Android. Since there is absolutely no dependency to any android specific library (and I assure, that it never will have any), it also works fine in n
+- [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [doubleangels/nextdnsmanager](https://github.com/doubleangels/nextdnsmanager) - Manage your NextDNS settings easily with this Android app!
 - [ibbaa/keepitup](https://github.com/ibbaa/keepitup) - Network monitoring app for Android
@@ -5752,6 +5761,7 @@
 
 ## JavaScript 
 
+- [killemov/Shift](https://github.com/killemov/Shift) - A minimalistic approach to maximum control of your Transmission. (Web UI)
 - [Freed-Wu/tree-sitter-tmuxf](https://github.com/Freed-Wu/tree-sitter-tmuxf) - 🌲👨 tmux format string grammar for tree-sitter
 - [DubsterDev/HamTest](https://github.com/DubsterDev/HamTest) - A simple, easy to use website to prepare you to take all three US amateur radio tests
 - [Matthew-Oduamafu/stm32-svd-downloader](https://github.com/Matthew-Oduamafu/stm32-svd-downloader) - VS code extension to download STM32 SVD
@@ -5798,7 +5808,6 @@
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
 - [webtorrent/node-bencode](https://github.com/webtorrent/node-bencode) - bencode de/encoder for nodejs
-- [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [sublimelsp/LSP-cspell](https://github.com/sublimelsp/LSP-cspell) - Spell check support for Sublime's LSP plugin provided through cspell.
 - [svofski/vector06js](https://github.com/svofski/vector06js) - vector06js Vector-06c Emulator in JavaScript
 - [bajrangCoder/acode-plugin-acodex](https://github.com/bajrangCoder/acode-plugin-acodex) - AcodeX - A Terminal plugin for Acode App
@@ -6120,6 +6129,8 @@
 
 ## Kotlin 
 
+- [evilgenius79/transdroid](https://github.com/evilgenius79/transdroid) - Manage your torrents from your Android device
+- [Acamol/Captain-qBit](https://github.com/Acamol/Captain-qBit) - Free, open-source Android app for remotely managing qBittorrent. No ads, no tracking.
 - [eyalm2000/adns](https://github.com/eyalm2000/adns) - Android's Private DNS Supercharged
 - [DubsterDev/HamTestAndroid](https://github.com/DubsterDev/HamTestAndroid) - An Android App for preparing for all three US Amateur Radio license exams
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
@@ -6193,6 +6204,8 @@
 
 ## Lua 
 
+- [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Neovim Colorscheme
+- [lettepa/nvim](https://github.com/lettepa/nvim) - Lettepa for Neovim
 - [martindur/zdiff.nvim](https://github.com/martindur/zdiff.nvim) - Diff plugin inspired by Zed's multi-buffer diff view
 - [hanyu1774/nekonight.nvim](https://github.com/hanyu1774/nekonight.nvim) - This repo contains the nekonight colorscheme for Neovim. It was made by thebigcicca (Bruno G. Ciccarino) and gs-101 gs-101 (Gabriel Santos).
 - [Bingzgoj/simple_wezterm](https://github.com/Bingzgoj/simple_wezterm) - A primitive simple configuration for wezterm.
@@ -6508,7 +6521,6 @@
 - [craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim) - 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [Freed-Wu/git2.nvim](https://github.com/Freed-Wu/git2.nvim) - Use luagit2 to realize a :Git in neovim
-- [Freed-Wu/luarocks-build-autotools](https://github.com/Freed-Wu/luarocks-build-autotools) - A luarocks build module for autotools
 - [ustctug/texrocks](https://github.com/ustctug/texrocks) - A minimal (La)TeX distribution powered by lux/luarocks and luaTeX.
 - [FantomeBeignet/ghostly.nvim](https://github.com/FantomeBeignet/ghostly.nvim) - My personal color theme for Neovim
 - [FantomeBeignet/feline.nvim](https://github.com/FantomeBeignet/feline.nvim) - A minimal, stylish and customizable statusline / winbar for Neovim written in Lua
@@ -7793,7 +7805,6 @@
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
 - [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) - File manager for Neovim powered by nnn.
 - [CantoroMC/ayu-nvim](https://github.com/CantoroMC/ayu-nvim) - Port of ayu-vim to lua
-- [CantoroMC/nvim-nuake](https://github.com/CantoroMC/nvim-nuake) - Neovim plugin written in lua
 - [CantoroMC/nvim-nightmare](https://github.com/CantoroMC/nvim-nightmare) - A NeoVim theme so dark that you may think to have nightmares
 - [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 🛍 JSON schemas for Neovim
@@ -8355,7 +8366,7 @@
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [philanc/plterm](https://github.com/philanc/plterm) - Pure Lua ANSI Terminal functions
 - [Openarl/PathOfBuilding](https://github.com/Openarl/PathOfBuilding) - Offline build planner for Path of Exile.
-- [felipedaragon/teal-pages](https://github.com/felipedaragon/teal-pages) - Teal Pages Template Preprocessor, enables &lt;?teal tag that executes typed Lua (Teal language)
+- [ForwardLua/teal-pages](https://github.com/ForwardLua/teal-pages) - Teal Pages Template Preprocessor, enables &lt;?teal tag that executes typed Lua (Teal language)
 - [Bowuigi/TED](https://github.com/Bowuigi/TED) - TED is a simple CLI Text EDitor made in pure Lua
 - [danielrempel/ladle](https://github.com/danielrempel/ladle) - Formerly known as lua-web-server, forked from Google Code repository and compatible with lua 5.2
 - [daurnimator/mmdblua](https://github.com/daurnimator/mmdblua) - Maxmind database parser for lua
@@ -8590,10 +8601,10 @@
 - [javalikescript/luajls](https://github.com/javalikescript/luajls) - luajls is a set of Lua modules for developing stand-alone Lua applications
 - [zhaozg/lpeg_patterns](https://github.com/zhaozg/lpeg_patterns) - A collection of LPEG patterns
 - [luarocks/luarocks-gui](https://github.com/luarocks/luarocks-gui) - GUI module for LuaRocks 3.x
-- [felipedaragon/lua_at_client](https://github.com/felipedaragon/lua_at_client) - Lua Pages Template Preprocessor Extension, enables &lt;?lua@client tag that executes Lua scripts in the browser
+- [ForwardLua/lua_at_client](https://github.com/ForwardLua/lua_at_client) - Lua Pages Template Preprocessor Extension, enables &lt;?lua@client tag that executes Lua scripts in the browser
 - [sailorproject/lua_at_client](https://github.com/sailorproject/lua_at_client) - Lua@Client is a modification and extension of Lua Pages to enable client-side Lua scripts (works with a variety of web server environments). It also facilitates running Lua scripts from static HTML pa
 - [sailorproject/remy](https://github.com/sailorproject/remy) - Run Lua-based web applications in different web server environments like Apache, Lighttpd, Nginx and others
-- [felipedaragon/remy](https://github.com/felipedaragon/remy) - Write once, run everywhere. An abstract wrapper to several alternative Lua-powered web server environments. Compatible with Apache, Lighttpd, Nginx and others
+- [ForwardLua/remy](https://github.com/ForwardLua/remy) - Write once, run everywhere. An abstract wrapper to several alternative Lua-powered web server environments. Compatible with Apache, Lighttpd, Nginx and others
 - [sailorproject/valua](https://github.com/sailorproject/valua) - Validation for lua! A module for making chained validations. Create your objects, append your tests, use and reuse it!
 - [jnwhiteh/snippets_luacode](https://github.com/jnwhiteh/snippets_luacode) - A website for the contribution, tagging, searching and discussing of Lua code recipes.
 - [yuri/lua-colors](https://github.com/yuri/lua-colors) - A Lua library for color theory calculation
@@ -9244,6 +9255,11 @@
 
 ## Others 
 
+- [lettepa/zed](https://github.com/lettepa/zed) - Lettepa for Zed
+- [lettepa/wezterm](https://github.com/lettepa/wezterm) - Lettepa for WezTerm
+- [lettepa/alacritty](https://github.com/lettepa/alacritty) - Lettepa for Alacritty
+- [lettepa/rio](https://github.com/lettepa/rio) - Lettepa for Rio
+- [dracula/rio-terminal](https://github.com/dracula/rio-terminal) - 🧛🏻‍♂️ Dark theme for Rio Terminal
 - [arm/armls](https://github.com/arm/armls) - Arm assembly Language Server. This is a mirror repository.
 - [stm32duino/STM32Examples](https://github.com/stm32duino/STM32Examples) - Arduino library to provide several examples for the Arduino core for STM32 MCUs.
 - [megvadulthangya/nvidia-graphics-drivers](https://github.com/megvadulthangya/nvidia-graphics-drivers) - 
@@ -9748,6 +9764,7 @@
 - [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
 - [cjbassi/awesome-rofi](https://github.com/cjbassi/awesome-rofi) - A curated list of awesome rofi (and dmenu) applications
 - [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
+- [innng/dotfiles](https://github.com/innng/dotfiles) - My dotfiles
 - [Bodhizafa/kak-rainbow](https://github.com/Bodhizafa/kak-rainbow) - Cursor-centered rainbow highlighter for kakoune
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
@@ -10081,6 +10098,7 @@
 
 ## Python 
 
+- [lettepa/lettepa](https://github.com/lettepa/lettepa) - A color theme.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) - Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
 - [abcminiuser/mpc-hc-webui-proxy](https://github.com/abcminiuser/mpc-hc-webui-proxy) - Simple proxy to restrict the MPC-HC web UI to protect sensitive actions/information.
@@ -11148,7 +11166,7 @@
 - [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
 - [Disasm/stm32f4xx-hal](https://github.com/Disasm/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family
 - [stm32-rs/synopsys-usb-otg](https://github.com/stm32-rs/synopsys-usb-otg) - usb-device implementation for Synopsys USB OTG IP cores
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI
 - [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - A modal, GPU-accelerated, plugin-first text editor in Rust
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server with zsh support
@@ -11438,6 +11456,7 @@
 
 ## Shell 
 
+- [lettepa/fish](https://github.com/lettepa/fish) - Lettepa for Fish
 - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
 - [megvadulthangya/awesome-rofi](https://github.com/megvadulthangya/awesome-rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [megvadulthangya/nvidia-390xx-settings](https://github.com/megvadulthangya/nvidia-390xx-settings) - 
@@ -12306,7 +12325,6 @@
 - [dcasella/monokai-plusplus](https://github.com/dcasella/monokai-plusplus) - A modern Monokai theme for Sublime Text 3 and Visual Studio Code
 - [aperezdc/dotfiles](https://github.com/aperezdc/dotfiles) - Moved — Personal configuration files I often use in my - may contain useful snippets for you as well, YMMV.
 - [vifon/deer](https://github.com/vifon/deer) - ranger-like file navigation for zsh
-- [neg-serg/negwm](https://github.com/neg-serg/negwm) - Brings a lot of unique UX features inspired by ion3/notion wm. Probably the most sophisticated example of i3ipc usage ever created
 - [jimeh/dotfiles](https://github.com/jimeh/dotfiles) - My personals dotfiles with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.
 - [pyroscope/pimp-my-box](https://github.com/pyroscope/pimp-my-box) - :seedling: Automated seedbox install of rTorrent-PS and PyroScope CLI etc. via Ansible.
 - [elentok/dotfiles](https://github.com/elentok/dotfiles) - My dotfiles
@@ -12414,6 +12432,7 @@
 
 ## TypeScript 
 
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 - [agama-project/agama](https://github.com/agama-project/agama) - A service-based Linux installer
 - [microsoft/vscode-makefile-tools](https://github.com/microsoft/vscode-makefile-tools) - Makefile Tools offers a robust workflow for Makefile projects in VS Code, with pre and post-configure script automation, easy configuration switching, and IntelliSense support for Makefile. The custom
@@ -12455,6 +12474,7 @@
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [mongodb/docs](https://github.com/mongodb/docs) - The MongoDB Documentation Project Source.
+- [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [xuhuanzy/VSCode-EmmyLua-Luals](https://github.com/xuhuanzy/VSCode-EmmyLua-Luals) - Lua IDE Plugin for VSCode
 - [vlabo/cspell-lsp](https://github.com/vlabo/cspell-lsp) - A simple source code spell checker for helix
@@ -12672,6 +12692,7 @@
 
 ## Vim Script 
 
+- [lettepa/vim](https://github.com/lettepa/vim) - Lettepa for Vim
 - [jamescherti/vim-pathaction](https://github.com/jamescherti/vim-pathaction) - Vim Plugin: pathaction - A Vim plugin for executing pathaction, the universal Makefile, for any file in your filesystem
 - [jamescherti/vim-easysession](https://github.com/jamescherti/vim-easysession) - Vim plugin: persist and restore your Vim editing sessions easily and effortlessly.
 - [dhruvasagar/vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
@@ -12932,7 +12953,6 @@
 - [emiasims/vim-org](https://github.com/emiasims/vim-org) - 
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
-- [CantoroMC/slimux](https://github.com/CantoroMC/slimux) - SLIME inspired tmux integration plugin for Vim
 - [esamattis/slimux](https://github.com/esamattis/slimux) - SLIME inspired tmux integration plugin for Vim
 - [zirrostig/vim-schlepp](https://github.com/zirrostig/vim-schlepp) - Vim plugin for easily moving text selections around
 - [arjunmahishi/onedark.vim](https://github.com/arjunmahishi/onedark.vim) - This is a fork of the onedark.vim repo. Contains minor color changes.
