@@ -328,6 +328,10 @@
 
 ## C 
 
+- [PacktPublishing/Hands-On-RTOS-with-Microcontrollers-Second-Edition](https://github.com/PacktPublishing/Hands-On-RTOS-with-Microcontrollers-Second-Edition) - Hands-On-RTOS-with-Microcontrollers-Second-Edition
+- [PacktPublishing/Hands-On-RTOS-with-Microcontrollers](https://github.com/PacktPublishing/Hands-On-RTOS-with-Microcontrollers) - Hands-On RTOS with Microcontrollers, published by Packt
+- [AlexKaut/ST7789-STM32-DMA](https://github.com/AlexKaut/ST7789-STM32-DMA) - Using STM32's Hardware SPI to drive a ST7789 based IPS display (DMA fixed)
+- [AriZuu/ttf2ugui](https://github.com/AriZuu/ttf2ugui) - Simple utility to convert TTF fonts into uGUI bitmap fonts.
 - [elmot/clion-iar-stm32f3-demo](https://github.com/elmot/clion-iar-stm32f3-demo) - CLion + IAR ARM Compiler example
 - [ivpn/android-app](https://github.com/ivpn/android-app) - Official IVPN Android app
 - [x893/CMSIS-DAP](https://github.com/x893/CMSIS-DAP) - STM32 port for CMSIS-DAP with additional serial (CDC) support
@@ -1425,7 +1429,7 @@
 - [hoelzro/lua-linenoise](https://github.com/hoelzro/lua-linenoise) - Lua bindings for linenoise with UTF-8 support (https://github.com/yhirose/linenoise/tree/utf8-support)
 - [linktohack/kilo](https://github.com/linktohack/kilo) - 
 - [mhinz/flauschix](https://github.com/mhinz/flauschix) - My new POSIX-like operating system.
-- [comfies/custard](https://github.com/comfies/custard) - custard window manager
+- [Sweets/custard](https://github.com/Sweets/custard) - custard window manager
 - [euclidianAce/lua_matrix](https://github.com/euclidianAce/lua_matrix) - A matrix library for lua written in C
 - [euclidianAce/lgetchar](https://github.com/euclidianAce/lgetchar) - A small wrapper around getch and getchar for lua.
 - [euclidianAce/ltreesitter](https://github.com/euclidianAce/ltreesitter) - Standalone tree sitter bindings for the Lua language
@@ -2016,6 +2020,12 @@
 
 ## C++ 
 
+- [mrcodetastic/ESP32-HUB75-MatrixPanel-DMA](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA) - An Adafruit GFX Compatible Library for the ESP32, ESP32-S2, ESP32-S3 to drive HUB75 LED matrix panels using DMA for high refresh rates. Supports panel chaining.
+- [LAutour/ESP32-HUB75-MatrixPanel-DMA-ICN2053](https://github.com/LAutour/ESP32-HUB75-MatrixPanel-DMA-ICN2053) - !!!! Due to the fact that I fundamentally do not want to comply with GitHub’s requirements for two-factor authentication, after 09/12/23 they will be on the website, I’m moving to sourceforge - update
+- [LAutour/ESP32-HUB75-MatrixPanel-I2S-DMA-icn2053](https://github.com/LAutour/ESP32-HUB75-MatrixPanel-I2S-DMA-icn2053) - Unsupported. New version ESP32-HUB75-MatrixPanel-DMA-icn2053
+- [pixelmatix/SmartMatrix](https://github.com/pixelmatix/SmartMatrix) - SmartMatrix Library for Teensy 3, Teensy 4, and ESP32
+- [LAutour/SmartMatrix_copy](https://github.com/LAutour/SmartMatrix_copy) - SmartMatrix Library for Teensy 3, Teensy 4, and ESP32
+- [amule-org/amule](https://github.com/amule-org/amule) - 'All-platform' P2P client based on eMule
 - [eBookProjects/uChmViewer](https://github.com/eBookProjects/uChmViewer) - A fork of Kchmviewer, the best software for viewing .chm (MS HTML help) and .epub eBooks.
 - [igorianru/ESP32-S3-Oscilloscope](https://github.com/igorianru/ESP32-S3-Oscilloscope) - This is a test program for an oscilloscope running on an ESP32-S3.
 - [Bodmer/TFT_eWidget](https://github.com/Bodmer/TFT_eWidget) - A TFT support GUI library providing button, graph, meter, and slider class functions.
@@ -9705,7 +9715,7 @@
 - [emacs-tw/awesome-elisp](https://github.com/emacs-tw/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [pedh/emacs.d](https://github.com/pedh/emacs.d) - My Emacs config
 - [adelarsq/awesome-bugs](https://github.com/adelarsq/awesome-bugs) - Awesome Bugs 🐛
-- [comfies/tldrlfs](https://github.com/comfies/tldrlfs) - Too Long; Didn't Read Linux From Scratch
+- [Sweets/tldrlfs](https://github.com/Sweets/tldrlfs) - Too Long; Didn't Read Linux From Scratch
 - [teal-language/awesome-teal](https://github.com/teal-language/awesome-teal) - A curated list of Teal-related projects!
 - [jsatk/list-of-dotfiles](https://github.com/jsatk/list-of-dotfiles) - A collection links to other folks dotfiles.
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
@@ -9980,6 +9990,7 @@
 
 ## Pascal 
 
+- [LAutour/matrixFont-GFX](https://github.com/LAutour/matrixFont-GFX) - Редактор шрифтов для Arduino-GFX. По быстрому сделано на базе https://gitlab.com/riva-lab/matrixFont, поэтому настройки для других форматов не вырезаны, но не работают. (font editor fast modified for 
 - [fredvs/Azote](https://github.com/fredvs/Azote) - Fast and lightweight AArch64 disassembler.
 - [graemeg/fpGUI](https://github.com/graemeg/fpGUI) - fpGUI Toolkit  is a cross-platform GUI toolkit using Free Pascal
 - [galaxysite/gorg64](https://github.com/galaxysite/gorg64) - The organizer includes a clock with an alarm, a scheduler, a notebook and a tool for working with a clipboard.  For GNU/Linux 64 bit version.
@@ -11147,6 +11158,12 @@
 
 ## Rust 
 
+- [embassy-rs/trouble](https://github.com/embassy-rs/trouble) - A Rust BLE Host stack
+- [AriZuu/ds18b20](https://github.com/AriZuu/ds18b20) - 
+- [tsauvajon/ds18b20](https://github.com/tsauvajon/ds18b20) - 
+- [rust-embedded/embedded-hal](https://github.com/rust-embedded/embedded-hal) - A Hardware Abstraction Layer (HAL) for embedded systems
+- [AriZuu/one-wire-bus](https://github.com/AriZuu/one-wire-bus) - A Rust 1-wire implementation for embedded-hal
+- [andrey23127/ed2k-server](https://github.com/andrey23127/ed2k-server) - Modern eD2k/eDonkey2000 index server in Rust — fast, low-memory, with NAT-traversal and content filtering.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [piersfinlayson/rs-stm32-gpios](https://github.com/piersfinlayson/rs-stm32-gpios) - An example embedded Rust project for the STM32 which shows how to implement GPIO and interrupt functionality.
 - [piersfinlayson/one-rom](https://github.com/piersfinlayson/one-rom) - The most flexible and powerful ROM replacement for retro systems - using a Raspberry Pi RP2350 microcontroller.
@@ -11723,7 +11740,7 @@
 - [cpea2506/dotfiles](https://github.com/cpea2506/dotfiles) - dotfiles in the pea shell.
 - [cpea2506/zcraft](https://github.com/cpea2506/zcraft) - A minimal zsh theme
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
-- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
+- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - Andronix: Linux distros on Android without root (Termux + proot), with desktops in Termux:X11. App 8.x scripts are on the master branch.
 - [loctvl842/BeastFiles](https://github.com/loctvl842/BeastFiles) - My dotfiles
 - [cameron-wags/dmenu](https://github.com/cameron-wags/dmenu) - My fork, packaged and patched with fuzzy match
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
