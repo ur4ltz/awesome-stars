@@ -119,6 +119,7 @@
 - [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TeX](#tex)
+- [Teal](#teal)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -328,6 +329,10 @@
 
 ## C 
 
+- [koendv/blackmagic-rtthread](https://github.com/koendv/blackmagic-rtthread) - blackmagic debug on rt-thread
+- [RadioOperator/STM32F103_1VCP-3UART](https://github.com/RadioOperator/STM32F103_1VCP-3UART) - STM32F103 Bluepill， All 3 UART Rx, go to 1 USB-VCP. Monitoring other UARTs Rx/Tx lines, use 1 terminal window only.
+- [nx6110a5100/Stm32-jbc-solder-station](https://github.com/nx6110a5100/Stm32-jbc-solder-station) - STM32 Based soldering station for JBC cartridges
+- [x893/stm32_soldering_iron_controller](https://github.com/x893/stm32_soldering_iron_controller) - Custom firmware for the chinese ksger soldering iron controller
 - [PacktPublishing/Hands-On-RTOS-with-Microcontrollers-Second-Edition](https://github.com/PacktPublishing/Hands-On-RTOS-with-Microcontrollers-Second-Edition) - Hands-On-RTOS-with-Microcontrollers-Second-Edition
 - [PacktPublishing/Hands-On-RTOS-with-Microcontrollers](https://github.com/PacktPublishing/Hands-On-RTOS-with-Microcontrollers) - Hands-On RTOS with Microcontrollers, published by Packt
 - [AlexKaut/ST7789-STM32-DMA](https://github.com/AlexKaut/ST7789-STM32-DMA) - Using STM32's Hardware SPI to drive a ST7789 based IPS display (DMA fixed)
@@ -2214,7 +2219,6 @@
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [dadecoza/PM_TZXDuino_V1.16](https://github.com/dadecoza/PM_TZXDuino_V1.16) - Poor Man's TZXDuino
 - [carlosefr/pcd8544](https://github.com/carlosefr/pcd8544) - Minimal footprint library for Philips PCD8544 LCDs on the Arduino.
-- [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
 - [superogira/ats-mini](https://github.com/superogira/ats-mini) - ATS Mini firmware fork
 - [superogira/ATS_MINI](https://github.com/superogira/ATS_MINI) - 
 - [m2608/ats_mini](https://github.com/m2608/ats_mini) - 
@@ -8101,7 +8105,7 @@
 - [Forlos/dotfiles](https://github.com/Forlos/dotfiles) - Config files
 - [ronniedroid/droidvim](https://github.com/ronniedroid/droidvim) - My personal neovim configuration.
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
 - [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - see mizlan/dotfiles
 - [mizlan/vis-config](https://github.com/mizlan/vis-config) - 
@@ -8210,7 +8214,6 @@
 - [andremm/typedlua](https://github.com/andremm/typedlua) - An Optional Type System for Lua
 - [euclidianAce/Scryfall-Image-Downloader](https://github.com/euclidianAce/Scryfall-Image-Downloader) - 
 - [jirutka/luapak](https://github.com/jirutka/luapak) - Easily build a standalone executable for any Lua program
-- [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
 - [dhruvmanila/browser-bookmarks.nvim](https://github.com/dhruvmanila/browser-bookmarks.nvim) - A Neovim plugin to open your browser bookmarks right from the editor!
 - [ellisonleao/go.nvim](https://github.com/ellisonleao/go.nvim) - Experimental Go development plugin for Neovim
 - [GavinHigham/lpil53](https://github.com/GavinHigham/lpil53) - A Lua parser for Lua 5.3, written in Lua. (Still in progress)
@@ -8377,7 +8380,7 @@
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [philanc/plterm](https://github.com/philanc/plterm) - Pure Lua ANSI Terminal functions
 - [Openarl/PathOfBuilding](https://github.com/Openarl/PathOfBuilding) - Offline build planner for Path of Exile.
-- [ForwardLua/teal-pages](https://github.com/ForwardLua/teal-pages) - Teal Pages Template Preprocessor, enables &lt;?teal tag that executes typed Lua (Teal language)
+- [DaragonTech/teal-pages](https://github.com/DaragonTech/teal-pages) - Teal Pages Template Preprocessor, enables &lt;?teal tag that executes typed Lua (Teal language)
 - [Bowuigi/TED](https://github.com/Bowuigi/TED) - TED is a simple CLI Text EDitor made in pure Lua
 - [danielrempel/ladle](https://github.com/danielrempel/ladle) - Formerly known as lua-web-server, forked from Google Code repository and compatible with lua 5.2
 - [daurnimator/mmdblua](https://github.com/daurnimator/mmdblua) - Maxmind database parser for lua
@@ -8612,10 +8615,10 @@
 - [javalikescript/luajls](https://github.com/javalikescript/luajls) - luajls is a set of Lua modules for developing stand-alone Lua applications
 - [zhaozg/lpeg_patterns](https://github.com/zhaozg/lpeg_patterns) - A collection of LPEG patterns
 - [luarocks/luarocks-gui](https://github.com/luarocks/luarocks-gui) - GUI module for LuaRocks 3.x
-- [ForwardLua/lua_at_client](https://github.com/ForwardLua/lua_at_client) - Lua Pages Template Preprocessor Extension, enables &lt;?lua@client tag that executes Lua scripts in the browser
+- [DaragonTech/lua_at_client](https://github.com/DaragonTech/lua_at_client) - Lua Pages Template Preprocessor Extension, enables &lt;?lua@client tag that executes Lua scripts in the browser
 - [sailorproject/lua_at_client](https://github.com/sailorproject/lua_at_client) - Lua@Client is a modification and extension of Lua Pages to enable client-side Lua scripts (works with a variety of web server environments). It also facilitates running Lua scripts from static HTML pa
 - [sailorproject/remy](https://github.com/sailorproject/remy) - Run Lua-based web applications in different web server environments like Apache, Lighttpd, Nginx and others
-- [ForwardLua/remy](https://github.com/ForwardLua/remy) - Write once, run everywhere. An abstract wrapper to several alternative Lua-powered web server environments. Compatible with Apache, Lighttpd, Nginx and others
+- [DaragonTech/remy](https://github.com/DaragonTech/remy) - Write once, run everywhere. An abstract wrapper to several alternative Lua-powered web server environments. Compatible with Apache, Lighttpd, Nginx and others
 - [sailorproject/valua](https://github.com/sailorproject/valua) - Validation for lua! A module for making chained validations. Create your objects, append your tests, use and reuse it!
 - [jnwhiteh/snippets_luacode](https://github.com/jnwhiteh/snippets_luacode) - A website for the contribution, tagging, searching and discussing of Lua code recipes.
 - [yuri/lua-colors](https://github.com/yuri/lua-colors) - A Lua library for color theory calculation
@@ -9266,6 +9269,7 @@
 
 ## Others 
 
+- [pzl/Canned-Heat](https://github.com/pzl/Canned-Heat) - Reverse engineering and exploring of the Tyco® RC Canned Heat™ remote controlled car for educational purposes
 - [lettepa/zed](https://github.com/lettepa/zed) - Lettepa for Zed
 - [lettepa/wezterm](https://github.com/lettepa/wezterm) - Lettepa for WezTerm
 - [lettepa/alacritty](https://github.com/lettepa/alacritty) - Lettepa for Alacritty
@@ -9386,6 +9390,7 @@
 - [ShakataGaNai/awesome-meshtastic](https://github.com/ShakataGaNai/awesome-meshtastic) - A curated list of amazingly awesome Meshtastic resources
 - [NataliaLKB/learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - A Beginner's Guide to Git
 - [carlosefr/atmega](https://github.com/carlosefr/atmega) - Bare ATmega 8/168/328 microcontrollers with the Arduino IDE.
+- [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure) - DOSBox Pure is a new fork of DOSBox built for RetroArch/Libretro aiming for simplicity and ease of use.
 - [marimo-team/awesome-marimo](https://github.com/marimo-team/awesome-marimo) - ⚡️ A curated list of awesome things related to marimo
 - [esp32-si4732/esp32-si4732-oshwhub](https://github.com/esp32-si4732/esp32-si4732-oshwhub) - Original Chinese hardware and source code from oshwhub.com
 - [G8PTN/ATS_MINI](https://github.com/G8PTN/ATS_MINI) - 
@@ -9747,7 +9752,7 @@
 - [Biacco42/Ergo42](https://github.com/Biacco42/Ergo42) - 7x4 ortho linear split keyboard - The Answer to the Ultimate Question of Life, the Universe, and at least Keyboards
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [folixg/kinda-fishy-theme](https://github.com/folixg/kinda-fishy-theme) - oh-my-zsh theme based on fishy theme
-- [w33tmaricich/enlightenment](https://github.com/w33tmaricich/enlightenment) - Another zshell theme.
+- [apmaricich/enlightenment](https://github.com/apmaricich/enlightenment) - Another zshell theme.
 - [dpdornseifer/docker-zsh-theme](https://github.com/dpdornseifer/docker-zsh-theme) - Zsh theme (based on the Bureau theme) that shows the DOCKER_HOST configuration in a terminal session.
 - [mil/suckless-patches](https://github.com/mil/suckless-patches) - Miles' patches for suckless software
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
@@ -10110,6 +10115,7 @@
 
 ## Python 
 
+- [AxxAxx/AxxTerm](https://github.com/AxxAxx/AxxTerm) - 
 - [lettepa/lettepa](https://github.com/lettepa/lettepa) - A color theme.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) - Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
@@ -11425,7 +11431,6 @@
 ## SCSS 
 
 - [legendSabbir/acode-editorTheme-template](https://github.com/legendSabbir/acode-editorTheme-template) - 
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
 - [uyuni-project/uyuni-docs](https://github.com/uyuni-project/uyuni-docs) - Uyuni documentation sources. Uyuni docs are written in Asciidoc (Asciidoctor flavor).
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - All Ubuntu Yaru GNOME themes
@@ -12439,6 +12444,10 @@
 - [pcl-ru/pcl-ru](https://github.com/pcl-ru/pcl-ru) - 
 - [miekg/gobook](https://github.com/miekg/gobook) - A complete introduction into Go, superseded by https://github.com/miekg/learninggo
 
+## Teal 
+
+- [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
+
 ## Tree-sitter Query 
 
 - [zed-extensions/git_firefly](https://github.com/zed-extensions/git_firefly) - 
@@ -12515,6 +12524,7 @@
 - [f4exb/sdrangelcli](https://github.com/f4exb/sdrangelcli) - Browser based client application for SDRangel in remote mode
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [wokwi/good-arduino-code](https://github.com/wokwi/good-arduino-code) - Frontend for goodarduinocode.com - A curated collection of Arduino coding examples
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [yuki-yano/highlight-undo.nvim](https://github.com/yuki-yano/highlight-undo.nvim) - 
 - [princejoogie/chatgpt-cli](https://github.com/princejoogie/chatgpt-cli) - chatgpt in cli
@@ -13109,7 +13119,7 @@
 - [aonemd/quietlight.vim](https://github.com/aonemd/quietlight.vim) - A nice light colorscheme for Vim
 - [glts/vim-magnum](https://github.com/glts/vim-magnum) - magnum.vim – Pure Vim script big integer library
 - [michaelb/vim-tips](https://github.com/michaelb/vim-tips) - Short plugin to display tips at startup
-- [aymericbeaumet/vim-symlink](https://github.com/aymericbeaumet/vim-symlink) - :running: Automagically follow symlinks
+- [aymericbeaumet/vim-symlink](https://github.com/aymericbeaumet/vim-symlink) - 🔗 Edit the real file, not the symlink. Vim/Neovim plugin that resolves symlinks on open, so fugitive and vimdiff just work.
 - [faerryn/chvim](https://github.com/faerryn/chvim) - 
 - [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo) - Org-mode like task logging & time tracking in Vim
 - [jwhite510/neovim](https://github.com/jwhite510/neovim) - Vim-fork focused on extensibility and usability
