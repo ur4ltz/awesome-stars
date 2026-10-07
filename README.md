@@ -4038,7 +4038,7 @@
 - [protesilaos/cursory](https://github.com/protesilaos/cursory) - Manage Emacs cursor styles using presets
 - [jamescherti/bufferfile.el](https://github.com/jamescherti/bufferfile.el) - Emacs 'bufferfile': Rename, Delete, or Copy Files and Associated Buffers (e.g., clones/indirect buffers)
 - [jamescherti/shell-pop-el](https://github.com/jamescherti/shell-pop-el) - shell-pop.el helps you to use shell easily on Emacs. Only one key action to work.
-- [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Ensure Emacs Automatically removes trailing whitespace before saving a buffer, with an option to preserve the cursor column
+- [jamescherti/stripspace.el](https://github.com/jamescherti/stripspace.el) - stripspace.el - Make Emacs auto remove trailing whitespace before saving buffers (optionally preserve the cursor column, normalize indentation, and restrict whitespace cleanup to clean buffers)
 - [jamescherti/ultisnips-mode.el](https://github.com/jamescherti/ultisnips-mode.el) - Emacs major mode for editing Ultisnips snippets
 - [jamescherti/dir-config.el](https://github.com/jamescherti/dir-config.el) - dir-config.el - Automatically find and load the .dir-config.el Elisp file
 - [jamescherti/pathaction.el](https://github.com/jamescherti/pathaction.el) - pathaction.el - An Emacs plugin for executing pathaction, the universal Makefile, for any file in your filesystem
@@ -5809,6 +5809,7 @@
 - [erf/vis-plugins](https://github.com/erf/vis-plugins) - A community driven list of plugins for the vis editor
 - [soundmonster/samoklava](https://github.com/soundmonster/samoklava) - Generated keyboard
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
+- [rachartier/dotfiles](https://github.com/rachartier/dotfiles) - 
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [OXY2DEV/tree-sitter-comment](https://github.com/OXY2DEV/tree-sitter-comment) - Tree-sitter parser for conventional comments
 - [OXY2DEV/tree-sitter-kitty](https://github.com/OXY2DEV/tree-sitter-kitty) - Tree-sitter parser for kitty.conf files
@@ -6057,6 +6058,7 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -6337,7 +6339,6 @@
 - [twio142/githead.yazi](https://github.com/twio142/githead.yazi) - Git status header for yazi inspired by powerlevel10k
 - [wekauwau/yatline-tokyo-night.yazi](https://github.com/wekauwau/yatline-tokyo-night.yazi) - Tokyo Night for Yatline
 - [MarcWeber/nvim-cmp-bufnames](https://github.com/MarcWeber/nvim-cmp-bufnames) - buf name completion for neovim
-- [rachartier/dotfiles](https://github.com/rachartier/dotfiles) - 
 - [rachartier/tiny-buffers-switcher.nvim](https://github.com/rachartier/tiny-buffers-switcher.nvim) - 
 - [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) - A Neovim plugin that adds smooth, customizable animations to text operations like yank, paste, search, undo/redo, and more.
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
@@ -8292,7 +8293,6 @@
 - [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) - Auto pair plugin for neovim
 - [famiu/nvim-reload](https://github.com/famiu/nvim-reload) - Plugin to easily reload your Neovim config
-- [lenguyenthanh/dotfiles](https://github.com/lenguyenthanh/dotfiles) - My dotfiles
 - [garcia5/dotfiles](https://github.com/garcia5/dotfiles) - dotfiles
 - [michaelb/nvim-config](https://github.com/michaelb/nvim-config) - my init.vim / neovim config file
 - [romgrk/fzy-lua-native](https://github.com/romgrk/fzy-lua-native) - Luajit FFI bindings to FZY
@@ -11956,6 +11956,7 @@
 - [marioortizmanero/polybar-easyeffects-presets](https://github.com/marioortizmanero/polybar-easyeffects-presets) - A Polybar module to control PulseEffects with presets
 - [g6ai/AltSIM](https://github.com/g6ai/AltSIM) - Send message from gammu-smsd to Telegram bot
 - [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading.
+- [lenguyenthanh/dotfiles](https://github.com/lenguyenthanh/dotfiles) - My dotfiles
 - [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
 - [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - A clean and fast Bash prompt
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
@@ -12683,7 +12684,6 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
