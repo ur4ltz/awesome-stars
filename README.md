@@ -316,7 +316,7 @@
 
 ## Batchfile 
 
-- [ViacheslavMezentsev/stm32-flasher](https://github.com/ViacheslavMezentsev/stm32-flasher) - Утилита командной строки для прошивки микроконтроллеров STM32 через ST-Link
+- [ViacheslavMezentsev/stm32-flasher](https://github.com/ViacheslavMezentsev/stm32-flasher) - Утилита командной строки для прошивки микроконтроллеров STM32
 - [felias-fogg/progmemcheck](https://github.com/felias-fogg/progmemcheck) - A Unix and a Window shell script to check for the size of the PROGMEM section on AVRs with more then 64 kB
 - [AnZoRiN228/STM32-ST-Link-V2.1](https://github.com/AnZoRiN228/STM32-ST-Link-V2.1) - 
 - [nodemcu/nodemcu-devkit-v1.0](https://github.com/nodemcu/nodemcu-devkit-v1.0) - 
@@ -329,6 +329,7 @@
 
 ## C 
 
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [koendv/blackmagic-rtthread](https://github.com/koendv/blackmagic-rtthread) - blackmagic debug on rt-thread
 - [RadioOperator/STM32F103_1VCP-3UART](https://github.com/RadioOperator/STM32F103_1VCP-3UART) - STM32F103 Bluepill， All 3 UART Rx, go to 1 USB-VCP. Monitoring other UARTs Rx/Tx lines, use 1 terminal window only.
 - [nx6110a5100/Stm32-jbc-solder-station](https://github.com/nx6110a5100/Stm32-jbc-solder-station) - STM32 Based soldering station for JBC cartridges
@@ -4736,7 +4737,7 @@
 - [jwiegley/git-undo-el](https://github.com/jwiegley/git-undo-el) - A command for Emacs to regress or "undo" a region back through its Git history
 - [jwiegley/alert](https://github.com/jwiegley/alert) - A Growl-like alerts notifier for Emacs
 - [jwiegley/emacs-release](https://github.com/jwiegley/emacs-release) - A history of Emacs releases, under version control
-- [abcdlsj/.emacs.d](https://github.com/abcdlsj/.emacs.d) - (Deprecated) own EMACS config
+- [abcdlsj/.emacs.d](https://github.com/abcdlsj/.emacs.d) - Legacy Emacs configuration, kept for reference.
 - [Fanael/rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters) - Emacs rainbow delimiters mode
 - [emacsmirror/mood-line](https://github.com/emacsmirror/mood-line) - A minimal mode line inspired by doom-modeline
 - [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
@@ -6248,7 +6249,7 @@
 - [garyhurtz/blink_cmp_kitty](https://github.com/garyhurtz/blink_cmp_kitty) - Kitty terminal completion source for blink.cmp
 - [delphinus/cmp-pane](https://github.com/delphinus/cmp-pane) - Terminal pane source for nvim-cmp and blink.cmp — supports kitty and WezTerm
 - [junkblocker/blink-cmp-wezterm](https://github.com/junkblocker/blink-cmp-wezterm) - Completion source using wezterm for blink.cmp
-- [Mestane/blink-cmp-deps](https://github.com/Mestane/blink-cmp-deps) - Maven and Gradle dependency completion source for blink.cmp in Neovim
+- [Mestane/blink-cmp-deps](https://github.com/Mestane/blink-cmp-deps) - Dependency completion source for blink.cmp in Neovim
 - [kaitai-io/kaitai_struct_lua_runtime](https://github.com/kaitai-io/kaitai_struct_lua_runtime) - Kaitai Struct: runtime for Lua
 - [mireq/luasnip-snippets](https://github.com/mireq/luasnip-snippets) - Vim-snippets (snipMate & UltiSnip Snippets) converted to native luasnip snippets
 - [slatbox/Cortex-Command-Scripter](https://github.com/slatbox/Cortex-Command-Scripter) - 
@@ -8565,7 +8566,6 @@
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) - A file manager for neovim
 - [TimUntersberger/neovim.config](https://github.com/TimUntersberger/neovim.config) - My Neovim config
 - [wincent/corpus](https://github.com/wincent/corpus) - 📝 A note-management application
-- [lewis6991/dotfiles](https://github.com/lewis6991/dotfiles) - My personal vimrc file
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [Olical/nvim-local-fennel](https://github.com/Olical/nvim-local-fennel) - Execute local Fennel Lisp files in Neovim upon startup
 - [dchinmay2/nvim-ts-rainbow](https://github.com/dchinmay2/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
@@ -8662,7 +8662,6 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [ms-jpq/lua-async-await](https://github.com/ms-jpq/lua-async-await) - Async Await in 90 lines of code.
 - [mut-ex/awesome-wm-slidebar](https://github.com/mut-ex/awesome-wm-slidebar) - an easy to use, configurable, multi-purpose, animated widget bar written in Lua for Awesome WM
-- [skanehira/dotfiles](https://github.com/skanehira/dotfiles) - my dotfiles
 - [lelybar/hydra.nse](https://github.com/lelybar/hydra.nse) - NSE-script for brute force open ports
 - [harshbaliyan126/dotfiles](https://github.com/harshbaliyan126/dotfiles) - My ArchLinux dotfiles
 - [gagbo/awesome-config](https://github.com/gagbo/awesome-config) - The huge mess that is my awesome configuration
@@ -10587,6 +10586,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [n1flh31mur/i3-simple-weather](https://github.com/n1flh31mur/i3-simple-weather) - Python script for i3bar/polybar and other bars that supports python scripts.
+- [lewis6991/dotfiles](https://github.com/lewis6991/dotfiles) - My personal vimrc file
 - [Abstract-IDE/lazy-builder](https://github.com/Abstract-IDE/lazy-builder) - python script for running or compiling program (of programming language) in vim/neo-vim
 - [rabbitvcs/rabbitvcs](https://github.com/rabbitvcs/rabbitvcs) - The new home of rabbitvcs
 - [SublimeText/PackageDev](https://github.com/SublimeText/PackageDev) - Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.
@@ -10633,6 +10633,7 @@
 - [fanout/pygripcontrol](https://github.com/fanout/pygripcontrol) - Python GRIP library
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [kazhala/fzf.aws](https://github.com/kazhala/fzf.aws) - :cyclone: Using fuzzy finder to perform AWS operations on the command line
+- [skanehira/dotfiles](https://github.com/skanehira/dotfiles) - my dotfiles
 - [umute97/dotfiles](https://github.com/umute97/dotfiles) - Some dotfiles I wanna sync
 - [nuncan/wifite2mod](https://github.com/nuncan/wifite2mod) - Rolling Release Branch for community PR's @Credits to derv82 & the community
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
@@ -12359,7 +12360,7 @@
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
@@ -13183,7 +13184,6 @@
 - [othree/yajs.vim](https://github.com/othree/yajs.vim) - YAJS.vim: Yet Another JavaScript Syntax for Vim
 - [erietz/vim-terminator](https://github.com/erietz/vim-terminator) - :dagger: Run your code in an output buffer or a vim terminal conveniently
 - [pineapplegiant/spaceduck](https://github.com/pineapplegiant/spaceduck) - 🚀 🦆 An intergalactic space theme for Vim, Terminal, and more!
-- [dominikduda/config_files](https://github.com/dominikduda/config_files) - Personal configuration files
 - [laher/fuzzymenu.vim](https://github.com/laher/fuzzymenu.vim) - menu system for vim/neovim, using fzf for fuzzy selection
 - [tgetgood/dotfiles](https://github.com/tgetgood/dotfiles) - Misc configuration files
 - [tinted-theming/tinted-vim](https://github.com/tinted-theming/tinted-vim) - tinted-vim refreshes and commits new themes weekly automatically and has a documented build process.
