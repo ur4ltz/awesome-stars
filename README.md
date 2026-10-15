@@ -316,7 +316,6 @@
 
 ## Batchfile 
 
-- [ViacheslavMezentsev/stm32-flasher](https://github.com/ViacheslavMezentsev/stm32-flasher) - Утилита командной строки для прошивки микроконтроллеров STM32
 - [felias-fogg/progmemcheck](https://github.com/felias-fogg/progmemcheck) - A Unix and a Window shell script to check for the size of the PROGMEM section on AVRs with more then 64 kB
 - [AnZoRiN228/STM32-ST-Link-V2.1](https://github.com/AnZoRiN228/STM32-ST-Link-V2.1) - 
 - [nodemcu/nodemcu-devkit-v1.0](https://github.com/nodemcu/nodemcu-devkit-v1.0) - 
@@ -504,8 +503,8 @@
 - [embeddedartistry/libmemory](https://github.com/embeddedartistry/libmemory) - Embedded systems memory management library. Implementations for malloc(), free(), and other useful memory management functions
 - [embeddedartistry/libc](https://github.com/embeddedartistry/libc) - libc targeted for embedded systems usage.  Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
 - [afiskon/stm32-multi-channel-adc](https://github.com/afiskon/stm32-multi-channel-adc) - STM32: Multi-channel ADC usage example
-- [GolinskiyKonstantin/STM32_Lib_TFT_ST7735](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ST7735) - STM32 Display ST7735 160x128 128x128 160x80 EN UA RUS
-- [GolinskiyKonstantin/STM32_Lib_TFT_ili9341](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ili9341) - STM32_Lib_TFT_ili9341 320x240 EN UA RUS
+- [KostiantynHolinskyi/STM32_Lib_TFT_ST7735](https://github.com/KostiantynHolinskyi/STM32_Lib_TFT_ST7735) - STM32 Display ST7735 160x128 128x128 160x80 EN UA RUS
+- [KostiantynHolinskyi/STM32_Lib_TFT_ili9341](https://github.com/KostiantynHolinskyi/STM32_Lib_TFT_ili9341) - STM32_Lib_TFT_ili9341 320x240 EN UA RUS
 - [Solderingironspb/STM32F411CEU6_CMSIS_notes](https://github.com/Solderingironspb/STM32F411CEU6_CMSIS_notes) - Практика по CMSIS на STM32F411CEU6
 - [Solderingironspb/STM32F103C8T6_CMSIS_Examples](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_Examples) - Примеры проектов на CMSIS
 - [Solderingironspb/thermocouple_calculator](https://github.com/Solderingironspb/thermocouple_calculator) - 
@@ -712,7 +711,7 @@
 - [Str8Razor/mi_totem](https://github.com/Str8Razor/mi_totem) - Firmware for TOTEM keyboard
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [stasmarkin/sm_layouts](https://github.com/stasmarkin/sm_layouts) - Custom QMK for international layouts
-- [GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz](https://github.com/GolinskiyKonstantin/STM32_Lib_Si5351_8KHz_160MHz) - STM32 Lib Si5351 8KHz-160MHz
+- [KostiantynHolinskyi/STM32_Lib_Si5351_8KHz_160MHz](https://github.com/KostiantynHolinskyi/STM32_Lib_Si5351_8KHz_160MHz) - STM32 Lib Si5351 8KHz-160MHz
 - [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
 - [michalin/Arduino-C64-Emulator](https://github.com/michalin/Arduino-C64-Emulator) - A Commodore 64 emulator running on an Arduino
 - [jimahlstrom/quisk](https://github.com/jimahlstrom/quisk) - Quisk Software Defined Radio
@@ -827,7 +826,7 @@
 - [fruit-bat/pico-nespad](https://github.com/fruit-bat/pico-nespad) - Pico PI NES joypad code
 - [fruit-bat/pico-hid-host](https://github.com/fruit-bat/pico-hid-host) - Library to host HID devices on Pico Pi alongside TinyUSB
 - [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
-- [GolinskiyKonstantin/STM32_Lib_TFT_ST7789](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ST7789) - STM32 Display ST7789 135x240  240x240  172x320  240x280  240x320  76x284  EN UA RUS
+- [KostiantynHolinskyi/STM32_Lib_TFT_ST7789](https://github.com/KostiantynHolinskyi/STM32_Lib_TFT_ST7789) - STM32 Display ST7789 135x240  240x240  172x320  240x280  240x320  76x284  EN UA RUS
 - [tsripramong/VGA256_USB-host](https://github.com/tsripramong/VGA256_USB-host) - An example for 8-bit color VGA display for STM32F411CEU6 (Black Pill) with a simple USB-host functionality
 - [nr-electronics/Mastering-STM32-on-your-own](https://github.com/nr-electronics/Mastering-STM32-on-your-own) - Sources for studying STM32 microcontrollers.
 - [wegi1/W25Q16-STM32F407VE-BLACK-SPI-EXTERNAL-LOADER](https://github.com/wegi1/W25Q16-STM32F407VE-BLACK-SPI-EXTERNAL-LOADER) - W25Q16 SPI external loader for black board STM32F407VET6
@@ -1522,7 +1521,7 @@
 - [jkitchin/emacs-modules](https://github.com/jkitchin/emacs-modules) - Dynamic modules for emacs
 - [dyama/mruby-lua](https://github.com/dyama/mruby-lua) - mruby-lua calls Lua script engine from mruby.
 - [syohex/emacs-lua](https://github.com/syohex/emacs-lua) - Lua engine from Emacs Lisp
-- [the-chenergy/grid88_qmk_firmware](https://github.com/the-chenergy/grid88_qmk_firmware) - A mechanical keyboard designed and wired from scratch
+- [the-chenergy/grid88_qmk_firmware](https://github.com/the-chenergy/grid88_qmk_firmware) - A split mechanical keyboard designed and wired from scratch
 - [ibhagwan/picom](https://github.com/ibhagwan/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [yshui/deai](https://github.com/yshui/deai) - One-stop automation system for Linux
 - [starwing/luautf8](https://github.com/starwing/luautf8) - a utf-8 support module for Lua and LuaJIT.
@@ -1664,6 +1663,7 @@
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Tomas-M/posixovl](https://github.com/Tomas-M/posixovl) - POSIX-overlay filesystem
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
 - [da-nie/SimplyVGAVideoCard](https://github.com/da-nie/SimplyVGAVideoCard) - Простейшая VGA-видеокарта на Atmega168-20.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
@@ -2026,7 +2026,7 @@
 
 ## C++ 
 
-- [mrcodetastic/ESP32-HUB75-MatrixPanel-DMA](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA) - An Adafruit GFX Compatible Library for the ESP32, ESP32-S2, ESP32-S3 to drive HUB75 LED matrix panels using DMA for high refresh rates. Supports panel chaining.
+- [mrcodetastic/ESP32-HUB75-MatrixPanel-DMA](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA) - An Adafruit GFX Compatible Library for the ESP32/S2/S3/P4 to drive HUB75 LED matrix panels using DMA for high refresh rates. Supports panel chaining.
 - [LAutour/ESP32-HUB75-MatrixPanel-DMA-ICN2053](https://github.com/LAutour/ESP32-HUB75-MatrixPanel-DMA-ICN2053) - !!!! Due to the fact that I fundamentally do not want to comply with GitHub’s requirements for two-factor authentication, after 09/12/23 they will be on the website, I’m moving to sourceforge - update
 - [LAutour/ESP32-HUB75-MatrixPanel-I2S-DMA-icn2053](https://github.com/LAutour/ESP32-HUB75-MatrixPanel-I2S-DMA-icn2053) - Unsupported. New version ESP32-HUB75-MatrixPanel-DMA-icn2053
 - [pixelmatix/SmartMatrix](https://github.com/pixelmatix/SmartMatrix) - SmartMatrix Library for Teensy 3, Teensy 4, and ESP32
@@ -3410,7 +3410,7 @@
 - [RobTillaart/FunctionGenerator](https://github.com/RobTillaart/FunctionGenerator) - Arduino library to generate wave forms (nummeric) for a DAC
 - [RobTillaart/I2C_24LC1025](https://github.com/RobTillaart/I2C_24LC1025) - Arduino library for the 24LC1025 I2C EEPROM and equivalent
 - [RobTillaart/I2CKeyPad](https://github.com/RobTillaart/I2CKeyPad) - Arduino library for 4x4 (or smaller) keypad connected to an I2C PCF8574.
-- [RobTillaart/I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM) - Arduino Library for external I2C EEPROM - 24LC512, 24LC256, 24LC64/32/16/08/04/02/01.
+- [RobTillaart/I2C_EEPROM](https://github.com/RobTillaart/I2C_EEPROM) - Arduino library for external I2C EEPROM - 24LC512, 24LC256, 24LC64/32/16/08/04/02/01.
 - [RobTillaart/Arduino](https://github.com/RobTillaart/Arduino) - Arduino libraries, code and applications
 - [xlucn/fbterm](https://github.com/xlucn/fbterm) - A personal fork only to keep the patches I need
 - [enjoyneering/Bench_Power_Supply](https://github.com/enjoyneering/Bench_Power_Supply) - Bench power supply controlled by Arduino
@@ -4051,7 +4051,7 @@
 - [jamescherti/persist-text-scale.el](https://github.com/jamescherti/persist-text-scale.el) - Emacs: Persist and Restore Text Scale
 - [jamescherti/buffer-guardian.el](https://github.com/jamescherti/buffer-guardian.el) - buffer-guardian.el - Automatically save Emacs buffers without manual intervention
 - [jamescherti/vim-tab-bar.el](https://github.com/jamescherti/vim-tab-bar.el) - Emacs: A Vim-Inspired Tab-Bar That Automatically Adapts to Any Emacs Theme
-- [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A Lightweight Suite of Essential Emacs Functions
+- [jamescherti/wizard.el](https://github.com/jamescherti/wizard.el) - wizard: A lightweight suite of useful Emacs functions
 - [jamescherti/lightemacs](https://github.com/jamescherti/lightemacs) - Lightemacs - Fast and Lightweight Emacs Framework
 - [jamescherti/inhibit-mouse.el](https://github.com/jamescherti/inhibit-mouse.el) - Disable the mouse in Emacs (Alternative to disable-mouse)
 - [jamescherti/easysession.el](https://github.com/jamescherti/easysession.el) - easysession.el: Persist and Restore Emacs sessions (buffers, windows, tab-bar, scratch, Dired, narrowing, indirect buffers/clones, Magit buffers, scratch...); a robust desktop.el replacement
@@ -4535,6 +4535,7 @@
 - [radian-software/selectrum](https://github.com/radian-software/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
 - [KaratasFurkan/.emacs.d](https://github.com/KaratasFurkan/.emacs.d) - My literate Emacs configuration
 - [syohex/dot_files](https://github.com/syohex/dot_files) - My dot files
+- [alhassy/org-special-block-extras](https://github.com/alhassy/org-special-block-extras) - A number of new custom blocks and link types for Emacs' Org-mode ^_^
 - [jkitchin/ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
 - [jkitchin/ov-highlight](https://github.com/jkitchin/ov-highlight) - A persistent highlighter for Emacs
 - [jkitchin/ox-clip](https://github.com/jkitchin/ox-clip) - Copy formatted content from org-mode
@@ -5121,7 +5122,7 @@
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [ivpn/mailx](https://github.com/ivpn/mailx) - Audited, Open-Source Email Aliasing Service
 - [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [samiulsami/go-deep.nvim](https://github.com/samiulsami/go-deep.nvim) - Go deep completion source for neovim. Compatible with `blink.cmp`, and native `completeFunc`.
 - [sverrehu/spacegame](https://github.com/sverrehu/spacegame) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
@@ -5513,6 +5514,7 @@
 - [abhra0897/LameUI_docs](https://github.com/abhra0897/LameUI_docs) - gh-page repo of LameUI documentations. Main repo: github.com/abhra0897/LameUI
 - [yingchaotw/STLinkV3_Adapter](https://github.com/yingchaotw/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlink-v3.
 - [RadioOperator/STLinkV3_Adapter](https://github.com/RadioOperator/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlinkv3-mini.
+- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [yiancar/barleycorn_pcb](https://github.com/yiancar/barleycorn_pcb) - A 1800 f-row less throughole keyboard with USBC. Inspired by the Plaid
 - [megamind4089/STeMCell](https://github.com/megamind4089/STeMCell) - STM32F4 breakout board in pro micro pinout. Designed mainly for ergo split keyboards.
 - [jpconstantineau/EncoderPad_RP2040](https://github.com/jpconstantineau/EncoderPad_RP2040) - 
@@ -5588,7 +5590,6 @@
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet) - Beej's Guide to Network Programming source
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [honze-net/nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - A Nmap XSL implementation with Bootstrap.
-- [alhassy/org-special-block-extras](https://github.com/alhassy/org-special-block-extras) - A number of new custom blocks and link types for Emacs' Org-mode ^_^
 - [spontanurlaub/telegram-bot-api-log](https://github.com/spontanurlaub/telegram-bot-api-log) - Automatically logs all changes to the telegram bot api
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
 - [jmalloc/echo-server](https://github.com/jmalloc/echo-server) - An HTTP and WebSocket "echo" server for testing proxies and HTTP clients.
@@ -5835,7 +5836,7 @@
 - [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [vshymanskyy/ViperIDE](https://github.com/vshymanskyy/ViperIDE) - An innovative MicroPython / CircuitPython IDE for Web and Mobile
-- [farjs/farjs](https://github.com/farjs/farjs) - FAR.js - Cross-platform File and ARchive manager app
+- [farjs/farjs](https://github.com/farjs/farjs) - FAR.js Cross-platform File and ARchive manager app in your terminal
 - [SuperZombi/HDrezka-Helper](https://github.com/SuperZombi/HDrezka-Helper) - Downloads movies and subtitles. Supports mirrors.
 - [kpn-iot/thingsml-c-library](https://github.com/kpn-iot/thingsml-c-library) - C library for ThingsML on your device
 - [latex-lsp/tree-sitter-latex](https://github.com/latex-lsp/tree-sitter-latex) - LaTeX grammar for tree-sitter
@@ -6090,7 +6091,6 @@
 - [radareorg/r2ai-model](https://github.com/radareorg/r2ai-model) - Dataset to train or finetune language models with knowledge about radare2
 - [jupyterlab/jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo) - Demonstrations of JupyterLab
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
-- [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
 - [newhouseb/onebitbt](https://github.com/newhouseb/onebitbt) - Bluetooth PHY based on one-bit input and output
 - [mobilinkd/uv-k6-digital-mod](https://github.com/mobilinkd/uv-k6-digital-mod) - UV-K6 Mods for Digital Modulation
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
@@ -6174,7 +6174,7 @@
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-- [w2sv/WiFi-Widget](https://github.com/w2sv/WiFi-Widget) - Android app providing a fully configurable widget for the monitoring of your WiFi connection details.
+- [w2sv/WiFi-Widget](https://github.com/w2sv/WiFi-Widget) - A sleek, customizable Android widget for monitoring your Wi-Fi connection.
 - [ltex-plus/ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus) - LTeX+ Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Auth Android app
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
@@ -7848,7 +7848,7 @@
 - [jackysee/telescope-hg.nvim](https://github.com/jackysee/telescope-hg.nvim) - Telescope plugin for mercurial (hg) repo
 - [rafcamlet/tabline-framework.nvim](https://github.com/rafcamlet/tabline-framework.nvim) - User-friendly framework for building your dream tabline in a few lines of code.
 - [WhoIsSethDaniel/chezmoi.nvim](https://github.com/WhoIsSethDaniel/chezmoi.nvim) - Edit chezmoi files with neovim as you normally would and have them added to chezmoi source state.
-- [softinio/scaladex.nvim](https://github.com/softinio/scaladex.nvim) - Neovim and Telescope plugin to search the scaladex index
+- [softinio/scaladex.nvim](https://github.com/softinio/scaladex.nvim) - Neovim plugin to search the scala packages index to add libraries to your project in Neovim
 - [mars90226/dotvim](https://github.com/mars90226/dotvim) - Vim/Neovim config
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
@@ -9348,7 +9348,7 @@
 - [Am0k-GIT/ST-LINK_V2.1](https://github.com/Am0k-GIT/ST-LINK_V2.1) - A clone of the ST-Link V2.1 with the VCP+MSD+SWO features available.
 - [R9OFG/ST7789-lib-STM32](https://github.com/R9OFG/ST7789-lib-STM32) - ST7789 170*320 lib SPI DMA or non DMA + DEMO
 - [bigbigmdm/SPEC-IMSProg](https://github.com/bigbigmdm/SPEC-IMSProg) - SPEC file for IMSProg programmer
-- [GolinskiyKonstantin/STLINKV3-MODS](https://github.com/GolinskiyKonstantin/STLINKV3-MODS) - ST-Link V3 MINI ( V3MODS ) Adapter ( STLINKV3-MODS )
+- [KostiantynHolinskyi/STLINKV3-MODS](https://github.com/KostiantynHolinskyi/STLINKV3-MODS) - ST-Link V3 MINI ( V3MODS ) Adapter ( STLINKV3-MODS )
 - [d3cker/gsoc-puhumod](https://github.com/d3cker/gsoc-puhumod) - Xiegu GSOC software mod a.k.a "путін хуй".
 - [handiko/VHF-LNA](https://github.com/handiko/VHF-LNA) - VHF Low Noise Amplifier Circuit & PCB using common MMIC
 - [XGudron/VHF-LNA](https://github.com/XGudron/VHF-LNA) - VHF Low Noise Amplifier Circuit & PCB using common MMIC
@@ -9431,7 +9431,7 @@
 - [yegappan/Vim9ScriptForPythonDevelopers](https://github.com/yegappan/Vim9ScriptForPythonDevelopers) - Vim9Script For Python Developers Guide
 - [FreeJoy-Team/FreeJoyWiki](https://github.com/FreeJoy-Team/FreeJoyWiki) - wiki for FreeJoy project
 - [raspberrypi/usb-pid](https://github.com/raspberrypi/usb-pid) - Raspberry Pi Pico PID allocations
-- [GolinskiyKonstantin/TFT-ST7789-for-STM32](https://github.com/GolinskiyKonstantin/TFT-ST7789-for-STM32) - PCB pin to pin TFT ST7789 for STM32
+- [KostiantynHolinskyi/TFT-ST7789-for-STM32](https://github.com/KostiantynHolinskyi/TFT-ST7789-for-STM32) - PCB pin to pin TFT ST7789 for STM32
 - [WeActStudio/WeActStudio.TFT-LCD-Module](https://github.com/WeActStudio/WeActStudio.TFT-LCD-Module) - WeAct Studio 2.8 Inch TFT-LCD Module
 - [WeActStudio/WeActStudio.BlackPill](https://github.com/WeActStudio/WeActStudio.BlackPill) - BlackPill Core Board AT32F403ACGx(240Mhz,96kRAM/1024kROM)
 - [WeActStudio/LogicAnalyzerV1](https://github.com/WeActStudio/LogicAnalyzerV1) - WeAct LogicAnalyzerV1 : A logic analyzer based on Cypress CY7C68013A / Corebai CBM9002A
@@ -9461,7 +9461,7 @@
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [IgrikXD/rpitx-coax-pcb](https://github.com/IgrikXD/rpitx-coax-pcb) - Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment when working with the rpitx package.
 - [IgrikXD/Easy-SDR](https://github.com/IgrikXD/Easy-SDR) - This project is about creation of affordable and easy-to-manufacture prototypes of PCBs which are used to expand the capabilities of existing low-cost SDR receivers based on RTL2832U chip.
-- [GolinskiyKonstantin/ST-Link-V2-1](https://github.com/GolinskiyKonstantin/ST-Link-V2-1) - ST-Link V2-1
+- [KostiantynHolinskyi/ST-Link-V2-1](https://github.com/KostiantynHolinskyi/ST-Link-V2-1) - ST-Link V2-1
 - [RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge](https://github.com/RobertDB59/Arduino-ST7735-tft-color-screen-Car-Coolant-gauge) - Arduino nano and a ST7735 128 x 160 full color tft screen. This gauge is using the resistance of the excisting coolant temperature sensor in the car to monitor the coolant temperature. The minimum tem
 - [Krakenw/Stlink-Bootloaders](https://github.com/Krakenw/Stlink-Bootloaders) - Stlink Bootloaders
 - [wemos/docs](https://github.com/wemos/docs) - 
@@ -10096,6 +10096,7 @@
 
 ## PowerShell 
 
+- [ViacheslavMezentsev/stm32-flasher](https://github.com/ViacheslavMezentsev/stm32-flasher) - Переносимый набор команд для STM32 через ST-Link и J-Link
 - [openhab/openhab-distro](https://github.com/openhab/openhab-distro) - The binary distribution of openHAB
 - [Bouni/Arduino-Pinout](https://github.com/Bouni/Arduino-Pinout) - 
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -10114,7 +10115,6 @@
 
 ## Python 
 
-- [AxxAxx/AxxTerm](https://github.com/AxxAxx/AxxTerm) - 
 - [lettepa/lettepa](https://github.com/lettepa/lettepa) - A color theme.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) - Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
@@ -10297,6 +10297,7 @@
 - [veusz/veusz](https://github.com/veusz/veusz) - Veusz scientific plotting application
 - [bmo/py-wsjtx](https://github.com/bmo/py-wsjtx) - Python library to interpret and generate UDP packets to communicate with WSJT-X
 - [kholia/py-wsjtx](https://github.com/kholia/py-wsjtx) - Python library to interpret and generate UDP packets to communicate with WSJT-X
+- [777arc/PySDR](https://github.com/777arc/PySDR) - PySDR is a guide to software-defined radio (SDR) and RF signal processing using Python, live at https://pysdr.org
 - [DreamSourceLab/DSView](https://github.com/DreamSourceLab/DSView) - An open source multi-function instrument for everyone
 - [Hagtronics/SDRpp-FrequencyManager-Spreadsheet-Tool](https://github.com/Hagtronics/SDRpp-FrequencyManager-Spreadsheet-Tool) - Python script to convert Spreadsheet Frequency Lists into a Frequency Manager JSON file for SDR++
 - [HollowHunter/Arduino-Control-System](https://github.com/HollowHunter/Arduino-Control-System) - Программа на pyton, позволяющая управлять ардуиной при помощи созданного интерфейса
@@ -10942,6 +10943,7 @@
 - [mhartl/rails_tutorial_sublime_text](https://github.com/mhartl/rails_tutorial_sublime_text) - Sublime Text 2 setup used in the Ruby on Rails Tutorial
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [ponty/MyElectronicProjects](https://github.com/ponty/MyElectronicProjects) - Hobby electronic projects built by me
+- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [haimanman/SciTE-ru-jx3](https://github.com/haimanman/SciTE-ru-jx3) - 为剑网3插件开发而定制的 SciTE-ru 3.2.5 绿色版
 - [xjsender/HaoGist](https://github.com/xjsender/HaoGist) - Sublime Gist Plugin
@@ -11195,7 +11197,6 @@
 - [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - A modal, GPU-accelerated, plugin-first text editor in Rust
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server with zsh support
-- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [MeanderingProgrammer/yadm-rs](https://github.com/MeanderingProgrammer/yadm-rs) - Yet Another Dotfiles Manager in Rust
 - [probe-rs/rusty-probe-firmware](https://github.com/probe-rs/rusty-probe-firmware) - 
 - [probe-rs/rtt-target](https://github.com/probe-rs/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol
@@ -11384,7 +11385,7 @@
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [ubolonton/emacs-module-rs](https://github.com/ubolonton/emacs-module-rs) - Rust binding and tools for Emacs's dynamic modules
-- [joshuarli/srv](https://github.com/joshuarli/srv) - minimalist http server and file browser
+- [laputa-systems/srv](https://github.com/laputa-systems/srv) - minimalist http server and file browser
 - [xi-frontend/xi-term](https://github.com/xi-frontend/xi-term) - A terminal frontend for Xi
 - [Peltoche/vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend
 - [vv9k/rkd](https://github.com/vv9k/rkd) - Rusty keybinding daemon
@@ -11863,7 +11864,7 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
@@ -12233,7 +12234,6 @@
 - [EllaTheCat/i3-parkinson](https://github.com/EllaTheCat/i3-parkinson) - An article by /u/EllaTheCat about using i3 with and because of Parkinsons's Disease (PD)
 - [netlify/build-image](https://github.com/netlify/build-image) - This is the build image used for running automated builds
 - [MikaelElkiaer/dotfiles](https://github.com/MikaelElkiaer/dotfiles) - 
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [dm1try/git_fastfix](https://github.com/dm1try/git_fastfix) - fast git fixups using neovim UI
@@ -12360,7 +12360,7 @@
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
@@ -12372,7 +12372,6 @@
 - [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages) - Package scripts for Cygwin targets to build under MSYS2.
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [A/.dotfiles](https://github.com/A/.dotfiles) - configs and utils
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
@@ -12541,7 +12540,6 @@
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) - zsh fuzzy completion and utility plugin with Deno.
-- [lambdalisue/vim-guise](https://github.com/lambdalisue/vim-guise) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [bscan/PerlNavigator](https://github.com/bscan/PerlNavigator) - Perl Language Server that includes syntax checking, perl critic, and code navigation
@@ -12913,6 +12911,7 @@
 - [lambdalisue/vim-fern-mapping-git](https://github.com/lambdalisue/vim-fern-mapping-git) - Add Git related mappings on file:// scheme of fern.vim
 - [lambdalisue/vim-fern-ssh](https://github.com/lambdalisue/vim-fern-ssh) - 🌿  A scheme plugin for fern.vim which show file system tree of a remote machine via SSH.
 - [lambdalisue/vim-fern-git-status](https://github.com/lambdalisue/vim-fern-git-status) - 🌿  Add Git status badge integration on file:// scheme on fern.vim
+- [lambdalisue/vim-guise](https://github.com/lambdalisue/vim-guise) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
 - [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
 - [lambdalisue/vim-fern-comparator-lexical](https://github.com/lambdalisue/vim-fern-comparator-lexical) - 🌿  fern.vim plugin which add lexical comparator
 - [lambdalisue/vim-fern-bookmark](https://github.com/lambdalisue/vim-fern-bookmark) - 🌿 fern.vim plugin which add bookmark scheme
