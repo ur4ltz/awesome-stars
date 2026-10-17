@@ -5125,6 +5125,7 @@
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [samiulsami/go-deep.nvim](https://github.com/samiulsami/go-deep.nvim) - Go deep completion source for neovim. Compatible with `blink.cmp`, and native `completeFunc`.
 - [sverrehu/spacegame](https://github.com/sverrehu/spacegame) - 
+- [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [AlexanderBrevig/kicad-db-unified](https://github.com/AlexanderBrevig/kicad-db-unified) - Example repository of a KiCAD unified library
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) - Monitor Git repositories for new commits
 - [gh-tui-tools/gh-review-responder](https://github.com/gh-tui-tools/gh-review-responder) - ↩ Respond to PR reviews; apply suggestions locally
@@ -5812,7 +5813,6 @@
 - [erf/vis-plugins](https://github.com/erf/vis-plugins) - A community driven list of plugins for the vis editor
 - [soundmonster/samoklava](https://github.com/soundmonster/samoklava) - Generated keyboard
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
-- [rachartier/dotfiles](https://github.com/rachartier/dotfiles) - 
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [OXY2DEV/tree-sitter-comment](https://github.com/OXY2DEV/tree-sitter-comment) - Tree-sitter parser for conventional comments
 - [OXY2DEV/tree-sitter-kitty](https://github.com/OXY2DEV/tree-sitter-kitty) - Tree-sitter parser for kitty.conf files
@@ -5832,7 +5832,7 @@
 - [tabemann/zeptocomjs](https://github.com/tabemann/zeptocomjs) - A web terminal for Forth
 - [Freed-Wu/tree-sitter-zathurarc](https://github.com/Freed-Wu/tree-sitter-zathurarc) - 🌲👨 zathurarc grammar for tree-sitter
 - [Freed-Wu/tree-sitter-tmux](https://github.com/Freed-Wu/tree-sitter-tmux) - 🌲👨 tmux grammar for tree-sitter
-- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android/ios
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
@@ -6341,6 +6341,7 @@
 - [twio142/githead.yazi](https://github.com/twio142/githead.yazi) - Git status header for yazi inspired by powerlevel10k
 - [wekauwau/yatline-tokyo-night.yazi](https://github.com/wekauwau/yatline-tokyo-night.yazi) - Tokyo Night for Yatline
 - [MarcWeber/nvim-cmp-bufnames](https://github.com/MarcWeber/nvim-cmp-bufnames) - buf name completion for neovim
+- [rachartier/dotfiles](https://github.com/rachartier/dotfiles) - 
 - [rachartier/tiny-buffers-switcher.nvim](https://github.com/rachartier/tiny-buffers-switcher.nvim) - 
 - [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) - A Neovim plugin that adds smooth, customizable animations to text operations like yank, paste, search, undo/redo, and more.
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
@@ -8937,7 +8938,6 @@
 - [ElPiloto/Lua-Omni-Vim-Completion](https://github.com/ElPiloto/Lua-Omni-Vim-Completion) - omni completion functionality for Vim editor
 - [rkowal/Lua-Omni-Vim-Completion](https://github.com/rkowal/Lua-Omni-Vim-Completion) - omni completion functionality for Vim editor
 - [rgieseke/textredux](https://github.com/rgieseke/textredux) - Text-based interfaces for Textadept
-- [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [jesseleite/dotfiles](https://github.com/jesseleite/dotfiles) - My dotfiles 💾
 - [meric/leftry](https://github.com/meric/leftry) - Leftry - A left-recursion enabled recursive-descent parser combinator library for Lua.
 - [meric/l2l](https://github.com/meric/l2l) - Lisp is Lisp. Lua is Lua. Lisp and Lua as One.
@@ -10131,7 +10131,6 @@
 - [DFRobot/DFRobot_BME280](https://github.com/DFRobot/DFRobot_BME280) - 
 - [dybdeskarphet/niri-companion](https://github.com/dybdeskarphet/niri-companion) - 🫂 A toolkit that adds extra functionality to niri
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
-- [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
 - [jamescherti/git-commitflow](https://github.com/jamescherti/git-commitflow) - git-commitflow - Git Add, Diff, Commit, and Push Helper
 - [stm32-rs/stm32-rs](https://github.com/stm32-rs/stm32-rs) - Embedded Rust device crates for STM32 microcontrollers
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
@@ -12681,6 +12680,7 @@
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [ASDAlexander77/TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) - The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for Lua bytecode and transpiler for Lua language
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
