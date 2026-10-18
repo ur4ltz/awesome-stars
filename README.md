@@ -3540,7 +3540,7 @@
 - [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees
 - [nmapsi4/nmapsi4](https://github.com/nmapsi4/nmapsi4) - NmapSi4 is a complete Qt-based Gui with the design goals to provide a complete nmap interface for Users, in order to management all options of this powerful security net scanner!
 - [sdhzdmzzl/iptv_channel_scanner_linux](https://github.com/sdhzdmzzl/iptv_channel_scanner_linux) - scan iptv channel in linux
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text.
 - [amsynth/amsynth](https://github.com/amsynth/amsynth) - Simple software synthesizer for Linux
 - [cmdrkotori/mpc-qt-origin](https://github.com/cmdrkotori/mpc-qt-origin) - Media Player Classic Qute Theater
 - [qt-labs/qthttpserver](https://github.com/qt-labs/qthttpserver) - Qt HTTP Server
@@ -5105,7 +5105,6 @@
 
 - [jawatson/voacapl](https://github.com/jawatson/voacapl) - A port of VOACAP for Linux
 - [pynappo/dotfiles](https://github.com/pynappo/dotfiles) - dotfiles for Windows and arch, btw.
-- [lucastrvsn/.dotfiles](https://github.com/lucastrvsn/.dotfiles) - wow such dotfiles
 - [sk0x1234/swaydotfiles](https://github.com/sk0x1234/swaydotfiles) - sway dotfiles
 
 ## Game Maker Language 
@@ -5933,6 +5932,7 @@
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [TiagoDanin/Polybar-Helpers](https://github.com/TiagoDanin/Polybar-Helpers) - Polybar - Helpers to create plugin/module using NodeJS
+- [lucastrvsn/.dotfiles](https://github.com/lucastrvsn/.dotfiles) - wow such dotfiles
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [rajasegar/alacritty-themes](https://github.com/rajasegar/alacritty-themes) - :rainbow: :lollipop: Themes :candy: :heart_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator
 - [alajmo/pinto](https://github.com/alajmo/pinto) - :paintbrush: Create, view and edit vim color themes
