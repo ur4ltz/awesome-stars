@@ -316,6 +316,7 @@
 
 ## Batchfile 
 
+- [ViacheslavMezentsev/stm32-flasher](https://github.com/ViacheslavMezentsev/stm32-flasher) - Переносимый набор команд для STM32
 - [felias-fogg/progmemcheck](https://github.com/felias-fogg/progmemcheck) - A Unix and a Window shell script to check for the size of the PROGMEM section on AVRs with more then 64 kB
 - [AnZoRiN228/STM32-ST-Link-V2.1](https://github.com/AnZoRiN228/STM32-ST-Link-V2.1) - 
 - [nodemcu/nodemcu-devkit-v1.0](https://github.com/nodemcu/nodemcu-devkit-v1.0) - 
@@ -1744,7 +1745,6 @@
 - [ocard/yeahconsole](https://github.com/ocard/yeahconsole) - YeahConsole turns an xterm into a gamelike console (forked).
 - [telser/nezd](https://github.com/telser/nezd) - Nezd is a general purpose messaging, notification and menuing program for X11.
 - [Neopallium/nixio](https://github.com/Neopallium/nixio) - System, Networking and I/O library for Lua.  This is an unoffical fork of NIXO from: http://luci.subsignal.org/
-- [askamiroff/rxvt-unicode-24bit](https://github.com/askamiroff/rxvt-unicode-24bit) - 
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
@@ -10096,7 +10096,6 @@
 
 ## PowerShell 
 
-- [ViacheslavMezentsev/stm32-flasher](https://github.com/ViacheslavMezentsev/stm32-flasher) - Переносимый набор команд для STM32 через ST-Link и J-Link
 - [openhab/openhab-distro](https://github.com/openhab/openhab-distro) - The binary distribution of openHAB
 - [Bouni/Arduino-Pinout](https://github.com/Bouni/Arduino-Pinout) - 
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -11016,7 +11015,6 @@
 - [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [xiaket/better-header](https://github.com/xiaket/better-header) - Better header management for vim
-- [nielsmadan/harlequin](https://github.com/nielsmadan/harlequin) - Dark, high contrast gvim colorscheme inspired by molokai and bad wolf.
 - [skibyte/gdblib](https://github.com/skibyte/gdblib) - A module to interact with GDB debugger
 
 ## QML 
@@ -12760,7 +12758,7 @@
 - [andymass/vim-visput](https://github.com/andymass/vim-visput) - sensible visual puts in vim
 - [andymass/vim-tradewinds](https://github.com/andymass/vim-tradewinds) - the missing window movement
 - [ddrscott/vim-window](https://github.com/ddrscott/vim-window) - 
-- [VArtzy/auto-pairs-v9](https://github.com/VArtzy/auto-pairs-v9) - Vim plugin, insert or delete brackets, parens, quotes in pair with fixed bug on newer neovim
+- [VArtzy/auto-pairs-v9](https://github.com/VArtzy/auto-pairs-v9) - Vim plugin, insert or delete brackets, parens, quotes in pair with fixed bug on newer vim
 - [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents
 - [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) - Run fzy asynchronously in a Vim (popup) terminal-window
 - [lambdalisue/vim-reword](https://github.com/lambdalisue/vim-reword) - 🧬 Vim plugin to provide case-preserving substitutuion
@@ -14000,6 +13998,7 @@
 - [xuhdev/SingleCompile](https://github.com/xuhdev/SingleCompile) - A Vim plugin making it more convenient to compile or run a single source file.
 - [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
+- [nielsmadan/harlequin](https://github.com/nielsmadan/harlequin) - Dark, high contrast gvim colorscheme inspired by molokai and bad wolf.
 - [mbbill/desertEx](https://github.com/mbbill/desertEx) - A desert based scheme with enhanced colors.
 - [skibyte/gdb-from-vim](https://github.com/skibyte/gdb-from-vim) - A plugin to debug program with gdb by using vim
 - [sandeepcr529/Buffet.vim](https://github.com/sandeepcr529/Buffet.vim) - A vimplugin for switching and managing buffer lists
