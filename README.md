@@ -198,6 +198,7 @@
 
 ## Assembly 
 
+- [drunkbatya/DrunkPC](https://github.com/drunkbatya/DrunkPC) - Operating system for homemade 8-bit Z80 computer
 - [profdc9/Z80SBC](https://github.com/profdc9/Z80SBC) - 
 - [piit79/USBasp](https://github.com/piit79/USBasp) - USBasp is a USB in-circuit programmer for Atmel AVR controllers by Thomas Fischl
 - [STM32-base/STM32-base](https://github.com/STM32-base/STM32-base) - A simple start for any STM32 based project.
@@ -2389,7 +2390,6 @@
 - [svofski/vector06sdl](https://github.com/svofski/vector06sdl) - Opensource Vector-06C emulator in C++ | Опенсорсный эмулятор Вектора-06ц
 - [fruit-bat/pico-zxspectrum](https://github.com/fruit-bat/pico-zxspectrum) - ZX Spectrum for Raspberry  Pi Pico RP2040 and RP2350
 - [Butylkus/bukey](https://github.com/Butylkus/bukey) - CW iambic Morse Keyer on Arduino. Yet another one
-- [v0l/radio_tool](https://github.com/v0l/radio_tool) - Radio firmware tool
 - [AE9RB/iambino](https://github.com/AE9RB/iambino) - Iambino - Iambic Keyer for Arduino
 - [flank1er/DS3231SQW](https://github.com/flank1er/DS3231SQW) - Arduino library for RTC DS1307/DS3231
 - [jmparatte/jm_PCF8574](https://github.com/jmparatte/jm_PCF8574) - jm_PCF8574 Arduino Library
@@ -5680,6 +5680,7 @@
 
 ## Java 
 
+- [rusefi/KiCad-utils](https://github.com/rusefi/KiCad-utils) - A collection of tools for command line KiCad file manipulation.
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 - [gturri/aXMLRPC](https://github.com/gturri/aXMLRPC) - A lightweight Java XML-RPC client for the use with Android. Since there is absolutely no dependency to any android specific library (and I assure, that it never will have any), it also works fine in n
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
@@ -6061,7 +6062,6 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -11225,6 +11225,7 @@
 - [enricozb/popup.kak](https://github.com/enricozb/popup.kak) - Kakoune popup plugin
 - [ul/kak-tree](https://github.com/ul/kak-tree) - Structural selections for Kakoune
 - [EmmyLuaLs/emmylua_dap](https://github.com/EmmyLuaLs/emmylua_dap) - 
+- [v0l/radio_tool](https://github.com/v0l/radio_tool) - Radio firmware tool
 - [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - Terminal-based but modern tetromino-stacking game that is customizable and cross-platform
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -12681,6 +12682,7 @@
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
