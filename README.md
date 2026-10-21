@@ -2027,6 +2027,10 @@
 
 ## C++ 
 
+- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet downloads.
+- [emulefanscom/eMule](https://github.com/emulefanscom/eMule) - 
+- [emulebb/emulebb](https://github.com/emulebb/emulebb) - Stable eMuleBB MFC 0.7.x Windows client for eD2K/Kad; long-term maintenance.
+- [irwir/eMule](https://github.com/irwir/eMule) - Continuing development of eMule
 - [mrcodetastic/ESP32-HUB75-MatrixPanel-DMA](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA) - An Adafruit GFX Compatible Library for the ESP32/S2/S3/P4 to drive HUB75 LED matrix panels using DMA for high refresh rates. Supports panel chaining.
 - [LAutour/ESP32-HUB75-MatrixPanel-DMA-ICN2053](https://github.com/LAutour/ESP32-HUB75-MatrixPanel-DMA-ICN2053) - !!!! Due to the fact that I fundamentally do not want to comply with GitHub’s requirements for two-factor authentication, after 09/12/23 they will be on the website, I’m moving to sourceforge - update
 - [LAutour/ESP32-HUB75-MatrixPanel-I2S-DMA-icn2053](https://github.com/LAutour/ESP32-HUB75-MatrixPanel-I2S-DMA-icn2053) - Unsupported. New version ESP32-HUB75-MatrixPanel-DMA-icn2053
@@ -3780,6 +3784,7 @@
 
 ## CMake 
 
+- [avwarez/eMule-build](https://github.com/avwarez/eMule-build) - CMake build pipeline for eMule
 - [the-mikedavis/tree-sitter-git-rebase](https://github.com/the-mikedavis/tree-sitter-git-rebase) - A tree-sitter grammar for git's interactive rebase file
 - [cesanta/mongoose-esp-idf](https://github.com/cesanta/mongoose-esp-idf) - Mongoose Library component for ESP-IDF
 - [embeddedartistry/cmake-buildsystem](https://github.com/embeddedartistry/cmake-buildsystem) - Helper scripts, cross-compilation-files, makefile shims, and other helpful tools for working with CMake
@@ -5779,6 +5784,7 @@
 
 ## JavaScript 
 
+- [magicoflolis/Magic-PH](https://github.com/magicoflolis/Magic-PH) - A video downloader for various adult websites
 - [killemov/Shift](https://github.com/killemov/Shift) - A minimalistic approach to maximum control of your Transmission. (Web UI)
 - [Freed-Wu/tree-sitter-tmuxf](https://github.com/Freed-Wu/tree-sitter-tmuxf) - 🌲👨 tmux format string grammar for tree-sitter
 - [DubsterDev/HamTest](https://github.com/DubsterDev/HamTest) - A simple, easy to use website to prepare you to take all three US amateur radio tests
