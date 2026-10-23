@@ -3839,7 +3839,7 @@
 - [kkbesp/Void-Linux-BSPWM](https://github.com/kkbesp/Void-Linux-BSPWM) - My personal configuration files and installation script for void linux glibc + bspwm. Collected them myself from different parts of the Internet. I would like to thank ctlos and alex personally, I got
 - [Alexander-Miller/dotfiles](https://github.com/Alexander-Miller/dotfiles) - 
 - [doopath/doodots](https://github.com/doopath/doodots) - My dotfiles
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [n1flh31mur/DotFiles](https://github.com/n1flh31mur/DotFiles) - Just a save place for my dotfiles
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
@@ -6050,7 +6050,6 @@
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
 - [MarcWeber/vim-git-wiki](https://github.com/MarcWeber/vim-git-wiki) - collaborative manual effort to create an index about vim tools
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [sidorares/node-vim-debugger](https://github.com/sidorares/node-vim-debugger) - node.js step by step debugging from vim
 - [candy-chat/candy](https://github.com/candy-chat/candy) - JavaScript-based multi-user chat client for XMPP.
 - [oxpa/www.jabber.ru](https://github.com/oxpa/www.jabber.ru) - Jabber.ru website
@@ -8521,7 +8520,6 @@
 - [datwaft/nvim.conf](https://github.com/datwaft/nvim.conf) - datwaft's neovim configuration
 - [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Bubbly statusline for neovim
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
-- [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [bew/dotfiles](https://github.com/bew/dotfiles) - All my dotfiles in one place!
 - [66RING/bookmarks-nvim](https://github.com/66RING/bookmarks-nvim) - Interactive mark and jump action in neovim.
@@ -9991,6 +9989,7 @@
 - [bakoontz/WikkaWiki](https://github.com/bakoontz/WikkaWiki) - This version (1.4.2) marks the end-of-life for WikkaWiki (see README.md for details).
 - [gerardroche/sublime-monokai-free](https://github.com/gerardroche/sublime-monokai-free) - Monokai Sublime Text color scheme.
 - [wtorrent/wtorrent](https://github.com/wtorrent/wtorrent) - wTorrent
+- [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [jgmdev/fossilize](https://github.com/jgmdev/fossilize) - A small php script to manage fossil repositories hosted on a web server.
 - [jrconlin/oauthsimple](https://github.com/jrconlin/oauthsimple) - Simple, standardized OAuth signature generator
 
@@ -12035,6 +12034,7 @@
 - [mashrafdev/vim-curl-demo](https://github.com/mashrafdev/vim-curl-demo) - 
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
 - [halkn/dotfiles](https://github.com/halkn/dotfiles) - 
+- [rofrol/dotfiles](https://github.com/rofrol/dotfiles) - 
 - [k-kurumi/dotfiles](https://github.com/k-kurumi/dotfiles) - 
 - [DanCardin/dotfiles](https://github.com/DanCardin/dotfiles) - 
 - [66RING/dotfiles](https://github.com/66RING/dotfiles) - My dotfiles
