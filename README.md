@@ -7243,7 +7243,7 @@
 - [mawkler/nvim](https://github.com/mawkler/nvim) - My Neovim configuration
 - [camgraff/telescope-tmux.nvim](https://github.com/camgraff/telescope-tmux.nvim) - Integration for tmux with telescope.nvim
 - [ellisonleao/dotenv.nvim](https://github.com/ellisonleao/dotenv.nvim) - A minimalist .env support for Neovim
-- [LostInTheLogs/null-ls-embedded](https://github.com/LostInTheLogs/null-ls-embedded) - Format embedded(injected) code using null-ls in NeoVim
+- [vodfsh/null-ls-embedded](https://github.com/vodfsh/null-ls-embedded) - Format embedded(injected) code using null-ls in NeoVim
 - [HallerPatrick/py_lsp.nvim](https://github.com/HallerPatrick/py_lsp.nvim) - Lsp Plugin for working with Python virtual environments
 - [JManch/sunset.nvim](https://github.com/JManch/sunset.nvim) - An automatic theme switcher for Neovim that uses precise sunrise/sunset times based on your latitude and longitude.
 - [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme.
@@ -12364,7 +12364,7 @@
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
@@ -12766,7 +12766,7 @@
 - [andymass/vim-visput](https://github.com/andymass/vim-visput) - sensible visual puts in vim
 - [andymass/vim-tradewinds](https://github.com/andymass/vim-tradewinds) - the missing window movement
 - [ddrscott/vim-window](https://github.com/ddrscott/vim-window) - 
-- [VArtzy/auto-pairs-v9](https://github.com/VArtzy/auto-pairs-v9) - Vim plugin, insert or delete brackets, parens, quotes in pair with fixed bug on newer vim
+- [VArtzy/auto-pairs-v9](https://github.com/VArtzy/auto-pairs-v9) - Vim plugin, insert or delete brackets, parens, quotes in pair with workaround fixed bug on newer vim
 - [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents
 - [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) - Run fzy asynchronously in a Vim (popup) terminal-window
 - [lambdalisue/vim-reword](https://github.com/lambdalisue/vim-reword) - 🧬 Vim plugin to provide case-preserving substitutuion
