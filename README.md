@@ -330,6 +330,7 @@
 
 ## C 
 
+- [R9OFG/STM32F401CCU6_TinyUSB_Example](https://github.com/R9OFG/STM32F401CCU6_TinyUSB_Example) - Example of a composite USB on STM32 using TinyUSB
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [koendv/blackmagic-rtthread](https://github.com/koendv/blackmagic-rtthread) - blackmagic debug on rt-thread
 - [RadioOperator/STM32F103_1VCP-3UART](https://github.com/RadioOperator/STM32F103_1VCP-3UART) - STM32F103 Bluepill， All 3 UART Rx, go to 1 USB-VCP. Monitoring other UARTs Rx/Tx lines, use 1 terminal window only.
@@ -5772,7 +5773,7 @@
 - [ruleant/getback_gps](https://github.com/ruleant/getback_gps) - Open Source Android app for finding your way back to a previously visited location using GPS coordinates.
 - [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
 - [meefik/busybox](https://github.com/meefik/busybox) - BusyBox for Android
-- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android on screen keyboard for multiple languages and NO internet access
@@ -6067,6 +6068,7 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -6287,7 +6289,6 @@
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
-- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - Tmux command completion source for blink.cmp
 - [dynamotn/blink-cmp-zellij](https://github.com/dynamotn/blink-cmp-zellij) - Completion source from zellij for blink.cmp
 - [L3MON4D3/luals-mdgen](https://github.com/L3MON4D3/luals-mdgen) - Generate documentation in markdown from LuaCATS-annotations
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
@@ -8816,7 +8817,6 @@
 - [javalikescript/lua-webview](https://github.com/javalikescript/lua-webview) - Webview from Lua
 - [vigoux/templar.nvim](https://github.com/vigoux/templar.nvim) - A dead simple template manager for neovim written in lua
 - [sparkcanon/nvim](https://github.com/sparkcanon/nvim) - Personal Neovim configuration
-- [kizza/.dotfiles](https://github.com/kizza/.dotfiles) - My dotfiles
 - [seifferth/vis-editorconfig](https://github.com/seifferth/vis-editorconfig) - An editorconfig plugin for the vis text editor
 - [pkulchenko/ZeroBraneEduPack](https://github.com/pkulchenko/ZeroBraneEduPack) - A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 - [shmuz/far_plugins](https://github.com/shmuz/far_plugins) - 
@@ -12248,6 +12248,7 @@
 - [SeniorMars/dotfiles](https://github.com/SeniorMars/dotfiles) - My Rice Setup
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [gerardbm/dotfiles](https://github.com/gerardbm/dotfiles) - My ultimate *NIX dotfiles: a finely-tuned setup for a minimal yet powerful desktop experience. It's been designed around i3wm and URxvt for a cohesive and efficient workflow.
+- [kizza/.dotfiles](https://github.com/kizza/.dotfiles) - My dotfiles
 - [rickysaurav/dotfiles](https://github.com/rickysaurav/dotfiles) - 
 - [dpretet/dotfiles](https://github.com/dpretet/dotfiles) - Zsh, Vim & Tmux dotfiles
 - [tkabber/Tkabber-pack](https://github.com/tkabber/Tkabber-pack) - Tkabber distribution for Windows
@@ -12688,7 +12689,6 @@
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
