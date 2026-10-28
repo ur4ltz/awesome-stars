@@ -514,7 +514,7 @@
 - [Solderingironspb/CMSIS_PROJECT_CREATOR](https://github.com/Solderingironspb/CMSIS_PROJECT_CREATOR) - Скрипты для создания нового проекта под CMSIS без CubeMX
 - [Solderingironspb/STM32F103C8T6_CMSIS_notes](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes) - Изучаем CMSIS на STM32F103C8T6
 - [drewpo28/pico-spec](https://github.com/drewpo28/pico-spec) - ESPectrum port for ZX Murmulator (Raspberry Pi Pico)
-- [manaskamal/XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
+- [Xeneva/XenevaOS](https://github.com/Xeneva/XenevaOS) - The Xeneva Operating System
 - [maxdev1/ghost](https://github.com/maxdev1/ghost) - Ghost, a micro-kernel based hobby operating system.
 - [XGudron/rtl_hpsdr](https://github.com/XGudron/rtl_hpsdr) - An RTL to HPSDR sdr software translation server.
 - [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) - FreeRTOS adaptation for CMSIS-RTOS Version 2
@@ -3829,7 +3829,6 @@
 - [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
-- [lvim-tech/lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme) - A Neovim colorscheme written in Lua — multiple theme families, each in soft / dark / darker / light variants — part of the lvim-tech set
 - [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
 - [PossiblyAShrub/imgui-docs](https://github.com/PossiblyAShrub/imgui-docs) - Documentation for Dear ImGui
 - [e-cal/dotfiles-old](https://github.com/e-cal/dotfiles-old) - Arch, xmonad, polybar, alacritty, rofi, fish, neovim, useful custom scripts, and more.
@@ -3983,7 +3982,6 @@
 ## Dockerfile 
 
 - [radareorg/radare2-snap](https://github.com/radareorg/radare2-snap) - Radare2 snap and docker repository
-- [nelu/rutorrent-dock](https://github.com/nelu/rutorrent-dock) - Rutorrent docker-compose project with filemanager plugins installed
 - [ffeldhaus/docker-xpra-minimal](https://github.com/ffeldhaus/docker-xpra-minimal) - XPRA docker base image
 - [lambdalisue/docker-wireshark](https://github.com/lambdalisue/docker-wireshark) - Docker image which makes Wireshark available via HTML5 using XPRA
 - [ffeldhaus/docker-wireshark](https://github.com/ffeldhaus/docker-wireshark) - Docker image which makes Wireshark available via HTML5 using XPRA
@@ -8144,6 +8142,7 @@
 - [aserowy/neocode](https://github.com/aserowy/neocode) - Completely theme responsive, lean, streamlined lua configuration for neovim (dotfiles).
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 - [shaunsingh/solarized.nvim](https://github.com/shaunsingh/solarized.nvim) - Port of the Solarized colorscheme for vim, written in lua, with treesitter support.
+- [lvim-tech/lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme) - A Neovim colorscheme written in Lua — multiple theme families, each in soft / dark / darker / light variants — part of the lvim-tech set
 - [winston0410/better-O.nvim](https://github.com/winston0410/better-O.nvim) - A plugin that insert newline better than the default O.
 - [winston0410/smart-cursor.nvim](https://github.com/winston0410/smart-cursor.nvim) - Auto-indenting your cursor with treesitter
 - [ngscheurich/iris.nvim](https://github.com/ngscheurich/iris.nvim) - 🌈 Generate color palettes based on Neovim colorschemes.
@@ -9377,6 +9376,7 @@
 - [xorg62/tty-fifteen](https://github.com/xorg62/tty-fifteen) - A fifteen puzzle game in ncurses.
 - [pedramamini/awesome-yara](https://github.com/pedramamini/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [StefanKelm/yara-rules](https://github.com/StefanKelm/yara-rules) - Links to malware-related YARA rules
+- [nelu/rutorrent-dock](https://github.com/nelu/rutorrent-dock) - Rutorrent docker-compose project with filemanager plugins installed
 - [rtorrent-community/rtorrent-community.github.io](https://github.com/rtorrent-community/rtorrent-community.github.io) - rTorrent Community Wiki and GH Pages Repository
 - [ahyatt/emacs-calc-tutorials](https://github.com/ahyatt/emacs-calc-tutorials) - A series of tutorials about emacs-calc
 - [insipx/kak-crosshairs](https://github.com/insipx/kak-crosshairs) - Highlight the current column/line when editing in Kakoune
@@ -11054,6 +11054,7 @@
 
 ## Ruby 
 
+- [agama-project/agama](https://github.com/agama-project/agama) - A service-based Linux installer
 - [hsluv/hsluv-ruby](https://github.com/hsluv/hsluv-ruby) - Ruby implementation of HSLuv (revision 3)
 - [junegunn/heytmux](https://github.com/junegunn/heytmux) - Tmux scripting made easy
 - [junegunn/everything.fzf](https://github.com/junegunn/everything.fzf) - :bagel: fzf all the things!
@@ -12466,7 +12467,6 @@
 
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
-- [agama-project/agama](https://github.com/agama-project/agama) - A service-based Linux installer
 - [microsoft/vscode-makefile-tools](https://github.com/microsoft/vscode-makefile-tools) - Makefile Tools offers a robust workflow for Makefile projects in VS Code, with pre and post-configure script automation, easy configuration switching, and IntelliSense support for Makefile. The custom
 - [tombi-toml/setup-tombi](https://github.com/tombi-toml/setup-tombi) - Set up Tombi in your GitHub Actions workflow
 - [ZEALHT001/stm32-debug-helper](https://github.com/ZEALHT001/stm32-debug-helper) - A VSCode extension for STM32 debugging. STM32调试插件，可以实现实时显示和修改全局变量。
