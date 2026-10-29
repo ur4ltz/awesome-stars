@@ -1518,7 +1518,7 @@
 - [antirez/lua-cmsgpack](https://github.com/antirez/lua-cmsgpack) - A self contained Lua MessagePack C implementation.
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [skx/kpie](https://github.com/skx/kpie) - Simple devilspie-like program for window manipulation, with Lua.
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [syohex/emacs-sqlite3](https://github.com/syohex/emacs-sqlite3) - sqlite3 binding of Emacs Lisp
 - [jkitchin/emacs-modules](https://github.com/jkitchin/emacs-modules) - Dynamic modules for emacs
@@ -1623,6 +1623,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [begoon/i8080-core](https://github.com/begoon/i8080-core) - Intel 8080 (KR580VM80A) microprocessor core model
 - [klad-me/RK8266](https://github.com/klad-me/RK8266) - Radio-86RK on ESP8266 emulator
+- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB device provisioning tool (RPIBOOT)
 - [dimkr/b6b](https://github.com/dimkr/b6b) - A lightweight, embeddable scripting language
 - [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
 - [drmargarido/minimize_memory](https://github.com/drmargarido/minimize_memory) - Memory Reduction Presentation and Benchmark
@@ -8932,7 +8933,7 @@
 - [wsdjeg/vim-luacomplete](https://github.com/wsdjeg/vim-luacomplete) - lua complete plugin for vim
 - [pratikac/luadbg](https://github.com/pratikac/luadbg) - Debugger for Lua
 - [martin-eden/lcf_params_gui](https://github.com/martin-eden/lcf_params_gui) - GUI to generate command-line call for Lua code formatter.
-- [martin-eden/lua_code_formatter](https://github.com/martin-eden/lua_code_formatter) - Reformats any valid Lua 5.3 source code.
+- [martin-eden/lua_code_formatter](https://github.com/martin-eden/lua_code_formatter) - Reformats any valid Lua 5.5 source code.
 - [trixnz/lua-fmt](https://github.com/trixnz/lua-fmt) - lua-fmt is pretty-printer for Lua code
 - [Alloyed/lua-lsp](https://github.com/Alloyed/lua-lsp) - A Lua language server
 - [sailorproject/sailor-md](https://github.com/sailorproject/sailor-md) - Extension to Sailor that allows to read a markdown file and include on a view
@@ -10333,7 +10334,7 @@
 - [Ho-Ro/nanovna-tools](https://github.com/Ho-Ro/nanovna-tools) - Toolbox for NanoVNA and tinySA: Small programs for scripting and automatisation
 - [jsreynaud/kicad-action-scripts](https://github.com/jsreynaud/kicad-action-scripts) - Some KiCad plugins in Python
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
-- [mbridak/not1mm](https://github.com/mbridak/not1mm) - Not1MM != N1MM, An amateur radio contest logger for Linux.
+- [mbridak/not1mm](https://github.com/mbridak/not1mm) - Not1MM != N1MM, An amateur radio contest logger for Linux and MacOS.
 - [n2iw/cat-relay](https://github.com/n2iw/cat-relay) - 
 - [hangyav/textLSP](https://github.com/hangyav/textLSP) - Language server for text spell and grammar check with various tools.
 - [silenty4ng/K5_Tools](https://github.com/silenty4ng/K5_Tools) - 
@@ -12192,7 +12193,6 @@
 - [skiselev/omega](https://github.com/skiselev/omega) - Omega Home Computer
 - [radareorg/radare2-pm](https://github.com/radareorg/radare2-pm) - Package Manager for Radare2
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [raspberrypi/usbboot](https://github.com/raspberrypi/usbboot) - Raspberry Pi USB device provisioning tool (RPIBOOT)
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 - [haikuports/haikuports](https://github.com/haikuports/haikuports) - Software ports for the Haiku operating system.
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
@@ -12500,7 +12500,7 @@
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-- [mistweaverco/kulala-ls](https://github.com/mistweaverco/kulala-ls) - A minimal 🤏 language 🔊 server 📡 for HTTP 🐼 syntax 🌈.
+- [dont-be-evil-company/kulala-ls](https://github.com/dont-be-evil-company/kulala-ls) - A minimal 🤏 language 🔊 server 📡 for HTTP 🐼 syntax 🌈.
 - [WizardStark/dotfiles](https://github.com/WizardStark/dotfiles) - dotfiles, currently for NeoVim and Tmux configuration
 - [VonHeikemen/learn-nvim](https://github.com/VonHeikemen/learn-nvim) - 
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) - Superfast lazygit+neovim integration
