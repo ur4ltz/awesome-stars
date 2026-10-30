@@ -6558,7 +6558,6 @@
 - [wincent/base16-nvim](https://github.com/wincent/base16-nvim) - base16 color schemes in Lua for Neovim
 - [wemos/D1_mini_Examples_lua](https://github.com/wemos/D1_mini_Examples_lua) - D1 & D1 mini examples for nodemcu
 - [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) - 
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts
@@ -7586,7 +7585,7 @@
 - [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage, colorscheme switcher for Neovim
 - [EtiamNullam/relative-source.nvim](https://github.com/EtiamNullam/relative-source.nvim) - Use this plugin to keep your neovim config clean and portable!
 - [mlaursen/vim-react-snippets](https://github.com/mlaursen/vim-react-snippets) - Useful snippets for developing in React (Javascript and Typescript)
-- [bushblade/nvim](https://github.com/bushblade/nvim) - My Neovim Config - currently using Version 0.11.2
+- [bushblade/nvim](https://github.com/bushblade/nvim) - My Neovim Config - currently using Version 0.12.6
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [arnarg/todo-prompt.nvim](https://github.com/arnarg/todo-prompt.nvim) - A work in progress neovim plugin that provides a prompt to add tasks and todos quickly.
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) - A Vim Philosophy Oriented Zettelkasten Note Taking Plugin
@@ -11235,6 +11234,7 @@
 - [v0l/radio_tool](https://github.com/v0l/radio_tool) - Radio firmware tool
 - [Strophox/tetro-tui](https://github.com/Strophox/tetro-tui) - Terminal-based but modern tetromino-stacking game that is customizable and cross-platform
 - [EmmyLuaLs/emmylua-analyzer-rust](https://github.com/EmmyLuaLs/emmylua-analyzer-rust) - 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [atanunq/viuer](https://github.com/atanunq/viuer) - Rust library for displaying images in the terminal.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
