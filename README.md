@@ -594,7 +594,7 @@
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
 - [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
-- [frida/quickjs](https://github.com/frida/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+- [frida-forks/quickjs](https://github.com/frida-forks/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [radareorg/r2yara](https://github.com/radareorg/r2yara) - yara and radare2, better together
 - [radareorg/sdb](https://github.com/radareorg/sdb) - Simple and fast string based key-value database with support for arrays and json
 - [gwsw/dm](https://github.com/gwsw/dm) - 
@@ -1426,6 +1426,7 @@
 - [danielrempel/os-project](https://github.com/danielrempel/os-project) - x86 PoC OS in C and bits of Asm
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [denesb/xfce4-i3-workspaces-plugin](https://github.com/denesb/xfce4-i3-workspaces-plugin) - A workspaces plugin for xfce4 and the i3 window manager.
+- [lcurses/lcurses](https://github.com/lcurses/lcurses) - Lua bindings for Curses
 - [craigbarnes/dte](https://github.com/craigbarnes/dte) - A small, configurable terminal text editor (mirrored from https://gitlab.com/craigbarnes/dte)
 - [squeek502/lua-discount](https://github.com/squeek502/lua-discount) - lua-discount with Windows support (via CMake)
 - [craigbarnes/lua-discount](https://github.com/craigbarnes/lua-discount) - 
@@ -4951,6 +4952,7 @@
 - [sigma/magit-gh-pulls](https://github.com/sigma/magit-gh-pulls) - Magit plugin for dealing with GitHub pull requests
 - [defunkt/gist.el](https://github.com/defunkt/gist.el) - Yet another Emacs paste mode, this one for Gist.
 - [jd/emacs.d](https://github.com/jd/emacs.d) - My Emacs configuration files
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [Dewdrops/powerline](https://github.com/Dewdrops/powerline) - emacs powerline with better support for Evil
 - [AnthonyDiGirolamo/airline-themes](https://github.com/AnthonyDiGirolamo/airline-themes) - vim-airline themes https://github.com/vim-airline/vim-airline-themes for emacs powerline https://github.com/milkypostman/powerline
@@ -5632,7 +5634,6 @@
 - [cdnjs/new-website](https://github.com/cdnjs/new-website) - 🖥  cdnjs.com website
 - [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API
 - [region23/gobyexample.ru](https://github.com/region23/gobyexample.ru) - Go в примерах
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [ilammy/lisp](https://github.com/ilammy/lisp) - Lisp In Small Pieces на русском языке
 - [vimcasts/vimcasts.org](https://github.com/vimcasts/vimcasts.org) - Source code for vimcasts.org
@@ -10829,6 +10830,7 @@
 - [Vimjas/vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux & macOS
+- [liuchengxu/dotfiles](https://github.com/liuchengxu/dotfiles) - :nut_and_bolt: Dotfiles for bash, zsh, tmux, emacs, vim, etc
 - [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [fgrsnau/ncm2-aspell](https://github.com/fgrsnau/ncm2-aspell) - ncm2 source that completes words from aspell dictionary
 - [fgrsnau/ncm2-otherbuf](https://github.com/fgrsnau/ncm2-otherbuf) - ncm2 plugin for completing words in other buffers
@@ -11208,7 +11210,7 @@
 - [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
 - [pierrechevalier83/rust-dwm-status](https://github.com/pierrechevalier83/rust-dwm-status) - A status bar for dwm written in rust
 - [pierrechevalier83/rwm](https://github.com/pierrechevalier83/rwm) - rwm - rustic window manager
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [pierrechevalier83/kicad_cli](https://github.com/pierrechevalier83/kicad_cli) - Run some useful kicad functionality from the command line
 - [bschwind/opencascade-rs](https://github.com/bschwind/opencascade-rs) - Rust bindings to the OpenCascade CAD Kernel
 - [pierrechevalier83/effortless](https://github.com/pierrechevalier83/effortless) - A 3d printed split keyboard (3x5+2) that feels really good and takes minimal effort to print/assemble
@@ -11997,7 +11999,6 @@
 - [chimay/scripts](https://github.com/chimay/scripts) - Scripts & snippets
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [michaelmrose/vi3](https://github.com/michaelmrose/vi3) - vim like keybindings for i3wm
-- [lcurses/lcurses](https://github.com/lcurses/lcurses) - Lua bindings for Curses
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [staticfloat/docker-nginx-certbot-old](https://github.com/staticfloat/docker-nginx-certbot-old) - Create and renew website certificates using the Letsencrypt free certificate authority.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
@@ -12329,7 +12330,6 @@
 - [rafi/.config](https://github.com/rafi/.config) - Rafi's workstations (Archlinux, osx) ~/.config.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
-- [liuchengxu/dotfiles](https://github.com/liuchengxu/dotfiles) - :nut_and_bolt: Dotfiles for bash, zsh, tmux, emacs, vim, etc
 - [seletskiy/zsh-prompt-lambda17](https://github.com/seletskiy/zsh-prompt-lambda17) - Highly extensible prompt for zsh
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [tatou-tatou/dotfiles](https://github.com/tatou-tatou/dotfiles) - 
