@@ -3316,6 +3316,7 @@
 - [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
 - [Qalculate/qalculate-qt](https://github.com/Qalculate/qalculate-qt) - Qalculate! Qt UI
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
+- [Apeiros-46B/qalc.nvim](https://github.com/Apeiros-46B/qalc.nvim) - Reactive Qalculate worksheets in Neovim
 - [MoonFox2006/MegaRFIDRelay](https://github.com/MoonFox2006/MegaRFIDRelay) - Многоканальное (до 48) реле на базе Arduino Mega и Ethernet Shield с поддержкой управления кнопками, расписанием, датчиками температуры DS18x20 и RFID-метками
 - [MoonFox2006/AVR_Optimization](https://github.com/MoonFox2006/AVR_Optimization) - Example of code optimization for Arduino UNO
 - [MoonFox2006/AttinyScore](https://github.com/MoonFox2006/AttinyScore) - Attiny13 and TM1637 display score counter
@@ -6229,6 +6230,7 @@
 
 ## Lua 
 
+- [rachartier/tiny-devicons-auto-colors.nvim](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.
 - [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Neovim Colorscheme
 - [lettepa/nvim](https://github.com/lettepa/nvim) - Lettepa for Neovim
 - [martindur/zdiff.nvim](https://github.com/martindur/zdiff.nvim) - Diff plugin inspired by Zed's multi-buffer diff view
@@ -7074,7 +7076,6 @@
 - [jbyuki/quickmath.nvim](https://github.com/jbyuki/quickmath.nvim) - A live calculator in neovim
 - [Apeiros-46B/nvim](https://github.com/Apeiros-46B/nvim) - Neovim configuration
 - [kensyo/nvim-scrlbkun](https://github.com/kensyo/nvim-scrlbkun) - A scrollbar plugin for Neovim which can show cursor, search results, githunks, and diagnostics.
-- [Apeiros-46B/qalc.nvim](https://github.com/Apeiros-46B/qalc.nvim) - Neovim-integrated calculator based on Qalculate
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
 - [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) - Neovim task runner: JSON/YAML + toggleterm.nvim + telescope.nvim
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) - Async library for Neovim plugins
@@ -7533,7 +7534,6 @@
 - [guotsuan/awesome-revelation](https://github.com/guotsuan/awesome-revelation) - Show all clients all screens in Awesome window manager
 - [pltanton/net_widgets](https://github.com/pltanton/net_widgets) - Network widgets for Awesome WM
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - Use your favorite machine translation engines without having to leave your favorite editor.
-- [eddyekofo94/bogster.nvim](https://github.com/eddyekofo94/bogster.nvim) - Another Neovim colorscheme
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) - Neovim (Lua powered) Network Resource Manager
 - [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) - Neovim plugin to read, write and post articles on dev.to
 - [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) - An extension for telescope.nvim that allows you to search emojis😃
@@ -8173,7 +8173,6 @@
 - [eira-fransham/stateful-lua](https://github.com/eira-fransham/stateful-lua) - A DSL for writing finite state machines in Lua (aimed towards game development). Based on UnrealScript's state construct. Allows single inheritance with the enter and exit functions being called the m
 - [eira-fransham/chat-lua](https://github.com/eira-fransham/chat-lua) - Proof-of-concept chat eDSL in Lua using coroutines
 - [winston0410/cmd-parser.nvim](https://github.com/winston0410/cmd-parser.nvim) - A command-line parser for neovim for plugin authors.
-- [eddyekofo94/gruvbox-flat.nvim](https://github.com/eddyekofo94/gruvbox-flat.nvim) - Another attempt of a flat Gruvbox theme for Neovim
 - [monsonjeremy/onedark.nvim](https://github.com/monsonjeremy/onedark.nvim) - OneDark NeoVim theme written in Lua
 - [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles
 - [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
@@ -8356,7 +8355,6 @@
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [wfxr/awm.config](https://github.com/wfxr/awm.config) - 
 - [ellisonleao/criando-plugins-lua-neovim](https://github.com/ellisonleao/criando-plugins-lua-neovim) - Códigos fonte para a série "Criando plugins Lua para Neovim"
-- [eddyekofo94/nvim-bak](https://github.com/eddyekofo94/nvim-bak) - My attempt to create a decent Nvim config.
 - [martini97/project-config.nvim](https://github.com/martini97/project-config.nvim) - Per project config for Neovim
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [nvim-lua/neovim-ui](https://github.com/nvim-lua/neovim-ui) - Vaporware -- nothing to see here
@@ -10141,7 +10139,7 @@
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
 - [jamescherti/ultyas](https://github.com/jamescherti/ultyas) - Convert Ultisnips snippets to YASnippet format
 - [jamescherti/pre-commit-elisp](https://github.com/jamescherti/pre-commit-elisp) - Pre-commit hooks for Emacs Lisp (Elisp) Git repositories: pre-commit-elisp
-- [jamescherti/pathaction](https://github.com/jamescherti/pathaction) - Pathaction | A universal Makefile for any file in the filesystem: Rule-driven commands for any file or directory License: GPL v3
+- [jamescherti/pathaction](https://github.com/jamescherti/pathaction) - Pathaction - One command to run, deploy, or debug any file or directory
 - [jamescherti/jc-dotfiles](https://github.com/jamescherti/jc-dotfiles) - James Cherti's Dotfiles
 - [ttaulli/AI-Assisted-Programming-Book](https://github.com/ttaulli/AI-Assisted-Programming-Book) - 
 - [Flight1530/Carryout-Rotor](https://github.com/Flight1530/Carryout-Rotor) - Two-Axis Az/El rotor using portable satellite antenna
@@ -10830,7 +10828,6 @@
 - [Vimjas/vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux & macOS
-- [liuchengxu/dotfiles](https://github.com/liuchengxu/dotfiles) - :nut_and_bolt: Dotfiles for bash, zsh, tmux, emacs, vim, etc
 - [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [fgrsnau/ncm2-aspell](https://github.com/fgrsnau/ncm2-aspell) - ncm2 source that completes words from aspell dictionary
 - [fgrsnau/ncm2-otherbuf](https://github.com/fgrsnau/ncm2-otherbuf) - ncm2 plugin for completing words in other buffers
@@ -11172,6 +11169,7 @@
 
 ## Rust 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [embassy-rs/trouble](https://github.com/embassy-rs/trouble) - A Rust BLE Host stack
 - [AriZuu/ds18b20](https://github.com/AriZuu/ds18b20) - 
 - [tsauvajon/ds18b20](https://github.com/tsauvajon/ds18b20) - 
@@ -12685,6 +12683,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [ASDAlexander77/TypeScriptLua](https://github.com/ASDAlexander77/TypeScriptLua) - The TypeScriptLUA repo contains the complete source code implementation for TypeScript compiler for Lua bytecode and transpiler for Lua language
+- [liuchengxu/dotfiles](https://github.com/liuchengxu/dotfiles) - :nut_and_bolt: Dotfiles for bash, zsh, tmux, emacs, vim, etc
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
@@ -12946,7 +12945,6 @@
 - [luk400/vim-jukit](https://github.com/luk400/vim-jukit) - Jupyter-Notebook inspired Neovim/Vim Plugin
 - [zdharma-continuum/zinit-vim-syntax](https://github.com/zdharma-continuum/zinit-vim-syntax) - A Vim syntax definition for Zinit commands in any ft=zsh file
 - [tani/vim-jetpack](https://github.com/tani/vim-jetpack) - The lightning-fast plugin manager, alternative to vim-plug
-- [eddyekofo94/.vim](https://github.com/eddyekofo94/.vim) - Vim stuff
 - [molleweide/moll-utils.nvim](https://github.com/molleweide/moll-utils.nvim) - nvim utils
 - [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 - [wvffle/vimterm](https://github.com/wvffle/vimterm) - Simple :terminal at the bottom of workspace for neovim
