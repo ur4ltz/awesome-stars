@@ -764,7 +764,6 @@
 - [embeddedartistry/arduino-printf](https://github.com/embeddedartistry/arduino-printf) - Add printf support to the Arduino SDK
 - [eyalroz/printf](https://github.com/eyalroz/printf) - Tiny, fast(ish), self-contained, fully loaded printf, sprinf etc. implementation; particularly useful in embedded systems.
 - [embeddedartistry/printf](https://github.com/embeddedartistry/printf) - Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc. implementation, mainly for embedded systems.
-- [mpaland/printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 - [timmbogner/Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
 - [qshosfw/matoz](https://github.com/qshosfw/matoz) - CFW based on Matoz, Fagci, DualTachyon
 - [DualTachyon/uv-k5-firmware](https://github.com/DualTachyon/uv-k5-firmware) - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27
@@ -2030,7 +2029,7 @@
 
 ## C++ 
 
-- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet downloads.
+- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet + torrent downloads.
 - [emulefanscom/eMule](https://github.com/emulefanscom/eMule) - 
 - [emulebb/emulebb](https://github.com/emulebb/emulebb) - Stable eMuleBB MFC 0.7.x Windows client for eD2K/Kad; long-term maintenance.
 - [irwir/eMule](https://github.com/irwir/eMule) - Continuing development of eMule
@@ -2338,6 +2337,7 @@
 - [leomil72/megax4](https://github.com/leomil72/megax4) - ATmega644/644P & ATmega1284P core for Arduino IDE
 - [RaspSDR/server](https://github.com/RaspSDR/server) - The web-888 web server code, Clone from kiwisdr with lots of changes
 - [agromazin/okean240](https://github.com/agromazin/okean240) - 
+- [mpaland/printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 - [VolosR/TEmbedFMRadio](https://github.com/VolosR/TEmbedFMRadio) - 
 - [esp32-si4732/ats-mini](https://github.com/esp32-si4732/ats-mini) - ATS Mini firmware fork
 - [imax9000/Arduino-PID-Library](https://github.com/imax9000/Arduino-PID-Library) - 
@@ -4067,7 +4067,7 @@
 - [emacs-tree-sitter/treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) - Code folding using treesit.el
 - [jamescherti/outline-indent.el](https://github.com/jamescherti/outline-indent.el) - Outline-indent: Indentation based Folding for Emacs (Supersedes legacy packages such as origami.el and yafolding.el)
 - [atilaneves/cmake-ide](https://github.com/atilaneves/cmake-ide) - Use Emacs as a C/C++ IDE
-- [jogapeta/display-wttr](https://github.com/jogapeta/display-wttr) - Display wttr(weather) in the mode line 🌧️.
+- [josegpt/display-wttr](https://github.com/josegpt/display-wttr) - Display wttr(weather) in the mode line 🌧️.
 - [ISouthRain/ewth.el](https://github.com/ISouthRain/ewth.el) - Emacs weather for Wttr.in(OpenSource) in modeline.
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
@@ -5576,7 +5576,6 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [rogerclarkmelbourne/STM32_Pill_Boards](https://github.com/rogerclarkmelbourne/STM32_Pill_Boards) - Various STM32 boards in a form factor similar to the Maple Mini or Blue Pill board
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
@@ -8099,7 +8098,7 @@
 - [alexghergh/nvim-tmux-navigation](https://github.com/alexghergh/nvim-tmux-navigation) - Easy Neovim-Tmux navigation, completely written in Lua
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) - Neovim plugin for lspcontainers.
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Nushell, Ghostty, tmux etc.
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Rex, Nushell etc.
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [luissimas/eval.nvim](https://github.com/luissimas/eval.nvim) - A simple code evaluator for neovim.
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
@@ -9059,6 +9058,7 @@
 
 ## MDX 
 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 
 ## Makefile 
@@ -11477,8 +11477,8 @@
 - [guenchi/Igropyr](https://github.com/guenchi/Igropyr) - A distributed, fault-tolerant, high-concurrency backend framework with continuation-based web programming and a remote retry ring, built on Chez Scheme.
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
-- [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) - My personal backup of my dotfiles of Debian 10 (Buster) on ThinkPad X230 with Openbox and Aspire A514 with Fluxbox
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Bookworm) setup
+- [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) - My personal backup of my dotfiles of Debian 10 (Now Updated to Debian 13) on ThinkPad X230 with Openbox and Aspire A514 with Fluxbox
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Now Updated to Debian 13) se
 - [listentolist/kakoune-rainbow](https://github.com/listentolist/kakoune-rainbow) - rainbow brackets plugin for the Kakoune text editor
 - [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) - a lightweight, robust, scheme-like lisp implementation
 - [FemtoEmacs/Femto-Emacs](https://github.com/FemtoEmacs/Femto-Emacs) - Tiny emacs clone with configuring in FemtoLisp
