@@ -1200,6 +1200,7 @@
 - [PaulStoffregen/Tlc5940](https://github.com/PaulStoffregen/Tlc5940) - 16 channel PWM LED driver based on the Texas Instruments TLC5940 chip.
 - [PaulStoffregen/cores](https://github.com/PaulStoffregen/cores) - Teensy Core Libraries for Arduino
 - [PaulStoffregen/ST7735_t3](https://github.com/PaulStoffregen/ST7735_t3) - Teensy 3.x Optimized Version of Adafruit_ST7735 (1.8 inch TFT Display)
+- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-UNO-based debugWIRE hardware-debugger
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [siorpaes/DisplayAdapter](https://github.com/siorpaes/DisplayAdapter) - This project aims at mirroring Yamaha CRX-140 display with some other, more visible, displays. E.g.: E-paper, TM1637 seven segment or SSD1306 OLED displays.
 - [mytchel/alarm-lamp](https://github.com/mytchel/alarm-lamp) - Code and circuit for an avr powered clock with alarm lamp.
@@ -1997,6 +1998,7 @@
 
 ## C# # 
 
+- [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [GMMan/st-link-hack](https://github.com/GMMan/st-link-hack) - An exploration into unsafely written code
 - [HJLebbink/asm-dude](https://github.com/HJLebbink/asm-dude) - Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window
@@ -2029,6 +2031,7 @@
 
 ## C++ 
 
+- [darauble/bookmark_manager](https://github.com/darauble/bookmark_manager) - An alternative bookmark manager for SDR++
 - [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet + torrent downloads.
 - [emulefanscom/eMule](https://github.com/emulefanscom/eMule) - 
 - [emulebb/emulebb](https://github.com/emulebb/emulebb) - Stable eMuleBB MFC 0.7.x Windows client for eD2K/Kad; long-term maintenance.
@@ -3267,7 +3270,6 @@
 - [felias-fogg/RTC_I2C](https://github.com/felias-fogg/RTC_I2C) - This is an Ardunio library implementing a unified, minimalistic interface to many I2C RTCs
 - [felias-fogg/RTCEval](https://github.com/felias-fogg/RTCEval) - A long-term experiment with thirteen different RTCs
 - [felias-fogg/SingleWireSerial](https://github.com/felias-fogg/SingleWireSerial) - Software serial library using a single line in half-duplex mode. In addition, it uses the input capture feature of timer 1 for improved accuracy.
-- [felias-fogg/dw-link](https://github.com/felias-fogg/dw-link) - An Arduino-UNO-based debugWIRE hardware-debugger
 - [smaffer/vgax](https://github.com/smaffer/vgax) - VGA library for Arduino UNO
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ariskyr/Billiards_Firmware](https://github.com/ariskyr/Billiards_Firmware) - Automatic Billiards Table
@@ -3886,7 +3888,6 @@
 - [alampros/Docter](https://github.com/alampros/Docter) - Get that restaurant github flavor at home in your editor.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [mekwall/obsidian-color-scheme](https://github.com/mekwall/obsidian-color-scheme) - A dark color scheme for code editors and highlighters
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 
 ## Clojure 
@@ -4336,7 +4337,7 @@
 - [emacs-elfeed/elfeed](https://github.com/emacs-elfeed/elfeed) - An Emacs web feeds client
 - [magit/emacsql](https://github.com/magit/emacsql) - A high-level Emacs Lisp front-end for SQLite
 - [undx/emacs.d](https://github.com/undx/emacs.d) - my emacs bare config
-- [neckoPecker/.emacs.d](https://github.com/neckoPecker/.emacs.d) - 
+- [neckoPecker/.emacs.d.old](https://github.com/neckoPecker/.emacs.d.old) - 
 - [magit/transient](https://github.com/magit/transient) - Transient commands
 - [mrcnski/nimbus-theme](https://github.com/mrcnski/nimbus-theme) - [Emacs] Nimbus dark theme for Emacs. Beautiful, slightly retro, yet readable and easy on the eyes.
 - [prettier/prettier-emacs](https://github.com/prettier/prettier-emacs) - Minor mode to format code on file save
@@ -5686,6 +5687,7 @@
 
 ## Java 
 
+- [redhat-developer/lsp4ij](https://github.com/redhat-developer/lsp4ij) - LSP & DAP Client for IntelliJ
 - [rusefi/KiCad-utils](https://github.com/rusefi/KiCad-utils) - A collection of tools for command line KiCad file manipulation.
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 - [gturri/aXMLRPC](https://github.com/gturri/aXMLRPC) - A lightweight Java XML-RPC client for the use with Android. Since there is absolutely no dependency to any android specific library (and I assure, that it never will have any), it also works fine in n
@@ -6218,6 +6220,7 @@
 - [kevinsawicki/monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
 - [winston0410/atom-setting](https://github.com/winston0410/atom-setting) - 
 - [luishdez/flat-flags](https://github.com/luishdez/flat-flags) - Flat flags icons with CSS Sprites
+- [mekwall/obsidian-color-scheme](https://github.com/mekwall/obsidian-color-scheme) - A dark color scheme for code editors and highlighters
 
 ## Limbo 
 
@@ -9437,7 +9440,6 @@
 - [KostiantynHolinskyi/TFT-ST7789-for-STM32](https://github.com/KostiantynHolinskyi/TFT-ST7789-for-STM32) - PCB pin to pin TFT ST7789 for STM32
 - [WeActStudio/WeActStudio.TFT-LCD-Module](https://github.com/WeActStudio/WeActStudio.TFT-LCD-Module) - WeAct Studio 2.8 Inch TFT-LCD Module
 - [WeActStudio/WeActStudio.BlackPill](https://github.com/WeActStudio/WeActStudio.BlackPill) - BlackPill Core Board AT32F403ACGx(240Mhz,96kRAM/1024kROM)
-- [WeActStudio/LogicAnalyzerV1](https://github.com/WeActStudio/LogicAnalyzerV1) - WeAct LogicAnalyzerV1 : A logic analyzer based on Cypress CY7C68013A / Corebai CBM9002A
 - [WeActStudio/WeActStudio.MiniDebugger](https://github.com/WeActStudio/WeActStudio.MiniDebugger) - APM32F103CBT6/STM32F103CBT6 Mini Debugger
 - [LHunti/Quansheng-UV-Calibrations](https://github.com/LHunti/Quansheng-UV-Calibrations) - UV-K5(8) UV-5R Plus Squelch level modification
 - [tabemann/cyw43-firmware](https://github.com/tabemann/cyw43-firmware) - Infineon CYW43 firmware
@@ -10118,6 +10120,7 @@
 
 ## Python 
 
+- [stratumauth/icons](https://github.com/stratumauth/icons) - 🖼️ Icon packs for Stratum
 - [lettepa/lettepa](https://github.com/lettepa/lettepa) - A color theme.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) - Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
@@ -11603,6 +11606,7 @@
 - [itchyny/dotfiles](https://github.com/itchyny/dotfiles) - my dotfiles
 - [raspberrypi/pico-setup](https://github.com/raspberrypi/pico-setup) - 
 - [Terstegge/rp2040-launchpad-PCB](https://github.com/Terstegge/rp2040-launchpad-PCB) - 
+- [WeActStudio/LogicAnalyzerV1](https://github.com/WeActStudio/LogicAnalyzerV1) - WeAct LogicAnalyzerV1 : A logic analyzer based on Cypress CY7C68013A / Corebai CBM9002A
 - [zap-zsh/exa](https://github.com/zap-zsh/exa) - Override common commands to use exa instead
 - [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
 - [altercation/mutt-colors-solarized](https://github.com/altercation/mutt-colors-solarized) - mutt mail client color schemes
@@ -13194,7 +13198,7 @@
 - [lervag/dotvim](https://github.com/lervag/dotvim) - Vim settings
 - [Soneji/dotfiles](https://github.com/Soneji/dotfiles) - My dotfiles - managed by yadm.io
 - [AndrewRadev/gnugo.vim](https://github.com/AndrewRadev/gnugo.vim) - Play a game of Go in your text editor, using GnuGo
-- [axvr/org.vim](https://github.com/axvr/org.vim) - Org mode syntax highlighting and folding for Vim.
+- [axvr/org.vim](https://github.com/axvr/org.vim) - Mirror of https://codeberg.org/axvr/org.vim
 - [echel0nn/mlp-ultimate-config](https://github.com/echel0nn/mlp-ultimate-config) - vim, xmonad, xmobar, bashrc, bash profile and inits
 - [yegappan/bufselect](https://github.com/yegappan/bufselect) - Buffer Selector - Vim plugin for selecting a buffer to edit using a popup menu
 - [yegappan/fileselect](https://github.com/yegappan/fileselect) - File Selector Vim Plugin
