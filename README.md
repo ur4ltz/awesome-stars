@@ -7617,7 +7617,6 @@
 - [Juksuu/worktrees.nvim](https://github.com/Juksuu/worktrees.nvim) - Git worktree wrapper for neovim
 - [tjdevries/stackmap.nvim](https://github.com/tjdevries/stackmap.nvim) - Stacks of Maps
 - [samodostal/is-prime-online.nvim](https://github.com/samodostal/is-prime-online.nvim) - 🎥 Twitch status neovim plugin
-- [egresh/oleo](https://github.com/egresh/oleo) - Lots of misc. neovim utility functions
 - [willthbill/opener.nvim](https://github.com/willthbill/opener.nvim) - Workspace / context switcher plugin for neovim
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written in lua!
 - [hoschi/yode-nvim](https://github.com/hoschi/yode-nvim) - Yode plugin for NeoVim
@@ -8059,7 +8058,7 @@
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme for Neovim written in Lua.
 - [n-p-e/autocmd-lua](https://github.com/n-p-e/autocmd-lua) - Define Neovim autocommands without pain
-- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-591+g89623e5992) config
+- [n3wborn/nvim](https://github.com/n3wborn/nvim) - My own NVIM (&gt;=NVIM  v0.13.0-dev-2016+gdbecb8a6fc) config
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [ashin-15/StarVim](https://github.com/ashin-15/StarVim) - A neovim IDE which is beyond the moon 🌚
 - [devurandom/lq](https://github.com/devurandom/lq) - command-line Lua table processor (lq is for Lua what jq is for JSON)
