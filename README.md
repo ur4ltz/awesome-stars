@@ -330,6 +330,7 @@
 
 ## C 
 
+- [vkumpan/SSD1306](https://github.com/vkumpan/SSD1306) - Arduino library for controlling SSD1306 OLED displays.
 - [R9OFG/STM32F401CCU6_TinyUSB_Example](https://github.com/R9OFG/STM32F401CCU6_TinyUSB_Example) - Example of a composite USB on STM32 using TinyUSB
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [koendv/blackmagic-rtthread](https://github.com/koendv/blackmagic-rtthread) - blackmagic debug on rt-thread
@@ -2031,6 +2032,8 @@
 
 ## C++ 
 
+- [datasith/Ai_Ardulib_SSD1306](https://github.com/datasith/Ai_Ardulib_SSD1306) - Library for using SSD1306-powered OLED displays in the Arduino IDE.
+- [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) - Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs
 - [darauble/bookmark_manager](https://github.com/darauble/bookmark_manager) - An alternative bookmark manager for SDR++
 - [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet + torrent downloads.
 - [emulefanscom/eMule](https://github.com/emulefanscom/eMule) - 
