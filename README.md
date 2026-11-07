@@ -330,6 +330,8 @@
 
 ## C 
 
+- [vkumpan/TEA5767](https://github.com/vkumpan/TEA5767) - Arduino library for controlling TEA5767 FM radio module.
+- [vkumpan/ActionButtons](https://github.com/vkumpan/ActionButtons) - Arduino library for handling multiple buttons with support for press, long press, and release events.
 - [vkumpan/SSD1306](https://github.com/vkumpan/SSD1306) - Arduino library for controlling SSD1306 OLED displays.
 - [R9OFG/STM32F401CCU6_TinyUSB_Example](https://github.com/R9OFG/STM32F401CCU6_TinyUSB_Example) - Example of a composite USB on STM32 using TinyUSB
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
@@ -5130,6 +5132,8 @@
 
 ## Go 
 
+- [kgfly/simplenvimeditor](https://github.com/kgfly/simplenvimeditor) - Simple Nvim Editor: Lightweight Cross-Platform Neovim GUI in Go
+- [Link-/gh-token](https://github.com/Link-/gh-token) - Manage installation access tokens for GitHub apps from your terminal 💻
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [ivpn/mailx](https://github.com/ivpn/mailx) - Audited, Open-Source Email Aliasing Service
 - [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
@@ -7481,7 +7485,7 @@
 - [doums/suit.nvim](https://github.com/doums/suit.nvim) - A neovim plugin that replaces default input and select text prompts with nice floating windows
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - invert text in vim, purely with lua.
 - [tiagovla/buffercd.nvim](https://github.com/tiagovla/buffercd.nvim) - 
-- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
+- [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize your Neovim Tab workflow by introducing enhanced Tab scoping.
 - [nanozuki/fur.nvim](https://github.com/nanozuki/fur.nvim) - Organize your neovim config and features by fur. Have fun with features opt-in and hot-reload.
 - [nanozuki/crows](https://github.com/nanozuki/crows) - My dotfiles and public nix modules.
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) - 🌈 LSP-based colorizer for neovim
@@ -8257,7 +8261,7 @@
 - [zhaozg/luvit-server](https://github.com/zhaozg/luvit-server) - This is a fork of https://github.com/creationix/weblit, but event driven.
 - [zhaozg/luvit-ntp](https://github.com/zhaozg/luvit-ntp) - 
 - [oberblastmeister/termwrapper.nvim](https://github.com/oberblastmeister/termwrapper.nvim) - lua wrapper for neovim terminal
-- [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim.
+- [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua for Neovim.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [gennaro-tedesco/dotfiles](https://github.com/gennaro-tedesco/dotfiles) - 💻 my personal dotfiles: no more, no less
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - nvim plugin to toggle comments on and off
@@ -11174,6 +11178,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [embassy-rs/trouble](https://github.com/embassy-rs/trouble) - A Rust BLE Host stack
 - [AriZuu/ds18b20](https://github.com/AriZuu/ds18b20) - 
@@ -12469,6 +12474,8 @@
 
 ## TypeScript 
 
+- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
+- [buntec/btmux](https://github.com/buntec/btmux) - A terminal emulator and multiplexer with tmux-style UX
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 - [microsoft/vscode-makefile-tools](https://github.com/microsoft/vscode-makefile-tools) - Makefile Tools offers a robust workflow for Makefile projects in VS Code, with pre and post-configure script automation, easy configuration switching, and IntelliSense support for Makefile. The custom
@@ -12668,7 +12675,6 @@
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [neoclide/coc-lists](https://github.com/neoclide/coc-lists) - Common lists for coc.nvim
 - [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
-- [peterpme/dotfiles](https://github.com/peterpme/dotfiles) - ᠅ Dotfiles for zsh, tmux, fzf, neovim, git, zprezto, hammerspoon, kitty & more 🔥
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [sourcegraph/code-intel-extensions](https://github.com/sourcegraph/code-intel-extensions) - Provides precise code intelligence via LSIF and Language Servers, and fuzzy code intelligence using ctags and text search
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -14098,6 +14104,7 @@
 
 ## Zig 
 
+- [akiyosi/zonvie](https://github.com/akiyosi/zonvie) - 🧟 Zonvie is a Fast, feature-rich Neovim GUI built with Zig, native on macOS and Windows.
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [pedropark99/zig-book](https://github.com/pedropark99/zig-book) - An open, technical and introductory book for the Zig programming language 📚📖
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
