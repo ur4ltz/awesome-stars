@@ -1565,7 +1565,7 @@
 - [davatorium/rofi-top](https://github.com/davatorium/rofi-top) - 
 - [davatorium/rofi-file-browser](https://github.com/davatorium/rofi-file-browser) - 
 - [RealTimeLogic/JSON](https://github.com/RealTimeLogic/JSON) - JSON C/C++ Library for IoT Communication
-- [RealTimeLogic/Xedge32](https://github.com/RealTimeLogic/Xedge32) - Xedge ESP32 peripheral API and Build Files
+- [RealTimeLogic/Xedge32](https://github.com/RealTimeLogic/Xedge32) - Build programmable edge devices with Lua, industrial and IoT protocols, web interfaces, and integrated security. Includes MQTT, OPC UA, Modbus, and browser-based development
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [soybin/ckube](https://github.com/soybin/ckube) - raymarcher for your terminal
 - [Huulivoide/libdrawille](https://github.com/Huulivoide/libdrawille) - C implementation of drawille library and extra drawing functionality
@@ -8107,7 +8107,7 @@
 - [alexghergh/nvim-tmux-navigation](https://github.com/alexghergh/nvim-tmux-navigation) - Easy Neovim-Tmux navigation, completely written in Lua
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) - Neovim plugin for lspcontainers.
-- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Neovim, Rex, Nushell etc.
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My configs for Rex terminal, Nushell, Neovim nightly etc.
 - [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [luissimas/eval.nvim](https://github.com/luissimas/eval.nvim) - A simple code evaluator for neovim.
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
