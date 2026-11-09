@@ -322,7 +322,6 @@
 - [AnZoRiN228/STM32-ST-Link-V2.1](https://github.com/AnZoRiN228/STM32-ST-Link-V2.1) - 
 - [nodemcu/nodemcu-devkit-v1.0](https://github.com/nodemcu/nodemcu-devkit-v1.0) - 
 - [ViacheslavMezentsev/mediateka-stm32](https://github.com/ViacheslavMezentsev/mediateka-stm32) - A set of scripts for downloading lessons for STM32
-- [MCUdude/microUPDIcore](https://github.com/MCUdude/microUPDIcore) - Arduino core for flashing mEDBG firmware onto the microUPDI programmer
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [dibyendumajumdar/Suravi](https://github.com/dibyendumajumdar/Suravi) - Suravi is a small distribution of Ravi/Lua 5.3 with batteries such as cjson, lpeglabel, luasocket, penlight, torch7, luv, luaossl
 - [shidel/FDI](https://github.com/shidel/FDI) - FreeDOS 1.2, 1.3, 1.4+ Installer
@@ -472,6 +471,7 @@
 - [Am0k-GIT/Halcyon](https://github.com/Am0k-GIT/Halcyon) - CNC 5-axis mainboard based on STM32F401RCT6
 - [Am0k-GIT/Soldering_station](https://github.com/Am0k-GIT/Soldering_station) - Two-channel soldering station
 - [rogerclarkmelbourne/pico-WSPR-tx-enhanced](https://github.com/rogerclarkmelbourne/pico-WSPR-tx-enhanced) - WSPR beacon for Raspberry Pi Pico, based on pico-hf-oscillator library. It doesn't require any hardware - Pico board itself only.
+- [orbcode/orbuculum](https://github.com/orbcode/orbuculum) - Cortex M SWO SWV Demux and Postprocess (Software)
 - [R9OFG/WSPR-Beacon-on-STM32F103C8T6](https://github.com/R9OFG/WSPR-Beacon-on-STM32F103C8T6) - WSPR Beacon on STM32F103C8T6
 - [hackpascal/ufprog](https://github.com/hackpascal/ufprog) - Universal Flash Programmer
 - [setarcos/ch341prog](https://github.com/setarcos/ch341prog) - A simple SPI/IIC programer based on ch341A.
@@ -2037,7 +2037,7 @@
 - [datasith/Ai_Ardulib_SSD1306](https://github.com/datasith/Ai_Ardulib_SSD1306) - Library for using SSD1306-powered OLED displays in the Arduino IDE.
 - [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) - Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs
 - [darauble/bookmark_manager](https://github.com/darauble/bookmark_manager) - An alternative bookmark manager for SDR++
-- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet + torrent downloads.
+- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet + torrent + file hoster downloads.
 - [emulefanscom/eMule](https://github.com/emulefanscom/eMule) - 
 - [emulebb/emulebb](https://github.com/emulebb/emulebb) - Stable eMuleBB MFC 0.7.x Windows client for eD2K/Kad; long-term maintenance.
 - [irwir/eMule](https://github.com/irwir/eMule) - Continuing development of eMule
@@ -2122,7 +2122,6 @@
 - [neu-rah/Fielduino](https://github.com/neu-rah/Fielduino) - AVR PWM generator with user interface
 - [neu-rah/ArduinoMenu](https://github.com/neu-rah/ArduinoMenu) - Arduino generic menu/interactivity system
 - [koendv/SerialWireOutput](https://github.com/koendv/SerialWireOutput) - Serial Wire Output (SWO) library for STM32duino arm Arduinos
-- [orbcode/orbuculum](https://github.com/orbcode/orbuculum) - Cortex M SWO SWV Demux and Postprocess (Software)
 - [bigbigmdm/CH341a_spi_programmer](https://github.com/bigbigmdm/CH341a_spi_programmer) - QT5 programmer software for the readind/writing SPI NOR FLASH use the CH341a device.
 - [bigbigmdm/QT-CH341A-LINUX-PROGRAMMER](https://github.com/bigbigmdm/QT-CH341A-LINUX-PROGRAMMER) - Programmer tools use CH341A EEPROM programmer for 24C01 ... 24C1024 chip.
 - [bigbigmdm/Binary_file_comparator](https://github.com/bigbigmdm/Binary_file_comparator) - QT GUI binary file comparator
@@ -5897,6 +5896,7 @@
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [imsky/github-graphql-client](https://github.com/imsky/github-graphql-client) - :octocat: Node.js client for the GitHub GraphQL API with zero dependencies
 - [tree-sitter-grammars/tree-sitter-lua](https://github.com/tree-sitter-grammars/tree-sitter-lua) - Lua grammar for tree-sitter
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [andrew222651/cmdmenu](https://github.com/andrew222651/cmdmenu) - Looks up command line syntax from cheatsheets using fuzzy search
@@ -11661,6 +11661,7 @@
 - [zimfw/asciiship](https://github.com/zimfw/asciiship) - A heavily reduced, ASCII-only version of the Spaceship and Starship prompts.
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [michaeldaranto/Termux-Slackware](https://github.com/michaeldaranto/Termux-Slackware) - Run Slackware ARM Linux on Termux Android
+- [MCUdude/microUPDIcore](https://github.com/MCUdude/microUPDIcore) - Arduino core for flashing mEDBG firmware onto the microUPDI programmer
 - [mcpcpc/kinode](https://github.com/mcpcpc/kinode) - Scripts for Linode VPS unattended KISS Linux installation
 - [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
@@ -11880,7 +11881,6 @@
 - [mohd-akram/jawk](https://github.com/mohd-akram/jawk) - Awk for JSON.
 - [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
 - [anuvyklack/vifmpane](https://github.com/anuvyklack/vifmpane) - Сhoose on which vifm pane to open the current working directory when you enter, and into which directory from which of the panes would you navigate at the exit.
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
 - [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [Xuyuanp/zsh-diff-so-fancy](https://github.com/Xuyuanp/zsh-diff-so-fancy) - forked
 - [LucHermitte/Bash-scripts](https://github.com/LucHermitte/Bash-scripts) - Miscellaneous scripts to enhance bash (prompt, adding directories to variables, ...)
