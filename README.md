@@ -623,7 +623,6 @@
 - [neomutt/tree-sitter-muttrc](https://github.com/neomutt/tree-sitter-muttrc) - 🌲👨 muttrc grammar for tree-sitter
 - [klange/cgiserver](https://github.com/klange/cgiserver) - A simple CGI webserver written in C with no dependencies.
 - [klange/ponyos](https://github.com/klange/ponyos) - My Little Unix: Kernels are Magic!
-- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [xcb-xwii/lua-tree-sitter](https://github.com/xcb-xwii/lua-tree-sitter) - Lua bindings for Tree-sitter
 - [alex-courtis/dwm](https://github.com/alex-courtis/dwm) - 
 - [katef/kgt](https://github.com/katef/kgt) - BNF wrangling and railroad diagrams
@@ -1671,7 +1670,6 @@
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Tomas-M/posixovl](https://github.com/Tomas-M/posixovl) - POSIX-overlay filesystem
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
 - [da-nie/SimplyVGAVideoCard](https://github.com/da-nie/SimplyVGAVideoCard) - Простейшая VGA-видеокарта на Atmega168-20.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
@@ -3593,6 +3591,7 @@
 - [rpavlik/luabind](https://github.com/rpavlik/luabind) - Create Lua bindings for your C++ code easily - my improvements
 - [luabind/luabind](https://github.com/luabind/luabind) - 
 - [ondra-novak/minihttp](https://github.com/ondra-novak/minihttp) - minihttp server in C++17 (one file)
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [ike9000e/p7z-usr](https://github.com/ike9000e/p7z-usr) - Stop war; stop Putin -- Plugin for Double Commander that adds 7-Zip compatible archives. Formats: 7z, Udf, VHD, SquashFS, NTFS, Rpm, Chm and more. Based on 7-Zip and P7ZIP projects.
 - [AndersMalmgren/qBittorrent](https://github.com/AndersMalmgren/qBittorrent) - qBittorrent BitTorrent client
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
@@ -6077,7 +6076,6 @@
 - [dstillman/amo-validator-bypass](https://github.com/dstillman/amo-validator-bypass) - 
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [virgo-agent-toolkit/virgo.js](https://github.com/virgo-agent-toolkit/virgo.js) - Library for agents in node.js
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [powerman/userjs-github-asciidoc](https://github.com/powerman/userjs-github-asciidoc) - UserJS for GitHub: fix Asciidoc rendering
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [runpaint/vim-recipes](https://github.com/runpaint/vim-recipes) - A cookbook for the Vim text editor.
@@ -8755,7 +8753,6 @@
 - [weilbith/nvim-lsp-bacomp](https://github.com/weilbith/nvim-lsp-bacomp) - A NeoVim plugin for using language server capabilites with backward compatibility in mind
 - [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim) - NeoVim plugin to auto configure 'ts', 'sw', 'sts', 'et'
 - [petrihakkinen/lite](https://github.com/petrihakkinen/lite) - A lightweight text editor written in Lua
-- [prabirshrestha/dotfiles](https://github.com/prabirshrestha/dotfiles) - There is no place like ~
 - [prabirshrestha/lua-callbag](https://github.com/prabirshrestha/lua-callbag) - 
 - [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) - A dark color scheme for Neovim derived from palenight and carbonight
 - [rxi/linters](https://github.com/rxi/linters) - Linters for https://github.com/rxi/lite
@@ -9394,6 +9391,7 @@
 - [agkozak/dircolors-zenburn](https://github.com/agkozak/dircolors-zenburn) - Zenburn 256 color scheme for the color GNU ls utility.
 - [basbebe/pandoc.kak](https://github.com/basbebe/pandoc.kak) - pandoc plugin for kakoune text editor
 - [tony/awesome-tmux-configs](https://github.com/tony/awesome-tmux-configs) - Add your configs for tmux
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [infosecstreams/cheat.sheets](https://github.com/infosecstreams/cheat.sheets) - A directory of cheat sheets to use with TLDR, cheat.sh, or Navi
 - [madires/Transistortester-Warehouse](https://github.com/madires/Transistortester-Warehouse) - The Transistortester's warehouse for firmware, hardware, documentation and more.
 - [OXY2DEV/.dotfiles](https://github.com/OXY2DEV/.dotfiles) - 🏔️ Dotfiles for MacOS & Termux
@@ -12207,6 +12205,7 @@
 - [haikuports/haikuports](https://github.com/haikuports/haikuports) - Software ports for the Haiku operating system.
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
+- [prabirshrestha/dotfiles](https://github.com/prabirshrestha/dotfiles) - There is no place like ~
 - [CinnamonSlackBuilds/csb](https://github.com/CinnamonSlackBuilds/csb) - SlackBuild scripts for the Cinnamon desktop environment
 - [darvid/zsh-poetry](https://github.com/darvid/zsh-poetry) - 🐚 Simple ZSH plugin for automatically activating and deactivating Poetry-created virtualenvs. 🐍
 - [drmargarido/d-tracker-aur](https://github.com/drmargarido/d-tracker-aur) - D-Tracker Arch User Repository Package
@@ -12375,7 +12374,7 @@
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
@@ -12700,6 +12699,7 @@
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [brackets-userland/brackets-git](https://github.com/brackets-userland/brackets-git) - brackets-git — git extension for adobe/brackets
 
 ## V 
