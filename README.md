@@ -5528,7 +5528,6 @@
 - [abhra0897/LameUI_docs](https://github.com/abhra0897/LameUI_docs) - gh-page repo of LameUI documentations. Main repo: github.com/abhra0897/LameUI
 - [yingchaotw/STLinkV3_Adapter](https://github.com/yingchaotw/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlink-v3.
 - [RadioOperator/STLinkV3_Adapter](https://github.com/RadioOperator/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlinkv3-mini.
-- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [yiancar/barleycorn_pcb](https://github.com/yiancar/barleycorn_pcb) - A 1800 f-row less throughole keyboard with USBC. Inspired by the Plaid
 - [megamind4089/STeMCell](https://github.com/megamind4089/STeMCell) - STM32F4 breakout board in pro micro pinout. Designed mainly for ergo split keyboards.
 - [jpconstantineau/EncoderPad_RP2040](https://github.com/jpconstantineau/EncoderPad_RP2040) - 
@@ -6250,7 +6249,7 @@
 - [catppuccin/wezterm](https://github.com/catppuccin/wezterm) - :shell: Soothing pastel theme for WezTerm
 - [KevinSilvester/wezterm-config](https://github.com/KevinSilvester/wezterm-config) - My WezTerm Config
 - [dfaerch/passrelay.wezterm](https://github.com/dfaerch/passrelay.wezterm) - Password manager integration for WezTerm
-- [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) - 🎨 kanagawa.nvim color schemes ported to Wezterm
+- [kanagawa-community/wezterm](https://github.com/kanagawa-community/wezterm) - Community-maintained Kanagawa theme for WezTerm
 - [dfsramos/wezterm-sync](https://github.com/dfsramos/wezterm-sync) - WezTerm plugin to sync your config across machines via GitHub Gist
 - [hasanmohammad6618/lazydev.nvim](https://github.com/hasanmohammad6618/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [ThorstenRhau/neovim](https://github.com/ThorstenRhau/neovim) - Neovim for me by me
@@ -10603,6 +10602,7 @@
 - [Xuerian/BetterLua-Firefall](https://github.com/Xuerian/BetterLua-Firefall) - BetterLua syntax with Firefall support
 - [olemartinorg/i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout) - Scripts to open new windows in i3wm using alternating layouts (splith/splitv) for each new window
 - [TyberiusPrime/i3-instant-layout](https://github.com/TyberiusPrime/i3-instant-layout) - 
+- [socketwiz/dotfiles](https://github.com/socketwiz/dotfiles) - A place to store my configuration files
 - [karlch/vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client.
@@ -11208,6 +11208,7 @@
 - [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - A modal, GPU-accelerated, plugin-first text editor in Rust
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server with zsh support
+- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [MeanderingProgrammer/yadm-rs](https://github.com/MeanderingProgrammer/yadm-rs) - Yet Another Dotfiles Manager in Rust
 - [probe-rs/rusty-probe-firmware](https://github.com/probe-rs/rusty-probe-firmware) - 
 - [probe-rs/rtt-target](https://github.com/probe-rs/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol
@@ -12067,7 +12068,6 @@
 - [FlyingBBQ/dotfiles](https://github.com/FlyingBBQ/dotfiles) - Central repository for all my dotfiles
 - [anishathalye/dotfiles](https://github.com/anishathalye/dotfiles) - ~anish • powered by https://github.com/anishathalye/dotbot 💾
 - [kakounedotcom/connect.kak](https://github.com/kakounedotcom/connect.kak) - Connect a program to Kakoune clients
-- [socketwiz/dotfiles](https://github.com/socketwiz/dotfiles) - A place to store my configuration files
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [Gskartwii/wsl-setup](https://github.com/Gskartwii/wsl-setup) - Scripts for setting up a WSL development environment with oh-my-zsh, Kakoune, Rust, etc.
