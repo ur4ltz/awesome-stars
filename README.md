@@ -6297,6 +6297,7 @@
 - [luadch/luadch](https://github.com/luadch/luadch) - ADC Hub Server
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
+- [barrettruth/blink-cmp-tmux](https://github.com/barrettruth/blink-cmp-tmux) - Tmux command completion source for blink.cmp
 - [dynamotn/blink-cmp-zellij](https://github.com/dynamotn/blink-cmp-zellij) - Completion source from zellij for blink.cmp
 - [L3MON4D3/luals-mdgen](https://github.com/L3MON4D3/luals-mdgen) - Generate documentation in markdown from LuaCATS-annotations
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - The Neovim IDE integration for Codex
@@ -10657,7 +10658,7 @@
 - [doczi-dominik/colorlist](https://github.com/doczi-dominik/colorlist) - Extract and display colors
 - [heraldofsolace/VimHelpBot](https://github.com/heraldofsolace/VimHelpBot) - VimHelpBot is a bot that replies to r/vim and r/neovim comments with link to Vim Help page
 - [Jvanrhijn/polybar-spotify](https://github.com/Jvanrhijn/polybar-spotify) - 🎶 Spotify artist and song module for Polybar
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
@@ -11299,6 +11300,7 @@
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) - Neovim plugin for silicon in Rust
 - [williamboman/gh-analyzer](https://github.com/williamboman/gh-analyzer) - This (very simple) tool uses GitHub's API to fetch and persist insights data, allowing you to better understand long-term usage patterns and trends of your repositories - blazingly fast.
+- [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
 - [KillTheMule/nvim-rs](https://github.com/KillTheMule/nvim-rs) - A rust library for neovim clients
 - [mrjones2014/dash.nvim](https://github.com/mrjones2014/dash.nvim) - 🏃💨 Search Dash.app from your Neovim fuzzy finder. Built with Rust 🦀 and Lua
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
@@ -14065,7 +14067,6 @@
 - [joaquimorg/uv-kx-tools](https://github.com/joaquimorg/uv-kx-tools) - Web application to connect Quansheng UV-K5/K6/5R radios via Web Serial and perform maintenance and configuration tasks. Includes EEPROM backup/restore, firmware programming, settings editing, and SMR.
 - [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
 - [6c65726f79/Transmissionic](https://github.com/6c65726f79/Transmissionic) - Remote for Transmission Daemon
-- [MuTsunTsai/fontfreeze](https://github.com/MuTsunTsai/fontfreeze) - Freeze variations and features in font.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
