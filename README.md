@@ -329,6 +329,9 @@
 
 ## C 
 
+- [windowsair/wireless-esp8266-dap](https://github.com/windowsair/wireless-esp8266-dap) - CMSIS-DAP compatible wireless debugger for ESP8266/ESP32/ESP32C3/ESP32S3. Optional 40MHz SPI acceleration, etc.                                                                                         
+- [lbthomsen/stm32-tm16xx](https://github.com/lbthomsen/stm32-tm16xx) - TM1637 Driver for STM32
+- [STM32World/hybridlink](https://github.com/STM32World/hybridlink) - Hybrid - combined st-link/daplink probe open source firmware
 - [vkumpan/TEA5767](https://github.com/vkumpan/TEA5767) - Arduino library for controlling TEA5767 FM radio module.
 - [vkumpan/ActionButtons](https://github.com/vkumpan/ActionButtons) - Arduino library for handling multiple buttons with support for press, long press, and release events.
 - [vkumpan/SSD1306](https://github.com/vkumpan/SSD1306) - Arduino library for controlling SSD1306 OLED displays.
@@ -1670,6 +1673,7 @@
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm) - Nift - world's fastest cross-platform open source website generator.
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Tomas-M/posixovl](https://github.com/Tomas-M/posixovl) - POSIX-overlay filesystem
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker
 - [da-nie/SimplyVGAVideoCard](https://github.com/da-nie/SimplyVGAVideoCard) - Простейшая VGA-видеокарта на Atmega168-20.
 - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
@@ -2032,6 +2036,7 @@
 
 ## C++ 
 
+- [retransmission/retransmission](https://github.com/retransmission/retransmission) - Shift Transmission to a higher gear. A fast, easy and free Bittorrent Client For macOS, Windows and Linux
 - [datasith/Ai_Ardulib_SSD1306](https://github.com/datasith/Ai_Ardulib_SSD1306) - Library for using SSD1306-powered OLED displays in the Arduino IDE.
 - [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) - Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs
 - [darauble/bookmark_manager](https://github.com/darauble/bookmark_manager) - An alternative bookmark manager for SDR++
@@ -3591,7 +3596,6 @@
 - [rpavlik/luabind](https://github.com/rpavlik/luabind) - Create Lua bindings for your C++ code easily - my improvements
 - [luabind/luabind](https://github.com/luabind/luabind) - 
 - [ondra-novak/minihttp](https://github.com/ondra-novak/minihttp) - minihttp server in C++17 (one file)
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [ike9000e/p7z-usr](https://github.com/ike9000e/p7z-usr) - Stop war; stop Putin -- Plugin for Double Commander that adds 7-Zip compatible archives. Formats: 7z, Udf, VHD, SquashFS, NTFS, Rpm, Chm and more. Based on 7-Zip and P7ZIP projects.
 - [AndersMalmgren/qBittorrent](https://github.com/AndersMalmgren/qBittorrent) - qBittorrent BitTorrent client
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
@@ -4546,7 +4550,7 @@
 - [radian-software/selectrum](https://github.com/radian-software/selectrum) - 🔔 Better solution for incremental narrowing in Emacs.
 - [KaratasFurkan/.emacs.d](https://github.com/KaratasFurkan/.emacs.d) - My literate Emacs configuration
 - [syohex/dot_files](https://github.com/syohex/dot_files) - My dot files
-- [alhassy/org-special-block-extras](https://github.com/alhassy/org-special-block-extras) - A number of new custom blocks and link types for Emacs' Org-mode ^_^
+- [alhassy/org-special-block-extras](https://github.com/alhassy/org-special-block-extras) - Write once in Org, export everywhere: Org markup in any block; display maths with colours & calculational proofs; Org lists drawn as Graphviz graphs; folds, tooltips, glossaries, callouts; and org-def
 - [jkitchin/ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
 - [jkitchin/ov-highlight](https://github.com/jkitchin/ov-highlight) - A persistent highlighter for Emacs
 - [jkitchin/ox-clip](https://github.com/jkitchin/ox-clip) - Copy formatted content from org-mode
@@ -5791,6 +5795,7 @@
 
 ## JavaScript 
 
+- [shayanline/devin-vscode](https://github.com/shayanline/devin-vscode) - A native VS Code chat panel for the Devin CLI, built on the Agent Client Protocol (ACP). Streaming replies, per workspace sessions, model/mode pickers, and trackable diffs.
 - [magicoflolis/Magic-PH](https://github.com/magicoflolis/Magic-PH) - A video downloader for various adult websites
 - [killemov/Shift](https://github.com/killemov/Shift) - A minimalistic approach to maximum control of your Transmission. (Web UI)
 - [Freed-Wu/tree-sitter-tmuxf](https://github.com/Freed-Wu/tree-sitter-tmuxf) - 🌲👨 tmux format string grammar for tree-sitter
@@ -5895,6 +5900,7 @@
 - [imsky/github-graphql-client](https://github.com/imsky/github-graphql-client) - :octocat: Node.js client for the GitHub GraphQL API with zero dependencies
 - [tree-sitter-grammars/tree-sitter-lua](https://github.com/tree-sitter-grammars/tree-sitter-lua) - Lua grammar for tree-sitter
 - [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
+- [arjunmahishi/dotfiles](https://github.com/arjunmahishi/dotfiles) - A collection of my dotfiles
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [andrew222651/cmdmenu](https://github.com/andrew222651/cmdmenu) - Looks up command line syntax from cheatsheets using fuzzy search
@@ -6236,6 +6242,7 @@
 
 ## Lua 
 
+- [kanagawa-community/neovim](https://github.com/kanagawa-community/neovim) - Community-maintained Kanagawa theme for Neovim
 - [rachartier/tiny-devicons-auto-colors.nvim](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.
 - [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Neovim Colorscheme
 - [lettepa/nvim](https://github.com/lettepa/nvim) - Lettepa for Neovim
@@ -6389,7 +6396,6 @@
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 6200+ neovim plugins database with automatic installation! 🚀
 - [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) - Tabout plugin for Neovim
 - [gregorias/coop.nvim](https://github.com/gregorias/coop.nvim) - A Neovim plugin for readable concurrency with coroutines.
-- [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
 - [Gl00ria/nvim](https://github.com/Gl00ria/nvim) - 
 - [koreader/ffi-cdecl](https://github.com/koreader/ffi-cdecl) - Automated C declaration extraction for FFI interfaces
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
@@ -7853,7 +7859,6 @@
 - [nvim-telescope/telescope-ghq.nvim](https://github.com/nvim-telescope/telescope-ghq.nvim) - 
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Map keys without delay when typing
-- [arjunmahishi/dotfiles](https://github.com/arjunmahishi/dotfiles) - A collection of my dotfiles
 - [arjunmahishi/flow.nvim](https://github.com/arjunmahishi/flow.nvim) - A neovim plugin that lets you build custom commands to automate parts of your development workflow
 - [nvim-pack/lsp-fastaction.nvim](https://github.com/nvim-pack/lsp-fastaction.nvim) - lsp codeaction UI for neovim
 - [nvim-flutter/pubspec-assist.nvim](https://github.com/nvim-flutter/pubspec-assist.nvim) - 
@@ -9276,6 +9281,7 @@
 
 ## Others 
 
+- [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [pzl/Canned-Heat](https://github.com/pzl/Canned-Heat) - Reverse engineering and exploring of the Tyco® RC Canned Heat™ remote controlled car for educational purposes
 - [lettepa/zed](https://github.com/lettepa/zed) - Lettepa for Zed
 - [lettepa/wezterm](https://github.com/lettepa/wezterm) - Lettepa for WezTerm
@@ -10124,6 +10130,8 @@
 
 ## Python 
 
+- [Icaro0310/devin-explore](https://github.com/Icaro0310/devin-explore) - Diagnose a Devin Desktop install: stores, schema, locks, config, disk - concrete fixes
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [stratumauth/icons](https://github.com/stratumauth/icons) - 🖼️ Icon packs for Stratum
 - [lettepa/lettepa](https://github.com/lettepa/lettepa) - A color theme.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
@@ -10644,7 +10652,6 @@
 - [fanout/pygripcontrol](https://github.com/fanout/pygripcontrol) - Python GRIP library
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [kazhala/fzf.aws](https://github.com/kazhala/fzf.aws) - :cyclone: Using fuzzy finder to perform AWS operations on the command line
-- [skanehira/dotfiles](https://github.com/skanehira/dotfiles) - my dotfiles
 - [umute97/dotfiles](https://github.com/umute97/dotfiles) - Some dotfiles I wanna sync
 - [nuncan/wifite2mod](https://github.com/nuncan/wifite2mod) - Rolling Release Branch for community PR's @Credits to derv82 & the community
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
@@ -11496,6 +11503,7 @@
 
 ## Shell 
 
+- [dkms-project/dkms](https://github.com/dkms-project/dkms) - Dynamic Kernel Module System
 - [lettepa/fish](https://github.com/lettepa/fish) - Lettepa for Fish
 - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
 - [megvadulthangya/awesome-rofi](https://github.com/megvadulthangya/awesome-rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -11582,6 +11590,7 @@
 - [sepen/arradio-player](https://github.com/sepen/arradio-player) - Play audio streams from macOS Terminal or Linux shell
 - [sepen/monitors](https://github.com/sepen/monitors) - Script to manage dual-monitor configurations using  xrandr
 - [sepen/arradio](https://github.com/sepen/arradio) - Fetch and play internet radio stations directly from the command line
+- [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
 - [OXY2DEV/fish](https://github.com/OXY2DEV/fish) - 
 - [PatrickF1/dotfiles](https://github.com/PatrickF1/dotfiles) - dotfiles for macOS, fish, VSCode
 - [oh-my-fish/plugin-osx](https://github.com/oh-my-fish/plugin-osx) - Integration with Finder and iTunes.
@@ -12128,6 +12137,7 @@
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [seagle0128/bspwm-config](https://github.com/seagle0128/bspwm-config) - Bspwm configuration files.
+- [skanehira/dotfiles](https://github.com/skanehira/dotfiles) - my dotfiles
 - [resloved/bin](https://github.com/resloved/bin) - 🗑️ — Misc. Scripts
 - [Mi-Al/WiFi-autopwner](https://github.com/Mi-Al/WiFi-autopwner) - WiFi-autopwner: script to automate searching and auditing Wi-Fi networks with weak security
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -12320,7 +12330,7 @@
 - [Mange/rofi-lpass](https://github.com/Mange/rofi-lpass) - Lastpass integration with Rofi
 - [srcery-colors/srcery-tmux](https://github.com/srcery-colors/srcery-tmux) - tmux theme for srcery
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-- [alanchrt/dotfiles](https://github.com/alanchrt/dotfiles) - Fedora, GNOME, Doom Emacs, Claude Code, tmux, Zsh, and so much more
+- [alanchrt/dotfiles](https://github.com/alanchrt/dotfiles) - Fedora, GNOME, Doom Emacs, Codex, tmux, Zsh, and so much more
 - [portacle/portacle](https://github.com/portacle/portacle) - A portable common lisp development environment
 - [eed3si9n/git-gone](https://github.com/eed3si9n/git-gone) - 
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
@@ -12376,7 +12386,7 @@
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
@@ -12475,8 +12485,10 @@
 
 ## TypeScript 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
-- [buntec/btmux](https://github.com/buntec/btmux) - A terminal emulator and multiplexer with tmux-style UX
+- [btmux-dev/btmux](https://github.com/btmux-dev/btmux) - A terminal emulator and multiplexer with tmux-style UX
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 - [microsoft/vscode-makefile-tools](https://github.com/microsoft/vscode-makefile-tools) - Makefile Tools offers a robust workflow for Makefile projects in VS Code, with pre and post-configure script automation, easy configuration switching, and IntelliSense support for Makefile. The custom
