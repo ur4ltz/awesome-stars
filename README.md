@@ -198,6 +198,7 @@
 
 ## Assembly 
 
+- [zombu4/121GW-Open-Firmware](https://github.com/zombu4/121GW-Open-Firmware) - Open replacement firmware for the EEVblog 121GW multimeter in hand-written Thumb-2 assembly, with a full emulator
 - [drunkbatya/DrunkPC](https://github.com/drunkbatya/DrunkPC) - Operating system for homemade 8-bit Z80 computer
 - [profdc9/Z80SBC](https://github.com/profdc9/Z80SBC) - 
 - [piit79/USBasp](https://github.com/piit79/USBasp) - USBasp is a USB in-circuit programmer for Atmel AVR controllers by Thomas Fischl
@@ -329,6 +330,8 @@
 
 ## C 
 
+- [EEVblog/121GW-Firmware-Claude](https://github.com/EEVblog/121GW-Firmware-Claude) - Reverse Engineered 121GW Firmware using Claude. NOTE: It doesn't NOT WORK, for educational purposes only.
+- [EEVblog/121GW-Multimeter-Firmware-RE](https://github.com/EEVblog/121GW-Multimeter-Firmware-RE) - EEVblog 121GW multimeter firmware (v2.05) reverse-engineered into plain C. Builds with GCC and CMake, matches the original in emulation, and is tested on the meter.
 - [windowsair/wireless-esp8266-dap](https://github.com/windowsair/wireless-esp8266-dap) - CMSIS-DAP compatible wireless debugger for ESP8266/ESP32/ESP32C3/ESP32S3. Optional 40MHz SPI acceleration, etc.                                                                                         
 - [lbthomsen/stm32-tm16xx](https://github.com/lbthomsen/stm32-tm16xx) - TM1637 Driver for STM32
 - [STM32World/hybridlink](https://github.com/STM32World/hybridlink) - Hybrid - combined st-link/daplink probe open source firmware
@@ -435,7 +438,6 @@
 - [Tokeloshe/vuurwerk-firmware](https://github.com/Tokeloshe/vuurwerk-firmware) - Custom firmware for the Quansheng UV-K5. Voice-seeking spectrum, adaptive squelch, TX compressor, bandscope, and 41 features built on Egzumer.
 - [qshosfw/deltafw-k1-k5v3](https://github.com/qshosfw/deltafw-k1-k5v3) - Custom firmware for Quansheng UVK5v3/UVK1 radios
 - [createskyblue/Ch554-AVR-ISP](https://github.com/createskyblue/Ch554-AVR-ISP) - Usb-cdc avr-isp download tool based on ch554 chip. The default baud rate is 19200
-- [createskyblue/OpenT12](https://github.com/createskyblue/OpenT12) - T12 Soldering Station using ESP32
 - [createskyblue/Air001_I2C_TwoBoard_CommunicationMaster_DMA_u8g2](https://github.com/createskyblue/Air001_I2C_TwoBoard_CommunicationMaster_DMA_u8g2) - 
 - [createskyblue/STM32_HAL_SPI_WS2812](https://github.com/createskyblue/STM32_HAL_SPI_WS2812) - 
 - [createskyblue/TinyFrame](https://github.com/createskyblue/TinyFrame) - A simple library for building and parsing data frames for serial interfaces (like UART / RS232)
@@ -2003,6 +2005,7 @@
 
 ## C# # 
 
+- [EEVblog/EEVblog-121GW](https://github.com/EEVblog/EEVblog-121GW) - A Multimeter Application. For nightly builds goto: https://gitlab.com/Sepps/app-121gw
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [GMMan/st-link-hack](https://github.com/GMMan/st-link-hack) - An exploration into unsafely written code
@@ -2036,6 +2039,8 @@
 
 ## C++ 
 
+- [openshwprojects/BekenEmulator](https://github.com/openshwprojects/BekenEmulator) - Complete Beken emulator, which can even run Tuya firmware that connects to the cloud and still can be controlled via Tuya app.
+- [openshwprojects/Explorer2](https://github.com/openshwprojects/Explorer2) - 
 - [retransmission/retransmission](https://github.com/retransmission/retransmission) - Shift Transmission to a higher gear. A fast, easy and free Bittorrent Client For macOS, Windows and Linux
 - [datasith/Ai_Ardulib_SSD1306](https://github.com/datasith/Ai_Ardulib_SSD1306) - Library for using SSD1306-powered OLED displays in the Arduino IDE.
 - [adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) - Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs
@@ -2938,7 +2943,7 @@
 - [alexander-sholohov/si5351-beacon](https://github.com/alexander-sholohov/si5351-beacon) - WSPR beacon based on Arduino + si5351
 - [TcMenu/TaskManagerIO](https://github.com/TcMenu/TaskManagerIO) - A task, event, scheduling, and interrupt marshalling library for Arduino and mbed boards.
 - [pu2clr/SI5351](https://github.com/pu2clr/SI5351) - Multipurpose signal generator with SI5351
-- [TcMenu/IoAbstraction](https://github.com/TcMenu/IoAbstraction) - Rotary encoders, fully debounced switches, EEPROM support on Arduino and mbed - direct and over I2C
+- [TcMenu/IoAbstraction](https://github.com/TcMenu/IoAbstraction) - Rotary encoders, fully debounced switches, EEPROM support on Arduino, PicoSDK, ESP32-IDF, STM32Cube and mbed.
 - [VasilKalchev/LiquidMenu](https://github.com/VasilKalchev/LiquidMenu) - Menu creation Arduino library for LCDs, wraps LiquidCrystal.
 - [mathertel/LiquidCrystal_PCF8574](https://github.com/mathertel/LiquidCrystal_PCF8574) - A library for driving LiquidCrystal displays (LCD) by using the I2C bus and an PCF8574 I2C adapter.
 - [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
@@ -4278,7 +4283,6 @@
 - [chmouel/emacs-swivb](https://github.com/chmouel/emacs-swivb) - 
 - [emacs-grammarly/lsp-grammarly](https://github.com/emacs-grammarly/lsp-grammarly) - lsp-mode ❤️ grammarly
 - [anuvyklack/emacs](https://github.com/anuvyklack/emacs) - 
-- [fnune/emacs.d](https://github.com/fnune/emacs.d) - My Emacs configuration directory
 - [jdhao/emacs-conf](https://github.com/jdhao/emacs-conf) - My Emacs config repository
 - [ag91/moldable-emacs](https://github.com/ag91/moldable-emacs) - Adapting Emacs for moldable development
 - [jan-warchol/selenized](https://github.com/jan-warchol/selenized) - Solarized redesigned: fine-tuned color palette for programmers with focus on readability.
@@ -5291,7 +5295,7 @@
 - [fu5ha/i3-vim-nav](https://github.com/fu5ha/i3-vim-nav) - Seamlessly navigate i3 windows and vim splits
 - [gennaro-tedesco/zathuraconf](https://github.com/gennaro-tedesco/zathuraconf) - Change zathura colour schemes
 - [gennaro-tedesco/stargazer](https://github.com/gennaro-tedesco/stargazer) - ⭐ github stats from the command line
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [varbhat/torpar](https://github.com/varbhat/torpar) - TUI Client for Knaben Database
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
@@ -7897,7 +7901,6 @@
 - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git source for nvim-cmp/blink.cmp
 - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - An additional source for nvim-cmp to autocomplete packages and its versions
 - [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) - The missing utf8 module for neovim Lua.
-- [fnune/dotfiles](https://github.com/fnune/dotfiles) - My dotfiles, built to work with GNU stow in a ~/.dotfiles directory
 - [AlphaTechnolog/onedarker.nvim](https://github.com/AlphaTechnolog/onedarker.nvim) - A beautiful onedark based colorscheme for neovim (maked with lua and extracted from the lunarvim project)
 - [jeetsukumaran/telescope-rtp](https://github.com/jeetsukumaran/telescope-rtp) - 
 - [HiPhish/desktop-notify-nvim](https://github.com/HiPhish/desktop-notify-nvim) - [mirror] Neovim notifications on your desktop
@@ -9659,7 +9662,6 @@
 - [konrad91/OneDarkArduino](https://github.com/konrad91/OneDarkArduino) - Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify
 - [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
-- [fnune/base16-nightwalk-scheme](https://github.com/fnune/base16-nightwalk-scheme) - 
 - [AlixShahid/birav2-theme](https://github.com/AlixShahid/birav2-theme) - birav2, littel modified theme for oh my zsh
 - [ripxorip/pinkytyl_v2](https://github.com/ripxorip/pinkytyl_v2) - CAD files for my pinkytyl keyboard
 - [nvim-neorg/example_workspaces](https://github.com/nvim-neorg/example_workspaces) - 
@@ -11906,7 +11908,6 @@
 - [hollystandring/alarm](https://github.com/hollystandring/alarm) - A shell script to play an alarm at a predetermined time
 - [ldelossa/sway-fzfify](https://github.com/ldelossa/sway-fzfify) - A set of script to incorporate fzf into your sway desktop
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
-- [fnune/i3](https://github.com/fnune/i3) - My i3 config files.
 - [tinted-theming/base16-shell-legacy](https://github.com/tinted-theming/base16-shell-legacy) - Base16 for Shells
 - [tinted-theming/tinted-fzf](https://github.com/tinted-theming/tinted-fzf) - base16 colorschemes for fzf
 - [AlphaTechnolog/dotfiles-old](https://github.com/AlphaTechnolog/dotfiles-old) - This is my dotfiles for the xmonadwm, xmobar, qtile, polybar, bspwm, sxhkd, spectrwm, dwm, dwmblocks, i3, polybar-for-i3, custom scripts and others programs configs!
@@ -12386,7 +12387,7 @@
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [Ponce/slackbuilds](https://github.com/Ponce/slackbuilds) - fork of master branch from git://git.slackbuilds.org/slackbuilds.git (read more on wiki). If you want to fork/pull request do it only over master (the other branches are temporary and are always rebas
 - [codeinclined/rice-scripts](https://github.com/codeinclined/rice-scripts) - A set of scripts I have made while ricing my Linux systems to make things more convenient or beautiful.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 1000 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources
 - [acrisci/i3ipc-lua](https://github.com/acrisci/i3ipc-lua) - An improved Lua library to control i3wm
 - [sbopkg/sbopkg](https://github.com/sbopkg/sbopkg) - Slackbuilds.org Package Browser
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
