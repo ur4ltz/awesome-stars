@@ -5138,6 +5138,7 @@
 
 ## Go 
 
+- [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [kgfly/simplenvimeditor](https://github.com/kgfly/simplenvimeditor) - Simple Nvim Editor: Lightweight Cross-Platform Neovim GUI in Go
 - [Link-/gh-token](https://github.com/Link-/gh-token) - Manage installation access tokens for GitHub apps from your terminal 💻
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
@@ -5799,6 +5800,7 @@
 
 ## JavaScript 
 
+- [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync) - SessionSync
 - [shayanline/devin-vscode](https://github.com/shayanline/devin-vscode) - A native VS Code chat panel for the Devin CLI, built on the Agent Client Protocol (ACP). Streaming replies, per workspace sessions, model/mode pickers, and trackable diffs.
 - [magicoflolis/Magic-PH](https://github.com/magicoflolis/Magic-PH) - A video downloader for various adult websites
 - [killemov/Shift](https://github.com/killemov/Shift) - A minimalistic approach to maximum control of your Transmission. (Web UI)
