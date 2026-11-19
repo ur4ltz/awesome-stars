@@ -384,7 +384,6 @@
 - [ProjectsByJRP/si5351-stm32](https://github.com/ProjectsByJRP/si5351-stm32) - Port of Adafruit's si5351 driver to STM32 HAL
 - [afiskon/stm32-external-eeprom](https://github.com/afiskon/stm32-external-eeprom) - STM32: external EEPROM usage example
 - [afiskon/stm32-rtc-example](https://github.com/afiskon/stm32-rtc-example) - STM32: example of usage of internal RTC
-- [afiskon/stm32-interrupts-timers-pwm](https://github.com/afiskon/stm32-interrupts-timers-pwm) - STM32: examples of usage of interrupts, timers and PWM
 - [afiskon/stm32-i2s-examples](https://github.com/afiskon/stm32-i2s-examples) - STM32: examples of I2S protocol usage
 - [afiskon/stm32-max7219](https://github.com/afiskon/stm32-max7219) - STM32 driver for 7 segmented LED displays based on MAX7219
 - [x893/picoC](https://github.com/x893/picoC) - picoC port for STM32 and EFM32 processors
@@ -9605,6 +9604,7 @@
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [danymat/norg_notes](https://github.com/danymat/norg_notes) - 
+- [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [AndronixApp/andronix-external-app](https://github.com/AndronixApp/andronix-external-app) - Collection of all the external/third-party softwares for easier processing. We don't own any rights to the files included
 - [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
@@ -11417,7 +11417,7 @@
 - [Peltoche/vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend
 - [vv9k/rkd](https://github.com/vv9k/rkd) - Rusty keybinding daemon
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -11777,7 +11777,6 @@
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [cpea2506/dotfiles](https://github.com/cpea2506/dotfiles) - dotfiles in the pea shell.
 - [cpea2506/zcraft](https://github.com/cpea2506/zcraft) - A minimal zsh theme
-- [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - Andronix: Linux distros on Android without root (Termux + proot), with desktops in Termux:X11. App 8.x scripts are on the master branch.
 - [loctvl842/BeastFiles](https://github.com/loctvl842/BeastFiles) - My dotfiles
 - [cameron-wags/dmenu](https://github.com/cameron-wags/dmenu) - My fork, packaged and patched with fuzzy match
@@ -12169,7 +12168,7 @@
 - [porras/dmenu-emoji](https://github.com/porras/dmenu-emoji) - Search an emoji by name and copy it to the clipboard [i3, dmenu, rofi]
 - [nkoehring/rofiemoji](https://github.com/nkoehring/rofiemoji) - emoji shell extension for rofi
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [rhovelz/rhovelz_dotfiles](https://github.com/rhovelz/rhovelz_dotfiles) - Rhovelionz-Dotfiles
+- [Thyrh07/rhovelz_dotfiles](https://github.com/Thyrh07/rhovelz_dotfiles) - Rhovelionz-Dotfiles
 - [ltsp/ltsp](https://github.com/ltsp/ltsp) - LTSP code, issues and discussions
 - [jbomanson/config](https://github.com/jbomanson/config) - Some configuration files that I use
 - [jbomanson/search-doc.kak](https://github.com/jbomanson/search-doc.kak) - Ease browsing of kakoune documentation
