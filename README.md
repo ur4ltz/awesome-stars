@@ -5074,7 +5074,6 @@
 - [lowfatcomputing/BIG-INTEGER-ANS-FORTH](https://github.com/lowfatcomputing/BIG-INTEGER-ANS-FORTH) - Calculating with dynamic integers in Forth
 - [lowfatcomputing/ffl](https://github.com/lowfatcomputing/ffl) - A general purpose Forth library
 - [lowfatcomputing/forth-psoc-utils](https://github.com/lowfatcomputing/forth-psoc-utils) - utils for PSoC RE
-- [nineties/planck-old](https://github.com/nineties/planck-old) - This project aims to develop a Compiler Infrastructure which have advanced memory safety and concurrency features.
 - [nineties/planckforth](https://github.com/nineties/planckforth) - Bootstrapping a Forth interpreter from hand-written tiny ELF binary. Just for fun.
 - [johnwinans/nabu-figforth](https://github.com/johnwinans/nabu-figforth) - fig-FORTH implementation for the NABU PC
 - [hanshuebner/nabu-figforth](https://github.com/hanshuebner/nabu-figforth) - fig-FORTH implementation for the NABU PC
@@ -5536,6 +5535,7 @@
 - [abhra0897/LameUI_docs](https://github.com/abhra0897/LameUI_docs) - gh-page repo of LameUI documentations. Main repo: github.com/abhra0897/LameUI
 - [yingchaotw/STLinkV3_Adapter](https://github.com/yingchaotw/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlink-v3.
 - [RadioOperator/STLinkV3_Adapter](https://github.com/RadioOperator/STLinkV3_Adapter) - This adapter board was designed to retain the STDC14 connector from stlinkv3-mini.
+- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [yiancar/barleycorn_pcb](https://github.com/yiancar/barleycorn_pcb) - A 1800 f-row less throughole keyboard with USBC. Inspired by the Plaid
 - [megamind4089/STeMCell](https://github.com/megamind4089/STeMCell) - STM32F4 breakout board in pro micro pinout. Designed mainly for ergo split keyboards.
 - [jpconstantineau/EncoderPad_RP2040](https://github.com/jpconstantineau/EncoderPad_RP2040) - 
@@ -5904,7 +5904,6 @@
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [imsky/github-graphql-client](https://github.com/imsky/github-graphql-client) - :octocat: Node.js client for the GitHub GraphQL API with zero dependencies
 - [tree-sitter-grammars/tree-sitter-lua](https://github.com/tree-sitter-grammars/tree-sitter-lua) - Lua grammar for tree-sitter
-- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
 - [arjunmahishi/dotfiles](https://github.com/arjunmahishi/dotfiles) - A collection of my dotfiles
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
@@ -7823,6 +7822,7 @@
 - [ldelossa/litee-filetree.nvim](https://github.com/ldelossa/litee-filetree.nvim) - A file explorer implemented with the litee.nvim library.
 - [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - Foldtext customization in Neovim
 - [lucasvianav/nvim](https://github.com/lucasvianav/nvim) - My Neovim config.
+- [olimorris/dotfiles](https://github.com/olimorris/dotfiles) - 💻 My personal dotfiles built around a Ruby Rakefile. Hammerspoon, Fish...
 - [nyngwang/NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - A simple usecase of floating window to help you focus.
 - [cagix/pandoc-lecture](https://github.com/cagix/pandoc-lecture) - Pandoc Markdown Lecture Template: This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (https://pandoc.org/MANUAL.html) using a 
 - [cseickel/dotfiles](https://github.com/cseickel/dotfiles) - 
@@ -11220,7 +11220,6 @@
 - [dhruvasagar/lattice](https://github.com/dhruvasagar/lattice) - A modal, GPU-accelerated, plugin-first text editor in Rust
 - [dhruvasagar/cursed-timer](https://github.com/dhruvasagar/cursed-timer) - A Console Rubik Cube's Timer using tui-rs
 - [ewhauser/shuck](https://github.com/ewhauser/shuck) - A lightning fast shell linter/formatter/LSP server with zsh support
-- [everruns/bashkit](https://github.com/everruns/bashkit) - Virtual Bash interpreter with a virtual file system for multi-tenant environments.
 - [MeanderingProgrammer/yadm-rs](https://github.com/MeanderingProgrammer/yadm-rs) - Yet Another Dotfiles Manager in Rust
 - [probe-rs/rusty-probe-firmware](https://github.com/probe-rs/rusty-probe-firmware) - 
 - [probe-rs/rtt-target](https://github.com/probe-rs/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol
