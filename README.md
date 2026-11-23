@@ -5737,7 +5737,6 @@
 - [N0BOY/FT8CN](https://github.com/N0BOY/FT8CN) - Run FT8 on Android
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [woheller69/gptAssist](https://github.com/woheller69/gptAssist) - gptAssist is a simple WebView wrapper for ChatGPT
-- [mesflit/meslinux](https://github.com/mesflit/meslinux) - 
 - [AndreyPavlenko/transmissionbtc](https://github.com/AndreyPavlenko/transmissionbtc) - Transmission BitTorrent Client for Android
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [jawi/ols](https://github.com/jawi/ols) - OpenBench LogicSniffer repository
@@ -11188,6 +11187,7 @@
 
 ## Rust 
 
+- [halilkhrmn/dpimech](https://github.com/halilkhrmn/dpimech) - Cross platform DPI bypass manager with some extra things
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [embassy-rs/trouble](https://github.com/embassy-rs/trouble) - A Rust BLE Host stack
