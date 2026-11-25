@@ -330,6 +330,8 @@
 
 ## C 
 
+- [whitecatboard/Lua-RTOS-ESP8266](https://github.com/whitecatboard/Lua-RTOS-ESP8266) - Lua RTOS for ESP8266
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [EEVblog/121GW-Firmware-Claude](https://github.com/EEVblog/121GW-Firmware-Claude) - Reverse Engineered 121GW Firmware using Claude. NOTE: It doesn't NOT WORK, for educational purposes only.
 - [EEVblog/121GW-Multimeter-Firmware-RE](https://github.com/EEVblog/121GW-Multimeter-Firmware-RE) - EEVblog 121GW multimeter firmware (v2.05) reverse-engineered into plain C. Builds with GCC and CMake, matches the original in emulation, and is tested on the meter.
 - [windowsair/wireless-esp8266-dap](https://github.com/windowsair/wireless-esp8266-dap) - CMSIS-DAP compatible wireless debugger for ESP8266/ESP32/ESP32C3/ESP32S3. Optional 40MHz SPI acceleration, etc.                                                                                         
@@ -566,7 +568,7 @@
 - [leaflabs/maple-bootloader](https://github.com/leaflabs/maple-bootloader) - Bootloader firmware for the Maple ARM Cortex-M3 development board from LeafLabs
 - [WeActStudio/STM32duino-bootloader](https://github.com/WeActStudio/STM32duino-bootloader) - Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE
 - [WeActStudio/STM32_HID_Bootloader](https://github.com/WeActStudio/STM32_HID_Bootloader) - Driverless USB HID bootloader and flashing tool for STM32F10X && STM32F4 devices
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [LonelyWolf/stm32](https://github.com/LonelyWolf/stm32) - STM32 stuff
 - [cropinghigh/sdrpp-tetra-demodulator](https://github.com/cropinghigh/sdrpp-tetra-demodulator) - Tetra demodulator plugin for SDR++ (output can be fed to tetra-rx from osmo-tetra)
 - [microtechnics-main/stm32-st7735-library](https://github.com/microtechnics-main/stm32-st7735-library) - STM32 library for displays with ST7735 controller.
@@ -1390,11 +1392,10 @@
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
 - [petrihakkinen/lua-array](https://github.com/petrihakkinen/lua-array) - This is a experimental patch for Lua 5.4-work1 that adds first class support for arrays.
 - [lunarmodules/lua-compat-5.3](https://github.com/lunarmodules/lua-compat-5.3) - Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1
-- [NTBBloodbath/st](https://github.com/NTBBloodbath/st) - My personal suckless terminal build
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [avahi/nss-mdns](https://github.com/avahi/nss-mdns) - nss-mdns is a plugin for the GNU Name Service Switch (NSS) functionality of the GNU C Library (glibc) providing host name resolution via Multicast DNS (aka Zeroconf, aka Apple Rendezvous, aka Apple Bo
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
-- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - Unmaintained: see kantan, its successor
 - [drhsqlite/pikchr](https://github.com/drhsqlite/pikchr) - Mirror for Pikchr
 - [msteveb/linenoise](https://github.com/msteveb/linenoise) - A small self-contained alternative to readline and libedit
 - [VadimChernopazov/new](https://github.com/VadimChernopazov/new) - 
@@ -2037,6 +2038,16 @@
 
 ## C++ 
 
+- [Waziup/arduino-wazicloud](https://github.com/Waziup/arduino-wazicloud) - 
+- [NerdBishop/DelaliSense32](https://github.com/NerdBishop/DelaliSense32) - Delali Sense 32 is an ESP32-S3 based development board aimed at providing a compact, power-efficient solution for makers, hobbyists and anyone experimenting with ESP32-based IoT projects
+- [NerdBishop/Arduino](https://github.com/NerdBishop/Arduino) - Resources for Arduino based projects
+- [derdacavga/Engineering_Calculator](https://github.com/derdacavga/Engineering_Calculator) - DSN Engineering Calculator A touchscreen-based scientific calculator built with an ESP32-S3 and an ILI9341 TFT display, using the TFT_eSPI library.
+- [derdacavga/Arduino_ST7789_Menu](https://github.com/derdacavga/Arduino_ST7789_Menu) - 
+- [derdacavga/Esp32-Snake-Game](https://github.com/derdacavga/Esp32-Snake-Game) - In this repo include esp32S3 based Snake Game mobile version.
+- [derdacavga/esp32-Tetris-Game](https://github.com/derdacavga/esp32-Tetris-Game) - In this project I will share with you A Tetris Game from the past for a arduino
+- [derdacavga/Tiny-Game-Console](https://github.com/derdacavga/Tiny-Game-Console) - I made keychain sized game console with st7789 display and using esp32-C3 SoC. In this project used part of mostly recycled
+- [derdacavga/ili9341-touch-display-calibration](https://github.com/derdacavga/ili9341-touch-display-calibration) - In this project I will give you touchscreen calibration code example
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [openshwprojects/BekenEmulator](https://github.com/openshwprojects/BekenEmulator) - Complete Beken emulator, which can even run Tuya firmware that connects to the cloud and still can be controlled via Tuya app.
 - [openshwprojects/Explorer2](https://github.com/openshwprojects/Explorer2) - 
 - [retransmission/retransmission](https://github.com/retransmission/retransmission) - Shift Transmission to a higher gear. A fast, easy and free Bittorrent Client For macOS, Windows and Linux
@@ -2131,7 +2142,7 @@
 - [bigbigmdm/CH341a_spi_programmer](https://github.com/bigbigmdm/CH341a_spi_programmer) - QT5 programmer software for the readind/writing SPI NOR FLASH use the CH341a device.
 - [bigbigmdm/QT-CH341A-LINUX-PROGRAMMER](https://github.com/bigbigmdm/QT-CH341A-LINUX-PROGRAMMER) - Programmer tools use CH341A EEPROM programmer for 24C01 ... 24C1024 chip.
 - [bigbigmdm/Binary_file_comparator](https://github.com/bigbigmdm/Binary_file_comparator) - QT GUI binary file comparator
-- [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips
+- [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A/CH347T/FT232H-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips
 - [Simsys/qhexedit2](https://github.com/Simsys/qhexedit2) - Binary Editor for Qt
 - [gavinlyonsrepo/SSD1331_LTSM](https://github.com/gavinlyonsrepo/SSD1331_LTSM) - Arduino C++  library for SSD1331  OLED displays — supports hardware/software SPI, rotation, scroll, brightness modes, graphics, bitmaps, and fonts.
 - [gavinlyonsrepo/ILI9341_LTSM](https://github.com/gavinlyonsrepo/ILI9341_LTSM) - C++ Arduino library for ILI9341 TFT SPI LCDs—supports hardware/software SPI, graphics, rotation, scroll, bitmaps, fonts, diagnostics, and frame buffer.
@@ -2350,7 +2361,7 @@
 - [leomil72/megax4](https://github.com/leomil72/megax4) - ATmega644/644P & ATmega1284P core for Arduino IDE
 - [RaspSDR/server](https://github.com/RaspSDR/server) - The web-888 web server code, Clone from kiwisdr with lots of changes
 - [agromazin/okean240](https://github.com/agromazin/okean240) - 
-- [mpaland/printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
+- [mpaland/printf](https://github.com/mpaland/printf) - Tiny, fast, thread-safe, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 - [VolosR/TEmbedFMRadio](https://github.com/VolosR/TEmbedFMRadio) - 
 - [esp32-si4732/ats-mini](https://github.com/esp32-si4732/ats-mini) - ATS Mini firmware fork
 - [imax9000/Arduino-PID-Library](https://github.com/imax9000/Arduino-PID-Library) - 
@@ -2471,7 +2482,7 @@
 - [jake-is-ESD-protected/ESP32debugging_guide](https://github.com/jake-is-ESD-protected/ESP32debugging_guide) - A very comprehensive ESP32 Debugging Guide.
 - [fdivitto/FabGL](https://github.com/fdivitto/FabGL) - ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal
 - [adafruit/Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341) - Library for Adafruit ILI9341 displays
-- [daddel80/notepadpp-multireplace](https://github.com/daddel80/notepadpp-multireplace) - MultiReplace is a Notepad++ plugin for advanced multi-string replacements. It supports reusable lists, CSV column targeting, highlighting, and external data lookups. All replacements can be enhanced w
+- [daddel80/notepadpp-multireplace](https://github.com/daddel80/notepadpp-multireplace) - Notepad++ plugin for multi-string search and replace with reusable lists, in the current document, open documents or whole folders. Adds CSV column tools with Flow Tabs, multi-color highlighting, a se
 - [vinsworldcom/nppGitSCM](https://github.com/vinsworldcom/nppGitSCM) - Notepad++ Git SCM
 - [Ebiroll/DSRemote](https://github.com/Ebiroll/DSRemote) - Rigol oscilloscope remote control, mainly for use with https://github.com/Ebiroll/esp32_sigrok
 - [lexus2k/tinyproto](https://github.com/lexus2k/tinyproto) - Tiny Software Protocol for communication over UART, SPI, etc
@@ -5142,7 +5153,7 @@
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [ivpn/mailx](https://github.com/ivpn/mailx) - Audited, Open-Source Email Aliasing Service
 - [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
+- [geo-fer/deja](https://github.com/geo-fer/deja) - Predictive inline suggestions for zsh
 - [samiulsami/go-deep.nvim](https://github.com/samiulsami/go-deep.nvim) - Go deep completion source for neovim. Compatible with `blink.cmp`, and native `completeFunc`.
 - [sverrehu/spacegame](https://github.com/sverrehu/spacegame) - 
 - [DobbyVPN/DobbyVPN](https://github.com/DobbyVPN/DobbyVPN) - 
@@ -5829,6 +5840,7 @@
 - [Acode-Foundation/Acode2](https://github.com/Acode-Foundation/Acode2) - Acode - powerful text/code editor for android
 - [nginx/njs-examples](https://github.com/nginx/njs-examples) - NGINX JavaScript examples
 - [wargio/r2dec-js](https://github.com/wargio/r2dec-js) - r2dec-js is a JavaScript-based decompiler that converts assembly code into pseudo-C. It aids users in understanding assembly by providing readable high-level explanations, making low-level programming
+- [radareorg/radare2-r2papi](https://github.com/radareorg/radare2-r2papi) - High Level API on top of the R2Pipe interface
 - [denysdovhan/robbyrussell-node](https://github.com/denysdovhan/robbyrussell-node) - Cross-shell robbyrussell theme written in JavaScript
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -6245,6 +6257,8 @@
 
 ## Lua 
 
+- [joryeugene/dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim) - Dadbod Grip turns database tables into editable Vim buffers, with schema browsing, staged mutations, generated SQL, relationship navigation, and cross-database federation inside Neovim.
+- [mireq/neovim-config](https://github.com/mireq/neovim-config) - My neovim config
 - [kanagawa-community/neovim](https://github.com/kanagawa-community/neovim) - Community-maintained Kanagawa theme for Neovim
 - [rachartier/tiny-devicons-auto-colors.nvim](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - A Neovim plugin that automatically assigns colors to devicons based on their nearest color in a predefined color palette.
 - [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Neovim Colorscheme
@@ -7574,7 +7588,6 @@
 - [KadoBOT/cmp-plugins](https://github.com/KadoBOT/cmp-plugins) - nvim-cmp source for Neovim plugins
 - [vhyrro/neovhy](https://github.com/vhyrro/neovhy) - I had no better name for it I swear
 - [vhyrro/neorg-dev](https://github.com/vhyrro/neorg-dev) - A Neovim configuration tailored towards having a seamless Neorg development experience.
-- [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 - [moevis/dotfiles](https://github.com/moevis/dotfiles) - 
 - [moevis/base64.nvim](https://github.com/moevis/base64.nvim) - base64 encoding/decoding plugin for neovim implemented in pure lua
 - [moevis/json.nvim](https://github.com/moevis/json.nvim) - extract json string from cursor line
@@ -8062,7 +8075,6 @@
 - [hrsh7th/cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua) - nvim-cmp source for nvim lua
 - [petrihakkinen/lite-plugins](https://github.com/petrihakkinen/lite-plugins) - Plugins for the lite text editor
 - [IndianBoy42/hop.nvim](https://github.com/IndianBoy42/hop.nvim) - Neovim motions on speed!
-- [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) - neovim statusline plugin written in lua
 - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - luasnip completion source for nvim-cmp
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [numToStr/BufOnly.nvim](https://github.com/numToStr/BufOnly.nvim) - Lua/Neovim port of BufOnly.vim with some changes
@@ -8128,7 +8140,7 @@
 - [Forlos/dotfiles](https://github.com/Forlos/dotfiles) - Config files
 - [ronniedroid/droidvim](https://github.com/ronniedroid/droidvim) - My personal neovim configuration.
 - [rockerBOO/dotfiles](https://github.com/rockerBOO/dotfiles) - doot files for arch (btw)
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Org mode clone written in Lua for Neovim 0.12.0+.
 - [stevearc/dotfiles](https://github.com/stevearc/dotfiles) - 
 - [mizlan/dots-nightly](https://github.com/mizlan/dots-nightly) - see mizlan/dotfiles
 - [mizlan/vis-config](https://github.com/mizlan/vis-config) - 
@@ -9284,6 +9296,7 @@
 
 ## Others 
 
+- [WeActStudio/WeActStudio.I2SSpeakerModuleV1](https://github.com/WeActStudio/WeActStudio.I2SSpeakerModuleV1) - PCM5100A I2S Speaker Module
 - [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [pzl/Canned-Heat](https://github.com/pzl/Canned-Heat) - Reverse engineering and exploring of the Tyco® RC Canned Heat™ remote controlled car for educational purposes
 - [lettepa/zed](https://github.com/lettepa/zed) - Lettepa for Zed
@@ -10133,6 +10146,7 @@
 
 ## Python 
 
+- [mireq/http-status-pages](https://github.com/mireq/http-status-pages) - HTTP error / status pages for web servers like nginx, apache2 ...
 - [Icaro0310/devin-explore](https://github.com/Icaro0310/devin-explore) - Diagnose a Devin Desktop install: stores, schema, locks, config, disk - concrete fixes
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [stratumauth/icons](https://github.com/stratumauth/icons) - 🖼️ Icon packs for Stratum
@@ -11989,7 +12003,7 @@
 - [ray-x/dotfiles](https://github.com/ray-x/dotfiles) - 
 - [bluz71/bash-seafly-prompt](https://github.com/bluz71/bash-seafly-prompt) - A clean and fast Bash prompt
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
-- [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannjahng/fz.sh](https://github.com/johannjahng/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [ecosse3/dotfiles](https://github.com/ecosse3/dotfiles) - Dotfiles for my awesomewm/i3 Arch setup & neovim
 - [sonph/dotfiles](https://github.com/sonph/dotfiles) - My .files
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
@@ -12514,7 +12528,6 @@
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
-- [radareorg/radare2-r2papi](https://github.com/radareorg/radare2-r2papi) - High Level API on top of the R2Pipe interface
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [nmoroze/tclint-vscode](https://github.com/nmoroze/tclint-vscode) - VS Code extension that lints and formats Tcl and EDA scripts.
 - [Mellbourn/lsColorsToToml](https://github.com/Mellbourn/lsColorsToToml) - 
@@ -12722,7 +12735,6 @@
 - [vlang/vls](https://github.com/vlang/vls) - V language server
 - [vlang/ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-- [NTBBloodbath/nvenv](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 
 ## VBA 
 
@@ -14026,7 +14038,7 @@
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [wenlongche/SrcExpl](https://github.com/wenlongche/SrcExpl) - A (G)Vim plugin for exploring the source code definition(s) and contextual lines with a split window.
 - [wenlongche/Trinity](https://github.com/wenlongche/Trinity) - A (G)Vim plugin which build the trinity of Source Explorer, TagList and NERD tree to be an IDE for software development.
-- [johannjhang/color-scheme-holokai.vim](https://github.com/johannjhang/color-scheme-holokai.vim) - 
+- [johannjahng/color-scheme-holokai.vim](https://github.com/johannjahng/color-scheme-holokai.vim) - 
 - [tomasr/molokai](https://github.com/tomasr/molokai) - Molokai color scheme for Vim
 - [xuhdev/SingleCompile](https://github.com/xuhdev/SingleCompile) - A Vim plugin making it more convenient to compile or run a single source file.
 - [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
