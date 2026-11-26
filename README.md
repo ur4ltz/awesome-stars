@@ -330,6 +330,7 @@
 
 ## C 
 
+- [mireq/ILI9481-esp32-driver](https://github.com/mireq/ILI9481-esp32-driver) - 
 - [whitecatboard/Lua-RTOS-ESP8266](https://github.com/whitecatboard/Lua-RTOS-ESP8266) - Lua RTOS for ESP8266
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [EEVblog/121GW-Firmware-Claude](https://github.com/EEVblog/121GW-Firmware-Claude) - Reverse Engineered 121GW Firmware using Claude. NOTE: It doesn't NOT WORK, for educational purposes only.
@@ -9306,7 +9307,6 @@
 - [dracula/rio-terminal](https://github.com/dracula/rio-terminal) - 🧛🏻‍♂️ Dark theme for Rio Terminal
 - [arm/armls](https://github.com/arm/armls) - Arm assembly Language Server. This is a mirror repository.
 - [stm32duino/STM32Examples](https://github.com/stm32duino/STM32Examples) - Arduino library to provide several examples for the Arduino core for STM32 MCUs.
-- [megvadulthangya/nvidia-graphics-drivers](https://github.com/megvadulthangya/nvidia-graphics-drivers) - 
 - [Solderingironspb/solderingiron-theme-light](https://github.com/Solderingironspb/solderingiron-theme-light) - Светлая тема для VSCode, вдохновленная Eclipse IDE
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) - Collections of awesome WezTerm plugins.
@@ -10151,6 +10151,7 @@
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [stratumauth/icons](https://github.com/stratumauth/icons) - 🖼️ Icon packs for Stratum
 - [lettepa/lettepa](https://github.com/lettepa/lettepa) - A color theme.
+- [megvadulthangya/nvidia-graphics-drivers](https://github.com/megvadulthangya/nvidia-graphics-drivers) - 
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) - Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
 - [abcminiuser/mpc-hc-webui-proxy](https://github.com/abcminiuser/mpc-hc-webui-proxy) - Simple proxy to restrict the MPC-HC web UI to protect sensitive actions/information.
