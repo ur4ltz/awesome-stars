@@ -198,6 +198,7 @@
 
 ## Assembly 
 
+- [gusmanb/ArkosTrackerToZXBasic](https://github.com/gusmanb/ArkosTrackerToZXBasic) - Commandline tool to convert Arkos Tracker 2 songs to ZX Basic source files
 - [zombu4/121GW-Open-Firmware](https://github.com/zombu4/121GW-Open-Firmware) - Open replacement firmware for the EEVblog 121GW multimeter in hand-written Thumb-2 assembly, with a full emulator
 - [drunkbatya/DrunkPC](https://github.com/drunkbatya/DrunkPC) - Operating system for homemade 8-bit Z80 computer
 - [profdc9/Z80SBC](https://github.com/profdc9/Z80SBC) - 
@@ -330,6 +331,28 @@
 
 ## C 
 
+- [gusmanb/micropicodrive](https://github.com/gusmanb/micropicodrive) - Internal microdrive replacement for the Sinclair QL
+- [evansm7/umac](https://github.com/evansm7/umac) - Micro Mac, minimalist Macintosh 128K emulator
+- [elehobica/pico_fatfs](https://github.com/elehobica/pico_fatfs) - FatFs library for Raspberry Pi Pico / Pico 2 with SPI interface
+- [gusmanb/pico-mac-dvi](https://github.com/gusmanb/pico-mac-dvi) - Modification of pico-mac to work with DVI
+- [ARMmbed/mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
+- [dlbeer/dhara](https://github.com/dlbeer/dhara) - NAND flash translation layer for low-memory systems
+- [Hermann-SW/pshell](https://github.com/Hermann-SW/pshell) - tiny shell for Pico, with Vi
+- [gamblor21/rp2040-logic-analyzer](https://github.com/gamblor21/rp2040-logic-analyzer) - Using a RP2040 Pico as a basic logic analyzer, exporting CSV data to read in sigrok / Pulseview
+- [openXsensor/openXsensor](https://github.com/openXsensor/openXsensor) - Arduino Telemetry for the RC world
+- [dgatf/openXsensor](https://github.com/dgatf/openXsensor) - Arduino Telemetry for the RC world
+- [kilograham/rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
+- [dgatf/usb_library_rp2040](https://github.com/dgatf/usb_library_rp2040) - A fast and lightweight USB device library for RP2040.
+- [dgatf/PicoIRX](https://github.com/dgatf/PicoIRX) - PicoIRX: captures and reproduces infrared remote control signals using the RP2040.
+- [dgatf/I2C-slave-multi-address-RP2040](https://github.com/dgatf/I2C-slave-multi-address-RP2040) - I2C slave protocol to answer to multiple addresses for the RP2040
+- [dgatf/libsigrok](https://github.com/dgatf/libsigrok) - Read-only mirror of the official repo at git://sigrok.org/libsigrok. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [dgatf/PicoMSO](https://github.com/dgatf/PicoMSO) - RP2040/RP2350-based mixed-signal oscilloscope (logic analyzer + analog capture) with PulseView/libsigrok support.
+- [sigrokproject/sigrok-firmware-fx2lafw](https://github.com/sigrokproject/sigrok-firmware-fx2lafw) - Read-only mirror of the official repo at git://sigrok.org/sigrok-firmware-fx2lafw. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [sigrokproject/sigrok-cli](https://github.com/sigrokproject/sigrok-cli) - Read-only mirror of the official repo at git://sigrok.org/sigrok-cli. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [sigrokproject/sigrok-test](https://github.com/sigrokproject/sigrok-test) - Read-only mirror of the official repo at git://sigrok.org/sigrok-test. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [sigrokproject/libserialport](https://github.com/sigrokproject/libserialport) - Read-only mirror of the official repo at git://sigrok.org/libserialport. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [sigrokproject/libsigrok](https://github.com/sigrokproject/libsigrok) - Read-only mirror of the official repo at git://sigrok.org/libsigrok. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [dgatf/logic_analyzer_rp2040](https://github.com/dgatf/logic_analyzer_rp2040) - A logic analyzer for RP2040 compatible with SUMP protocol
 - [mireq/ILI9481-esp32-driver](https://github.com/mireq/ILI9481-esp32-driver) - 
 - [whitecatboard/Lua-RTOS-ESP8266](https://github.com/whitecatboard/Lua-RTOS-ESP8266) - Lua RTOS for ESP8266
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
@@ -1853,6 +1876,7 @@
 - [shawnchain/aprs](https://github.com/shawnchain/aprs) - The TinyAPRS firmware
 - [develersrl/bertos](https://github.com/develersrl/bertos) - Bertos free RTOS: http://dev.bertos.org
 - [hughbarney/femto](https://github.com/hughbarney/femto) - Femto, an extended version of Atto Emacs with a Tiny Lisp extension language
+- [FemtoEmacs/Femto-Emacs](https://github.com/FemtoEmacs/Femto-Emacs) - Tiny emacs clone with configuring in FemtoLisp
 - [eerimoq/simba](https://github.com/eerimoq/simba) - Simba Embedded Programming Platform.
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [adamdunkels/uip](https://github.com/adamdunkels/uip) - The historical uIP sources
@@ -2039,6 +2063,12 @@
 
 ## C++ 
 
+- [dgatf/OpenHantek6022](https://github.com/dgatf/OpenHantek6022) - OpenHantek6022 is a DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL. Development OS is Debian Linux, but the program also works on FreeBSD, MacOS, RaspberryPi and Windows. No supp
+- [OpenHantek/OpenHantek6022](https://github.com/OpenHantek/OpenHantek6022) - OpenHantek6022 is a DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL. Development OS is Debian Linux, but the program also works on FreeBSD, MacOS, RaspberryPi and Windows. No supp
+- [dgatf/pulseview](https://github.com/dgatf/pulseview) - Read-only mirror of the official repo at git://sigrok.org/pulseview. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [sigrokproject/libsigrokflow](https://github.com/sigrokproject/libsigrokflow) - Read-only mirror of the official repo at git://sigrok.org/libsigrokflow. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla. https://sigrok.org/wiki/Libsigrokflow
+- [sigrokproject/pulseview](https://github.com/sigrokproject/pulseview) - Read-only mirror of the official repo at git://sigrok.org/pulseview. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [derdacavga/rpi-pico-sy7789-lovganGfx-configuration](https://github.com/derdacavga/rpi-pico-sy7789-lovganGfx-configuration) - this projeject for use a st7789 with lovyangfx on raspberry pi pico
 - [Waziup/arduino-wazicloud](https://github.com/Waziup/arduino-wazicloud) - 
 - [NerdBishop/DelaliSense32](https://github.com/NerdBishop/DelaliSense32) - Delali Sense 32 is an ESP32-S3 based development board aimed at providing a compact, power-efficient solution for makers, hobbyists and anyone experimenting with ESP32-based IoT projects
 - [NerdBishop/Arduino](https://github.com/NerdBishop/Arduino) - Resources for Arduino based projects
@@ -3883,7 +3913,6 @@
 - [davatorium/rofi-themes](https://github.com/davatorium/rofi-themes) - Themes for Rofi
 - [cyrinux/arc-gruvbox-theme](https://github.com/cyrinux/arc-gruvbox-theme) - Arc grey based theme with some gruvboxed color
 - [pradyungn/dotfiles](https://github.com/pradyungn/dotfiles) - A collection of my Linux Dotfiles!
-- [Murzchnvok/dotfiles](https://github.com/Murzchnvok/dotfiles) - My bspwm dotfiles.
 - [davay/dotfiles_archive](https://github.com/davay/dotfiles_archive) - A collection of dotfiles from my i3 setup
 - [xsisec/openbox_themes](https://github.com/xsisec/openbox_themes) - 
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
@@ -4813,7 +4842,7 @@
 - [ianyepan/wilmersdorf-emacs-theme](https://github.com/ianyepan/wilmersdorf-emacs-theme) - An original theme with dark subtle syntax highlighting
 - [ianyepan/.wsl-emacs.d](https://github.com/ianyepan/.wsl-emacs.d) - 😈My personal Emacs configuration on Arch & Ubuntu
 - [ianyepan/tron-legacy-emacs-theme](https://github.com/ianyepan/tron-legacy-emacs-theme) - Original retro-futuristic theme inspired by Tron: Legacy
-- [ChristianChiarulli/Emacs](https://github.com/ChristianChiarulli/Emacs) - makes sure to clone into current directory
+- [chrisatmachine/Emacs](https://github.com/chrisatmachine/Emacs) - makes sure to clone into current directory
 - [danielmartin/regexp-expand](https://github.com/danielmartin/regexp-expand) - Show the ELisp regular expression at point in rx form.
 - [0pendev/dotfiles](https://github.com/0pendev/dotfiles) - Just my dotfiles
 - [georgek/magit-pretty-graph](https://github.com/georgek/magit-pretty-graph) - A prettier graph for magit drawn in emacs
@@ -5119,6 +5148,7 @@
 
 ## G-code 
 
+- [dgatf/oscilloscope_rp2040](https://github.com/dgatf/oscilloscope_rp2040) - Oscilloscope for the RP2040 - OpenHantek protocol
 - [petrows/smarthome-co2-module](https://github.com/petrows/smarthome-co2-module) - Simple CO2 sensor based on ESP8266 and Senseair S8 + MQTT
 - [Fmulder007/Karat-3FM](https://github.com/Fmulder007/Karat-3FM) - Karat-3FM
 - [Fmulder007/Karat-3.5](https://github.com/Fmulder007/Karat-3.5) - Karat-3.5
@@ -5711,6 +5741,8 @@
 
 ## Java 
 
+- [dgatf/jlac](https://github.com/dgatf/jlac) - Sump's Logic Analyzer Client
+- [syntelos/jlac](https://github.com/syntelos/jlac) - Sump's Logic Analyzer Client
 - [redhat-developer/lsp4ij](https://github.com/redhat-developer/lsp4ij) - LSP & DAP Client for IntelliJ
 - [rusefi/KiCad-utils](https://github.com/rusefi/KiCad-utils) - A collection of tools for command line KiCad file manipulation.
 - [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
@@ -5810,6 +5842,7 @@
 
 ## JavaScript 
 
+- [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 - [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync) - SessionSync
 - [shayanline/devin-vscode](https://github.com/shayanline/devin-vscode) - A native VS Code chat panel for the Devin CLI, built on the Agent Client Protocol (ACP). Streaming replies, per workspace sessions, model/mode pickers, and trackable diffs.
 - [magicoflolis/Magic-PH](https://github.com/magicoflolis/Magic-PH) - A video downloader for various adult websites
@@ -5938,6 +5971,7 @@
 - [ceifa/demoon](https://github.com/ceifa/demoon) - Lua + Node = demoon
 - [tree-sitter-grammars/tree-sitter-query](https://github.com/tree-sitter-grammars/tree-sitter-query) - TS query grammar for tree-sitter
 - [urbanguacamole/torrent-paradise](https://github.com/urbanguacamole/torrent-paradise) - Decentralized DHT search site for IPFS
+- [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [Harry-Ross/c-snippets](https://github.com/Harry-Ross/c-snippets) - A simple extension for Visual Studio Code snippets for the C programming language.
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
@@ -6009,7 +6043,7 @@
 - [shime/livedown](https://github.com/shime/livedown) - Live Markdown previews for your favorite editor.
 - [radareorg/radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language!
 - [begoon/i8080-js](https://github.com/begoon/i8080-js) - Intel 8080 (KR580VM80A) core model in JavaScript
-- [ChristianChiarulli/github-finder](https://github.com/ChristianChiarulli/github-finder) - 
+- [chrisatmachine/github-finder](https://github.com/chrisatmachine/github-finder) - 
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
@@ -6242,7 +6276,7 @@
 
 - [lua-rocks/atom-textadept-light-ui](https://github.com/lua-rocks/atom-textadept-light-ui) - 
 - [lua-rocks/atom-textadept-light-syntax](https://github.com/lua-rocks/atom-textadept-light-syntax) - 
-- [ChristianChiarulli/blog](https://github.com/ChristianChiarulli/blog) - My blog created with React, Gatsby & Markdown
+- [chrisatmachine/blog](https://github.com/chrisatmachine/blog) - My blog created with React, Gatsby & Markdown
 - [kevinsawicki/monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
 - [winston0410/atom-setting](https://github.com/winston0410/atom-setting) - 
 - [luishdez/flat-flags](https://github.com/luishdez/flat-flags) - Flat flags icons with CSS Sprites
@@ -6333,7 +6367,7 @@
 - [fredrikaverpil/neotest-golang](https://github.com/fredrikaverpil/neotest-golang) - Reliable Neotest adapter for running Go tests in Neovim.
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [adibhanna/gruvdark.nvim](https://github.com/adibhanna/gruvdark.nvim) - Gruvdark: Neovim colorscheme
-- [ChristianChiarulli/onedark.nvim](https://github.com/ChristianChiarulli/onedark.nvim) - My take on the iconic Onedark colorscheme
+- [chrisatmachine/onedark.nvim](https://github.com/chrisatmachine/onedark.nvim) - My take on the iconic Onedark colorscheme
 - [adibhanna/nvim-notes](https://github.com/adibhanna/nvim-notes) - Minimal Notes App for Neovim
 - [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) - Simple markdown support for Neovim
 - [adibhanna/forest-night.nvim](https://github.com/adibhanna/forest-night.nvim) - Forest Night Theme - Neovim
@@ -6414,6 +6448,7 @@
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 6200+ neovim plugins database with automatic installation! 🚀
 - [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) - Tabout plugin for Neovim
 - [gregorias/coop.nvim](https://github.com/gregorias/coop.nvim) - A Neovim plugin for readable concurrency with coroutines.
+- [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
 - [Gl00ria/nvim](https://github.com/Gl00ria/nvim) - 
 - [koreader/ffi-cdecl](https://github.com/koreader/ffi-cdecl) - Automated C declaration extraction for FFI interfaces
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
@@ -7692,7 +7727,7 @@
 - [crispgm/nvim-go](https://github.com/crispgm/nvim-go) - A minimal implementation of Golang development plugin for Neovim
 - [tamago324/lir-git-status.nvim](https://github.com/tamago324/lir-git-status.nvim) - Git status integration of lir.nvim
 - [nyngwang/PinLine](https://github.com/nyngwang/PinLine) - 
-- [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim) - My neovim config
+- [chrisatmachine/nvim](https://github.com/chrisatmachine/nvim) - My neovim config
 - [delphinus/dwm.nvim](https://github.com/delphinus/dwm.nvim) - 
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) - Let's just use a formatter and never discuss formatting again.
 - [notjedi/nvim-rooter.lua](https://github.com/notjedi/nvim-rooter.lua) - minimal implementation of vim-rooter in lua.
@@ -9090,6 +9125,7 @@
 
 ## Makefile 
 
+- [sigrokproject/sigrok-firmware](https://github.com/sigrokproject/sigrok-firmware) - Read-only mirror of the official repo at git://sigrok.org/sigrok-firmware. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
 - [stm32duino/ArduinoModule-CMSIS](https://github.com/stm32duino/ArduinoModule-CMSIS) - CMSIS module for Arduino IDE
 - [LuisAGC/micromenu-v2](https://github.com/LuisAGC/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
 - [abcminiuser/micromenu-v2](https://github.com/abcminiuser/micromenu-v2) - Tiny text-orientated menu library in C for embedded use.
@@ -9189,7 +9225,6 @@
 
 - [tinted-theming/tinted-xresources](https://github.com/tinted-theming/tinted-xresources) - Base16 and Base24 for Xresources
 - [chriskempson/base16-textmate](https://github.com/chriskempson/base16-textmate) - Base16 for TextMate & Sublime
-- [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 - [tinted-theming/base16-i3](https://github.com/tinted-theming/base16-i3) - 
 - [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty) - Base16 for Alacritty
 
@@ -9297,6 +9332,8 @@
 
 ## Others 
 
+- [pustowhite/rp2040-logic-analyzer](https://github.com/pustowhite/rp2040-logic-analyzer) - An 8-channel RP2040 logic analyzer PCB designed in KiCad, with USB-C and selectable 1.8 V / 3.3 V input logic modes.
+- [dotcypress/kicad-lib](https://github.com/dotcypress/kicad-lib) - 
 - [WeActStudio/WeActStudio.I2SSpeakerModuleV1](https://github.com/WeActStudio/WeActStudio.I2SSpeakerModuleV1) - PCM5100A I2S Speaker Module
 - [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [pzl/Canned-Heat](https://github.com/pzl/Canned-Heat) - Reverse engineering and exploring of the Tyco® RC Canned Heat™ remote controlled car for educational purposes
@@ -9652,7 +9689,6 @@
 - [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository.
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [esquires/neorg-gtd-project-tags](https://github.com/esquires/neorg-gtd-project-tags) - Provides a view of tasks grouped with a project tag.
-- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [lalitmee/awesome-stars](https://github.com/lalitmee/awesome-stars) - A curated list of my GitHub stars!
 - [shaunsingh/base16-doom-vibrant](https://github.com/shaunsingh/base16-doom-vibrant) - 
 - [shaunsingh/base16-nanodark-scheme](https://github.com/shaunsingh/base16-nanodark-scheme) - 
@@ -10146,6 +10182,8 @@
 
 ## Python 
 
+- [sigrokproject/sigrok-meter](https://github.com/sigrokproject/sigrok-meter) - Read-only mirror of the official repo at git://sigrok.org/sigrok-meter. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [sigrokproject/libsigrokdecode](https://github.com/sigrokproject/libsigrokdecode) - Read-only mirror of the official repo at git://sigrok.org/libsigrokdecode. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
 - [mireq/http-status-pages](https://github.com/mireq/http-status-pages) - HTTP error / status pages for web servers like nginx, apache2 ...
 - [Icaro0310/devin-explore](https://github.com/Icaro0310/devin-explore) - Diagnose a Devin Desktop install: stores, schema, locks, config, disk - concrete fixes
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
@@ -10484,7 +10522,6 @@
 - [not-kennethreitz/pipenvlib](https://github.com/not-kennethreitz/pipenvlib) - A library for manipulating Pipenv projects.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [kennethreitz/requests](https://github.com/kennethreitz/requests) - A simple, yet elegant HTTP library.
-- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes
 - [wagiminator/ATtiny814-AquaTimer](https://github.com/wagiminator/ATtiny814-AquaTimer) - Programmable Timer for Aquariums
 - [seleznevae/fort](https://github.com/seleznevae/fort) - CLI (command line utility) to create formatted tables in console
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -10823,7 +10860,7 @@
 - [elgatito/plugin.video.elementum](https://github.com/elgatito/plugin.video.elementum) - Elementum add-on for Kodi.
 - [vitvly/neovimiscellany](https://github.com/vitvly/neovimiscellany) - 
 - [sleduc/weechat-xmpp](https://github.com/sleduc/weechat-xmpp) - A fork of the jabber plugin for weechat
-- [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
+- [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent Client
 - [ajlende/dotbot-pacaur](https://github.com/ajlende/dotbot-pacaur) - dotbot pacaur plugin
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
@@ -11056,6 +11093,7 @@
 
 ## QML 
 
+- [dgatf/Oscilloscope](https://github.com/dgatf/Oscilloscope) - An Oscilloscope application that reads the values at the serial port, that can be generated by an Arduino board
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 
@@ -11074,6 +11112,7 @@
 
 ## Rich Text Format 
 
+- [sigrokproject/sigrok-dumps](https://github.com/sigrokproject/sigrok-dumps) - Read-only mirror of the official repo at git://sigrok.org/sigrok-dumps. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
 
 ## Roff 
@@ -11087,7 +11126,7 @@
 ## Ruby 
 
 - [agama-project/agama](https://github.com/agama-project/agama) - A service-based Linux installer
-- [hsluv/hsluv-ruby](https://github.com/hsluv/hsluv-ruby) - Ruby implementation of HSLuv (revision 3)
+- [hsluv/hsluv-ruby](https://github.com/hsluv/hsluv-ruby) - Ruby implementation of HSLuv (revision 4)
 - [junegunn/heytmux](https://github.com/junegunn/heytmux) - Tmux scripting made easy
 - [junegunn/everything.fzf](https://github.com/junegunn/everything.fzf) - :bagel: fzf all the things!
 - [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - 
@@ -11202,6 +11241,7 @@
 
 ## Rust 
 
+- [rp-rs/rp-hal-boards](https://github.com/rp-rs/rp-hal-boards) - Board Support Packages for RP2040 based PCBs
 - [halilkhrmn/dpimech](https://github.com/halilkhrmn/dpimech) - Cross platform DPI bypass manager with some extra things
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
@@ -11517,10 +11557,12 @@
 - [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Now Updated to Debian 13) se
 - [listentolist/kakoune-rainbow](https://github.com/listentolist/kakoune-rainbow) - rainbow brackets plugin for the Kakoune text editor
 - [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) - a lightweight, robust, scheme-like lisp implementation
-- [FemtoEmacs/Femto-Emacs](https://github.com/FemtoEmacs/Femto-Emacs) - Tiny emacs clone with configuring in FemtoLisp
 
 ## Shell 
 
+- [dgatf/sigrok-build](https://github.com/dgatf/sigrok-build) - Read-only mirror of the official repo at git://sigrok.org/sigrok-build. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [sigrokproject/sigrok-util](https://github.com/sigrokproject/sigrok-util) - Read-only mirror of the official repo at git://sigrok.org/sigrok-util. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
+- [sigrokproject/sigrok-build](https://github.com/sigrokproject/sigrok-build) - Read-only mirror of the official repo at git://sigrok.org/sigrok-build. Pull requests welcome. Please file bugreports at sigrok.org/bugzilla.
 - [dkms-project/dkms](https://github.com/dkms-project/dkms) - Dynamic Kernel Module System
 - [lettepa/fish](https://github.com/lettepa/fish) - Lettepa for Fish
 - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
@@ -11608,7 +11650,6 @@
 - [sepen/arradio-player](https://github.com/sepen/arradio-player) - Play audio streams from macOS Terminal or Linux shell
 - [sepen/monitors](https://github.com/sepen/monitors) - Script to manage dual-monitor configurations using  xrandr
 - [sepen/arradio](https://github.com/sepen/arradio) - Fetch and play internet radio stations directly from the command line
-- [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles
 - [OXY2DEV/fish](https://github.com/OXY2DEV/fish) - 
 - [PatrickF1/dotfiles](https://github.com/PatrickF1/dotfiles) - dotfiles for macOS, fish, VSCode
 - [oh-my-fish/plugin-osx](https://github.com/oh-my-fish/plugin-osx) - Integration with Finder and iTunes.
@@ -12010,7 +12051,6 @@
 - [tamago324/compe-zsh](https://github.com/tamago324/compe-zsh) - zsh completion source for nvim-compe
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
-- [keymon/dotfiles](https://github.com/keymon/dotfiles) - My home dotfiles
 - [drewbrokke/nscript](https://github.com/drewbrokke/nscript) - Quickly create and manage shell scripts
 - [drewbrokke/enhanced-git-log](https://github.com/drewbrokke/enhanced-git-log) - 
 - [drewbrokke/git-fuzzy-checkout](https://github.com/drewbrokke/git-fuzzy-checkout) - Check out and manage git branches painlessly with the power of fzf
@@ -12187,6 +12227,7 @@
 - [jbomanson/config](https://github.com/jbomanson/config) - Some configuration files that I use
 - [jbomanson/search-doc.kak](https://github.com/jbomanson/search-doc.kak) - Ease browsing of kakoune documentation
 - [fubarhouse/dotfiles-linux](https://github.com/fubarhouse/dotfiles-linux) - My Linux configuration.
+- [Murzchnvok/dotfiles](https://github.com/Murzchnvok/dotfiles) - My bspwm dotfiles.
 - [tom-on-the-internet/sticky-notes](https://github.com/tom-on-the-internet/sticky-notes) - Sticky Notes on your tiling window manager
 - [tom-on-the-internet/fuzzy-clock](https://github.com/tom-on-the-internet/fuzzy-clock) - A bash script that prints the current(ish) time
 - [mradigen/forester](https://github.com/mradigen/forester) - Dotfiles for my i3-gaps rice 'Forester'.
@@ -12229,7 +12270,7 @@
 - [skiselev/omega](https://github.com/skiselev/omega) - Omega Home Computer
 - [radareorg/radare2-pm](https://github.com/radareorg/radare2-pm) - Package Manager for Radare2
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
+- [chrisatmachine/machfiles](https://github.com/chrisatmachine/machfiles) - The dotfiles you see in all my videos
 - [haikuports/haikuports](https://github.com/haikuports/haikuports) - Software ports for the Haiku operating system.
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
@@ -12415,7 +12456,7 @@
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [arduino/toolchain-avr](https://github.com/arduino/toolchain-avr) - The AVR toolchain used by the Arduino IDE
 - [thenigan/git-diffall](https://github.com/thenigan/git-diffall) - Script to perform directory diffs using an external diff tool in Git
 - [sjl/learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
@@ -13258,7 +13299,7 @@
 - [LucHermitte/lh-misc](https://github.com/LucHermitte/lh-misc) - 
 - [LucHermitte/vim-build-tools-wrapper](https://github.com/LucHermitte/vim-build-tools-wrapper) - Projects building plugin for Vim
 - [LucHermitte/lh-brackets](https://github.com/LucHermitte/lh-brackets) - LH's bracketing system for vim
-- [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - A bunch of generated colorschemes (treesitter supported)
+- [chrisatmachine/nvcode-color-schemes.vim](https://github.com/chrisatmachine/nvcode-color-schemes.vim) - A bunch of generated colorschemes (treesitter supported)
 - [LoydAndrew/nvim](https://github.com/LoydAndrew/nvim) - 
 - [habamax/vim-select-more](https://github.com/habamax/vim-select-more) - Extension to vim-select plugin
 - [rbtnn/vim-mru](https://github.com/rbtnn/vim-mru) - Most Recently Used using +popupwin feature
